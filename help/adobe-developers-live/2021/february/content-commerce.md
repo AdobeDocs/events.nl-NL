@@ -1,0 +1,31 @@
+---
+title: Inhoud en handel met Adobe Experience Manager as a Cloud Service
+description: Deze sessie helpt ontwikkelaars om aan de slag te gaan met Commerce op Adobe Experience Manager as a Cloud Service - van de lokale installatie van Adobe Experience Manager SDK + Commerce Integration Framework tot Adobe Experience Manager & Magento in de cloud. Deze sessie is afgeleverd als onderdeel van de Adobe Developers Live Content-gebeurtenis.
+solution: Experience Manager,Experience Manager Sites, Commerce
+product: experience manager
+sub-product: sites
+feature: Commerce Integration Framework
+topic: Development
+role: Developer
+level: Experienced
+version: Cloud Service
+kt: 7188
+type: Event
+thumbnail: 331851.jpg
+source-git-commit: 184c50f1424d2e49da6e84f88a111397e2541153
+workflow-type: tm+mt
+source-wordcount: '125'
+ht-degree: 0%
+
+---
+
+
+# Inhoud en handel met Adobe Experience Manager as a Cloud Service
+
+Deze sessie helpt ontwikkelaars om aan de slag te gaan met Commerce op Adobe Experience Manager as a Cloud Service - van de lokale installatie van Adobe Experience Manager SDK + Commerce Integration Framework tot Adobe Experience Manager &amp; Magento in de cloud.
+
+Doorgaan met gesprek in **[Experiencen League](http://adobe.ly/36Yd3v6)**.
+
+>[!VIDEO](https://video.tv.adobe.com/v/331851/?quality=12&learn=on&hidetitle=true)
+
+Klikken **[hier](/help/adobe-developers-live/assets/content-commerce.pdf)** voor de sessiedia&#39;s.
