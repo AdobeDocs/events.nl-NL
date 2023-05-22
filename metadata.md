@@ -6,8 +6,8 @@ description: Verzameling opnamen van de live-gestreamde gebeurtenissen van Adobe
 type: Event
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/events.nl-NL
-hide: true
-source-git-commit: fa7aa346db744f390ec839472cd978caf983a976
+index: true
+source-git-commit: 01971230eeaa291ac8f9130ece58484e925d611a
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 83%
