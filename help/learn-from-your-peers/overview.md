@@ -10,8 +10,6 @@ ht-degree: 0%
 
 # [!DNL Experience Makers - Learn from your peers] {#overview}
 
-&lt;!— <img alt="Ervaar de Makers van uw edelen Leren" src="./assets/skill-exchange.png" /> --->
-
 Leer van Adobe experts en peers hoe u het beste kunt halen uit uw Adobe-oplossingen. Met onderwerpen geselecteerd voor artsen, _door_ praktijkmensen uit deze interactieve sessies delen &quot; illustraties van de mogelijke &quot; gebruiksscenario &#39; s , best practices en tips en trucs .
 
 >[!TIP]
