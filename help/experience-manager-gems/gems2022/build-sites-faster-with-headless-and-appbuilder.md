@@ -10,9 +10,9 @@ role: Developer
 level: Intermediate
 kt: 10053
 thumbnail: 341311.jpeg
-source-git-commit: 5d20c88e799787b91a4f224efcdeb917ccdd259f
+source-git-commit: 75f8d18c3394ff4997322db4745d8cd1004481ec
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
@@ -28,8 +28,7 @@ U kunt apps van één pagina (SPA) snel opstarten en implementeren met behulp va
 Dit webinar werd uitgevoerd op 23 maart 2022 en gepresenteerd door Duy Nguyen, Software Development Engineer
 
 >[!MORELIKETHIS]
->
->* [Overeenkomende Adobe Experience Manager-gebruikersgroepgebeurtenispagina](https://aem-augs.adobe.com/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-build-sites-faster-with-aem-headless-and-app-builder/)
+<!-- >>* [Corresponding Adobe Experience Manager User Group Event page](https://aem-augs.adobe.com/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-build-sites-faster-with-aem-headless-and-app-builder/) -->
 >* [Overeenkomende contextuele thread](https://adobe.ly/3LkSWdm)
 >* Meld u aan bij [Adobe](https://aem-augs.adobe.com/) om op de hoogte te worden gebracht van komende webinars.
 

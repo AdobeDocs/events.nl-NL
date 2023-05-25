@@ -7,9 +7,9 @@ role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner, Intermediate, Experienced
 kt: 10633
 thumbnail: 344312.jpeg
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+source-git-commit: 75f8d18c3394ff4997322db4745d8cd1004481ec
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
@@ -23,5 +23,5 @@ Met al het lawaai op de markt over CDPs, is het moeilijk om te weten waar te con
 ## Aanvullende informatie
 
 *[Beste praktijken van mensen en van het Proces voor het Beheer van Gegevens van de Klant](people-and-process.md)
-*[Bouw Uitstekende Ervaring met uw Gegevens van de Eerste Partij](https://experienceleague.adobe.com/docs/customer-data-management-voices-events/build-superb-experiences-with-your-first-party-data.html)
+*[Bouw Uitstekende Ervaring met uw Gegevens van de Eerste Partij](https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/industry/build-superb-experiences-with-your-first-party-data.html)
 *[Casestudy - TSB-banken over realtime dataporalisatie voor elke klant.](https://business.adobe.com/customer-success-stories/tsb-case-study.html)

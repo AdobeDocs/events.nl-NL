@@ -8,9 +8,9 @@ event-cta-url: null
 event-start-time: 2022-05-26 09:00-7
 event-guests: Doug Moore, Eric Matisoff, Rudi Shumpert, Jeff Chasin
 exl-id: b2ea730b-d4ad-4be0-b229-7063369cba7f
-source-git-commit: 17070f55bae19ef0751a2c7c536af7758e31affc
+source-git-commit: 75f8d18c3394ff4997322db4745d8cd1004481ec
 workflow-type: tm+mt
-source-wordcount: '251'
+source-wordcount: '252'
 ht-degree: 1%
 
 ---
@@ -35,5 +35,5 @@ In dit eerste van drie livestreamzittingen betreffende gegevensinzameling voor A
 * [Gratis Web SDK-provisioning](https://adobe.ly/websdkaccess){target="_blank"}
 * [Informatie over apparaat-id&#39;s van eerste partij in de SDK van het web](https://experienceleague.adobe.com/docs/experience-platform/edge/identity/first-party-device-ids.html){target="_blank"}
 * [Overzicht en download van Adobe Experience Platform Debugger](https://experienceleague.adobe.com/docs/platform-learn/data-collection/debugger/overview.html?lang=en){target="_blank"}
-* [Mobiele SDK-documenten](https://aep-sdks.gitbook.io/docs/){target="_blank"}
+* [Mobiele SDK-documenten](https://developer.adobe.com/client-sdks/documentation/){target="_blank"}
 * [Informatie over hybride toepassingsverzameling](https://experienceleague.adobe.com/docs/mobile-services/ios/sdk-reference-ios/hybrid-app.html){target="_blank"}
