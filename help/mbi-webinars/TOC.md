@@ -2,7 +2,7 @@
 user-guide-title: MBI Events
 breadcrumb-title: MBI Events
 user-guide-description: MBI Events is een videobibliotheek waar experts en collega's hun gedachten en ideeën over Adobe Commerce hebben gedeeld.
-source-git-commit: 5dd2af910607eb5c69fc08d34001ecff9bbcb485
+source-git-commit: d266db05fdbb172f4600b720cf8ba445926ac8c9
 workflow-type: tm+mt
 source-wordcount: '54'
 ht-degree: 5%
@@ -22,7 +22,7 @@ ht-degree: 5%
    + [Gereedheid voor feestdagen met MBI](2021-22/holiday-readiness.md)
    + [MBI - Vraag het een expert](2021-22/ask-expert.md)
 
-<!---+ Commerce Events {#commerce-events}
+<!--+ Commerce Events {#commerce-events}
   + [Overview](commerce-events/overview.md)
   + 2022 {#2022}
     + [Top Tips and Tricks for Adobe Campaign Standard](customer-journeys/2022/tips-and-tricks.md)
@@ -35,4 +35,4 @@ ht-degree: 5%
     + [Sensei and Analysis Workspace](data-and-insights/2022/sensei.md)
     + [Personalize and automate with Adobe Target](data-and-insights/2022/personalize.md)
     + [Analytics and Target applications for Mobile and Apps](data-and-insights/2022/mobile-and-apps.md)
-    + [Cross Device Analytics and Customer Journey Analytics](data-and-insights/2022/cross-device-analytics.md) --->
+    + [Cross Device Analytics and Customer Journey Analytics](data-and-insights/2022/cross-device-analytics.md) -->

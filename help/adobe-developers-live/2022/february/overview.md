@@ -2,7 +2,7 @@
 title: Adobe Developers Live februari 2022
 description: Een verzameling video's en zelfstudies voor Adobe Experience Manager Sites die zijn geleverd als onderdeel van de Adobe Developers Live-gebeurtenis.
 sub-product: sites, content-services
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+source-git-commit: d266db05fdbb172f4600b720cf8ba445926ac8c9
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Adobe Developers Live: De Handel 2022 brengt ontwikkelaars en ervaringsbouwers met diverse achtergronden en een enig doel samen - om ongelooflijke ervaring van begin tot eind te creëren. Deze virtuele conferentie van één dag zal belangrijke updates van de Handel en van de Ontwikkelaar Open Bron, technische zittingen, van het communautaire voorzien van een netwerkkansen en meer omvatten.
 
-<!--- 
+<!-- 
 ## Highlights
 
 <table>
@@ -62,7 +62,7 @@ Adobe Developers Live: De Handel 2022 brengt ontwikkelaars en ervaringsbouwers m
    </td> 
   </tr>
 </table>
---->
+-->
 
 >[!TIP]
 >

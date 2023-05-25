@@ -1,7 +1,7 @@
 ---
 title: De Makers van de ervaring de Uitwisseling van de Vaardigheid
 description: De Makers van de ervaring de Uitwisseling van de Vaardigheid is een globale reeks virtuele klanten leergebeurtenissen, die zich op het divers in de oplossingen van Adobe Experience Cloud concentreren.
-source-git-commit: 284ccf5a5cebf2f813dbe2b8df98a8cb325526a3
+source-git-commit: d266db05fdbb172f4600b720cf8ba445926ac8c9
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
@@ -40,7 +40,7 @@ De Makers van de ervaring de Uitwisseling van de Vaardigheid is een globale reek
       </a>
       <div>
          <a href="analytics/jun2021/getting-started.md"><strong>Aan de slag met Adobe Analytics</strong></a>
-<!----         <br/><em>foo</em> --->
+<!---         <br/><em>foo</em> -->
       </div>
       <p>
         <br/>
@@ -53,7 +53,7 @@ De Makers van de ervaring de Uitwisseling van de Vaardigheid is een globale reek
       </a>
       <div>
          <a href="marketo/feb2022/data-maintenance.md"><strong>Gegevensonderhoud</strong></a>
-<!----         <br/><em>foo</em> --->
+<!---         <br/><em>foo</em> -->
       </div>
       <p>
         <br/>
@@ -66,7 +66,7 @@ De Makers van de ervaring de Uitwisseling van de Vaardigheid is een globale reek
       </a>
       <div>
          <a href="workfront/apr2022/ten-tips.md"><strong>10 tips voor wauw je Workfront</strong></a>
-<!----         <br/><em>foo</em> --->
+<!---         <br/><em>foo</em> -->
       </div>
       <p>
         <br/>
