@@ -5,9 +5,10 @@ solution: Experience Platform,Real-time Customer Data Platform,Journey Optimizer
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 event-series: Experience League Live
-source-git-commit: f4953d9b0a3449d31e09877e11ef29524e3026fb
+exl-id: 80de5748-89c2-4680-8978-21aff75d5e32
+source-git-commit: 07619d719d0dd1429202686ca359c9744bec77c4
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '165'
 ht-degree: 1%
 
 ---
@@ -22,16 +23,8 @@ Experience League LIVE is een live streaming show die wordt gemaakt door het tea
 
 <table>
 <tr>
-  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-5-24-23.md">
-      <img alt="Experience League LIVE 24 mei" src="assets/May24_exl_live_banner_web_1920_WebBanner.png">
-    </a>
-    <div>
-      <a href="episodes/exl-live-episode-5-24-23.md">
-        <strong>Maximaliseer de mogelijkheden van uw mobiele app met Adobe Journey Optimizer</strong>
-      </a>
-      <br/><em>met Sandra Hausmann, Chetan Prasad en Peter Fransen</em>
-      <br/><em>24 mei 2023</em>
-    </div>
+  <td>
+    Kom binnenkort terug voor meer informatie. We zullen in juni 2023 TWEE shows organiseren, en we zullen binnenkort over de informatie beschikken.
   </td>
 </tr>
 </table>
