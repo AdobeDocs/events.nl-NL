@@ -1,7 +1,7 @@
 ---
 user-guide-title: Skill Builder
 user-guide-description: Dit is een beschrijving voor de gebruikershandleiding die op de landingspagina wordt weergegeven.
-source-git-commit: d266db05fdbb172f4600b720cf8ba445926ac8c9
+source-git-commit: 37202c8171ae1638888b80c55b39c42ce580355f
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 11%
@@ -44,8 +44,6 @@ ht-degree: 11%
       + [Reistrends en innovatie van klanten over B2B en B2C](customer-journeys/2022/keynote.md)
       + [Beter samen - Adobe Marketo Engage en Real-Time CDP](customer-journeys/2022/b2b-campaigns.md)
       + [B2B-ervaringen met Marketo Engage en Adobe Experience Cloud](customer-journeys/2022/b2b-experiences.md)
-
-<!--    + [Adobe Campaign Classic V7 vs V8](customer-journeys/2022/classic-v7-vs-v8.md) -->
 + Gegevens en inzichten {#data-and-insights}
    + [Overzicht](data-and-insights/overview.md)
    + 2022 {#2022}
@@ -54,3 +52,5 @@ ht-degree: 11%
       + [Personaliseren en automatiseren met Adobe Target](data-and-insights/2022/personalize.md)
       + [Analyses en doeltoepassingen voor mobiele apparaten en toepassingen](data-and-insights/2022/mobile-and-apps.md)
       + [Apparaatanalyse en Customer Journey Analytics](data-and-insights/2022/cross-device-analytics.md)
+
+<!--    + [Adobe Campaign Classic V7 vs V8](customer-journeys/2022/classic-v7-vs-v8.md) -->
