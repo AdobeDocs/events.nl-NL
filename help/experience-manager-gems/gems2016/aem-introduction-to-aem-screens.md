@@ -4,9 +4,10 @@ description: AEM Screens is de nieuwe digitale signaaloplossing die in Adobe Exp
 uuid: a6c42610-4a3d-4575-ac27-fc154d58c13d
 discoiquuid: c3001249-b443-420d-924c-b52e515026ef
 targetaudience: target-audience advanced
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 1beeb807-c3b3-425c-8053-06cd2d359c35
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '263'
 ht-degree: 0%
 
 ---
@@ -34,5 +35,10 @@ Voorbeeldproject
 
 ## Verwante koppelingen {#related-links}
 
-* [Schermen implementeren](https://docs.adobe.com/docs/en/aem/6-2/deploy/screens.html)
-* [Schermconcept](https://docs.adobe.com/docs/en/aem/6-2/administer/screens.html)
+
+>[!WARNING]
+>
+>AEM versies 6.4 en ouder zijn End of Life en worden niet meer door Adobe verkocht.  Adobe raadt u aan een upgrade uit te voeren naar de nieuwste versie - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  Gearchiveerde versies van de documentatie zijn vanuit deze [page](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html).
+>
+>Zie *Schermen implementeren* en *Schermconcept* in de AEM 6.2 documentatie.
+

@@ -4,7 +4,8 @@ description: Leer hoe u de AEM 6.0-gebruikersinterface kunt uitbreiden. Met de n
 uuid: 2937bc6f-9ae8-4acf-a965-a16ef6e56a16
 discoiquuid: b1c4e69a-bc0e-445c-8e3e-c03ead18e76e
 targetaudience: target-audience advanced
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 0604122c-2296-4db4-a70d-e9d11280b6bd
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
 source-wordcount: '190'
 ht-degree: 0%
@@ -30,7 +31,7 @@ De zitting begeleidt u door manieren om AEM gebruikersinterface uit te breiden 6
 
 ## Verwante koppelingen {#related-links}
 
-* [Aanraakinterface-concepten](http://docs.adobe.com/docs/en/aem/6-0/develop/the-basics/touch-ui-concepts.html)
-* [Structuur](http://docs.adobe.com/docs/en/aem/6-0/develop/the-basics/touch-ui-structure.html)
-* [De consoles aanpassen (interface met aanraakgeoptimaliseerde interface)](http://docs.adobe.com/docs/en/aem/6-0/develop/extending/customizing-consoles-touch.html)
-* [Paginaontwerp aanpassen (voor aanraking geoptimaliseerde gebruikersinterface)](http://docs.adobe.com/docs/en/aem/6-0/develop/extending/customizing-page-authoring-touch.html)
+* [Aanraakinterface-concepten](https://docs.adobe.com/docs/en/aem/6-0/develop/the-basics/touch-ui-concepts.html)
+* [Structuur](https://docs.adobe.com/docs/en/aem/6-0/develop/the-basics/touch-ui-structure.html)
+* [De consoles aanpassen (interface met aanraakgeoptimaliseerde interface)](https://docs.adobe.com/docs/en/aem/6-0/develop/extending/customizing-consoles-touch.html)
+* [Paginaontwerp aanpassen (voor aanraking geoptimaliseerde gebruikersinterface)](https://docs.adobe.com/docs/en/aem/6-0/develop/extending/customizing-page-authoring-touch.html)

@@ -1,8 +1,8 @@
 ---
-source-git-commit: 504ae54ecf4ea2a687e1aa3c90cf0e74734d4a9a
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
 source-wordcount: '294'
-ht-degree: 100%
+ht-degree: 98%
 
 ---
 # Bijdragen
@@ -29,7 +29,7 @@ consensus te bereiken over de projectrichting en probleemoplossingen binnen prob
 ## Licentieovereenkomst voor bijdragers
 
 Alle bijdragen van derden aan dit project moeten vergezeld gaan van een ondertekende 
-licentieovereenkomst voor bijdragers. Dit geeft Adobe de toestemming om uw bijdragen als deel van het project opnieuw te verdelen. [Onze CLA ondertekenen](http://opensource.adobe.com/cla.html). U
+licentieovereenkomst voor bijdragers. Dit geeft Adobe de toestemming om uw bijdragen als deel van het project opnieuw te verdelen. [Onze CLA ondertekenen](https://opensource.adobe.com/cla.html). U
 hoeft maar één keer een Adobe-CLA in te dienen, dus als u er al eerder een hebt ingediend,
 kunt u aan de slag.
 

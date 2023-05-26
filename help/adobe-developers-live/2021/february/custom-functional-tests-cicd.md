@@ -12,19 +12,19 @@ version: Cloud Service
 kt: 7409
 type: Event
 thumbnail: 332309.jpg
-source-git-commit: 184c50f1424d2e49da6e84f88a111397e2541153
+exl-id: c5819fbd-b0b0-4675-9f96-43ffb83c283a
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 0%
 
 ---
 
-
 # Aangepaste functionele tests voor veiligere CI/CD-leidingen
 
 Leer hoe u uw code in productie met vertrouwen kunt implementeren dankzij aangepaste functionele tests. De kwaliteit zou niet hard moeten zijn, zelfs niet op een drukke vrijdagmiddag.
 
-Doorgaan met gesprek in **[Experiencen League](http://adobe.ly/36Yd3v6)**.
+Doorgaan met gesprek in **[Experiencen League](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332309/?quality=12&learn=on&hidetitle=true)
 

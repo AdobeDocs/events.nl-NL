@@ -4,9 +4,10 @@ description: Het is lastig om snel complexe webervaringen te maken. In deze talk
 uuid: f6338645-e05f-4b57-b576-65645d9220ed
 discoiquuid: cad28317-da2a-4aa0-a7f1-549f19ca4de1
 targetaudience: target-audience advanced
-source-git-commit: 75f8d18c3394ff4997322db4745d8cd1004481ec
+exl-id: 8a66cda4-c856-415f-a1fd-cafc6909b7ee
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '296'
 ht-degree: 1%
 
 ---
@@ -29,6 +30,10 @@ Het is lastig om snel complexe webervaringen te maken. In deze talk zal Joel lic
 
 ## Verwante koppelingen {#related-links}
 
+>[!WARNING]
+>
+>AEM versies 6.4 en ouder zijn End of Life en worden niet meer door Adobe verkocht.  Adobe raadt u aan een upgrade uit te voeren naar de nieuwste versie - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  Gearchiveerde versies van de documentatie zijn vanuit deze [page](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html).
+
 Apache:\
 [https://httpd.apache.org/docs/trunk/mod/mod_http2.html](https://httpd.apache.org/docs/trunk/mod/mod_http2.html)
 
@@ -37,9 +42,6 @@ Webstandaarden:\
 [https://www.w3.org/TR/resource-hints/](https://www.w3.org/TR/resource-hints/)
 
 AEM:\
-[https://docs.adobe.com/docs/en/aem/6-2/develop/the-basics/clientlibs.html](https://docs.adobe.com/docs/en/aem/6-2/develop/the-basics/clientlibs.html)\
-[https://docs.adobe.com/docs/en/aem/6-2/develop/mobile-web/responsive.html](https://docs.adobe.com/docs/en/aem/6-2/develop/mobile-web/responsive.html)\
-[https://docs.adobe.com/docs/en/aem/6-2/develop/components/developer-mode.html](https://docs.adobe.com/docs/en/aem/6-2/develop/components/developer-mode.html)\
 [https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/configuring-performance.html](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/configuring-performance.html)
 
 AEM:\
@@ -48,7 +50,7 @@ AEM:\
 
 Derde partij:\
 [https://www.ampproject.org/docs/reference/amp-img.html](https://www.ampproject.org/docs/reference/amp-img.html)\
-[http://www.appelsiini.net/projects/lazyload](http://www.appelsiini.net/projects/lazyload)
+[https://www.appelsiini.net/projects/lazyload](https://www.appelsiini.net/projects/lazyload)
 
 JavaScript-prestaties:\
 [https://gist.github.com/paulirish/5d52fb081b3570c81e3a](https://gist.github.com/paulirish/5d52fb081b3570c81e3a)\

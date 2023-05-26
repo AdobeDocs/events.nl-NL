@@ -4,9 +4,10 @@ description: Wij beschrijven de eigenschappen van de indexen van Luik en hoe zij
 uuid: 7664c6b2-3f09-4de4-9ade-b934465ac829
 discoiquuid: f69d9c38-a316-4409-94b3-5ff576034bf3
 targetaudience: target-audience advanced
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 671b41ee-851b-460b-86d9-8b3a24587408
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---
@@ -34,5 +35,10 @@ Wij beschrijven de eigenschappen van de indexen van Luik en hoe zij kunnen worde
 
 ## Verwante koppelingen {#related-links}
 
-* [Oak-query&#39;s en indexering](https://docs.adobe.com/docs/en/aem/6-1/deploy/platform/queries-and-indexing.html)
+>[!WARNING]
+>
+>AEM versies 6.4 en ouder zijn End of Life en worden niet meer door Adobe verkocht.  Adobe raadt u aan een upgrade uit te voeren naar de nieuwste versie - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  Gearchiveerde versies van de documentatie zijn vanuit deze [page](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html).
+>
+>Zie *Oak-query&#39;s en indexering* in de AEM 6.1 documentatie.
+
 * [Oak-documentatie: Lucene-index](https://jackrabbit.apache.org/oak/docs/query/lucene.html)

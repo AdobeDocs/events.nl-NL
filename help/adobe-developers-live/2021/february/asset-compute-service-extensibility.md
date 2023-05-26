@@ -12,7 +12,8 @@ version: Cloud Service
 kt: 7186
 type: Event
 thumbnail: 331849.jpg
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 367217d0-5b22-4428-a70d-572aa56f2d09
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 0%
@@ -23,6 +24,6 @@ ht-degree: 0%
 
 Leer hoe u met Adobe Developer App Builder een aangepaste Asset compute-worker voor middelenverwerking kunt maken tijdens het opnemen in Adobe Experience Manager.
 
-Doorgaan met gesprek in **[Experiencen League](http://adobe.ly/36Yd3v6)**.
+Doorgaan met gesprek in **[Experiencen League](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331849/?quality=12&learn=on&hidetitle=true)

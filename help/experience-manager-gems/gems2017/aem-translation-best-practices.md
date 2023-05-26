@@ -4,9 +4,10 @@ description: In deze sessie presenteren we AEM 6.3-mogelijkheden en best practic
 uuid: 19ef8f6e-90ab-4724-9cc3-febe30543f00
 discoiquuid: 6a78c294-abc1-4ebb-bd9d-f9abe214ad98
 targetaudience: target-audience advanced
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: b68fee5a-1dac-4488-8725-ec6ef73db549
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '211'
 ht-degree: 0%
 
 ---
@@ -30,6 +31,8 @@ Mathias Siegel, Sr Product Manager, [!DNL AEM Sites], Adobe
 
 ## Verwante koppelingen {#related-links}
 
-* [AEM Sites-vertaaldocumenten](https://docs.adobe.com/docs/en/aem/6-3/administer/sites/translation.html)
-* [Meertalige middelen beheren](https://docs.adobe.com/docs/en/aem/6-3/author/assets/managing-assets-touch-ui/multilingual-assets.html)
-* [Documentatie over best practices voor vertaling](https://docs.adobe.com/docs/en/aem/6-3/administer/sites/translation/tc-bp.html)
+>[!WARNING]
+>
+>AEM versies 6.4 en ouder zijn End of Life en worden niet meer door Adobe verkocht.  Adobe raadt u aan een upgrade uit te voeren naar de nieuwste versie - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  Gearchiveerde versies van de documentatie zijn vanuit deze [page](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html).
+>
+>Zie *AEM Sites-vertaaldocumenten*, *Documentatie over best practices voor vertaling* en *Meertalige middelen beheren* in de documentatie AEM 6.3.

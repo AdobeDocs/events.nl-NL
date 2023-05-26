@@ -12,19 +12,19 @@ version: Cloud Service
 kt: 7188
 type: Event
 thumbnail: 331851.jpg
-source-git-commit: 184c50f1424d2e49da6e84f88a111397e2541153
+exl-id: 3c0af2d0-c672-4f69-b5c7-9467661fc15e
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 0%
 
 ---
 
-
 # Inhoud en handel met Adobe Experience Manager as a Cloud Service
 
 Deze sessie helpt ontwikkelaars om aan de slag te gaan met Commerce op Adobe Experience Manager as a Cloud Service - van de lokale installatie van Adobe Experience Manager SDK + Commerce Integration Framework tot Adobe Experience Manager &amp; Magento in de cloud.
 
-Doorgaan met gesprek in **[Experiencen League](http://adobe.ly/36Yd3v6)**.
+Doorgaan met gesprek in **[Experiencen League](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331851/?quality=12&learn=on&hidetitle=true)
 
