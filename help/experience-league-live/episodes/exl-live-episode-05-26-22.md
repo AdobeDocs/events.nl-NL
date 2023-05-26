@@ -3,12 +3,12 @@ title: Vraag het de experts - De grondbeginselen van Web SDK
 description: Meer informatie over de SDK van het Web. Wij zullen u alle grondbeginselen van SDK van het Web tonen, met inbegrip van het redeneren achter het, hoe het werkt, en belangrijke gebruiksgevallen die het macht geeft.
 solution: Data Collection,Experience Platform
 kt: 10412
-thumbnail: 343335.jpeg
+thumbnail: https://video.tv.adobe.com/v/343335?format=jpeg
 event-cta-url: null
 event-start-time: 2022-05-26 09:00-7
 event-guests: Doug Moore, Eric Matisoff, Rudi Shumpert, Jeff Chasin
 exl-id: b2ea730b-d4ad-4be0-b229-7063369cba7f
-source-git-commit: 75f8d18c3394ff4997322db4745d8cd1004481ec
+source-git-commit: 3d2289642f4164bf82dc1c8a42c5798e9183188b
 workflow-type: tm+mt
 source-wordcount: '252'
 ht-degree: 1%
