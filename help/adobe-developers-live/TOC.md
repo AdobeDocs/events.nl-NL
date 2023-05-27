@@ -3,9 +3,9 @@ user-guide-title: Adobe Developers Live Events
 user-guide-breadcrumb: Developers Live Events
 user-guide-description: Opnamen verzamelen van de Adobe Developer Live Content-gebeurtenis
 feature-set: Experience Manager, Experience Manager Sites, Experience Manager Assets, Experience Manager Cloud Manager, Experience Platform
-source-git-commit: 17070f55bae19ef0751a2c7c536af7758e31affc
+source-git-commit: c0ac31a014d3361c109278723baf5da013566ae2
 workflow-type: tm+mt
-source-wordcount: '619'
+source-wordcount: '664'
 ht-degree: 2%
 
 ---
@@ -14,6 +14,19 @@ ht-degree: 2%
 # Adobe Developers Live Events {#adobe-developers-live-recordings}
 
 + [Overzicht](overview.md)
++ 2023 {#2023}
+   + Mei {#may2023}
+      + [Toetsenbord openen](2023/may/keynote.md)
+      + [API-tour](2023/may/new-apis.md)
+      + [Diep in AEM Core Components for E-Mail and Forms](2023/may/core-components.md)
+      + [Kiezer voor elementen insluiten](2023/may/asset-picker.md)
+      + [Bewerken met Microsoft 365/Google Workspace](2023/may/microsoft-365.md)
+      + [Snellere implementaties](2023/may/workflows.md)
+      + [Fireside Chat met AEM productleiders](2023/may/fireside.md)
+      + [JavaScript-blokken](2023/may/javascript-blocks.md)
+      + [Naadloze integratie van AEM Assets met toepassingen](2023/may/seamless-intergration.md)
+      + [GraphQL API begrijpen](2023/may/graphql.md)
+      + [Universele editor](2023/may/universal-editor.md)
 + 2022 {#2022}
    + Februari - Handel {#feb2022}
       + [Overzicht](2022/february/overview.md)
