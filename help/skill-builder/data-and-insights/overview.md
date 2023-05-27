@@ -1,7 +1,8 @@
 ---
 title: Overzicht van Skill Builder
 description: Verpersoonlijking in real time op om het even welk kanaal gebruikend online en off-line gegevensinzichten over uw volledige organisatie.
-source-git-commit: c64a24e142a493f71a8712f0af72a50bca53921d
+exl-id: dbb8c5dc-596d-4f89-8a81-3ea201dd4b6b
+source-git-commit: e04e1c9bea0b99e7f35aedbe18942f04e10df5d2
 workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 0%
@@ -18,7 +19,7 @@ Verpersoonlijking in real time op om het even welk kanaal gebruikend online en o
 <tr>
   <td>
     <a href="https://experienceleague.adobe.com/docs/events/data-and-insights/2022/personalize.html">
-      <img alt="Personaliseren en automatiseren met Adobe Target" src="assets/343821.jpeg" />
+      <img alt="Personaliseren en automatiseren met Adobe Target" src="https://video.tv.adobe.com/v/343821?format=jpeg" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/events/data-and-insights/2022/personalize.html">
@@ -31,7 +32,7 @@ Verpersoonlijking in real time op om het even welk kanaal gebruikend online en o
   </td>
   <td>
     <a href="https://experienceleague.adobe.com/docs/events/data-and-insights/2022/innovations.html">
-      <img alt="2022 Innovaties en trends" src="assets/343818.jpeg" />
+      <img alt="2022 Innovaties en trends" src="https://video.tv.adobe.com/v/343818?format=jpeg" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/events/data-and-insights/2022/innovations.html">
@@ -44,7 +45,7 @@ Verpersoonlijking in real time op om het even welk kanaal gebruikend online en o
   </td>  
   <td>
     <a href="https://experienceleague.adobe.com/docs/events/data-and-insights/2022/mobile-and-apps.html">
-      <img alt="Analyses en doeltoepassingen voor mobiele apparaten en toepassingen" src="assets/343819.jpeg" />
+      <img alt="Analyses en doeltoepassingen voor mobiele apparaten en toepassingen" src="https://video.tv.adobe.com/v/343819?format=jpeg" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/events/data-and-insights/2022/mobile-and-apps.html">
@@ -61,4 +62,3 @@ Verpersoonlijking in real time op om het even welk kanaal gebruikend online en o
 >[!TIP]
 >
 >**Alle opgenomen sessies worden weergegeven in de navigatie aan de linkerkant**.
-
