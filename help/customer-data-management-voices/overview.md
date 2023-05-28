@@ -1,7 +1,8 @@
 ---
 title: Klantengegevensbeheerstemmen
 description: Uw bestemming als technische en marketingleider en specialist op het gebied van gegevensbeheer van klanten.  Deze pagina is je one stop shop om van je collega's te horen, inspiratie te krijgen en te leren over de ontwikkelingen in de martech.
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 44e1b706-d216-4ffe-8cbf-b352fc34de54
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '328'
 ht-degree: 0%

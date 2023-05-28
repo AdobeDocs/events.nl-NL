@@ -1,7 +1,8 @@
 ---
 title: Dieptediven
 description: Diepe dia's zijn een videobron waar experts en collega's hun gedachten en ideeën hebben gedeeld over hoe ze Adobe Marketo het beste kunnen gebruiken.
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 53a8cfae-5710-4104-ae0a-315df0b51303
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 0%

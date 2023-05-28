@@ -1,9 +1,10 @@
 ---
 title: '[!DNL Experience Makers - Learn from your peers]'
-description: '''Leer van Adobe experts en peers hoe u het beste kunt halen uit uw Adobe-oplossingen. [!DNL Experience Makers - Learn from your peers] is een globale reeks van virtuele klanten het leren gebeurtenissen, die zich op het divers in duiken richten [!DNL Adobe Experience Cloud] oplossingen."'
-source-git-commit: d266db05fdbb172f4600b720cf8ba445926ac8c9
+description: Leer van Adobe experts en collega's hoe u het beste kunt halen uit uw Adobe-oplossingen. [!DNL Experience Makers - Learn from your peers] is een globale reeks van virtuele klanten het leren gebeurtenissen, die zich op het divers in duiken richten [!DNL Adobe Experience Cloud] oplossingen.
+exl-id: e0e4870a-d3aa-4b12-a536-85761b0eae46
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

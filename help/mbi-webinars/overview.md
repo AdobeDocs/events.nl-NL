@@ -1,10 +1,11 @@
 ---
 title: MBI Events
 description: Onderzoek MBI geregistreerde webinars, die een brede waaier van onderwerpen en beste praktijken voor het gebruiken van MBI aan zijn maximaal potentieel behandelen.
-source-git-commit: 75f8d18c3394ff4997322db4745d8cd1004481ec
+exl-id: ebc973b9-a7e0-42a7-968b-17d077b67af4
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
-source-wordcount: '278'
-ht-degree: 2%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 

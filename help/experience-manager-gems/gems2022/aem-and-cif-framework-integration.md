@@ -9,9 +9,10 @@ topic: Integrations
 role: User
 level: Intermediate
 kt: 10220
-source-git-commit: 5d20c88e799787b91a4f224efcdeb917ccdd259f
+exl-id: 970e633b-251a-438a-aaf1-159571fa36d2
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
