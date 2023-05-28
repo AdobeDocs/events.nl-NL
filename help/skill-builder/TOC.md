@@ -1,7 +1,7 @@
 ---
 user-guide-title: Skill Builder
 user-guide-description: Dit is een beschrijving voor de gebruikershandleiding die op de landingspagina wordt weergegeven.
-source-git-commit: 37202c8171ae1638888b80c55b39c42ce580355f
+source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 11%
@@ -40,10 +40,12 @@ ht-degree: 11%
    + [Overzicht](customer-journeys/overview.md)
    + 2022 {#2022}
       + [Toptips en trucs voor Adobe Campaign Standard](customer-journeys/2022/tips-and-tricks.md)
-      + [Gegevensmodellen ontwikkelen en aanpassen in Adobe Campaign Classic](customer-journeys/2022/data-models.md)
+      + [Gegevensmodellen ontwikkelen en aanpassen in Adobe [!DNL Campaign Classic]](customer-journeys/2022/data-models.md)
       + [Reistrends en innovatie van klanten over B2B en B2C](customer-journeys/2022/keynote.md)
-      + [Beter samen - Adobe Marketo Engage en Real-Time CDP](customer-journeys/2022/b2b-campaigns.md)
-      + [B2B-ervaringen met Marketo Engage en Adobe Experience Cloud](customer-journeys/2022/b2b-experiences.md)
+      + [Beter samen - Adobe [!DNL Marketo Engage] en Real-Time CDP](customer-journeys/2022/b2b-campaigns.md)
+      + [B2B-ervaringen met [!DNL Marketo Engage] en Adobe Experience Cloud](customer-journeys/2022/b2b-experiences.md)
+&lt;!---    +> 
+[Adobe Campaign Classic V7 versus V8](customer-journeys/2022/classic-v7-vs-v8.md) —>
 + Gegevens en inzichten {#data-and-insights}
    + [Overzicht](data-and-insights/overview.md)
    + 2022 {#2022}

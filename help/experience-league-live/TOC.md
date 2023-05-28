@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 17070f55bae19ef0751a2c7c536af7758e31affc
+source-git-commit: 02e78a5b7959dbcca9b73845266e3aa021bf7fd9
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '237'
 ht-degree: 3%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 3%
    + [EP 23: Krijg gegevensinzameling en gebeurtenis door:sturen omhoog en lopend met enkel een paar klikken!](episodes/exl-live-episode-4-25-23.md)
    + [EP 22: Uw webervaringen versnellen](episodes/exl-live-episode-2-16-23.md)
    + [EP 21: Hooglichten en routekaart voor gegevensverzameling](episodes/exl-live-episode-1-26-23.md)
-   + [EP 20: Analyses op kantoor of onderweg](episodes/exl-live-episode-11-18-22.md)
+   + [EP 20: [!DNL Analytics] op kantoor of onderweg](episodes/exl-live-episode-11-18-22.md)
    + [EP 19: Het juiste aanbod op het juiste moment met beslissingsbeheer aanbieden](episodes/exl-live-episode-10-25-22.md)
    + [EP 18: Je campagnes uitvoeren in Adobe Journey Optimizer](episodes/exl-live-episode-09-22-22.md)
    + [EP 17: Het verstrekken van een meer gepersonaliseerde klantenervaring in echt - tijd](episodes/exl-live-episode-09-20-22.md)
@@ -44,5 +44,5 @@ ht-degree: 3%
    + [EP 4: Wie klikte dat? En wat deden ze dan?](episodes/exl-live-episode-04.md)
    + [EP 3: Experttips om uw vakantiecampagnes te laten uitkomen](episodes/exl-live-episode-03.md)
    + [EP 2: Maak uw volgende segment van het publiek slimmer dan ooit](episodes/exl-live-episode-02.md)
-   + [EP 1: Mijn drie favoriete Adobe Analytics-implementatietips](episodes/exl-live-episode-01.md)
+   + [EP 1: Mijn drie favoriete Adobe [!DNL Analytics] Tips voor implementatie](episodes/exl-live-episode-01.md)
 + [LIVE-Experience League](exl-live-assets.md)

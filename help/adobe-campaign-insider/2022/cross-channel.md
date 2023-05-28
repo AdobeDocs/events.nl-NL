@@ -1,19 +1,20 @@
 ---
-title: Je crosschannel marketing verhogen met Adobe Campaign Classic
-description: Diepduik webinar die zich op werkschema's, automatisering, verpersoonlijking, en meting voor klanten van Adobe Campaign Classic concentreert.
+title: Niveau uw Cross-channel marketing met Adobe [!DNL Campaign Classic]
+description: Dieptedive webinar die zich op werkschema's, automatisering, verpersoonlijking, en meting voor Adobe concentreert [!DNL Campaign Classic] klanten.
 version: Classic v7
 solution: Campaign
 kt: 10506
 thumbnail: 343524.jpeg
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 1f4b6396-d855-429d-b80d-44a06c93bc67
+source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
 workflow-type: tm+mt
-source-wordcount: '46'
+source-wordcount: '38'
 ht-degree: 0%
 
 ---
 
-# Je crosschannel marketing verhogen met Adobe Campaign Classic
+# Niveau uw Cross-channel marketing met Adobe [!DNL Campaign Classic]
 
-Diepduik webinar die zich op werkschema&#39;s, automatisering, verpersoonlijking, en meting voor klanten van Adobe Campaign Classic concentreert.
+Dieptedive webinar die zich op werkschema&#39;s, automatisering, verpersoonlijking, en meting voor Adobe concentreert [!DNL Campaign Classic] klanten.
 
 >[!VIDEO](https://video.tv.adobe.com/v/343524/?quality=12&learn=on)

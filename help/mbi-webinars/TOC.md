@@ -2,7 +2,7 @@
 user-guide-title: MBI Events
 breadcrumb-title: MBI Events
 user-guide-description: MBI Events is een videobibliotheek waar experts en collega's hun gedachten en ideeën over Adobe Commerce hebben gedeeld.
-source-git-commit: d266db05fdbb172f4600b720cf8ba445926ac8c9
+source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
 workflow-type: tm+mt
 source-wordcount: '54'
 ht-degree: 5%
@@ -26,7 +26,7 @@ ht-degree: 5%
   + [Overview](commerce-events/overview.md)
   + 2022 {#2022}
     + [Top Tips and Tricks for Adobe Campaign Standard](customer-journeys/2022/tips-and-tricks.md)
-    + [Develop and customize data models in Adobe Campaign Classic](customer-journeys/2022/data-models.md)
+    + [Develop and customize data models in Adobe [!DNL Campaign Classic]](customer-journeys/2022/data-models.md)
 
 + Data and insights {#commerce-release-updates}
   + [Overview](commerce-release-updates/overview.md)

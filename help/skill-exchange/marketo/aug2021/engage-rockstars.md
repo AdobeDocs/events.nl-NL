@@ -1,20 +1,21 @@
 ---
 title: Marketo Engage Rockstars
-description: Drie "Rockstar"-klanten presenteren elk hun beste Marketo Engage tip of truc. Wie zal je verblinden zonder geloof? Kijk en stem in real time.
+description: Drie "Rockstar"-klanten zullen elk hun beste [!DNL Marketo Engage] uiteinde of truc. Wie zal je verblinden zonder geloof? Kijk en stem in real time.
 solution: Marketo Engage
 role: User
 level: Intermediate, Experienced
 kt: 10327
 thumbnail: 342559.jpeg
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 2f47b7af-0802-4f64-9f28-2b2520a8c4b3
+source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
 workflow-type: tm+mt
-source-wordcount: '56'
+source-wordcount: '50'
 ht-degree: 0%
 
 ---
 
-# Marketo Engage Rockstars
+# [!DNL Marketo Engage] Rockstars
 
-Drie &quot;Rockstar&quot;-klanten presenteren elk hun beste Marketo Engage tip of truc. Wie zal je verblinden zonder geloof? Kijk en stem in real time.
+Drie &quot;Rockstar&quot;-klanten zullen elk hun beste [!DNL Marketo Engage] uiteinde of truc. Wie zal je verblinden zonder geloof? Kijk en stem in real time.
 
 >[!VIDEO](https://video.tv.adobe.com/v/342559/?quality=12&learn=on)

@@ -6,9 +6,10 @@ role: User
 level: Beginner
 kt: 9766
 thumbnail: 340597.jpeg
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: e39b9f63-d5b2-4211-8fa9-6aebbbf8bbf8
+source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
@@ -19,7 +20,7 @@ In deze sessie leert u hoe u dynamische inhoud kunt gebruiken om meer doelgerich
 
 **Key Takeaways**
 
-* Stroomlijn uw Marketo Engage-programma en bespaar tijd door gebruik te maken van Dynamic Content
+* Stroomlijn uw [!DNL Marketo Engage] programma bouwt en bespaart tijd door Dynamische Inhoud te gebruiken
 * Leer hoe u uw database kunt segmenteren om uw dynamische inhoud aan te drijven
 * Rapport over het effect van uw dynamische inhoud om toekomstige marketingbeslissingen te begeleiden
 

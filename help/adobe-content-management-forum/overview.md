@@ -1,9 +1,10 @@
 ---
 title: Adobe Content Management Forum
 description: Een verzameling sessieopnamen van het Adobe Content Management Forum
-source-git-commit: cbe5f3ee2730859babdfe7f55196689be7ba7904
+exl-id: 8c882248-0790-4a50-bf8f-55dce1f68b6b
+source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
 workflow-type: tm+mt
-source-wordcount: '324'
+source-wordcount: '311'
 ht-degree: 0%
 
 ---
@@ -17,8 +18,8 @@ Sluit u aan bij de onderstaande sessies voor meer informatie:
 * Hoe te om ervaringsbeheer te moderniseren dat inhoud het schrijven democratiseren, makend de levering in het omni-kanaal een breeze, en het schrapen van verpersoonlijking om elke ervaring te maken tellen.
 * Een toeleveringsketen voor inhoud maken die kan worden geschaald voor personalisatie
 * Hoe te om tijd aan markt voor nieuwe plaatsverwezenlijking te versnellen en afhankelijkheid van technische middelen te verminderen
-* De nieuwste innovaties voor Experience Manager die als cloudservice worden aangeboden en de manier waarop u zich aanpast aan de voortdurend veranderende marktverwachtingen terwijl u vooruit blijft
-* Hoe u sites sneller kunt maken met Adobe Experience Manager als een headless CMS, met GraphQL en Content Fragments
+* De nieuwste innovaties voor [!DNL Experience Manager] aangeboden als een cloudservice en hoe u zich aanpast aan de voortdurend veranderende marktverwachtingen terwijl u vooruit blijft
+* Sites sneller bouwen met Adobe [!DNL Experience Manager] als een CMS zonder kop, met GraphQL en Content Fragments
 * Beste praktijken van de ontwikkelaar om tijd aan markt voor Adobe Experience Manager Sites te versnellen
 
 >[!TIP]
@@ -45,12 +46,12 @@ Sluit u aan bij de onderstaande sessies voor meer informatie:
       <img alt="Elementen voor alles" src="assets/assets-for-all.png" >
       </a>
       <div>
-         <a href="2022/assets-for-all.md"><strong>Adobe Experience Manager Headless uitbreiden met Adobe App Builder</strong></a>         
+         <a href="2022/assets-for-all.md"><strong>Adobe uitbreiden [!DNL Experience Manager] Koploos met Adobe [!DNL App Builder]</strong></a>         
          <br/><em>met Purnima Rachoor Roy</em>
       </div>
       <p>
         <br/>
-          Meer informatie over hoe Assets Essentials het nieuwe Digital Asset Management-systeem is voor afdelingen en middelgrote bedrijven.
+          Meer informatie over hoe [!DNL Assets Essentials] is de nieuwe [!DNL Digital Asset Management] systeem voor diensten en middelgrote ondernemingen.
       </p>
    </td>
    <td>

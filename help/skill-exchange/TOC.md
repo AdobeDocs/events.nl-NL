@@ -3,9 +3,9 @@ user-guide-title: De Uitwisseling van de Vaardigheid
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Inzameling opnamen van Ervaar Makers de Uitwisseling van de Vaardigheid
 event-series: The Skill Exchange
-source-git-commit: 17070f55bae19ef0751a2c7c536af7758e31affc
+source-git-commit: d2aab682b1ae08111655081bd39b29b8370ad816
 workflow-type: tm+mt
-source-wordcount: '373'
+source-wordcount: '361'
 ht-degree: 7%
 
 ---
@@ -80,18 +80,18 @@ ht-degree: 7%
       + [Schaalbaarheid en efficiëntie met tokens](marketo/feb2022/using-tokens.md)
       + [Betrokkenheidsprogramma&#39;s gebruiken om uw klanten erbij te betrekken](marketo/feb2022/utilize-engagement-programs.md)
    + Augustus 2021 {#aug2021}
-      + [Programma&#39;s maken in Marketo Engage](marketo/aug2021/create-programs.md)
-      + [Marketo Engage Rockstars](marketo/aug2021/engage-rockstars.md)
+      + [Programma&#39;s maken binnen [!DNL Marketo Engage]](marketo/aug2021/create-programs.md)
+      + [[!DNL Marketo Engage] Rockstars](marketo/aug2021/engage-rockstars.md)
       + [De kracht van een slimme campagne](marketo/aug2021/smart-campaign.md)
       + [Aangepaste velden voor programmalid](marketo/aug2021/program-member-custom-fields.md)
-      + [Rapportage binnen Marketo Engage](marketo/aug2021/reporting.md)
+      + [Rapportage binnen [!DNL Marketo Engage]](marketo/aug2021/reporting.md)
       + [Uw Marketo-routekaart](marketo/aug2021/marketo-roadmap.md)
    + Februari 2021 {#feb2021}
       + [Een bovenste rechthoek doordringt zich in aangepaste objecten en snelheid](marketo/feb2021/custom-objects.md)
-      + [Adobe Marketo Engage Rockstar-segment](marketo/feb2021/rockstar.md)
-      + [Programma&#39;s maken in Adobe Marketo Engage](marketo/feb2021/create-programs.md)
+      + [Adobe [!DNL Marketo Engage] Rockstar-segment](marketo/feb2021/rockstar.md)
+      + [Programma&#39;s maken binnen Adobe [!DNL Marketo Engage]](marketo/feb2021/create-programs.md)
       + [De kracht van een slimme campagne](marketo/feb2021/power-of-smart-campaign.md)
-      + [Rapportage binnen Marketo Engage](marketo/feb2021/reporting-within-marketo.md)
+      + [Rapportage binnen [!DNL Marketo Engage]](marketo/feb2021/reporting-within-marketo.md)
       + [Ultieme tips en trucs voor uw Forms](marketo/feb2021/forms-tips-and-tricks.md)
 + Workfront {#workfront}
    + April 2022 {#apr2022}
