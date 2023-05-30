@@ -1,9 +1,9 @@
 ---
 user-guide-title: Skill Builder
 user-guide-description: Dit is een beschrijving voor de gebruikershandleiding die op de landingspagina wordt weergegeven.
-source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
+source-git-commit: 14496a09a0e2dccb88b1ef90a6a070f8f5c3990c
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '164'
 ht-degree: 11%
 
 ---
