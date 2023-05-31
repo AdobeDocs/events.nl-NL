@@ -2,13 +2,15 @@
 title: Experttips om uw vakantiecampagnes te laten uitkomen
 description: Net zoals het nooit te vroeg is om je vakantieboodschappen te beginnen, is het nooit te vroeg om een welwillende vakantiemarketingcampagne te beginnen. Met Adobe Campaign kunt u campagnes ontwerpen, plannen en uitvoeren die ervoor zorgen dat alle wensen van uw organisatie op het gebied van vakantie uitkomen. Maar weet je wel wat de tips zijn voor het voeren van campagnes die het jaar uit zullen eindigen met een klap? Doe mee aan een live discussie met drie Adobe-experts die daar gezamenlijk deskundig mee zijn. We zullen het hebben over de best practices voor leverantie en uitvoering en laten zien hoe u dit allemaal kunt doen in Adobe Campaign.
 solution: Campaign
+feature: Deliverability
+role: user
 kt: 8581
 thumbnail: https://video.tv.adobe.com/v/337219?format=jpeg
 event-cta-url: null
 event-start-time: 2021-09-22 09:00-7
 event-guests: Sandra Hausmann,Bruce Swann,Alyssa Nahatis,Stephen Ford
 exl-id: f31c00e6-0981-4224-b4c5-1bab123e9587
-source-git-commit: 3d2289642f4164bf82dc1c8a42c5798e9183188b
+source-git-commit: a9f78c1b470867b263b8dc1475524f9ac95bddcd
 workflow-type: tm+mt
 source-wordcount: '244'
 ht-degree: 0%
