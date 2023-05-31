@@ -3,13 +3,15 @@ title: Het juiste aanbod op het juiste moment met beslissingsbeheer aanbieden
 description: Adobe Target en Adobe Real-time Customer Data Platform kunnen worden geïntegreerd om een meer gepersonaliseerde klantenervaring te bieden. In deze livestreamgebeurtenis, zie hoe het integreren van deze twee platforms ondernemingen kan helpen gegevens in real time verzamelen, en dan gerichte ervaringen creëren en testen. Bekijk het einde-tot-einde proces van deze krachtige mogelijkheden in een live demonstratie.
 solution: Journey Optimizer
 kt: 11028
+feature: Offers
+role: User
 thumbnail: https://video.tv.adobe.com/v/3410560?format=jpeg
 event-cta-text: Set Reminder
 event-cta-url: https://www.youtube.com/watch?v=f1T9XU9TCJU
 event-start-time: 2022-10-25 09:00-7
 event-guests: Sandra Hausmann,Ben Tepfer,Brandon Poyfair,Jason Hickey
 exl-id: 468f1e46-7b69-41c3-8c49-948aaf2e92a3
-source-git-commit: 3d2289642f4164bf82dc1c8a42c5798e9183188b
+source-git-commit: 26cd8c02afc6f8cf506d82b363ccfd0482c3bafd
 workflow-type: tm+mt
 source-wordcount: '227'
 ht-degree: 0%
