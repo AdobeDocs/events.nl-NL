@@ -1,9 +1,9 @@
 ---
 title: Adobe Experience League Events
-description: Een inzameling van gebeurtenis die bij het gebruiken van Adobe recordings voor producten wordt gebruikt
-mini-toc-levels: 1
+description: Een inzameling concentreerde zich bij het gebruiken van de producten van de Onderneming van de Adobe op opnamen
+mini-toc-levels: 0
 exl-id: 508c5b96-e874-4b5a-a773-9e3d714e9ee8
-source-git-commit: 1c2a249b4a270239d3069df799282d1eb32cc71e
+source-git-commit: 0ced31f2961ad441d9b54c4f526c535bdec31e7e
 workflow-type: tm+mt
 source-wordcount: '747'
 ht-degree: 0%
