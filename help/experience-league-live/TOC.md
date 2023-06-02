@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 02e78a5b7959dbcca9b73845266e3aa021bf7fd9
+source-git-commit: 06de70ea4e8f35ed3ed5930261e49626a4a029bf
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: '252'
 ht-degree: 3%
 
 ---
@@ -21,6 +21,7 @@ ht-degree: 3%
 
 + [Overzicht](overview.md)
 + Episodes {#episodes}
+   + [EP 25: De toekomst van Adobe Journey Optimizer verkennen met het webkanaal en content experimenteren](episodes/exl-live-episode-6-14-23.md)
    + [EP 24: Maximaliseer de mogelijkheden van uw mobiele app met Adobe Journey Optimizer](episodes/exl-live-episode-5-24-23.md)
    + [EP 23: Krijg gegevensinzameling en gebeurtenis door:sturen omhoog en lopend met enkel een paar klikken!](episodes/exl-live-episode-4-25-23.md)
    + [EP 22: Uw webervaringen versnellen](episodes/exl-live-episode-2-16-23.md)
