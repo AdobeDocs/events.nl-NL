@@ -2,9 +2,9 @@
 title: Overzicht van Skill Builder
 description: Verpersoonlijking in real time op om het even welk kanaal gebruikend online en off-line gegevensinzichten over uw volledige organisatie.
 exl-id: dbb8c5dc-596d-4f89-8a81-3ea201dd4b6b
-source-git-commit: e04e1c9bea0b99e7f35aedbe18942f04e10df5d2
+source-git-commit: d2a3a5edcdf1aa38a0d0daf469a6e83d4e0b996b
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: '214'
 ht-degree: 0%
 
 ---
@@ -18,11 +18,11 @@ Verpersoonlijking in real time op om het even welk kanaal gebruikend online en o
 <table>
 <tr>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/events/data-and-insights/2022/personalize.html">
+    <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/data-and-insights/2022/personalize.html">
       <img alt="Personaliseren en automatiseren met Adobe Target" src="https://video.tv.adobe.com/v/343821?format=jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/events/data-and-insights/2022/personalize.html">
+      <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/data-and-insights/2022/personalize.html">
         <strong>Personaliseren en automatiseren met Adobe Target</strong>
       </a>
     </div>
@@ -31,11 +31,11 @@ Verpersoonlijking in real time op om het even welk kanaal gebruikend online en o
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/events/data-and-insights/2022/innovations.html">
+    <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/data-and-insights/2022/innovations.html">
       <img alt="2022 Innovaties en trends" src="https://video.tv.adobe.com/v/343818?format=jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/events/data-and-insights/2022/innovations.html">
+      <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/data-and-insights/2022/innovations.html">
         <strong>2022 Innovaties en trends</strong>
       </a>
     </div>
@@ -44,11 +44,11 @@ Verpersoonlijking in real time op om het even welk kanaal gebruikend online en o
     <p>
   </td>  
   <td>
-    <a href="https://experienceleague.adobe.com/docs/events/data-and-insights/2022/mobile-and-apps.html">
+    <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/data-and-insights/2022/mobile-and-apps.html">
       <img alt="Analyses en doeltoepassingen voor mobiele apparaten en toepassingen" src="https://video.tv.adobe.com/v/343819?format=jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/events/data-and-insights/2022/mobile-and-apps.html">
+      <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/data-and-insights/2022/mobile-and-apps.html">
         <strong>Analyses en doeltoepassingen voor mobiele apparaten en toepassingen</strong>
       </a>
     </div>
