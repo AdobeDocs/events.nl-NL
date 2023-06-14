@@ -6,9 +6,9 @@ role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 event-series: Experience League Live
 exl-id: 80de5748-89c2-4680-8978-21aff75d5e32
-source-git-commit: 66db5d4c9ae904c4dfa7f69c00142538021523b4
+source-git-commit: ebf56636b1eff403aebdda4e3417fdf12a0955eb
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '173'
 ht-degree: 1%
 
 ---
@@ -23,16 +23,8 @@ Experience League LIVE is een live streaming show die wordt gemaakt door het tea
 
 <table>
 <tr>
-  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-6-14-23.md">
-      <img alt="Experience League LIVE 14 juni" src="assets/Jun14_2023_exl_live_banner_web_1920_WebBanner.png">
-    </a>
-    <div>
-      <a href="episodes/exl-live-episode-6-14-23.md">
-        <strong>De toekomst van Adobe Journey Optimizer verkennen met het webkanaal en content experimenteren</strong>
-      </a>
-      <br/><em>met Sandra Hausmann, Robert Calangiu, Erik Wiener en Daniel Cristian Popescu</em>
-      <br/><em>14 juni 2023</em>
-    </div>
+  <td>
+    Kom binnenkort terug voor meer details over onze volgende show op <b>20 juli 2023</b>. We zullen het hebben over de nieuwe <b>Poortfuncties voor doelgroepen en composities in Real-Time CDP</b>.
   </td>
 </tr>
 </table>
