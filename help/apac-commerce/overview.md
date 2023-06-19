@@ -2,7 +2,7 @@
 title: APAC Commerce Webinar Series
 description: De APAC Commerce Webinar Series is een maandelijks kadence van workshops voor Adobe Commerce-klanten die een groot aantal onderwerpen bestrijkt, van beste praktijken tot product roadmap en industrietrends.
 exl-id: 35d78d88-38ef-486a-8e34-8bce0da673ca
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: a5958d739ab6dbbc97626a8f95be6d46ee85cfbd
 workflow-type: tm+mt
 source-wordcount: '267'
 ht-degree: 0%
@@ -44,11 +44,11 @@ De APAC Commerce Webinar Series is een maandelijks kadence van workshops voor Ad
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/new-relic.html">
-      <img alt="New Relic Masterclass" src="https://video.tv.adobe.com/v/345148?format=jpeg" />
+    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2023/composable-commerce.html">
+      <img alt="New Relic Masterclass" src="https://video.tv.adobe.com/v/3420655?format=jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/new-relic.html">
+      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2023/composable-commerce.html">
         <strong>New Relic Masterclass</strong>
       </a>
     </div>
