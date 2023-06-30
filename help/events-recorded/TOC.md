@@ -2,10 +2,10 @@
 user-guide-title: Adobe Experience League-gebeurtenisopnamen
 user-guide-breadcrumb: Event Recordings
 user-guide-description: Een inzameling van gebeurtenis die bij het gebruiken van Adobe recordings voor producten wordt gebruikt
-source-git-commit: 03d83282eee7d5d3b7a2c5bdf2c6c82ac268b9a9
+source-git-commit: 0122cd988472a6c1b87318b925f87b56e908c6e9
 workflow-type: tm+mt
-source-wordcount: '560'
-ht-degree: 4%
+source-wordcount: '580'
+ht-degree: 3%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 4%
    + [Adobe Campaign Insider-reeks](https://experienceleague.adobe.com/docs/events/adobe-campaign-insider-recordings/overview.html)
    + [Adobe Content Management Forum](https://experienceleague.adobe.com/docs/events/adobe-content-management-forum-recordings/overview.html)
    + [Adobe Developers Live](https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html)
+   + [AEM kantooruren](https://experienceleague.adobe.com/docs/events/aem-champion-office-hours/overview.html)
    + [APAC Commerce Events](https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/overview.html)
    + [Handel en koffie](https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html)
    + [Klantengegevensbeheerstemmen](https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/overview.html)
@@ -55,6 +56,7 @@ ht-degree: 4%
    + Adobe Experience Manager {#aem}
       + [Adobe Content Management Forum](https://experienceleague.adobe.com/docs/events/adobe-content-management-forum-recordings/overview.html)
       + [Adobe Developers Live](https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html)
+      + [AEM kantooruren](https://experienceleague.adobe.com/docs/events/aem-champion-office-hours/overview.html)
       + [Experience League Live](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html)
       + [Experience Manager GEMS](https://experienceleague.adobe.com/docs/events/experience-manager-gems-recordings/overview.html)
       + [Overzicht van release Experience Manager](https://experienceleague.adobe.com/docs/events/aemcs-release-update-recordings/overview.html)

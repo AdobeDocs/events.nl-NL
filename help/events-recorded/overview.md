@@ -3,9 +3,9 @@ title: Adobe Experience League Events
 description: Een inzameling concentreerde zich bij het gebruiken van de producten van de Onderneming van de Adobe op opnamen
 mini-toc-levels: 0
 exl-id: 508c5b96-e874-4b5a-a773-9e3d714e9ee8
-source-git-commit: 0ced31f2961ad441d9b54c4f526c535bdec31e7e
+source-git-commit: 0122cd988472a6c1b87318b925f87b56e908c6e9
 workflow-type: tm+mt
-source-wordcount: '747'
+source-wordcount: '792'
 ht-degree: 0%
 
 ---
@@ -59,6 +59,21 @@ Blijf in de lus op exclusieve evenementen en webinars om uw leermogelijkheden ui
          In Adobe Developers Live zijn ontwikkelaars en ontwikkelaars van Adobe-ervaringen samengebracht met uiteenlopende achtergronden en met één doel - om ongelofelijke end-to-end ervaringen te creëren.
       </p>
     </td>
+    <td>
+      <a href="/help/aem-champion-office-hours/overview.md">
+      <img style="width:100%" alt="AEM kantooruren" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-aem-champions.png"/>
+      </a>
+      <div>
+         <a href="/help/aem-champion-office-hours/overview.md"><strong>AEM kantooruren</strong></a>
+        <br/><em class="title is-size-7" style="color: #858585;">Adobe Experience Manager</em>
+      </div>
+      <p>
+        <br/>
+         Als u in het bevorderen van uw kennis en gebruik van Adobe Experience Manager, het in wisselwerking staan met de leiders van het de gedachtegoed van de Experience Manager, en het verdienen van exclusief zwoerd interesseert - dan sluit me vandaag aan bij de Gebruikersgroep van de Uuren van het Bureau van AEM Champion!
+      </p>
+    </td> 
+    </tr>
+    <tr>
    <td>
       <a href="/help/apac-commerce/overview.md">
       <img style="width:100%" alt="APAC Adobe Commerce Webinars" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-apac-commerce-series.png"/>
@@ -72,8 +87,6 @@ Blijf in de lus op exclusieve evenementen en webinars om uw leermogelijkheden ui
          De APAC Commerce Webinar Series is een maandelijks kadence van workshops voor Adobe Commerce-klanten die een groot aantal onderwerpen bestrijkt, van beste praktijken tot product roadmap en industrietrends.
       </p>
     </td>
-    </tr>
-    <tr>
    <td>
       <a href="/help/commerce-and-coffee/overview.md">
       <img style="width:100%" alt="Handel en koffie" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-commerce-and-coffee.png"/>
@@ -113,6 +126,8 @@ Blijf in de lus op exclusieve evenementen en webinars om uw leermogelijkheden ui
          De diepte Dive gebeurtenissen op bestelling helpen u een beter inzicht krijgen hoe te om Adobe Marketo te gebruiken om uw zaken te steunen.
       </p>
     </td>
+    </tr>
+    <tr>
    <td>
       <a href="/help/experience-league-live/overview.md">
       <img style="width:100%" alt="Experience League LIVE" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-experience-league-live.png"/>
@@ -126,7 +141,6 @@ Blijf in de lus op exclusieve evenementen en webinars om uw leermogelijkheden ui
          Experience League LIVE is een live streaming show die wordt gemaakt door het team van Experiencen League. Het is een kans om met de productdeskundigen van Adobe te verbinden en actionable uiteinden, trucs, en strategieën te leren u met de toepassingen van Adobe Experience Cloud kunt toepassen.
       </p>
     </td>
-  <tr>  
    <td>
       <a href="/help/experience-manager-gems/overview.md">
       <img style="width:100%" alt="Experience Manager GEMS" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-aem-gems.png"/>
@@ -166,6 +180,8 @@ Blijf in de lus op exclusieve evenementen en webinars om uw leermogelijkheden ui
          Leer van Adobe experts en peers hoe u het beste kunt halen uit uw Adobe-oplossingen. Met onderwerpen die voor artsen worden geselecteerd, door artsen, delen deze interactieve zittingen "kunst van de mogelijke"gebruiksgevallen, beste praktijken, en uiteinden &amp; trucs.
       </p>
     </td>
+    </tr>
+    <tr>
    <td>
       <a href="/help/marketo-and-mochas/overview.md">
       <img style="width:100%" alt="Marketo en Mochas" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-marketo-and-mochas.png"/>
@@ -179,8 +195,6 @@ Blijf in de lus op exclusieve evenementen en webinars om uw leermogelijkheden ui
          Marketo en Mochas zullen u helpen om beter te begrijpen hoe te om Adobe Marketo te gebruiken om uw zaken te steunen.
       </p>
     </td>
-  </tr>
-  <tr>  
     <td>
       <a href="/help/mbi-webinars/overview.md">
       <img style="width:100%" alt="MBI Webinars" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-mbi-webinars.png"/>
@@ -220,6 +234,8 @@ Blijf in de lus op exclusieve evenementen en webinars om uw leermogelijkheden ui
          De Makers van de ervaring de Uitwisseling van de Vaardigheid is een globale reeks virtuele klanten leergebeurtenissen, die zich op het divers in de oplossingen van Adobe Experience Cloud concentreren. Dit programma biedt de mogelijkheid om van Adobe-productdeskundigen en experts te leren door het delen van beste praktijken en tips en trucs.
       </p>
     </td>
+    </tr>
+    <tr>
     <td>
       <a href="/help/workfront/overview.md">
       <img style="width:100%" alt="Workfront" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-workfront.png"/>
