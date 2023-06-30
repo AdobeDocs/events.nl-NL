@@ -2,10 +2,10 @@
 user-guide-title: "[!DNL Experience Makers Learn from your peers]"
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: "Verzameling opnamen van [!DNL Experience Makers Learn from your peers]"
-source-git-commit: d2aab682b1ae08111655081bd39b29b8370ad816
+source-git-commit: b32c10575f90d02829889d9eae876b2c922915bb
 workflow-type: tm+mt
-source-wordcount: '72'
-ht-degree: 18%
+source-wordcount: '80'
+ht-degree: 17%
 
 ---
 
@@ -32,6 +32,8 @@ ht-degree: 18%
    + Mei {#may2023}
       + [Inhoud- en ervaringsfragmenten maken](experience-manager/may2023/mastering-content-and-experience-fragments.md)
 + Marketo {#marketo}
+   + Juni {#june2023}
+      + [Houd uw marketingcampagnes bij, analyseer en optimaliseer deze](marketo/june2023/marketing-campaigns.md)
    + Mei {#may2023}
       + [De personalisatie op de Code van de Schaal in de kring gebruikend [!DNL Marketo Engage]](marketo/may2023/personalization-at-scale.md)
    + Maart {#mar2023}

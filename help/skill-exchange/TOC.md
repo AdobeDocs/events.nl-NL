@@ -3,9 +3,9 @@ user-guide-title: De Uitwisseling van de Vaardigheid
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Inzameling opnamen van Ervaar Makers de Uitwisseling van de Vaardigheid
 event-series: The Skill Exchange
-source-git-commit: d2aab682b1ae08111655081bd39b29b8370ad816
+source-git-commit: b32c10575f90d02829889d9eae876b2c922915bb
 workflow-type: tm+mt
-source-wordcount: '361'
+source-wordcount: '379'
 ht-degree: 7%
 
 ---
@@ -15,6 +15,13 @@ ht-degree: 7%
 
 + [Overzicht](overview.md)
 + Analytics {#analytics}
+   + Mei 2023 {#may2023}
+      + [Tips en trucs voor Adobe Analytics](analytics/may2023/tips-and-tricks.md)
+      + [Migreren naar EDDL/WebSDK](analytics/may2023/tips-and-tricks.md)
+      + [Rockstar-tips](analytics/may2023/rockstar-tips.md)
+      + [Productiviteit verhogen](analytics/may2023/productivity.md)
+      + [Werken met metriek](analytics/may2023/metrics.md)
+      + [Basisbeginselen van gebruikersinterface](analytics/may2023/user-interface.md)
    + Oktober 2022 {#oct2022}
       + [Aan de slag](analytics/oct2022/getting-started.md)
       + [De gegevens analyseren](analytics/oct2022/analyzing-the-data.md)
