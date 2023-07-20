@@ -1,7 +1,7 @@
 ---
 title: Betere ervaringen opbouwen met klantprofielen
 description: Om een uitstekende klantervaring te bieden, moet alles wat we van een klant weten, worden samengevoegd tot een realtime klantprofiel.
-solution: Real-time Customer Data Platform
+solution: Real-Time Customer Data Platform
 feature: Profiles
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner, Intermediate, Experienced
@@ -9,9 +9,9 @@ thumbnail: 336939.jpg
 kt: 8866
 type: Event
 exl-id: 17f05911-7f41-47c7-afdd-bfb8e010b435
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: bd648ac5c46c4cd2939f86944afcf97b74b82d14
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '70'
 ht-degree: 0%
 
 ---
