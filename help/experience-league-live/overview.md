@@ -1,20 +1,20 @@
 ---
 title: LIVE-gebeurtenissen Experience League
 description: Een verzameling koppelingen naar vorige Experience League LIVE-gebeurtenissen
-solution: Experience Platform,Real-time Customer Data Platform,Journey Optimizer,Experience Manager,Target,Audience Manager,Analytics
+solution: Experience Platform,Real-Time Customer Data Platform,Journey Optimizer,Experience Manager,Target,Audience Manager,Analytics
 feature: Use Cases
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 event-series: Experience League Live
 exl-id: 80de5748-89c2-4680-8978-21aff75d5e32
-source-git-commit: 4017a3a3d649af24fd668a24ceece6ed32598c35
+source-git-commit: 1f9b259f31faf9c58a8ea161d17dcffdba47a53d
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '167'
 ht-degree: 1%
 
 ---
 
-# Experience League LIVE
+# EXPERIENCE LEAGUE LIVE
 
 Experience League LIVE is een live streaming show die wordt gemaakt door het team van Experiencen League.  Het is een kans om met de productdeskundigen van Adobe te verbinden en actionable uiteinden, trucs, en strategieën te leren u met de toepassingen van Adobe Experience Cloud kunt toepassen.
 
@@ -24,8 +24,16 @@ Experience League LIVE is een live streaming show die wordt gemaakt door het tea
 
 <table>
 <tr>
-  <td style="vertical-align: top;">
-    Keer binnenkort terug naar deze pagina voor meer informatie over onze aanstaande show in augustus 2023.
+  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-8-23-23.md">
+      <img alt="Experience League LIVE apr 21" src="assets/Aug23_exl_live_banner_web_1920_WebBanner.jpg">
+    </a>
+    <div>
+      <a href="episodes/exl-live-episode-8-23-23.md">
+        <strong>API-activering van berichten in Adobe Journey Optimizer</strong>
+      </a>
+      <br/><em>met Sandra Hausmann, Siddharth Jain, Nikhil Sharma en Chetan Prasad</em>
+      <br/><em>23 augustus 2023</em>
+    </div>
   </td>
 </tr>
 </table>
@@ -79,7 +87,7 @@ Experience League LIVE is een live streaming show die wordt gemaakt door het tea
     </a>
     <div>
       <a href="episodes/exl-live-episode-05-26-22.md">
-        <strong>Vraag het de experts: De grondbeginselen van Web SDK</strong>
+        <strong>Vraag het de experts: De basisbeginselen van Web SDK</strong>
       </a>
       <br/><em>met Rudi Shumpert, Jeff Chasin en Eric Matisoff</em>
       <br/><em>26 mei 2022</em>
