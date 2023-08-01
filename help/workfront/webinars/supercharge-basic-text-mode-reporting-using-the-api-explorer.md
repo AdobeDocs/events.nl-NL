@@ -6,16 +6,16 @@ doc-type: feature video
 team: Technical Marketing
 kt: 9918
 exl-id: ea4716c9-2c61-4c44-9d2a-cbd4f07699d5
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: 5952a51bcc4ec25d14cf5527ec1af218ebc0ae11
 workflow-type: tm+mt
-source-wordcount: '1658'
+source-wordcount: '1660'
 ht-degree: 2%
 
 ---
 
 # Vraag het de Expert - de Rapportering van de Wijze van de Tekst van de Opstuwing Basis gebruikend de Ontdekkingsreiziger API
 
-Leer meer over de API-verkenner, hoe u deze gebruikt en hoe u uw rapporten kunt verbeteren met behulp van de standaardtekstmodus. Dit webinar werd geregistreerd op 22 januari 2020.
+Meer informatie over de [[!UICONTROL API Explorer]](https://developer.adobe.com/workfront/api-explorer/), hoe deze te gebruiken en hoe u uw rapporten kunt verbeteren door de standaardtekstmodus te gebruiken. Dit webinar werd geregistreerd op 22 januari 2020.
 
 >[!VIDEO](https://video.tv.adobe.com/v/341124/?quality=12)
 
@@ -101,15 +101,15 @@ Wanneer u een uitgiftenrapport maakt, kunt u taakinformatie zien als de kwestie 
 
 **Vraag**
 
-U kunt tekstopmaak delen ([!DNL CSS]) voorbeelden?
+U kunt de tekstopmaak delen ([!DNL CSS]) voorbeelden?
 
 **Antwoord**
 
-Workfront biedt geen ondersteuning voor [!DNL CSS] in de tekstmodus.
+Workfront biedt geen ondersteuning [!DNL CSS] in de tekstmodus.
 
 **Vraag**
 
-Wat is de beste en/of snelste manier om een aangepaste veldnaam te zoeken - voor rapportage in de tekstmodus? Ik heb de bewerkingsoptie HTML in browser OF gebruikt door een gebied in een rapport toe te voegen en op tekstwijze over te schakelen om het te pakken BUT... merkwaardig hoe anderen dit uitvoeren
+Wat is de beste en/of snelste manier om een aangepaste veldnaam te zoeken - voor rapportage in de tekstmodus? Ik heb de bewerkingsoptie van de HTML in browser OF gebruikt door een gebied in een rapport toe te voegen en op tekstwijze over te schakelen om het te pakken MAAR.. nieuwsgierig hoe anderen dit uitvoeren.
 
 **Antwoord**
 
@@ -121,11 +121,11 @@ Hoe kan ik tekstwijze gebruiken om leden van een team in een rapport te identifi
 
 **Antwoord**
 
-Om naar de Leden van het Team te verwijzen verbonden aan het huidige goedkeuringsstadium, zou u een inzameling van een referenced inzameling moeten van verwijzingen voorzien, die momenteel niet mogelijk door de mogelijkheden van de de tekstwijze van Workfront is. De kolom die uw organisatie momenteel gebruikt die het Team verbonden aan de goedkeuring toont is uw beste optie.
+Als u wilt verwijzen naar de teamleden die zijn gekoppeld aan de huidige goedkeuringsfase, moet u verwijzen naar een verzameling waarnaar wordt verwezen, wat momenteel niet mogelijk is via de mogelijkheden van de Workfront-tekstmodus. De kolom die uw organisatie momenteel gebruikt die het Team verbonden aan de goedkeuring toont is uw beste optie.
 
 **Vraag**
 
-Moet het veld en de naam van het object in het juiste geval staan (bijvoorbeeld rol vs. rol)?
+Moet het veld en de naam van het object in het juiste geval staan (bijv. rol vs. rol)?
 
 **Antwoord**
 
@@ -181,7 +181,7 @@ Kunt u filteren waar alle groepen een bepaalde groep bevatten?
 
 **Antwoord**
 
-Als u de punten in uw rapport wilt filtreren zou u het onder het filterlusje van uw rapport doen. Dus als u alleen gebruikers wilde zien waar een van hun groepen Boekhouding was, voegt u een filterregel toe die als volgt luidt:
+Als u de punten in uw rapport wilt filtreren, zou u het onder het filterlusje van uw rapport doen. Dus als u alleen gebruikers wilde zien waar een van hun groepen Boekhouding was, voegt u een filterregel toe die als volgt luidt:
 
 ```
 Other Groups>ID>Equal>Accounting
