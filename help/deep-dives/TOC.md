@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 45197a447b183e1be3f0c2806fe33b19780086e5
+source-git-commit: ec7e7cd800b0e3c78c259de4211190a090009c4d
 workflow-type: tm+mt
-source-wordcount: '30'
+source-wordcount: '31'
 ht-degree: 6%
 
 ---
@@ -21,6 +21,7 @@ ht-degree: 6%
 
 + [Overzicht](overview.md)
 + Diep in Marketo {#deep-dives-marketo}
+   + [API&#39;s](api.md)
    + [Certificering](certification.md)
    + [E-mailcursus](email-nurture.md)
    + [Een instantie overnemen](inheriting-an-instance.md)
