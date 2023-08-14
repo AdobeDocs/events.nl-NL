@@ -4,11 +4,12 @@ description: Leer om snelheid te meten en te volgen gebruikend [!DNL Workfront] 
 activity: use
 doc-type: feature video
 team: Technical Marketing
-kt: 9912
+jira: KT-9912
+last-substantial-update: 2023-08-14T00:00:00Z
 exl-id: 7ed7887f-acc5-43dd-b0dc-e64341f969ca
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: e087e65f2ddea9bf9ca11a5ae7b3dae516402d8c
 workflow-type: tm+mt
-source-wordcount: '3919'
+source-wordcount: '3918'
 ht-degree: 1%
 
 ---
@@ -30,7 +31,7 @@ Indeling: Datum
 Berekening:
 
 ```
-IF(ISBLANK(First Commit Date),Default Baseline.Planned Completion Date,First Commit Date)
+IF(ISBLANK({DE:First Commit Date}),{defaultBaseline}.{plannedCompletionDate},{DE:First Commit Date})
 ```
 
 **Eerste duur**
@@ -40,7 +41,7 @@ Indeling: Tekst
 Berekening:
 
 ```
-IF(ISBLANK(First Duration),Default Baseline.Duration,First Duration)
+IF(ISBLANK({DE:First Duration}),{defaultBaseline}.{durationMinutes},{DE:First Duration})
 ```
 
 **Werkelijke verhouding**
@@ -50,7 +51,7 @@ Format : Number
 Berekening:
 
 ```
-ROUND(DIV(Actual Duration,First Duration),1)
+ROUND(DIV({actualDurationMinutes},{DE:First Duration}),1)
 ```
 
 **Status verhouding vastleggen**
@@ -60,7 +61,7 @@ opmaak:tekst
 Berekening:
 
 ```
-IF({Work-to-Commit Ratio}>2,"Terrible",IF({Work-to-CommitRatio}>1.6,"Poor",IF({Work-to-Commit Ratio}>1.2,"Not Bad","Exc ellent")))
+IF({DE:Work-to-Commit Ratio}>2,"Terrible",IF({DE:Work-to-Commit Ratio}>1.6,"Poor",IF({DE:Work-to-Commit Ratio}>1.2,"Not Bad","Excellent")))
 ```
 
 **Aangepaste snelheid**
@@ -70,7 +71,7 @@ Format : Number
 Berekening:
 
 ```
-ROUND(DIV(Actual Duration,Duration),1)
+ROUND(DIV({actualDurationMinutes},{durationMinutes}),1)
 ```
 
 **Status aangepaste snelheid**
@@ -80,7 +81,7 @@ opmaak:tekst
 Berekening:
 
 ```
-IF(Adjusted Velocity>2,"Terrible",IF(Adjusted Velocity>1.6,"Poor",IF(Adjusted Velocity>1.2,"Not Bad","Excellent")))
+IF({DE:Adjusted Velocity}>2,"Terrible",IF({DE:Adjusted Velocity}>1.6,"Poor",IF({DE:Adjusted Velocity}>1.2,"Not Bad","Excellent")))
 ```
 
 ## Vragen en antwoorden
@@ -95,7 +96,7 @@ In een dergelijke situatie kunt u filteren en bulkbewerking gebruiken om de reek
 
 Dit zijn de stappen die u moet uitvoeren:
 
-1. Bepaal welke statuswaarden u wilt toewijzen aan Condition-waarden. Stel bijvoorbeeld dat u de statuswaarde &quot;Late&quot; en &quot;Erg laat&quot; hebt die beide zijn toegewezen aan de Condition-waarde &quot;In Trouble&quot;
+1. Bepaal welke statuswaarden u wilt toewijzen aan Condition-waarden. Stel dat u een statuswaarde hebt van &quot;Late&quot; en &quot;Erg laat&quot; die beide zijn toegewezen aan een Condition-waarde van &quot;In Trouble&quot;
 1. Maak een projectrapport met alle projecten met een staatswaarde van &quot;Late&quot; en &quot;Erg laat&quot;
 1. Voer het rapport uit. Zorg ervoor u alle projecten toont (zie opties bij lagere recht van het rapport)
 1. Klik op checkbox in de hogere linkerzijde van het rapport in de bar met kolomrubrieken. Hiermee worden alle projecten in het rapport geselecteerd
@@ -111,7 +112,7 @@ Hoe wordt Uitstekend, Niet Slecht, enz. gedefinieerd?
 
 **Antwoord**
 
-Dit was slechts een voorbeeld, maar dit is hoe ik het opstelde. Eerst berekende ik twee indexen:
+Dit was slechts een voorbeeld, maar zo heb ik het opgezet. Eerst berekende ik twee indexen:
 
 Aangepaste snelheid
 
@@ -119,7 +120,7 @@ De formule voor dit is Ware Duur/Geplande Duur (die op het gebied van de Duur in
 
 Werkelijke verhouding
 
-Deze formule is als Aangepaste Snelheid behalve dat in plaats van het gebruiken van de Geplande waarde van de Duur van het definitieve plan willen wij de Geplande Duur gebruiken die eerst aan de klant werd beloofd. We gaan ervan uit dat de oorspronkelijke basislijn deze informatie bevat (en we zijn van plan om vanaf nu onze projectmanagers te vragen hun projecten op deze manier te plannen, zodat we nauwkeurige gegevens kunnen vastleggen). We hebben deze waarde voor de duur vastgelegd vanaf de oorspronkelijke basislijn en de waarde First Duration genoemd.
+Deze formule is als Aangepaste Snelheid behalve dat in plaats van het gebruiken van de Geplande waarde van de Duur van het definitieve plan willen wij de Geplande Duur gebruiken die eerst aan de klant werd beloofd. Wij veronderstellen dat de Originele basislijn deze informatie bevat (en wij zijn van nu af aan van plan om onze projectmanagers te vragen om hun projecten op deze manier te plannen zodat wij nauwkeurige gegevens kunnen vangen). We hebben deze waarde voor de duur vastgelegd vanaf de oorspronkelijke basislijn en de waarde First Duration genoemd.
 
 Door de Ware Duur door of Geplande Duur of Eerste Duur te delen, komen wij met een aantal terecht dat ons kan vertellen hoe dicht wij aan op doel kwamen. Als de Geplande Duur of Eerste Duur aan de Ware Duur gelijk zijn zal de index 1 gelijk hebben. Als de werkelijke duur groter is, is het antwoord meer dan 1. Hoe groter het aantal dat we hebben gedaan toen we onze datum ontmoetten.
 
@@ -181,7 +182,7 @@ Ik wil graag een proefverslag opstellen. Een lijst van projecten die aantonen ho
 
 Maak een documentrapport.
 
-In de standaardweergave wordt het versienummer weergegeven. U wilt dat hier laten, maar u kunt andere kolommen wijzigen.
+In de standaardweergave wordt het versienummer weergegeven. U wilt dat daar laten, maar u kunt andere kolommen wijzigen.
 
 Groepeer het rapport door de Naam van het Project.
 
@@ -195,7 +196,7 @@ Kunt u snelheid gebruiken op taakniveau? In plaats van projectniveau?
 
 **Antwoord**
 
-Ja, maar u moet het aangepaste formulier voor het project kopiëren en er een aangepaste taakvorm van maken. Dan zult u de berekening in het Eerste gebied van de Datum moeten uitgeven Vastleggen en zult de verwijzing in &quot;StandaardBasislijn&quot;in &quot;StandaardTaak van de Basislijn&quot;veranderen. Doe het zelfde voor Eerste Duur. Vervolgens kunt u het aangepaste taakformulier toevoegen aan alle taken die u wilt meten. U zult taakrapporten in plaats van projectrapporten voor deze moeten creëren. Nochtans zult u nog moeten ervoor zorgen dat de Originele projectbasislijn als standaardbasislijn wordt geplaatst. Alle taakgegevens worden gehouden in de zelfde basislijn met de projectgegevens.
+Ja, maar u moet het aangepaste formulier voor het project kopiëren en er een aangepaste taakvorm van maken. Dan zult u de berekening in het Eerste gebied van de Datum moeten uitgeven Vastleggen en zult de verwijzing in &quot;StandaardBasislijn&quot;in &quot;StandaardTaak van de Basislijn&quot;veranderen. Doe hetzelfde voor Eerste duur. Vervolgens kunt u het aangepaste taakformulier toevoegen aan alle taken die u wilt meten. U zult taakrapporten in plaats van projectrapporten voor deze moeten creëren. Nochtans zult u nog moeten ervoor zorgen dat de Originele projectbasislijn als standaardbasislijn wordt geplaatst. Alle taakgegevens worden gehouden in de zelfde basislijn met de projectgegevens.
 
 **Vraag**
 
@@ -215,7 +216,7 @@ Berekende velden worden opnieuw berekend:
 
 * Wanneer een gebruiker het object bewerkt
 * Bij bulkbewerking met geactiveerde aangepaste expressies opnieuw berekenen
-* Wijzigingen in het formulier met de optie &quot;Vorige berekeningen bijwerken&quot; geselecteerd
+* Wijzigingen in het formulier met de optie Vorige berekeningen bijwerken
 
 **Vraag**
 
@@ -227,7 +228,7 @@ Nr, verwijst de optie van de Voorkeur van het Project slechts naar hoe Percentag
 
 **Vraag**
 
-Wat is het verschil tussen eerste en planduur?
+Wat is het verschil tussen de eerste en de planningsduur?
 
 **Antwoord**
 
@@ -251,9 +252,9 @@ Ik probeer te bepalen of het mogelijk is om een dashboard met één gebied tot s
 
 **Antwoord**
 
-Laten we eens kijken of ik uw vraag begrijp. Stel dat ik een aangepaste taakvorm heb met de naam Tammy Form met daarin een veld met de naam Tammy Field.
+Laten we eens kijken of ik je vraag begrijp. Stel dat ik een aangepaste taakvorm heb met de naam Tammy Form met daarin een veld met de naam Tammy Field.
 
-U wilt een taakrapport met alle taken waaraan Tammy Form is gekoppeld en waaraan Tammy Field een bepaalde waarde heeft.
+U wilt een taakrapport waarin alle taken worden weergegeven waaraan Tammy Form is gekoppeld en waarin Tammy Field een bepaalde waarde heeft.
 
 Ja, dat kunt u doen. U zou enkel een filter in uw taakrapport met twee filterregels nodig hebben:
 
@@ -267,7 +268,7 @@ Is er een manier om een rapport te creëren om naar een specifiek genoemd docume
 
 **Antwoord**
 
-Ja. U moet een documentrapport maken. Het lijkt alsof u een specifieke documentnaam zou kunnen willen verstrekken telkens als u het rapport in werking stelt. Als dat het geval is, zou ik adviseren om Opties van het Rapport te gaan en de Prompts van het Rapport te selecteren. Voeg een herinnering voor Document > Naam toe.
+Ja. U moet een documentrapport maken. Het lijkt alsof u een specifieke documentnaam zou kunnen willen verstrekken telkens als u het rapport in werking stelt. Als dat het geval is zou ik adviseren om Opties van het Rapport te gaan en de Prompts van het Rapport te selecteren. Voeg een herinnering voor Document > Naam toe.
 
 **Vraag**
 
@@ -333,15 +334,15 @@ Een kortere weg voor het toevoegen van douaneformulieren aan een groot aantal pr
 
 **Vraag**
 
-Is het mogelijk dubbele ingangen uit binnen de groepering op een taakrapport te verwijderen, maar niet over groepen?
+Is het mogelijk om dubbele ingangen uit binnen de groepering op een taakrapport te verwijderen, maar niet over groepen?
 
 **Antwoord**
 
 De beste manier om over groeperingen in lijstrapporten te denken is dit:
 
-Eerst bepaalt u met het tabblad Filter welke items worden weergegeven in de lijst. Er zijn geen dubbele vermeldingen. Het filter wordt toegepast op elk object. Als het filter wordt doorgegeven, wordt het eenmaal in de lijst weergegeven als het filter helemaal niet wordt weergegeven.
+Eerst bepaalt u met het tabblad Filter welke items worden weergegeven in de lijst. Er zijn geen dubbele vermeldingen. Het filter wordt toegepast op elk object. Als het door het filter loopt, wordt het één keer in de lijst weergegeven als het helemaal niet wordt weergegeven.
 
-De volgende groepering wordt toegepast op de gefilterde lijst. Een groep identificeert één ding over de objecten in de lijst, zoals de naam van de portfolio waarin de groep zich bevindt (u kunt niet groeperen in een lijst van dingen, maar slechts op één ding). Vervolgens worden alle objecten met dezelfde waarde in die groep weergegeven, zoals alle projecten in hetzelfde portfolio. Projecten waarvoor geen portfolio is geselecteerd, worden in de groep met de naam &quot;Geen waarde&quot; weergegeven.
+De volgende groepering wordt toegepast op de gefilterde lijst. Een groepering identificeert één ding over de voorwerpen in de lijst, zoals de naam van de portefeuille het in is (u kunt niet op een lijst van dingen groeperen, slechts op één enkel ding). Vervolgens worden alle objecten met dezelfde waarde in die groep weergegeven, zoals alle projecten in hetzelfde portfolio. Alle projecten waarvoor geen portfolio is geselecteerd, worden in de groep met de naam &quot;Geen waarde&quot; weergegeven.
 
 Het resultaat is dat objecten niet in meerdere groepen kunnen worden weergegeven. En of een object in de lijst wordt weergegeven, wordt volledig door het filter gecontroleerd (en of de persoon die het rapport uitvoert rechten heeft om het te bekijken).
 
@@ -357,7 +358,7 @@ Een van de redenen waarom ik besloot om Actual Duration te vergelijken met twee 
 
 Maar u zou net zo goed kunnen beslissen om andere informatie over taken of projecten te volgen om over te rapporteren.
 
-Workfront heeft geen ingebouwde snelheidsrapporten. Daarom raad ik u en uw team aan om te bepalen wat u wilt weten om snelheid te bepalen en dan te zien wat u nodig hebt om te volgen.
+Workfront heeft geen ingebouwde snelheidsrapporten, zodat zou ik u en uw teambrainstorm op wat u wilt weten om snelheid te bepalen en dan te zien wat u moet volgen adviseren.
 
 **Vraag**
 
@@ -367,7 +368,7 @@ Kunt u iets berekenen op KOLOM-niveau? In plaats van een berekend VELD vanuit ee
 
 Voor deze berekeningen zou een expressie value in tekstmodus kunnen worden gebruikt. We hadden Eerste Duur of Eerste Vastlegdatum echter niet kunnen doen, we moesten die vastleggen op een plaats waar ze niet zouden veranderen.
 
-Wat betreft het werk-aan-Commit de Status van de Verhouding en de Aangepaste Status van de Snelheid, moesten deze douanegebieden zijn zodat wij hen in het lusje van de Grafiek konden gebruiken. Het tabblad Diagram herkent tekstmodusgroepen niet, maar moet aangepaste velden zijn. En omdat we werkgebonden ratio en aangepaste snelheid nodig hadden om die statussen te berekenen, moesten ze ook aangepaste velden zijn. In dit geval moesten ze allemaal aangepaste velden zijn, maar het is altijd verstandig om beide manieren in overweging te nemen en te kiezen wat het beste werkt. Bedankt voor de vraag.
+Wat betreft het werk-aan-Commit de Status van de Verhouding en de Aangepaste Status van de Snelheid, moesten deze douanegebieden zijn zodat wij hen in het lusje van de Grafiek konden gebruiken. Het tabblad Diagram herkent tekstmodusgroepen niet, maar moet aangepaste velden zijn. En omdat we werkgebonden ratio en aangepaste snelheid nodig hadden om die statussen te berekenen, moesten ze ook aangepaste velden zijn. In dit geval moesten ze allemaal aangepaste velden zijn, maar het is altijd goed om beide manieren te overwegen en te kiezen wat het beste werkt. Bedankt voor de vraag.
 
 **Vraag**
 
@@ -377,7 +378,7 @@ Onze projecten veranderen vaak als gevolg van vertragingen of veranderingen door
 
 De beste praktijken moeten een dropdown gebruiken om dit te volgen. Plaats zoveel &quot;redenen&quot; als u daar kunt bedenken om mee te beginnen en voeg vervolgens een &quot;andere&quot; optie toe om een reden vast te leggen die niet op de lijst staat. Als die nieuwe reden kijkt of gemeenschappelijk wordt voeg het aan uw dropdown toe. U kunt gemakkelijk over dingen in een drop-down lijst rapporteren, en u kunt op dit gebied groeperen (u kunt niet op checkboxes of een multi-select drop-down groeperen).
 
-Nog een opmerking hierover. U kunt niet alle projecten in uw rapporten van de Snelheid willen omvatten. Als u bugs corrigeert of &quot;gaat naar waar niemand eerder is geweest&quot;, doet u waarschijnlijk niet hetzelfde soort betrokkenheid bij een voltooiingsdatum als wanneer u een huis bouwt dat u al vele malen eerder hebt gebouwd.
+Nog een opmerking hierover. U kunt niet alle projecten in uw rapporten van de Snelheid willen omvatten. Als je insecten corrigeert of &quot;gaat waar niemand eerder heen is gegaan&quot; dan maak je waarschijnlijk niet dezelfde betrokkenheid bij een einddatum als wanneer je een huis bouwt dat je al vele malen eerder hebt gebouwd.
 
 Zorg er dus voor dat u zich op de snelheid van uw rapportage richt op plaatsen waar dit u kan helpen uw doelen te bereiken.
 
@@ -403,11 +404,11 @@ Kunt u een rapport maken waarin wordt gezocht naar een specifiek benoemd documen
 
 **Antwoord**
 
-Ja. U moet een documentrapport maken. Het lijkt alsof u een specifieke documentnaam zou kunnen willen verstrekken telkens als u het rapport in werking stelt. Als dat het geval is, zou ik adviseren om Opties van het Rapport te gaan en de Prompts van het Rapport te selecteren. Voeg een herinnering voor Document > Naam toe.
+Ja. U moet een documentrapport maken. Het lijkt alsof u een specifieke documentnaam zou kunnen willen verstrekken telkens als u het rapport in werking stelt. Als dat het geval is zou ik adviseren om Opties van het Rapport te gaan en de Prompts van het Rapport te selecteren. Voeg een herinnering voor Document > Naam toe.
 
 **Vraag**
 
-Waarom zijn in rapporten waarden beschikbaar als kolom maar niet als selectie of groepering? Bijvoorbeeld: Bron van uitgave.
+Waarom zijn in rapporten waarden beschikbaar als kolom maar niet als selectie of groepering? Bijvoorbeeld: bron van uitgave.
 
 **Antwoord**
 
@@ -441,14 +442,14 @@ Met de functie Analytics in Workfront kunt u historische gegevens, waaronder sta
 
 Maar u kunt de informatie van de statusverandering ook krijgen gebruikend een rapport van de Nota. U kunt filteren om statusveranderingen op projecten te zien als u het gebied van de Status van het Project volgt.
 
-Zo eerst, ga naar Opstelling>Interface>de Doelen van de Update en zorg ervoor de Status van het Project één van de Ingebouwde Gebieden is die wordt gevolgd. Als dit niet het geval is, moet u het toevoegen.
+Zo eerst, ga naar Opstelling>Interface>de Doelen van de Update en zorg ervoor de Status van het Project één van de Ingebouwde Gebieden is die wordt gevolgd. Als het niet is moet u het toevoegen.
 
 Maak nu een notitierapport en voer de volgende handelingen uit:
 
 Op het tabblad Kolommen (Weergave):
 
 * Vervang de kolom &quot;Notititietekst&quot; in &quot;Tekst controleren&quot;. Hiermee wordt informatie weergegeven over de gewijzigde status van en naar
-* Verlaat het &quot;Project: Naam&quot; en de kolommen &quot;Datum van binnenkomst&quot;
+* Laat de kolommen &quot;Project: Name&quot; en &quot;Entry Date&quot; staan
 * Klik op de kolom Datum van item en schakel Sorteren op deze kolom in het deelvenster Kolominstellingen in. Als u wilt dat de meest recente statuswijzigingen bovenaan worden weergegeven, wordt de sortering aflopend.
 
 Op het tabblad Groepen:
@@ -467,4 +468,4 @@ Als Planner kunt u rapporten voor andere gebruikers trekken?
 
 **Antwoord**
 
-Een Planner kan rapporten maken en deze delen met alle gebruikers, zelfs met personen die geen gebruikers zijn. Wanneer het bekijken van het rapport, ga naar de Acties van het Rapport>delend, dan klik op het tandwielpictogram in de hogere recht van het vakje van de Toegang van het Rapport. Kies &quot;Maak dit openbaar aan externe gebruikers.&quot; optie. U kunt de geleverde koppeling kopiëren en naar iedereen verzenden. Ze zullen het rapport in real time in hun browser zien.
+Een Planner kan rapporten maken en deze delen met alle gebruikers, zelfs met personen die geen gebruikers zijn. Wanneer het bekijken van het rapport, ga naar de Acties van het Rapport>delend, dan klik op het tandwielpictogram in de hogere recht van het vakje van de Toegang van het Rapport. Kies &quot;Maak dit openbaar aan externe gebruikers.&quot; -optie. U kunt de geleverde koppeling kopiëren en naar iedereen verzenden. Ze zullen het rapport in real time in hun browser zien.
