@@ -3,7 +3,7 @@ title: Adobe Experience League Events
 description: Een inzameling van gebeurtenisopnamen concentreerde zich op het gebruiken van de producten van de Onderneming van Adobe
 mini-toc-levels: 0
 exl-id: 508c5b96-e874-4b5a-a773-9e3d714e9ee8
-source-git-commit: e6b314b48137e9d3ee7d389977843f10cb6927f3
+source-git-commit: 0babdbc3b4429b9a691e6436f0973adadc68d5b1
 workflow-type: tm+mt
 source-wordcount: '895'
 ht-degree: 0%
@@ -221,8 +221,6 @@ Blijf in de lus op exclusieve evenementen en webinars om uw leermogelijkheden ui
          Marketo en Mochas zullen u helpen om beter te begrijpen hoe te om Adobe Marketo te gebruiken om uw zaken te steunen.
       </p>
     </td>
-    </tr>
-    <tr>
     <td>
       <a href="/help/office-hours/overview.md">
       <img style="width:100%" alt="Kantooruren" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-office-hours.png"/>
@@ -236,6 +234,8 @@ Blijf in de lus op exclusieve evenementen en webinars om uw leermogelijkheden ui
          De Uren van het bureau is een pro-actieve benadering van gevalvervorming door klanten oplossing-specifieke webinars aan te bieden. 
       </p>
     </td>
+    </tr>
+    <tr>    
     <td>
       <a href="/help/mbi-webinars/overview.md">
       <img style="width:100%" alt="MBI Webinars" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-mbi-webinars.png"/>
@@ -261,9 +261,7 @@ Blijf in de lus op exclusieve evenementen en webinars om uw leermogelijkheden ui
         <br/>
          Skill Builder is een webinar reeks die wordt ontworpen om uw kennisbasis te bouwen en uw investering in Adobe Experience Cloud te maximaliseren.
       </p>
-    </td>
-    </tr>
-    <tr>     
+    </td>   
    <td>
       <a href="/help/skill-exchange/overview.md">
       <img style="width:100%" alt="Marketo en Mochas" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-skill-exchange.png"/>
@@ -276,7 +274,7 @@ Blijf in de lus op exclusieve evenementen en webinars om uw leermogelijkheden ui
         <br/>
          De Makers van de ervaring de Uitwisseling van de Vaardigheid is een globale reeks virtuele klanten leergebeurtenissen, die zich op het divers in de oplossingen van Adobe Experience Cloud concentreren. Dit programma biedt de mogelijkheid om te leren van productdeskundigen en experts in de Adobe door het delen van beste praktijken en tips en trucs.
       </p>
-    </td>
+    </td> 
     <td>
       <a href="/help/workfront/overview.md">
       <img style="width:100%" alt="Workfront" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-workfront.png"/>
