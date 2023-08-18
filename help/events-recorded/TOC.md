@@ -1,10 +1,10 @@
 ---
 user-guide-title: Adobe Experience League-gebeurtenisopnamen
 user-guide-breadcrumb: Event Recordings
-user-guide-description: Een inzameling van gebeurtenis die bij het gebruiken van Adobe recordings voor producten wordt gebruikt
-source-git-commit: 0122cd988472a6c1b87318b925f87b56e908c6e9
+user-guide-description: Een verzameling gebeurtenisopnamen die zijn geforceerd bij het gebruik van Enterprise-producten van Adoben
+source-git-commit: cd312615b7569fd5eabdee3b08e63ccb23b6ec28
 workflow-type: tm+mt
-source-wordcount: '580'
+source-wordcount: '588'
 ht-degree: 3%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 3%
 + [Overzicht](overview.md)
 + Op serie {#series}
    + [Adobe Campaign Insider-reeks](https://experienceleague.adobe.com/docs/events/adobe-campaign-insider-recordings/overview.html)
-   + [Adobe Content Management Forum](https://experienceleague.adobe.com/docs/events/adobe-content-management-forum-recordings/overview.html)
+   + [Adobe-inhoudsbeheerforum](https://experienceleague.adobe.com/docs/events/adobe-content-management-forum-recordings/overview.html)
    + [Adobe Developers Live](https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html)
    + [AEM kantooruren](https://experienceleague.adobe.com/docs/events/aem-champion-office-hours/overview.html)
    + [APAC Commerce Events](https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/overview.html)
@@ -28,6 +28,7 @@ ht-degree: 3%
    + [Leer van je peers](https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html)
    + [Marketo en Mochas](https://experienceleague.adobe.com/docs/events/marketo-and-mochas-recordings/overview.html)
    + [MBI Webinars](https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/overview.html)
+   + [Kantooruren](https://experienceleague.adobe.com/docs/events/office-hours/overview.html)
    + [Skill Builder](https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html)
    + [De Uitwisseling van de Vaardigheid](https://experienceleague.adobe.com/docs/events/the-skill-exchange-recordings/overview.html)
    + [Workfront](https://experienceleague.adobe.com/docs/events/workfront-recordings/overview.html)
@@ -54,7 +55,7 @@ ht-degree: 3%
    + Adobe Customer Journey Analytics {#cja}
       + [Skill Builder](https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html)
    + Adobe Experience Manager {#aem}
-      + [Adobe Content Management Forum](https://experienceleague.adobe.com/docs/events/adobe-content-management-forum-recordings/overview.html)
+      + [Adobe-inhoudsbeheerforum](https://experienceleague.adobe.com/docs/events/adobe-content-management-forum-recordings/overview.html)
       + [Adobe Developers Live](https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html)
       + [AEM kantooruren](https://experienceleague.adobe.com/docs/events/aem-champion-office-hours/overview.html)
       + [Experience League Live](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html)
@@ -75,7 +76,7 @@ ht-degree: 3%
       + [De Uitwisseling van de Vaardigheid](https://experienceleague.adobe.com/docs/events/the-skill-exchange-recordings/overview.html)
    + Adobe Journey Optimizer {#ajo}
       + [Experience League Live](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html)
-   + Adobe Real-time CDP {#rtcdp}
+   + Adobe in realtime CDP {#rtcdp}
       + [Klantengegevensbeheerstemmen](https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/overview.html)
       + [Experience League Live](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html)
       + [Skill Builder](https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html)
