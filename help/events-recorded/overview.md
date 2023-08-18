@@ -3,7 +3,7 @@ title: Adobe Experience League Events
 description: Een inzameling van gebeurtenisopnamen concentreerde zich op het gebruiken van de producten van de Onderneming van Adobe
 mini-toc-levels: 0
 exl-id: 508c5b96-e874-4b5a-a773-9e3d714e9ee8
-source-git-commit: 0babdbc3b4429b9a691e6436f0973adadc68d5b1
+source-git-commit: b6698ad19e3bd67ea83a5cf9ad69716639dc55db
 workflow-type: tm+mt
 source-wordcount: '895'
 ht-degree: 0%
@@ -226,7 +226,7 @@ Blijf in de lus op exclusieve evenementen en webinars om uw leermogelijkheden ui
       <img style="width:100%" alt="Kantooruren" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-office-hours.png"/>
       </a>
       <div>
-         <a href="/help/mbi-webinars/overview.md"><strong>Kantooruren</strong></a>
+         <a href="/help/office-hours/overview.md"><strong>Kantooruren</strong></a>
         <br/><em class="title is-size-7" style="color: #858585;">Adobe Commerce</em>
       </div>
       <p>
