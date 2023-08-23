@@ -7,16 +7,16 @@ role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 event-series: Experience League Live
 exl-id: 80de5748-89c2-4680-8978-21aff75d5e32
-source-git-commit: 1f9b259f31faf9c58a8ea161d17dcffdba47a53d
+source-git-commit: 6682d7be406a8922067c520b7c21cd2da001fd80
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '171'
 ht-degree: 1%
 
 ---
 
 # EXPERIENCE LEAGUE LIVE
 
-Experience League LIVE is een live streaming show die wordt gemaakt door het team van Experiencen League.  Het is een kans om met de productdeskundigen van Adobe te verbinden en actionable uiteinden, trucs, en strategieën te leren u met de toepassingen van Adobe Experience Cloud kunt toepassen.
+Experience League LIVE is een live streaming show die wordt gemaakt door het team van Experiencen League.  Het is een kans om met de deskundigen van het product van de Adobe te verbinden en actionable uiteinden, trucs, en strategieën te leren u met de toepassingen van Adobe Experience Cloud kunt toepassen.
 
 <div id="upcoming-events">
 
@@ -24,16 +24,8 @@ Experience League LIVE is een live streaming show die wordt gemaakt door het tea
 
 <table>
 <tr>
-  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-8-23-23.md">
-      <img alt="Experience League LIVE apr 21" src="assets/Aug23_exl_live_banner_web_1920_WebBanner.jpg">
-    </a>
-    <div>
-      <a href="episodes/exl-live-episode-8-23-23.md">
-        <strong>API-activering van berichten in Adobe Journey Optimizer</strong>
-      </a>
-      <br/><em>met Sandra Hausmann, Siddharth Jain, Nikhil Sharma en Chetan Prasad</em>
-      <br/><em>23 augustus 2023</em>
-    </div>
+  <td>
+    Bezoek deze pagina in de nabije toekomst voor meer informatie over komende episodes, waaronder de episode van september 2023 met betrekking tot Lookalike Audiences in Real-time Customer Data Platform!
   </td>
 </tr>
 </table>
