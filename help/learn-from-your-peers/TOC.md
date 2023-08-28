@@ -2,10 +2,10 @@
 user-guide-title: "[!DNL Experience Makers Learn from your peers]"
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: "Verzameling opnamen van [!DNL Experience Makers Learn from your peers]"
-source-git-commit: e52d34d59b96fcde3e964733c3cfec49f0a46cff
+source-git-commit: 595fb971e2d7a3d8bdd4ea8608e896f187fd185e
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 17%
+source-wordcount: '97'
+ht-degree: 16%
 
 ---
 
@@ -15,6 +15,8 @@ ht-degree: 17%
 + [Experience Makers](overview.md)
 + Analytics {#analytics}
    + 2023 {#2023}
+      + Augustus {#aug2023}
+         + [De kracht van verwerkingsregels in Adobe Analytics vrijmaken](analytics/aug2023/processing-rules.md)
       + Februari {#feb2023}
          + [Een op gegevens gebaseerde cultuur maken](analytics/feb2023/data-driven-culture.md)
          + [Een door gegevens gestuurde cultuur opvolgvragen en antwoorden samenstellen](analytics/feb2023/data-driven-culture-q-and-a.md)

@@ -9,10 +9,10 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 95a4f33eb72b0feb1d15875b04ee67d7256d1bd6
+source-git-commit: 595fb971e2d7a3d8bdd4ea8608e896f187fd185e
 workflow-type: tm+mt
-source-wordcount: '28'
-ht-degree: 10%
+source-wordcount: '33'
+ht-degree: 9%
 
 ---
 
@@ -26,4 +26,5 @@ ht-degree: 10%
    + [Leverbaarheid - Deel 2](2023/deliverability-part-two.md)
    + [Scores voor lead](2023/lead-scoring.md)
    + [Levenscyclusmodellen](2023/lifecycle-modeling.md)
+   + [Beste praktijken MSI en Optimalisering](2023/msi-best-practices.md)
    + [Online versus offline kanalen](2023/online-offline.md)
