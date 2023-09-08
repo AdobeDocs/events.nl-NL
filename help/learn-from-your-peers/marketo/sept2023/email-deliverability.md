@@ -10,7 +10,7 @@ doc-type: Event
 last-substantial-update: 2023-09-07T00:00:00Z
 jira: KT-13911
 thumbnail: 3423966.jpeg
-source-git-commit: af2e6fa6688927c1259f8d673231d1901c352461
+source-git-commit: ce580d05a3de350517960eba121dd5b739028643
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
@@ -23,6 +23,7 @@ ht-degree: 0%
 Doe mee aan dit webinar &quot;Learn from your peers&quot;, zoals Adobe Marketo Champion Beth Massura, vertelt hoe ze factoren beoordeelt die van invloed zijn op de e-mailleverbaarheid, handelt onder rode vlaggen en zorgt voor goede leverantie met ingebouwde functies in Marketo Engage.
 
 In dit webinar leert u meer over:
+
 * Welke factoren dragen bij tot de e-mailleverbaarheid.
 * Uw huidige status beoordelen met gebruik van E-mailprestatierapporten, prestatierapporten voor personen en slimme lijsten.
 * Stappen om risico&#39;s voor uw e-maillevering te verminderen, met inbegrip van controleprotocollen, het handhaven van gegevensbestandkwaliteit en het gebruiken van nauwkeurige richten.
