@@ -3,7 +3,7 @@ title: Overzicht van Adobe Experience Manager as a Cloud Service-release
 description: Bekijk een kort overzicht van de nieuwste functies op Adobe Experience Manager as a Cloud Service
 user-guide-breadcrumb: AEM Release Events
 exl-id: 15bc0a37-79c6-47f7-958b-96b47fe8b3ff
-source-git-commit: 7f97d20f4e32a26c80b7ce5b2095edc47fbbd8ca
+source-git-commit: aa5a4e33d739dc33f17c6d5627552df5e0e772c1
 workflow-type: tm+mt
 source-wordcount: '223'
 ht-degree: 8%
@@ -16,6 +16,28 @@ ht-degree: 8%
 Bekijk een kort overzicht van de nieuwste functies op Adobe Experience Manager as a Cloud Service. Dit zijn korte, ongeveer 10 minuten durende video&#39;s die door het AEM productteam worden geleverd en die de hooglichten van de nieuwste release delen.
 
 ## Laatste update
+
+<table style="max-width: 50%;">
+  <tr>
+    <td>
+      <a href="2023/2023-8-0.md">
+        <img alt="2023.8.0 Release" src="2023/assets/2023-8-0-thumb.png" />
+      </a>
+      <div>
+        <a href="2023/2023-8-0.md">
+          <strong>Geen | 2023,8,0</strong>
+          <br/>
+        </a>
+          <em>Releasedatum augustus 2023 </em>
+      </div>
+      <p>
+        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Aanvullende informatie</a>
+      <p>
+    </td>
+  </tr>  
+</table>
+
+## Oudere updates
 
 <table style="max-width: 50%;">
   <tr>
@@ -34,13 +56,6 @@ Bekijk een kort overzicht van de nieuwste functies op Adobe Experience Manager a
         <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Aanvullende informatie</a>
       <p>
     </td>
-  </tr>  
-</table>
-
-## Oudere updates
-
-<table style="max-width: 50%;">
-  <tr>
     <td>
       <a href="2023/2023-6-0.md">
         <img alt="2023.6.0 Release" src="2023/assets/2023-6-0-thumb.png" />
@@ -65,12 +80,14 @@ Bekijk een kort overzicht van de nieuwste functies op Adobe Experience Manager a
           <strong>Geen | 2023,4,0</strong>
           <br/>
         </a>
-          <em>Releasedatum juni 2023 </em>
+          <em>Releasedatum april 2023 </em>
       </div>
       <p>
         <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Aanvullende informatie</a>
       <p>
     </td>
+    </tr>
+    <tr>
     <td>
       <a href="2023/2023-2-0.md">
         <img alt="2023.2.0 Release" src="2023/assets/2023-2-0-thumb.png" />
@@ -86,7 +103,6 @@ Bekijk een kort overzicht van de nieuwste functies op Adobe Experience Manager a
         <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Aanvullende informatie</a>
       <p>
     </td>
-    <tr>
     <td>
       <a href="2023/2023-1-0.md">
         <img alt="2023.1.0 Release" src="2023/assets/2023-1-0-thumb.png" />
@@ -117,6 +133,8 @@ Bekijk een kort overzicht van de nieuwste functies op Adobe Experience Manager a
         <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Aanvullende informatie</a>
       <p>
     </td>
+    </tr>
+    <tr>
     <td>
       <a href="2022/2022-8-0.md">
         <img alt="2022.8.0 Release" src="2022/assets/2022-8-0-thumb.png" />
@@ -132,7 +150,6 @@ Bekijk een kort overzicht van de nieuwste functies op Adobe Experience Manager a
         <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Aanvullende informatie</a>
       <p>
     </td>
-    </tr>
     <td>
       <a href="2022/2022-7-0.md">
         <img alt="2022.7.0 Release" src="2022/assets/2022-7-0-thumb.png" />
@@ -158,21 +175,6 @@ Bekijk een kort overzicht van de nieuwste functies op Adobe Experience Manager a
           <br/>
         </a>
           <em>Releasedatum 30 juni 2022 </em>
-      </div>
-      <p>
-        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Aanvullende informatie</a>
-      <p>
-    </td>
-    <td>
-      <a href="2022/2022-5-0.md">
-        <img alt="2022.5.0 Release" src="2022/assets/2022-5-0-thumb.png" />
-      </a>
-      <div>
-        <a href="2022/2022-5-0.md">
-          <strong>Geen | 2022,5,0</strong>
-          <br/>
-        </a>
-          <em>Releasedatum 9 juni 2022 </em>
       </div>
       <p>
         <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Aanvullende informatie</a>
