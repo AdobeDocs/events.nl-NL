@@ -1,5 +1,5 @@
 ---
-title: Maximale waarde met Adobe Audience Manager | Navigeren naar veranderingen in de industrie en overstappen op RTCDP
+title: Maximale waarde met Adobe Audience Manager | Navigeren naar wijzigingen in de branche en overstappen op CDP in real time
 description: Leer met verschuivende tijdlijnen voor industriële wijzigingen hoe u waarde kunt blijven ontgrendelen met Adobe Audience Manager en hoe u de overgang naar RTCDP vanuit het oogpunt van zowel gebruiksscenario als organisatorische gereedheid kunt voorbereiden.
 solution: Audience Manager
 feature-set: Audience Manager
@@ -10,16 +10,16 @@ doc-type: Event
 last-substantial-update: 2023-07-22T00:00:00Z
 jira: KT-13689
 thumbnail: 3421282.jpeg
-source-git-commit: 6ec7be7a69a315606e4c9aa11d700cca0f78b33f
+source-git-commit: 7378dc0e3e7caf4942e90e95668806bca03c1067
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '97'
 ht-degree: 0%
 
 ---
 
 
-# Maximale waarde met Adobe Audience Manager | Navigeren naar veranderingen in de industrie en overstappen op RTCDP
+# Maximale waarde met Adobe Audience Manager | Navigeren naar wijzigingen in de branche en overstappen op CDP in real time
 
-Leer met verschuivende tijdlijnen voor industriële wijzigingen hoe u waarde kunt blijven ontgrendelen met Adobe Audience Manager en hoe u de overgang naar RTCDP vanuit het oogpunt van zowel gebruiksscenario als organisatorische gereedheid kunt voorbereiden.
+Leer met verschuivende tijdlijnen voor industriële wijzigingen hoe u waarde kunt blijven ontgrendelen met Adobe Audience Manager en hoe u de overgang naar CDP in real-time vanuit het oogpunt van zowel gebruiksscenario als organisatorische gereedheid kunt voorbereiden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421282/?learn=on)
