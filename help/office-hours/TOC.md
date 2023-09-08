@@ -2,10 +2,10 @@
 user-guide-title: Kantooruren Adobe
 user-guide-breadcrumb: Adobe Office Hours
 user-guide-description: De Uren van het bureau is een pro-actieve benadering van gevalvervorming door klanten oplossing-specifieke webinars aan te bieden.
-source-git-commit: cb7148bcc186fc747d97476d12648e40cc7e147a
+source-git-commit: dcddd5ed81868ffcd0bf2a41fd898800129a4bc0
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 14%
+source-wordcount: '89'
+ht-degree: 15%
 
 ---
 
@@ -16,6 +16,8 @@ ht-degree: 14%
 + 2023 {#2023}
    + Adobe Campaign {#adobe-campaign-office-hours}
       + [Tips voor overzicht en probleemoplossing van SMS-kanalen](2023/ac-sms-channel-overview.md)
+   + Adobe Analytics {#adobe-analytics}
+      + [Aanbevolen werkwijzen starten](2023/launch-best-practices.md)
    + Adobe Experience Platform {#adobe-experience-platform-office-hours}
       + [Machtigingen Admin Console](2023/aep-admin-console-permissions.md)
    + Adobe Experience Manager {#adobe-experience-manager-office-hours}
