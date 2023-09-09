@@ -11,7 +11,7 @@ doc-type: Event
 last-substantial-update: 2023-09-08T00:00:00Z
 jira: KT-13920
 thumbnail: KT-13920.jpeg
-source-git-commit: 192b072538492f4b4161f0915441e851e933c1d2
+source-git-commit: 51133c6630872a8da35522544e7184884905d2a0
 workflow-type: tm+mt
 source-wordcount: '294'
 ht-degree: 0%
@@ -19,7 +19,9 @@ ht-degree: 0%
 ---
 
 
-# Het potentieel van New Relic APM vrijmaken voor AEM as a Cloud Service. Maximaliseer prestaties en versnelde probleemoplossing.
+# Het potentieel van New Relic APM vrijmaken voor AEM as a Cloud Service
+
+Maximaliseer prestaties en versnelde probleemoplossing.
 
 Dit webinar zal worden uitgevoerd op 20 september - 17:00 uur CEST | 8am PDT | 20.30 uur IST
 
@@ -48,4 +50,3 @@ Sluit u aan bij ons op onze sessie waar wij u zullen helpen bij het herkennen en
 >* Voor sessiespecifieke community-interacties over Experience League wordt binnenkort een link geplaatst.
 >
 >* Als je berichten wilt ontvangen over onze komende webinars, kun je je inschrijven op [Gebruikersgroep AEM Adobe](https://aem-augs.adobe.com/).
-
