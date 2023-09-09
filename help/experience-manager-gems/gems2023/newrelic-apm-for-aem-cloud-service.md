@@ -11,7 +11,7 @@ doc-type: Event
 last-substantial-update: 2023-09-08T00:00:00Z
 jira: KT-13920
 thumbnail: KT-13920.jpeg
-source-git-commit: 3f90292238ae559361bf6ca3736e30742044a5b0
+source-git-commit: 2bbbbeee2332f7353a6fe527fdc83718030ce23a
 workflow-type: tm+mt
 source-wordcount: '294'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 Maximaliseer prestaties en versnelde probleemoplossing.
 
-Dit webinar zal op 20 september - 5pm CEST \| 8am PDT \| 8.30pm IST worden uitgevoerd
+Dit webinar zal op 20 september - 5pm CEST - 8am PDT - 8.30pm IST worden uitgevoerd
 
 ## Registratie
 
