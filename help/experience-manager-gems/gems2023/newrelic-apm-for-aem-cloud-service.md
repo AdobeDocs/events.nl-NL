@@ -1,6 +1,6 @@
 ---
 title: newrelic apm voor aem cloud-service
-description: "Sluit u aan bij ons en neem deel aan onze sessie waar we u zullen helpen bij het herkennen en oplossen van uitdagingen die van invloed zijn op uw eindgebruiker, en zorg voor een uitstekende ervaring door de efficiëntie van uw AEM as a Cloud Service project te verbeteren, de invloed van externe services voor uw AEM as a Cloud Service systeem te meten en de aangepaste en op maat gemaakte standpunten optimaal te benutten. Ontdek het proces voor toegang tot New Relic, een functie die standaard is opgenomen met AEM as a Cloud Service. Aarzel niet om je vragen en vragen te stellen."
+description: Sluit u aan bij ons en neem deel aan onze sessie, waar wij u zullen helpen bij het herkennen en oplossen van uitdagingen die uw eindgebruikersklanten beïnvloeden, het verzekeren van een uitstekende ervaring door de efficiency van uw AEM as a Cloud Service Project te verbeteren, de invloed van de externe diensten voor uw AEM as a Cloud Service systeem te meten, en het maken van de maximaal aangepaste en op maat gemaakte meningen. Ontdek het proces voor toegang tot New Relic, een functie die standaard is opgenomen met AEM as a Cloud Service. Aarzel niet om uw vragen en vragen te beantwoorden.
 solution: Experience Manager
 version: Cloud Service
 feature: Developer Tools
@@ -11,7 +11,7 @@ doc-type: Event
 last-substantial-update: 2023-09-08T00:00:00Z
 jira: KT-13920
 thumbnail: KT-13920.jpeg
-source-git-commit: 2bbbbeee2332f7353a6fe527fdc83718030ce23a
+source-git-commit: ac72726b967b526018640f76de930a4abb1e6b59
 workflow-type: tm+mt
 source-wordcount: '294'
 ht-degree: 0%
@@ -35,7 +35,9 @@ Sluit u aan bij ons op onze sessie waar wij u zullen helpen bij het herkennen en
 
 * De efficiëntie van uw AEM as a Cloud Service project verbeteren
 * Het meten van de invloed van externe diensten voor uw AEM as a Cloud Service systeem
-* Het optimaal benutten van aangepaste en op maat gemaakte weergaven Ontdek het proces voor toegang tot New Relic, een functie die standaard bij AEM as a Cloud Service wordt geleverd. Aarzel niet om uw vragen en vragen te beantwoorden.
+* De aangepaste en op maat gemaakte weergaven optimaal benutten
+
+Ontdek het proces voor toegang tot New Relic, een functie die standaard is opgenomen met AEM as a Cloud Service. Aarzel niet om uw vragen en vragen te beantwoorden.
 
 ## Presentatoren
 
