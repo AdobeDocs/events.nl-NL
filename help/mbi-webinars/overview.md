@@ -1,19 +1,23 @@
 ---
-title: MBI Events
-description: Onderzoek MBI geregistreerde webinars, die een brede waaier van onderwerpen en beste praktijken voor het gebruiken van MBI aan zijn maximaal potentieel behandelen.
+title: Commerciële inlichtingenwebinars
+description: Onderzoek de geregistreerde webinars van de Inlichtingendienst van de Handel, die een brede waaier van onderwerpen en beste praktijken voor het gebruiken van de Inlichtingen van de Handel aan zijn maximaal potentieel behandelen.
 exl-id: ebc973b9-a7e0-42a7-968b-17d077b67af4
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: 0111bb0f6e21580fc444dea64462347cf785f8ec
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '303'
+ht-degree: 2%
 
 ---
 
-# MBI Webinars
+# Adobe Commerce Intelligence Webinars
 
-De MBI webinar reeks is een periodieke gebeurtenis voor klanten MBI. De webinars bestrijken een breed scala aan onderwerpen en beste praktijken voor het gebruik van MBI voor het beste potentieel.
+>[!NOTE]
+>
+>Adobe Commerce Intelligence stond voorheen bekend als [!DNL Magento Business Intelligence (MBI)]. Opnamen voor gebeurtenissen uit het verleden geven de vorige naam weer.
 
-Aanwezigen uit alle landen kunnen live deelnemen aan de gebeurtenissen om het product beter te begrijpen en hun vragen over de MBI-functionaliteit rechtstreeks te beantwoorden.
+De webinarserie van de Intelligentie van de Handel is een periodieke gebeurtenis voor klanten MBI. De webinars bestrijken een breed scala aan onderwerpen en beste praktijken om de inlichtingen van de Handel ten volle te benutten.
+
+Aanwezigen uit alle regio&#39;s kunnen live deelnemen aan de gebeurtenissen om het product beter te begrijpen en hun vragen over de functie van de Intelligentie van de Handel rechtstreeks te beantwoorden.
 
 De onderwerpen worden herhaald af en toe om het even welke nieuwe vragen aan te passen die de klanten kunnen stellen.
 
@@ -31,7 +35,7 @@ De onderwerpen worden herhaald af en toe om het even welke nieuwe vragen aan te 
       </a>
     </div>
     <p>
-    <em>Leer rechtstreeks over de kernfunctionaliteit van MBI van het team van het Product van de Handel met een diepe duik in pre-gevormde dashboards en beschikbare aanpassingsopties.</em>
+    <em>Leer rechtstreeks van het productteam over de kernfunctionaliteit van de Intelligentie van de Handel met een diepe duik in pre-gevormde dashboards en beschikbare aanpassingsopties.</em>
     <p>
   </td>
   <td>
@@ -69,5 +73,5 @@ De onderwerpen worden herhaald af en toe om het even welke nieuwe vragen aan te 
 
 ## Nuttige bronnen
 
-- [MBI-video&#39;s en zelfstudies](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/filter-sets.html)
-- [MBI-gebruikershandleiding](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=nl)
+- [Video&#39;s en zelfstudies van de Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/filter-sets.html)
+- [Handboek voor informatie over handel](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=nl)

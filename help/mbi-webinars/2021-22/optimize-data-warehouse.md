@@ -1,5 +1,5 @@
 ---
-title: Uw MBI-Data Warehouse optimaliseren
+title: De Data Warehouse van de Intelligentie van de Handel optimaliseren
 description: Kijk naar dit webinar voor meer informatie over Data Warehouse Manager.
 landing-page-description: Kijk naar dit opgenomen webinar
 short-description: Kijk naar dit opgenomen webinar
@@ -9,14 +9,18 @@ role: Leader, User, Data Architect
 level: Intermediate, Experienced
 thumbnail: 342562.jpeg
 exl-id: 34e017c3-721d-459a-8f38-76cc165e2d02
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: 0111bb0f6e21580fc444dea64462347cf785f8ec
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---
 
-# Uw MBI-Data Warehouse optimaliseren
+# De Data Warehouse van de Intelligentie van de Handel optimaliseren
+
+>[!NOTE]
+>
+>Adobe Commerce Intelligence stond voorheen bekend als [!DNL Magento Business Intelligence (MBI)]. Opnamen voor gebeurtenissen uit het verleden geven de vorige naam weer.
 
 Gebruikend de Manager van de Data Warehouse, kunt u lijst en kolomsync montages beheren, neer in het schema van een lijst boren, en berekende kolommen tot stand brengen in rapporten te gebruiken.
 
@@ -38,9 +42,5 @@ In dit webinar:
 
 ## Nuttige bronnen
 
->[!TIP]
->
->Als u nog geen ervaring hebt met MBI, kunt u [Aan de slag met videoreeks](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/introduction/1-overview.html) verstrekt een volledig overzicht voor het drijven van betere bedrijfsinzichten en resultaten door gegevenssamenvoeging, analyse, en visualisatie.
-
 [Uw database optimaliseren voor analyse](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/opt-db-analysis.html)
-[Aanbevolen Dimension van Gegevens voor Segmentatie en Filtreren](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html)
+[Aanbevolen Dimensionen van Gegevens voor Segmentatie en Filtreren](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html)
