@@ -4,12 +4,12 @@ description: Bekijk deze webinar voor meer informatie over de kernfuncties van d
 landing-page-description: Bekijk dit geregistreerde webinar om over de kernfunctionaliteit van de Intelligentie van de Handel voor uw Adobe Commerce of Magento Open Source opslag te leren.
 short-description: Bekijk dit geregistreerde webinar om over de kernfunctionaliteit van de Intelligentie van de Handel voor uw Adobe Commerce of Magento Open Source opslag te leren.
 kt: 10408
-solution: Commerce, Magento Business Intelligence
+solution: Commerce, Commerce Intelligence
 role: Leader, User, Data Architect
 level: Beginner
 thumbnail: 342501.jpeg
 exl-id: 4d0843b1-251d-45dc-94ab-85a35b71771f
-source-git-commit: 0111bb0f6e21580fc444dea64462347cf785f8ec
+source-git-commit: c0382de473c121272f48d89170c887ae65bd60cf
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
