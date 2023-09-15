@@ -2,9 +2,9 @@
 user-guide-title: Geslaagde webinars van klanten van de Adobe
 breadcrumb-title: Geslaagde webinars van klanten van de Adobe
 user-guide-description: Met succes geleide webinars van de Klant van de Adobe die worden ontworpen om u bij het optimaliseren van uw investering in het Experience Cloud van de Adobe te helpen. Vergroot waardevolle inzichten om de waarde te maximaliseren en de acceptatie van oplossingen voor Adoben te vergroten.
-source-git-commit: 7378dc0e3e7caf4942e90e95668806bca03c1067
+source-git-commit: de72ca31699f62b6f3034ccb2fe161f78b1f39e8
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: '87'
 ht-degree: 1%
 
 ---
@@ -15,8 +15,10 @@ ht-degree: 1%
 + [Geslaagde webinars van klanten van de Adobe](overview.md)
 + 2023 {#2023}
    + [De Stichting voor Personalisatie op schaal bouwen](2023/personalization-at-scale.md)
+   + [Inhoud en ervaring - Personalisatie](2023/content-experiences-personalization.md)
    + [Gereedheid voor migratie naar Customer Journey Analytics](2023/cja-migration-readiness.md)
    + [Effectieve meetstrategie](2023/measurement-strategy.md)
+   + [Foundationele strategie voor campagneorchestratie](2023/foundational-strategy-campaign.md)
    + [Prioriteit geven aan Intelligentie en Meting](2023/intelligence-and-measurement.md)
    + [Gereedheid voor CDP-migratie in realtime](2023/rtcdp-migration-readiness.md)
    + [Vaststelling van een doeltreffende strategie voor Audience Activation](2023/audience-activation.md)
