@@ -4,12 +4,12 @@ description: Bekijk deze geregistreerde webinars voor een diepe duik met het pro
 landing-page-description: Bekijk deze geregistreerde webinars voor een diepe duik met het productteam van de Intelligentie van de Handel, met inbegrip van bedrijfstransformatie door intelligente gegevens.
 short-description: Bekijk deze geregistreerde webinars voor een diepe duik met het productteam van de Intelligentie van de Handel, met inbegrip van bedrijfstransformatie door intelligente gegevens.
 kt: 10404
-solution: Commerce,Magento Business Intelligence
+solution: Commerce, Commerce Intelligence
 role: Leader,User,Data Architect
 level: Beginner,Intermediate
 thumbnail: 342409.jpeg
 exl-id: a4590f96-8f23-4f14-9f69-dd15253184ed
-source-git-commit: 0111bb0f6e21580fc444dea64462347cf785f8ec
+source-git-commit: 00ca556edca8e39734489d1385029c6b79f3587d
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 0%
