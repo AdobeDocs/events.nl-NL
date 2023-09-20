@@ -2,9 +2,9 @@
 user-guide-title: Handel en koffie
 breadcrumb-title: Handel en koffie
 user-guide-description: Adobe Commerce en Coffee is een videobank waar experts en collega's hun gedachten en ideeën over het gebruik van Adobe Commerce delen.
-source-git-commit: 45197a447b183e1be3f0c2806fe33b19780086e5
+source-git-commit: dd032d0b6f0fef7a5939ef78837d0450c0741544
 workflow-type: tm+mt
-source-wordcount: '67'
+source-wordcount: '70'
 ht-degree: 5%
 
 ---
@@ -14,6 +14,7 @@ ht-degree: 5%
 
 + [Overzicht](overview.md)
 + 2023 {#2023}
+   + [Voorbereiding piek seizoen](2023/peak-season-prep.md)
    + [Organische groei](2023/organic-growth.md)
    + [7 Manieren om klantenservice en -retentie te bouwen](2023/loyalty-retention.md)
    + [B2B-succes inschakelen](2023/b2b.md)
