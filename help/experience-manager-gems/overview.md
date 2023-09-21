@@ -11,9 +11,9 @@ level: Intermediate
 type: Event
 user-guide-description: AEM GEM-sessies
 exl-id: 595f6977-935a-4859-9cfd-161d45847f85
-source-git-commit: 4f5886c31f9ccad98106469899388feba1ebee22
+source-git-commit: 845008d5f0024ed3a6af4cfad0ebdd53ff713a93
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '286'
 ht-degree: 2%
 
 ---
@@ -44,16 +44,16 @@ ht-degree: 2%
 </table>
 
 -->
-Onze nieuwste AEM GEM&#39;s webinar op **Adobe Experience Manager Cloud Service-ontwikkeling versnellen met Rapid Development Environment** is uitgevoerd op *22 februari 2023*.
-De **opnemen** te vinden op : [AEM webinar voor snelle ontwikkelomgevingen](gems2023/rapid-development-environments.md)
+Onze nieuwste AEM GEM&#39;s webinar op **Het potentieel van New Relic APM vrijmaken voor AEM as a Cloud Service. Maximaliseer prestaties en versnelde probleemoplossing.** is uitgevoerd op *20 september 2023*.
+De **opnemen** te vinden op : [New Relic in AEM](/help/experience-manager-gems/gems2023/newrelic-apm-for-aem-cloud-service.md)
 
 >[!NOTE]
 >
-> Meld u aan voor kennisgeving op komende AEM GEM&#39;s-webinars op [Adobe](https://aem-augs.adobe.com/).
+> Meld u aan voor kennisgeving op komende AEM GEM&#39;s-webinars op [Gebruikersgroep AEM Adobe](https://aem-augs.adobe.com/).
 
 ## 2022 Herstart van AEM GEM&#39;s
 
-Welkom bij **AEM GEM&#39;s** - onze webinar-reeks van technische diepteduiken op Adobe Experience Manager, die door experts van Adobe is geleverd. Deze reeks vormt een aanvulling op de productdocumentatie en alle andere technische kanalen met betrekking tot Adobe Experience Manager, waardoor ontwikkelaars contact kunnen opnemen en dieper kunnen gaan op een specifiek onderwerp.
+Welkom bij **AEM GEM&#39;s** - onze webinar-reeks van technische diepteduiken op Adobe Experience Manager, die door experts van de Adobe is uitgebracht. Deze reeks vormt een aanvulling op de productdocumentatie en alle andere technische kanalen met betrekking tot Adobe Experience Manager, waardoor ontwikkelaars contact kunnen opnemen en dieper kunnen gaan op een specifiek onderwerp.
 
 De webinars worden regelmatig uitgevoerd, met inbegrip van de volgende webinars:
 
@@ -64,12 +64,12 @@ De webinars worden regelmatig uitgevoerd, met inbegrip van de volgende webinars:
 
 Al onze AEM GEM&#39;s-webinars zijn gratis en worden praktisch uitgevoerd.
 
-Registreren bij [Adobe](https://aem-augs.adobe.com/) om op de hoogte te worden gebracht van onze komende webinars.
+Registreren bij [Gebruikersgroep AEM Adobe](https://aem-augs.adobe.com/) om op de hoogte te worden gebracht van onze komende webinars.
 
 ## Gemeenschap Experience League
 
 Ons [Gemeenschap Experience Manager](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community) spelen een kritieke rol bij het steunen van productgoedkeuring en klantensucces.
 
-* Verbinding: Netwerk met edelen en Adobe personeel voor begeleiding en beste praktijken van implementatie aan het uitbreiden van productgebruik
+* Verbinding: Netwerk met peers en Adobe personeel voor begeleiding en beste praktijken van implementatie aan het uitbreiden van productgebruik
 * Snelle antwoorden: Uitgebreide pool van praktijkoplossingen voor gebruiksscenario&#39;s ter ondersteuning van succesvol actief gebruik van Adobe-oplossingen
-* Ideatie en feedback: De ideeën van het klantenproduct van de inname en verstrekken waardevolle VoC terugkoppelen aan productteams
+* Idee en feedback: neem ideeën over producten van klanten en geef waardevolle VoC-feedback aan productteams
