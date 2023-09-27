@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 86b13e13d74f4ce99988f9b2db4b330f6583dd14
+source-git-commit: aa5d4f36b22a0a069accc635f3d82d5ed6f871cc
 workflow-type: tm+mt
-source-wordcount: '272'
+source-wordcount: '280'
 ht-degree: 3%
 
 ---
@@ -21,6 +21,7 @@ ht-degree: 3%
 
 + [Overzicht](overview.md)
 + Episodes {#episodes}
+   + [EP 28: Workfront Release Deep Dive - nieuwe Workfront Home](episodes/exl-live-episode-10-26-23.md)
    + [EP 27: API-activering van berichten in Adobe Journey Optimizer](episodes/exl-live-episode-8-23-23.md)
    + [EP 26: Acteerbaar publiek, op één &#x200B;, van elke bron, met standaardbesturingselementen](episodes/exl-live-episode-7-20-23.md)
    + [EP 25: De toekomst van Adobe Journey Optimizer verkennen met het webkanaal en content experimenteren](episodes/exl-live-episode-6-14-23.md)
@@ -40,12 +41,12 @@ ht-degree: 3%
    + [EP 11: AAM en Real-time CDP - Hoe kan ik al deze soorten publiek behandelen?](episodes/exl-live-episode-04-28-22.md)
    + [EP 10: AEM van Koploos naar Koploos (en alles ertussen)](episodes/exl-live-episode-04-21-22.md)
    + [EP 9: Maak kennis met alle nieuwe demo&#39;s in AEM](episodes/exl-live-episode-02-03-22.md)
-   + [EP 8: Customer Journey Analytics: De binnenkant van de code](episodes/exl-live-episode-08.md)
+   + [EP 8: Customer Journey Analytics: de binnenkant van de code](episodes/exl-live-episode-08.md)
    + [EP 7: AEM uitbreiden met Adobe App Builder](episodes/exl-live-episode-07.md)
    + [EP 6: Meet mensen in plaats van apparaten](episodes/exl-live-episode-06.md)
    + [EP 5: Ga sneller dan ooit live dankzij het snelle maken van sites](episodes/exl-live-episode-05.md)
    + [EP 4: Wie heeft er op geklikt? En wat deden ze dan?](episodes/exl-live-episode-04.md)
    + [EP 3: Experttips om uw vakantiecampagnes op te vallen](episodes/exl-live-episode-03.md)
    + [EP 2: Maak uw volgende publiekssegment slimmer dan ooit](episodes/exl-live-episode-02.md)
-   + [EP 1: Mijn drie favoriete Adobe [!DNL Analytics] Tips voor implementatie](episodes/exl-live-episode-01.md)
+   + [EP 1: Mijn drie favoriete Adoben [!DNL Analytics] Tips voor implementatie](episodes/exl-live-episode-01.md)
 + [LIVE-middelen Experiencen League](exl-live-assets.md)
