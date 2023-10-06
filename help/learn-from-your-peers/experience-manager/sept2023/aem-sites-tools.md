@@ -2,17 +2,16 @@
 title: Een diepe insteekmodule voor AEM Sites
 description: tips en trucs voor het effectief benutten van gereedschappen en het transformeren van uw AEM Sites-ervaring. Typen tags Leer hoe verschillende tagtypen de organisatie en ontdekkingsmogelijkheden van inhoud kunnen verhogen.  Door tags in te stellen en toe te passen krijgt u meer inzicht in efficiënte implementatie van tags om tijd te besparen en de productiviteit te verhogen.  Metagegevensschema's van mappen Ontdek de kracht van gestructureerd inhoudsbeheer via schema's voor metagegevens van mappen.Metagegevensschema's Verhoog de relevantie en gebruikerservaring van de inhoud door het ontwerp van het metagegevensschema te bepalen. Met Rapporten stelt u gegevensgestuurde inzichten in voor strategische besluitvorming door uitgebreide rapporten op te stellen. U kunt hier de presentatiedia's openen.
 feature-set: Experience Manager
-feature: Tagging, 
-topic: ??? - select 0 or more from: https://adobe.ly/3NRHfMp
+feature: Tagging
 role: Leader, Architect, Developer, Admin, User
 level: Beginner, Intermediate
 doc-type: Event
-last-substantial-update: 2023-10-06
+last-substantial-update: 2023-10-06T00:00:00Z
 jira: KT-14118
 thumbnail: 3424735.jpeg
-source-git-commit: 3ae2f5392dbf58f63f9b2ef1dcaef6ff6f5134d4
+source-git-commit: 426722ebded091c3dc685b951b6823f432e58a4d
 workflow-type: tm+mt
-source-wordcount: 219
+source-wordcount: '219'
 ht-degree: 0%
 
 ---
