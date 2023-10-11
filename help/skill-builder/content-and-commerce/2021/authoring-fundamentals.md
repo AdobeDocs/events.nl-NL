@@ -12,8 +12,8 @@ level: Beginner
 version: Cloud Service
 type: Event
 kt: 8945
-exl-id: 06ab7b97-4241-4755-bfff-647ac692d58f
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 7e719f00-26f2-449f-aefc-38d1a9ca7291
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 0%
@@ -34,6 +34,6 @@ Leer creatieve grondbeginselen en vaardigheden om pagina&#39;s snel te bouwen en
 
 * [Nooit meer tijd verspillen bij het zoeken naar inhoud](media-library-administration.md)
 * [Altijd veranderende inhoud eenvoudig beheren](collaboration-tools.md)
-* [Inhoud voor ANYWHERE: Omnichanale ervaringen werkelijkheid maken](omnichannel-experiences.md)
+* [Inhoud voor ANYWHERE: Omnichannel-ervaringen realiseren](omnichannel-experiences.md)
 * [Ga wereldwijd met Adobe Experience Manager](multi-site-management-web-translation.md)
 * [Het web en daarbuiten: de kracht van traditioneel en headless-contentbeheer](traditional-headless-content-management.md)

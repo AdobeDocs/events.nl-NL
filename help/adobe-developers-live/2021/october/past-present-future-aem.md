@@ -9,8 +9,8 @@ level: Beginner, Intermediate, Experienced
 version: Cloud Service
 kt: 9120
 type: Event
-exl-id: 8316f219-103a-4632-8d8e-fa23a94c5ebc
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: af8d404d-f47e-4704-b0e3-29beafdd7a2d
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '210'
 ht-degree: 4%
@@ -21,7 +21,7 @@ ht-degree: 4%
 
 In de digitale wereld van vandaag, worden de ontwikkelaars verwacht om, de recentste programmeertalen en het kader te leren te begrijpen en bij te houden. Hoewel essentieel, onderzoeken wij manieren om verder te gaan dan enkel zuiver inhoudsbeheer. We zullen het hebben over trends op de huidige markt, wat dat betekent voor ontwikkelaars, en hoe Adobe Experience Manager de manier wijzigt waarop ontwikkelaars werken. Sluit u aan bij vicevoorzitter van Adobe Experience Manager Engineering, Jean-Michel Pittet en Director van AEM Product Management, Cedric Huesler, terwijl ze dit en meer bespreken.
 
-Doorgaan met gesprek in **[Experiencen League](https://adobe.ly/2WrPvNj)**.
+Doorgaan met gesprek in **[Experience League Gemeenschappen](https://adobe.ly/2WrPvNj)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337528/?quality=12&learn=on&hidetitle=true)
 

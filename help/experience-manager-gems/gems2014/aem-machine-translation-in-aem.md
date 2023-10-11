@@ -1,18 +1,18 @@
 ---
-title: Machinevertaling in AEM
+title: Machine transleren in AEM
 description: Leer hoe AEM en Microsoft Translator automatische vertaling leveren, zodat u uw inhoud langer kunt gebruiken, de markt langer kunt maken voor inhoud, de kosten kunt optimaliseren en de ontdekkingsmogelijkheden van gebruikers kunt vergroten via de optimalisatie van zoekprogramma's, wat resulteert in een beter gebruik van bronnen en een verhoogd rendement op investeringen.
 uuid: c25c9806-560c-46ef-b9c0-ffe0af296ed9
 discoiquuid: c976c008-4f51-4146-8c34-265e9707be6a
 targetaudience: target-audience advanced
-exl-id: babdfd59-ec80-47ba-a369-8461bbdb9b8f
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: e4f4d4ec-f702-4958-913e-fb3d34421855
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '210'
 ht-degree: 0%
 
 ---
 
-# Machinevertaling in AEM{#machine-translation-in-aem}
+# Machine transleren in AEM{#machine-translation-in-aem}
 
 Met Adobe Experience Manager kunt u door de gebruiker gegenereerde en geschreven inhoud lokaliseren met volledig geïntegreerde en aangepaste functies voor machinevertaling in meer dan 45+ talen met behulp van Microsoft Translator. In deze sessie leert u hoe AEM en Microsoft Translator automatische vertaling leveren, zodat u uw inhoud langer kunt gebruiken, uw inhoud langer op de markt kunt brengen, de kosten kunt optimaliseren en de ontdekkingsmogelijkheden van gebruikers kunt vergroten door de zoekmachine te optimaliseren. Dit leidt tot een beter gebruik van bronnen en een verhoogd rendement op uw investeringen. Bekijk demo&#39;s over hoe u de service binnen AEM kunt inschakelen, inhoud kunt lokaliseren en kunt ontdekken hoe u met de aanpassingsgereedschappen van Microsoft Translator uw eigen vertaalsysteem kunt maken met de gewenste terminologie en stijl die specifiek zijn voor uw industrie, taal, domein of organisatie.
 
@@ -20,7 +20,7 @@ Met Adobe Experience Manager kunt u door de gebruiker gegenereerde en geschreven
 
 *Geleverd op 3 december 2014*
 
-**Gepresenteerd door:**
+**Gepresenteerd door**
 
 * Akshay Madan, hoofd productmanager meertalig productbeheer en oplossingen, Adobe
 * Chris Wendt, Principal Group Program Manager Microsoft Translator, Microsoft

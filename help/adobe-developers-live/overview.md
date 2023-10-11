@@ -2,8 +2,8 @@
 title: Adobe Developers Live
 description: Een verzameling sessieopnamen van Adobe Developers Live
 solution: Experience Cloud, Experience Manager
-exl-id: 912ad972-27ef-4b59-a742-26b49f935c8d
-source-git-commit: c0ac31a014d3361c109278723baf5da013566ae2
+exl-id: bb103c45-18c7-4ace-8ebe-bb99f8eb6a88
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 0%
@@ -14,9 +14,9 @@ ht-degree: 0%
 
 <img alt="Adobe Developers Live" src="assets/adl.png" />
 
-In Adobe Developers Live zijn ontwikkelaars en ontwikkelaars van Adobe-ervaringen samengebracht met uiteenlopende achtergronden en met één doel - om ongelofelijke end-to-end ervaringen te creëren. Deze tweedaagse conferentie zal belangrijke ontwikkelaarsupdates, technische zittingen en de mogelijkheden van het gemeenschapsvoorzien van een netwerkmogelijkheden omvatten.
+In Adobe Developers Live zijn ontwikkelaars van Adoben en ontwikkelaars van ervaringen met uiteenlopende achtergronden en een speciaal doel bijeengebracht. Op die manier kunnen we ongelofelijke end-to-end ervaringen creëren. Deze tweedaagse conferentie zal belangrijke ontwikkelaarsupdates, technische zittingen en de mogelijkheden van het gemeenschapsvoorzien van een netwerkmogelijkheden omvatten.
 
-Adobe-productteams in Adobe Experience Cloud, Document Cloud en Creative Cloud zullen de nieuwste technologische ontwikkelingen en ontwikkelaarsgereedschappen presenteren die het ontwerp, de workflows voor het maken van inhoud, documentservices en het beheer van klantervaringen in alle bedrijfstakken stimuleren.
+Adobe productteams in heel Adobe Experience Cloud, Document Cloud en Creative Cloud zullen de nieuwste technologische ontwikkelingen en ontwikkelaarsgereedschappen laten zien die het ontwerp, de workflows voor het creëren van inhoud, documentservices en het beheer van klantervaringen in alle bedrijfstakken stimuleren.
 
 Registreren voor toekomstige gebeurtenissen **[hier](https://developerevents.adobe.com/)**.
 

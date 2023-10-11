@@ -4,8 +4,8 @@ description: Leer hoe u het framework voor sociale componenten kunt gebruiken en
 uuid: ea0d66a9-258c-45a7-92c9-8f43b7615080
 discoiquuid: bb43bdf0-8d8d-40c2-865f-ad675348e667
 targetaudience: target-audience advanced
-exl-id: 46cb81e7-bd1d-4ee7-b15f-178e25eedd5a
-source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
+exl-id: 7a6da893-26da-4cb3-913e-1f07ce33c034
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '189'
 ht-degree: 0%
@@ -20,7 +20,7 @@ Het Social Component Framework (SCF) is beschikbaar als een kenmerkpakket voor C
 
 *Geleverd op 13 augustus 2014*
 
-**Gepresenteerd door:**
+**Gepresenteerd door**
 
 Siddharth Palaniswami, Sr. Software Engineering Lead, Adobe
 

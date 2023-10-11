@@ -11,8 +11,8 @@ version: Cloud Service
 kt: 7270
 type: Event
 thumbnail: 332022.jpg
-exl-id: e5c3b842-c8d5-413a-9019-cfe87f1b35ef
-source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
+exl-id: dd585d52-bf00-4f7f-86cb-86b6d67c5b9d
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 0%
@@ -23,8 +23,8 @@ ht-degree: 0%
 
 Adobe Experience Manager as a Cloud Service heeft een krachtige vooraf geconfigureerde architectuur voor de levering van inhoud. Toon hoe te om het beste van geoptimaliseerde configuraties van de inhoudslevering te maken.
 
-Doorgaan met gesprek in **[Experiencen League](https://adobe.ly/36Yd3v6)**.
+Doorgaan met gesprek in **[Experience League Gemeenschappen](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332022/?quality=12&learn=on&hidetitle=true)
 
-Klikken **[hier](/help/adobe-developers-live/assets/content-delivery-on-aemcs.pdf)** voor de sessiedia&#39;s.
+Klikken **[hier](/help/adobe-developers-live/assets/content-delivery-on-aemcs.pdf)** voor de sessiedia&#39;s

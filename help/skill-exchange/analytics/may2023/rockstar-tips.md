@@ -11,13 +11,13 @@ last-substantial-update: 2023-06-30T00:00:00Z
 jira: KT-13553
 thumbnail: 3420946.jpeg
 event-start-time: 2023-5-1 08:30-8
-source-git-commit: b32c10575f90d02829889d9eae876b2c922915bb
+exl-id: 010aac14-f967-4d70-90da-da01fb8eceaa
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 0%
 
 ---
-
 
 # Rockstar Tips - mei 2023 APAC Adobe Analytics Skill Exchange Grow Track
 

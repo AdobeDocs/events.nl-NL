@@ -1,17 +1,17 @@
 ---
-title: Adobe Content Management Forum
-description: Een verzameling sessieopnamen van het Adobe Content Management Forum
-exl-id: 8c882248-0790-4a50-bf8f-55dce1f68b6b
-source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
+title: Adobe-inhoudsbeheerforum
+description: Een verzameling sessieopnamen van het Content Management Forum van de Adobe
+exl-id: 935600fa-4fbc-4569-a3cd-f8b25c205df4
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '311'
 ht-degree: 0%
 
 ---
 
-# Adobe Content Management Forum {#overview}
+# Adobe-inhoudsbeheerforum {#overview}
 
-Leer van de deskundigen van Adobe terwijl zij de huidige en toekomstige staat van de strategie van het inhoudbeheer, te leveren punten, uitdagingen, en technische vereisten bespreken. Dit virtuele evenement omvat een speciale keynote van Kurt Benkert, NFL quarterback en bedrijfsadviseur, en Haresh Kumar, Director of Strategy and Product Marketing, omdat ze bespreken hoe het hebben van de juiste hulpmiddelen u kan helpen creatieve activa te bereiken en dagelijkse taken te vereenvoudigen, om de kracht van inhoudssnelheid te ontsluiten.
+Leer van de deskundigen van de Adobe terwijl zij de huidige en toekomstige staat van de strategie van het inhoudbeheer, te leveren punten, uitdagingen, en technische vereisten bespreken. Dit virtuele evenement omvat een speciale keynote van Kurt Benkert, NFL quarterback en bedrijfsadviseur, en Haresh Kumar, Director of Strategy and Product Marketing, omdat ze bespreken hoe het hebben van de juiste hulpmiddelen u kan helpen creatieve activa te bereiken en dagelijkse taken te vereenvoudigen, om de kracht van inhoudssnelheid te ontsluiten.
 
 Sluit u aan bij de onderstaande sessies voor meer informatie:
 
@@ -46,7 +46,7 @@ Sluit u aan bij de onderstaande sessies voor meer informatie:
       <img alt="Elementen voor alles" src="assets/assets-for-all.png" >
       </a>
       <div>
-         <a href="2022/assets-for-all.md"><strong>Adobe uitbreiden [!DNL Experience Manager] Koploos met Adobe [!DNL App Builder]</strong></a>         
+         <a href="2022/assets-for-all.md"><strong>Adobe uitbreiden [!DNL Experience Manager] Hoofdloos met Adobe [!DNL App Builder]</strong></a>         
          <br/><em>met Purnima Rachoor Roy</em>
       </div>
       <p>

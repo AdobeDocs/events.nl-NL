@@ -1,12 +1,12 @@
 ---
 title: Adobe Analytics implementeren op een lokale AEM met Dynamic Tag Management Cloud Service
-description: AEM 6 wordt geleverd met een cloudservice voor Dynamic Tag Management (DTM), de aanbevolen manier van Adobe om Adobe Analytics (en andere oplossingen van de Marketing Cloud) op een website te implementeren. Leer hoe u zelfs een lokale AEM verbinding maakt met de DTM-service en de gewenste gebruiksgegevens naar Adobe Analytics verzendt.
+description: AEM 6 wordt geleverd met een cloudservice voor Dynamic Tag Management (DTM), de aanbevolen manier van de Adobe om Adobe Analytics (en andere oplossingen van de Marketing Cloud) op een website te implementeren. Leer hoe u zelfs een lokale AEM verbinding maakt met de DTM-service en de gewenste gebruiksgegevens naar Adobe Analytics verzendt.
 uuid: 0af8b03b-18dc-4701-93c6-65acdc85b6a2
 topic-tags: Dynamictagmanagement
 discoiquuid: a91aeec3-337f-4cfd-850d-6ece0041e550
 targetaudience: target-audience advanced
-exl-id: 852e578e-0594-4482-9ee8-a4b30248f99a
-source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
+exl-id: 94f6fe0f-b6cd-4484-bd1d-92fa31be4e17
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '193'
 ht-degree: 0%
@@ -15,15 +15,15 @@ ht-degree: 0%
 
 # Adobe Analytics implementeren op een lokale AEM via de DTM-cloudservice{#how-to-deploy-adobe-analytics-on-a-local-aem-instance-by-using-the-dynamic-tag-management-cloud-service}
 
-AEM 6 wordt geleverd met een cloudservice voor Dynamic Tag Management (DTM), de aanbevolen manier van Adobe om Adobe Analytics (en andere oplossingen van de Marketing Cloud) op een website te implementeren. Leer hoe u zelfs een lokale AEM verbinding maakt met de DTM-service en de gewenste gebruiksgegevens naar Adobe Analytics verzendt.
+AEM 6 wordt geleverd met een cloudservice voor Dynamic Tag Management (DTM), de aanbevolen manier van de Adobe om Adobe Analytics (en andere oplossingen van de Marketing Cloud) op een website te implementeren. Leer hoe u zelfs een lokale AEM verbinding maakt met de DTM-service en de gewenste gebruiksgegevens naar Adobe Analytics verzendt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19401/?quality=9)
 
 *Geleverd op 1 oktober 2014*
 
-**Gepresenteerd door:**
+**Gepresenteerd door**
 
-Sandro Looser, Solution Architect, Adobe
+Sandro Loser, oplossingsarchitect, Adobe
 
 **Presenter-dia&#39;s**
 
@@ -44,4 +44,3 @@ Sandro Looser, Solution Architect, Adobe
 >[!MORELIKETHIS]
 >
 >* [Adobe Analytics implementeren op een lokale AEM-instantie met de Dynamic Tag Management-cloudservice](aem-adobe-analytics-dynamic-tag-management.md)
-

@@ -5,8 +5,8 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 9916
-exl-id: c7333635-834d-4d78-9dea-f64e3205c78a
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 7d3e437d-4a6e-44b8-9eff-eabb8284c391
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '5566'
 ht-degree: 2%
@@ -27,7 +27,7 @@ Als u een ontvanger de mogelijkheid wilt geven een bewijs te delen dat met hem i
 
 **Antwoord**
 
-Dit kan als gebrek voor individuele gebruikers door een beheerder worden toegelaten/worden onbruikbaar gemaakt door dit weg te volgen: PHQ-aanmelding > Accountinstellingen > Gebruikers > Klik op de gebruikersnaam > Standaardinstellingen proef.
+Dit kan door een beheerder als standaard voor individuele gebruikers worden in- of uitgeschakeld via het volgende pad: PHQ-aanmelding > Accountinstellingen > Gebruikers > Klik op de naam van de gebruiker > Standaardproefdrukinstellingen.
 
 **Vraag**
 
@@ -51,7 +51,7 @@ Waarvoor gebruikt u een proefdruksjabloon?
 
 **Antwoord**
 
-Als het contentcontroleproces van uw organisatie vaak wordt herhaald of de inhoud vaak door dezelfde personen wordt gecontroleerd, kunt u werkstroomsjablonen maken die die revisoren bevatten met proefdrukrollen en meldingsinstellingen die u opgeeft.
+Als het contentcontroleproces van uw organisatie vaak wordt herhaald of de inhoud vaak door dezelfde personen wordt gecontroleerd, kunt u werkstroomsjablonen maken die deze revisoren bevatten met proefdrukrollen en meldingsinstellingen die u opgeeft.
 
 **Vraag**
 
@@ -67,7 +67,7 @@ Hoe kunt u een proefdruksjabloon maken?
 
 **Antwoord**
 
-Als beheerder, zult u dit weg willen volgen: PHQ-aanmelding > Workflows > Nieuw > Nieuwe sjabloon.
+Als beheerder wilt u het volgende pad volgen: PHQ-aanmelding > Workflows > Nieuw > Nieuwe sjabloon.
 
 **Vraag**
 
@@ -75,7 +75,7 @@ Staat die Sjabloon delen functionaliteit het delen met Groepen en Teams of enkel
 
 **Antwoord**
 
-Op dit moment kunt u geen werkstroomsjablonen delen met Workfront-groepen, -teams, -taakrollen of -bedrijven. U kunt deze echter delen met personen en delen met proefgroepen. Als u een proefdrukgroep wilt maken, volgt u dit pad: PHQ Login > Groepen > Nieuwe Groep.
+Op dit moment kunt u geen werkstroomsjablonen delen met Workfront-groepen, -teams, -taakrollen of -bedrijven. U kunt deze echter delen met personen en delen met proefgroepen. Als u een proefgroep wilt maken, volgt u het volgende pad: PHQ-aanmelding > Groepen > Nieuwe groep.
 
 **Vraag**
 
@@ -113,7 +113,7 @@ E-mailwaarschuwingen zijn onafhankelijk van de e-mail met nieuwe proefdrukken, d
 
 **Vraag**
 
-Wordt de instelling voor e-mailberichten uitschakelen voor de hele onderneming? of is het door Portfolio ?
+Wordt de instelling voor e-mailberichten uitschakelen voor de hele onderneming? of is het per Portfolio ?
 
 **Antwoord**
 
@@ -229,7 +229,7 @@ Grootste probleem hier: e-mail %2B-adressering (dubbele e-mailadressen). Waarom 
 
 **Antwoord**
 
-Dit kan gebeuren als iemand handmatig iemand aan een proefdruk toevoegt met het verkeerde e-mailadres. Als u dit doet, kan een beheerder het onjuiste e-mailadres uit de proefdrukaccount verwijderen door het volgende pad te volgen: PHQ Login > Contacten > Selecteer de onjuiste e-mail/gastinstantie > Schrapping. Als u problemen hebt met gebruikers die een dubbel e-mailadres hebben, neemt u contact op met ons ondersteuningsteam voor hulp.
+Dit kan gebeuren als iemand handmatig iemand aan een proefdruk toevoegt met het verkeerde e-mailadres. Als u dit doet, kan een beheerder het onjuiste e-mailadres uit de proefdrukaccount verwijderen door het volgende pad te volgen: PHQ-aanmelding > Contacten > Selecteer de onjuiste e-mail / gastinstantie > Verwijderen. Als u problemen hebt met gebruikers die een dubbel e-mailadres hebben, neemt u contact op met ons ondersteuningsteam voor hulp.
 
 **Vraag**
 
@@ -237,7 +237,7 @@ Zodra er een besluit is genomen, moet u het bewijs weer in productie nemen. Welk
 
 **Antwoord**
 
-Als een proefdruk vergrendeld is, moet u de proefdruk ontgrendelen om opmerkingen te kunnen uitvoeren of op opmerkingen te kunnen reageren. Personen met de volgende machtigingen kunnen de proefdruk ontgrendelen: De Eigenaar van het Bewijs, de Gebruikers van Workfront met een Niveau van de Vergunning van het Bewijs van Beheerder of Supervisor.
+Als een proefdruk vergrendeld is, moet u de proefdruk ontgrendelen om opmerkingen te kunnen uitvoeren of op opmerkingen te kunnen reageren. Personen met de volgende machtigingen kunnen de proefdruk ontgrendelen: de eigenaar van de proefafdruk, Workfront-gebruikers met een niveau van Bewijzen met licentie van beheerder of toezichthouder.
 
 **Vraag**
 
@@ -245,7 +245,7 @@ Wat is de beste oplossing voor teams om van proeven op de hoogte te zijn die ree
 
 **Antwoord**
 
-U kunt in Workfront een rapport met goedkeuringen van proef maken. Vervolgens kunt u filters toepassen die alleen worden gebruikt voor proefdrukken voor specifieke gebruikers waarvoor nog een beslissing moet worden genomen.
+U kunt in Workfront een rapport met goedkeuringen van proefdrukken maken. Vervolgens kunt u filters toepassen die alleen worden gebruikt voor proefdrukken voor specifieke gebruikers waarvoor nog een beslissing moet worden genomen.
 
 **Vraag**
 
@@ -277,7 +277,7 @@ Hoe voegt u mensen toe als nieuwe rollen op om het even welk bewijs dat reeds is
 
 **Antwoord**
 
-Als u proefontvangers wilt toevoegen en hun proefdrukrol op een bestaande proefdruk wilt selecteren, volgt u dit pad: Selecteer de proefdruk op het tabblad Documenten > klik vervolgens op Details proefdrukken. Wanneer het venster met de proefdrukdetails wordt geopend, klikt u in de rechterbovenhoek van het werkgebied op de knop Elipses en selecteert u &quot;Delen&quot;. Vervolgens kunt u de ontvangers toevoegen en hun proefdrukrol en e-mailwaarschuwing selecteren.
+Als u proefdrukontvangers wilt toevoegen en hun proefdrukrol op een bestaande proefdruk wilt selecteren, volgt u dit pad: selecteer de proefdrukproef op het tabblad Documenten > klik vervolgens op Proefdrukdetails. Wanneer het venster met de proefdrukdetails wordt geopend, klikt u in de rechterbovenhoek van het werkgebied op de knop Elipses en selecteert u &quot;Delen&quot;. Vervolgens kunt u de ontvangers toevoegen en hun proefdrukrol en e-mailwaarschuwing selecteren.
 
 **Vraag**
 
@@ -313,7 +313,7 @@ Ja. Als u een bewijs verwijdert dat het binnen de prullenbak van de bijbehorende
 
 **Vraag**
 
-Is er een manier om een nieuw besluit in werking te stellen als de andere gebruiker met veranderingen verwerpt of goedkeurt. ie. Bewijs dat dief iets ziet, zal de projectmanager een nieuw besluit moeten nemen... ook al hebben ze het al bekeken en goedgekeurd . (probeert de proj manager niet te maken op het proeflezen van diepte hoeven wachten om hun overzicht te doen)?
+Is er een manier om een nieuw besluit in werking te stellen als de andere gebruiker met veranderingen verwerpt of goedkeurt. ie. Bewijs dat de projectmanager iets ziet, zal een nieuw besluit moeten nemen... zelfs als zij het reeds bekeken en goedgekeurd. (probeert de proj manager niet te maken op het proeflezen van diepte hoeven wachten om hun overzicht te doen)?
 
 **Antwoord**
 
@@ -325,7 +325,7 @@ Waarom wanneer ik &quot;Vraag om Goedkeuring&quot;wanneer ik een Update in de se
 
 **Antwoord**
 
-Wanneer u de functie &#39;Vraag om goedkeuring&#39; gebruikt, werkt u met de functie Documentgoedkeuring, die onafhankelijk is van Proofing en de voortgangsbalk van de SOCD. Als u de proefdrukrol van een proefontvanger moet bijwerken, zult u dit pad willen volgen: Selecteer op het tabblad Documenten de proefdruk > klik vervolgens op Details proefdrukken. Wanneer het venster met de proefdrukdetails wordt geopend, ziet u dat de lijst met ontvangers en de optie voor de proefdrukrol (en e-mailwaarschuwing) op de regel kunnen worden aangepast. Zo kunt u (bijvoorbeeld) de proefdrukrol wijzigen van Revisor in Revisor en fiatteur.
+Wanneer u de functie &#39;Vraag om goedkeuring&#39; gebruikt, werkt u met de functie Documentgoedkeuring, die onafhankelijk is van Proofing en de voortgangsbalk van de SOCD. Als u de proefdrukrol van een proefontvanger moet bijwerken, volgt u dit pad: Selecteer op het tabblad Documenten de proefdruk > klik op Details proefdrukken. Wanneer het venster met de proefdrukdetails wordt geopend, ziet u dat de lijst met ontvangers en de optie voor de proefdrukrol (en e-mailwaarschuwing) op de regel kunnen worden aangepast. Zo kunt u (bijvoorbeeld) de proefdrukrol wijzigen van Revisor in Revisor en fiatteur.
 
 **Vraag**
 
@@ -333,7 +333,7 @@ Is het mogelijk om ervoor te zorgen dat de definitieve fiatteurs geen toegang to
 
 **Antwoord**
 
-Binnen de instellingen van de account kunt u de toegang tot uw proefdrukken via delen/zichtbaarheid regelen. Als u deze instelling wilt bijwerken, zodat de proefontvangers alleen de versies zien van proefdrukken die u aanwijst (in plaats van alle versies van de proefdruk te zien), gaat u als volgt te werk: PHQ-aanmelding > Accountinstellingen > Instellingen > Delen > Ontvangers kunnen alle versies weergeven = Uitgeschakeld.
+Binnen de instellingen van de account kunt u de toegang tot uw proefdrukken via delen/zichtbaarheid regelen. Als u deze instelling wilt bijwerken zodat de proefontvangers alleen de versies zien van proefdrukken die u aanwijst (in plaats van alle versies van de proefdruk te zien), wilt u dit pad volgen: PHQ-aanmelding > Accountinstellingen > Instellingen > Delen > Ontvangers kunnen alle versies weergeven = Uitgeschakeld.
 
 **Vraag**
 
@@ -353,7 +353,7 @@ Dit is juist. U kunt wel een ondersteuningskwestie indienen bij Workfront om aan
 
 **Vraag**
 
-Hallo, een vraag over het aantonen van de flexibiliteit van eigendom: Als een nieuwe upload van de Proefversie zonder de originele eigenaar wordt vereist, is de beste praktijk voor hen om een collega aan het werkschema als Auteur toe te voegen en zij zullen &quot;niet relevant&quot;beslissen? (Het delegeren van eigendom lijkt slechts voor één enkele versie te werken).
+Hallo, een vraag over de flexibiliteit van het bewijs van eigendom: Als een nieuwe upload van de Proefversie zonder de originele eigenaar wordt vereist, is de beste praktijk voor hen om een collega aan het werkschema als Auteur toe te voegen en zullen zij &quot;niet relevant&quot;beslissen? (Het delegeren van eigendom lijkt slechts voor één enkele versie te werken).
 
 **Antwoord**
 
@@ -389,7 +389,7 @@ Kan een gebruiker op fase 3 van de proefstroom zeggen een andere persoon als Con
 
 **Antwoord**
 
-Als die gebruiker bewerkingsrechten heeft op de proefdruk die hij kan uitvoeren. Personen met bewerkingsrechten zijn: De eigenaar van het Bewijs, Ontvangers van het Bewijs die aan het bewijs met de Rol van het Bewijs van de Schrijver of Moderator, de Gebruikers van de Vergunning van het Bewijs met het Niveau van de Toestemming van de Bewijs van de Supervisor of Beheerder worden toegevoegd.
+Als die gebruiker bewerkingsrechten heeft op de proefdruk die hij kan uitvoeren. Personen met bewerkingsrechten zijn: De eigenaar van het bewijs, ontvangers van het bewijs die aan de proefdruk zijn toegevoegd met de functie Bewijs van auteur of Moderator, Gebruikers van het bewijs van bevoegdheid met het machtigingsniveau van de toezichthouder of beheerder.
 
 **Vraag**
 
@@ -445,15 +445,15 @@ Hoe schakelt u over naar een eigenaar van een proefdruk?
 
 **Antwoord**
 
-Als u de eigenaar van een proefdruk wilt veranderen, volgt u dit pad: Selecteer de proefdruk op het tabblad Documenten en klik op Details proefdrukken. Het tabblad Proofingdetails wordt geopend. Als de persoon die u de eigenaar van de proef wilt maken nog niet op de proef is, zult u hen als ontvanger willen toevoegen door in de Geschikte knoop te klikken en Aandeel te selecteren. Nadat de persoon aan de proefdruk is toegevoegd (of al op de proefdruk staat), selecteert u de betreffende knop Elipses om &quot;Eigenaar maken&quot; te selecteren. Zij zullen nu de eigenaar van het bewijs worden.
+Als u de eigenaar van een proefdruk wilt veranderen, gaat u als volgt te werk: selecteer op het tabblad Documenten de proefdruk en klik op Details proefdrukken. Het tabblad Proofingdetails wordt geopend. Als de persoon die u de eigenaar van de proef wilt maken nog niet op de proef is, zult u hen als ontvanger willen toevoegen door in de Geschikte knoop te klikken en Aandeel te selecteren. Nadat de persoon aan de proefdruk is toegevoegd (of al op de proefdruk staat), selecteert u de betreffende knop Elipses om &quot;Eigenaar maken&quot; te selecteren. Zij zullen nu de eigenaar van het bewijs worden.
 
 **Vraag**
 
-Nieuwe versies van proefdrukken... de enige manier waarop ik dit begrijp, is het bestand boven op het bestaande bestand te slepen en neer te zetten. Is dit de juiste manier?
+Wat betreft nieuwe versies van proefdrukken... de enige manier waarop ik dit begrijp, is het bestand boven op het bestaande bestand te slepen en neer te zetten. Is dit de juiste manier om dat te doen?
 
 **Antwoord**
 
-Ik adviseer nieuwe versies op deze manier te creëren: Selecteer de proefdruk op het tabblad Documenten, klik op de knop Meer en kies Nieuwe versie > Proef. Dit zal u aan de Nieuwe pagina van de Versie nemen die het werkschema zal dragen evenals u toestaan om het even welke aanpassingen aan te brengen die u moet maken alvorens de nieuwe versie te verpletteren.
+Ik zou het op deze manier aanraden om nieuwe versies te maken: selecteer de proef in het Lusje van Documenten, klik dan op de Meer knoop, kies Nieuwe Versie > Bewijs. Dit zal u aan de Nieuwe pagina van de Versie nemen die het werkschema zal dragen evenals u toestaan om het even welke aanpassingen aan te brengen die u moet maken alvorens de nieuwe versie te verpletteren.
 
 **Vraag**
 
@@ -497,7 +497,7 @@ Wanneer u een document sleept en neerzet als een nieuwe versie, hebt u gelijk da
 
 **Vraag**
 
-Scenario - Proefdrukken doorsturen: Een externe klant die een proefdruk controleert, wil mogelijk intern bij zijn organisatie circuleren voordat hij of zij onze proefdruk goedkeurt. De andere revisies hoeven niet noodzakelijkerwijs in het systeem te staan, dus het lijkt niet @ in de opmerkingen te werken. Hoe kunnen ze het beste delen? Stuur de e-mail door en ze benadrukken de ontvanger dat opmerkingen niet als hun naam worden weergegeven.
+Scenario - Proefdrukken doorsturen: een externe klant die een proefdruk controleert, kan intern bij zijn organisatie willen circuleren alvorens onze proefdruk goed te keuren. De andere revisies hoeven niet noodzakelijkerwijs in het systeem te staan, dus het lijkt niet @ in de opmerkingen te werken. Hoe kunnen ze het beste delen? Stuur de e-mail door en ze benadrukken de ontvanger dat opmerkingen niet als hun naam worden weergegeven.
 
 **Antwoord**
 
@@ -521,7 +521,7 @@ Ja. U zult de twee mensen willen toevoegen die u een besluit van als Revisoren &
 
 **Vraag**
 
-We willen een proefdruk naar een externe client (niet-Workfront-gebruiker) sturen om deze te beoordelen en er opmerkingen over te maken. We willen ze een schoon bewijs sturen (dat wil zeggen, een bewijs zonder interne commentaar). Wat zijn de correcte opstapstappen om dit te maken gebeuren om ervoor te zorgen dat de externe cliënt de proef (enkel de proef, geen toegang tot het project zelf) krijgt en hoe &quot;verzenden&quot;de externe cliënten ons terug hun duidelijk omhoog bewijs? We gebruiken momenteel geen proefdruksjablonen/geautomatiseerde workflows.
+We willen een proefdruk naar een externe client (niet-Workfront-gebruiker) sturen om deze te beoordelen en er opmerkingen over te maken. We willen ze een schoon bewijs sturen (dat wil zeggen een bewijs zonder interne opmerkingen). Wat zijn de juiste stappen om dit te laten gebeuren om ervoor te zorgen dat de externe cliënt de proef (enkel de proef, geen toegang tot het project zelf) krijgt en hoe &quot;verzenden&quot;de externe cliënten ons terug hun duidelijk omhoog bewijs? We gebruiken momenteel geen proefdruksjablonen/geautomatiseerde workflows.
 
 **Antwoord**
 
@@ -541,7 +541,7 @@ Waar kunnen we een lijst bekijken van iedereen die een bewijs heeft herzien en/o
 
 **Antwoord**
 
-Als u een lijst met activiteiten wilt weergeven, bijvoorbeeld wanneer opmerkingen en beslissingen zijn gemaakt, klikt u in de Activiteitengeschiedenis in de Proefgegevens. Volg dit pad om dit te openen: Selecteer op het tabblad Documenten de optie Proefdruk > Klik op Proefgegevens > De sectie Activiteit uitbreiden. Als u deze informatie op versieniveau wilt zien, volgt u dit pad: Selecteer het Bewijs in het Lusje van Documenten > klikt op het Details Lusje > aan de bodem van het scherm u een sectie van Versies zult zien. Vanaf hier hebt u toegang tot de proefdrukgegevens op versieniveau.
+Als u een lijst met activiteiten wilt weergeven, bijvoorbeeld wanneer opmerkingen en beslissingen zijn gemaakt, klikt u in de Activiteitengeschiedenis in de Proefgegevens. Ga als volgt te werk om dit mogelijk te maken: selecteer de optie Proefdruk op het tabblad Documenten > Klik op Proefgegevens > De sectie Activiteit uitbreiden. Als u deze informatie op versieniveau wilt zien, volgt u dit pad: Selecteer de proefdruk op het tabblad Documenten > Klik op het tabblad Details > Naar de onderkant van het scherm. Er wordt een sectie Versies weergegeven. Vanaf hier hebt u toegang tot de proefdrukgegevens op versieniveau.
 
 **Vraag**
 

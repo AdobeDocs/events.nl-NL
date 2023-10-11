@@ -5,8 +5,8 @@ uuid: de15b14d-4316-4c7e-b9b4-55287b47171e
 dms: dam
 discoiquuid: 7a41c23a-1b45-43f4-8b41-13d206ce6e87
 targetaudience: target-audience advanced
-exl-id: 4d9bd5a8-9052-42e6-87df-2c1bdfce575a
-source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
+exl-id: 6c87ff99-3c15-4e15-a0b5-d9f72ff641c5
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '301'
 ht-degree: 0%
@@ -23,10 +23,10 @@ Deelnemers zullen beter begrijpen hoe ze DAM in hun omgeving kunnen gebruiken. D
 
 *Geleverd op 5 oktober 2016*
 
-**Gepresenteerd door:**
+**Gepresenteerd door**
 
 * Arnold Espos, Sr. Product Manager, Adobe
-* Josh Ramirez, hoofd van het product, [!DNL AEM Assets], Adobe
+* Josh Ramirez, hoofd van het product, [!DNL AEM Assets], ADOBE
 * Greg Klebus, Group Product Manager, Adobe
 
 **Presenter-dia&#39;s**
@@ -37,9 +37,8 @@ Deelnemers zullen beter begrijpen hoe ze DAM in hun omgeving kunnen gebruiken. D
 
 >[!WARNING]
 >
->AEM versies 6.4 en ouder zijn End of Life en worden niet meer door Adobe verkocht.  Adobe raadt u aan een upgrade uit te voeren naar de nieuwste versie - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  Gearchiveerde versies van de documentatie zijn vanuit deze [page](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html).
+>AEM versies 6.4 en ouder zijn End of Life en worden niet meer door de Adobe verkocht.  Adobe raadt u aan een upgrade naar de nieuwste versie uit te voeren - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  Gearchiveerde versies van de documentatie zijn vanuit deze [page](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html).
 >
->Zie *Opmerkingen bij de release Desktop App* in de AEM 6.2 documentatie.
+>Zie voor meer informatie *Opmerkingen bij de release Desktop App* in de AEM 6.2 documentatie.
 
 * [Updates van AEM Assets-documentatie](https://docs.adobe.com/content/docs/en/aem/recent-documentation-updates.html)
-

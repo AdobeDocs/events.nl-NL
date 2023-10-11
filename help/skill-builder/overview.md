@@ -1,8 +1,8 @@
 ---
 title: Overzicht van Skill Builder
 description: Opgenomen webinarreeks om uw kennisbasis te bouwen en uw investering in Adobe Experience Cloud te maximaliseren.
-exl-id: a2c07218-6f1d-434a-8b69-f6686c9f3370
-source-git-commit: e04e1c9bea0b99e7f35aedbe18942f04e10df5d2
+exl-id: 48b7a0ea-2fcf-4387-8f9e-0405d59acd7f
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '159'
 ht-degree: 3%

@@ -11,8 +11,8 @@ version: Cloud Service
 kt: 7173
 type: Event
 thumbnail: 331739.jpg
-exl-id: 089d3908-49c4-47c1-8941-c59ba3befcd1
-source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
+exl-id: 31ab1743-9e0e-42db-94e0-1d630680c96f
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 0%
@@ -23,6 +23,6 @@ ht-degree: 0%
 
 Een panel met Ian Boston, Tomek Rekawek en Carlos Sanchez over hoe we Adobe Experience Manager met succes naar de cloud hebben verplaatst.
 
-Doorgaan met gesprek in **[Experiencen League](https://adobe.ly/36Yd3v6)**.
+Doorgaan met gesprek in **[Experience League Gemeenschappen](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331739/?quality=12&learn=on&hidetitle=true)

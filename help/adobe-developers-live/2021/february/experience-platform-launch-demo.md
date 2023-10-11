@@ -10,8 +10,8 @@ role: Developer
 level: Experienced
 kt: 7166
 thumbnail: 331734.jpg
-exl-id: 442098f1-512a-4801-8bf1-85fc84be4aca
-source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
+exl-id: 4bf107fe-f34a-407f-9cec-fc94f7496130
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 0%
@@ -22,8 +22,8 @@ ht-degree: 0%
 
 Met AEP Launch kunt u snel en eenvoudig uw marketing- en advertentietags op de client implementeren en beheren, leren hoe u uw eigen extensies kunt aanpassen en schrijven.
 
-Doorgaan met gesprek in **[Experiencen League](https://adobe.ly/36Yd3v6)**.
+Doorgaan met gesprek in **[Experience League Gemeenschappen](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331734/?quality=12&learn=on&hidetitle=true)
 
-Klikken **[hier](/help/adobe-developers-live/assets/experience-platform-launch-demo.pdf)** voor de sessiedia&#39;s.
+Klikken **[hier](/help/adobe-developers-live/assets/experience-platform-launch-demo.pdf)** voor de sessiedia&#39;s

@@ -9,13 +9,13 @@ doc-type: Event
 last-substantial-update: 2023-07-24T00:00:00Z
 jira: KT-13688
 thumbnail: 3421687.jpeg
-source-git-commit: 45197a447b183e1be3f0c2806fe33b19780086e5
+exl-id: 38145136-4868-42ea-b279-7e74704e2b53
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 0%
 
 ---
-
 
 # B2B-succes inschakelen
 

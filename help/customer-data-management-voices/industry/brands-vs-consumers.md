@@ -1,6 +1,6 @@
 ---
 title: Een overzicht van twee percepties - merken versus consumenten
-description: Adobe ontpakt het begrip en de gereedheid van adverteerders en uitgevers voor een kokloze toekomst, de impact op hun gebruiksgevallen en hun perceptie van het bredere ecosysteem.
+description: Adobe ontleent het begrip en de gereedheid van adverteerders en uitgevers voor een kokloze toekomst, de gevolgen voor hun gebruiksgevallen en hun perceptie van het bredere ecosysteem.
 solution: Real-Time Customer Data Platform
 feature: Identities
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
@@ -9,8 +9,8 @@ doc-type: Event
 thumbnail: 332060.jpg
 kt: 7335
 type: Event
-exl-id: e97f13cf-091c-4726-b1b1-e0f683fea93a
-source-git-commit: bd648ac5c46c4cd2939f86944afcf97b74b82d14
+exl-id: 9736dd6f-ff33-41b5-80d6-1bb981bfc0b7
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 0%
@@ -19,10 +19,10 @@ ht-degree: 0%
 
 # Een overzicht van twee percepties - merken versus consumenten
 
-Tegenwoordig zijn marketers in de wirwar van informatie die gewijd is aan identiteitspraktijken. En slechts 37% van de marketingprofessionals zei dat ze erg voorbereid zijn op een toekomst zonder cookie, volgens recent onderzoek van Adobe en [!DNL Advanis]. In dit webinar ontpakt Adobe het begrip en de gereedheid van adverteerders en uitgevers voor een toekomst zonder cookie, de impact op hun gebruiksgevallen en hun perceptie van het bredere ecosysteem.
+Tegenwoordig zijn marketers in de wirwar van informatie die gewijd is aan identiteitspraktijken. En slechts 37% van de marketingprofessionals zei dat ze erg voorbereid zijn op een toekomst zonder cookie, volgens recent onderzoek van de Adobe en [!DNL Advanis]. In deze webinar-Adobe wordt het begrip en gereedheidsniveau van adverteerders en uitgevers voor een toekomst zonder cookie, de impact op hun gebruiksgevallen en hun perceptie van het bredere ecosysteem ontvouwen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332060/?quality=12&learn=on)
 
 Als u deze video wilt aanvullen, kunt u ook [een whitepaper downloaden](./../assets/whitepaper-a-tale-of-two-perceptions.pdf)
 
-*Een jaar later: Bijgewerkte inzichten over*<a href="https://business.adobe.com/blog/perspectives/a-tale-of-two-perceptions-readiness-for-a-cookieless-future"> business.adobe.com </a>*.*
+*Een jaar later: bijgewerkte inzichten over*<a href="https://business.adobe.com/blog/perspectives/a-tale-of-two-perceptions-readiness-for-a-cookieless-future"> business.adobe.com </a>*.*

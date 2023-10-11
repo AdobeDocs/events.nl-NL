@@ -1,6 +1,6 @@
 ---
 title: Inleiding tot Adobe PDF Services API
-description: Met de API voor Adobe Services kunnen ontwikkelaars gegevens maken, combineren, exporteren en extraheren vanuit PDF via krachtige en flexibele cloudgebaseerde API's. In deze sessie leert u hoe u met de Adobe PDF Services API documentervaringen kunt integreren in uw apps en ervaringen van klanten.
+description: Met de PDF Adobe Services-API van kunnen ontwikkelaars gegevens maken, combineren, exporteren en extraheren uit PDF via krachtige en flexibele cloud-API's. In deze sessie leert u hoe u met de Adobe PDF Services API documentervaringen kunt integreren in uw apps en ervaringen van klanten.
 solution: Acrobat Services
 feature: Developer Tools
 topic: Development
@@ -8,8 +8,8 @@ role: Developer, Architect
 level: Experienced
 kt: 9206
 type: Event
-exl-id: fffd2485-a373-43b0-a38e-5ed573c82cc1
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 6ac905cc-dd03-4d44-ad31-efe12651b4f1
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 16%
@@ -18,7 +18,7 @@ ht-degree: 16%
 
 # Inleiding tot Adobe PDF Services API
 
-Met de API voor Adobe Services kunnen ontwikkelaars gegevens maken, combineren, exporteren en extraheren vanuit PDF via krachtige en flexibele cloudgebaseerde API&#39;s. In deze sessie leert u hoe u met de Adobe PDF Services API documentervaringen kunt integreren in uw apps en ervaringen van klanten.
+Met de PDF Adobe Services-API van kunnen ontwikkelaars gegevens maken, combineren, exporteren en extraheren uit PDF via krachtige en flexibele cloud-API&#39;s. In deze sessie leert u hoe u met de Adobe PDF Services API documentervaringen kunt integreren in uw apps en ervaringen van klanten.
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/337601/?quality=12&learn=on&hidetitle=true)

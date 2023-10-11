@@ -12,8 +12,8 @@ level: Beginner
 version: Cloud Service
 type: Event
 kt: 8936
-exl-id: 1ceec88a-4c2c-4b57-ac72-193a84992102
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 8b54f2ed-621f-4cdb-a8d5-de58108059b3
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 0%
@@ -35,5 +35,5 @@ Leer de grondbeginselen van beheer op meerdere sites en het vertalen van webinho
 * [Author Beauful Web Ervaart snel](authoring-fundamentals.md)
 * [Nooit meer tijd verspillen bij het zoeken naar inhoud](media-library-administration.md)
 * [Altijd veranderende inhoud eenvoudig beheren](collaboration-tools.md)
-* [Inhoud voor ANYWHERE: Omnichanale ervaringen werkelijkheid maken](omnichannel-experiences.md)
+* [Inhoud voor ANYWHERE: Omnichannel-ervaringen realiseren](omnichannel-experiences.md)
 * [Het web en daarbuiten: de kracht van traditioneel en headless-contentbeheer](traditional-headless-content-management.md)

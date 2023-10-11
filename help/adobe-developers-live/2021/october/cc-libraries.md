@@ -1,6 +1,6 @@
 ---
-title: Inleiding tot Creative Cloud-bibliotheken en API's van de Asset Browser
-description: Leer hoe u Creative Cloud-bibliotheken kunt integreren in uw webtoepassingen via de API voor Creative Cloud-bibliotheken en de SDK van de Asset Browser
+title: Inleiding tot Creatives Cloud-bibliotheken en API's voor de Asset Browser
+description: Leer hoe u bibliotheken met Creatives Cloud kunt integreren in uw webtoepassingen via de API voor bibliotheken van Creatives Cloud en de SDK van de SDK van de Asset Browser
 solution: Creative Cloud
 feature: Developer Tools
 topic: Development
@@ -8,17 +8,17 @@ role: Developer, Architect
 level: Experienced
 kt: 9221
 type: Event
-exl-id: 263a098a-02c1-489c-9a9d-37efc9c6b0ef
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 3097134d-2a30-495c-8e98-83d46643be5a
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 24%
 
 ---
 
-# Inleiding tot Creative Cloud-bibliotheken en API&#39;s van de Asset Browser
+# Inleiding tot Creatives Cloud-bibliotheken en API&#39;s voor de Asset Browser
 
-Leer hoe u Creative Cloud-bibliotheken kunt integreren in uw webtoepassingen via de API voor Creative Cloud-bibliotheken en de SDK van de Asset Browser
+Leer hoe u bibliotheken met Creatives Cloud kunt integreren in uw webtoepassingen via de API voor bibliotheken van Creatives Cloud en de SDK van de SDK van de Asset Browser
 
 >[!VIDEO](https://video.tv.adobe.com/v/337592/?quality=12&learn=on&hidetitle=true)
 

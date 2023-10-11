@@ -1,13 +1,13 @@
 ---
 title: Ontgrendel de operationele efficiency met een best-in-klasse Operationeel Model
-description: verkennen hoe te om een beste in klasse operationeel model voor de Stapel van de Adobe MarTech te ontwikkelen, welke beste praktijken wij waarnemen
+description: verkennen hoe te om een beste in klasse operationeel model voor de Adobe MarTech Stack te ontwikkelen, welke beste praktijken wij waarnemen
 role: Leader, User
 level: Intermediate
 kt: 11124
 thumbnail: 3409247.jpeg
 hidefromtoc: true
-exl-id: 76a90334-6ec4-4335-a675-6ca0ec1bae7b
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: a03cdc91-47c3-488e-846d-86059fee60ab
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 0%

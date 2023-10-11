@@ -8,20 +8,20 @@ last-substantial-update: 2023-06-30T00:00:00Z
 jira: KT-13529
 thumbnail: 3420763.jpeg
 event-start-time: 2023-6-30 08:30-8
-source-git-commit: b32c10575f90d02829889d9eae876b2c922915bb
+exl-id: e31120ae-3bdd-4974-953b-1f007c6962a8
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '203'
 ht-degree: 0%
 
 ---
 
+# Klantreisbeheer: levenscyclusmodellering
 
-# Reisbeheer klant: Levenscyclusmodellering
-
-Transparantie is onlangs een van de meest waardevolle kenmerken van een succesvolle marketingstrategie geworden. Tijdens deze zitting behandelen we alle cruciale kwesties om geloofwaardigheid te creëren en te weten wanneer en welke hefbomen er moeten worden ingezet. James Leedom helpt u bij de volgende vragen: Adobe Automation Business Advisor, Cynthia Chang en Marketo Customer Technical Advisor
+Transparantie is onlangs een van de meest waardevolle kenmerken van een succesvolle marketingstrategie geworden. Tijdens deze zitting behandelen we alle cruciale kwesties om geloofwaardigheid te creëren en te weten wanneer en welke hefbomen er moeten worden ingezet. James Leedom, de eigen bedrijfsadviseur van de Automatisering van de Marketing van de Adobe, Cynthia Chang en de Technische Adviseur van de Klant van Marketo, helpt u deze vragen voor te komen:
 
 * In welk stadium van de koopreis bevindt zich momenteel de leiding?
-* Wat is onze omrekeningskoers van stadium tot stadium in de trechter?
+* Wat is onze omrekeningskoers van het stadium naar het stadium in de trechter?
 * Hoe snel gaan de verbindingen door de klantenreis?
 * Hoeveel MQL&#39;s hebben we nodig om X dollars in de pijplijn te krijgen?
 

@@ -11,8 +11,8 @@ level: Intermediate
 kt: 7179
 type: Event
 thumbnail: 331761.jpg
-exl-id: 93ee54d3-b522-47c8-91f9-eb9f9487afc9
-source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
+exl-id: 86dd2104-fad4-4ad7-bf25-e76efa753a5d
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 0%
@@ -23,8 +23,8 @@ ht-degree: 0%
 
 Ontgrendel het volledige potentieel van de Server van de Lancering van AEP met AEP Web &amp; Mobile SDK&#39;s om uw inzameling van ondernemingsgegevens te optimaliseren.
 
-Doorgaan met gesprek in **[Experiencen League](https://adobe.ly/36Yd3v6)**.
+Doorgaan met gesprek in **[Experience League Gemeenschappen](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331761/?quality=12&learn=on&hidetitle=true)
 
-Klikken **[hier](/help/adobe-developers-live/assets/experience-platform-sdk-launch.pdf)** voor de sessiedia&#39;s.
+Klikken **[hier](/help/adobe-developers-live/assets/experience-platform-sdk-launch.pdf)** voor de sessiedia&#39;s

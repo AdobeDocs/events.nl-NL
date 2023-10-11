@@ -6,8 +6,8 @@ role: User
 level: Beginner
 kt: 9710
 thumbnail: 340309.jpeg
-exl-id: 49e6d249-c5fc-4674-b5b6-6aa4ad6f816b
-source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
+exl-id: 87f18c5d-5bf3-4789-912c-a4072b26e940
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '86'
 ht-degree: 2%
@@ -16,7 +16,7 @@ ht-degree: 2%
 
 # Rapportage binnen [!DNL Marketo Engage]
 
-In deze sessie worden alle rapportagetools besproken die beschikbaar zijn in [!DNL Marketo Engage] met inbegrip van:
+In deze sessie worden alle rapportagetools besproken die beschikbaar zijn in [!DNL Marketo Engage] inclusief:
 
 * Rapporten
 * Slimme lijsten

@@ -4,8 +4,8 @@ description: Leer meer over vloeiende ervaringen en de toepassing ervan bij het 
 uuid: b7ee2de4-385a-486f-80e4-741e3965ed28
 discoiquuid: 0a81aa6a-94f6-4e38-98fb-c48809899a24
 targetaudience: target-audience advanced
-exl-id: 0172cee5-fe07-499c-a6cb-3a8f6e402539
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 5ab507d1-5099-4eb4-af2a-7bc312f115af
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '191'
 ht-degree: 0%
@@ -19,14 +19,14 @@ In deze sessie zullen we de dynamische ervaringen van Adobe Experience Manager e
 Toetsentoetsen:
 
 * Begrijp de nieuwe middelen beschikbaar voor gebruik wanneer in omnichannel CMS gesprekken
-* Bied Adobe gezichtspunt en oplossing met ervaring
+* Het standpunt en de oplossing van de Adobe kunnen leveren met vloeiende ervaringen
 * Nieuwe demo en instructieprogramma&#39;s beschikbaar voor gesprekken met uw klanten
 
 >[!VIDEO](https://video.tv.adobe.com/v/20495/?quality=9)
 
 *Geleverd op 18 oktober 2017*
 
-**Gepresenteerd door:**
+**Gepresenteerd door**
 
 * Haresh Kumar, Director of Strategy and Product Marketing AEM, Adobe
 * Gilles Knobloch, Senior Engineering Manager, Adobe

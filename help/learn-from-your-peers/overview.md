@@ -1,10 +1,10 @@
 ---
 title: '[!DNL Experience Makers - Learn from your peers]'
-description: Leer van Adobe experts en collega's hoe u het beste kunt halen uit uw Adobe-oplossingen. [!DNL Experience Makers - Learn from your peers] is een globale reeks van virtuele klanten het leren gebeurtenissen, die zich op het divers in duiken richten [!DNL Adobe Experience Cloud] oplossingen.
-exl-id: e0e4870a-d3aa-4b12-a536-85761b0eae46
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+description: Leer van experts en collega's van de Adobe hoe u het meeste kunt halen uit uw oplossingen voor Adoben. [!DNL Experience Makers - Learn from your peers] is een globale reeks van virtuele klanten het leren gebeurtenissen, die zich op het divers in duiken richten [!DNL Adobe Experience Cloud] oplossingen.
+exl-id: 006da2ec-77f0-43fb-a653-1b5f4942d692
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '79'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 <!-- <img alt="Experience Makers Learn from your peers" src="./assets/skill-exchange.png" /> -->
 
-Leer van Adobe experts en peers hoe u het beste kunt halen uit uw Adobe-oplossingen. Met onderwerpen geselecteerd voor artsen, _door_ praktijkmensen uit deze interactieve sessies delen &quot; illustraties van de mogelijke &quot; gebruiksscenario &#39; s , best practices en tips en trucs .
+Leer van experts en collega&#39;s van de Adobe hoe u optimaal kunt profiteren van uw oplossingen voor Adoben. Met onderwerpen geselecteerd voor artsen, _door_ praktijkmensen uit deze interactieve sessies delen &quot; illustraties van de mogelijke &quot; gebruiksscenario &#39; s , best practices en tips en trucs .
 
 >[!TIP]
 >

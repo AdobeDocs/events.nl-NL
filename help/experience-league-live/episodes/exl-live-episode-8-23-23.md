@@ -7,7 +7,8 @@ event-cta-url-live: https://www.youtube.com/watch?v=eC51g4bf81s
 event-cta-url-reg: null
 event-start-time: 2023-8-23 08:00-7
 event-guests: Siddharth Jain,Nikhil Sharma,Chetan Prasad
-source-git-commit: 3d4d837932a54e81ee7139d09a2e79f53472edb1
+exl-id: 4c3e2036-7afb-42f2-8071-17586b18aeec
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 0%

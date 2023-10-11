@@ -12,8 +12,8 @@ version: Cloud Service
 kt: 7176
 type: Event
 thumbnail: 331742.jpg
-exl-id: 4f912544-210d-45f3-b1c5-1d5b857793b5
-source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
+exl-id: e819c76d-84f4-4cd6-baed-a336a40267aa
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 0%
@@ -24,6 +24,6 @@ ht-degree: 0%
 
 Maak uw site installeerbaar op mobiele apparaten en offline beschikbaar met één klik, ongeacht of het een webtoepassing of een traditionele site betreft.
 
-Doorgaan met gesprek in **[Experiencen League](https://adobe.ly/36Yd3v6)**.
+Doorgaan met gesprek in **[Experience League Gemeenschappen](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331742/?quality=12&learn=on&hidetitle=true)

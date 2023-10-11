@@ -1,6 +1,6 @@
 ---
 title: Adobe Developers Live - 22 NOV - Toetsenbord openen
-description: Keynote - Headless Today & Tomorrow with Adobe Experience ManagerMeld u aan voor de openingstoetsennote met Sr. Director of Engineering, Michael Marth en Director of Product Management, Cedric Huesler voor een overzicht van de huidige en toekomstige status van Adobe Experience Manager zonder kop CMS.
+description: Keynote - Headless Today & Morgen met de Manager van de Ervaring van de AdobeSluit zich bij ons voor de openingssleutelnota met Sr. Director van Techniek, Michael Marth, en Director van het Beheer van het Product, Cedric Huesler voor de blik van een ontwikkelaar van de huidige en toekomstige staat van Adobe Experience Manager zonder hoofd CMS.
 solution: Experience Manager,Experience Manager Sites
 product: experience manager
 sub-product: sites
@@ -11,17 +11,17 @@ doc-type: Event
 last-substantial-update: 2022-11-15T00:00:00Z
 kt: 11472
 thumbnail: 3411296.jpeg
-exl-id: 0c6e95a6-63c0-40a0-a5b2-bf5a7d304a3b
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: c2d3f86e-4fed-4dbd-94be-6e2cfeaa1c1a
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---
 
 # Toetsenbord openen
 
-Toetsenbord: Vandaag en morgen headless met Adobe Experience Manager
+Toetsenbord: headless Today &amp; Tomorrow met Adobe Experience Manager
 
 Word lid van ons voor de openingssleutelnotitie met Sr. Director of Engineering, Michael Marth en Director of Product Management, Cedric Huesler voor een visie van een ontwikkelaar op de huidige en toekomstige status van Adobe Experience Manager zonder kop CMS.
 

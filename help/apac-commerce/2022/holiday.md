@@ -7,8 +7,8 @@ role: Leader, Architect, Developer, Data Architect, Admin, User
 level: Beginner
 last-substantial-update: 2022-10-31T00:00:00Z
 kt: 11355
-exl-id: 05c25d52-38f2-4c5e-b8a8-82c49f2a320c
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 84ddf190-b040-4e9f-88e3-0a2da76a4c76
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 # Gereedheid van feestdagen 2022
 
-Voorbereiding is essentieel voor succes en in dit webinar zullen wij u door de beste praktijken voor het leveraging van Adobe Commerce leiden om verkoop en prestaties over deze belangrijke handelsperiode (of om het even welke andere verkoopgebeurtenis uw zaken door het jaar kunnen ervaren) te maximaliseren.
+Voorbereiding is essentieel voor succes en in dit webinar zullen we u door de beste praktijken laten lopen om Adobe Commerce te gebruiken om de verkoop en prestaties gedurende deze belangrijke handelsperiode te maximaliseren (of elke andere verkoopgebeurtenis die uw bedrijf het hele jaar kan ervaren).
 
 U zult van Jason Ford horen, de Oplossingen van de Handel van de Manager die APAC raadplegen, en Sophia Gray, Senior Commerce Accountmanager, die de volgende onderwerpen zal behandelen:
 

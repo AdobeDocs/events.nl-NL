@@ -4,8 +4,8 @@ description: Bekijk een overzicht van het CQ 5.6 Commerce Framework vanuit een a
 uuid: 20701264-a2fb-4f8e-a818-02247acbb2eb
 discoiquuid: a6a4f598-2f3b-4428-9237-40b1d21b482e
 targetaudience: target-audience advanced
-exl-id: d4579ae7-70f8-4ad4-9f4f-7f2a4182a827
-source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
+exl-id: 12120eb9-a324-4d0d-b969-862419d99f07
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 0%
@@ -20,7 +20,7 @@ Als onderdeel van Adobe Experience Manager biedt CQ 5.6 een nieuw kader voor han
 
 *Afgeleverd op 17 april 2013*
 
-**Gepresenteerd door:**
+**Gepresenteerd door**
 
 John Fait
 

@@ -1,5 +1,5 @@
 ---
-title: Adobe Client Data Layer - Traceer uw bezoekergegevens
+title: Gegevenslaag client-Adobe - Gegevens van bezoeker bijhouden
 description: Begrijp de gebeurtenisgestuurde API van ACDL. Een voorbeeld van de Handel zal tonen hoe de Componenten van de Kern het en de uitbreiding van de Lancering met AA en AT hydrateren. Deze sessie is afgeleverd als onderdeel van de Adobe Developers Live Content-gebeurtenis.
 solution: Experience Manager, Experience Manager Sites, Analytics, Target
 product: experience manager
@@ -12,20 +12,20 @@ version: Cloud Service
 kt: 7162
 type: Event
 thumbnail: 331733.jpg
-exl-id: 8419f5e7-bbae-44e7-ab19-61e05c7a3b03
-source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
+exl-id: 68cd2f54-02be-40b9-a9b5-ea8824eded6c
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 0%
 
 ---
 
-# Adobe Client Data Layer - Traceer uw bezoekergegevens
+# Gegevenslaag client-Adobe - Gegevens van bezoeker bijhouden
 
 Begrijp de gebeurtenisgestuurde API van ACDL. Een voorbeeld van de Handel zal tonen hoe de Componenten van de Kern het en de uitbreiding van de Lancering met AA en AT hydrateren.
 
-Doorgaan met gesprek in **[Experiencen League](https://adobe.ly/36Yd3v6)**.
+Doorgaan met gesprek in **[Experience League Gemeenschappen](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331733/?quality=12&learn=on&hidetitle=true)
 
-Klikken **[hier](/help/adobe-developers-live/assets/adobe-client-data-layer.pdf)** voor de sessiedia&#39;s.
+Klikken **[hier](/help/adobe-developers-live/assets/adobe-client-data-layer.pdf)** voor de sessiedia&#39;s

@@ -1,26 +1,26 @@
 ---
 title: hybris/AEM 5.6 eCommerce-kaderintegratie
-description: Leer over onze integratieoplossing voor hybris in AEM. Wij beginnen met een overzicht van hoe de schakelaar met het kader van de eCommerce integreert en wat de algemene werkschema's wanneer het gebruiken van deze oplossing zijn. Vervolgens gaan we dieper in op de manier waarop de aansluiting kan worden uitgebreid en/of aangepast om zich aan te passen aan projectspecifieke behoeften.
+description: Leer over onze integratieoplossing voor hybris in AEM. Wij beginnen met een overzicht van hoe de schakelaar met het kader van eCommerce integreert en wat de algemene werkschema's wanneer het gebruiken van deze oplossing zijn. Vervolgens gaan we dieper in op de manier waarop de aansluiting kan worden uitgebreid en/of aangepast om zich aan te passen aan projectspecifieke behoeften.
 uuid: d09192f9-c9a3-43db-8538-d581838e1e27
 discoiquuid: 7fc5a2ec-df8c-44c1-95d0-050d77f82349
 targetaudience: target-audience advanced
-exl-id: 3fb71915-e0b0-4919-966f-cc0417d708c6
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: d729b2b1-d279-4204-9101-68df5aee79c0
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '155'
 ht-degree: 0%
 
 ---
 
 # hybris/AEM 5.6 eCommerce-kaderintegratie{#hybris-aem-ecommerce-framework-integration}
 
-In deze vergadering presenteren we onze integratieoplossing voor hybris in AEM. Wij beginnen met een overzicht van hoe de schakelaar met het kader van de eCommerce integreert en wat de algemene werkschema&#39;s wanneer het gebruiken van deze oplossing zijn. Vervolgens gaan we dieper in op de manier waarop de aansluiting kan worden uitgebreid en/of aangepast om zich aan te passen aan projectspecifieke behoeften.
+In deze vergadering presenteren we onze integratieoplossing voor hybris in AEM. Wij beginnen met een overzicht van hoe de schakelaar met het kader van eCommerce integreert en wat de algemene werkschema&#39;s wanneer het gebruiken van deze oplossing zijn. Vervolgens gaan we dieper in op de manier waarop de aansluiting kan worden uitgebreid en/of aangepast om zich aan te passen aan projectspecifieke behoeften.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19578/?quality=9)
 
 *Afgeleverd op 13 mei 2013*
 
-**Gepresenteerd door:**
+**Gepresenteerd door**
 
 Felix Oghina, Adobe Product Developer
 

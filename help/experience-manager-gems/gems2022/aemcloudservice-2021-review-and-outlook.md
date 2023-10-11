@@ -10,15 +10,15 @@ role: User
 level: Intermediate
 kt: 10055
 thumbnail: 341444.jpeg
-exl-id: 6ccb55f7-bf15-4f88-8822-950ca9de5e15
-source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
+exl-id: 24ba4ff1-1624-4dbc-8f5e-45cbcae650b6
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 0%
 
 ---
 
-# Adobe Experience Manager as a Cloud Service: Evaluatie 2021 en vooruitzichten 2022
+# Adobe Experience Manager as a Cloud Service: evaluatie 2021 en vooruitzichten 2022
 
 Deze AEM webinar-opname van GEM&#39;s omvat het volgende:
 
@@ -31,6 +31,5 @@ Dit webinar werd uitgevoerd op 25 januari 2022 en gepresenteerd door Bertrand de
 >[!MORELIKETHIS]
 >
 >* [Overeenkomende Adobe Experience Manager-gebruikersgroepgebeurtenispagina](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager-blogs/aem-gems-adobe-experience-manager-aem-as-a-cloud-service-2021/ba-p/437266)
->* [Overeenkomende contextuele thread](https://adobe.ly/3rqbSOz)
->* Meld u aan bij [Adobe](https://aem-augs.adobe.com/) om op de hoogte te worden gebracht van komende webinars.
-
+>* [Overeenkomende contextafhankelijke thread](https://adobe.ly/3rqbSOz)
+>* Meld u aan bij [Gebruikersgroep AEM Adobe](https://aem-augs.adobe.com/) om op de hoogte te worden gebracht van komende webinars.

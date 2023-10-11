@@ -12,8 +12,8 @@ level: Beginner
 version: Cloud Service
 type: Event
 kt: 7339
-exl-id: c2c500bf-b060-4507-af61-4c5dd1c5a8ec
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: b988b7ca-316f-4a14-9ca1-a9dc6b24aa5d
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '211'
 ht-degree: 1%
@@ -22,7 +22,7 @@ ht-degree: 1%
 
 # Metagegevens - Adobe Experience Manager Asset Series
 
-Met deze webinarreeks van vijf delen kunt u uw kennisbasis opbouwen en uw investering in Adobe Experience Manager Assets maximaliseren. Als je een arts bent die nieuw is voor Adobe Experience Manager Assets of al een tijdje Adobe Experience Manager Assets gebruikt en die je bestaande vaardigheden wil verbeteren, is dit de ideale manier om een diepe duik te krijgen in vijf van de belangrijkste gebieden van de oplossing. Experts van de Adobe zullen de grondbeginselen evalueren en ook geavanceerde inzichten bieden die u de mogelijkheid bieden om onmiddellijk actie te ondernemen.
+Met deze webinarreeks van vijf delen kunt u uw kennisbasis opbouwen en uw investering in Adobe Experience Manager Assets maximaliseren. Als je een arts bent die nieuw is voor Adobe Experience Manager Assets of al een tijdje Adobe Experience Manager Assets gebruikt en die je bestaande vaardigheden wil verbeteren, is dit de ideale manier om een diepe duik te krijgen in vijf van de belangrijkste gebieden van de oplossing. Deskundigen van de Adobe zullen de grondbeginselen evalueren en ook geavanceerde inzichten bieden die u de mogelijkheid bieden om onmiddellijk actie te ondernemen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332134/?quality=12&learn=on&hidetitle=true)
 
@@ -39,7 +39,7 @@ Een duidelijke strategie opzetten om de ontdekkingsmogelijkheden te optimalisere
 
 ## Reeksopnamen
 
-* [Elementkoppeling](asset-link.md)
+* [Koppeling met middelen](asset-link.md)
 * [Brand Portal](brand-portal.md)
 * [Dynamische media](dynamic-media.md)
 * [Mapstructuur en zoeken](folder-structure-search.md)

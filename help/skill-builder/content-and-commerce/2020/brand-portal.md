@@ -12,17 +12,17 @@ level: Beginner
 version: Cloud Service
 type: Event
 kt: 7340
-exl-id: f1b3db2f-8533-4f80-83ca-38b4380d7642
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 89f30cda-c166-4c61-9840-f104b8e62ac4
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '169'
+ht-degree: 1%
 
 ---
 
 # Brand Portal - Adobe Experience Manager Asset Series
 
-Met deze webinarreeks van vijf delen kunt u uw kennisbasis opbouwen en uw investering in Adobe Experience Manager Assets maximaliseren. Als je een arts bent die nieuw is voor Adobe Experience Manager Assets of al een tijdje Adobe Experience Manager Assets gebruikt en die je bestaande vaardigheden wil verbeteren, is dit de ideale manier om een diepe duik te krijgen in vijf van de belangrijkste gebieden van de oplossing. Experts van de Adobe zullen de grondbeginselen evalueren en ook geavanceerde inzichten bieden die u de mogelijkheid bieden om onmiddellijk actie te ondernemen.
+Met deze webinarreeks van vijf delen kunt u uw kennisbasis opbouwen en uw investering in Adobe Experience Manager Assets maximaliseren. Als je een arts bent die nieuw is voor Adobe Experience Manager Assets of al een tijdje Adobe Experience Manager Assets gebruikt en die je bestaande vaardigheden wil verbeteren, is dit de ideale manier om een diepe duik te krijgen in vijf van de belangrijkste gebieden van de oplossing. Deskundigen van de Adobe zullen de grondbeginselen evalueren en ook geavanceerde inzichten bieden die u de mogelijkheid bieden om onmiddellijk actie te ondernemen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332133/?quality=12&learn=on&hidetitle=true)
 
@@ -36,7 +36,7 @@ Met Brand Portal kunt u eenvoudig middelen delen met interne en externe teams.
 
 ## Reeksopnamen
 
-* [Elementkoppeling](asset-link.md)
+* [Koppeling met middelen](asset-link.md)
 * [Dynamische media](dynamic-media.md)
 * [Mapstructuur en zoeken](folder-structure-search.md)
 * [Metagegevens](metadata.md)

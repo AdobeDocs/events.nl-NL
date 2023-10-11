@@ -9,11 +9,11 @@ level: Experienced
 version: Cloud Service
 kt: 9217
 type: Event
-exl-id: 3c7faae0-d8ac-4a5c-ab0c-b25c2694a9dd
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: b1c5f695-45f5-4009-8e5f-2c562cbea213
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '224'
+ht-degree: 4%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Adobe Experience Manager als Asset compute microservices van Cloud Servicen ondersteunen de ontwikkeling en implementatie van aangepaste workers die aangepaste asset-uitvoeringen genereren. Naast het benutten van de out-of-the-box-inhoudsautomatisering voor de productie van bedrijfsmiddelen op schaal, kunnen ontwikkelaars ook hun eigen asset compute-workers maken met Photoshop API&#39;s voor meer aangepaste gebruiksgevallen. In deze sessie lopen we door alle stappen om een asset compute-worker te ontwikkelen met App Builder SDK&#39;s en Photoshop API&#39;s om aangepaste asset-uitvoeringen te automatiseren.
 
-Doorgaan met gesprek in **[Experiencen League](https://adobe.ly/3F6f5sG)**.
+Doorgaan met gesprek in **[Experience League Gemeenschappen](https://adobe.ly/3F6f5sG)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337769/?quality=12&learn=on&hidetitle=true)
 

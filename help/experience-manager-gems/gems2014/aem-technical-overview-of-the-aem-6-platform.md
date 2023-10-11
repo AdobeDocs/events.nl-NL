@@ -4,8 +4,8 @@ description: In deze sessie, Peter Klassen - Product Manager, kijkt naar opnieuw
 uuid: 53be1e40-6fe9-44b5-a015-ba7ad7801d7c
 discoiquuid: f4f6e2b0-7910-4d1d-a024-583ef17ffcda
 targetaudience: target-audience advanced
-exl-id: 674467f9-d05d-49ab-b457-975f413342fe
-source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
+exl-id: 505430d5-0d85-423d-83f5-59eb4deff427
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 2%
@@ -14,13 +14,13 @@ ht-degree: 2%
 
 # Technisch overzicht van het platform AEM 6{#technical-overview-of-the-aem-platform}
 
-In deze zitting zal Peter Klassen - de Manager van het Product het volgende bekijken: JCR Repository opnieuw geladen - prestatieverbeteringen en nieuwe schaalbaarheidsopties op één moment, mongoDB in AEM 6, waar u binaire bestanden kunt opslaan - nieuw overzicht van DataStore-opties, eenvoudig uitgevoerde platformbewerkingen. Het doelpubliek voor deze zitting is partners en klanten; projectmanagers, architecten en beheerders.
+In deze sessie zal Peter Klassen - Product Manager het volgende bekijken: JCR Repository opnieuw geladen - prestatieverbeteringen en nieuwe schaalbaarheidsopties op één moment, mongoDB in AEM 6, waar u binaire bestanden kunt opslaan - nieuw DataStore-optiesoverzicht, platformbewerkingen werden eenvoudig gemaakt. Het doelpubliek voor deze zitting is partners en klanten; projectmanagers, architecten en beheerders.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19517/?quality=9)
 
 *Geleverd op 11 juni 2014*
 
-**Gepresenteerd door:**
+**Gepresenteerd door**
 
 Peter Klassen, productmanager, Adobe
 

@@ -4,8 +4,8 @@ description: Bekijk een technische introductie van de geavanceerde functies voor
 uuid: 181e3781-8eca-4a5d-879e-15ae4e1f6649
 discoiquuid: ee4cd526-7363-4b8e-ad26-c2c937b70327
 targetaudience: target-audience advanced
-exl-id: 13888662-d1c5-4fff-b55e-38acede95396
-source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
+exl-id: bd10465b-6f45-4117-b8a0-1310422f5825
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '207'
 ht-degree: 2%
@@ -20,9 +20,9 @@ De behandeling van de baan is de onderliggende infrastructuur voor eigenschappen
 
 *Geleverd op 24 juli 2013*
 
-**Gepresenteerd door:**
+**Gepresenteerd door**
 
-Carsten Ziegeler, Senior Developer, Adobe
+Carsten Ziegeler, senior ontwikkelaar, Adobe
 
 Marc Pfaff, Lead Developer, Adobe
 

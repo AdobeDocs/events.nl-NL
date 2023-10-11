@@ -1,6 +1,6 @@
 ---
 title: Evolving Your Audience Center of Excellence
-description: Een model van het Publiek van excellentie (COE) is al lang de optimale manier om Platforms van het Beheer van Gegevens (DMPs) te steunen.
+description: Een model van het Publiek van excellentie (COE) is al lang de optimale manier om de Platforms van het Beheer van Gegevens (DMPs) te steunen.
 solution: Real-Time Customer Data Platform
 feature: Data Governance
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
@@ -8,8 +8,8 @@ level: Beginner, Intermediate, Experienced
 thumbnail: 336938.jpg
 kt: 8864
 type: Event
-exl-id: 179654ad-d12f-4cf2-8154-58e867c8a8ca
-source-git-commit: bd648ac5c46c4cd2939f86944afcf97b74b82d14
+exl-id: 7383654b-96ed-41d7-ac24-9e8b290d1206
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # Evolving Your Audience Center of Excellence
 
-Aangezien de platforms die het beheer van klantgegevens vergemakkelijken, moeten de doelgroepen en activeringsprogramma&#39;s zich ook ontwikkelen. Ook de mensen en processen die deze platforms ondersteunen. Een model van het Publiek van excellentie (COE) is al lang de optimale manier om Platforms van het Beheer van Gegevens (DMPs) te steunen.
+Aangezien de platforms die het beheer van klantgegevens vergemakkelijken, moeten de doelgroepen en activeringsprogramma&#39;s zich ook ontwikkelen. Ook de mensen en processen die deze platforms ondersteunen. Een model van het Publiek van excellentie (COE) is al lang de optimale manier om de Platforms van het Beheer van Gegevens (DMPs) te steunen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/336938/?quality=12&learn=on)
 

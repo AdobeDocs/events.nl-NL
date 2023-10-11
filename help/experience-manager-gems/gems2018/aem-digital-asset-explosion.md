@@ -4,17 +4,17 @@ description: Meer informatie over de explosie van digitale middelen en AEM Asset
 uuid: 236f688c-82c0-46dd-bbdc-e9c8552152c4
 discoiquuid: b3ec974b-8173-4dad-b349-88c4da78ce89
 targetaudience: target-audience advanced
-exl-id: 403a3add-8b95-4362-931d-a953667b28e2
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: fd0b8f3e-c6fc-4df7-926c-c40074b6534c
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '111'
 ht-degree: 0%
 
 ---
 
 # De explosie en [!DNL AEM Assets]{#the-digital-asset-explosion-aem-assets}
 
-Bij Adobe zien we een explosie van digitale middelen op vier belangrijke gebieden:
+Bij de Adobe hebben we een explosie gezien van digitale middelen op vier belangrijke gebieden:
 
 * De bestandsgrootte van digitale elementen die worden geproduceerd
 * Aantal geproduceerde digitale activa
@@ -27,7 +27,7 @@ In deze sessie zullen we leren over de Digital Asset Explosion, de schaal van AE
 
 *Geleverd op 31 januari 2018*
 
-**Gepresenteerd door:**
+**Gepresenteerd door**
 
 Clint Goudie-Nice, Sr. Software Engineer, Adobe
 

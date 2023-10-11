@@ -6,8 +6,8 @@ role: Admin, User
 level: Beginner, Intermediate, Experienced
 kt: 10579
 thumbnail: 343828.jpeg
-exl-id: d118e742-272f-4b90-b64d-f1a8bb8ababd
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 1dc6d34a-fc3d-4989-8925-a6f12766105b
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Toptips en trucs voor Adobe Campaign Standard
 
-Stop in uw Adobe Campaign Standard instantie en ontdek beste praktijken rond het richten, personalisatie en marketing vermoeidheid om een beter gebruik van ACS te hebben. Deze sessie is interactief: Maak van deze sessie uw eigen sessie door rechtstreeks naar onze expert te vragen over functies/behoeften.
+Stop in uw Adobe Campaign Standard instantie en ontdek beste praktijken rond het richten, personalisatie en marketing vermoeidheid om een beter gebruik van ACS te hebben. Deze sessie is interactief: maak van deze sessie uw eigen sessie door rechtstreeks aan onze expert te vragen naar functies/behoeften!
 
 *Laurent Valenza* Belangrijkste oplossingsconsultant/Adobe
 

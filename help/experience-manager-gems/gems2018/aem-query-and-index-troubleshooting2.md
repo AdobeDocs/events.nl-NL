@@ -1,13 +1,13 @@
 ---
 title: Problemen met zoeken en indexen AEM
-description: Dit is een voortzetting van de sessie van vorig jaar AEM Indexing en JCR Query (Link hieronder). Het zal dezelfde onderwerpen behandelen, maar met alle nieuwe inhoud en heeft weinig overlapping met de oudere presentatie. Ook zijn er nieuwe functies van AEM 6.4 opgenomen.
+description: Dit is een voortzetting van de zitting van vorig jaar AEM Indexing en Vraag JCR (hieronder verbinding). Het zal dezelfde onderwerpen behandelen, maar met alle nieuwe inhoud en heeft weinig overlapping met de oudere presentatie. Ook zijn er nieuwe functies van AEM 6.4 opgenomen.
 uuid: da172124-bef7-45b8-91f4-86fc37d03f5d
 discoiquuid: 7d95cb2b-9fc4-4d0e-8a70-a751f4487f77
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
-exl-id: 01d8eb23-1dc2-4040-8576-daa52bf58783
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 18c67108-c642-43dd-a177-b441f03a83bb
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '100'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Dit is een voortzetting van de zitting van vorig jaar AEM Indexing en Vraag JCR.
 
 *Geleverd 22-08-18*
 
-**Gepresenteerd door:**
+**Gepresenteerd door**
 
 Thomas Mueller, Senior Software Engineer, Adobe
 

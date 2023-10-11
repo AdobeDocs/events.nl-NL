@@ -8,16 +8,16 @@ doc-type: Event
 last-substantial-update: 2022-12-01T00:00:00Z
 kt: 11533
 thumbnail: 3411896.jpeg
-exl-id: 26916245-9133-4a2c-9a33-cbf4e1a905a1
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 66655de0-0a98-4b94-bc95-f86348d0d2de
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '82'
 ht-degree: 0%
 
 ---
 
 # Track vergroten - spotlicht
 
-Doe mee met ons als we Meghan R spotlight nemen. Bevoegdheden (CarMax) en Gitai Ben-Ammi (Concentrix), twee ervaren klanten en Adobe Analytics-gebruikers. Elk van hen zal hun beste uiteinde of truc van Adobe Analytics delen.
+Meld u aan bij ons als we Meghan R. Powers (CarMax) en Gitai Ben-Ammi (Concentrix), twee ervaren klanten en Adobe Analytics-gebruikers in de schijnwerpers zetten. Elk van hen zal hun beste uiteinde of truc van Adobe Analytics delen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3411896/?quality=12&learn=on)

@@ -4,8 +4,8 @@ description: Als onderdeel van Adobe Experience Manager biedt CQ 5.6 een nieuw k
 uuid: cf925889-3538-4ae4-a82c-a8e5d30ad1ab
 discoiquuid: c2876633-70b8-46d9-b63d-581b40ec0fef
 targetaudience: target-audience advanced
-exl-id: e08c14f4-a46a-43b0-a7a0-18c4a778324b
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 7751d49e-7981-463e-ba3f-e62f32adbae0
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%
@@ -20,7 +20,7 @@ Als onderdeel van Adobe Experience Manager biedt CQ 5.6 een nieuw handelskader v
 
 *Geleverd op 20 maart 2013*
 
-**Gepresenteerd door:**
+**Gepresenteerd door**
 
 Paolo Mottadelli, Sr. Technical Marketing Mgr.
 

@@ -9,11 +9,11 @@ level: Experienced
 version: Cloud Service
 kt: 9193
 type: Event
-exl-id: 948ef31b-2793-4a1c-aea4-b269c86881af
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 6aa73e70-8fd0-4bae-a589-7cab23be5109
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '119'
+ht-degree: 8%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Meer informatie over de verschillen tussen het leveren van inhoud voor het digitale signaalkanaal en het aanbieden van een website, en over de manier waarop as a Cloud Service schermen een kanaalspecifiek leveringsmechanisme bieden om aan de unieke vereisten van digitale signage te voldoen.
 
-Doorgaan met gesprek in **[Experiencen League](https://adobe.ly/3umX8Be)**.
+Doorgaan met gesprek in **[Experience League Gemeenschappen](https://adobe.ly/3umX8Be)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337885/?quality=12&learn=on&hidetitle=true)
 

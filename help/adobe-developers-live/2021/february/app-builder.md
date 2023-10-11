@@ -10,8 +10,8 @@ version: Cloud Service
 kt: 7175
 type: Event
 thumbnail: 331741.jpg
-exl-id: 5c303ecd-d33e-48c6-94da-f8bbb07577f1
-source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
+exl-id: d1672427-b943-4b9f-84ed-ebf2c9c54933
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 0%
@@ -20,10 +20,10 @@ ht-degree: 0%
 
 # Dieptedia van Adobe Developer App Builder
 
-Wilt u meer informatie over Adobe Developer App Builder-ontwikkelaars? Sluit u aan bij ons en zie App Builder in actie: code, beveiliging, apps zonder kop en kop, CI/CD en meer.
+Wilt u meer informatie over Adobe Developer App Builder-ontwikkelaars? Meld u aan en zie App Builder in actie: code, beveiliging, apps zonder kop en zonder kop, CI/CD en meer.
 
-Doorgaan met gesprek in **[Experiencen League](https://adobe.ly/36Yd3v6)**.
+Doorgaan met gesprek in **[Experience League Gemeenschappen](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331741/?quality=12&learn=on&hidetitle=true)
 
-Klikken **[hier](/help/adobe-developers-live/assets/app-builder.pdf)** voor de sessiedia&#39;s.
+Klikken **[hier](/help/adobe-developers-live/assets/app-builder.pdf)** voor de sessiedia&#39;s

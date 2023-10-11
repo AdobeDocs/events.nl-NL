@@ -12,8 +12,8 @@ version: Cloud Service
 kt: 7177
 type: Event
 thumbnail: 331737.jpg
-exl-id: 9b221a85-5e8b-486c-9d47-17f939c9a59c
-source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
+exl-id: 3365d609-70e7-404c-ad4d-c9049ed00b35
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 0%
@@ -24,8 +24,8 @@ ht-degree: 0%
 
 Gebruik Sitesjablonen om met weinig muisklikken nieuwe sites te maken en om de leuke ontwikkeling terug te brengen met de snelle implementatie van frontend-elementen, zoals CSS en JS.
 
-Doorgaan met gesprek in **[Experiencen League](https://adobe.ly/36Yd3v6)**.
+Doorgaan met gesprek in **[Experience League Gemeenschappen](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331737/?quality=12&learn=on&hidetitle=true)
 
-Klikken **[hier](/help/adobe-developers-live/assets/rapid-frontend-devlopment.pdf)** voor de sessiedia&#39;s.
+Klikken **[hier](/help/adobe-developers-live/assets/rapid-frontend-devlopment.pdf)** voor de sessiedia&#39;s

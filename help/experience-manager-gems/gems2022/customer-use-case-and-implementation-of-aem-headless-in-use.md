@@ -8,10 +8,10 @@ feature: AEM Community Lens
 topic: Administration
 role: User
 level: Intermediate
-exl-id: 5f75ebf2-1a15-4d1d-b233-6de1cfecd11f
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 6e35763d-d18a-468c-9b34-df14da7c7e2f
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '268'
 ht-degree: 0%
 
 ---
@@ -24,9 +24,9 @@ Deze uitzonderlijke AEM GEMs zitting kenmerkt twee sprekers die AEM als klanten 
 
 ## Deel 1: AEM als een zonder kop CMS Where/When/Why?
 
-Presentator: Vengadesh Shanmugavelu - Technisch architect, Qatar Airways
+Presenter: Vengadesh Shanmugavelu - Technisch architect, Qatar Airways
 
-**Sessiebeschrijving:**
+**Beschrijving sessie:**
 Er zijn vele manieren waarop we koploze CMS via AEM kunnen implementeren.
 In deze zitting zullen wij het volgende behandelen:
 
@@ -38,9 +38,9 @@ In deze zitting zullen wij het volgende behandelen:
 
 ## Deel 2: Inhoud zonder kop leveren via GraphQL API en Content Fragments
 
-Presentator: Debal Das - Senior System Analyst, IBM
+Presenter: Debal Das - Senior System Analyst, IBM
 
-**Sessiebeschrijving:**
+**Beschrijving sessie:**
 In deze sessie zullen we het gebruik van GraphQL-inhoudsfragmenten behandelen (naast de reeds bestaande JSON-API&#39;s).
 
 Conceptueel, is GraphQL gelijkaardig aan een SQL gegevensbestandvraag, met uitzondering dat API voor de vraag eerder dan een gegevensbestand wordt gebruikt.
@@ -54,5 +54,4 @@ Dit elimineert het vereiste voor API om vele eindpunten te verstrekken die diver
 >[!NOTE]
 >
 >* Voor sessiespecifieke community-interacties over Experience League gaat u naar [Contextuele thread](https://adobe.ly/3r6P4nr)
->* Meld u aan bij [Adobe](https://aem-augs.adobe.com/).
-
+>* Meld u aan bij [Gebruikersgroep AEM Adobe](https://aem-augs.adobe.com/).

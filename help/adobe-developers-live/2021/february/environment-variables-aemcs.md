@@ -11,8 +11,8 @@ version: Cloud Service
 kt: 7404
 type: Event
 thumbnail: 332304.jpg
-exl-id: 774bdb45-6179-4763-8e4a-0f61a5785406
-source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
+exl-id: 75e88a05-780d-4b6b-85be-09eea699bb69
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 0%
@@ -23,8 +23,8 @@ ht-degree: 0%
 
 Leer hoe te om omgevingsvariabelen met Adobe Experience Manager as a Cloud Service te beheren en hen in de context van een bouwstijlproces of de configuratievariabelen te gebruiken OSGI.
 
-Doorgaan met gesprek in **[Experiencen League](https://adobe.ly/36Yd3v6)**.
+Doorgaan met gesprek in **[Experience League Gemeenschappen](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332304/?quality=12&learn=on&hidetitle=true)
 
-Klikken **[hier](/help/adobe-developers-live/assets/environment-variables-aemcs.pdf)** voor de sessiedia&#39;s.
+Klikken **[hier](/help/adobe-developers-live/assets/environment-variables-aemcs.pdf)** voor de sessiedia&#39;s

@@ -6,8 +6,8 @@ role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 kt: 10572
 thumbnail: 343822.jpeg
-exl-id: 86eb7396-72c9-4a3e-9689-22cb77184a21
-source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
+exl-id: 1495128e-d1f2-4ae3-8598-beed95684ed3
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Keynote - trends en innovatie op het gebied van reizen van klanten over B2B en B2C
 
-In deze keynote zitting, zult u over de recentste tendensen in het Beheer van de Reizen van de Klant over B2B en B2C leren. We zullen ook met u de meest recente innovaties delen in belangrijke reisapplicaties en de bredere Adobe Experience Cloud en het Platform. Eén om niet te missen!
+In deze keynote zitting, zult u over de recentste tendensen in het Beheer van de Reizen van de Klant over B2B en B2C leren. We zullen ook met u de meest recente innovaties delen in belangrijke reistoepassingen en het bredere Adobe Experience Cloud en Platform. Eén om niet te missen!
 
 *Timo Kohlberg* Senior Manager &amp; EMEA Lead Product Marketing / Adobe
 

@@ -1,8 +1,8 @@
 ---
 title: Handel en koffie
 description: De Adobe Commerce- en Coffee-reeks richt zich op handelsstrategieën en -tactieken, ondersteund door statistieken die het gebeurtenisonderwerp weerspiegelen.
-exl-id: b843ec27-295a-406c-971b-f3ba4ee9e002
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: fba820f3-55cf-4cf5-bb0f-6b19870264db
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 0%
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 # Handel en koffie
 
-De Commerce &amp; Coffee-reeks is voor bestaande Adobe Commerce-klanten van alle vaardigheidsniveaus en is voorzien van Sr. Commerce Strategy Consultant, Corey Gelato. De reeks richt zich op handelsstrategieën en tactieken, ondersteund door statistieken die het gebeurtenisonderwerp weerspiegelen. Na de presentatie is er een live demonstratie die laat zien hoe de besproken strategieën in actie kunnen worden gebracht binnen een handelsplatform. Aan het einde van elke gebeurtenis hebben de deelnemers de mogelijkheid om rechtstreeks vragen te stellen en contact op te nemen met de Adobe-experts. U laat elke gebeurtenis een vernieuwd besef achter van waarom en hoe u concurrerend kunt blijven en succes kunt behalen, terwijl u alles maximaliseert wat uw Adobe Commerce-platform te bieden heeft.
+De Commerce &amp; Coffee-reeks is voor bestaande Adobe Commerce-klanten van alle vaardigheidsniveaus en is voorzien van Sr. Commerce Strategy Consultant, Corey Gelato. De reeks richt zich op handelsstrategieën en tactieken, ondersteund door statistieken die het gebeurtenisonderwerp weerspiegelen. Na de presentatie is er een live demonstratie die laat zien hoe de besproken strategieën in actie kunnen worden gebracht binnen een handelsplatform. Elke gebeurtenis wordt afgesloten door de aanwezigen de gelegenheid te geven zelf vragen te stellen en rechtstreeks contact op te nemen met de Adobe-experts. U laat elke gebeurtenis een vernieuwd besef achter van waarom en hoe u concurrerend kunt blijven en succes kunt behalen, terwijl u alles maximaliseert wat uw Adobe Commerce-platform te bieden heeft.
 
 <!--
 ## What's New

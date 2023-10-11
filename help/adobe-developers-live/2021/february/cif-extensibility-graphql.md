@@ -12,8 +12,8 @@ version: Cloud Service
 kt: 7187
 type: Event
 thumbnail: 331850.jpg
-exl-id: c41fd457-a8aa-4ab5-a7e4-67562aa77d63
-source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
+exl-id: 15776683-621e-4be4-b4ef-b9c58a4eedf4
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '59'
 ht-degree: 0%
@@ -24,8 +24,8 @@ ht-degree: 0%
 
 Meer informatie over het uitbreiden van de belangrijkste componenten van de Handel met GraphQL.
 
-Doorgaan met gesprek in **[Experiencen League](https://adobe.ly/36Yd3v6)**.
+Doorgaan met gesprek in **[Experience League Gemeenschappen](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331850/?quality=12&learn=on&hidetitle=true)
 
-Klikken **[hier](/help/adobe-developers-live/assets/cif-extensibility-graphql.pdf)** voor de sessiedia&#39;s.
+Klikken **[hier](/help/adobe-developers-live/assets/cif-extensibility-graphql.pdf)** voor de sessiedia&#39;s

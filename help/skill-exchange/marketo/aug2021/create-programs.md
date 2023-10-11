@@ -6,8 +6,8 @@ role: User
 level: Beginner
 kt: 10324
 thumbnail: 342555.jpeg
-exl-id: a9d48fa2-6d89-4576-bd69-079c2e62b7d5
-source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
+exl-id: b4d71211-5eff-440c-8fd5-9de2a248695e
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Programma&#39;s maken binnen [!DNL Marketo Engage]
 
-Deze sessie leert u allemaal over *Programmastructuur* met inbegrip van: Programmatypen, kanalen en statussen en tags. U leert ook over de *Foundation-programmaconcept* en wat is een programma?
+Deze sessie leert u allemaal over *Programmastructuur* inclusief: Programmatypen, Kanalen en statussen en tags. U leert ook over de *Foundation-programmaconcept* en wat is een programma?
 
 U laat deze sessie achter met inzicht in de manier waarop u uw [!DNL Marketo Engage] -instantie om op de meest efficiënte manier aan uw bedrijfsbehoeften te voldoen en hoe u programma&#39;s kunt maken om e-mails en webinars uit te voeren.
 

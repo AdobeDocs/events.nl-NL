@@ -1,8 +1,8 @@
 ---
 title: APAC Commerce Webinar Series
 description: De APAC Commerce Webinar Series is een maandelijks kadence van workshops voor Adobe Commerce-klanten die een groot aantal onderwerpen bestrijkt, van beste praktijken tot product roadmap en industrietrends.
-exl-id: 35d78d88-38ef-486a-8e34-8bce0da673ca
-source-git-commit: 147a7e327b387d0b02e4110e1405c1f8b6f3c883
+exl-id: 829502f9-3b2a-426c-a06c-7edcde000c72
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '271'
 ht-degree: 0%
@@ -23,11 +23,11 @@ De APAC Commerce Webinar Series is een maandelijks kadence van workshops voor Ad
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2023/adobes-paas-cloud-commerce.html">
-        <strong>Stroomlijn uw bedrijf met Adobe PaaS Cloud</strong>
+        <strong>Uw bedrijf stroomlijnen met de PaaS Cloud Commerce van Adobe</strong>
       </a>
     </div>
     <p>
-    <em>Sluit u aan bij onze webinar om de voordelen van de PaaS-oplossing voor Adobe te ontdekken, of u nu zelf hosten en nieuwsgierig bent naar PaaS of een bestaande klant die uw installatie wil optimaliseren.</em>
+    <em>Sluit u aan bij ons webinar om de voordelen van de Commerce Cloud PaaS-oplossing van de Adobe te ontdekken, of u nu zelf host en nieuwsgierig bent naar PaaS of een bestaande klant die uw installatie wil optimaliseren.</em>
     <p>
   </td>
   <td>
@@ -40,7 +40,7 @@ De APAC Commerce Webinar Series is een maandelijks kadence van workshops voor Ad
       </a>
     </div>
     <p>
-    <em>De kracht van AI-investeringen in AI en de integratie van AI in de handel benutten om een uitzonderlijke klantervaring op te doen.</em>
+    <em>Inzetten van de kracht van AI voor een uitzonderlijke ervaring van klanten met de investering van Adobe in AI en de integratie ervan in de handel.</em>
     <p>
   </td>
   <td>

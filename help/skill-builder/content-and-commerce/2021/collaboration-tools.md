@@ -12,8 +12,8 @@ level: Beginner
 version: Cloud Service
 type: Event
 kt: 7342
-exl-id: cb7b2ee2-93b7-496a-8120-01e9af6e3957
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 9655db30-bb17-4f0e-abd2-3267821c6b7e
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 0%
@@ -34,6 +34,6 @@ Meer informatie over de samenwerkingsprogramma&#39;s van de auteur van de Experi
 
 * [Author Beauful Web Ervaart snel](authoring-fundamentals.md)
 * [Nooit meer tijd verspillen bij het zoeken naar inhoud](media-library-administration.md)
-* [Inhoud voor ANYWHERE: Omnichanale ervaringen werkelijkheid maken](omnichannel-experiences.md)
+* [Inhoud voor ANYWHERE: Omnichannel-ervaringen realiseren](omnichannel-experiences.md)
 * [Ga wereldwijd met Adobe Experience Manager](multi-site-management-web-translation.md)
 * [Het web en daarbuiten: de kracht van traditioneel en headless-contentbeheer](traditional-headless-content-management.md)

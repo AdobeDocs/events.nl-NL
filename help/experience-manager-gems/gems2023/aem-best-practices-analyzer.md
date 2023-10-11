@@ -10,8 +10,8 @@ role: User
 level: Intermediate
 kt: 11630
 event-start-time: 2023-1-18 08:30-8
-exl-id: 04b5d071-18a4-44e3-af7b-6a4db594cacb
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 9e952d3a-aec8-41f7-a9bc-19e187276af0
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '262'
 ht-degree: 0%
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 ## Beschrijving
 
-De Analysator van Beste praktijken is een hulpmiddel dat analyse en rapporteringsmogelijkheden betreffende AEM op gebouw en instanties van AMS verstrekt. Het genereert een evaluatie van uw huidige AEM implementatie door gebieden aan te geven die de aanbevolen beste praktijken niet volgen en tegelijkertijd richtlijnen te bieden voor het nemen van maatregelen om mogelijke problemen op te lossen. De motivatie is eenvoudig; het identificeren en aanpakken van slechts 1 misbruik binnen uw AEM milieu heeft het potentieel om gebruikers-ervaring te verbeteren, technische schuld te verminderen en uw totale kosten van eigendom (TCO) te verminderen. Waarom duurt het dan niet om te zien of er verbeteringsmogelijkheden zijn?
+De Analysator van Beste praktijken is een hulpmiddel dat analyse en rapporteringsmogelijkheden betreffende AEM op gebouw en instanties van AMS verstrekt. Het genereert een evaluatie van uw huidige AEM implementatie door gebieden aan te geven die de aanbevolen beste praktijken niet volgen en tegelijkertijd richtlijnen te bieden voor het nemen van maatregelen om mogelijke problemen op te lossen. De motivatie is eenvoudig: het identificeren en aanpakken van slechts één misbruik binnen uw AEM omgeving heeft het potentieel om gebruikerservaring te verbeteren, de technische schuld te verminderen en op zijn beurt uw totale eigendomskosten te verlagen. Waarom duurt het dan niet om te zien of er verbeteringsmogelijkheden zijn?
 De analyse AEM Best Practices is niet van toepassing op AEM as a Cloud Service omgevingen.
 
 ### Presentatoren
@@ -33,7 +33,7 @@ De analyse AEM Best Practices is niet van toepassing op AEM as a Cloud Service o
 * Saurabh Saxena, Engineering Manager, Adobe
 * Kiran Murugulla, Senior Cloud Architect, Adobe
 * Vaibhav Varshney, Computer Scientist, Adobe
-* Himani Chauhan, Computer Scientist, Adobe
+* Himani Chauhan, Computerwetenschapper, Adobe
 
 ## Webinar Recording - 18-01-2023
 
@@ -42,5 +42,4 @@ De analyse AEM Best Practices is niet van toepassing op AEM as a Cloud Service o
 >[!NOTE]
 >
 >* Voor sessiespecifieke community-interacties over Experience League gaat u naar [Contextuele thread](https://bit.ly/3Z6AyM1)
->* Meld u aan bij [Adobe](https://aem-augs.adobe.com/).
-
+>* Meld u aan bij [Gebruikersgroep AEM Adobe](https://aem-augs.adobe.com/).

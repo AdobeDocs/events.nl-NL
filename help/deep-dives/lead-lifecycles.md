@@ -7,13 +7,13 @@ doc-type: Event
 last-substantial-update: 2023-07-24T00:00:00Z
 jira: KT-13697
 thumbnail: KT-13697.jpeg
-source-git-commit: fc435ce23ff74c0b8ff105772832bdb95864f6c4
+exl-id: 03258f9b-ca5d-406b-a260-e41bc04396f8
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '114'
 ht-degree: 0%
 
 ---
-
 
 # Loodlevenscycli
 

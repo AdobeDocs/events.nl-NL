@@ -1,6 +1,6 @@
 ---
-title: Adobe Developers Live - NOV 22 - Breng In-Context en Headless Authoring aan Uw Next.JS App
-description: Breng In-Context- en Headless Authoring in uw Next.JS AppNext.js biedt een geweldige ontwikkelaarservaring voor het ontwikkelen van React-apps die klaar zijn voor productie, vooral met hybride statische en serverrendering. Het is een perfect leveringsmiddel voor sites die worden aangedreven door Adobe Experience Manager. In deze sessie laten we u zien hoe u:start snel een nieuwe Next.js-app die werkt met Adobe Experience Manager-inhoudGebruik React Editable SDK om in-context bewerkenInhoud ophalen van Adobe Experience Manager zonder kop CMS en renderen in de Next.js-app mogelijk te maken
+title: Adobe Developers Live - NOV 22 - Breng In-Context en Headless Authoring naar uw Next.JS-app
+description: Breng In-Context- en Headless Authoring in uw Next.JS AppNext.js biedt een geweldige ontwikkelaarservaring voor het ontwikkelen van React-apps die klaar zijn voor productie, vooral met hybride statische en serverrendering. Het is een ideaal leveringsmiddel voor sites die worden aangedreven door Adobe Experience Manager. In deze sessie laten we u zien hoe u:start snel een nieuwe Next.js-app die werkt met Adobe Experience Manager-inhoudGebruik React Editable SDK om in-context bewerkenInhoud ophalen van Adobe Experience Manager zonder kop CMS en renderen in de Next.js-app mogelijk te maken
 solution: Experience Manager,Experience Manager Sites
 product: experience manager
 sub-product: sites
@@ -11,8 +11,8 @@ level: Intermediate
 last-substantial-update: 2022-11-15T00:00:00Z
 kt: 11482
 thumbnail: 3411303.jpeg
-exl-id: d62ea5f5-9239-44f5-9e5d-4d543e94f1c0
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 0d4ceb27-5df8-49cc-86c6-ea078a1ff216
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 0%

@@ -4,8 +4,8 @@ description: AEM Screens is de nieuwe digitale signaaloplossing die in Adobe Exp
 uuid: a6c42610-4a3d-4575-ac27-fc154d58c13d
 discoiquuid: c3001249-b443-420d-924c-b52e515026ef
 targetaudience: target-audience advanced
-exl-id: 1beeb807-c3b3-425c-8053-06cd2d359c35
-source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
+exl-id: 212a9f72-e5ed-4010-992b-b3a7a9c0d7b7
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '263'
 ht-degree: 0%
@@ -18,9 +18,9 @@ AEM Screens is de nieuwe digitale signaaloplossing die in Adobe Experience Manag
 
 >[!VIDEO](https://video.tv.adobe.com/v/19301/?quality=9)
 
-*Geleverd op 16 november 2016*
+*Afgeleverd op 16 november 2016*
 
-**Gepresenteerd door:**
+**Gepresenteerd door**
 
 * Julien Ramboz, UI Developer, Adobe
 * Tobias Reiss, Computer Scientist, Software Development, Adobe
@@ -38,7 +38,6 @@ Voorbeeldproject
 
 >[!WARNING]
 >
->AEM versies 6.4 en ouder zijn End of Life en worden niet meer door Adobe verkocht.  Adobe raadt u aan een upgrade uit te voeren naar de nieuwste versie - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  Gearchiveerde versies van de documentatie zijn vanuit deze [page](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html).
+>AEM versies 6.4 en ouder zijn End of Life en worden niet meer door de Adobe verkocht.  Adobe raadt u aan een upgrade naar de nieuwste versie uit te voeren - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  Gearchiveerde versies van de documentatie zijn vanuit deze [page](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html).
 >
->Zie *Schermen implementeren* en *Schermconcept* in de AEM 6.2 documentatie.
-
+>Zie voor meer informatie *Schermen implementeren* en *Schermconcept* in de AEM 6.2 documentatie.

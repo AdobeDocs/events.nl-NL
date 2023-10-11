@@ -4,8 +4,8 @@ description: Lees de koelste tips en trucs over [!DNL AEM Sites] Tik op UI. Ontd
 uuid: 2d11ca50-d3cf-43e3-8256-358d72d03a44
 discoiquuid: 30cbcfed-fd63-465a-be79-eb2cfeec9078
 targetaudience: target-audience advanced
-exl-id: 0952e105-d33f-4dcf-9932-e93e1091db86
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: e5575c26-8725-4857-973f-b0991d48497b
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 0%
@@ -20,14 +20,14 @@ In dit GEM leert u hoe te:
 
 * Op efficiënte wijze navigeren en inhoud zoeken
 * Inhoud ordenen en eraan samenwerken
-* Houd een overzicht van wat er aan de hand is
+* Houd een overzicht van wat er gaande is
 * Inhoud auteur
 
 >[!VIDEO](https://video.tv.adobe.com/v/19377/?quality=9)
 
 *Geleverd op 3 juni 2015*
 
-**Gepresenteerd door:**
+**Gepresenteerd door**
 
 * Gabriel Walt, productmanager, Adobe
 * Gilles Knobloch, Engineering Manager, Adobe

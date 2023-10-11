@@ -1,8 +1,8 @@
 ---
 title: Klantengegevensbeheerstemmen
 description: Uw bestemming als technische en marketingleider en specialist op het gebied van gegevensbeheer van klanten.  Deze pagina is je one stop shop om van je collega's te horen, inspiratie te krijgen en te leren over de ontwikkelingen in de martech.
-exl-id: 44e1b706-d216-4ffe-8cbf-b352fc34de54
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 09f13bff-9f62-4146-a400-cc1d6f952eee
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '328'
 ht-degree: 0%
@@ -34,10 +34,10 @@ Welkom bij Customer Data Management Voices uw bestemming als technische en marke
    </td>
    <td>
       <a href="./cdm/cdp-success.md">
-      <img alt="Een Platform voor klantgegevens selecteren voor succes" src="./assets/cdp-success.png"/>
+      <img alt="Een klantgegevensplatform selecteren voor succes" src="./assets/cdp-success.png"/>
       </a>
       <div>
-         <a href="./cdm/cdp-success.md"><strong>Een Platform voor klantgegevens selecteren voor succes</strong></a>
+         <a href="./cdm/cdp-success.md"><strong>Een klantgegevensplatform selecteren voor succes</strong></a>
          <br/>
       </div>
     </td>

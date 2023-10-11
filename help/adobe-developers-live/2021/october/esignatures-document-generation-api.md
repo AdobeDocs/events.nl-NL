@@ -1,6 +1,6 @@
 ---
-title: Documenten genereren en e-handtekeningen vastleggen in uw apps met behulp van API's voor het genereren en ondertekenen van documenten
-description: Kijk hoe de API voor het genereren van Adobe-documenten een krachtige nieuwe manier is om onbruikbare documenten te genereren. In deze sessie leert u hoe de API voor documentgeneratie van Adobe in combinatie met de Adobe Sign API een eenvoudige manier is om dynamische documenten te genereren die klaar zijn om te worden verwerkt via de ondertekeningsworkflow.
+title: Documenten genereren en e-handtekeningen vastleggen in uw apps met behulp van API's voor documentgeneratie en ondertekenen
+description: Kijk hoe de API voor documentgeneratie voor Adoben een krachtige nieuwe manier biedt om onbruikbare documenten te genereren. In deze sessie leert u hoe de Adobe-API voor documentgeneratie in combinatie met de Adobe Sign API een eenvoudige manier is om dynamische documenten te genereren die klaar zijn om te worden verwerkt via de ondertekeningsworkflow.
 solution: Acrobat Services
 feature: Developer Tools
 topic: Development
@@ -8,17 +8,17 @@ role: Developer, Architect
 level: Experienced
 kt: 9210
 type: Event
-exl-id: e1189b02-92f4-495a-9192-9f4002fb13b7
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: ea4d1db5-b1d1-4e5b-ba16-db9bd493e150
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 13%
 
 ---
 
-# Documenten genereren en e-handtekeningen vastleggen in uw apps met behulp van API&#39;s voor het genereren en ondertekenen van documenten
+# Documenten genereren en e-handtekeningen vastleggen in uw apps met behulp van API&#39;s voor documentgeneratie en ondertekenen
 
-Kijk hoe de API voor het genereren van Adobe-documenten een krachtige nieuwe manier is om onbruikbare documenten te genereren. In deze sessie leert u hoe de API voor documentgeneratie van Adobe in combinatie met de Adobe Sign API een eenvoudige manier is om dynamische documenten te genereren die klaar zijn om te worden verwerkt via de ondertekeningsworkflow.
+Kijk hoe de API voor documentgeneratie voor Adoben een krachtige nieuwe manier biedt om onbruikbare documenten te genereren. In deze sessie leert u hoe de Adobe-API voor documentgeneratie in combinatie met de Adobe Sign API een eenvoudige manier is om dynamische documenten te genereren die klaar zijn om te worden verwerkt via de ondertekeningsworkflow.
 
 >[!VIDEO](https://video.tv.adobe.com/v/338094/?quality=12&learn=on&hidetitle=true)
 

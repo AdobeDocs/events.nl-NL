@@ -1,5 +1,5 @@
 ---
-title: De Insteekmodules van de bouw voor Adobe Photoshop en XD gebruiken het Verenigde Platform van de Rekbaarheid
+title: Plug-ins voor Adobe Photoshop en XD maken met behulp van het Unified Extenability Platform
 description: Versnel uw grafische en ontwerpworkflows door plug-ins te maken in Photoshop en XD met UXP. Krijg geïnspireerd door te leren hoe teams de creatie van insteekmodules gebruiken om hun ontwerpprocessen te verbeteren en hun creatieve snelheid te verhogen.
 solution: Creative Cloud
 feature: Developer Tools
@@ -8,15 +8,15 @@ role: Developer, Architect
 level: Experienced
 kt: 9138
 type: Event
-exl-id: a307d5d7-dc49-4745-ad64-25d6a3375faf
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: cf345cb3-1273-4e11-b942-24e2715deb20
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '124'
+ht-degree: 17%
 
 ---
 
-# De Insteekmodules van de bouw voor Adobe Photoshop en XD gebruiken het Verenigde Platform van de Rekbaarheid
+# Plug-ins voor Adobe Photoshop en XD maken met behulp van het Unified Extenability Platform
 
 Versnel uw grafische en ontwerpworkflows door plug-ins te maken in Photoshop en XD met UXP. Krijg geïnspireerd door te leren hoe teams de creatie van insteekmodules gebruiken om hun ontwerpprocessen te verbeteren en hun creatieve snelheid te verhogen.
 

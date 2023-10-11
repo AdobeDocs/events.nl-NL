@@ -1,13 +1,13 @@
 ---
 title: Innovaties op het gebied van personalisatie van content die zakelijke meerwaarde bieden
-description: meer te weten komen over recente innovaties in de oplossing Adobe content en over hoe Adobe de drijvende kracht is achter innovatie in handelsoplossingen
+description: kennis te nemen van recente innovaties in de inhoudoplossing van de Adobe en van de vraag hoe Adobe de innovatie in de handelsoplossingen stimuleert
 solution: Experience Manager, Commerce
 role: Admin, Leader, User
 level: Beginner
 kt: 10577
 thumbnail: 343810.jpeg
-exl-id: 25ef45fe-6cc8-4321-8077-19037dc6d6ca
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 5ef53a40-1e40-4d31-996d-eeb002d25cd9
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 0%
@@ -18,10 +18,10 @@ ht-degree: 0%
 
 Inhoud en handel
 
-Sluit u aan bij ons om recente innovaties in Adobe-inhoud te leren die u helpen bij het democratiseren van content-authoring, het leveren van omni-channel een bries maken en personalisatie schalen om elke ervaring te tellen.  Wij zullen ook bespreken hoe Adobe innovatie in de oplossingen van de Handel drijft die u zullen helpen uw publiek in dienst nemen, de inspanningen van marketing en CRM systemen volledig realiseren, en uw platforms van de Handel superladen om elke ervaring te maken om te herinneren.
+Word samen met ons meer over recente innovaties in de inhoudoplossing van de Adobe die u zal helpen inhoud het schrijven democratiseren, omni-channel levering een bries maken, en verpersoonlijking schrapen om elke ervaring te maken tellen.  Wij zullen ook bespreken hoe de Adobe innovatie in de oplossingen van de Handel drijft die u zullen helpen uw publiek in dienst te nemen, de inspanningen van marketing en CRM systemen volledig te realiseren, en uw platforms van de Handel te verhogen om elke ervaring te maken om te herinneren.
 
 *Shaun McCran* Productmarketing voor Adobe Commerce/Adobe
 
-*Jamie Brighton* Hoofd van Product &amp; Industry Marketing EMEA/Adobe
+*Jamie Brighton* Hoofd van Product &amp; Industry Marketing EMEA / Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/343810/?quality=12&learn=on)

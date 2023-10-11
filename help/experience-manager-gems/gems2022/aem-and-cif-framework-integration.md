@@ -1,6 +1,6 @@
 ---
-title: Integreer AEM en CIF kader om een rijke en immersive e-commerce ervaring te bouwen
-description: Begrijp hoe het kader van CIF kan worden gebruikt om een verenigbare en inhoud-rijke en immersive handelservaring te bouwen.
+title: Integreer AEM en CIF om een rijke en diepgaande e-commerceervaring op te bouwen
+description: Begrijp hoe het CIF kader van de Adobe kan worden gebruikt om een consistente, inhoudrijke en overweldigende handelservaring op te bouwen.
 solution: Experience Manager
 feature-set: Experience Manager
 version: Cloud Service
@@ -9,17 +9,17 @@ topic: Integrations
 role: User
 level: Intermediate
 kt: 10220
-exl-id: 970e633b-251a-438a-aaf1-159571fa36d2
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 3f893f4f-8d4e-4877-9520-8d2012eb724a
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '219'
 ht-degree: 0%
 
 ---
 
-# Integreer AEM en CIF kader om een rijke en immersive e-commerce ervaring te bouwen
+# Integreer AEM en CIF om een rijke en diepgaande e-commerceervaring op te bouwen
 
-Dit AEM webinar van GEMs omvat een presentatie en een demo om u te helpen begrijpen hoe het kader van Adobe CIF kan worden gebruikt om een verenigbare en tevreden-rijke handelservaring te bouwen. De Experience Manager en Adobe Commerce zijn naadloos geïntegreerd met behulp van het Commerce Integration Framework (CIF). CIF stelt AEM in staat rechtstreeks toegang te krijgen tot en te communiceren met de handelsinstantie met behulp van Adobe Commerce GraphQL API&#39;s (zie de agenda op hoog niveau hieronder).
+Dit AEM webinar van GEMs omvat een presentatie en een demo om u te helpen begrijpen hoe het kader van de CIF van de Adobe kan worden gebruikt om een verenigbare, tevreden-rijke en diepgaande handelservaring te bouwen. De Experience Manager en Adobe Commerce zijn naadloos geïntegreerd met het Commerce integration framework (CIF). CIF biedt AEM de mogelijkheid om rechtstreeks toegang te krijgen tot en te communiceren met de instantie commerce via Adobe Commerce GraphQL API&#39;s (bekijk de agenda op hoog niveau hieronder).
 
 >[!VIDEO](https://video.tv.adobe.com/v/342565/?quality=12&learn=on)
 
@@ -28,25 +28,24 @@ Dit webinar werd uitgevoerd op 27 april 2022 en gepresenteerd door Kunal Gaba en
 >[!MORELIKETHIS]
 >
 >* [Overeenkomende Adobe Experience Manager-gebruikersgroepgebeurtenispagina](https://adobe.ly/3O0uXl5/)
->* [Overeenkomende contextuele thread](https://adobe.ly/3jorz5r)
->* Meld u aan bij [Adobe](https://aem-augs.adobe.com/) om op de hoogte te worden gebracht van komende webinars.
-
+>* [Overeenkomende contextafhankelijke thread](https://adobe.ly/3jorz5r)
+>* Meld u aan bij [Gebruikersgroep AEM Adobe](https://aem-augs.adobe.com/) om op de hoogte te worden gebracht van komende webinars.
 
 **Agenda op hoog niveau:**
 
 * Wat is CIF en waarom wordt CIF gebruikt?
 
-* CIF integratietypen en hoe te om CIF met AEM te gebruiken
+* CIF integratietypen en hoe CIF te gebruiken met AEM
 
-* CIF-componentbibliotheek
+* CIF componentbibliotheek
 
-   * AEM CIF Core-componenten
+   * AEM CIF
 
    * PWA studio-bibliotheekreactiecomponenten
 
 * Overwegingen bij de installatie van meerdere merken en meerdere winkels
 
-   * Configuratie van cloudservice in AEM
+   * Configuratie van de cloudservice in AEM
 
    * Organisatie en implementatie van FE-code
 

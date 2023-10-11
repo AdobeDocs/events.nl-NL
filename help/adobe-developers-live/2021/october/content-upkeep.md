@@ -7,8 +7,8 @@ level: Beginner
 version: Cloud Service
 kt: 9135
 type: Event
-exl-id: edc8be9b-bf88-48e1-834c-885724bf5e91
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: da237121-7d66-49fc-864f-6132e3936fed
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 18%
@@ -19,7 +19,7 @@ ht-degree: 18%
 
 Demonstreer de functies die beschikbaar zijn in de Adobe Experience Manager Modernization Tool suite. Leer hoe ontwikkelingsteams het kunnen gebruiken om inhoud te consolideren, om te zetten of te bevorderen om de last voor Auteurs te verminderen aangezien de componentenbibliotheek evolueert.
 
-Doorgaan met gesprek in **[Experiencen League](https://adobe.ly/3zJuUBH)**.
+Doorgaan met gesprek in **[Experience League Gemeenschappen](https://adobe.ly/3zJuUBH)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337577/?quality=12&learn=on&hidetitle=true)
 

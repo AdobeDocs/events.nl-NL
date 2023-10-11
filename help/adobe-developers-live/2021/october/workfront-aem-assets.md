@@ -8,8 +8,8 @@ level: Beginner
 version: Cloud Service
 kt: 9135
 type: Event
-exl-id: 0ef65533-9409-4911-a379-eed988b752d8
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 5edbac18-6e5f-4717-a7cb-5ec2ad4b3f29
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 13%
@@ -20,7 +20,7 @@ ht-degree: 13%
 
 Leer hoe Adobe Workfront en Adobe Experience Manager Assets samenwerken.
 
-Doorgaan met gesprek in **[Experiencen League](https://adobe.ly/3kHfJED)**.
+Doorgaan met gesprek in **[Experience League Gemeenschappen](https://adobe.ly/3kHfJED)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337578/?quality=12&learn=on&hidetitle=true)
 

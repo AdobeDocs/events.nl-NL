@@ -5,8 +5,8 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 9918
-exl-id: ea4716c9-2c61-4c44-9d2a-cbd4f07699d5
-source-git-commit: 5952a51bcc4ec25d14cf5527ec1af218ebc0ae11
+exl-id: f859c4eb-8b3c-4d91-9765-9957dc4678f5
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '1660'
 ht-degree: 2%
@@ -220,7 +220,7 @@ Is er geen manier om de groeperende vertoningsnaam van &quot;Geen Waarde&quot;in
 
 **Antwoord**
 
-Er is een manier om &quot;Geen Waarde&quot; te vervangen door iets anders. Veronderstel u een projectrapport hebt dat door de Naam van Portfolio wordt gegroepeerd. Alle projecten die niet aan een portfolio zijn toegewezen, worden gegroepeerd met de titel:
+Er is een manier om &quot;Geen Waarde&quot; te vervangen door iets anders. Veronderstel u een projectrapport hebt dat door de Naam van het Portfolio wordt gegroepeerd. Alle projecten die niet aan een portfolio zijn toegewezen, worden gegroepeerd met de titel:
 
 ```
 Portfolio: Name: No Value

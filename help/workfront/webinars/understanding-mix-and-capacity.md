@@ -5,8 +5,8 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 9913
-exl-id: 5993c6c3-0583-4d1c-94aa-2e64a699e7f1
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 49cce53f-457b-4973-a0d9-1b5ce2272884
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '2224'
 ht-degree: 1%
@@ -53,7 +53,7 @@ Als ik vier categorieën in mijn mix heb, kan ik dan een doel voor elk creëren 
 
 **Antwoord**
 
-Als u alle categorieën op één douaneveld hebt (laten wij het Type van Werk voor nu roepen), enkel een projectrapport groeperen zich op Geplande Uren eerst en het Type van het Werk tweede. Filter uw projectrapport om projecten in Planning binnen gewenste datumwaaiers te tonen. Gebruik een grafiek met gegroepeerde kolommen of staven die op 100% zijn gestapeld als u percentages wilt zien. Dit is mogelijk uw prognoseverslag.
+Als u alle categorieën op één douaneveld hebt (laten wij het Type van Werk voor nu roepen), enkel een projectrapport groeperen zich op Geplande Uren eerst en het Type van het Werk tweede. Filter uw projectrapport om projecten in Planning binnen gewenste datumwaaiers te tonen. Gebruik een grafiek met gegroepeerde kolommen of staven die op 100% zijn gestapeld als u percentages wilt zien. Dit zou uw Voorspeld rapport kunnen zijn.
 
 U kon het rapport kopiëren en het uitgeven om een rapport tot stand te brengen dat op Huidige projecten wordt gebaseerd, nog het tonen van de mengeling die op Geplande Uren wordt gebaseerd.
 
@@ -168,7 +168,7 @@ valueformat=HTML
 
 **Vraag**
 
-Ik zou graag een rapport/dashboard hebben waarin wordt opgenomen hoe mijn team werkt. Met name de volgende scenario&#39;s: - Projecten die ik bezit / Projecten die voor mij zijn gemaakt / Taken die ik heb toegewezen aan anderen / Taken die aan mij zijn toegewezen
+Ik zou graag een rapport/dashboard hebben waarin wordt opgenomen hoe mijn team werkt. In het bijzonder de volgende scenario&#39;s: - Projecten die ik bezit / Voor mij gemaakte projecten / Taken die ik toewees aan anderen / Taken die aan mij zijn toegewezen
 
 **Antwoord**
 

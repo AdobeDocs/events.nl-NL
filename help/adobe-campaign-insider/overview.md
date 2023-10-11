@@ -1,7 +1,8 @@
 ---
 title: Adobe [!DNL Campaign] Insider-reeks
 description: Tips en trucs en inspiratie voor Adobe [!DNL Campaign] klanten helpen kanaalmarketingstrategieën te ontwikkelen, vaardigheden van teammarketingspecialisten te verhogen en organisaties te helpen meer geavanceerde marketingstrategieën voor meerdere kanalen te ontwikkelen.
-source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
+exl-id: 414b8d81-ff05-47ed-b572-fb655d3dd231
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 0%
@@ -31,10 +32,10 @@ Tips en trucs en inspiratie voor Adobe [!DNL Campaign] klanten helpen kanaalmark
    </td>
    <td>
       <a href="2022/integrations.md">
-      <img alt="Adobe [!DNL Campaign] integratie met een ecosysteem voor het in de handel brengen" src="assets/integrations.png"/>
+      <img alt="Adobe [!DNL Campaign] integratie met een ecosysteem voor de afzet" src="assets/integrations.png"/>
       </a>
       <div>
-         <a href="./2022/integrations.md"><strong>Adobe [!DNL Campaign] integratie met een ecosysteem voor het in de handel brengen</strong></a>
+         <a href="./2022/integrations.md"><strong>Adobe [!DNL Campaign] integratie met een ecosysteem voor de afzet</strong></a>
          <br/>
       </div>
    </td>

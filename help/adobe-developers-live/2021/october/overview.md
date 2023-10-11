@@ -2,8 +2,8 @@
 title: Adobe Developers Live oktober 2021
 description: Een verzameling video's en zelfstudies voor Adobe Experience Manager Sites die zijn geleverd als onderdeel van de Adobe Developers Live-gebeurtenis.
 sub-product: sites, content-services
-exl-id: 0ad75a56-d7d1-401c-9a3f-c45fc2c78036
-source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
+exl-id: e6ebda58-dd9f-4d27-9f94-0233fc98d3c0
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '458'
 ht-degree: 8%
@@ -14,9 +14,9 @@ ht-degree: 8%
 
 <img alt="Adobe Developers Live" src="/help/adobe-developers-live/assets/adl.png" />
 
-Op 4-5 oktober 2021 heeft Adobe Developers Live ontwikkelaars en ontwikkelaars van Adobe-samengebracht met uiteenlopende achtergronden en een speciaal doel - om ongelooflijke end-to-end ervaringen te creëren. Deze tweedaagse conferentie bevatte belangrijke updates voor ontwikkelaars, technische sessies en mogelijkheden voor gemeenschapsnetwerken.
+Op 4-5 oktober 2021 heeft Adobe Developers Live ontwikkelaars en ontwikkelaars van Adoben samengebracht met uiteenlopende achtergronden en een unieke functie - om ongelofelijke end-to-end ervaringen te creëren. Deze tweedaagse conferentie bevatte belangrijke updates voor ontwikkelaars, technische sessies en mogelijkheden voor gemeenschapsnetwerken.
 
-Adobe-productteams in Adobe Experience Cloud, Document Cloud en Creative Cloud hebben de nieuwste technologische ontwikkelingen en ontwikkelaarsgereedschappen in de hele branche onder de aandacht gebracht die het ontwerp, de workflows voor het maken van inhoud, documentservices en het beheer van de klantervaring in de hele branche mogelijk maken.
+Adobe productteams in heel Adobe Experience Cloud, Document Cloud en Creative Cloud lieten de nieuwste technologische vooruitgang zien en ontwikkelaarsgereedschappen die design, het creëren van content, documentservices en het beheer van klantervaringen in alle bedrijfstakken mogelijk maken.
 
 Verbind met collega devs en sluit zich aan bij de zittingsgesprekken in de Gemeenschappen van de Experience League.
 * [Adobe Developer App Builder - lijst met voltooide sessies](https://experienceleaguecommunities.adobe.com/t5/project-firefly-discussions/adobe-developers-live-october-2021-project-firefly-s-complete/td-p/425779)
@@ -28,10 +28,10 @@ Verbind met collega devs en sluit zich aan bij de zittingsgesprekken in de Gemee
   <tr>
    <td>
       <a href="headless.md">
-      <img alt="Hoofdloze sites" src="/help/adobe-developers-live/assets/mathias.png"/>
+      <img alt="Zitplaatsen zonder hoofd" src="/help/adobe-developers-live/assets/mathias.png"/>
       </a>
       <div>
-         <a href="headless.md"><strong>Hoofdloze sites</strong></a>         
+         <a href="headless.md"><strong>Zitplaatsen zonder hoofd</strong></a>         
          <br/><em>met Mathias Siegel, Principal Product Manager, AEM Sites</em>
       </div>
       <p>
@@ -63,7 +63,7 @@ Verbind met collega devs en sluit zich aan bij de zittingsgesprekken in de Gemee
       </div>
       <p>
         <br/>
-         De API voor het genereren van documenten is een krachtige service voor het maken van documenten die wordt aangestuurd door Microsoft Word-sjablonen die worden samengevoegd met uw gegevens. In combinatie met de Adobe Sign API beschikken ontwikkelaars over een eenvoudige manier om dynamische documenten te genereren die klaar zijn om te worden verwerkt via de ondertekeningsworkflow.
+         De Adobe Document Generation API is een krachtige service voor het maken van documenten die wordt aangestuurd door Microsoft Word-sjablonen die worden samengevoegd met uw gegevens. In combinatie met de Adobe Sign API beschikken ontwikkelaars over een eenvoudige manier om dynamische documenten te genereren die klaar zijn om te worden verwerkt via de ondertekeningsworkflow.
       </p>
    </td> 
   </tr>

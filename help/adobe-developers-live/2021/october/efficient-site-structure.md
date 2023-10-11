@@ -9,8 +9,8 @@ level: Beginner, Intermediate, Experienced
 version: Cloud Service
 kt: 9182
 type: Event
-exl-id: d1f1e099-2260-40f9-8d3d-dc171939e238
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 89fe9e3d-6202-4112-a9ef-9ccc1cc2a475
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 22%
@@ -21,7 +21,7 @@ ht-degree: 22%
 
 Een gedetailleerd overzicht van een aantal van de beste praktijken voor ontwikkelaars wanneer het behandelen van taalexemplaren, levende exemplaren, en grote beweging of exemplaarverrichtingen.
 
-Doorgaan met gesprek in **[Experiencen League](https://adobe.ly/39DoIQT)**.
+Doorgaan met gesprek in **[Experience League Gemeenschappen](https://adobe.ly/39DoIQT)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337723/?quality=12&learn=on&hidetitle=true)
 

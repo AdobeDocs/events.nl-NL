@@ -4,10 +4,10 @@ description: Leer over beste praktijken om het proces van het creëren van meert
 uuid: c4900ed3-f85b-4139-8e42-b5d1c03c36da
 discoiquuid: 77f623b6-4ca9-4122-9a48-5efe4d118865
 targetaudience: target-audience advanced
-exl-id: 17f25976-5be7-423f-bdbf-8c686e061c3d
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 01709699-5213-4fee-824e-a6b954ab86cd
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '173'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Bent u op zoek naar best practices om het proces van het maken en lokaliseren va
 
 *Geleverd op 30 oktober 2013*
 
-**Gepresenteerd door:**
+**Gepresenteerd door**
 
 Keith Brazilië, VP of Technology, Translations.com
 

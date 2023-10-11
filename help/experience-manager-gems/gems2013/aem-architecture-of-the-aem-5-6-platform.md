@@ -4,8 +4,8 @@ description: Leer over de evolutie van de architectuur van het AEM toepassingspl
 uuid: 6c7d287b-4dec-4ea8-9731-881c736429d9
 discoiquuid: 3049a99b-1ee0-492d-80c3-4d31d70fa452
 targetaudience: target-audience advanced
-exl-id: 45140275-a13e-445b-ae92-df37aa022d2d
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 75228968-d47a-4d4a-9f55-a8ba95b8d32c
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 0%
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 # Architectuur van het AEM 5.6-platform{#architecture-of-the-aem-platform}
 
-Leer over de evolutie van de architectuur van het Platform van de AEM. Sinds de eerste release van Communiqué 1 tot de meest recente introductie van AEM 5.6 onderging de toepassing een aantal ingrijpende wijzigingen om het veelzijdige en uitbreidbare toepassingsplatform te worden.
+Leer meer over de ontwikkeling van de architectuur van het AEM Application Platform. Sinds de eerste release van Communiqué 1 tot de meest recente introductie van AEM 5.6 onderging de toepassing een aantal ingrijpende wijzigingen om het veelzijdige en uitbreidbare toepassingsplatform te worden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19575/?quality=9)
 
 *Geleverd op 8 mei 2013*
 
-**Gepresenteerd door:**
+**Gepresenteerd door**
 
 Felix Meschberger, hoofdwetenschapper, Adobe
 

@@ -1,21 +1,21 @@
 ---
-title: Vraag het de expert - Follow-up van best practices van Workfront
-description: Leer waarom u geautomatiseerde werkschemasjablonen, hoe te om hen, en hoe te om proefdrukmontages aan te passen om privacy te verzekeren zou moeten gebruiken. Dit webinar werd geregistreerd op 4 maart 2020.
+title: Vraag het de expert - Follow-up van best practices voor Workfront-proefdrukken
+description: Leer waarom u automatische werkstroomsjablonen moet gebruiken, hoe u deze maakt en hoe u de proefdrukinstellingen aanpast om de privacy te garanderen. Dit webinar werd geregistreerd op 4 maart 2020.
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 9917
-exl-id: 19d73416-80b3-41b3-98ac-6065975ed6bb
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 2b2f6522-2fd9-4d5e-9bc3-903c1d5e4e3b
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '1638'
 ht-degree: 2%
 
 ---
 
-# Vraag het de expert - Follow-up van best practices van Workfront
+# Vraag het de expert - Follow-up van best practices voor Workfront-proefdrukken
 
-Leer waarom u geautomatiseerde werkschemasjablonen, hoe te om hen, en hoe te om proefdrukmontages aan te passen om privacy te verzekeren zou moeten gebruiken. Dit webinar werd geregistreerd op 4 maart 2020.
+Leer waarom u automatische werkstroomsjablonen moet gebruiken, hoe u deze maakt en hoe u de proefdrukinstellingen aanpast om de privacy te garanderen. Dit webinar werd geregistreerd op 4 maart 2020.
 
 >[!VIDEO](https://video.tv.adobe.com/v/341123/?quality=12)
 
@@ -47,7 +47,7 @@ Als u de Designer instelt op basis van een Access Level of Work of Plan in Workf
 
 **Vraag**
 
-Wat wordt aanbevolen voor &#39;E-mailberichten&#39;? besluiten of alle waarschuwingen?
+Wat wordt aanbevolen voor &quot;E-mailberichten&quot;? besluiten of alle waarschuwingen?
 
 **Antwoord**
 
@@ -55,11 +55,11 @@ Ik adviseer de Maker van het Bewijs/Eigenaar aan &quot;Besluiten&quot;voor hun e
 
 **Vraag**
 
-Kunt u de eigenaar wijzigen van het bewijs dat op de hoogte wordt gebracht wanneer de beslissingen worden genomen? We hebben geprobeerd het proefdrukprogramma te gebruiken, maar we konden de eigenaar van het document niet wijzigen van de persoon die het originele document heeft geüpload. Voorbeeld: Een marketingmanager uploadde het originele document, maar het was een marketingspecialist die uiteindelijk verantwoordelijk was voor het nemen van beslissingen en het aanbrengen van wijzigingen.
+Kunt u de eigenaar wijzigen van het bewijs dat op de hoogte wordt gebracht wanneer de beslissingen worden genomen? We hebben geprobeerd het proefdrukprogramma te gebruiken, maar we konden de eigenaar van het document niet wijzigen van de persoon die het oorspronkelijke document uploadde. Voorbeeld: een marketingmanager heeft het originele document geüpload, maar het was een marketingspecialist die uiteindelijk verantwoordelijk was voor het nemen van beslissingen en het aanbrengen van wijzigingen.
 
 **Antwoord**
 
-Als u de eigenaar van de proefdruk wilt wijzigen, gaat u als volgt te werk: Kies Documenten > Bewijs > Klik op &quot;Proefdetails&quot; > Zoek in het venster met proefdrukdetails de ontvanger die u de eigenaar van de proefdruk wilt maken > Klik op de knop Elipses voor die ontvanger en kies &quot;Eigenaar maken&quot;.
+Als u de eigenaar van de proefdruk wilt wijzigen, gaat u als volgt te werk: Documenten > Selecteer de proefafdruk > Klik op &quot;Proefgegevens&quot; > Zoek in het venster met proefdrukdetails de ontvanger die u wilt laten controleren > Klik op de knop Elipses voor die ontvanger en kies &quot;Eigenaar maken&quot;.
 
 **Vraag**
 
@@ -91,7 +91,7 @@ Is er een specifiek voordeel dat de goedkeuringswerkstroom van een document op d
 
 **Antwoord**
 
-Als u proefdrukken maakt, beheert u het goedkeuringsproces met de proefwerkstroomengine. Op deze manier kunt u het hulpmiddel voor het controleren van proefdrukken gebruiken om feedback, opmerkingen, markeringen, beslissingen en fases te verzamelen. U kunt meerdere workflowtriggers gebruiken om de proefdruk te routeren en u kunt instellingen gebruiken die uniek zijn voor proefdrukfasen, zoals Vergrendelen, Privéfasen en Primaire besluitvormers. U kunt ook unieke proefdrukrollen en unieke proefe-mailmeldingen toewijzen. Daarnaast kunt u inhoud die is gevarieerd als statisch, video en interactief proefdrukken (ongeveer 150 verschillende bestandstypen), bekijken.
+Als u proefdrukken maakt, beheert u het goedkeuringsproces met de proefwerkstroomengine. Op deze manier kunt u het hulpmiddel voor het controleren van proefdrukken gebruiken om feedback, opmerkingen, markeringen, beslissingen en fases te verzamelen. U kunt meerdere workflowtriggers gebruiken om de proefdruk te routeren en u kunt instellingen gebruiken die uniek zijn voor proefdrukfasen, zoals Vergrendelen, Privéfasen en Primaire besluitvormers. U kunt ook unieke proefdrukrollen en unieke proefe-mailmeldingen toewijzen. Bovendien kunt u inhoud bekijken zoals deze is gevarieerd in Statische, Video- en Interactieve proefdrukken (ongeveer 150 verschillende bestandstypen).
 
 **Vraag**
 
@@ -147,15 +147,15 @@ Kunnen meerdere mensen een nieuwe versie uploaden? een copywriter uploadt bijvoo
 
 **Antwoord**
 
-U kunt proefontvangers nieuwe versies van proefdrukken laten maken als ze aan de volgende criteria voldoen: 1) Zij zijn de eigenaar van het bewijs - of 2) zij worden geplaatst met de auteur of de moderator bewijsrol op het bewijs - of 3) zij zijn opstelling met het Niveau van de Toestemming van het Bewijs van de Supervisor of Beheerder.
+U kunt proefontvangers hebben tot nieuwe versies van proefdrukken leiden als zij aan de volgende criteria voldoen: 1) zij zijn de eigenaar van de proef - of 2) zij worden geplaatst met de de proefdrukrol van de Auteur of van de Moderator op de proef - of 3) zij zijn opstelling met het Niveau van de Toestemming van de Bewijs van Supervisor of Beheerder.
 
 **Vraag**
 
-Hoe omgaat u met meerdere proefdrukken (bijv. A, B en C) met de geautomatiseerde workflow. Begin je opnieuw?
+Hoe verwerkt u meerdere proefdrukken (bijv. A, B en C) met de geautomatiseerde workflow. Begin je opnieuw?
 
 **Antwoord**
 
-U kunt een geautomatiseerde werkstroomsjabloon toepassen op meerdere proefdrukken op het moment dat u de eerste versie van de proefdrukken maakt. Volg dit pad: Documenten > Nieuw toevoegen > Proef. Selecteer op de pagina Nieuwe proefafdruk meerdere bestanden die u wilt uploaden, pas de sjabloon voor automatische werkstroom toe en maak de proefdrukken.
+U kunt een geautomatiseerde werkstroomsjabloon toepassen op meerdere proefdrukken op het moment dat u de eerste versie van de proefdrukken maakt. Hiervoor volgt u het volgende pad: Documenten > Nieuw toevoegen > Proef. Selecteer op de pagina Nieuwe proefafdruk meerdere bestanden die u wilt uploaden, pas de sjabloon voor automatische werkstroom toe en maak de proefdrukken.
 
 **Vraag**
 
@@ -171,7 +171,7 @@ Waar kan ik de proefdrukinstellingen zien?
 
 **Antwoord**
 
-Als u de proefdrukinstellingen wilt weergeven op een bestaande proefdruk, volgt u het volgende pad: Tabblad Documenten > Selecteer de optie Proef > Klik op Proefdetails > Vanuit het venster Proefdetails dat wordt geopend, wilt u het gebied Instellingen uitbreiden.
+Als u de proefdrukinstellingen wilt weergeven op een bestaande proefdruk, volgt u dit pad: Tabblad Documenten > Proefdruk > Klik op &quot;Proefdrukdetails&quot; > Van binnen het venster Proefdrukdetails dat wordt geopend, wilt u het gebied &quot;Instellingen&quot; uitbreiden.
 
 **Vraag**
 
@@ -179,11 +179,11 @@ Kan je iemand labelen in het privépodium?
 
 **Antwoord**
 
-Als u een proefontvanger bent in het privéstadium, kunt u iedereen in dat privéwerkgebied van tags voorzien. Als u zich niet in het privé-stadium bevindt, kunt u niemand van binnen het privé-stadium van tags voorzien.
+Als u een proefontvanger bent in het privéstadium, kunt u iedereen in dat privéwerkgebied van tags voorzien. Als u zich niet in het privéstadium bevindt, kunt u niemand tags toewijzen vanuit het privéstadium.
 
 **Vraag**
 
-Nadat u een werkgebied hebt geactiveerd, kunt u het deactiveren?
+Nadat u een werkgebied hebt geactiveerd, kunt u het dan deactiveren?
 
 **Antwoord**
 

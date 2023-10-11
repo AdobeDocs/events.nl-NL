@@ -6,8 +6,8 @@ level: Intermediate
 kt: 11123
 thumbnail: 3409242.jpeg
 hidefromtoc: true
-exl-id: c4d253ba-cb15-4c8b-8b98-404481d49947
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 62885d7a-6331-4061-b570-ae04913147f7
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 0%
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # Een routekaart voor waardetoewijzing en waardetoewijzing
 
-De juiste technologie krijgen is slechts het begin: hoe kunnen organisaties ervoor zorgen dat zij de volledige waarde van hun investeringen realiseren ? In deze zitting, zullen wij uiteenzetten hoe de organisaties kunnen ontwikkelen, evalueren en voorrang geven aan de gevallen van het technologiegebruik met betrekking tot hun bedrijfswaarde. Dan zullen wij behandelen hoe u kunt plaatsen en rapporteren over KPIs die een nauwkeurig beeld van dergelijke waarde aanbieden - ervoor zorgen dat uw organisatie kwantificeerbare resultaten en grote klantenervaringen drijft.
+De juiste technologie krijgen is slechts het begin: hoe kunnen organisaties ervoor zorgen dat ze de volledige waarde van hun investeringen realiseren? In deze zitting, zullen wij uiteenzetten hoe de organisaties kunnen ontwikkelen, evalueren en voorrang geven aan de gevallen van het technologiegebruik met betrekking tot hun bedrijfswaarde. Dan zullen wij behandelen hoe u kunt plaatsen en rapporteren over KPIs die een nauwkeurig beeld van dergelijke waarde aanbieden - die ervoor zorgen dat uw organisatie kwantificeerbare resultaten en grote klantenervaringen drijft.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3409242/?quality=12&learn=on)

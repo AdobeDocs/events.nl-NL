@@ -4,10 +4,10 @@ description: Doe mee met Gabriel Walt en Justin Edelson om te zien waar we aan h
 uuid: 4cb22075-1f96-45fb-b9c3-41d8516b4c87
 discoiquuid: 15ac160d-b272-4725-ba6f-217b1ee70d4d
 targetaudience: target-audience advanced
-exl-id: 4dc755e7-4e98-4f40-9df5-a8ad135e6a64
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 295c3194-cb2c-422d-8559-f87b6ac98ce8
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '79'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Doe mee met Gabriel Walt en Justin Edelson om te zien waar we aan hebben gewerkt
 
 *Afgeleverd op 13 april 2016*
 
-**Gepresenteerd door:**
+**Gepresenteerd door**
 
 * Gabriel Walt, productmanager, Adobe
 * Justin Edelson, Experience Architect &amp; Evangelist, Adobe

@@ -12,8 +12,8 @@ level: Beginner
 version: Cloud Service
 type: Event
 kt: 8937
-exl-id: bed98c10-bc95-4981-863c-3756f06996c2
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: f92344ca-9c74-4205-968c-b12a58bae241
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 0%
@@ -34,6 +34,6 @@ Word een bekwame auteur met een diepe duik in AEM Sites en het beleid UI van Med
 
 * [Author Beauful Web Ervaart snel](authoring-fundamentals.md)
 * [Altijd veranderende inhoud eenvoudig beheren](collaboration-tools.md)
-* [Inhoud voor ANYWHERE: Omnichanale ervaringen werkelijkheid maken](omnichannel-experiences.md)
+* [Inhoud voor ANYWHERE: Omnichannel-ervaringen realiseren](omnichannel-experiences.md)
 * [Ga wereldwijd met Adobe Experience Manager](multi-site-management-web-translation.md)
 * [Het web en daarbuiten: de kracht van traditioneel en headless-contentbeheer](traditional-headless-content-management.md)

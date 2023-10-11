@@ -9,8 +9,8 @@ level: Beginner, Intermediate, Experienced
 version: Cloud Service
 kt: 9179
 type: Event
-exl-id: eba2ef69-59f1-4d1f-9405-78aee5764295
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: a96e31ec-8079-412f-818c-ebf82b512bbd
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '189'
 ht-degree: 11%
@@ -21,7 +21,7 @@ ht-degree: 11%
 
 Leer de meest voorkomende fouten die anderen hebben gemaakt, zodat u ze zelf kunt vermijden! In deze zitting zullen wij enkele gemeenschappelijke kwesties bekijken die onze aanwezigheidsingenieurs en steuningenieurs hebben gezien en beste praktijken bespreken om ervoor te zorgen dat u deze in uw eigen implementatie van Adobe Experience Manager as a Cloud Service kunt vermijden.
 
-Doorgaan met gesprek in **[Experiencen League](https://adobe.ly/3kLQK3j)**.
+Doorgaan met gesprek in **[Experience League Gemeenschappen](https://adobe.ly/3kLQK3j)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337852/?quality=12&learn=on&hidetitle=true)
 
