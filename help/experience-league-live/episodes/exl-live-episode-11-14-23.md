@@ -7,9 +7,9 @@ event-cta-url-live: https://www.youtube.com/watch?v=xQ-yydkLeHc
 event-cta-url-reg: null
 event-start-time: 2023-11-14 09:00-7
 event-guests: Daniel Wright,Lory Mishra,Rachit Gupta
-source-git-commit: 9dcc4e29440db713e82718beca9d5cf08f9c1c94
+source-git-commit: 8410a6480a055c0a3ab858a005eb98a7456bcad2
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Leer hoe u aggregaten van gebeurtenisgegevens kunt maken met berekende kenmerken om uw segmentatie, personalisatie en reizen te verbeteren!
 
->[!VIDEO](https://video.tv.adobe.com/v/3425196/?learn=on)
+[![ExL LIVE sept 22.2023](assets/Nov14_2023_exl_live_WebBanner.jpg)](https://www.youtube.com/watch?v=xQ-yydkLeHc)
 
 Gedragsgegevens zijn een belangrijk ingrediënt voor het aanbieden van persoonlijke klantervaringen, maar het kan moeilijk zijn om deze volledig te benutten. Vandaag, kunt u op afzonderlijke systemen, technologen, en gegevensingenieurs vertrouwen om zinvolle aggregaten van gedragsgegevens tot stand te brengen om geweldige ervaringen te leveren.
 
