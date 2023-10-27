@@ -1,11 +1,11 @@
 ---
 user-guide-title: De Uitwisseling van de Vaardigheid
 user-guide-breadcrumb: The Skill Exchange
-user-guide-description: Inzameling opnamen van Ervaar Makers de Uitwisseling van de Vaardigheid
+user-guide-description: Inzameling opnamen van Ervaar de Uitwisseling van de Vaardigheid
 event-series: The Skill Exchange
-source-git-commit: b16db3497f0e9801b71294bcaa66ae3cd9a2eb5c
+source-git-commit: f0a805efa9e6599df4aefa87f6de048bca9a5661
 workflow-type: tm+mt
-source-wordcount: '379'
+source-wordcount: '416'
 ht-degree: 7%
 
 ---
@@ -67,6 +67,15 @@ ht-degree: 7%
       + [Marketingkanalen, gebruik verantwoord](analytics/jun2021/marketing-channels.md)
       + [Alles samenvoegen](analytics/jun2021/putting-all-together.md)
 + Experience Manager {#aem}
+   + Augustus 2023 {#aug2023}
+      + Developer Track {#developer-track}
+         + [AEM Developer Starter Kit](aem/aug2023/deploy-new-project.md)
+         + [Een effectief en schaalbaar stijlsysteem ontwikkelen](aem/aug2023/scalable-style-system.md)
+         + [Migreren naar AEM Cloud Service](aem/aug2023/migrate-to-aemcs.md)
+      + Webtrack {#webtrack}
+         + [Aan de slag met AEM Assets](aem/aug2023/getting-started-aem-assets.md)
+         + [Een collectieve DAM gebruiken](aem/aug2023/collaborative-dam.md)
+         + [Schalen voor gereedheid voor AI](aem/aug2023/metadata.md)
    + Augustus 2022 {#aug2022}
       + Developer Track {#developer-track}
          + [Geniet van spotlicht voor makers](aem/aug2022/spotlight.md)
@@ -75,7 +84,7 @@ ht-degree: 7%
          + [AEM zonder koppen uitbreiden met App Builder](aem/aug2022/app-builder.md)
       + Marketer/webproducent {#marketer}
          + [De kracht van herbruikbaarheid](aem/aug2022/reusability.md)
-         + [Zakelijke waarde met content personaliseren in AEM](aem/aug2022/personalization.md)
+         + [Zakelijke waarde verhogen met content personaliseren in AEM](aem/aug2022/personalization.md)
          + [Optimaliseer uw AEM](aem/aug2022/implementation.md)
 + Marketo {#marketo}
    + Februari 2022 {#feb2022}
@@ -96,11 +105,13 @@ ht-degree: 7%
    + Februari 2021 {#feb2021}
       + [Een bovenste rechthoek doordringt zich in aangepaste objecten en snelheid](marketo/feb2021/custom-objects.md)
       + [Adobe [!DNL Marketo Engage] Rockstar-segment](marketo/feb2021/rockstar.md)
-      + [Programma&#39;s maken binnen Adobe [!DNL Marketo Engage]](marketo/feb2021/create-programs.md)
+      + [Programma&#39;s maken binnen de Adobe [!DNL Marketo Engage]](marketo/feb2021/create-programs.md)
       + [De kracht van een slimme campagne](marketo/feb2021/power-of-smart-campaign.md)
       + [Rapportage binnen [!DNL Marketo Engage]](marketo/feb2021/reporting-within-marketo.md)
       + [Ultieme tips en trucs voor uw Forms](marketo/feb2021/forms-tips-and-tricks.md)
 + Workfront {#workfront}
+   + Augustus 2023 {#aug2023}
+      + [Stichting voor middelenbeheer](workfront/aug2023/resource-management.md)
    + April 2022 {#apr2022}
       + [10 tips voor wauw je Workfront](workfront/apr2022/ten-tips.md)
       + [Berekende velden die iedereen moet weten](workfront/apr2022/calculated-fields.md)
@@ -113,4 +124,4 @@ ht-degree: 7%
 + Digitale bites {#digital-bites}
    + [Ontgrendel de operationele efficiency met een best-in-klasse Operationeel Model](digital-bites/operational-model.md)
    + [Een routekaart voor waardetoewijzing en waardetoewijzing](digital-bites/roadmap.md)
-   + [Hoe te om bedrijfswaarde over de klantenreis te ontgrendelen](digital-bites/business-value.md)
+   + [Hoe te om bedrijfswaarde over de klantenreis te openen](digital-bites/business-value.md)
