@@ -1,6 +1,7 @@
 ---
 title: Beste praktijken MSI en Optimalisering
 description: Hebt u van Marketo Sales Insights, of MSI gehoord? Misschien heb je een licentie, maar weet niet wat het is of hoe het moet worden gebruikt. In dit webinar bespreken James Leedom, de eigen Adviseur van de Automatisering van de Marketing van de Adobe, Cynthia Chang en de Technische Adviseur van de Klant van Marketo, hoe te om volledig gebruik van het hulpmiddel en beste praktijken voor implementatie, lancering en zo veel meer te verzekeren. Cynthia en James duiken in de eigenschappen van MSI met inbegrip van interessante momenten en beste wedden. Zij verklaren hoe het met Salesforce, vergunningsbeheer en strategieën integreert om uw operationele efficiency over de verkoop en marketing teams te optimaliseren. We sluiten af met een live vraag en antwoord van de deelnemers.
+solution: Marketo
 feature-set: Marketo Engage
 feature: Marketo Sales Insights
 role: Admin, Leader, User
@@ -10,7 +11,7 @@ last-substantial-update: 2023-08-25T00:00:00Z
 jira: KT-13806
 thumbnail: KT-13806.jpeg
 exl-id: cfbd847f-4693-45f9-b9a1-f1b5db67a98b
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+source-git-commit: 92d4404a950f68a4cdc675b52c8623cfdd54c9e6
 workflow-type: tm+mt
 source-wordcount: '230'
 ht-degree: 0%
