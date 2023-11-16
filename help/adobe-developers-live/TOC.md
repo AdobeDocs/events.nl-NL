@@ -3,10 +3,10 @@ user-guide-title: Adobe Developers Live Events
 user-guide-breadcrumb: Developers Live Events
 user-guide-description: Opnamen verzamelen van de Adobe Developer Live Content-gebeurtenis
 feature-set: Experience Manager, Experience Manager Sites, Experience Manager Assets, Experience Manager Cloud Manager, Experience Platform
-source-git-commit: 5d2f0e8e5e75221d9250d45327a8fed66244785b
+source-git-commit: 543ecb57f8864ef5fa052f61a01029496f45495e
 workflow-type: tm+mt
-source-wordcount: '700'
-ht-degree: 3%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -17,20 +17,20 @@ ht-degree: 3%
 + 2023 {#2023}
    + November {#nov2023}
       + [Toetsenbord openen](2023/november/keynote.md)
-      + Edge Delivery Services
+      + Edge Delivery Services {#nov-edgedeliveryservices}
          + [Een website maken](2023/november/edge-breakout-1.md)
          + [Webprestaties](2023/november/edge-breakout-2.md)
          + [Een klantimplementatie](2023/november/edge-breakout-3.md)
          + [Authoring op basis van documenten](2023/november/deep-dive.md)
-      + Headless
+      + Headless {#nov-headless}
          + [Koploze API&#39;s](2023/november/headless-breakout-1.md)
          + [Universele editor](2023/november/headless-breakout-2.md)
          + [Externe databronnen](2023/november/headless-breakout-3.md)
-      + Commerce
-         + [Catalogusdiensten](2023/novemnber/commerce-breakout-1.md)
-         + [Integreren met Amazon-Sales Channel](2023/novemnber/commerce-breakout-2.md)
-         + [Uitbreidbaarheid afhankelijk van gebeurtenis](2023/novemnber/commerce-breakout-3.md)
-         + [API-net](2023/novemnber/commerce-breakout-4.md)
+      + Commerce {#nov-commerce}
+         + [Catalogusdiensten](2023/november/commerce-breakout-1.md)
+         + [Integreren met Amazon-Sales Channel](2023/november/commerce-breakout-2.md)
+         + [Uitbreidbaarheid afhankelijk van gebeurtenis](2023/november/commerce-breakout-3.md)
+         + [API-net](2023/november/commerce-breakout-4.md)
    + Mei {#may2023}
       + [Toetsenbord openen](2023/may/keynote.md)
       + [API-tour](2023/may/new-apis.md)
