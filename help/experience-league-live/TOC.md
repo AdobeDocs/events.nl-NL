@@ -9,10 +9,10 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 9dcc4e29440db713e82718beca9d5cf08f9c1c94
+source-git-commit: 14a1df2b02b0eab4c86073c82627507106011a86
 workflow-type: tm+mt
-source-wordcount: '294'
-ht-degree: 3%
+source-wordcount: '306'
+ht-degree: 2%
 
 ---
 
@@ -21,6 +21,7 @@ ht-degree: 3%
 
 + [Overzicht](overview.md)
 + Episodes {#episodes}
+   + [EP 30: Aftellen tot 2024 met de vijf belangrijkste nieuwe functies in Adobe Real-Time CDP](episodes/exl-live-episode-12-14-23.md)
    + [EP 29: Haal het meeste uit uw gedragsgebeurtenisgegevens in Real-Time CDP en AJO](episodes/exl-live-episode-11-14-23.md)
    + [EP 28: Workfront Release Deep Dive - nieuwe Workfront Home](episodes/exl-live-episode-10-26-23.md)
    + [EP 27: API-activering van berichten in Adobe Journey Optimizer](episodes/exl-live-episode-8-23-23.md)
