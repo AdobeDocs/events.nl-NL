@@ -2,7 +2,7 @@
 title: Commerciële inlichtingenwebinars
 description: Onderzoek de geregistreerde webinars van de Inlichtingendienst van de Handel, die een brede waaier van onderwerpen en beste praktijken voor het gebruiken van de Inlichtingen van de Handel aan zijn maximaal potentieel behandelen.
 exl-id: a1f2585f-5619-4f69-a7dc-75bc90aa3cd5
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+source-git-commit: 5d2f0e8e5e75221d9250d45327a8fed66244785b
 workflow-type: tm+mt
 source-wordcount: '303'
 ht-degree: 2%
@@ -26,11 +26,11 @@ De onderwerpen worden herhaald af en toe om het even welke nieuwe vragen aan te 
 <table>
 <tr>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/2021/getting-started.html">
+    <a href="https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/2023/getting-started.html">
       <img alt="Aan de slag met MBI" src="./assets/getting-started-mbi.png" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/2021/getting-started.html">
+      <a href="https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/2023/getting-started.html">
         <strong>Aan de slag met MBI</strong>
       </a>
     </div>

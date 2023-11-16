@@ -3,10 +3,10 @@ user-guide-title: Adobe Developers Live Events
 user-guide-breadcrumb: Developers Live Events
 user-guide-description: Opnamen verzamelen van de Adobe Developer Live Content-gebeurtenis
 feature-set: Experience Manager, Experience Manager Sites, Experience Manager Assets, Experience Manager Cloud Manager, Experience Platform
-source-git-commit: e7e3172bb80aab23550aab7720e7554beedfd269
+source-git-commit: 5d2f0e8e5e75221d9250d45327a8fed66244785b
 workflow-type: tm+mt
-source-wordcount: '663'
-ht-degree: 2%
+source-wordcount: '700'
+ht-degree: 3%
 
 ---
 
@@ -15,6 +15,22 @@ ht-degree: 2%
 
 + [Overzicht](overview.md)
 + 2023 {#2023}
+   + November {#nov2023}
+      + [Toetsenbord openen](2023/november/keynote.md)
+      + Edge Delivery Services
+         + [Een website maken](2023/november/edge-breakout-1.md)
+         + [Webprestaties](2023/november/edge-breakout-2.md)
+         + [Een klantimplementatie](2023/november/edge-breakout-3.md)
+         + [Authoring op basis van documenten](2023/november/deep-dive.md)
+      + Headless
+         + [Koploze API&#39;s](2023/november/headless-breakout-1.md)
+         + [Universele editor](2023/november/headless-breakout-2.md)
+         + [Externe databronnen](2023/november/headless-breakout-3.md)
+      + Commerce
+         + [Catalogusdiensten](2023/novemnber/commerce-breakout-1.md)
+         + [Integreren met Amazon-Sales Channel](2023/novemnber/commerce-breakout-2.md)
+         + [Uitbreidbaarheid afhankelijk van gebeurtenis](2023/novemnber/commerce-breakout-3.md)
+         + [API-net](2023/novemnber/commerce-breakout-4.md)
    + Mei {#may2023}
       + [Toetsenbord openen](2023/may/keynote.md)
       + [API-tour](2023/may/new-apis.md)
@@ -31,9 +47,9 @@ ht-degree: 2%
    + Februari - Handel {#feb2022}
       + [Overzicht](2022/february/overview.md)
       + [Toetsenbord openen](2022/february/opening-keynote.md)
-      + [Gezondheid en prestaties van uw Adobe Commerce-Platform](2022/february/visibility-health-performance.md)
+      + [Gezondheid en prestaties van uw Adobe Commerce-platform](2022/february/visibility-health-performance.md)
       + [Verbeteringen vereenvoudigen en het gereedschap Compatibiliteit upgraden](2022/february/upgrades.md)
-      + [Oplossingen op basis van verbruik in de Magento Marketplace](2022/february/magento-marketplace.md)
+      + [Op consumptie gebaseerde oplossingen in de Magento Marketplace](2022/february/magento-marketplace.md)
       + [Innoveren met Headless Integrations](2022/february/headless-integrations.md)
       + [Een blik in Toolkit van de Ontwikkelaar van de Handel](2022/february/developers-toolkit.md)
       + [Slotopmerkingen](2022/february/closing-remarks.md)
@@ -54,12 +70,12 @@ ht-degree: 2%
 + 2021 {#2021}
    + Februari - Inhoud {#feb2021}
       + [Overzicht](2021/february/overview.md)
-      + [Gegevenslaag Adobe-client](2021/february/adobe-client-data-layer.md)
+      + [Gegevenslaag client-Adobe](2021/february/adobe-client-data-layer.md)
       + [Adobe Experience Platform SDK&#39;s](2021/february/experience-platform-sdk-launch.md)
       + [API-verificatie met Experience Manager Cloud Service](2021/february/api-authentication.md)
       + [Verontreiniging van bedrijfsmiddelen](2021/february/asset-bulk-ingestion.md)
       + [Uitbreidbaarheid asset compute](2021/february/asset-compute-service-extensibility.md)
-      + [CIF Uitbreidbaarheid via GraphQL](2021/february/cif-extensibility-graphql.md)
+      + [CIF uitbreidbaarheid via GraphQL](2021/february/cif-extensibility-graphql.md)
       + [Inhoud en handel met Experience Manager](2021/february/content-commerce.md)
       + [Inhoud leveren met Experience Manager Cloud Service](2021/february/content-delivery.md)
       + [Aangepaste functionele tests](2021/february/custom-functional-tests-cicd.md)
@@ -88,7 +104,7 @@ ht-degree: 2%
       + [Toetsenbord openen](2021/october/keynote.md)
       + [De overgang naar Experience Manager CS versnellen](2021/october/accelerate-transistion.md)
       + [Adobe [!DNL Analytics] API&#39;s die u moet kennen in 2021](2021/october/analytics-api.md)
-      + [Gegevenslaag Adobe-client](2021/october/adobe-client-data-layer.md)
+      + [Gegevenslaag client-Adobe](2021/october/adobe-client-data-layer.md)
       + [Adobe Commerce en het communautaire bijdragemodel](2021/october/community-contribution-model.md)
       + [Adobe Commerce Live-zoekresultaten](2021/october/adobe-commerce-search.md)
       + [Adobe Exchange - externe markt voor ontwikkelaars](2021/october/app-builder-exchange.md)
@@ -99,13 +115,13 @@ ht-degree: 2%
       + [Architectuur van de Bouwer van de app en Technische Diepe Dive](2021/october/app-builder-architecture.md)
       + [Automatiseer de creatie en de manipulatie van PDF gebruikend PDF de Diensten API](2021/october/automate-pdf-services-api.md)
       + [Aanbevolen werkwijzen voor de ontwikkeling van componentscripts](2021/october/component-script-development.md)
-      + [Creative Cloud-plug-ins maken](2021/october/cc-extensibility.md)
+      + [Plug-ins voor Creatives Cloud maken](2021/october/cc-extensibility.md)
       + [Gebeurtenissen van Experience Manager consumeren](2021/october/consume-aem-events.md)
       + [Inhoud bijwerken](2021/october/content-upkeep.md)
       + [Native Cloud-uitbreidbaarheid voor Experience Manager](2021/october/aem-cloud-native.md)
       + [Samenwerken PWA Storefront-ontwerp met XD](2021/october/commerce-storefront-xd.md)
-      + [API&#39;s voor Creative Cloud-apps](2021/october/cc-app-api.md)
-      + [Gegevensverzameling](2021/october/data-collection.md)
+      + [API&#39;s van de Creative Cloud-app](2021/october/cc-app-api.md)
+      + [Dataverzameling](2021/october/data-collection.md)
       + [Ervaringen bij de handel leveren](2021/october/delivering-commerce-experiences.md)
       + [Snelle ervaringen met Experience Manager leveren](2021/october/fast-experiences.md)
       + [Efficiënte sitestructuur - Verbeterde prestaties](2021/october/efficient-site-structure.md)
@@ -129,10 +145,10 @@ ht-degree: 2%
       + [Headless Experience Manager Sites](2021/october/headless.md)
       + [Hoe te vermijden gemeenschappelijke valkuilen in de Experience Manager](2021/october/common-pitfalls-aem.md)
       + [Elementen opnemen en verwerken in Experience Manager Assets](2021/october/ingest-process-assets.md)
-      + [Experience Manager CS integreren met Adobe IO-gebeurtenissen](2021/october/integrate-aem-io-events.md)
+      + [Experience Manager CS integreren met Adobe-IO-gebeurtenissen](2021/october/integrate-aem-io-events.md)
       + [Introductie van App Builder](2021/october/introduction-app-builder.md)
       + [Inleiding tot de Adobe Developer-console](2021/october/app-builder-adc.md)
-      + [Inleiding tot Creative Cloud-bibliotheken](2021/october/cc-libraries.md)
+      + [Inleiding tot bibliotheken met Creatives Cloud](2021/october/cc-libraries.md)
       + [JSON en de PDF Extract-API](2021/october/parsing-pdf.md)
       + [Server starten](2021/october/launch-server-side.md)
       + [App Builder-apps bewaken met behulp van logbestanden](2021/october/log-forwarding.md)
@@ -144,6 +160,6 @@ ht-degree: 2%
       + [Snel site maken](2021/october/quick-site-creation.md)
       + [Relevant zoeken en e-commerce](2021/october/relevant-search-ecommerce.md)
       + [Cloud Service voor schermen](2021/october/aem-screens-cs.md)
-      + [Adobe Commerce Cloud-formaat aanpassen in een headless-implementatie](2021/october/commerce-headless.md)
+      + [Adobe Commerce Cloud vergroten in een headless-implementatie](2021/october/commerce-headless.md)
       + [Afbeeldingen transformeren, aanpassen en optimaliseren via URL&#39;s](2021/october/smart-imaging.md)
       + [Workfront en Experience Manager Assets](2021/october/workfront-aem-assets.md)
