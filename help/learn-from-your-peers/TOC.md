@@ -2,7 +2,7 @@
 user-guide-title: "[!DNL Experience Makers Learn from your peers]"
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: "Verzameling opnamen van [!DNL Experience Makers Learn from your peers]"
-source-git-commit: 4bb7c7746e39cd29c1f02c2b9797eaa609ba53c1
+source-git-commit: e1b2587ab6b761998127b5486201bde9ee50fcd6
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 15%
@@ -32,7 +32,7 @@ ht-degree: 15%
          + [Impliciete artikelen met gegevens verkopen](analytics/mar2022/stories-with-data.md)
 + Experience Manager {#experience-manager}
    + November {#nov2023}
-      + [Uitmuntendheid van ontwikkelaars met AEM kerncomponenten](experience-manager/sept2023/core-components.md)
+      + [Uitmuntendheid van ontwikkelaars met AEM kerncomponenten](experience-manager/nov2023/core-components.md)
    + September {#sept2023}
       + [Een diepe insteekmodule voor AEM Sites](experience-manager/sept2023/aem-sites-tools.md)
    + Juli {#july2023}
