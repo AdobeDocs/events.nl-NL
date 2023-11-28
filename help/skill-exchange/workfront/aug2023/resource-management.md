@@ -10,15 +10,15 @@ doc-type: Event
 last-substantial-update: 2023-10-27T00:00:00Z
 jira: KT-14152
 thumbnail: 3424863.jpeg
-source-git-commit: 92d4404a950f68a4cdc675b52c8623cfdd54c9e6
+exl-id: ce446884-62e9-4f4a-9af6-6ee38726420c
+source-git-commit: 82fca0bce961c208c41f5e7135bd4b9d9ec92f89
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: '171'
 ht-degree: 0%
 
 ---
 
-
-# De Gebeurtenis van de Uitwisseling van de vaardigheid aug 2023 - Workfront leert Spoor - de Stichting van het Beheer van het Middel
+# Stichting voor middelenbeheer
 
 Als u aan het gebruiken van de hulpmiddelen van het Beheer van het Middel van Adobe Workfront hebt gedacht maar niet zeker waar te beginnen - dit is de perfecte zitting voor u!
 

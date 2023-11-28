@@ -2,9 +2,9 @@
 user-guide-title: "[!DNL Experience Makers Learn from your peers]"
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: "Verzameling opnamen van [!DNL Experience Makers Learn from your peers]"
-source-git-commit: 86b05faa7b00386ddb76930d9b3432b52a49d4a2
+source-git-commit: 82fca0bce961c208c41f5e7135bd4b9d9ec92f89
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '125'
 ht-degree: 15%
 
 ---
@@ -33,6 +33,7 @@ ht-degree: 15%
 + Experience Manager {#experience-manager}
    + September {#sept2023}
       + [Een diepe insteekmodule voor AEM Sites](experience-manager/sept2023/aem-sites-tools.md)
+      + [Uitmuntendheid van ontwikkelaars met AEM kerncomponenten](experience-manager/sept2023/core-components.md)
    + Juli {#july2023}
       + [Effectieve beveiligingsstrategieën in de Cloud Service](experience-manager/july2023/effective-security-strategies-in-cloud-service.md)
    + Mei {#may2023}

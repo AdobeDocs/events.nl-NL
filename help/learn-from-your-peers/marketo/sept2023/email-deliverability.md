@@ -3,7 +3,7 @@ title: Verhoog de e-mailleverbaarheid met Marketo Engage
 description: In dit webinar leert u welke factoren bijdragen tot de e-maillevering.  Uw huidige status beoordelen met gebruik van E-mailprestatierapporten, prestatierapporten voor personen en slimme lijsten.  Stappen om risico's voor uw e-maillevering te verminderen, met inbegrip van controleprotocollen, het handhaven van gegevensbestandkwaliteit en het gebruiken van nauwkeurige richten.
 solution: Marketo Engage
 feature-set: Marketo Engage
-feature: Smart Lists, Email Editor, Email Programs, Email Setup, Database, Target Account Management, Deliverability, Performance Insights
+feature: Smart Lists, Deliverability, Reporting
 role: Admin
 level: Intermediate
 doc-type: Event
@@ -11,7 +11,7 @@ last-substantial-update: 2023-09-07T00:00:00Z
 jira: KT-13911
 thumbnail: 3423966.jpeg
 exl-id: c6b9cb51-fb81-41e7-b100-9cb2029c43dc
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+source-git-commit: 82fca0bce961c208c41f5e7135bd4b9d9ec92f89
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%

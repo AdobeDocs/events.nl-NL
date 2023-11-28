@@ -3,10 +3,10 @@ user-guide-title: De Uitwisseling van de Vaardigheid
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Inzameling opnamen van Ervaar de Uitwisseling van de Vaardigheid
 event-series: The Skill Exchange
-source-git-commit: f0a805efa9e6599df4aefa87f6de048bca9a5661
+source-git-commit: 82fca0bce961c208c41f5e7135bd4b9d9ec92f89
 workflow-type: tm+mt
-source-wordcount: '416'
-ht-degree: 7%
+source-wordcount: '446'
+ht-degree: 6%
 
 ---
 
@@ -111,7 +111,15 @@ ht-degree: 7%
       + [Ultieme tips en trucs voor uw Forms](marketo/feb2021/forms-tips-and-tricks.md)
 + Workfront {#workfront}
    + Augustus 2023 {#aug2023}
+      + [Inleiding tot de kamers](workfront/aug2023/introduction-to-boards.md)
+      + [Geniet van spotlicht voor makers](workfront/aug2023/spotlight.md)
+      + [Groei en voortdurende efficiëntie](workfront/aug2023/growth-continued-efficiencies.md)
+      + [Workfront afstemmen in alle bedrijven](workfront/aug2023/workfront-across-enterprise.md)
+      + [Geïntegreerde integratie met Creative Cloud](workfront/aug2023/native-integtrations.md)
+      + [Doelgerichte gestuurde automatisering](workfront/aug2023/automations.md)
+      + [Bron voor beheer](workfront/aug2023/resource-management-burnout.md)
       + [Stichting voor middelenbeheer](workfront/aug2023/resource-management.md)
+      + [Starter Kit voor beheer van bronnen](workfront/aug2023/resource-management-starter-kit.md)
    + April 2022 {#apr2022}
       + [10 tips voor wauw je Workfront](workfront/apr2022/ten-tips.md)
       + [Berekende velden die iedereen moet weten](workfront/apr2022/calculated-fields.md)
