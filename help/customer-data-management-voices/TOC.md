@@ -1,9 +1,8 @@
 ---
 user-guide-title: Klantengegevensbeheerstemmen
 user-guide-breadcrumb: Customer Data Management Voices
-user-guide-description: De bestemming van het klantengegevensbeheer voor de technische en marketing praktijkleider en specialiste
-feature-set: Experience Platform
-source-git-commit: 17070f55bae19ef0751a2c7c536af7758e31affc
+user-guide-description: De bestemming van het klantengegevensbeheer voor de technische en marketing praktijkleider en specialist
+source-git-commit: b255ba788711f4599e9d18f1155a7bc00487d21b
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
@@ -16,7 +15,7 @@ ht-degree: 0%
 + [Overzicht](overview.md)
 + Bouwstenen voor gegevensbeheer van klanten {#cdm}
    + [Stroomlijnen van uw eerste module voor gegevensbeheer](cdm/first-mile.md)
-   + [Een Platform voor klantgegevens selecteren voor succes](cdm/cdp-success.md)
+   + [Een klantgegevensplatform selecteren voor succes](cdm/cdp-success.md)
    + [Aanbevolen CDP-procedures - Personen en Proces](cdm/people-and-process.md)
    + [Evolving Your Audience Center of Excellence](cdm/evolving-your-audience-center-of-excellence.md)
    + [Betere ervaringen opbouwen met klantprofielen](cdm/building-better-experiences-with-customer-profiles.md)

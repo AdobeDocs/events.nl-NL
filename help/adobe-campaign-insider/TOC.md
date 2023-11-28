@@ -2,9 +2,8 @@
 user-guide-title: Adobe [!DNL Campaign] Insider-gebeurtenissen
 user-guide-breadcrumb: "[!DNL Campaign] Insider Events"
 user-guide-description: Tips en trucs en inspiratie voor Adobe [!DNL Campaign] klanten helpen kanaalmarketingstrategieën te ontwikkelen, vaardigheden van teammarketingspecialisten te verhogen en organisaties te helpen meer geavanceerde marketingstrategieën voor meerdere kanalen te ontwikkelen.
-feature-set: Campaign
 solution: Campaign
-source-git-commit: 595fb971e2d7a3d8bdd4ea8608e896f187fd185e
+source-git-commit: b255ba788711f4599e9d18f1155a7bc00487d21b
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 2%
