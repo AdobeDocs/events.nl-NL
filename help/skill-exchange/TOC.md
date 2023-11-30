@@ -3,9 +3,9 @@ user-guide-title: De Uitwisseling van de Vaardigheid
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Inzameling opnamen van Ervaar de Uitwisseling van de Vaardigheid
 event-series: The Skill Exchange
-source-git-commit: ec6cc182a6c28d629c0ce2905997f369eb214fb2
+source-git-commit: 0fee35240f4f19707da7a222680858ccf89d0377
 workflow-type: tm+mt
-source-wordcount: '443'
+source-wordcount: '446'
 ht-degree: 6%
 
 ---
@@ -76,6 +76,7 @@ ht-degree: 6%
          + [Aan de slag met AEM Assets](aem/aug2023/getting-started-aem-assets.md)
          + [Een collectieve DAM gebruiken](aem/aug2023/collaborative-dam.md)
          + [Schalen voor gereedheid voor AI](aem/aug2023/metadata.md)
+         + [Spotlicht](aem/aug2023/spotlight.md)
    + Augustus 2022 {#aug2022}
       + Developer Track {#developer-track}
          + [Geniet van spotlicht voor makers](aem/aug2022/spotlight.md)
@@ -116,6 +117,7 @@ ht-degree: 6%
       + [Groei en voortdurende efficiëntie](workfront/aug2023/growth-continued-efficiencies.md)
       + [Workfront afstemmen in alle bedrijven](workfront/aug2023/workfront-across-enterprise.md)
       + [Geïntegreerde integratie met Creative Cloud](workfront/aug2023/native-integtrations.md)
+      + [Toetsenbord openen](workfront/aug2023/opening-keynote.md)
       + [Doelgerichte gestuurde automatisering](workfront/aug2023/automations.md)
       + [Bron voor beheer](workfront/aug2023/resource-management-burnout.md)
       + [Starter Kit voor beheer van bronnen](workfront/aug2023/resource-management-starter-kit.md)
