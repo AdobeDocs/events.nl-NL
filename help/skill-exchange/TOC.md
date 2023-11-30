@@ -3,7 +3,7 @@ user-guide-title: De Uitwisseling van de Vaardigheid
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Inzameling opnamen van Ervaar de Uitwisseling van de Vaardigheid
 event-series: The Skill Exchange
-source-git-commit: b5bbc2cade0b5bccb8dc1d06811fa526e612b4f2
+source-git-commit: ec6cc182a6c28d629c0ce2905997f369eb214fb2
 workflow-type: tm+mt
 source-wordcount: '443'
 ht-degree: 6%
@@ -118,7 +118,7 @@ ht-degree: 6%
       + [Geïntegreerde integratie met Creative Cloud](workfront/aug2023/native-integtrations.md)
       + [Doelgerichte gestuurde automatisering](workfront/aug2023/automations.md)
       + [Bron voor beheer](workfront/aug2023/resource-management-burnout.md)
-         + [Starter Kit voor beheer van bronnen](workfront/aug2023/resource-management-starter-kit.md)
+      + [Starter Kit voor beheer van bronnen](workfront/aug2023/resource-management-starter-kit.md)
    + April 2022 {#apr2022}
       + [10 tips voor wauw je Workfront](workfront/apr2022/ten-tips.md)
       + [Berekende velden die iedereen moet weten](workfront/apr2022/calculated-fields.md)
