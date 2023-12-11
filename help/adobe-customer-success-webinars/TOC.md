@@ -2,10 +2,10 @@
 user-guide-title: Geslaagde webinars van klanten van de Adobe
 breadcrumb-title: Geslaagde webinars van klanten van de Adobe
 user-guide-description: Met succes geleide webinars van de Klant van de Adobe die worden ontworpen om u bij het optimaliseren van uw investering in het Experience Cloud van de Adobe te helpen. Vergroot waardevolle inzichten om de waarde te maximaliseren en de acceptatie van oplossingen voor Adoben te vergroten.
-source-git-commit: 5d2f0e8e5e75221d9250d45327a8fed66244785b
+source-git-commit: a7785ee8dcac6fd30a9526e4e202ee0780ea0e1a
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 1%
+source-wordcount: '106'
+ht-degree: 0%
 
 ---
 
@@ -19,6 +19,7 @@ ht-degree: 1%
    + [Inhoud en ervaring - Personalisatie](2023/content-experiences-personalization.md)
    + [Gereedheid voor migratie naar Customer Journey Analytics](2023/cja-migration-readiness.md)
    + [Essentiële Customer Journey Analytics Integration](2023/cja-integration-essentials.md)
+   + [Een realtime strategie voor gegevensverzameling en -activering ontwikkelen](2023/data-collection-activation-strategy.md)
    + [Effectieve meetstrategie](2023/measurement-strategy.md)
    + [Foundationele strategie voor campagneorchestratie](2023/foundational-strategy-campaign.md)
    + [Prioriteit geven aan Intelligentie en Meting](2023/intelligence-and-measurement.md)

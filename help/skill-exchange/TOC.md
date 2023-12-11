@@ -3,10 +3,10 @@ user-guide-title: De Uitwisseling van de Vaardigheid
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Inzameling opnamen van Ervaar de Uitwisseling van de Vaardigheid
 event-series: The Skill Exchange
-source-git-commit: 0fee35240f4f19707da7a222680858ccf89d0377
+source-git-commit: a7785ee8dcac6fd30a9526e4e202ee0780ea0e1a
 workflow-type: tm+mt
-source-wordcount: '446'
-ht-degree: 6%
+source-wordcount: '496'
+ht-degree: 7%
 
 ---
 
@@ -14,7 +14,17 @@ ht-degree: 6%
 # De Uitwisseling van de Vaardigheid {#the-skill-exchange-recordings}
 
 + [Overzicht](overview.md)
-+ Analytics {#analytics}
++ Analyse {#analytics}
+   + aug. 2023 {#aug2023}
+      + [Alles over segmenten](analytics/aug2023/spotlight-segments.md)
+      + [De gegevens analyseren](analytics/aug2023/analyze-the-data.md)
+      + [De gebruiker van de werkruimte trainen](analytics/aug2023/spotlight.md)
+      + [Navigatie corrigeren](analytics/aug2023/fix-navigation.md)
+      + [Vier minder gebruikte functies](analytics/aug2023/data-analysis.md)
+      + [Aan de slag](analytics/aug2023/getting-started.md)
+      + [Uw klantervaring verbeteren](analytics/aug2023/anti-conversion.md)
+      + [Toetsenbord](analytics/aug2023/keynote.md)
+      + [Alles samenvoegen](analytics/aug2023/putting-together.md)
    + Mei 2023 {#may2023}
       + [Tips en trucs voor Adobe Analytics](analytics/may2023/tips-and-tricks.md)
       + [Migreren naar EDDL/WebSDK](analytics/may2023/migrate.md)
@@ -29,7 +39,7 @@ ht-degree: 6%
       + [ROI Analytics](analytics/oct2022/analytics-roi.md)
       + [Analyses leren ervaring Makers Spotlight](analytics/oct2022/spotlight.md)
       + [De Adobe Analytics Tool-gordel beheren](analytics/oct2022/toolbelt.md)
-   + September 2022 {#sept2022}
+   + september 2022 {#sept2022}
       + [Aan de slag](analytics/sept2022/getting-started.md)
       + [De gegevens analyseren](analytics/sept2022/analyzing-the-data.md)
       + [Alles samenvoegen](analytics/sept2022/putting-it-all-together.md)
@@ -52,7 +62,7 @@ ht-degree: 6%
       + [De gegevens analyseren](analytics/oct2021/analyze-data.md)
       + [Aan de slag](analytics/oct2021/getting-started.md)
       + [Alles samenvoegen](analytics/oct2021/putting-all-together.md)
-   + September 2021 {#sept2021}
+   + september 2021 {#sept2021}
       + [Adobe Analytics Rockstars](analytics/sept2021/analytics-rockstars.md)
       + [Tips en trucs voor Adobe Analytics](analytics/sept2021/tips-and-tricks.md)
       + [De gegevens analyseren](analytics/sept2021/analyze-data.md)
@@ -72,6 +82,7 @@ ht-degree: 6%
          + [AEM Developer Starter Kit](aem/aug2023/deploy-new-project.md)
          + [Een effectief en schaalbaar stijlsysteem ontwikkelen](aem/aug2023/scalable-style-system.md)
          + [Migreren naar AEM Cloud Service](aem/aug2023/migrate-to-aemcs.md)
+         + [Persoonlijke marketingberichten](aem/aug2023/personalized-marketing-emails.md)
       + Webtrack {#webtrack}
          + [Aan de slag met AEM Assets](aem/aug2023/getting-started-aem-assets.md)
          + [Een collectieve DAM gebruiken](aem/aug2023/collaborative-dam.md)
