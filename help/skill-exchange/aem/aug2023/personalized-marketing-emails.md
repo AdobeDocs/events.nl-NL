@@ -1,8 +1,8 @@
 ---
 title: Uiterst persoonlijke marketingberichten maken met AEM
 description: E-mailcommunicatie is een van de belangrijkste manieren waarop u uw bestaande en potentiële nieuwe klanten kunt bereiken. Het efficiënt maken van zeer persoonlijke e-mails kan de betrokkenheid van klanten aanzienlijk vergroten. Als iemand aan AEM denkt (Adobe Experience Manager), denken zij vaak aan websites en webinhoud. Maar wist u dat AEM ook kan worden gebruikt om e-mails te maken
-feaeture-set: Experience Manager Sites
-feature: Core components, Developing
+feature-set: Experience Manager Sites
+feature: Core Components, Developing
 topic: Personalization
 role: Developer
 level: Intermediate, Experienced
@@ -11,7 +11,7 @@ duration: 2198
 last-substantial-update: 2023-12-11T00:00:00Z
 jira: KT-14650
 thumbnail: 3425982.jpeg
-source-git-commit: a7785ee8dcac6fd30a9526e4e202ee0780ea0e1a
+source-git-commit: 76b246f4b6b43632cf07b17ee1ec9b2d581e1e08
 workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 0%

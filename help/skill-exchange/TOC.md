@@ -3,7 +3,7 @@ user-guide-title: De Uitwisseling van de Vaardigheid
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Inzameling opnamen van Ervaar de Uitwisseling van de Vaardigheid
 event-series: The Skill Exchange
-source-git-commit: a7785ee8dcac6fd30a9526e4e202ee0780ea0e1a
+source-git-commit: 76b246f4b6b43632cf07b17ee1ec9b2d581e1e08
 workflow-type: tm+mt
 source-wordcount: '496'
 ht-degree: 7%
@@ -18,7 +18,7 @@ ht-degree: 7%
    + aug. 2023 {#aug2023}
       + [Alles over segmenten](analytics/aug2023/spotlight-segments.md)
       + [De gegevens analyseren](analytics/aug2023/analyze-the-data.md)
-      + [De gebruiker van de werkruimte trainen](analytics/aug2023/spotlight.md)
+      + [De gebruiker van de werkruimte trainen](analytics/aug2023/spotlight-workspace-user.md)
       + [Navigatie corrigeren](analytics/aug2023/fix-navigation.md)
       + [Vier minder gebruikte functies](analytics/aug2023/data-analysis.md)
       + [Aan de slag](analytics/aug2023/getting-started.md)
