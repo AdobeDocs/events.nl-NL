@@ -1,17 +1,17 @@
 ---
 title: Krijg gegevensinzameling en gebeurtenis door:sturen omhoog en lopend met enkel een paar klikken!
-description: Met een paar klikken, zullen de snel startwerkschema's van de inzameling van Adobe veelvoudige dingen op het achtereind plaatsen om u tijd te besparen en ervoor te zorgen uw opstelling correct is.
+description: Met een paar klikken, zullen de snelle startwerkschema's van de gegevensinzameling van de Adobe veelvoudige dingen op het achtereind plaatsen om u tijd te besparen en uw opstelling te verzekeren correct is.
 solution: Data Collection,Experience Platform,Analytics,Real-Time Customer Data Platform,Customer Journey Analytics
 kt: 13041
 thumbnail: https://video.tv.adobe.com/v/3417927?format=jpeg
 event-cta-url-live: https://www.youtube.com/watch?v=jGjIKIWFNsM
 event-cta-url-reg: https://engage.adobe.com/ExpLeagueLive-230425.html
-event-start-time: 2023-4-25 09:00-8
+event-start-time: 2023-04-25 09:00-8
 event-guests: Rudi Shumpert,Travis Jordan,Doug Moore
 exl-id: 1c5c5c90-9772-440e-a7eb-5138d4adadb9
-source-git-commit: 1f9b259f31faf9c58a8ea161d17dcffdba47a53d
+source-git-commit: af23ea73c76387f9e7be277227fd786d7ce9b02c
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 **Nieuwe snelstartworkflows introduceren in Adobe Experience Platform-gegevensverzameling**
 
-Als u nieuw bent aan Adobe moderne hulpmiddelen van de gegevensinzameling en nerveus om in het diepe eind te springen, kunt u nu met een basisinstallatie sneller dan ooit, met inbegrip van het verzenden van gebeurtenisgegevens naar Meta op de server kant opstaan. Met een paar klikken, zullen de snel startwerkschema&#39;s van de inzameling van Adobe veelvoudige dingen op het achtereind plaatsen om u tijd te besparen en ervoor te zorgen uw opstelling correct is.
+Als u de moderne hulpmiddelen van de gegevensinzameling van Adobe nieuw bent en zenuwachtig om in het diepe eind te springen, kunt u nu met een basisinstallatie sneller dan ooit, met inbegrip van het verzenden van gebeurtenisgegevens naar Meta op de serverzijde aan. Met een paar klikken, zullen de snelle startwerkschema&#39;s van de gegevensinzameling van de Adobe veelvoudige dingen op het achtereind plaatsen om u tijd te besparen en uw opstelling te verzekeren correct is.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3417927/?quality=12&learn=on)
 

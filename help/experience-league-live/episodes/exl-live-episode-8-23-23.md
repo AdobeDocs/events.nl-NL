@@ -5,12 +5,12 @@ kt: KT-13734
 thumbnail: https://video.tv.adobe.com/v/3422169?format=jpeg
 event-cta-url-live: https://www.youtube.com/watch?v=eC51g4bf81s
 event-cta-url-reg: null
-event-start-time: 2023-8-23 08:00-7
+event-start-time: 2023-08-23 08:00-7
 event-guests: Siddharth Jain,Nikhil Sharma,Chetan Prasad
 exl-id: 4c3e2036-7afb-42f2-8071-17586b18aeec
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+source-git-commit: af23ea73c76387f9e7be277227fd786d7ce9b02c
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '182'
 ht-degree: 0%
 
 ---
