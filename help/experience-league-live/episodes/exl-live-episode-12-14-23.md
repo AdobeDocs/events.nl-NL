@@ -8,9 +8,9 @@ event-cta-url-reg: https://engage.adobe.com/ExpLeagueLive-231214.html
 event-start-time: 2023-12-14 09:00-7
 event-guests: Doug Moore,Nina Caruso,Rudi Shumpert
 exl-id: c2c2c560-adc1-45f4-b235-0307923cc9a8
-source-git-commit: 0352149767e9366a1a125d3afbc632aa320b6f37
+source-git-commit: 9a3018b3e8ded0ded37a5c97f536db2eaa93416b
 workflow-type: tm+mt
-source-wordcount: '252'
+source-wordcount: '238'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,9 @@ ht-degree: 0%
 
 Leer hoe u met de nieuwe functies die in 2023 zijn uitgebracht, het publiek effectiever en efficiënter kunt activeren voor een indrukwekkende personalisatie.
 
-[![ExL LIVE dec 14 2023](assets/Dec14_exl_live_banner_web_1920_WebBanner.png)](https://engage.adobe.com/ExpLeagueLive-231214.html)
+>[!VIDEO](https://video.tv.adobe.com/v/3425754/?quality=12&learn=on)
 
-**Klik op de bovenstaande afbeelding om u te registreren voor de presentatie.**.
+**Bekijk de bovenstaande replay. U kunt ook de discussie over deze sessie voortzetten over de [Communautaire discussie over Experience League](https://experienceleaguecommunities.adobe.com/t5/real-time-customer-data-platform/experience-league-live-post-session-discussion-countdown-to-2024/m-p/639558#M14)**.
 
 **Details:**
 Bent u een huidige Real-Time CDP-deskundige die inzicht zoekt in wat nieuw is in het product, waarom het van belang is en hoe Adobe u kan helpen uw strategieën voor het beheer van klantgegevens te verbeteren? Kijk niet verder - je bent op de juiste plek gekomen! In deze reeks duiken we diep in wat onlangs in Real-Time CDP gelanceerd is, zodat je kunt profiteren van wat nieuw is, en een impact kunt hebben op je organisatie.
@@ -41,6 +41,5 @@ Als u deze sessie verlaat, kunt u het volgende verwachten:
 * De nieuwe functies nu kunnen benutten
 * Begin uw inspanningen van de klantenverpersoonlijking vandaag te verbeteren!
 
-Zoals altijd, laat deze levende zitting u vragen in de chat stellen en antwoorden van de deskundigen krijgen.
 
 
