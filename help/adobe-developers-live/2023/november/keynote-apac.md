@@ -10,7 +10,7 @@ duration: 5306
 last-substantial-update: 2023-12-20T00:00:00Z
 jira: KT-14683
 thumbnail: 3426342.jpeg
-source-git-commit: a69e8b80a3d8e1637896f2d9404cfa78771b92d1
+source-git-commit: ee582f1bc2ff95cb8292b149e76641c8b5229f7b
 workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 0%
