@@ -2,10 +2,10 @@
 user-guide-title: Adobe Developers Live Events
 user-guide-breadcrumb: Developers Live Events
 user-guide-description: Opnamen verzamelen van de Adobe Developer Live Content-gebeurtenis
-source-git-commit: b255ba788711f4599e9d18f1155a7bc00487d21b
+source-git-commit: c50f4241e22bc858473156a3e7cd32052177a5e1
 workflow-type: tm+mt
-source-wordcount: '718'
-ht-degree: 3%
+source-wordcount: '777'
+ht-degree: 1%
 
 ---
 
@@ -14,26 +14,37 @@ ht-degree: 3%
 
 + [Overzicht](overview.md)
 + 2023 {#2023}
-   + November {#nov2023}
+   + november {#nov2023}
       + [Toetsenbord openen](2023/november/keynote.md)
+      + [Toetsenbord openen (APAC)](2023/november/keynote-apac.md)
+      + [Workflows voor inhoud automatiseren met App Builder](2023/november/content-workflows.md)
+      + [Terug naar de ontwikkeling en implementatie van front component](2023/november/component-development.md)
+      + [Levering van Omnichannel-inhoud](2023/november/omnichannel.md)
       + Edge Delivery Services {#nov-edgedeliveryservices}
          + [Een website maken](2023/november/edge-breakout-1.md)
          + [Webprestaties](2023/november/edge-breakout-2.md)
          + [Een klantimplementatie](2023/november/edge-breakout-3.md)
          + [Authoring op basis van documenten](2023/november/deep-dive.md)
-      + Headless {#nov-headless}
+         + [Technisch overzicht Edge Delivery Services](2023/november/edge-delivery-services-tech-overview.md)
+      + Koploos {#nov-headless}
          + [Koploze API&#39;s](2023/november/headless-breakout-1.md)
+         + [Introductie tot de universele editor](2023/november/intro-universal-editor.md)
+         + [Introductie tot Forms zonder koppen](2023/november/headless-forms.md)
          + [Universele editor](2023/november/headless-breakout-2.md)
          + [Externe databronnen](2023/november/headless-breakout-3.md)
-      + Commerce {#nov-commerce}
+      + Handel {#nov-commerce}
          + [Adobe App Builder, Adobe-IO, Webhooks en Admin UI SDK](2023/november/app-builder-web-hooks-admin-ui-sdk.md)
          + [API-net](2023/november/commerce-breakout-4.md)
          + [Catalogusdiensten](2023/november/commerce-breakout-1.md)
+         + [De prestaties van de Handel door platform leveren](2023/november/commerce-performance.md)
          + [Uitbreidbaarheid afhankelijk van gebeurtenis](2023/november/commerce-breakout-3.md)
+         + [De toekomst van de handel](2023/november/future-of-commerce.md)
          + [Integreren met Amazon-Sales Channel](2023/november/commerce-breakout-2.md)
          + [Inleiding tot Adobe Commerce](2023/november/intro-to-adobe-commerce.md)
          + [Service voor zoeken en catalogi](2023/november/commerce-search-and-catalog-service.md)
-   + Mei {#may2023}
+         + [Strategieën voor het optimaliseren van de prestaties van uw Commerce-site](2023/november/commerce-site-performance.md)
+         + [Wijzigingen bijhouden op Adobe Commerce Cloud](2023/november/commerce-cloud-track-changes.md)
+   + mei {#may2023}
       + [Toetsenbord openen](2023/may/keynote.md)
       + [API-tour](2023/may/new-apis.md)
       + [Diep in AEM Core Components for E-Mail and Forms](2023/may/core-components.md)
@@ -101,7 +112,7 @@ ht-degree: 3%
       + [Snelle ontwikkeling op de voorgrond](2021/february/rapid-frontend-devlopment.md)
       + [SPA Editor 2.0](2021/february/spa-editor-2-0.md)
       + [Om het even welke Plaats in een Progressieve App van het Web veranderen](2021/february/any-site-into-pwa.md)
-   + Oktober {#oct2021}
+   + oktober {#oct2021}
       + [Overzicht](2021/october/overview.md)
       + [Toetsenbord openen](2021/october/keynote.md)
       + [De overgang naar Experience Manager CS versnellen](2021/october/accelerate-transistion.md)
