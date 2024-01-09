@@ -2,10 +2,10 @@
 title: Commerciële inlichtingenwebinars
 description: Onderzoek de geregistreerde webinars van de Inlichtingendienst van de Handel, die een brede waaier van onderwerpen en beste praktijken voor het gebruiken van de Inlichtingen van de Handel aan zijn maximaal potentieel behandelen.
 exl-id: a1f2585f-5619-4f69-a7dc-75bc90aa3cd5
-source-git-commit: 5d2f0e8e5e75221d9250d45327a8fed66244785b
+source-git-commit: 5be00538f31610434e2853d4c94fb0611726e709
 workflow-type: tm+mt
-source-wordcount: '303'
-ht-degree: 2%
+source-wordcount: '265'
+ht-degree: 1%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 2%
 >
 >Adobe Commerce Intelligence stond voorheen bekend als [!DNL Magento Business Intelligence (MBI)]. Opnamen voor gebeurtenissen uit het verleden geven de vorige naam weer.
 
-De webinarserie van de Intelligentie van de Handel is een periodieke gebeurtenis voor klanten MBI. De webinars bestrijken een breed scala aan onderwerpen en beste praktijken om de inlichtingen van de Handel ten volle te benutten.
+De webinarserie van de Intelligentie van de Handel is een periodieke gebeurtenis voor de klanten van de Intelligentie van de Handel. De webinars bestrijken een breed scala aan onderwerpen en beste praktijken om de inlichtingen van de Handel ten volle te benutten.
 
 Aanwezigen uit alle regio&#39;s kunnen live deelnemen aan de gebeurtenissen om het product beter te begrijpen en hun vragen over de functie van de Intelligentie van de Handel rechtstreeks te beantwoorden.
 
@@ -26,12 +26,12 @@ De onderwerpen worden herhaald af en toe om het even welke nieuwe vragen aan te 
 <table>
 <tr>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/2023/getting-started.html">
-      <img alt="Aan de slag met MBI" src="./assets/getting-started-mbi.png" />
+    <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2023/getting-started.html">
+      <img alt="Aan de slag met Commerce Intelligence" src="./assets/getting-started.png" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/2023/getting-started.html">
-        <strong>Aan de slag met MBI</strong>
+      <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2023/getting-started.html">
+        <strong>Aan de slag met Commerce Intelligence</strong>
       </a>
     </div>
     <p>
@@ -39,11 +39,11 @@ De onderwerpen worden herhaald af en toe om het even welke nieuwe vragen aan te 
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/2023/manage-data-sets.html">
+    <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2023/manage-data-sets.html">
       <img alt="Gegevenssets beheren in MBI" src="./assets/managing-data-sets-mbi.png" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/2023/manage-data-sets.html">
+      <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2023/manage-data-sets.html">
         <strong>Gegevenssets beheren in MBI</strong>
       </a>
     </div>
@@ -52,11 +52,11 @@ De onderwerpen worden herhaald af en toe om het even welke nieuwe vragen aan te 
     <p>
   </td>
    <td>
-    <a href="https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/2021/optimize-data-warehouse.html">
+    <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2021/optimize-data-warehouse.html">
       <img alt="Uw MBI-Data Warehouse optimaliseren" src="./assets/optimize-data-warehouse.png" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/2021/optimize-data-warehouse.html">
+      <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2021/optimize-data-warehouse.html">
         <strong>Uw MBI-Data Warehouse optimaliseren</strong>
       </a>
     </div>
