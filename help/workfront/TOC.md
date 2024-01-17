@@ -2,7 +2,7 @@
 user-guide-title: Workfront Events
 breadcrumb-title: Workfront Events
 user-guide-description: Workfront Events
-source-git-commit: 0dc027b6c267c52b961b641d838571fc2d0a9fd6
+source-git-commit: 258dad6728f49c093121b6f7a8b49db5778d18fe
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 0%
@@ -46,5 +46,6 @@ ht-degree: 0%
    + [Workfront Proof gebruiken](user-groups/leveraging-workfront-proof.md)
 + Wachtrijen en opname aanvragen {#request-queues-and-intake}
    + [Wachtrijen aanvragen en Forms innemen](user-groups/request-queues-and-intake-forms.md)
-+ Versies van 2024
-   + [24.1 Release](webinars/24-1-release-webinar.md)
++ Uitstoot {#releases}
+   + 2024 {#2024-releases}
+      + [24.1 Release](webinars/24-1-release-webinar.md)
