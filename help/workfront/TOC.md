@@ -2,9 +2,9 @@
 user-guide-title: Workfront Events
 breadcrumb-title: Workfront Events
 user-guide-description: Workfront Events
-source-git-commit: 258dad6728f49c093121b6f7a8b49db5778d18fe
+source-git-commit: e5c41210809983e9b6d2854f6ecf75e44976d019
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
@@ -47,5 +47,4 @@ ht-degree: 0%
 + Wachtrijen en opname aanvragen {#request-queues-and-intake}
    + [Wachtrijen aanvragen en Forms innemen](user-groups/request-queues-and-intake-forms.md)
 + Uitstoot {#releases}
-   + 2024 {#2024-releases}
-      + [24.1 Release](webinars/24-1-release-webinar.md)
+   + [24.1 Release](webinars/24-1-release-webinar.md)
