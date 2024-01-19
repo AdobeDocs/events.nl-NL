@@ -7,9 +7,9 @@ role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
-source-git-commit: ba2c392cef2c5bd49eeaeb9241396c9b13389fdb
+source-git-commit: e4d280f98bf46b0f2c663e85bedd1fed4f85cafe
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '159'
 ht-degree: 1%
 
 ---
@@ -24,16 +24,8 @@ Experience League LIVE is een live streaming show die wordt gemaakt door het tea
 
 <table>
 <tr>
-  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-01-17-24.md">
-      <img alt="Experience League LIVE apr 21" src="episodes/assets/Jan17_2024_WebBanner.jpg">
-    </a>
-    <div>
-      <a href="episodes/exl-live-episode-01-17-24.md">
-        <strong>Adobe Analytics-gegevens en -analyses in Customer Journey Analytics brengen</strong>
-      </a>
-      <br/><em>met Doug Moore, Eric Matisoff en Bryan Skelton</em>
-      <br/><em>17 januari 2024 om 10:00 uur PST</em>
-    </div>
+  <td style="vertical-align: top;">
+    Kom binnenkort terug naar deze pagina om informatie te krijgen over onze show die op 8 februari 2024 verschijnt!
   </td>
 </tr>
 </table>

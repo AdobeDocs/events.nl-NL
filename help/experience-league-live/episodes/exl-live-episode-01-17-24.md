@@ -7,9 +7,10 @@ event-cta-url-live: https://www.youtube.com/watch?v=BkAjaMPgpgE
 event-cta-url-reg: https://engage.adobe.com/ExpLeagueLive-240117.html
 event-start-time: 2024-01-17 10:00-7
 event-guests: Doug Moore,Eric Matisoff,Bryan Skelton
-source-git-commit: ba2c392cef2c5bd49eeaeb9241396c9b13389fdb
+exl-id: 2c2136a9-0b40-4a0a-907d-5af181568073
+source-git-commit: fed7c247f14965d91cb639707e17d70dd9cf37b2
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
@@ -18,13 +19,7 @@ ht-degree: 0%
 
 Doe mee met Bryan, Eric en Doug terwijl ze bespreken hoe ze snel met Customer Journey Analytics (CJA) kunnen gaan. U leert over het gebruik van geautomatiseerde processen om gegevens en analyses van Adobe Analytics naar CJA te verplaatsen en om het even welke gotchas te overwegen tijdens het proces. Natuurlijk hebben ze onderweg een gezonde dosis leuke tips en trucs.
 
-[![ExL LIVE jan 17 2024](assets/Jan17_2024_WebBanner.jpg)](https://engage.adobe.com/ExpLeagueLive-240117.html)
+>[!VIDEO](https://video.tv.adobe.com/v/3426778/?quality=12&learn=on)
 
-Zoals altijd, laat deze levende zitting u vragen in de chat stellen en antwoorden van de deskundigen krijgen.
-
-**Klik op de bovenstaande afbeelding om u te registreren voor de gebeurtenis.**.
-
-
-
-
+**Doorgaan met de discussie over de [Forum van de Gemeenschap van Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-post-session-discussion-bringing-your/m-p/646093#M3582)**.
 
