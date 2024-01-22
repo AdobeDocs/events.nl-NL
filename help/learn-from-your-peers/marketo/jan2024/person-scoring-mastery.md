@@ -1,0 +1,41 @@
+---
+title: Persoon die stramien scoort met Marketo Engage - Gelokaliseerde nuances in een Globaal Kader
+description: Als beheerder, ontwikkelt u de persoon die van het Marketo Engage model dat op de echte bedrijfswaarde van de het scoren elementen wordt gebaseerd die aan elkaar worden vergeleken. Maar wat als die bedrijfswaarde varieert op verschillende markten? Hoe laat u lokale invloeden toe zonder consistentie over uw organisatie te verliezen? Leer hoe u een balans vindt door lokale flexibiliteit op te nemen in het scoremodel.
+feature: Person Scoring
+role: Admin
+level: Intermediate
+doc-type: Event
+duration: 2373
+last-substantial-update: 2024-01-22T00:00:00Z
+jira: KT-14816
+thumbnail: 3426914.jpeg
+source-git-commit: 06f787d8dd891e1afe3b8eda58c4790542a3a082
+workflow-type: tm+mt
+source-wordcount: '267'
+ht-degree: 0%
+
+---
+
+
+# Persoon die stramien scoort met Marketo Engage: gelokaliseerde nuances in een globaal raamwerk
+
+Als beheerder, ontwikkelt u de persoon die van het Marketo Engage model dat op de echte bedrijfswaarde van de het scoren elementen wordt gebaseerd die aan elkaar worden vergeleken. Maar wat als die bedrijfswaarde varieert op verschillende markten? Hoe laat u lokale invloeden toe zonder consistentie over uw organisatie te verliezen?
+
+Leer hoe Marketo Engage Champion, Katja Keesom, deze lastige balans vindt door lokale flexibiliteit in het scoremodel te bouwen.
+
+In dit webinar leert u:
+
+* Waarom lokale flexibiliteit belangrijk is, maar niet in het Wilde Westen van persoon die zonder controle scoren kan veranderen
+* Hoe te opstelling een transparant en scalable model van het persoonscoring
+* De beste manier om dit in Marketo Engage uit te voeren, die lokale marktflexibiliteit terwijl het model - logisch en verenigbaar toestaat.
+
+>[!VIDEO](https://video.tv.adobe.com/v/3426914/?learn=on)
+
+## Middelen die in webinar worden gedeeld
+
+* Communautaire Webinar Thread - [Discussie](https://nation.marketo.com/t5/product-discussions/learn-from-your-peers-webinar-person-scoring-mastery-with/m-p/343084#M194864)
+&lt;— [Werkblad] Scorebord persoon/leider met lokale oefeningen van de Invloed: [AAN TE VOEGEN KOPPELING] —>
+* The Big List of Lead Scoring Rules - [Werkblad](https://go.marketo.com/rs/561-HYG-937/images/Marketo-Lead-Scoring.pdf)
+* Importbibliotheek voor programma Marketo Engage - [Documentatie](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.html)
+* Lood het Scoren alles om over het proces vóór, tijdens, en na te kennen - [Webinar op aanvraag](https://business.adobe.com/summit/2020/all-about-the-before-during-and-after-of-lead-scoring.html)
+* Aanpak van Champion bij de decor - [Blog](https://nation.marketo.com/t5/product-blogs/marketo-success-series-lead-scoring/ba-p/309849)
