@@ -9,9 +9,9 @@ duration: 2373
 last-substantial-update: 2024-01-22T00:00:00Z
 jira: KT-14816
 thumbnail: 3426914.jpeg
-source-git-commit: 76114d714811f932ee6a30a4f0da77fedc9e136c
+source-git-commit: c2801af2ad596fca76eb920a4fce06811124f359
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---
@@ -34,8 +34,8 @@ In dit webinar leert u:
 ## Middelen die in webinar worden gedeeld
 
 * Communautaire Webinar Thread - [Discussie](https://nation.marketo.com/t5/product-discussions/learn-from-your-peers-webinar-person-scoring-mastery-with/m-p/343084#M194864){target="_blank"}
-* Scorebord persoon/leider met lokale oefeningen van de Invloed: [Werkblad](../../assets/marketo/build-scoring-model-and-local-flexibility-scoring-worksheet.docx){target="_blank"}
-* The Big List of Lead Scoring Rules - [Werkblad](https://go.marketo.com/rs/561-HYG-937/images/Marketo-Lead-Scoring.pdf){target="_blank"}
+* Scorepersoon/leider met lokale invloedsoefeningen - [Werkblad downloaden](../../assets/marketo/build-scoring-model-and-local-flexibility-scoring-worksheet.docx){target="_blank"}
+* The Big List of Lead Scoring Rules - [Werkblad weergeven](https://go.marketo.com/rs/561-HYG-937/images/Marketo-Lead-Scoring.pdf){target="_blank"}
 * Importbibliotheek voor programma Marketo Engage - [Documentatie](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.html){target="_blank"}
 * Lood het Scoren alles om over het proces vóór, tijdens, en na te kennen - [Webinar op aanvraag](https://business.adobe.com/summit/2020/all-about-the-before-during-and-after-of-lead-scoring.html){target="_blank"}
 * Aanpak van Champion bij de decor - [Blog](https://nation.marketo.com/t5/product-blogs/marketo-success-series-lead-scoring/ba-p/309849){target="_blank"}
