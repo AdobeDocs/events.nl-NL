@@ -9,10 +9,11 @@ level: Experienced
 kt: 9146
 type: Event
 exl-id: 23cc8860-c1e3-4e9a-96ff-8d3c39de749e
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 1582
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '152'
-ht-degree: 14%
+source-wordcount: '137'
+ht-degree: 5%
 
 ---
 
@@ -25,6 +26,6 @@ In deze zitting zullen wij u aan Destination SDK introduceren - een nieuwe eigen
 
 ## Aanvullende bronnen
 
-- [Documentatie voor Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html)
-- [Overzicht van Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html)
-- [Adobe Experience Platform-tutorials](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=nl)
+- [Adobe Experience Platform-documentatie](https://experienceleague.adobe.com/docs/experience-platform.html)
+- [Adobe Experience Platform - Overzicht](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html)
+- [Tutorials voor Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=nl)

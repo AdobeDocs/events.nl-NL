@@ -1,14 +1,14 @@
 ---
 title: Solderen als eiken-index voor AEM
 description: AEM de volledige mogelijkheden van het tekstonderzoek worden gediend door de indexen van de Luik door gebrek. AEM kunnen indexering en zoekopdracht echter ook naar Solr-servers/clusters verschuiven via Eak Solr-indexen. In deze Gem-sessie duiken we in een aantal praktische realistische scenario's waarin het gebruik van Solr als eiken-index voor AEM zinvol is in termen van prestaties en indexering/zoekfuncties.
-uuid: 97e4ee67-f218-4ff9-9d9a-452963ba6deb
 topic-tags: analytics
 discoiquuid: 84a24cd3-1420-48e0-ae7a-dfa4a68ce657
 targetaudience: target-audience advanced
 exl-id: 638aab84-a8eb-411d-89de-856558492831
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3474
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '156'
 ht-degree: 0%
 
 ---

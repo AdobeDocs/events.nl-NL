@@ -8,10 +8,11 @@ level: Experienced
 kt: 9214
 type: Event
 exl-id: 3b8d4aa4-5b2b-43b2-8cb4-3b01e2fb6e74
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 1829
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '202'
-ht-degree: 10%
+source-wordcount: '185'
+ht-degree: 3%
 
 ---
 
@@ -25,6 +26,6 @@ Doorgaan met gesprek in **[Experience League Gemeenschappen](https://adobe.ly/3A
 
 ## Aanvullende bronnen
 
-- [Documentatie voor Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html)
-- [Overzicht van Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html)
-- [Adobe Experience Platform-tutorials](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=nl)
+- [Adobe Experience Platform-documentatie](https://experienceleague.adobe.com/docs/experience-platform.html)
+- [Adobe Experience Platform - Overzicht](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html)
+- [Tutorials voor Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=nl)

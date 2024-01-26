@@ -1,14 +1,14 @@
 ---
 title: Adobe Analytics implementeren op een lokale AEM met Dynamic Tag Management Cloud Service
 description: AEM 6 wordt geleverd met een cloudservice voor Dynamic Tag Management (DTM), de aanbevolen manier van de Adobe om Adobe Analytics (en andere oplossingen van de Marketing Cloud) op een website te implementeren. Leer hoe u zelfs een lokale AEM verbinding maakt met de DTM-service en de gewenste gebruiksgegevens naar Adobe Analytics verzendt.
-uuid: 0af8b03b-18dc-4701-93c6-65acdc85b6a2
 topic-tags: Dynamictagmanagement
 discoiquuid: a91aeec3-337f-4cfd-850d-6ece0041e550
 targetaudience: target-audience advanced
 exl-id: 94f6fe0f-b6cd-4484-bd1d-92fa31be4e17
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 2846
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '179'
 ht-degree: 0%
 
 ---

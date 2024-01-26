@@ -13,16 +13,17 @@ version: Cloud Service
 type: Event
 kt: 7342
 exl-id: 8b9bd020-f584-41a5-9cef-6aefdec4907b
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3674
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '168'
 ht-degree: 1%
 
 ---
 
 # Asset Link - Adobe Experience Manager Asset Series
 
-Met deze webinarreeks van vijf delen kunt u uw kennisbasis opbouwen en uw investering in Adobe Experience Manager Assets maximaliseren. Als je een arts bent die nieuw is voor Adobe Experience Manager Assets of al een tijdje Adobe Experience Manager Assets gebruikt en die je bestaande vaardigheden wil verbeteren, is dit de ideale manier om een diepe duik te krijgen in vijf van de belangrijkste gebieden van de oplossing. Deskundigen van de Adobe zullen de grondbeginselen evalueren en ook geavanceerde inzichten bieden die u de mogelijkheid bieden om onmiddellijk actie te ondernemen.
+Gebruik deze webinarreeks van vijf delen om uw kennisbasis te bouwen en uw investering in Adobe Experience Manager Assets te maximaliseren. Als je een arts bent die nieuw is voor Adobe Experience Manager Assets of die al een tijdje Adobe Experience Manager Assets gebruikt en die je bestaande vaardigheden wil verbeteren, is dit de ideale manier om een diepe duik te krijgen in vijf van de belangrijkste gebieden van de oplossing. Deskundigen van de Adobe zullen de grondbeginselen evalueren en ook geavanceerde inzichten bieden die u de mogelijkheid bieden om onmiddellijk actie te ondernemen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332127/?quality=12&learn=on&hidetitle=true)
 

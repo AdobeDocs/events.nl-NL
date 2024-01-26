@@ -2,10 +2,11 @@
 title: Overzicht van Skill Builder
 description: Verpersoonlijking in real time op om het even welk kanaal gebruikend online en off-line gegevensinzichten over uw volledige organisatie.
 exl-id: 8fd59178-ed35-4781-9bca-6438ba80d44d
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 54
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '214'
-ht-degree: 0%
+source-wordcount: '179'
+ht-degree: 1%
 
 ---
 

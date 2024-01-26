@@ -10,10 +10,11 @@ version: Cloud Service
 kt: 9134
 type: Event
 exl-id: a38f67cd-3eb5-4590-a9be-484d0074508f
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 2359
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '188'
-ht-degree: 11%
+source-wordcount: '173'
+ht-degree: 4%
 
 ---
 
@@ -25,6 +26,6 @@ Heb u ooit de geheimen en de details achter de Laag van de Gegevens van de Clië
 
 ## Aanvullende bronnen
 
-- [Documentatie voor Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html)
-- [Overzicht van Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html)
-- [Adobe Experience Platform-tutorials](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=nl)
+- [Adobe Experience Platform-documentatie](https://experienceleague.adobe.com/docs/experience-platform.html)
+- [Adobe Experience Platform - Overzicht](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html)
+- [Tutorials voor Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=nl)

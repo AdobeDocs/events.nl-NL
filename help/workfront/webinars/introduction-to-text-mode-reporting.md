@@ -1,12 +1,12 @@
 ---
 title: Vraag de expert - Inleiding aan de Rapportering van de Wijze van de Tekst
 description: In de tekstmodus kunt u de rapportmogelijkheden uitbreiden om complexere weergaven, filters, groepen en aanwijzingen te maken. Dit webinar werd geregistreerd op 15 juli 2020.
-activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 9919
 exl-id: 9199bf64-c019-4ffd-9e12-50d4f6ced4a1
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3671
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%

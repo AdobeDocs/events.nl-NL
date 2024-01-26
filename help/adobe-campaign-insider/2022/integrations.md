@@ -6,7 +6,8 @@ solution: Campaign
 kt: 10508
 thumbnail: 343525.jpeg
 exl-id: 5a8473ac-01e6-42e4-95c6-2825378b7a1c
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3717
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 0%

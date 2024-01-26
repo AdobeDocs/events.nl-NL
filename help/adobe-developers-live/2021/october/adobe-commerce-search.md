@@ -8,10 +8,11 @@ level: Experienced
 kt: 9147
 type: Event
 exl-id: bb6aec83-0d5e-4890-b43f-2a9ff3497e24
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 1464
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '160'
-ht-degree: 13%
+source-wordcount: '145'
+ht-degree: 4%
 
 ---
 
@@ -23,6 +24,6 @@ Een van de meest cruciale stukken van elke e-commercesite is de mogelijkheid om 
 
 ## Aanvullende bronnen
 
-- [Documentatie voor Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html)
-- [Overzicht van Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html)
-- [Adobe Experience Platform-tutorials](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=nl)
+- [Adobe Experience Platform-documentatie](https://experienceleague.adobe.com/docs/experience-platform.html)
+- [Adobe Experience Platform - Overzicht](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html)
+- [Tutorials voor Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=nl)

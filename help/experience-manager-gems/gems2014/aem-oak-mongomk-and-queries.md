@@ -1,13 +1,13 @@
 ---
 title: AEM 6 eikenhout - MongoMK en query's
 description: Leer over de vraagmotor van Eak en hoe het met Jasje 2.x vergelijkt. De zitting biedt wijzers op hoe te om vraagprestaties te analyseren en douaneindexen te beheren. In het tweede deel hebben we het over MongoMK, waarbij de nadruk ligt op de consistentiegaranties die worden geboden door de nieuwe clusterimplementatie in AEM.
-uuid: 110e7e51-6e0c-4eae-9bc3-063e16b0ec92
 discoiquuid: 51d59018-e137-4370-8530-9c38dca34343
 targetaudience: target-audience advanced
 exl-id: dea6d73e-0659-4b9a-b338-ee5eac0bc342
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3968
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---

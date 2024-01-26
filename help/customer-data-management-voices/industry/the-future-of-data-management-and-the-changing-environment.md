@@ -10,9 +10,10 @@ thumbnail: 332077.jpg
 kt: 7333
 type: Event
 exl-id: 9562892a-e6f4-45b5-a8e7-8aa162e8899d
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3494
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '137'
 ht-degree: 0%
 
 ---

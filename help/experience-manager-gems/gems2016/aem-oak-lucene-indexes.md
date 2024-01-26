@@ -1,13 +1,13 @@
 ---
 title: Eak Lucene-indexen
 description: Wij beschrijven de eigenschappen van de indexen van Luik en hoe zij kunnen worden gebruikt om uw vragen te krijgen presteren beter. In het tweede deel zullen we het hebben over hoe asynchrone indexering in het algemeen werkt en hoe het kan worden gecontroleerd.
-uuid: 7664c6b2-3f09-4de4-9ade-b934465ac829
 discoiquuid: f69d9c38-a316-4409-94b3-5ff576034bf3
 targetaudience: target-audience advanced
 exl-id: ed0e32b3-44bc-4e45-a80e-f9cfd0688e80
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3517
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '177'
 ht-degree: 0%
 
 ---

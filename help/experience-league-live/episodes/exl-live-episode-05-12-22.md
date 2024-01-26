@@ -6,14 +6,14 @@ kt: 10407
 thumbnail: https://video.tv.adobe.com/v/342810?format=jpeg
 feature: Push
 role: Developer
-event-cta-url: null
 event-start-time: 2022-05-12 09:30-7
 event-guests: Sandra Hausmann,Archana Chaudhary,Don Huynh
 exl-id: 3e813ced-154d-4ec6-b7a3-6800b814f123
-source-git-commit: 4e01ba2160701014f042ffc774e65ae291855dfd
+duration: 2963
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '173'
-ht-degree: 6%
+source-wordcount: '164'
+ht-degree: 0%
 
 ---
 
@@ -27,4 +27,4 @@ Met pushberichten bereikt u op elk gewenst moment gebruikers van uw mobiele app,
 
 [Download de Android AEPSampleAPP](https://github.com/adobe/aepsdk-sample-app-android)
 
-Ga naar de [Communautaire post Experience League](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-push/td-p/451869).
+Als u het gesprek over deze sessie wilt voortzetten, gaat u naar de [Communautaire post Experience League](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-push/td-p/451869).

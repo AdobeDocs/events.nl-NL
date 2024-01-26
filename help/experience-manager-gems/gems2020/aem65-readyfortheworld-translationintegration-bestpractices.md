@@ -1,13 +1,13 @@
 ---
 title: AEM 6.5 klaar voor de wereld - integratie van vertalingen en beste praktijken
 description: Leer over de huidige AEM vertaalmogelijkheden en beste praktijken voor het beheren van meertalige websites. Leer hoe u algemene websites kunt structureren, taalkopieën, live kopieën en MSM kunt gebruiken. Met geavanceerde functies kunt u content eenvoudiger, sneller en beheerbaarder vertalen.
-uuid: 50db5f3d-2bd0-4366-8c26-b11c4aa6a23c
 discoiquuid: 0c24228b-b674-47a7-9892-45bb26684ad1
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
 exl-id: 3d12fd42-8b35-4c6d-b1ab-2a0c38f3ca12
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3482
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---

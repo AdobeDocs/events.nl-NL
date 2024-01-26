@@ -1,13 +1,13 @@
 ---
 title: Diep duik op implementatiedetails van opslag, modules en segmenten in ContextHub
 description: Deze zittingen van Gems wordt gewijd aan een dichtere blik op implementatiedetails van opslag ContextHub van verschillende types, gebruikend verschillende persistentielagen. De modules van de douane implementatie (zowel via code en configuratie die renderer van de basismodule gebruiken), evenals hoe te modules in afzonderlijke wijzen te organiseren ContextHub. Tot slot zullen wij zien hoe de het segmentkenmerken van ContextHub werken, hoe te om douanevergelijker uit te voeren en hoe te om segmenten programmatically te concretiseren.
-uuid: 5e8f86e2-269e-4fb8-b899-5be7ef2c977a
 discoiquuid: 77331d10-2e87-4cc8-8557-23e983d98a72
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
 exl-id: c56b8724-a97e-4671-a1ad-0a87a9260ed6
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3199
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '199'
+source-wordcount: '185'
 ht-degree: 0%
 
 ---

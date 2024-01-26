@@ -10,10 +10,11 @@ version: Cloud Service
 kt: 9183
 type: Event
 exl-id: 736baf52-d3e5-43f2-b240-d8c8aa6cdfe7
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 1877
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '215'
-ht-degree: 4%
+source-wordcount: '205'
+ht-degree: 0%
 
 ---
 
@@ -27,6 +28,6 @@ Doorgaan met gesprek in **[Experience League Gemeenschappen](https://adobe.ly/2Y
 
 ## Aanvullende bronnen
 
-- [Documentatie voor Adobe Experience Manager ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
+- [Adobe Experience Manager-documentatie](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
 - [Overzicht Adobe Experience Manager Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html)
-- [Tutorials voor Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html)
+- [Adobe Experience Manager Tutorials](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html)

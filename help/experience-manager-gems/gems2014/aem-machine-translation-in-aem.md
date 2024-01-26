@@ -1,13 +1,13 @@
 ---
 title: Machine transleren in AEM
 description: Leer hoe AEM en Microsoft Translator automatische vertaling leveren, zodat u uw inhoud langer kunt gebruiken, de markt langer kunt maken voor inhoud, de kosten kunt optimaliseren en de ontdekkingsmogelijkheden van gebruikers kunt vergroten via de optimalisatie van zoekprogramma's, wat resulteert in een beter gebruik van bronnen en een verhoogd rendement op investeringen.
-uuid: c25c9806-560c-46ef-b9c0-ffe0af296ed9
 discoiquuid: c976c008-4f51-4146-8c34-265e9707be6a
 targetaudience: target-audience advanced
 exl-id: e4f4d4ec-f702-4958-913e-fb3d34421855
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3062
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '210'
+source-wordcount: '211'
 ht-degree: 0%
 
 ---

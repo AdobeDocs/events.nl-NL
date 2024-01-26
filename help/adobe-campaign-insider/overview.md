@@ -2,7 +2,8 @@
 title: Adobe [!DNL Campaign] Insider-reeks
 description: Tips en trucs en inspiratie voor Adobe [!DNL Campaign] klanten helpen kanaalmarketingstrategieën te ontwikkelen, vaardigheden van teammarketingspecialisten te verhogen en organisaties te helpen meer geavanceerde marketingstrategieën voor meerdere kanalen te ontwikkelen.
 exl-id: 414b8d81-ff05-47ed-b572-fb655d3dd231
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 36
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 0%

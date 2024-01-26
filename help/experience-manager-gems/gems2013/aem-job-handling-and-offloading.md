@@ -1,14 +1,14 @@
 ---
 title: Inleiding tot het afhandelen en ontladen van taken in AEM 5.6.1.
 description: Bekijk een technische introductie van de geavanceerde functies voor het afhandelen van taken. De behandeling van de baan is de onderliggende infrastructuur voor eigenschappen zoals replicatie en werkschemaverwerking. Ontdek de detectiemodule samen met de verbeterde API voor taakverwerking en nieuwe functies.
-uuid: 181e3781-8eca-4a5d-879e-15ae4e1f6649
 discoiquuid: ee4cd526-7363-4b8e-ad26-c2c937b70327
 targetaudience: target-audience advanced
 exl-id: bd10465b-6f45-4117-b8a0-1310422f5825
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3750
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '207'
-ht-degree: 2%
+source-wordcount: '198'
+ht-degree: 0%
 
 ---
 

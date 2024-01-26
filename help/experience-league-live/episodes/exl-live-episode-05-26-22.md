@@ -4,20 +4,20 @@ description: Meer informatie over de SDK van het Web. Wij zullen u alle grondbeg
 solution: Data Collection,Experience Platform
 kt: 10412
 thumbnail: https://video.tv.adobe.com/v/343335?format=jpeg
-event-cta-url: null
 event-start-time: 2022-05-26 09:00-7
 event-guests: Doug Moore, Eric Matisoff, Rudi Shumpert, Jeff Chasin
 exl-id: b2ea730b-d4ad-4be0-b229-7063369cba7f
-source-git-commit: 3d2289642f4164bf82dc1c8a42c5798e9183188b
+duration: 3863
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '252'
-ht-degree: 1%
+source-wordcount: '208'
+ht-degree: 0%
 
 ---
 
-# Vraag het de experts: De grondbeginselen van Web SDK
+# Vraag het de experts: De basisbeginselen van Web SDK
 
-In dit eerste van drie livestreamzittingen betreffende gegevensinzameling voor Adobe Experience Cloud, vind over de &quot;toekomst is nu&quot;van de gegevensinzameling van het Web met het Web SDK. Wij zullen u alle grondbeginselen van SDK van het Web tonen, met inbegrip van het redeneren achter het, hoe het werkt, en belangrijke gebruiksgevallen die het macht geeft. We zullen de experts bij ons hebben die het binnen en buiten kennen, zodat we vragen kunnen beantwoorden en best practices kunnen tonen.
+In dit eerste van drie livestreamzittingen betreffende gegevensinzameling voor Adobe Experience Cloud, kom over de &quot;toekomst is nu&quot;van de gegevensinzameling van het Web met het Web SDK te weten. Wij zullen u alle grondbeginselen van SDK van het Web tonen, met inbegrip van het redeneren achter het, hoe het werkt, en belangrijke gebruiksgevallen die het macht geeft. We zullen de experts bij ons hebben die het binnen en buiten kennen, zodat we vragen kunnen beantwoorden en best practices kunnen tonen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/343335/?quality=12&learn=on)
 
@@ -32,8 +32,8 @@ In dit eerste van drie livestreamzittingen betreffende gegevensinzameling voor A
 
 * [Zelfstudie: Adobe Experience Cloud implementeren met Web SDK](https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html){target="_blank"}
 * [Automatisch verzamelde informatie in Web SDK](https://experienceleague.adobe.com/docs/experience-platform/edge/data-collection/automatic-information.html?lang=en){target="_blank"}
-* [Gratis Web SDK-provisioning](https://adobe.ly/websdkaccess){target="_blank"}
+* [Free Web SDK-provisioning](https://adobe.ly/websdkaccess){target="_blank"}
 * [Informatie over apparaat-id&#39;s van eerste partij in de SDK van het web](https://experienceleague.adobe.com/docs/experience-platform/edge/identity/first-party-device-ids.html){target="_blank"}
-* [Overzicht en download van Adobe Experience Platform Debugger](https://experienceleague.adobe.com/docs/platform-learn/data-collection/debugger/overview.html?lang=en){target="_blank"}
+* [Overzicht en download van Adobe Experience Platforms Debugger](https://experienceleague.adobe.com/docs/platform-learn/data-collection/debugger/overview.html?lang=en){target="_blank"}
 * [Mobiele SDK-documenten](https://developer.adobe.com/client-sdks/documentation/){target="_blank"}
 * [Informatie over hybride toepassingsverzameling](https://experienceleague.adobe.com/docs/mobile-services/ios/sdk-reference-ios/hybrid-app.html){target="_blank"}

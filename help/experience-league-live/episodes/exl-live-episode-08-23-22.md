@@ -1,23 +1,23 @@
 ---
 title: Vraag de experts - Nuttige extensies in tags (Launch) om extra kosten in rekening te brengen voor de Web SDK
-description: Overweegt u het migreren van uw implementatie aan de nieuwe SDK van het Web van Adobe?  Wij zullen door sommige van onze favoriete uitbreidingen in de bibliotheek van de Markeringen van de Adobe lopen die u zult helpen aangezien u uw gegevensinzameling aan het volgende niveau neemt.
+description: Overweegt u het migreren van uw implementatie aan de nieuwe SDK van het Web van de Adobe?  Wij zullen door sommige van onze favoriete uitbreidingen in de bibliotheek van de Markeringen van de Adobe lopen die u zult helpen aangezien u uw gegevensinzameling aan het volgende niveau neemt.
 solution: Data Collection,Experience Platform
 kt: 10528
 thumbnail: https://video.tv.adobe.com/v/346610?format=jpeg
 event-start-time: 2022-08-23 09:00-7
-event-cta-url: null
 event-guests: Rudi Shumpert,Jeff Chasin,Eric Matisoff
 exl-id: 5ef987f4-37f5-473f-b9f2-1598b7e655ba
-source-git-commit: 3d2289642f4164bf82dc1c8a42c5798e9183188b
+duration: 3833
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '678'
+source-wordcount: '675'
 ht-degree: 0%
 
 ---
 
-# Vraag het de experts: Nuttige extensies in tags (Launch) om de SDK van het web te helpen opladen
+# Vraag het de deskundigen: Nuttige uitbreidingen in Markeringen (Lancering) helpen superladen de SDK van het Web
 
-Overweegt u het migreren van uw implementatie aan de nieuwe SDK van het Web van Adobe?  Wij zullen door sommige van onze favoriete uitbreidingen in de bibliotheek van de Markeringen van de Adobe lopen die u zult helpen aangezien u uw gegevensinzameling aan het volgende niveau neemt.
+Overweegt u het migreren van uw implementatie aan de nieuwe SDK van het Web van de Adobe?  Wij zullen door sommige van onze favoriete uitbreidingen in de bibliotheek van de Markeringen van de Adobe lopen die u zult helpen aangezien u uw gegevensinzameling aan het volgende niveau neemt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/346610/?quality=12&learn=on)
 
@@ -34,45 +34,45 @@ Overweegt u het migreren van uw implementatie aan de nieuwe SDK van het Web van 
 
 **Vraag:** Wordt hiermee ook Adobe ECID vastgelegd?
 
-**Antwoord:** De Adobe ECID wordt niet vastgelegd binnen die extensie. Deze extensie is bedoeld voor het maken van aanvullende, anonieme id&#39;s (onder andere).
+**Antwoord:** De Adobe-ECID wordt niet vastgelegd binnen die extensie. Deze extensie is bedoeld voor het maken van aanvullende, anonieme id&#39;s (onder andere).
 
-**Antwoord:** De Adobe ECID kan echter op andere manieren worden vastgelegd. We delen dat via de ExL-notities en Twitter, omdat we hier geen links in de chat kunnen delen.
+**Antwoord:** De Adobe-ECID kan echter op andere manieren worden vastgelegd. We delen dat via de exL-notities en -Twitter, omdat we hier geen links in de chat kunnen delen.
 
-<br> 
+<br>:
 
 **Vraag:** De hash-functionaliteit biedt verschillende hashingtechnieken, zoals SHA-256, en biedt openbare en persoonlijke sleutels?
 
 **Antwoord:** Ja! SHA-256 is de standaardwaarde
 
-<br> 
+<br>:
 
 ### Algemene vragen en opmerkingen:
 
-<br> 
+<br>:
 
 **Vraag:** Waar klikken we om de bronbestanden voor extensies te downloaden? Is dat in het menu met drie punten?
 
 **Antwoord:** Ja! De drie punten en vervolgens de bron downloaden (vanuit de catalogusweergave)
 
-<br> 
+<br>:
 
-**Opmerking:** Een van de dingen die ik echt met extensies vind, is het tijdbesparende aspect ervan. Veel van hen doen dingen die je doet *kon* doe met sommige douanecode maar met een uitbreiding u te hoeven niet om die code te schrijven.
+**Opmerking:** Een van de dingen die ik echt met extensies beschouw, is het tijdbesparende aspect ervan. Veel van hen doen dingen die je doet *kon* doe met sommige douanecode maar met een uitbreiding u te hoeven niet om die code te schrijven.
 
-**Reageren:** Rechts. Het is herhaalbaar zonder dat het wiel telkens opnieuw moet worden gemaakt.
+**Antwoord:** Rechts. Het is herhaalbaar zonder dat het wiel telkens opnieuw moet worden gemaakt.
 
-<br> 
+<br>:
 
 **Vraag:** Hoe zullen de analytische stop-ins met de implementaties van SDK van het Web worden gesteund of worden vervangen?
 
 **Antwoord:** Veel analytische plug-ins zijn tegenwoordig eigenlijk overbodig dankzij de extra flexibiliteit van Workspace en Adobe Tags. Nochtans, die niet zijn, actief voor gebruik door het Web SDK gemigreerd.
 
-<br> 
+<br>:
 
 **Vraag:** Om het even welke ontwikkeling op het volgen van de kaart van de Activiteit gebruikend Web SDK?
 
 **Antwoord:** Ik ben blij om te melden dat de Activity Map actief aan voor steun in Web SDK wordt gewerkt
 
-<br> 
+<br>:
 
 **Vraag:** Zouden wij toegang tot het netwerk van Adobe Edge kunnen hebben om gebeurtenissen te beheren alvorens hen over te brengen naar de eindbestemmingen? Ik begrijp dat we het ook in Launch kunnen doen, maar zou het in de toekomst ook op de server kunnen?
 
@@ -82,19 +82,19 @@ Overweegt u het migreren van uw implementatie aan de nieuwe SDK van het Web van 
 
 **Antwoord:** Bekijk onze andere ExL Live-video&#39;s om er nog meer over te leren (zoals [deze](exl-live-episode-06-23-22.md)).
 
-<br> 
+<br>:
 
-**Opmerking:** Snelle oproep voor een van mijn favoriete extensies: Er is een uitbreiding van de toewijzingstabel waar u een lijst voor een gegevenselement kunt lezen dat &quot;als deze waarde dit is dan het plaatsen zoals dat.&quot;is
+**Opmerking:** Snelle vraag uit voor één van mijn favoriete uitbreidingen: Er is een uitbreiding van de toewijzingstabel waar u een lijst voor een gegevenselement kunt lezen dat &quot;als deze waarde dan dit is plaats het zoals dat.&quot;
 
-**Reageren:** De flexibiliteit die zij bieden is zeer indrukwekkend. Bedrijven kunnen desgewenst ook hun eigen particuliere extensies maken.
+**Antwoord:** De flexibiliteit die zij bieden is zeer indrukwekkend. Bedrijven kunnen desgewenst ook hun eigen particuliere extensies maken.
 
-<br> 
+<br>:
 
 **Vraag:** Je liet de individuele gegevens van CRM zien zoals stad en weer, dus waar slaan we de individuele respons op?
 
 **Antwoord:** Reacties worden opgeslagen in elke unieke gebeurtenis die een regel binnen een eigenschap van het doorsturen van gebeurtenissen activeert, en worden alleen in die specifieke gebeurtenis gebruikt.
 
-<br> 
+<br>:
 
 De discussie over dit onderwerp voortzetten in het [Communautaire discussie over Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-useful-extensions/m-p/542620#M240).
 <br> 

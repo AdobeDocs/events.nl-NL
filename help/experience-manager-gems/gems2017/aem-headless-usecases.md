@@ -1,13 +1,13 @@
 ---
 title: AEM Fluid Ervaring voor toepassingen zonder kop
 description: Leer meer over vloeiende ervaringen en de toepassing ervan bij het beheren van inhoud en ervaringen voor CMS-scenario's zonder kop of hoofd. Leer over zeer belangrijke AEM 6.3 recentste mogelijkheden die kanaal agnostic Ervaring beheer gebruiksgevallen, en meer toelaten.
-uuid: b7ee2de4-385a-486f-80e4-741e3965ed28
 discoiquuid: 0a81aa6a-94f6-4e38-98fb-c48809899a24
 targetaudience: target-audience advanced
 exl-id: 5ab507d1-5099-4eb4-af2a-7bc312f115af
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3149
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '193'
 ht-degree: 0%
 
 ---

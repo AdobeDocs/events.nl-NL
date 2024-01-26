@@ -1,13 +1,13 @@
 ---
 title: AEM sustenance - Aanbevolen werkwijzen voor de implementatie AEM onderhoudsreleases
 description: Meld u aan bij ons om de beste praktijken te kennen voor de implementatie van AEM onderhoudsreleases, d.w.z. servicepakketten en cumulatieve herstelpakketten. Wij zullen ook de gemeenschappelijke uitdagingen bij het opstellen van hen behandelen en verbeteringen tonen die in pakketmanager worden gedaan. In deze sessie leert u de beste praktijken, validaties en bewakingstips voor implementaties van onderhoudsreleases.
-uuid: ff4d7884-c3df-44a9-9863-78a79fa58fad
 discoiquuid: 9020b761-503f-4e4a-9d4f-eb615919d716
 targetaudience: target-audience advanced
 exl-id: 02ac66bc-46d4-4384-a719-23020b9285f9
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 2534
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '150'
 ht-degree: 0%
 
 ---

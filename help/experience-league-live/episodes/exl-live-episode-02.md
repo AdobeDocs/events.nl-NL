@@ -1,16 +1,16 @@
 ---
 title: Experience League LIVE, Episode 2 - maak uw volgende segment van de Publiek slimmer dan ooit
-description: Het succes van elke goede marketingcampagne hangt af van het feit dat u zich juist op uw doelgroep richt. Met de nieuwe Adobe Experience Platform Segment Builder kunt u uw volgende publiekssegment maken met behulp van profielgegevens en op tijd gebaseerd gebruikersgedrag over kanalen. Er is geen betere manier om ervoor te zorgen dat uw berichten de mensen bereiken die hen het meest moeten horen. Doe mee voor een discussie met drie Adobe-experts die u deze technologie hebben helpen aanbieden. Wij zullen u efficiënte manieren tonen om zowel eenvoudige als complexe segmenten tot stand te brengen.
+description: Het succes van elke goede marketingcampagne hangt af van het feit dat u zich juist op uw doelgroep richt. Met de nieuwe Adobe Experience Platform Segment Builder kunt u uw volgende publiekssegment maken met behulp van profielgegevens en op tijd gebaseerd gebruikersgedrag over kanalen. Er is geen betere manier om ervoor te zorgen dat uw berichten de mensen bereiken die hen het meest moeten horen. Doe mee aan een discussie met drie experts van de Adobe die u helpen deze technologie aan te bieden. Wij zullen u efficiënte manieren tonen om zowel eenvoudige als complexe segmenten tot stand te brengen.
 solution: Experience Platform
 kt: 8581
 thumbnail: https://video.tv.adobe.com/v/336422?format=jpeg
-event-cta-url: null
 event-start-time: 2021-08-26 09:00-7
 event-guests: Aaron Shields,Yaya Wang,Andres Monroy
 exl-id: b44e406b-eb82-4026-bf88-377c626e1056
-source-git-commit: 3d2289642f4164bf82dc1c8a42c5798e9183188b
+duration: 3504
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '215'
+source-wordcount: '210'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 Het succes van elke goede marketingcampagne hangt af van het feit dat u zich juist op uw doelgroep richt. Met de nieuwe Adobe Experience Platform Segment Builder kunt u uw volgende publiekssegment maken met behulp van profielgegevens en op tijd gebaseerd gebruikersgedrag over kanalen. Er is geen betere manier om ervoor te zorgen dat uw berichten de mensen bereiken die hen het meest moeten horen.
 
-Doe mee voor een discussie met drie Adobe-experts die u deze technologie hebben helpen aanbieden. Wij zullen u efficiënte manieren tonen om zowel eenvoudige als complexe segmenten tot stand te brengen.
+Doe mee aan een discussie met drie experts van de Adobe die u helpen deze technologie aan te bieden. Wij zullen u efficiënte manieren tonen om zowel eenvoudige als complexe segmenten tot stand te brengen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/336422/?quality=12&learn=on)
 

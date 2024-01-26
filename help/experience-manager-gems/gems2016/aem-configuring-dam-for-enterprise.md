@@ -1,14 +1,14 @@
 ---
 title: DAM voor bedrijven configureren
 description: Deze sessie is bedoeld om gebruikers te helpen succes te verbeteren door AEM Assets te gebruiken. Arnold Espos zal zich concentreren op de gebruiksgevallen van echte DAM Enterprise-klanten, hun uitdagingen en de oplossingen die zijn ontwikkeld om hen te ondersteunen om het succes dat zij met DAM zien te vergroten.   Deelnemers zullen beter begrijpen hoe ze DAM in hun omgeving kunnen gebruiken. Door casestudy's van echte klanten te bekijken, kunnen deelnemers die met bestaande DAM-klanten samenwerken de nieuwe oplossingen begrijpen die via dit aanbod worden aangeboden, wat hun bestaande workflows en het begrip van de technologie kan helpen.
-uuid: de15b14d-4316-4c7e-b9b4-55287b47171e
 dms: dam
 discoiquuid: 7a41c23a-1b45-43f4-8b41-13d206ce6e87
 targetaudience: target-audience advanced
 exl-id: 6c87ff99-3c15-4e15-a0b5-d9f72ff641c5
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3576
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '288'
 ht-degree: 0%
 
 ---

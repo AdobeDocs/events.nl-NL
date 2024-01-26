@@ -3,10 +3,11 @@ title: Overzicht van Adobe Experience Manager as a Cloud Service-release
 description: Bekijk een kort overzicht van de nieuwste functies op Adobe Experience Manager as a Cloud Service
 user-guide-breadcrumb: AEM Release Events
 exl-id: 5406adc9-173b-461b-bd91-59913d961aa0
-source-git-commit: 8f7f3497e95dbaa2693c2271038e9f187c2163ae
+duration: 91
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '223'
-ht-degree: 8%
+source-wordcount: '205'
+ht-degree: 9%
 
 ---
 
@@ -24,7 +25,7 @@ Bekijk een kort overzicht van de nieuwste functies op Adobe Experience Manager a
       </a>
       <div>
         <a href="2023/2023-11-0.md">
-          <strong>Geen | 2023.11.0</strong>
+          <strong>Geen | 2023 11,0</strong>
           <br/>
         </a>
           <em>Releasedatum november 2023 </em>
@@ -46,7 +47,7 @@ Bekijk een kort overzicht van de nieuwste functies op Adobe Experience Manager a
       </a>
       <div>
         <a href="2023/2023-10-0.md">
-          <strong>Geen | 2023,10,0</strong>
+          <strong>Geen | 2023 10,0</strong>
           <br/>
         </a>
           <em>Releasedatum oktober 2023 </em>
@@ -170,7 +171,7 @@ Bekijk een kort overzicht van de nieuwste functies op Adobe Experience Manager a
       </a>
       <div>
         <a href="2022/2022-10-0.md">
-          <strong>Geen | 2022,10,0</strong>
+          <strong>Geen | 2022 10,0</strong>
           <br/>
         </a>
           <em>Releasedatum 13 oktober 2022 </em>

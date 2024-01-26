@@ -1,13 +1,13 @@
 ---
 title: Adobe Experience Platform - Het hart van Experience Cloud
 description: Alles begint met de Adobe Experience Platform. Ontdek hoe het platform een rol in de ervaringszaken speelt, die u helpen, klanten identificeren begrijpen en in dienst nemen en verenigbare, ononderbroken, en dwingende ervaringen leveren die hen bij elke slag verheugen.
-uuid: 502196b9-9cfb-4652-83a4-9156434370a1
 discoiquuid: 6e050ad4-1b0c-46d0-b588-6402102f0263
 targetaudience: target-audience advanced
 exl-id: fcea7000-dbd2-47d3-af68-0a210901efa4
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 2975
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '215'
 ht-degree: 0%
 
 ---

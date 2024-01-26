@@ -2,7 +2,8 @@
 title: Commerciële inlichtingenwebinars
 description: Onderzoek de geregistreerde webinars van de Inlichtingendienst van de Handel, die een brede waaier van onderwerpen en beste praktijken voor het gebruiken van de Inlichtingen van de Handel aan zijn maximaal potentieel behandelen.
 exl-id: a1f2585f-5619-4f69-a7dc-75bc90aa3cd5
-source-git-commit: 5be00538f31610434e2853d4c94fb0611726e709
+duration: 77
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '265'
 ht-degree: 1%

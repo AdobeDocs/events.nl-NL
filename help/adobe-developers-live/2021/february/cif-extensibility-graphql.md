@@ -1,5 +1,5 @@
 ---
-title: Commerce Integration Framework Extensible via GraphQL
+title: Uitbreidbaarheid Commerce integration framework via GraphQL
 description: Meer informatie over het uitbreiden van de belangrijkste componenten van de Handel met GraphQL. Deze sessie is afgeleverd als onderdeel van de Adobe Developers Live Content-gebeurtenis.
 solution: Experience Manager,Experience Manager Sites
 product: experience manager
@@ -13,14 +13,15 @@ kt: 7187
 type: Event
 thumbnail: 331850.jpg
 exl-id: 15776683-621e-4be4-b4ef-b9c58a4eedf4
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 1249
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '59'
+source-wordcount: '56'
 ht-degree: 0%
 
 ---
 
-# Commerce Integration Framework Extensible via GraphQL
+# Uitbreidbaarheid Commerce integration framework via GraphQL
 
 Meer informatie over het uitbreiden van de belangrijkste componenten van de Handel met GraphQL.
 

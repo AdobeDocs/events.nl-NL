@@ -1,13 +1,13 @@
 ---
 title: AEM-kerncomponenten
 description: Leer alles over de Core Components en de bijbehorende functies, over hoe ze werken en hoe ze de game veranderen. Krijg om de strategieën te kennen die u toestaan om het aantal componenten te verminderen u moet creëren en handhaven door een orde van grootte.
-uuid: 8bfd82ac-b61d-4ff2-9251-3664456e6b41
 discoiquuid: b7e90b65-d6e9-49f5-b43c-3c47cf6aeae8
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
 exl-id: 097253e8-bfc7-4de3-8571-b6b012a27f89
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3592
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '121'
 ht-degree: 4%
 
 ---

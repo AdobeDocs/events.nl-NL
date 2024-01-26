@@ -2,10 +2,11 @@
 title: Skill Builder - Reizen van klanten
 description: Opgenomen webinarreeks om u te helpen klantenprofielen in real time ontwikkelen door gegevens uit alle bronnen te trekken om gepersonaliseerde, dwars-kanaalreizen tot stand te brengen.
 exl-id: a77be055-e53b-4062-9e02-ee589c0b0f4d
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 54
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '207'
-ht-degree: 1%
+source-wordcount: '167'
+ht-degree: 2%
 
 ---
 

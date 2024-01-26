@@ -1,14 +1,14 @@
 ---
 title: Adobe Developer (IO)-gebeurtenissen - Analytics Triggers
 description: Combineer de kracht van een gebeurtenisgestuurde architectuur en realtime herkenning van het gedrag van klanten - deze sessie bespreekt hoe u de kracht van Analytics Triggers kunt benutten via Adobe Developer (Adobe I/O) Events om te reageren op het gedrag van de klant en deze in bijna real-time opnieuw te richten.
-uuid: 69df8fcb-4713-42a9-a986-a4ad9d4e36c6
 topic-tags: analytics
 discoiquuid: 0982386a-a34c-4401-a6d5-7aeabe7eb50c
 targetaudience: target-audience advanced
 exl-id: 870620f5-60dd-43b0-86ed-b2bb82779531
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 2746
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '124'
 ht-degree: 0%
 
 ---

@@ -1,13 +1,13 @@
 ---
 title: Efficiënt herbruikbare componenten bouwen
 description: Leer waarom het voor de efficiency van uw team essentieel is om de Webontwikkelaars van de HTML toe te laten om volledig aan het AEM project worden geïntegreerd, en hoe dit mogelijk kan worden gemaakt. Leer ook over de nieuwe stichtingscomponenten, die met server-kant JavaScript en met HTML worden gebouwd, en hoe te om hen opnieuw te gebruiken en uit te breiden.
-uuid: 445d4ead-8055-4624-a618-edd67ee3ec2d
 discoiquuid: 8c411732-3462-4ea1-9bca-e3e1cd6ac3f0
 targetaudience: target-audience advanced
 exl-id: 6cffa7ca-4b83-4564-8674-51ec7d2d734c
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 5792
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '196'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---

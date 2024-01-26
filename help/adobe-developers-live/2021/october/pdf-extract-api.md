@@ -9,10 +9,11 @@ level: Experienced
 kt: 9211
 type: Event
 exl-id: 3dc868f6-5ef0-4451-af67-5c125822b75f
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 1780
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '192'
-ht-degree: 11%
+source-wordcount: '177'
+ht-degree: 3%
 
 ---
 
@@ -24,6 +25,6 @@ Een blik op hoe de dienst van het Uitpakken van de PDF in de Diensten API van Ad
 
 ## Aanvullende bronnen
 
-- [Documentatie voor Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html)
-- [Overzicht van Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html)
-- [Adobe Experience Platform-tutorials](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=nl)
+- [Adobe Experience Platform-documentatie](https://experienceleague.adobe.com/docs/experience-platform.html)
+- [Adobe Experience Platform - Overzicht](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html)
+- [Tutorials voor Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=nl)

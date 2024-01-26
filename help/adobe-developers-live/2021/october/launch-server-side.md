@@ -9,10 +9,11 @@ level: Experienced
 kt: 9148
 type: Event
 exl-id: 4d045381-3828-49c4-9982-32c97a566b78
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 1532
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '194'
-ht-degree: 11%
+source-wordcount: '181'
+ht-degree: 3%
 
 ---
 
@@ -24,6 +25,6 @@ In april 2021, gaf Evolytics de eerste derde authored uitbreiding voor de gebeur
 
 ## Aanvullende bronnen
 
-- [Documentatie voor Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html)
-- [Overzicht van Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html)
-- [Adobe Experience Platform-tutorials](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=nl)
+- [Adobe Experience Platform-documentatie](https://experienceleague.adobe.com/docs/experience-platform.html)
+- [Adobe Experience Platform - Overzicht](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html)
+- [Tutorials voor Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=nl)

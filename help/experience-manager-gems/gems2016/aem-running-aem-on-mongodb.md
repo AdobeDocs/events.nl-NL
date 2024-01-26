@@ -1,13 +1,13 @@
 ---
 title: AEM uitvoeren op MongoDB
 description: Dit AEM Gem zal in detail beschrijven hoe te om AEM op MongoDB in een productie het plaatsen in werking te stellen. We zullen de opties die MongoDB heeft voor implementatie presenteren, de aanbevolen implementatie benadrukken en de redenen voor deze aanbevelingen toelichten.
-uuid: 8ca5b7d0-b71e-481c-961c-c91ee987f374
 discoiquuid: 198f9f6e-4156-468a-88d7-6902f51dd6c1
 targetaudience: target-audience advanced
 exl-id: 1dc74724-9781-477b-a05b-e25ef9f5e15b
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3024
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '154'
 ht-degree: 0%
 
 ---

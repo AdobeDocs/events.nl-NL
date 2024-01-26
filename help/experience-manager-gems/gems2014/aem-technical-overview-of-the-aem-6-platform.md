@@ -1,14 +1,14 @@
 ---
 title: Technisch overzicht van het platform AEM 6
 description: In deze sessie, Peter Klassen - Product Manager, kijkt naar opnieuw geladen JCR Repository, prestatieverbeteringen en nieuwe schaalbaarheidsopties.
-uuid: 53be1e40-6fe9-44b5-a015-ba7ad7801d7c
 discoiquuid: f4f6e2b0-7910-4d1d-a024-583ef17ffcda
 targetaudience: target-audience advanced
 exl-id: 505430d5-0d85-423d-83f5-59eb4deff427
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 4329
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '130'
-ht-degree: 2%
+source-wordcount: '117'
+ht-degree: 0%
 
 ---
 
@@ -30,6 +30,6 @@ Peter Klassen, productmanager, Adobe
 
 ## Verwante koppelingen {#related-links}
 
-* [Aanvullende informatie voor AEM 6.0](https://docs.adobe.com/content/docs/en/aem/6-0/release-notes.html)
+* [Opmerkingen bij de release AEM 6.0](https://docs.adobe.com/content/docs/en/aem/6-0/release-notes.html)
 * [AEM 6.0 beheren](https://docs.adobe.com/docs/en/aem/6-0/manage.html)
 * [Uw upgrade naar AEM 6.0 plannen](https://docs.adobe.com/content/docs/en/aem/6-0/deploy/upgrade/planning.html)

@@ -1,23 +1,23 @@
 ---
-title: Experience League LIVE, Episode 1 - Mijn drie favoriete Adobe [!DNL Analytics] Tips voor implementatie
-description: Je hebt hem op het podium gezien op de top. Je hebt hem deskundig advies horen delen op Adobe Insider Tours. U had misschien zelfs het voordeel gehad met hem samen te werken op uw eigen Adobe [!DNL Analytics] uitvoering. Eric Matisoff brengt zijn drie favoriete Adobe mee [!DNL Analytics] Tips voor de implementatie van dit exclusieve Experience League Live discussie.
+title: Experience League LIVE, Episode 1 - Mijn drie favoriete Adoben [!DNL Analytics] Tips voor implementatie
+description: Je hebt hem op het podium gezien op de top. Je hebt hem deskundig advies horen geven bij Adobe Insider Tours. U had misschien zelfs het voordeel gehad met hem samen te werken op uw eigen Adobe [!DNL Analytics] uitvoering. Eric Matisoff brengt zijn drie favoriete Adobe [!DNL Analytics] Tips voor de implementatie van dit exclusieve Experience League Live discussie.
 solution: Analytics
 kt: 8553
 thumbnail: https://video.tv.adobe.com/v/335921?format=jpeg
-event-cta-url: null
 event-start-time: 2021-07-29 09:00-7
 event-guests: Eric Matisoff,Dasha Fitzpatrick
 exl-id: 75361648-8bb6-4def-9be8-b94f106c0347
-source-git-commit: e7e3172bb80aab23550aab7720e7554beedfd269
+duration: 2854
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---
 
-# Experience League LIVE, Episode 1: Mijn drie favoriete Adobe [!DNL Analytics] Tips voor implementatie
+# Experience League LIVE, Episode 1: Mijn drie favoriete Adoben [!DNL Analytics] Tips voor implementatie
 
-Je hebt hem op het podium gezien op de top. Je hebt hem deskundig advies horen delen op Adobe Insider Tours. U had misschien zelfs het voordeel gehad met hem samen te werken op uw eigen Adobe [!DNL Analytics] uitvoering. Eric Matisoff brengt zijn drie favoriete Adobe mee [!DNL Analytics] Tips voor de implementatie van dit exclusieve Experience League Live discussie.
+Je hebt hem op het podium gezien op de top. Je hebt hem deskundig advies horen geven bij Adobe Insider Tours. U had misschien zelfs het voordeel gehad met hem samen te werken op uw eigen Adobe [!DNL Analytics] uitvoering. Eric Matisoff brengt zijn drie favoriete Adobe [!DNL Analytics] Tips voor de implementatie van dit exclusieve Experience League Live discussie.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335921/?quality=12&learn=on)
 

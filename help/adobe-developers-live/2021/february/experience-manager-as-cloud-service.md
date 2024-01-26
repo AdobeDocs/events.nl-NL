@@ -1,5 +1,5 @@
 ---
-title: voor Adobe Experience Manager as a Cloud Service
+title: Adobe Experience Manager as a Cloud Service
 description: Een blik achter de schermen die inzichten delen over strategie en innovatie rond Adobe Experience Manager in de cloud en de grote veranderingen beschrijven die leiden tot waar we nu zijn. Deze sessie is afgeleverd als onderdeel van de Adobe Developers Live Content-gebeurtenis.
 solution: Experience Manager
 product: experience manager
@@ -12,14 +12,15 @@ kt: 7163
 type: Event
 thumbnail: 331278.jpg
 exl-id: f5ae88b3-d42c-4b40-9d70-e2dbb254e070
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 15
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 13%
+source-wordcount: '98'
+ht-degree: 0%
 
 ---
 
-#  voor Adobe Experience Manager as a Cloud Service
+# Adobe Experience Manager as a Cloud Service
 
 Een blik achter de schermen die inzichten delen over strategie en innovatie rond Adobe Experience Manager in de cloud en de grote veranderingen beschrijven die leiden tot waar we nu zijn.
 

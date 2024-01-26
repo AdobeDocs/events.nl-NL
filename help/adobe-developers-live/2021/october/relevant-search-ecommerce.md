@@ -8,10 +8,11 @@ level: Experienced
 kt: 9151
 type: Event
 exl-id: d1d39490-9ca1-4378-a856-a8aac0badd2e
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 1415
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '174'
-ht-degree: 12%
+source-wordcount: '163'
+ht-degree: 4%
 
 ---
 
@@ -23,6 +24,6 @@ Bij zoeken op de site kunt u zaken doen of breken. Tot een derde van het verkeer
 
 ## Aanvullende bronnen
 
-- [Documentatie voor Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html)
-- [Overzicht van Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html)
-- [Adobe Experience Platform-tutorials](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=nl)
+- [Adobe Experience Platform-documentatie](https://experienceleague.adobe.com/docs/experience-platform.html)
+- [Adobe Experience Platform - Overzicht](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html)
+- [Tutorials voor Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=nl)

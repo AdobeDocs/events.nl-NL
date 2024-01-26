@@ -3,10 +3,11 @@ title: Adobe Developers Live oktober 2021
 description: Een verzameling video's en zelfstudies voor Adobe Experience Manager Sites die zijn geleverd als onderdeel van de Adobe Developers Live-gebeurtenis.
 sub-product: sites, content-services
 exl-id: e6ebda58-dd9f-4d27-9f94-0233fc98d3c0
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 110
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '458'
-ht-degree: 8%
+source-wordcount: '385'
+ht-degree: 2%
 
 ---
 
@@ -82,16 +83,16 @@ Verbind met collega devs en sluit zich aan bij de zittingsgesprekken in de Gemee
 * [AEM Sites Developing Documentation](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html)
 * [AEM Sites-beheerdocumentatie](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html)
 * [AEM Sites-documentatie implementeren](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html)
-* [Tutorials voor AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html)
-* [Tutorials voor AEM Assets](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html)
-* [AEM Forms-tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/overview.html)
-* [Tutorials voor AEM Foundation](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html)
+* [as a Cloud Service Tutorials AEM](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html)
+* [AEM Assets Tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html)
+* [AEM Forms Tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/overview.html)
+* [Tutorials AEM stichting](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html)
 
 ### Adobe Experience Platform
 
-* [Documentatie voor Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html)
-* [Overzicht van Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html)
-* [Adobe Experience Platform-tutorials](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=nl)
+* [Adobe Experience Platform-documentatie](https://experienceleague.adobe.com/docs/experience-platform.html)
+* [Adobe Experience Platform - Overzicht](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html)
+* [Tutorials voor Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=nl)
 
 ### App Builder
 
