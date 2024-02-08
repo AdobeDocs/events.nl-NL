@@ -8,9 +8,9 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 1e8c3a3c4cd7668a78d47a2f018a3dc27900630d
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '167'
 ht-degree: 1%
 
 ---
@@ -25,15 +25,15 @@ Experience League LIVE is een live streaming show die wordt gemaakt door het tea
 
 <table>
 <tr>
-  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-02-08-24.md">
-      <img alt="Experience League LIVE feb 08" src="episodes/assets/WebBanner-Feb08-2024.jpg">
+  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-02-29-24.md">
+      <img alt="Experience League LIVE feb 29" src="assets/Feb29_2024_WebBanner.png">
     </a>
     <div>
-      <a href="episodes/exl-live-episode-02-08-24.md">
-        <strong>Gebruik Afspeelboeken met hoofdletters en kleine letters, zelf-bediende sjablonen om gebruiksgevallen met een paar klikken te implementeren voor Real-Time CDP en Journey Optimizer</strong>
+      <a href="episodes/exl-live-episode-02-29-24.md">
+        <strong>Vooruitgang boeken met de nieuwe Adobe Campaign v8-gebruikersinterface</strong>
       </a>
-      <br/><em>met Daniel Wright, Josée Monette-Healey en Rohit Basuri</em>
-      <br/><em>08 feb. 2024</em>
+      <br/><em>met Sandra Hausmann, Eric Perrin, Gaël Mouëllo, Bruce Swann</em>
+      <br/><em>29 feb. 2024</em>
     </div>
   </td>
 </tr>
