@@ -3,9 +3,9 @@ title: Commerciële inlichtingenwebinars
 description: Onderzoek de geregistreerde webinars van de Inlichtingendienst van de Handel, die een brede waaier van onderwerpen en beste praktijken voor het gebruiken van de Inlichtingen van de Handel aan zijn maximaal potentieel behandelen.
 exl-id: a1f2585f-5619-4f69-a7dc-75bc90aa3cd5
 duration: 77
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 17a9052c99275eff0599c64be3d6872e60c52fe1
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '251'
 ht-degree: 1%
 
 ---
@@ -28,7 +28,7 @@ De onderwerpen worden herhaald af en toe om het even welke nieuwe vragen aan te 
 <tr>
   <td>
     <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2023/getting-started.html">
-      <img alt="Aan de slag met Commerce Intelligence" src="./assets/getting-started.png" />
+      <img alt="Aan de slag met Commerce Intelligence" src="https://video.tv.adobe.com/v/3425736?format=jpeg" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2023/getting-started.html">
@@ -40,21 +40,21 @@ De onderwerpen worden herhaald af en toe om het even welke nieuwe vragen aan te 
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2023/manage-data-sets.html">
-      <img alt="Gegevenssets beheren in MBI" src="./assets/managing-data-sets-mbi.png" />
+    <a href="https://experienceleague.corp.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2024/manage-data-sets-adobe-commerce.html">
+      <img alt="Gegevenssets beheren in Adobe Commerce Intelligence" src="https://video.tv.adobe.com/v/3427547?format=jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2023/manage-data-sets.html">
-        <strong>Gegevenssets beheren in MBI</strong>
+      <a href="https://experienceleague.corp.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2024/manage-data-sets-adobe-commerce.html">
+        <strong>Gegevenssets beheren in Adobe Commerce Intelligence</strong>
       </a>
     </div>
     <p>
-    <em>Of u nu beschikt over de krachtige functies van MBI Data Warehouse Manager, rechtstreeks bij het Adobe Commerce Product-team. Ga verder dan het samenstellen van basisrapporten en leer hoe u meer kunt doen met uw gegevens.</em>
+    <em>Ontdek de robuuste functies van de Commerce Intelligence Data Warehouse Manager rechtstreeks van het productteam.</em>
     <p>
   </td>
    <td>
     <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2021/optimize-data-warehouse.html">
-      <img alt="Uw MBI-Data Warehouse optimaliseren" src="./assets/optimize-data-warehouse.png" />
+      <img alt="Uw MBI-Data Warehouse optimaliseren" src="https://video.tv.adobe.com/v/342562?format=jpeg" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2021/optimize-data-warehouse.html">
