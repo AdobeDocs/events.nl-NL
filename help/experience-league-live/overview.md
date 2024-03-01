@@ -8,9 +8,9 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: bc8a97db6ab36aed939dcf51962f172958ac1d07
+source-git-commit: e0c633c24b493c757eb7c47d472e9e07df789fc3
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '169'
 ht-degree: 1%
 
 ---
@@ -25,17 +25,11 @@ Experience League LIVE is een live streaming show die wordt gemaakt door het tea
 
 <table>
 <tr>
-  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-02-29-24.md">
-      <img alt="Experience League LIVE feb 29" src="assets/exl-live-episode-02-29-24-web-banner.png">
-    </a>
-    <div>
-      <a href="episodes/exl-live-episode-02-29-24.md">
-        <strong>Vooruitgang boeken met de nieuwe Adobe Campaign Web User Interface</strong>
-      </a>
-      <br/><em>met Sandra Hausmann, Eric Perrin, Gaël Mouëllo, Bruce Swann</em>
-      <br/><em>29 feb. 2024</em>
-    </div>
-  </td>
+  <td>
+    Kom binnenkort terug om te weten wat onze opkomst van april 2024 is.<br/>
+    In de tussentijd zien we je op <a href="https://summit.adobe.com/na/">Adobe Summit</a> op 25-28 maart 2024!
+
+</td>
 </tr>
 </table>
 
