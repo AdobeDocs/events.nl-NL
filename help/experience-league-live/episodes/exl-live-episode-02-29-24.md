@@ -7,9 +7,9 @@ event-cta-url-live: https://www.youtube.com/watch?v=ESgehCRcSgQ
 event-start-time: 2024-02-29 08:00-7
 event-guests: Sandra Hausmann,Eric Perrin,Gaël Mouëllo,Bruce Swann
 duration: 25
-source-git-commit: be09d9c0bda9c1fdf2f37092ee4ac6ec284b39ce
+source-git-commit: e8ecba0a2c066e881e53be13f07352e636058de2
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '160'
 ht-degree: 1%
 
 ---
@@ -27,8 +27,8 @@ Neem deel aan deze live sessie van het Experience League, waar Adobe Campaign-pr
 ## Aanvullende bronnen
 
 * **[Campagne Web User Interface - Zeer belangrijke mogelijkheden](https://experienceleague.adobe.com/docs/campaign-web/v8/whats-new.html){target="_blank"}**
-*Gedetailleerde documentatie over wat momenteel beschikbaar is in de Adobe Campaign Web-gebruikersinterface, bezoek [Campagne Web User Interface - Zeer belangrijke mogelijkheden](https://experienceleague.adobe.com/docs/campaign-web/v8/whats-new.html){target="_blank"}.
+  *Gedetailleerde documentatie over wat momenteel beschikbaar is in de gebruikersinterface van het Web van Adobe Campaign.*
 
 * **[Adobe Campaign Web User Interface - Tutorials](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html?lang=en){target="_blank"}**
-*Video&#39;s en zelfstudies over de functies en mogelijkheden van de Adobe Campaign Web User Interface.
+  *Video&#39;s en zelfstudies over de functies en mogelijkheden van de Adobe Campaign Web User Interface.*
 
