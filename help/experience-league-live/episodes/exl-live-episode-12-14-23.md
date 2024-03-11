@@ -1,7 +1,7 @@
 ---
 title: Aftellen tot 2024 met de vijf belangrijkste nieuwe functies in Adobe Real-Time CDP
 description: Leer hoe u met de nieuwe functies het publiek effectiever en efficiënter kunt activeren voor een ongekende personalisatie.
-kt: KT-14069
+jira: KT-14415
 thumbnail: https://video.tv.adobe.com/v/3425754?format=jpeg
 event-cta-url-live: https://www.youtube.com/watch?v=s4WhnJifWLk
 event-cta-url-reg: https://engage.adobe.com/ExpLeagueLive-231214.html
@@ -9,7 +9,7 @@ event-start-time: 2023-12-14 09:00-7
 event-guests: Doug Moore,Nina Caruso,Rudi Shumpert
 exl-id: c2c2c560-adc1-45f4-b235-0307923cc9a8
 duration: 3701
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 5edfadf5b805161f9624068f70a7b4830ab84d72
 workflow-type: tm+mt
 source-wordcount: '238'
 ht-degree: 0%
@@ -41,6 +41,3 @@ Als u deze sessie verlaat, kunt u het volgende verwachten:
 * Leer waarom deze mogelijkheden effect hebben, die u als praktiserer efficiëntie en waarde bieden
 * De nieuwe functies nu kunnen benutten
 * Begin uw inspanningen van de klantenverpersoonlijking vandaag te verbeteren!
-
-
-

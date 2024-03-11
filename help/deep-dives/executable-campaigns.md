@@ -8,13 +8,13 @@ duration: 3778
 last-substantial-update: 2024-03-07T00:00:00Z
 jira: KT-15098
 thumbnail: 3427704.jpeg
-source-git-commit: 3871036fda1f4286b5aef937a41463ebac302141
+exl-id: cfea1a1a-2d29-4cf6-b633-aa2a2523114e
+source-git-commit: 5edfadf5b805161f9624068f70a7b4830ab84d72
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '468'
 ht-degree: 0%
 
 ---
-
 
 # Uitvoerbare campagnes - Leer hoe uitvoerbare bestanden de efficiëntie kunnen verhogen en invloed kunnen hebben
 
@@ -23,12 +23,18 @@ ht-degree: 0%
 **Gematigd door** Chris Willis
 **Luidsprekers** Courtny Edwards-Jones en Jane Musatova
 
-Leer hoe Marketo Champs Executable Campaigns heeft gebruikt om allerlei problemen op te lossen, waaronder het automatisch opnieuw proberen van mislukte processen.
+## Overzicht
 
-Deze sessie is toegesneden op iedereen, van Marketo-beheerders tot professionele campagnegebruikers, en richt zich op het begrijpen en implementeren van uitvoerbare campagnes om direct waarde toe te voegen aan uw campagnes en programma&#39;s, efficiëntie te creëren en groei te stimuleren.
+In deze editie van de Adobe Champion Deep Dive bespreken we het gebruik van uitvoerbare campagnes in Marketo en geven we voorbeelden van hoe ze kunnen worden gebruikt om processen te stroomlijnen en de gegevensnauwkeurigheid te waarborgen. Uitvoerbare campagnes zijn een type slimme campagne die stromen op een synchrone manier in werking stelt, toestaand voor gebiedsdelen tussen verschillende stappen. Deze kunnen worden gebruikt om mislukte processen, zoals standaardisering van gegevens of kwalificatie van leads, automatisch opnieuw uit te proberen voordat u verdergaat met de volgende stap. Het document behandelt ook het gebruik van bovenliggende campagnes en geneste uitvoerbare bestanden en de beperkingen van uitvoerbare campagnes, zoals de onmogelijkheid om webhooks te gebruiken of stappen te wachten.
 
-Belangrijke inzichten
+## Wat is het doel van het gebruiken van uitvoerbare campagnes?
 
-* *De 101s van Uitvoerbare Campagnes* - Leer de verschillen tussen uitvoerbare campagnes en andere geautomatiseerde en teweeggebrachte werkschema&#39;s - en wanneer zijn best om één van beiden te gebruiken, de belangrijkste voordelen van het gebruiken van uitvoerbare voorwerpen, en uiteinden en trucs om u te helpen efficiënt bouwen.
-* *Automatiseren van mislukte processen* - Leer hoe u uitvoerbare campagnes kunt gebruiken om de verwerking van mislukte processen te automatiseren, zodat probleemloze bewerkingen mogelijk zijn en handmatige interventie tot een minimum wordt beperkt. Ontdek strategieën om fouten efficiënt te identificeren en te corrigeren, waardoor de algehele betrouwbaarheid van de workflow wordt verbeterd.
-* *Oprichting van een operationeel centrum voor excellentie* - te onderzoeken hoe uitvoerbare campagnes de identificatie van contactbronnen, het scoren van gegevenshygiëne en verrijkingsprocessen kunnen stroomlijnen. Ontdek technieken om deze kritieke stappen te optimaliseren, overtolligheid te verminderen en nauwkeurigheid te verbeteren om een robuustere &quot;originele verwerkingsstroom&quot;te bouwen.
+Het doel van het gebruik van uitvoerbare campagnes is complexe workflows in Marketo te stroomlijnen en te automatiseren. Met uitvoerbare campagnes kunt u een reeks acties definiëren die moeten worden voltooid voordat u verdergaat naar de volgende stap in een campagne. Hierdoor wordt ervoor gezorgd dat elke actie volledig wordt uitgevoerd voordat wordt verdergegaan, waardoor het risico op fouten of onvolledige processen wordt verminderd. Uitvoerbare campagnes kunnen worden gebruikt om mislukte processen opnieuw te proberen, gegevens te standaardiseren en te verrijken, leads te kwalificeren, interessante momenten vast te leggen en meer. Ze bieden een efficiëntere en beter georganiseerde manier om uw marketingactiviteiten te beheren en automatiseren.
+
+## Wat is een uitvoerbare campagne en hoe werkt het?
+
+Een uitvoerbare campagne is een type slimme campagne in Marketo die voor de opeenvolgende uitvoering van veelvoudige stromen binnen één enkele campagne toestaat. Het wordt ontworpen om ervoor te zorgen dat elke stroom volledig wordt uitgevoerd alvorens volgende begint. Dit verschilt van een aanvraagcampagne, die asynchroon loopt en veelvoudige stromen kan hebben die parallel lopen.
+
+Als u een uitvoerbare campagne wilt maken, moet u het selectievakje Uitvoerbaar inschakelen wanneer u de campagne maakt. Nadat u de gegevens hebt gemaakt, kunt u stroomstappen toevoegen aan de campagne, zoals het wijzigen van gegevenswaarden, het verzenden van e-mails of het bijwerken van de status van het programma. Er gelden echter enkele beperkingen voor uitvoerbare campagnes. U kunt geen triggers, webhaken gebruiken of stappen wachten in een uitvoerbare campagne.
+
+Uitvoerbare campagnes zijn nuttig voor processen die gebiedsdelen op elkaar hebben, waar één stroom moet worden voltooid alvorens volgende kan beginnen. Ze kunnen helpen operationele processen te stroomlijnen, gegevensverwerking te vereenvoudigen en het risico op fouten of backlogs tot een minimum te beperken. Door uitvoerbare campagnes te gebruiken, kunt u ervoor zorgen dat elke stap in een proces wordt voltooid alvorens op volgende over te gaan, die efficiency en nauwkeurigheid in uw marketing verrichtingen verbeteren.
