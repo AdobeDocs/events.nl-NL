@@ -9,7 +9,7 @@ event-start-time: 2023-12-14 09:00-7
 event-guests: Doug Moore,Nina Caruso,Rudi Shumpert
 exl-id: c2c2c560-adc1-45f4-b235-0307923cc9a8
 duration: 3701
-source-git-commit: 604f85ddc402ed248678782412efe4f2e5988ab4
+source-git-commit: b2114296a518f633d4b409838ae640ddb4817d79
 workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 0%
@@ -32,7 +32,7 @@ De discussie over dit onderwerp over Adobe Experience League voortzetten [Commun
 
 Bent u een huidige Real-Time CDP-deskundige die inzicht zoekt in wat nieuw is in het product, waarom het van belang is en hoe Adobe u kan helpen uw strategieën voor het beheer van klantgegevens te verbeteren? Kijk niet verder - je bent op de juiste plek gekomen! In deze reeks duiken we diep in wat onlangs in Real-Time CDP gelanceerd is, zodat je kunt profiteren van wat nieuw is, en een impact kunt hebben op je organisatie.
 
-# Toetsen
+## Toetsen
 
 In deze sessie bespreken en tonen we vijf nieuwe functies die de afgelopen maanden zijn gestart:
 
