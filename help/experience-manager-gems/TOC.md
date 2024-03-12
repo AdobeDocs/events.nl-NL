@@ -2,9 +2,9 @@
 user-guide-title: Adobe Experience Manager GEMS-gebeurtenissen
 user-guide-description: Meer informatie over AEM Gems, een reeks technische diepteduiken van Adobe Experience Manager-experts.
 breadcrumb-title: GEMs-gebeurtenissen AEM
-source-git-commit: b255ba788711f4599e9d18f1155a7bc00487d21b
+source-git-commit: baac75a81046d05642dbcb1c5aa4711de7a0dd51
 workflow-type: tm+mt
-source-wordcount: '648'
+source-wordcount: '696'
 ht-degree: 1%
 
 ---
@@ -13,6 +13,9 @@ ht-degree: 1%
 # Experience Manager GEMS-gebeurtenissen {#experience-manager-gems-recordings}
 
 + [Overzicht](overview.md)
++ 2024 {#gems2024}
+   + [Aan de slag met AEM Authoring en Edge Delivery Services](/experience-manager-gems/gems2024/aem-authoring-and-edge-delivery.md)
+   + [Storefronts maken op Edge Delivery Services in Adobe Commerce](/experience-manager-gems/gems2024/storefronts-on-edge-delivery-with-adobe-commerce.md)
 + 2023 {#gems2023}
    + [New Relic APM voor AEM as a Cloud Service](gems2023/newrelic-apm-for-aem-cloud-service.md)
    + [AEM certificatie - technisch](gems2023/aem-certification-technical.md)
@@ -91,7 +94,7 @@ ht-degree: 1%
    + [AEM Tech sneak-blik](gems2015/aem-tech-sneak-peek.md)
    + [Tips en trucs voor [!DNL AEM Sites] Aanraakinterface](gems2015/aem-tips-and-tricks-for-aem-sites-touch-ui.md)
    + [De kwaliteitsmetriek van het spoor van uw project JavaScript](gems2015/aem-track-quality-metrics-of-your-javascript-project.md)
-+ 2014 {#gems2014}
++ 14 {#gems2014}
    + [Adobe Analytics implementeren op een lokale AEM via de DTM-cloudservice](gems2014/aem-adobe-analytics-dynamic-tag-management.md)
    + [Hoe u optimaal kunt profiteren van uw DAM-pakket met functies](gems2014/aem-dam-feature-pack.md)
    + [Beheerde inhoud leveren aan uw eigen apps](gems2014/aem-delivering-managed-content-to-your-native-apps.md)
@@ -108,7 +111,7 @@ ht-degree: 1%
    + [Technisch diep duik in het platform van AEM 6](gems2014/aem-technical-deep-dive-into-the-aem-6-platform.md)
    + [Technisch overzicht van het platform AEM 6](gems2014/aem-technical-overview-of-the-aem-6-platform.md)
    + [Aanpassing gebruikersinterface voor AEM 6](gems2014/aem-user-interface-customization-for-aem6.md)
-+ 2013 {#gems2013}
++ 13 {#gems2013}
    + [Architectuur van het AEM 5.6-platform](gems2013/aem-architecture-of-the-aem-5-6-platform.md)
    + [CQ/AEM 5.6 Problemen oplossen](gems2013/aem-cq-aem-5-6-troubleshooting.md)
    + [eCommerce Integration Framework](gems2013/aem-ecommerce-integration-framework.md)

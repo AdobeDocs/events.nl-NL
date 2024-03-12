@@ -12,9 +12,9 @@ type: Event
 user-guide-description: AEM GEM-sessies
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: baac75a81046d05642dbcb1c5aa4711de7a0dd51
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '280'
 ht-degree: 0%
 
 ---
@@ -45,14 +45,15 @@ ht-degree: 0%
 </table>
 
 -->
-Onze nieuwste AEM GEM&#39;s webinar op **Het potentieel van New Relic APM vrijmaken voor AEM as a Cloud Service. Maximaliseer prestaties en snelle probleemoplossing** is uitgevoerd op *20 september 2023*.
-De **opnemen** te vinden op : [New Relic APM voor Adobe Experience Manager as a Cloud Service](/help/experience-manager-gems/gems2023/newrelic-apm-for-aem-cloud-service.md)
+Onze nieuwste AEM GEM&#39;s webinar op **Winfronten samenstellen op Edge Delivery Services met Adobe Commerce** is uitgevoerd op *6 maart 2024*.
+De **opnemen** te vinden op :
+[Winfronten samenstellen op Edge Delivery Services met Adobe Commerce](/experience-manager-gems/gems2024/storefronts-on-edge-delivery-with-adobe-commerce.md)
 
 >[!NOTE]
 >
 > Meld u aan voor kennisgeving op komende AEM GEM&#39;s-webinars op [Gebruikersgroep AEM Adobe](https://aem-augs.adobe.com/).
 
-## 2022 Herstart van AEM GEM&#39;s
+## AEM GEM&#39;s - technische webinars rond AEM - voor ontwikkelaars die door ontwikkelaars worden geleverd
 
 Welkom bij **AEM GEM&#39;s** - onze webinar-reeks van technische diepteduiken op Adobe Experience Manager, die door experts van de Adobe is uitgebracht. Deze reeks vormt een aanvulling op de productdocumentatie en alle andere technische kanalen met betrekking tot Adobe Experience Manager, waardoor ontwikkelaars contact kunnen opnemen en dieper kunnen gaan op een specifiek onderwerp.
 
@@ -61,9 +62,7 @@ De webinars worden regelmatig uitgevoerd, met inbegrip van de volgende webinars:
 * Een maximale duur van 60 minuten
 * Vragen en antwoorden aan het eind en chatexperts beschikbaar in het hele webinar
 * Opname beschikbaar na elk webinar
-* Webinar is gratis
-
-Al onze AEM GEM&#39;s-webinars zijn gratis en worden praktisch uitgevoerd.
+* Alle AEM GEM-webinars zijn kosteloos en worden vrijwel uitsluitend geregistreerd.
 
 Registreren bij [Gebruikersgroep AEM Adobe](https://aem-augs.adobe.com/) om op de hoogte te worden gebracht van onze komende webinars.
 
