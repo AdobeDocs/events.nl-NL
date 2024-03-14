@@ -12,9 +12,9 @@ type: Event
 user-guide-description: AEM GEM-sessies
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 4fbbc6c8f1abfaaa7b26b8e9ef6e0d0685217d7b
+source-git-commit: 44db30f1def4682ed40a703c3e38b787d556621b
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '279'
 ht-degree: 0%
 
 ---
@@ -45,13 +45,13 @@ ht-degree: 0%
 </table>
 
 -->
-Onze nieuwste AEM GEM&#39;s webinar op **Winfronten samenstellen op Edge Delivery Services met Adobe Commerce** is uitgevoerd op *6 maart 2024*.
+Onze nieuwste AEM GEM&#39;s webinar op **Aan de slag met AEM Authoring en Edge Delivery Services** is uitgevoerd op *13 maart 2024*.
 De **opnemen** te vinden op :
-[Winfronten samenstellen op Edge Delivery Services met Adobe Commerce](./gems2024/storefronts-on-edge-delivery-with-adobe-commerce.md)
+[Aan de slag met AEM Authoring en Edge Delivery Services](/help/experience-manager-gems/gems2024/aem-authoring-and-edge-delivery.md)
 
 >[!NOTE]
 >
-> Meld u aan voor kennisgeving op komende AEM GEM&#39;s-webinars op [Gebruikersgroep AEM Adobe](https://aem-augs.adobe.com/).
+> Meld u aan om op de hoogte te worden gesteld van de komende AEM GEM-webinars - [Gebruikersgroep AEM Adobe](https://aem-augs.adobe.com/).
 
 ## AEM GEM&#39;s - technische webinars rond AEM - voor ontwikkelaars die door ontwikkelaars worden geleverd
 
