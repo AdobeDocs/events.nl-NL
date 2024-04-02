@@ -3,9 +3,9 @@ title: APAC Commerce Webinar Series
 description: De APAC Commerce Webinar Series is een maandelijks kadence van workshops voor Adobe Commerce-klanten die een groot aantal onderwerpen bestrijkt, van beste praktijken tot product roadmap en industrietrends.
 exl-id: 829502f9-3b2a-426c-a06c-7edcde000c72
 duration: 66
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 6a1868d01c63f6c56157663c41c834b312ddc5a7
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: '241'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,19 @@ De APAC Commerce Webinar Series is een maandelijks kadence van workshops voor Ad
 
 <table>
 <tr>
+  <td>
+    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2024/innovation-spotlight.html">
+      <img alt="Adobe Commerce Innovation Spotlight Webinar" src="https://video.tv.adobe.com/v/3427965?format=jpeg" />
+    </a>
+     <div>
+      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2024/innovation-spotlight.html">
+        <strong>Adobe Commerce Innovation Spotlight Webinar</strong>
+      </a>
+    </div>
+    <p>
+    <em>Meld u aan voor inspiratie over hoe u de nieuwste functies en architectuur kunt gebruiken om uw klanten de beste ervaring te bieden en uw bedrijf uit te breiden!In dit webinar.</em>
+    <p>
+  </td> 
   <td>
     <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2023/adobes-paas-cloud-commerce.html">
       <img alt="Adobe Commerce Site-brede analyse" src="https://video.tv.adobe.com/v/3419132?format=jpeg" />
@@ -44,19 +57,6 @@ De APAC Commerce Webinar Series is een maandelijks kadence van workshops voor Ad
     <em>Inzetten van de kracht van AI voor een uitzonderlijke ervaring van klanten met de investering van Adobe in AI en de integratie ervan in de handel.</em>
     <p>
   </td>
-  <td>
-    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2023/composable-commerce.html">
-      <img alt="Samengestelde handelsstrategieën voor schaalbare en flexibele e-commerce" src="https://video.tv.adobe.com/v/3420655?format=jpeg" />
-    </a>
-     <div>
-      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2023/composable-commerce.html">
-        <strong>Samengestelde handelsstrategieën voor schaalbare en flexibele e-commerce</strong>
-      </a>
-    </div>
-    <p>
-    <em>Meld ons aan voor een inzichtelijk webinar dat zich zal ontwikkelen in de wereld van composable architectuur en hoe het het landschap van de elektronische handel revolutioneert.</em>
-    <p>
-  </td>  
 </tr>
 </table>
 
