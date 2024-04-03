@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 1e8c3a3c4cd7668a78d47a2f018a3dc27900630d
+source-git-commit: 858f7011039c59a4bb34860d05904f03131d2dc4
 workflow-type: tm+mt
-source-wordcount: '377'
+source-wordcount: '393'
 ht-degree: 2%
 
 ---
@@ -21,6 +21,8 @@ ht-degree: 2%
 
 + [Overzicht](overview.md)
 + Episodes {#episodes}
+   + [EP 35: Nieuwe code-based Experience Channel in Journey Optimizer](episodes/exl-live-episode-04-24-24.md)
+   + [EP 34: Marketo Measure - Nieuwe Discover-dashboards](episodes/exl-live-episode-04-18-24.md)
    + [EP 33: Vooruitgang met de nieuwe Adobe Campaign v8-gebruikersinterface](episodes/exl-live-episode-02-29-24.md)
    + [EP 32: Gebruik Hoofdlettergebruik, zelf-bediende malplaatjes om gebruiksgevallen in een paar klikken op te stellen](episodes/exl-live-episode-02-08-24.md)
    + [EP 31: Adobe Analytics-gegevens en -analyses in Customer Journey Analytics brengen](episodes/exl-live-episode-01-17-24.md)
