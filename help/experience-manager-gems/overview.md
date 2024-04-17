@@ -12,9 +12,9 @@ type: Event
 user-guide-description: AEM GEM-sessies
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 3e548378b0a3c35d435e2d67d4857200cf45bd37
+source-git-commit: 3fe49df071fd893fb7007545abec74ee3e331702
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '294'
 ht-degree: 0%
 
 ---
@@ -25,8 +25,8 @@ ht-degree: 0%
 
 ## Aanstaande GEMs-gebeurtenis AEM
 
-17 april 2024 - **Aan de slag met Edge Delivery Services voor AEM Forms**
-RSVP / Registreren [hier](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-getting-started-with-edge-delivery-services-for-aem-forms/)
+29 mei 2024 - **Edge Delivery Services en AEM Assets**
+De registratie wordt binnenkort geopend.
 
 <!--  Remove the comment marks, and put the upcoming event in the below table
 
@@ -51,9 +51,9 @@ RSVP / Registreren [hier](https://aem-augs.adobe.com/events/details/adobe-experi
 
 ## Vorige AEM GEMs-gebeurtenis
 
-Onze nieuwste AEM GEM&#39;s webinar op **Aan de slag met AEM Authoring en Edge Delivery Services** is uitgevoerd op *13 maart 2024*.
+Onze nieuwste AEM GEM&#39;s webinar op **Aan de slag met Edge Delivery Services voor AEM Forms** is uitgevoerd op *17 april 2024*.
 De **opnemen** te vinden op :
-[Aan de slag met AEM Authoring en Edge Delivery Services](/help/experience-manager-gems/gems2024/aem-authoring-and-edge-delivery.md)
+[Aan de slag met Edge Delivery Services voor AEM Forms](/gems2024/edge-delivery-for-aem-forms.md)
 
 >[!NOTE]
 >
