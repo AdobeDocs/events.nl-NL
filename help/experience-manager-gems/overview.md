@@ -12,9 +12,9 @@ type: Event
 user-guide-description: AEM GEM-sessies
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 3fe49df071fd893fb7007545abec74ee3e331702
+source-git-commit: c8635305f4754d6001108357799a80f50d58b4ac
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '285'
 ht-degree: 0%
 
 ---
@@ -53,11 +53,11 @@ De registratie wordt binnenkort geopend.
 
 Onze nieuwste AEM GEM&#39;s webinar op **Aan de slag met Edge Delivery Services voor AEM Forms** is uitgevoerd op *17 april 2024*.
 De **opnemen** te vinden op :
-[Aan de slag met Edge Delivery Services voor AEM Forms](/gems2024/edge-delivery-for-aem-forms.md)
+[Aan de slag met Edge Delivery Services voor AEM Forms](gems2024/edge-delivery-for-aem-forms.md)
 
 >[!NOTE]
 >
-> Meld u aan om op de hoogte te worden gesteld van de komende AEM GEM-webinars - [Gebruikersgroep AEM Adobe](https://aem-augs.adobe.com/).
+> Meld u aan om op de hoogte te worden gesteld van toekomstige webinars AEM GEM&#39;s en andere AEM gerelateerde gebeurtenissen - [Gebruikersgroep AEM Adobe](https://aem-augs.adobe.com/).
 
 ## AEM GEM&#39;s - technische webinars rond AEM - voor ontwikkelaars die door ontwikkelaars worden geleverd
 
@@ -69,8 +69,6 @@ De webinars worden regelmatig uitgevoerd, met inbegrip van de volgende webinars:
 * Vragen en antwoorden aan het eind en chatexperts beschikbaar in het hele webinar
 * Opname beschikbaar na elk webinar
 * Alle AEM GEM-webinars zijn kosteloos en worden vrijwel uitsluitend geregistreerd.
-
-Registreren bij [Gebruikersgroep AEM Adobe](https://aem-augs.adobe.com/) om op de hoogte te worden gebracht van onze komende webinars.
 
 ## Gemeenschap Experience League
 
