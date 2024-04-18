@@ -7,9 +7,10 @@ event-cta-url-live: https://www.youtube.com/watch?v=UI-P0ezCHqA
 event-start-time: 2024-04-18 09:00-7
 event-guests: Ian Michels,Kate Colbert,James Leedom
 duration: 25
-source-git-commit: d222484d9678454f3e74b5ab09e877685ad898f2
+exl-id: 4f3dcc03-307e-48fe-9bf2-e0a15e40bf6a
+source-git-commit: 44b97fea8d73859bbdbccadfb66543a531f25401
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
@@ -18,7 +19,14 @@ ht-degree: 0%
 
 Marketo Measure heeft de Discover Dashboards volledig vernieuwd. Dit zijn niet alleen kleine verbeteringen en toevoegingen; dit is een complete overname. De raden van bestuur zijn opnieuw bedacht en vooral vereenvoudigd. Deze nieuwe borden zijn veel intuïtiever en gebruikersvriendelijker om u de gegevens te krijgen u nodig-snel en gemakkelijk!
 
-[![ExL LIVE jan 17 2024](assets/WebBanner-April18-2024.jpg)](https://engage.adobe.com/ExpLeagueLive-240418.html)
+>[!VIDEO](https://video.tv.adobe.com/v/3428093/?quality=12&learn=on)
 
-**[Nu registreren](https://engage.adobe.com/ExpLeagueLive-240418.html) voor de gebeurtenis!**
+Onderwerpen besproken:
 
+* Attributiefilosofie in een B2B-marketingwereld
+* Uw rapporteringsmentaliteit verschuiven naar inkomsten
+* Ontdek pro tips voor strategisch segmenteren en het verbeteren van de gegevens
+* Leer hoe u algemene fouten kunt oplossen
+* Welke nieuwe vooraf gebouwde dashboards beschikbaar zijn en hoe te om het beste van hen te krijgen
+* Nieuw beschikbare metriek en hoe te om hen te gebruiken om bedrijfsinzichten op te heffen
+* Aangepaste rapporten maken en opslaan
