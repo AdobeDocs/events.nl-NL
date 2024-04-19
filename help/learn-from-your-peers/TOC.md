@@ -2,10 +2,10 @@
 user-guide-title: "[!DNL Experience Makers Learn from your peers]"
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: "Verzameling opnamen van [!DNL Experience Makers Learn from your peers]"
-source-git-commit: a8ae18af0407dd9a1f28a80b2f665ec6d4a446de
+source-git-commit: 28c2d6f249968bfe402dad24bf42fe7e3bfbdf4a
 workflow-type: tm+mt
-source-wordcount: '153'
-ht-degree: 0%
+source-wordcount: '167'
+ht-degree: 4%
 
 ---
 
@@ -45,16 +45,18 @@ ht-degree: 0%
    + mei {#may2023}
       + [Inhoud- en ervaringsfragmenten maken](experience-manager/may2023/mastering-content-and-experience-fragments.md)
 + Marketo {#marketo}
-   + Januari {#jan2024}
+   + april {#april2024}
+      + [Praktische toepassingen van Marketo Engage REST API](marketo/april2024/practical-applications-of-marketo-engage-rest-api.md)
+   + Januari 2024 {#jan2024}
       + [Persoon die stramien scoort met Marketo Engage](marketo/jan2024/person-scoring-mastery.md)
-   + november {#nov2023}
+   + november 2023 {#nov2023}
       + [Marketo Engage en Dynamic Chat](marketo/nov2023/dynamic-chat.md)
-   + september {#sept2023}
+   + september 2023 {#sept2023}
       + [Verhoog de e-mailleverbaarheid met Marketo Engage](marketo/sept2023/email-deliverability.md)
-   + juni {#june2023}
+   + Juni 2023 {#june2023}
       + [Houd uw marketingcampagnes bij, analyseer en optimaliseer deze](marketo/june2023/marketing-campaigns.md)
-   + mei {#may2023}
+   + Mei 2023 {#may2023}
       + [De personalisatie op de Code van de Schaal in de kring gebruikend [!DNL Marketo Engage]](marketo/may2023/personalization-at-scale.md)
-   + maart {#mar2023}
+   + Maart 2023 {#mar2023}
       + [Hoe maak je [!DNL Adobe Marketo Engage] Inhoud schaalbaar](marketo/mar2023/templates-tokens-teamwork.md)
 + [Leer hoe u een Adobe Champion-toepassing voor een evaluatiemogelijkheid kunt indienen](./adobe-champion-application.md)
