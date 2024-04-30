@@ -8,9 +8,9 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 08b9921b35dcd8c6525edae5dcd1688aed1743f0
+source-git-commit: 4590f2cfc142bc5520b2c9cd12f7af1b6906b33b
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '163'
 ht-degree: 1%
 
 ---
@@ -26,8 +26,16 @@ Experience League LIVE is een live streaming show die wordt gemaakt door het tea
 <table>
 <tr>
 
-<td style="vertical-align: top;">
-    <strong>Kom later terug naar deze pagina om meer informatie te krijgen over onze 16e show in mei. Spoiler alert - we gaan het hebben over het migreren van Analytics van AppMeasurement aan de SDK van het Web!</strong>
+<td style="vertical-align: top;"><a href="episodes/exl-live-episode-05-16-24.md">
+      <img alt="Experience League LIVE 16 mei 2024" src="episodes/assets/WebBanner-May16-2024.jpg">
+    </a>
+    <div>
+      <a href="episodes/exl-live-episode-05-16-24.md">
+        <strong>Dit is de manier...om Analytics aan Web SDK te migreren</strong>
+      </a>
+      <br/><em>met Doug Moore, Mitch Rice en Joe Khoury</em>
+      <br/><em>16 mei 2024</em>
+    </div>
   </td>
 </tr>
 </table>
