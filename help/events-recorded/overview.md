@@ -4,9 +4,9 @@ description: Een inzameling van gebeurtenisopnamen concentreerde zich op het geb
 mini-toc-levels: 0
 exl-id: de8be4a9-8bc6-48f6-997a-bbb6671120db
 duration: 334
-source-git-commit: 3a1643f897e6bb54dac5d896a30d9f0a25e9dacd
+source-git-commit: d2e6829590d4243409652b16b13c8da253df62a5
 workflow-type: tm+mt
-source-wordcount: '997'
+source-wordcount: '1028'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,30 @@ Blijf in de lus op exclusieve evenementen en webinars om uw leermogelijkheden ui
 
 ## Gebeurtenisreeks
 
-<div class="columns is-multiline"><div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Adobe Campaign Insider Series" tabIndex="0">
+<div class="columns is-multiline"><div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Acrobat Sign Webinars" tabIndex="0">
+  <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+    <div class="card-image">
+      <figure class="image x-is-16by9">
+        <a href="https://experienceleague.adobe.com/docs/events/acrobat-sign-webinars/overview.html" title="Adobe Campaign Insider-reeks" tabindex="-1">
+          <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-acrobat-sign-webinars.png" alt="Acrobat Sign Webinars">
+        </a>
+      </figure>
+    </div>
+    <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+      <div class="top-card-content">
+          <p class="headline is-size-6 has-text-weight-bold">
+              <a href="https://experienceleague.adobe.com/docs/events/acrobat-sign-webinars/overview.html" title="Acrobat Sign Webinars">Acrobat Sign Webinars</a>
+          </p>
+          <p class="is-size-6">
+         Leer van experts in de Adobe hoe u de nieuwe workflows voor e-handtekeningen in Acrobat Sign kunt beheren.</p>
+      </div>
+      <a href="https://experienceleague.adobe.com/docs/events/acrobat-sign-webinars/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Meer informatie</span>
+      </a>
+    </div>
+  </div>
+</div>
+<div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Adobe Campaign Insider Series" tabIndex="0">
   <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
     <div class="card-image">
       <figure class="image x-is-16by9">
@@ -41,7 +64,8 @@ Blijf in de lus op exclusieve evenementen en webinars om uw leermogelijkheden ui
       </a>
     </div>
   </div>
-</div><div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Adobe Content Management Forum" tabIndex="1">
+</div>
+<div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Adobe Content Management Forum" tabIndex="1">
   <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
     <div class="card-image">
       <figure class="image x-is-16by9">
@@ -144,7 +168,7 @@ Blijf in de lus op exclusieve evenementen en webinars om uw leermogelijkheden ui
               <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/overview.html" title="APAC Adobe Commerce Webinars">APAC Adobe Commerce Webinars</a>
           </p>
           <p class="is-size-6">
-         De APAC Commerce Webinar Series is een maandelijks kadence van workshops voor Adobe Commerce-klanten die een groot aantal onderwerpen bestrijkt, van beste praktijken tot product roadmap en industrietrends.</p>
+         De APAC Commerce Webinar-reeks is een maandelijks aantal workshops voor klanten van Adobe Commerce, die een groot aantal onderwerpen bestrijkt, variërend van best practices tot productroutekaart en trends in de branche.</p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
         <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Meer informatie</span>
@@ -177,18 +201,18 @@ Blijf in de lus op exclusieve evenementen en webinars om uw leermogelijkheden ui
   <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
     <div class="card-image">
       <figure class="image x-is-16by9">
-        <a href="https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html" title="Handel en koffie" tabindex="-1">
-          <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-commerce-and-coffee.png" alt="Handel en koffie">
+        <a href="https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html" title="Commerce en koffie" tabindex="-1">
+          <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-commerce-and-coffee.png" alt="Commerce en koffie">
         </a>
       </figure>
     </div>
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html" title="Handel en koffie">Handel en koffie</a>
+              <a href="https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html" title="Commerce en koffie">Commerce en koffie</a>
           </p>
           <p class="is-size-6">
-         De Commerce &amp; Coffee-reeks is voor bestaande Adobe Commerce-klanten van alle vaardigheidsniveaus en is voorzien van Sr. Commerce Strategy Consultant, Corey Gelato. De reeks richt zich op handelsstrategieën en tactieken, ondersteund door statistieken die het gebeurtenisonderwerp weerspiegelen.</p>
+         De Commerce &amp; Coffee-reeks is bedoeld voor bestaande Adobe Commerce-klanten met alle vaardigheidsniveaus en functies Sr. Commerce Strategy Consultant, Corey Gelato. De reeks richt zich op Commerce-strategieën en -tactieken, ondersteund door statistieken die het gebeurtenisonderwerp weerspiegelen.</p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
         <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Meer informatie</span>
@@ -353,15 +377,15 @@ Blijf in de lus op exclusieve evenementen en webinars om uw leermogelijkheden ui
   <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
     <div class="card-image">
       <figure class="image x-is-16by9">
-        <a href="https://experienceleague.adobe.com/docs/events/office-hours/overview.html" title="Kantooruren" tabindex="-1">
-          <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-office-hours.png" alt="Kantooruren">
+        <a href="https://experienceleague.adobe.com/docs/events/office-hours/overview.html" title="Office Hours" tabindex="-1">
+          <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-office-hours.png" alt="Office Hours">
         </a>
       </figure>
     </div>
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/events/office-hours/overview.html" title="Kantooruren">Kantooruren</a>
+              <a href="https://experienceleague.adobe.com/docs/events/office-hours/overview.html" title="Office Hours">Kantooruren</a>
           </p>
           <p class="is-size-6">
          De Uren van het bureau is een pro-actieve benadering van gevalvervorming door klanten oplossing-specifieke webinars aan te bieden.</p>
