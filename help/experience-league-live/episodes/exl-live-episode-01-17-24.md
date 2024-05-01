@@ -2,14 +2,15 @@
 title: Adobe Analytics-gegevens en -analyses in Customer Journey Analytics brengen
 description: Leer hoe u met nieuwe geautomatiseerde processen analyses en gegevens van Adobe Analytics naar Adobe Customer Journey Analytics kunt verplaatsen.
 jira: KT-14746
-thumbnail: https://video.tv.adobe.com/v/3426778?format=jpeg
+solution: Analytics,Customer Journey Analytics
+feature: Experience Cloud Integration
 event-cta-url-live: https://www.youtube.com/watch?v=BkAjaMPgpgE
 event-cta-url-reg: https://engage.adobe.com/ExpLeagueLive-240117.html
 event-start-time: 2024-01-17 10:00-7
 event-guests: Doug Moore,Eric Matisoff,Bryan Skelton
 exl-id: 2c2136a9-0b40-4a0a-907d-5af181568073
 duration: 3655
-source-git-commit: 604f85ddc402ed248678782412efe4f2e5988ab4
+source-git-commit: 0b2f63198af8767f24783dbafd244c9398c24f33
 workflow-type: tm+mt
 source-wordcount: '394'
 ht-degree: 0%
@@ -42,3 +43,4 @@ Doorgaan met de discussie over de [Forum van de Gemeenschap van Experience Leagu
 * Het wordt geadviseerd om een vangst-alles voor elementen tot stand te brengen die niet in CGA bestaan en dan hen in het bestemmingsproject uit te geven.
 * Voorheen werd aangenomen dat berekende metriek en segmenten opnieuw moesten worden gemaakt tijdens de migratie naar CGA, maar nu is er een optie om ze te migreren.
 * Om ervoor te zorgen dat berekende metriek en segmenten in de migratie worden opgenomen, moeten zij op een lijst of visualisatie in Adobe Analytics worden toegepast.
+

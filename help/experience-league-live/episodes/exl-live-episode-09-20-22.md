@@ -1,14 +1,14 @@
 ---
 title: Het verstrekken van een meer gepersonaliseerde klantenervaring in echt - tijd
 description: Adobe Target en Adobe Real-time Customer Data Platform kunnen worden geïntegreerd om een meer gepersonaliseerde klantenervaring te bieden. In deze livestreamgebeurtenis, zie hoe het integreren van deze twee platforms ondernemingen kan helpen gegevens in real time verzamelen, en dan gerichte ervaringen creëren en testen. Bekijk het einde-tot-einde proces van deze krachtige mogelijkheden in een live demonstratie.
-solution: Target,Real-Time Customer Data Platform
+solution: Target, Real-Time Customer Data Platform
+feature: Integrations
 kt: 11004
-thumbnail: https://video.tv.adobe.com/v/3409425?format=jpeg
 event-start-time: 2022-09-20 09:00-7
 event-guests: Gina Casagrande,Brent Kostak
 exl-id: e14bea3f-e770-4780-9f51-8bd97456fb68
 duration: 3694
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 0b2f63198af8767f24783dbafd244c9398c24f33
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 0%
@@ -22,3 +22,4 @@ Adobe Target en Adobe Real-time Customer Data Platform kunnen worden geïntegree
 >[!VIDEO](https://video.tv.adobe.com/v/3409425/?quality=12&learn=on)
 
 Raadpleeg de documentatie voor meer informatie over [Randsegmentatie](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/edge-segmentation.html) en [streamingsegmentatie](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/streaming-segmentation.html).
+

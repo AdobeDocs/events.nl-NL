@@ -2,13 +2,14 @@
 title: Vooruitgang boeken met de nieuwe Adobe Campaign Web User Interface
 description: Leer efficiënter te zijn op het gebied van planning, lancering en het meten van kanaalmarketing strategieën met inbegrip van e-mailmarketing en sociale media marketing gebruikend het nieuwe Web van Adobe Campaign Gebruikersinterface.
 jira: KT-14433
-thumbnail: https://video.tv.adobe.com/v/3427258?format=jpeg
+solution: Campaign v8 Web User Interface
+feature: Configuration
 event-cta-url-live: https://www.youtube.com/watch?v=ESgehCRcSgQ
 event-start-time: 2024-02-29 08:00-7
 event-guests: Sandra Hausmann,Eric Perrin,Gaël Mouëllo,Bruce Swann
 duration: 25
 exl-id: 636d8bf5-80d9-406b-ab1e-3d5c4b1c8b8f
-source-git-commit: 8872c95059c96fc4b565563add254f3b359ea216
+source-git-commit: 0b2f63198af8767f24783dbafd244c9398c24f33
 workflow-type: tm+mt
 source-wordcount: '422'
 ht-degree: 0%
@@ -50,3 +51,4 @@ De nieuwe gebruikersinterface van het Web van de Campagne is belangrijk omdat he
 
 * **[Adobe Campaign Web User Interface - Tutorials](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html?lang=en){target="_blank"}**
   *Video&#39;s en zelfstudies over de functies en mogelijkheden van de Adobe Campaign Web User Interface.*
+

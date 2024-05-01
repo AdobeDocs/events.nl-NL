@@ -2,13 +2,13 @@
 title: Vraag het de experts - De grondbeginselen van Web SDK
 description: Meer informatie over de SDK van het Web. Wij zullen u alle grondbeginselen van SDK van het Web tonen, met inbegrip van het redeneren achter het, hoe het werkt, en belangrijke gebruiksgevallen die het macht geeft.
 solution: Data Collection,Experience Platform
+feature: Data Collection
 kt: 10412
-thumbnail: https://video.tv.adobe.com/v/343335?format=jpeg
 event-start-time: 2022-05-26 09:00-7
 event-guests: Doug Moore, Eric Matisoff, Rudi Shumpert, Jeff Chasin
 exl-id: b2ea730b-d4ad-4be0-b229-7063369cba7f
 duration: 3863
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 0b2f63198af8767f24783dbafd244c9398c24f33
 workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 0%
@@ -37,3 +37,4 @@ In dit eerste van drie livestreamzittingen betreffende gegevensinzameling voor A
 * [Overzicht en download van Adobe Experience Platforms Debugger](https://experienceleague.adobe.com/docs/platform-learn/data-collection/debugger/overview.html?lang=en){target="_blank"}
 * [Mobiele SDK-documenten](https://developer.adobe.com/client-sdks/documentation/){target="_blank"}
 * [Informatie over hybride toepassingsverzameling](https://experienceleague.adobe.com/docs/mobile-services/ios/sdk-reference-ios/hybrid-app.html){target="_blank"}
+
