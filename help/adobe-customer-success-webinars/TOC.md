@@ -2,9 +2,9 @@
 user-guide-title: Geslaagde webinars van klanten van de Adobe
 breadcrumb-title: Geslaagde webinars van klanten van de Adobe
 user-guide-description: Met succes geleide webinars van de Klant van de Adobe die worden ontworpen om u bij het optimaliseren van uw investering in het Experience Cloud van de Adobe te helpen. Vergroot waardevolle inzichten om de waarde te maximaliseren en de acceptatie van oplossingen voor Adoben te vergroten.
-source-git-commit: b023ed45c159d848f28f159348a21763d4c539f5
+source-git-commit: 2cf8e724088594be85182d65ac106e8118920474
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '124'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 0%
 + 2024 {#2024}
    + [Prioriteit gegevensstroom](2024/data-stream-prioritization.md)
    + [Lean Teams monteren](2024/empowering-lean-teams.md)
+   + [Expedia gaat van Adobe Analytics naar Customer Journey Analytics](2024/expedia-aa-to-cja.md)
    + [Strategisch leiderschap](2024/strategic-leadership.md)
 + 2023 {#2023}
    + [De Stichting voor Personalisatie op schaal bouwen](2023/personalization-at-scale.md)
