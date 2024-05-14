@@ -3,9 +3,9 @@ user-guide-title: Overzicht van Adobe Experience Manager as a Cloud Service-rele
 user-guide-breadcrumb: AEMCS Release Events
 user-guide-description: Bekijk een kort overzicht van de nieuwste functies op Adobe Experience Manager as a Cloud Service
 breadcrumb-title: AEM CS-releaseupdates
-source-git-commit: 8fdbc89be6e17116ef4f3fe1c3a0465783fa63f4
+source-git-commit: c22e8000c84765100c5b3c70bb249d38b4ed6178
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '99'
 ht-degree: 1%
 
 ---
@@ -15,6 +15,7 @@ ht-degree: 1%
 
 + [Overzicht](overview.md)
 + 2024 {#2024}
+   + [2024,4,0](2024/2024-4-0.md)
    + [2024,3,0](2024/2024-3-0.md)
    + [2024,1,0](2024/2024-1-0.md)
 + 2023 {#2023}
