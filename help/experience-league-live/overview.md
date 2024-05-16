@@ -8,9 +8,9 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 0b2f63198af8767f24783dbafd244c9398c24f33
+source-git-commit: 34b3c72c487bd43cd8b1ec0e94e107dfb72be850
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '169'
 ht-degree: 1%
 
 ---
@@ -26,16 +26,9 @@ Experience League LIVE is een live streaming show die wordt gemaakt door het tea
 <table>
 <tr>
 
-<td style="vertical-align: top;"><a href="episodes/exl-live-episode-05-16-24.md">
-      <img alt="Experience League LIVE 16 mei 2024" src="episodes/assets/WebBanner-May16-2024.jpg">
-    </a>
-    <div>
-      <a href="episodes/exl-live-episode-05-16-24.md">
-        <strong>Dit is de manier...om Analytics aan Web SDK te migreren</strong>
-      </a>
-      <br/><em>met Doug Moore, Mitch Rice en Joe Khoury</em>
-      <br/><em>16 mei 2024</em>
-    </div>
+<td style="vertical-align: top;"><b>Kom binnenkort terug op deze pagina voor meer informatie over onze shows uit juni 2024:</b><br/>
+    * H1 2024-releases voor Adobe Real-time Customer Data Platform<br/>
+    * Adobe Workfront Unified Review &amp; Approval
   </td>
 </tr>
 </table>
