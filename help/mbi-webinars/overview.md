@@ -1,9 +1,9 @@
 ---
-title: Commerciële inlichtingenwebinars
-description: Onderzoek de geregistreerde webinars van de Inlichtingendienst van de Handel, die een brede waaier van onderwerpen en beste praktijken voor het gebruiken van de Inlichtingen van de Handel aan zijn maximaal potentieel behandelen.
+title: Commerce Intelligence Webinars
+description: Ontdek de door de Commerce Intelligence opgenomen webinars, die een breed scala aan onderwerpen en beste praktijken bestrijken om Commerce Intelligence optimaal te gebruiken.
 exl-id: a1f2585f-5619-4f69-a7dc-75bc90aa3cd5
 duration: 77
-source-git-commit: 17a9052c99275eff0599c64be3d6872e60c52fe1
+source-git-commit: 78cb08c0aabfa98db97e1b7c1cee466e7c3578df
 workflow-type: tm+mt
 source-wordcount: '251'
 ht-degree: 1%
@@ -16,9 +16,9 @@ ht-degree: 1%
 >
 >Adobe Commerce Intelligence stond voorheen bekend als [!DNL Magento Business Intelligence (MBI)]. Opnamen voor gebeurtenissen uit het verleden geven de vorige naam weer.
 
-De webinarserie van de Intelligentie van de Handel is een periodieke gebeurtenis voor de klanten van de Intelligentie van de Handel. De webinars bestrijken een breed scala aan onderwerpen en beste praktijken om de inlichtingen van de Handel ten volle te benutten.
+De Commerce Intelligence-webinarserie is een periodieke gebeurtenis voor Commerce Intelligence-klanten. De webinars bestrijken een breed scala aan onderwerpen en beste praktijken om Commerce Intelligence optimaal te gebruiken.
 
-Aanwezigen uit alle regio&#39;s kunnen live deelnemen aan de gebeurtenissen om het product beter te begrijpen en hun vragen over de functie van de Intelligentie van de Handel rechtstreeks te beantwoorden.
+Aanwezigen uit alle landen kunnen live deelnemen aan de gebeurtenissen om het product beter te begrijpen en hun vragen over de Commerce Intelligence-functionaliteit rechtstreeks te beantwoorden.
 
 De onderwerpen worden herhaald af en toe om het even welke nieuwe vragen aan te passen die de klanten kunnen stellen.
 
@@ -36,20 +36,20 @@ De onderwerpen worden herhaald af en toe om het even welke nieuwe vragen aan te 
       </a>
     </div>
     <p>
-    <em>Leer rechtstreeks van het productteam over de kernfunctionaliteit van de Intelligentie van de Handel met een diepe duik in pre-gevormde dashboards en beschikbare aanpassingsopties.</em>
+    <em>Leer rechtstreeks van het productteam over de kernfunctionaliteit van Commerce Intelligence, met een diepe duik in vooraf geconfigureerde dashboards en aanpassingsopties die beschikbaar zijn.</em>
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.corp.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2024/manage-data-sets-adobe-commerce.html">
+    <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2024/manage-data-sets-adobe-commerce.html">
       <img alt="Gegevenssets beheren in Adobe Commerce Intelligence" src="https://video.tv.adobe.com/v/3427547?format=jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.corp.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2024/manage-data-sets-adobe-commerce.html">
+      <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2024/manage-data-sets-adobe-commerce.html">
         <strong>Gegevenssets beheren in Adobe Commerce Intelligence</strong>
       </a>
     </div>
     <p>
-    <em>Ontdek de robuuste functies van de Commerce Intelligence Data Warehouse Manager rechtstreeks van het productteam.</em>
+    <em>Ontdek de robuuste functionaliteit van de Commerce Intelligence Data Warehouse Manager rechtstreeks van het Product team.</em>
     <p>
   </td>
    <td>
@@ -74,5 +74,5 @@ De onderwerpen worden herhaald af en toe om het even welke nieuwe vragen aan te 
 
 ## Nuttige bronnen
 
-- [Video&#39;s en zelfstudies van de Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/filter-sets.html)
-- [Handboek voor informatie over handel](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=nl)
+- [Commerce Intelligence-video&#39;s en zelfstudies](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/filter-sets.html)
+- [Commerce Intelligence-gebruikersgids](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=nl)
