@@ -3,9 +3,9 @@ title: APAC Commerce Webinar Series
 description: De APAC Commerce Webinar-reeks is een maandelijks aantal workshops voor klanten van Adobe Commerce, die een groot aantal onderwerpen bestrijkt, variërend van best practices tot productroutekaart en trends in de branche.
 exl-id: 829502f9-3b2a-426c-a06c-7edcde000c72
 duration: 66
-source-git-commit: d6689f340b954778892c8a7de07607a156c9f069
+source-git-commit: d8f496970aeca03fa8e03986dea903409fc71284
 workflow-type: tm+mt
-source-wordcount: '220'
+source-wordcount: '210'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,19 @@ De APAC Commerce Webinar-reeks is een maandelijks aantal workshops voor klanten 
 
 <table>
 <tr>
+  <td>
+    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2024/accelerator-day/overview.html">
+      <img alt="Versnellingsdag" src="https://video.tv.adobe.com/v/3429276?format=jpeg" />
+    </a>
+     <div>
+      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2024/accelerator-day/overview.html">
+        <strong>Adobe Commerce Accelerator Day</strong>
+      </a>
+    </div>
+    <p>
+    <em>Adobe en de Gemenebest Bank van Australië (CBA) laten innovaties op het gebied van handel, cloud en betalingsoplossingen zien.</em>
+    <p>
+  </td>
   <td>
     <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2024/innovation-spotlight.html">
       <img alt="Adobe Commerce Innovation Spotlight Webinar" src="https://video.tv.adobe.com/v/3427965?format=jpeg" />
@@ -42,19 +55,6 @@ De APAC Commerce Webinar-reeks is een maandelijks aantal workshops voor klanten 
     </div>
     <p>
     <em>Verken de integratie van creativiteit en handel.</em>
-    <p>
-  </td>
-  <td>
-    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2024/grow-ecommerce-business.html">
-      <img alt="Voordelen van upgrade naar Adobe Commerce 2.4.4" src="https://video.tv.adobe.com/v/3428817?format=jpeg" />
-    </a>
-     <div>
-      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2024/grow-ecommerce-business.html">
-        <strong>7 manieren om een eCommerce-bedrijf organisch te kweken</strong>
-      </a>
-    </div>
-    <p>
-    <em>Vergroot waardevolle inzichten en praktische tips voor het organisch uitbreiden van e-commerce-bedrijven via SEO-strategieën</em>
     <p>
   </td>
 </tr>

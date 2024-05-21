@@ -2,10 +2,10 @@
 user-guide-title: APAC Commerce Events
 breadcrumb-title: APAC Commerce Events
 user-guide-description: Adobe Commerce Events is een videobibliotheek waar experts en collega's hun gedachten en ideeën over het gebruik van Adobe Commerce hebben gedeeld.
-source-git-commit: d6689f340b954778892c8a7de07607a156c9f069
+source-git-commit: 4b65bfcf2f3025b1b5deddef7f8347000e0af2ce
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 1%
+source-wordcount: '136'
+ht-degree: 0%
 
 ---
 
@@ -14,6 +14,18 @@ ht-degree: 1%
 
 + [Overzicht](overview.md)
 + 2024 {#2024}
+   + [Versnellingsdag](2024/accelerator-day/overview.md)
+   + Versnellingsdag{#accelerator-day}
+      + [Verborgen: morgen navigeren](./2024/accelerator-day/navigating-tomorrow.md)
+      + [Verborgen: Deelvenster voorbij randen](./2024/accelerator-day/panel-beyond-borders.md)
+      + [Verborgen: Ervaring evolutie](./2024/accelerator-day/experience-evolution.md)
+      + [Verborgen: Deelvenster tikt naar morgen](./2024/accelerator-day/panel-tapping-into-tomorrow.md)
+      + [Verborgen: Next-gen Commerce](./2024/accelerator-day/next-gen-commerce.md)
+      + [Verborgen: onder het oppervlak](./2024/accelerator-day/beneath-the-surface.md)
+      + [Verborgen: blikssnelheid](./2024/accelerator-day/lightning-speed.md)
+      + [Verborgen: Composability](./2024/accelerator-day/composability.md)
+      + [Verborgen: kanaalsymfonie](./2024/accelerator-day/cross-channel-symphony.md)
+      + [Verborgen: De kunst van Commerce](./2024/accelerator-day/the-art-of-commerce.md)
    + [Innovatiespotlight-webinar](2024/innovation-spotlight.md)
    + [Hoe Visionary Thinking Commerce transformeert](2024/visionary-thinking.md)
    + [7 manieren om een eCommerce-bedrijf organisch te kweken](2024/grow-ecommerce-business.md)
