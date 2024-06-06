@@ -4,10 +4,10 @@ description: Bekijk een kort overzicht van de nieuwste functies op Adobe Experie
 user-guide-breadcrumb: AEM Release Events
 exl-id: 5406adc9-173b-461b-bd91-59913d961aa0
 duration: 91
-source-git-commit: cbf8d71cd9d7071ea70907e550ed3e602a026304
+source-git-commit: 6d8e23f544f23b09f545eb2e09978b8bb26b647e
 workflow-type: tm+mt
-source-wordcount: '204'
-ht-degree: 9%
+source-wordcount: '177'
+ht-degree: 1%
 
 ---
 
@@ -28,7 +28,7 @@ Bekijk een kort overzicht van de nieuwste functies op Adobe Experience Manager a
           <strong>Geen | 2024,5,0</strong>
         </a>
       </div>
-      <p><em>Releasedatum mei 2024 </em></p>
+      <em>Releasedatum mei 2024 </em>
       <p>
         <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Aanvullende informatie</a>
       </p>
@@ -49,10 +49,7 @@ Bekijk een kort overzicht van de nieuwste functies op Adobe Experience Manager a
           <strong>Geen | 2024,4,0</strong>
         </a>
       </div>
-      <p><em>Releasedatum april 2024 </em></p>
-      <p>
-        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Aanvullende informatie</a>
-      </p>
+      <em>Releasedatum april 2024 </em>
     </td>
     <td>
       <a href="2024/2024-3-0.md">
@@ -63,10 +60,7 @@ Bekijk een kort overzicht van de nieuwste functies op Adobe Experience Manager a
           <strong>Geen | 2024,3,0</strong>
         </a>
       </div>
-      <p><em>Releasedatum april 2024 </em></p>
-      <p>
-        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Aanvullende informatie</a>
-      </p>
+      <em>Releasedatum april 2024 </em>
     </td>
     <td>
       <a href="2024/2024-1-0.md">
@@ -79,9 +73,6 @@ Bekijk een kort overzicht van de nieuwste functies op Adobe Experience Manager a
         </a>
           <em>Releasedatum januari 2024 </em>
       </div>
-      <p>
-        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Aanvullende informatie</a>
-      <p>
     </td>
   </tr>
   <tr>
@@ -96,9 +87,6 @@ Bekijk een kort overzicht van de nieuwste functies op Adobe Experience Manager a
         </a>
           <em>Releasedatum november 2023 </em>
       </div>
-      <p>
-        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Aanvullende informatie</a>
-      <p>
     </td>
     <td>
       <a href="2023/2023-10-0.md">
@@ -111,9 +99,6 @@ Bekijk een kort overzicht van de nieuwste functies op Adobe Experience Manager a
         </a>
           <em>Releasedatum oktober 2023 </em>
       </div>
-      <p>
-        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Aanvullende informatie</a>
-      <p>
     </td>
     <td>
       <a href="2023/2023-9-0.md">
@@ -126,9 +111,6 @@ Bekijk een kort overzicht van de nieuwste functies op Adobe Experience Manager a
         </a>
           <em>Releasedatum september 2023 </em>
       </div>
-      <p>
-        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Aanvullende informatie</a>
-      <p>
     </td>
   </tr>
   <tr>    
@@ -143,9 +125,6 @@ Bekijk een kort overzicht van de nieuwste functies op Adobe Experience Manager a
         </a>
           <em>Releasedatum augustus 2023 </em>
       </div>
-      <p>
-        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Aanvullende informatie</a>
-      <p>
     </td>
     <td>
       <a href="2023/2023-7-0.md">
@@ -158,9 +137,6 @@ Bekijk een kort overzicht van de nieuwste functies op Adobe Experience Manager a
         </a>
           <em>Releasedatum juli 2023 </em>
       </div>
-      <p>
-        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Aanvullende informatie</a>
-      <p>
     </td>
     <td>
       <a href="2023/2023-6-0.md">
@@ -173,9 +149,6 @@ Bekijk een kort overzicht van de nieuwste functies op Adobe Experience Manager a
         </a>
           <em>Releasedatum juni 2023 </em>
       </div>
-      <p>
-        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Aanvullende informatie</a>
-      <p>
     </td>
   </tr>
 </table>
