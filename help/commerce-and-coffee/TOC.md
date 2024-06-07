@@ -1,19 +1,20 @@
 ---
-user-guide-title: Handel en koffie
-breadcrumb-title: Handel en koffie
+user-guide-title: Commerce- en Coffee-gebeurtenissen
+breadcrumb-title: Commerce- en Coffee-gebeurtenissen
 user-guide-description: Adobe Commerce en Coffee is een videobank waar experts en collega's hun gedachten en ideeën over het gebruik van Adobe Commerce delen.
-source-git-commit: 01689cc3c8f1d21e1ea223b8ee0fa3f22019fbcf
+source-git-commit: 142e427ea8c6406b869dcb50db5f0f08a034e273
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: '81'
 ht-degree: 2%
 
 ---
 
 
-# Handel en koffie {#commerce-and-coffee-recordings}
+# Commerce en koffie {#commerce-and-coffee-recordings}
 
 + [Overzicht](overview.md)
 + 2024 {#2024}
+   + [Ecommerce Essentials](2024/ecommerce-essentials.md)
    + [Ervaringen op het gebied van eCommerce personaliseren met AI](2024/personalize-ecommerce.md)
 + 2023 {#2023}
    + [Mij vragen](2023/ask-me-anything.md)
@@ -23,7 +24,7 @@ ht-degree: 2%
    + [B2B-succes inschakelen](2023/b2b.md)
 + 2022 {#2022}
    + [AI en Automation](2022/ai-and-automation.md)
-   + [E-Commerce-trends](2022/ecommerce-trends.md)
+   + [E-Commerce Trends](2022/ecommerce-trends.md)
    + [Retrospectief vakantie](2022/holiday.md)
    + [Voorbereiding piek seizoen](2022/peak-season-prep.md)
    + [Piekseizoen Mij iets vragen](2022/peak-season-ask-anything.md)
