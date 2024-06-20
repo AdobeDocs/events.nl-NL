@@ -9,7 +9,8 @@ role: Developer
 level: Intermediate
 doc-type: Event
 duration: 3600
-source-git-commit: d9fcab5e7cde89e24cb746bc4f24ab2edc41848c
+exl-id: c33fab30-649e-43b3-b1df-cf57e42d3612
+source-git-commit: e364366d7df321ebbcb598ac15e237e5626a4087
 workflow-type: tm+mt
 source-wordcount: '286'
 ht-degree: 0%
@@ -18,8 +19,7 @@ ht-degree: 0%
 
 # Webinar Date: 19 juni 2024
 
-Dit webinar zal woensdag 19 juni - 17:00 uur CEST / 8.00 uur PDT / 8.30 uur IST worden uitgezonden.
-Meld u aan via onze [gebeurtenispagina](https://adobe.ly/3wLRpdI).
+Dit webinar is gehouden op woensdag 19 juni - 17.00 uur CEST / 08.00 uur PDT / 08.30 uur IST. Bekijk de onderstaande opname.
 
 ## De ontwikkelaarservaring voor AEM Assets verbeteren met onze nieuwe API&#39;s en gebeurtenissen
 
@@ -34,10 +34,12 @@ AEM ontwikkelaars hebben de mogelijkheid om de nieuw geïntroduceerde Assets Ope
 * Ian Reasor, Senior Computer Scientist, Adobe
 * Ievgen Nedoviewov, Manager, Software Engineering, Adobe
 
-## Webinar Community Interactie
+## Webinar-opname
+
+>[!VIDEO](https://video.tv.adobe.com/v/3430198)
 
 >[!NOTE]
 > 
->* Voor sessiespecifieke communityinteracties over Experience League gaat u naar de betreffende [Contextuele thread](https://adobe.ly/3UQXwFO).
+>* Voor sessiespecifieke community-interacties over dit webinar op Experience League kunt u de respectievelijke [Contextuele thread](https://adobe.ly/3UQXwFO).
 >
 >* Meld u aan bij [Gebruikersgroep AEM Adobe](https://aem-augs.adobe.com/).

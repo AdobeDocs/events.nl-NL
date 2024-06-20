@@ -12,9 +12,9 @@ type: Event
 user-guide-description: AEM GEM-sessies
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 2f4720df0080c4121892fbdfab1a0cbcf1be850e
+source-git-commit: 338f58a58dc88d72fc641eb51d87ca4bf410be02
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: '290'
 ht-degree: 0%
 
 ---
@@ -25,8 +25,7 @@ ht-degree: 0%
 
 ## Aanstaande GEMs-gebeurtenis AEM
 
-29 mei 2024 - **Edge Delivery Services en AEM Assets**
-De registratie wordt binnenkort geopend...
+De komende webinars worden in juli 2024 aangekondigd.
 
 <!--  Remove the comment marks, and put the upcoming event in the below table
 
@@ -51,9 +50,9 @@ De registratie wordt binnenkort geopend...
 
 ## Vorige AEM GEMs-gebeurtenis
 
-Onze nieuwste AEM GEM&#39;s webinar op **Aan de slag met Edge Delivery Services voor AEM Forms** is uitgevoerd op *17 april 2024*.
+Onze nieuwste AEM GEM&#39;s webinar op **De ontwikkelaarservaring voor AEM Assets verbeteren met onze nieuwe API&#39;s en gebeurtenissen** is uitgevoerd op *19 juni 2024*.
 De **opnemen** te vinden op :
-[Aan de slag met Edge Delivery Services voor AEM Forms](gems2024/edge-delivery-for-aem-forms.md)
+[De ontwikkelaarservaring voor AEM Assets verbeteren met onze nieuwe API&#39;s en gebeurtenissen](gems2024/improving-dev-experience-for-aem-assets-with-new-apis-and-events.md)
 
 >[!NOTE]
 >
