@@ -8,9 +8,9 @@ event-cta-url-live: https://www.youtube.com/live/Cw5004YGMbc
 event-start-time: 2024-06-26 09:00-7
 event-guests: Doug Moore,Nina Caruso,Rudi Shumpert
 duration: 25
-source-git-commit: 903592d895ca62e738794e9b8d91e1180acb2478
+source-git-commit: 33de0c8d1af0afe68c602cc566f9fb91a148a302
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '256'
 ht-degree: 1%
 
 ---
@@ -19,11 +19,11 @@ ht-degree: 1%
 
 Meer informatie over de nieuwste functies in Adobe Real-Time CDP die de afgelopen maanden zijn geïntroduceerd, kunt u zien hoe ze een verschil kunnen maken voor uw bedrijf.
 
-[![ExL LIVE jan 17 2024](assets/WebBanner-June26-2024.jpg)](https://engage.adobe.com/ExpLeagueLive-240626.html)
+>[!VIDEO](https://video.tv.adobe.com/v/331788/?quality=12&learn=on)
 
-[REGISTER NU!](https://engage.adobe.com/ExpLeagueLive-240626.html)
+**Als u de discussie wilt voortzetten, bezoek dan onze [discussie over het Experience League](https://experienceleaguecommunities.adobe.com/t5/real-time-customer-data-platform/experience-league-live-post-session-discussion-how-the-latest/m-p/685150#M67){target="_blank"}**
 
-**Details**: Bent u een huidige Real-Time CDP-deskundige die inzicht zoekt in wat nieuw is in het product, waarom het van belang is en hoe Adobe u kan helpen uw strategieën voor het beheer van klantgegevens te verbeteren? Kijk niet verder - je bent op de juiste plek gekomen! In deze reeks duiken we diep in wat onlangs in Real-Time CDP gelanceerd is, zodat je kunt profiteren van wat nieuw is, en een impact kunt hebben op je organisatie.\
+**Details tonen**: Bent u een huidige Real-Time CDP-deskundige die inzicht zoekt in wat nieuw is in het product, waarom het van belang is en hoe Adobe u kan helpen uw strategieën voor het beheer van klantgegevens te verbeteren? Kijk niet verder - je bent op de juiste plek gekomen! In deze reeks duiken we diep in wat onlangs in Real-Time CDP gelanceerd is, zodat je kunt profiteren van wat nieuw is, en een impact kunt hebben op je organisatie.\
 In deze sessie bespreken en tonen we vijf nieuwe functies die de afgelopen maanden zijn gestart:
 
 1. Playbooks voor gebruiksscenario
@@ -37,6 +37,4 @@ Als u deze sessie verlaat, kunt u het volgende verwachten:
 * Begrijp hoe deze eigenschappen in praktijk, door een levende demo werken
 * Leer waarom deze mogelijkheden effect hebben, die u als praktiserer efficiëntie en waarde bieden
 * De nieuwe functies nu kunnen benutten
-
-Zoals altijd, laat deze levende zitting u vragen in de chat stellen en antwoorden van de deskundigen krijgen.
 

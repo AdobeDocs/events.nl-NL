@@ -8,9 +8,9 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: b38221f215d93a24838a607da1def2129f398bb3
+source-git-commit: 33de0c8d1af0afe68c602cc566f9fb91a148a302
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '166'
 ht-degree: 1%
 
 ---
@@ -26,16 +26,8 @@ Experience League LIVE is een live streaming show die wordt gemaakt door het tea
 <table>
 <tr>
 
-<td style="vertical-align: top;"><a href="episodes/exl-live-episode-06-26-24.md">
-      <img alt="Experience League LIVE 26 juni" src="episodes/assets/WebBanner-June26-2024.jpg">
-    </a>
-    <div>
-      <a href="episodes/exl-live-episode-06-26-24.md">
-        <strong>Hoe de nieuwste Adobe Real-Time CDP-versies de naald voor uw bedrijf kunnen verplaatsen</strong>
-      </a>
-      <br/><em>met Nina Caruso, Rudi Shumpert en Doug Moore</em>
-      <br/><em>26 juni 2024</em>
-    </div>
+<td style="vertical-align: top;">
+      <b>Kom binnenkort terug om te leren over nieuwe, komende shows! In de tussentijd kunt u onze vorige afleveringen weergeven door op koppelingen onder of in de linkernavigatie te klikken.</b>
   </td>
 </tr>
 </table>
