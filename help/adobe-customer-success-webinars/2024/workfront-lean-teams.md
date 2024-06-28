@@ -8,13 +8,13 @@ doc-type: Event
 duration: 2148
 last-substantial-update: 2024-06-07T00:00:00Z
 jira: KT-15558
-source-git-commit: 142e427ea8c6406b869dcb50db5f0f08a034e273
+exl-id: 1ab0e81c-50eb-4416-baa1-e80572ffe783
+source-git-commit: 4471d715fb226701bdad95ffe2834e763451c7ea
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '219'
 ht-degree: 0%
 
 ---
-
 
 # Maximale efficiëntie met Adobe Workfront: Lean Teams Webinar
 
@@ -27,3 +27,31 @@ Inzichtelijke strategieën en praktische benaderingen voor organisaties die hun 
 * Doorlopend leren en aanpassen
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429287/?learn=on)
+
+## Overzicht van vergaderingen
+
+De vergadering was toegespitst op Lean Teams en het maximaliseren van de efficiëntie met Adobe Workfront. Hier volgt een overzicht van de belangrijkste punten die worden besproken.
+
+**Leerteams en efficiëntie**
+
+* Gesprek over de uitdagingen waarmee Lean teams worden geconfronteerd.
+* Gemarkeerde doelstellingen en voordelen van Lean management.
+* Benadrukte beginselen in verband met Lean management.
+
+**Efficiëntiestrategieën**
+
+* Het belang van voortdurende verbetering.
+* De communicatie stroomlijnen.
+* Gegevensgestuurde beslissingen nemen.
+
+**Workfront Tools**
+
+* Het gebruik van Workfront-gereedschappen, zoals blauwdrukken, bronnenplanner en integratie voor succes.
+
+**Key Takeaways**
+
+* Strategieën voor efficiëntie.
+* Communicatie stroomlijnen.
+* Gegevensgestuurde besluitvorming.
+* Een leermentaliteit bevorderen.
+* Betrokkenheid bij de Workfront-gemeenschap voor ondersteuning en beste praktijken.

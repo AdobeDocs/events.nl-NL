@@ -7,13 +7,13 @@ doc-type: Event
 duration: 3544
 last-substantial-update: 2024-06-07T00:00:00Z
 jira: KT-15604
-source-git-commit: 142e427ea8c6406b869dcb50db5f0f08a034e273
+exl-id: 7afdf1ae-a73a-4b04-92bf-6deacc2925fc
+source-git-commit: 4471d715fb226701bdad95ffe2834e763451c7ea
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '400'
 ht-degree: 0%
 
 ---
-
 
 # Marketo &amp; Mochas: De Stichting voor het Succes van de Nurtuur van de Lood lanceren
 
@@ -24,3 +24,24 @@ Met loodverpleging kunnen marketers op consistente wijze communiceren via versch
 Carly leidt ook een live demonstratie en begeleidt u door het opzetten van een betrokkenheidsprogramma met behulp van de sjabloon Best Practice uit de Marketo Program Library. Zoals altijd zullen we ook uw vragen live beantwoorden tijdens vragen en antwoorden!
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429436/?learn=on)
+
+## Top 3 Key Takeaways on Lead Nurturturturturturturturturing
+
+
+**Het belang van de onrust op de lood**
+
+* Loodvoeding is van cruciaal belang voor het opbouwen van effectieve relaties met potentiële klanten.
+* Het omvat het delen van middelen, het verstrekken van nuttige informatie, het opleiden van producten en de diensten, en het personaliseren van interactie.
+* Helpt de neiging van een vooruitzicht te verhogen om te kopen, vertrouwen te bouwen, merk en gedacht leiderschap te verbeteren, en de verkoopcyclus te verkorten.
+
+**Strategieën voor effectieve sturing van lood**
+
+* Definieer duidelijke doelstellingen, lijn marketing en verkoop inspanningen, identificeer doelpubliek, en segmentgegevens effectief.
+* Selecteer de juiste typen campagnes, gebruik bestaande inhoud opnieuw, maak nieuwe inhoud en gebruik gereedschappen zoals Marketo.
+* Bestaande inhoud gebruiken, publiek segmenteren, inhoud personaliseren, optimaliseren op basis van prestatiemetriek en het succes meten.
+
+*E-mailcampagnes en besluitvorming optimaliseren*
+
+* U kunt overwegen geneste programma&#39;s of gebeurtenissen te gebruiken om programmasjablonen te maken voor complexe e-mailcampagnes.
+* Het besluit om het opvoeden van de leiding te stoppen, afstemmen op het doel van de opvoedingscampagne.
+* Vermoedig betrokkenheid door tot vroegere opnamen toegang te hebben, komende gebeurtenissen, het downloaden van middelen, het invullen van onderzoeken, en het bereiken aan rekeningsmanagers voor vragen.

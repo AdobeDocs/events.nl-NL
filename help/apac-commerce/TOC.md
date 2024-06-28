@@ -2,9 +2,9 @@
 user-guide-title: APAC Commerce Events
 breadcrumb-title: APAC Commerce Events
 user-guide-description: Adobe Commerce Events is een videobibliotheek waar experts en collega's hun gedachten en ideeën over het gebruik van Adobe Commerce hebben gedeeld.
-source-git-commit: e2beb9336151eddc3cb29470fab12e77a4f8ffb0
+source-git-commit: 4471d715fb226701bdad95ffe2834e763451c7ea
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: '142'
 ht-degree: 0%
 
 ---
@@ -29,9 +29,10 @@ ht-degree: 0%
    + [Commerce en composability](2024/commerce-and-composability.md)
    + [Innovatiespotlight-webinar](2024/innovation-spotlight.md)
    + [Hoe Visionary Thinking Commerce transformeert](2024/visionary-thinking.md)
+   + [Beveiliging in Adobe Commerce](2024/security-overview.md)
    + [7 manieren om een eCommerce-bedrijf organisch te kweken](2024/grow-ecommerce-business.md)
 + 2023 {#2023}
-   + [Persoonlijke functies van AI](2023/ai-personalisation.md)
+   + [PERSONALIZATION met AI-mogelijkheden](2023/ai-personalisation.md)
    + [PaaS Cloud Commerce van Adobe](2023/adobes-paas-cloud-commerce.md)
    + [De omzettingen van de elektronische handel bevorderen](2023/ecommerce-conversions.md)
    + [Samengestelde handelsstrategieën](2023/composable-commerce.md)
