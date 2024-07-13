@@ -12,9 +12,9 @@ type: Event
 user-guide-description: AEM GEM-sessies
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 338f58a58dc88d72fc641eb51d87ca4bf410be02
+source-git-commit: 658be21bfe19a3070d0dafbb753fc3292610e989
 workflow-type: tm+mt
-source-wordcount: '290'
+source-wordcount: '318'
 ht-degree: 0%
 
 ---
@@ -23,9 +23,9 @@ ht-degree: 0%
 
 <img alt="Digitale ervaringen" src="./assets/ADX_Gems.png"/>
 
-## Aanstaande GEMs-gebeurtenis AEM
+## De komende AEM van GEMs webinar - Integrating Private GitHub Repositories in AEM Cloud Manager
 
-De komende webinars worden in juli 2024 aangekondigd.
+Dit webinar zal worden gehouden op woensdag 31 juli - 17:00 CEST / 08:00 uur PDT / 08.30 uur IST. Merk op dat slechts registratie voor dit webinar wordt vereist - gelieve [ hier ](https://adobe.ly/3LmXfGk) te registreren.
 
 <!--  Remove the comment marks, and put the upcoming event in the below table
 
@@ -50,17 +50,17 @@ De komende webinars worden in juli 2024 aangekondigd.
 
 ## Vorige AEM GEMs-gebeurtenis
 
-Onze nieuwste AEM GEM&#39;s webinar op **De ontwikkelaarservaring voor AEM Assets verbeteren met onze nieuwe API&#39;s en gebeurtenissen** is uitgevoerd op *19 juni 2024*.
-De **opnemen** te vinden op :
-[De ontwikkelaarservaring voor AEM Assets verbeteren met onze nieuwe API&#39;s en gebeurtenissen](gems2024/improving-dev-experience-for-aem-assets-with-new-apis-and-events.md)
+Ons recentste webinar van AEM GEMs op **het Verbeteren van de ontwikkelaarservaring voor AEM Assets met onze nieuwe APIs en Gebeurtenissen** is geleid op *19 juni, 2024*.
+De **opname** kan hier worden gevonden:
+[ Verbeterend de ontwikkelaarservaring voor AEM Assets met onze nieuwe APIs en Gebeurtenissen ](gems2024/improving-dev-experience-for-aem-assets-with-new-apis-and-events.md)
 
 >[!NOTE]
 >
-> Meld u aan om op de hoogte te worden gesteld van toekomstige webinars AEM GEM&#39;s en andere AEM gerelateerde gebeurtenissen - [Gebruikersgroep AEM Adobe](https://aem-augs.adobe.com/).
+> Teken omhoog om over aanstaande AEM webinars GEMs en andere AEM verwante gebeurtenissen worden meegedeeld - {de Groep van de Gebruiker van de AEM van de Adobe van 0} ](https://aem-augs.adobe.com/).[
 
 ## AEM GEM&#39;s - technische webinars rond AEM - voor ontwikkelaars die door ontwikkelaars worden geleverd
 
-Welkom bij **AEM GEM&#39;s** - onze webinar-reeks van technische diepteduiken op Adobe Experience Manager, die door experts van de Adobe is uitgebracht. Deze reeks vormt een aanvulling op de productdocumentatie en alle andere technische kanalen met betrekking tot Adobe Experience Manager, waardoor ontwikkelaars contact kunnen opnemen en dieper kunnen gaan op een specifiek onderwerp.
+Welkom aan **AEM GEMs** - onze webinar reeks van technische diepe duiken op Adobe Experience Manager, die door de deskundigen van de Adobe wordt geleverd. Deze reeks vormt een aanvulling op de productdocumentatie en alle andere technische kanalen met betrekking tot Adobe Experience Manager, waardoor ontwikkelaars contact kunnen opnemen en dieper kunnen gaan op een specifiek onderwerp.
 
 De webinars worden regelmatig uitgevoerd, met inbegrip van de volgende webinars:
 
@@ -71,7 +71,7 @@ De webinars worden regelmatig uitgevoerd, met inbegrip van de volgende webinars:
 
 ## Gemeenschap Experience League
 
-Ons [Gemeenschap Experience Manager](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community) spelen een kritieke rol bij het steunen van productgoedkeuring en klantensucces.
+Onze [ Gemeenschap van de Experience Manager ](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community) speelt een kritieke rol in het steunen van productgoedkeuring en klantensucces.
 
 * Verbinding: Netwerk met peers en Adobe personeel voor begeleiding en beste praktijken van implementatie aan het uitbreiden van productgebruik
 * Snelle antwoorden: Uitgebreide pool van praktijkoplossingen voor gebruiksscenario&#39;s ter ondersteuning van succesvol actief gebruik van Adobe-oplossingen
