@@ -1,6 +1,6 @@
 ---
-title: Adobe Admin Console-migratie
-description: Een exclusieve training voor MUG Leader over de komende Adobe Admin Console Migration. Deze vergadering heeft de stijl 'Train the Trainer', zodat u kunt nemen wat u leert en uw hoofdstukken kunt onderwijzen over deze aanstaande wijziging.
+title: Marketo Engage op identiteit Adobe voorbereiden
+description: Een exclusieve training voor de komende Adobe Admin Console Migration. Deze vergadering heeft de stijl 'Train the Trainer', zodat u kunt nemen wat u leert en uw hoofdstukken kunt onderwijzen over deze aanstaande wijziging.
 solution: Marketo
 feature: Administration
 role: Admin, Developer, Leader, User
@@ -9,17 +9,17 @@ doc-type: Event
 duration: 3416
 last-substantial-update: 2024-06-28T00:00:00Z
 jira: KT-15797
-source-git-commit: 7582ea084cdfe20cfc5bd4c62a5a1234b5c3bcac
+source-git-commit: 06283989c8d9da03fca8af3d8ceec65097732be4
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '182'
 ht-degree: 0%
 
 ---
 
 
-# Leidingstraining MUG: Adobe Admin Console-migratie
+# Marketo Engage op identiteit Adobe voorbereiden
 
-Een exclusieve training voor MUG Leader over de komende Adobe Admin Console Migration. Deze vergadering heeft de stijl &#39;Train the Trainer&#39;, zodat u kunt nemen wat u leert en uw hoofdstukken kunt onderwijzen over deze aanstaande wijziging.
+Een exclusieve training voor de komende Adobe Admin Console Migration. Deze vergadering heeft de stijl &#39;Train the Trainer&#39;, zodat u kunt nemen wat u leert en uw hoofdstukken kunt onderwijzen over deze aanstaande wijziging.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3430920/?learn=on)
 
