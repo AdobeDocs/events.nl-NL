@@ -22,9 +22,9 @@ Sluit u aan bij Cynthia Tillo, Principal Product Manager, Adobe Digital Marketin
 
 >[!VIDEO](https://video.tv.adobe.com/v/19570/?quality=9)
 
-*Geleverd op 30 augustus 2017*
+*Geleverde Augustus 30, 2017*
 
-**Gepresenteerd door**
+**Voorgesteld door:**
 
 * Cynthia Tillo, hoofd productmanager, Adobe
 * Herbert Wolfram, Director of Engineering, Adobe
@@ -32,7 +32,7 @@ Sluit u aan bij Cynthia Tillo, Principal Product Manager, Adobe Digital Marketin
 * Peter Ciszak, Computer Scientist, Adobe
 * Kirk Jones, Computer Scientist, Adobe
 
-**Presenter-dia&#39;s**
+**de dia&#39;s van de Presentator**
 
 [Bestand ophalen](assets/dynamicmedia83017.pdf)
 <!--

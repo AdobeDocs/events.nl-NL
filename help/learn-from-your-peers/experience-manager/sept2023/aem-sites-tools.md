@@ -27,6 +27,6 @@ Sluit u aan bij Adobe Experience Manager Champion, Cindy Underwood, omdat ze les
 * Metagegevensschema&#39;s voor mappen - Ontdek de kracht van gestructureerd inhoudsbeheer via schema&#39;s voor metagegevens voor mappen.
 * Metagegevensschema&#39;s - Verhoog de relevantie van de inhoud en gebruikerservaring door het ontwerp van het metagegevensschema te bepalen. Oprichting van rapporten: Inzichten op basis van gegevens aanwenden voor strategische besluitvorming door uitgebreide verslagen op te stellen.
 
-U kunt de presentatiedia&#39;s openen [hier](/help/learn-from-your-peers/assets/experience-manager/sept2023/AEM-Sites-Tools-Webinar.pdf).
+U kunt tot de presentatiedia&#39;s [ hier ](/help/learn-from-your-peers/assets/experience-manager/sept2023/AEM-Sites-Tools-Webinar.pdf) toegang hebben.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424735/?learn=on)

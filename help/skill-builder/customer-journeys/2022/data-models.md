@@ -1,6 +1,6 @@
 ---
-title: Gegevensmodellen ontwikkelen en aanpassen in Adobe [!DNL Campaign Classic]
-description: Leer hoe te om een gegevensschema binnen een gegevensmodel te ontwikkelen binnen [!DNL Campaign Classic]
+title: Gegevensmodellen ontwikkelen en aanpassen in Adobe  [!DNL Campaign Classic]
+description: verdien hoe te om een gegevensschema binnen een gegevensmodel binnen te ontwikkelen  [!DNL Campaign Classic]
 solution: Campaign Classic
 role: Admin, Data Architect, Data Engineer, User
 level: Intermediate, Experienced
@@ -17,8 +17,8 @@ ht-degree: 0%
 
 # Gegevensmodellen ontwikkelen en aanpassen in Adobe [!DNL Campaign Classic]
 
-Neem deel aan deze sessie met onze [!DNL Campaign] Trainer om te leren hoe u een gegevensschema binnen een gegevensmodel kunt ontwikkelen [!DNL Campaign Classic].
+Neem deel aan deze sessie met onze trainer voor [!DNL Campaign] om te leren hoe u een gegevensschema kunt ontwikkelen binnen een gegevensmodel in [!DNL Campaign Classic] .
 
-*Kamilia Tazi* Trainingsconsultant/Adobe
+*Kamilia Tazi* Opleidingsconsultant/Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/343829/?quality=12&learn=on)

@@ -1,6 +1,6 @@
 ---
 title: Tips en trucs voor de gebruikersinterface van AEM Sites Touch
-description: Lees de koelste tips en trucs over [!DNL AEM Sites] Tik op UI. Ontdek de functies van de aanraakinterface die u mogelijk wel of niet kent, zodat u meer kunt doen en het sneller kunt doen. Of het nu gaat om een inhoudstrateeg of een inhoudmarkator, u ontdekt een aantal van de verborgen onderdelen van de Touch-interface die u efficiënter en productiever maken.
+description: Leer de koelste uiteinden en de trucs over  [!DNL AEM Sites]  Aanraakinterface. Ontdek de functies van de aanraakinterface die u mogelijk wel of niet kent, zodat u meer kunt doen en het sneller kunt doen. Of het nu gaat om een inhoudstrateeg of een inhoudmarkator, u ontdekt een aantal van de verborgen onderdelen van de Touch-interface die u efficiënter en productiever maken.
 discoiquuid: 30cbcfed-fd63-465a-be79-eb2cfeec9078
 targetaudience: target-audience advanced
 exl-id: e5575c26-8725-4857-973f-b0991d48497b
@@ -12,9 +12,9 @@ ht-degree: 0%
 
 ---
 
-# Tips en trucs voor [!DNL AEM Sites] Aanraakinterface{#tips-and-tricks-for-aem-sites-touch-ui}
+# Tips en trucs voor [!DNL AEM Sites] Touch UI{#tips-and-tricks-for-aem-sites-touch-ui}
 
-Lees de koelste tips en trucs over [!DNL AEM Sites] Tik op UI. Ontdek de functies van de aanraakinterface die u mogelijk wel of niet kent, zodat u meer kunt doen en het sneller kunt doen. Of het nu gaat om een inhoudstrateeg of een inhoudmarkator, u ontdekt een aantal van de verborgen onderdelen van de Touch-interface die u efficiënter en productiever maken.
+Leer de koelste tips en trucs voor [!DNL AEM Sites] Touch UI. Ontdek de functies van de aanraakinterface die u mogelijk wel of niet kent, zodat u meer kunt doen en het sneller kunt doen. Of het nu gaat om een inhoudstrateeg of een inhoudmarkator, u ontdekt een aantal van de verborgen onderdelen van de Touch-interface die u efficiënter en productiever maken.
 
 In dit GEM leert u hoe te:
 
@@ -25,9 +25,9 @@ In dit GEM leert u hoe te:
 
 >[!VIDEO](https://video.tv.adobe.com/v/19377/?quality=9)
 
-*Geleverd op 3 juni 2015*
+*Geleverde 3 Juni, 2015*
 
-**Gepresenteerd door**
+**Voorgesteld door:**
 
 * Gabriel Walt, productmanager, Adobe
 * Gilles Knobloch, Engineering Manager, Adobe

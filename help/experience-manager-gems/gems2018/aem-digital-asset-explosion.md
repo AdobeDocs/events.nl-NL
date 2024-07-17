@@ -12,26 +12,26 @@ ht-degree: 0%
 
 ---
 
-# De explosie en [!DNL AEM Assets]{#the-digital-asset-explosion-aem-assets}
+# De explosie &amp; bewerking van digitale middelen [!DNL AEM Assets]{#the-digital-asset-explosion-aem-assets}
 
 Bij de Adobe hebben we een explosie gezien van digitale middelen op vier belangrijke gebieden:
 
 * De bestandsgrootte van digitale elementen die worden geproduceerd
 * Aantal geproduceerde digitale activa
 * De verwachtingen van onze gebruikers en klanten met betrekking tot digitale middelen
-* De verzoeken om grotere en grotere [!DNL AEM Assets] implementaties
+* De aanvragen voor grotere en grotere [!DNL AEM Assets] implementaties
 
-In deze sessie zullen we leren over de Digital Asset Explosion, de schaal van AEM begrijpen terwijl assets ontploffen, en een voorbeeld van de klant volgen tijdens de levenscyclus van hun [!DNL AEM Assets] project.
+In deze sessie zullen we leren over de Digital Asset Explosion, de schaal van AEM begrijpen terwijl assets ontploffen, en een voorbeeld van de klant volgen tijdens de levenscyclus van hun [!DNL AEM Assets] -project.
 
 >[!VIDEO](https://video.tv.adobe.com/v/21474/?quality=9)
 
-*Geleverd op 31 januari 2018*
+*Geleverde Januari 31, 2018*
 
-**Gepresenteerd door**
+**Voorgesteld door:**
 
 Clint Goudie-Nice, Sr. Software Engineer, Adobe
 
-**Presenter-dia&#39;s**
+**de dia&#39;s van de Presentator**
 
 [Bestand ophalen](assets/1+30+18+the+digital+asset+explosion+gems.pdf)
 <!--

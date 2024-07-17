@@ -17,11 +17,11 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/19133/?quality=9)
 
-*Gepresenteerd op 19 juli 2017*
+*Gepresenteerd 19 Juli, 2017*
 
-**Thomas Mueller, Senior Software Engineer, Adobe**
+**Thomas Mueller, de Hogere Ingenieur van de Software, Adobe**
 
-**Presenter-dia&#39;s**
+**de dia&#39;s van de Presentator**
 
 [Bestand ophalen](assets/aem-gems-aem-indexing-and-jcr-query.pdf)
 
@@ -31,17 +31,17 @@ Documentatie AEM
 
 >[!CAUTION]
 >
->**Alle opgenomen sessies worden weergegeven in de navigatie aan de linkerkant**.
+>**Alle geregistreerde zittingen zijn vermeld in de navigatie op de linkerzijde**.
 
 >[!WARNING]
 >
->AEM versies 6.4 en ouder zijn End of Life en worden niet meer door de Adobe verkocht.  Adobe raadt u aan een upgrade naar de nieuwste versie uit te voeren - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  Gearchiveerde versies van de documentatie zijn vanuit deze [page](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html).
+>AEM versies 6.4 en ouder zijn End of Life en worden niet meer door de Adobe verkocht.  De Adobe adviseert bevordering aan de recentste versie - [ Adobe Experience Manager as a Cloud Service ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  De gearchiveerde versies van de documentatie kunnen van deze [ pagina ](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html) worden betreden.
 >
->Zie voor meer informatie *Oak-query&#39;s en indexering* en *Beste praktijken voor Vragen en het Indexeren* in de documentatie AEM 6.3.
+>Aangezien het op deze zitting betrekking heeft gelieve te zien {de Vragen van Oak van 0} en het Indexeren *en* Beste praktijken voor Vragen en het Indexeren *in AEM 6.3 documentatie.*
 
 Oak-documentatie
 
-* [Zoekopdracht en indexen afbreken](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/deploying/queries-and-indexing.html)
+* [ Vraag en Indexen van Oak ](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/deploying/queries-and-indexing.html)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
@@ -49,9 +49,9 @@ Oak-documentatie
 
 >[!MORELIKETHIS]
 >
->* [Indexeren en JCR-query AEM](aem-indexing-jcr-query.md)
->* [Problemen met AEM replicatie oplossen](aem-troubleshooting-aem-replication.md)
->* [Problemen met distributie van inhoud oplossen](aem-troubleshooting-sling.md)
+>* [ AEM het Indexeren en Vraag JCR ](aem-indexing-jcr-query.md)
+>* [ het Oplossen van problemen AEM Replicatie ](aem-troubleshooting-aem-replication.md)
+>* [ het Oplossen van problemen die de Distributie van de Inhoud plaatsen ](aem-troubleshooting-sling.md)
 <!-- 
 >* linking to helpx, removed for now [Adobe Experience Manager: AEM 6.x Maintenance Tasks](https://helpx.adobe.com/experience-manager/kt/eseminars/ccoo-aem-Aug-register.html)
 -->

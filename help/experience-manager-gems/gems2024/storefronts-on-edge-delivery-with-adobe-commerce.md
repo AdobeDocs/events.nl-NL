@@ -1,6 +1,6 @@
 ---
 title: Winfronten samenstellen op Edge Delivery Services met Adobe Commerce
-description: Deze AEM GEMs webinar zal u leren hoe te om een krachtige opslaggelegenheid op Edge Delivery Services voor Adobe Commerce te bouwen. Wij zullen u door het opstellingsproces van uw project met het Boilerplate van de Handel en hoe te om het met de nieuwe diensten van de Handel te verbinden SaaS voor snelle en Sensei UI-verbeterde productcatalogusintegratie. Wij introduceren drop-in componenten, een reeks klantgerichte front-end componenten die storefront ontwikkeling versnellen. U leert de beste werkwijzen over het uitbreiden en opmaken ervan. Tot slot zullen wij de nieuwe eigenschappen van het de auteursrecht van de Levering van de Rand benadrukken om uw Ervaring van de Handel met authored inhoud te verrijken.
+description: Deze AEM GEMs webinar zal u leren hoe te om een krachtige opslaggelegenheid op Edge Delivery Services voor Adobe Commerce te bouwen. We begeleiden u door het installatieproces van uw project met de Commerce-bouwsteen en hoe u deze kunt verbinden met de nieuwe Commerce SaaS-services voor snelle en Sensei UI-verbeterde integratie van productcatalogi. Wij introduceren drop-in componenten, een reeks klantgerichte front-end componenten die storefront ontwikkeling versnellen. U leert de beste werkwijzen over het uitbreiden en opmaken ervan. Tot slot zullen we de nieuwe Edge Delivery-ontwerpfuncties benadrukken om uw Commerce-ervaringen te verrijken met authored content.
 solution: Experience Manager
 version: Cloud Service
 feature: Edge Delivery Services
@@ -12,7 +12,8 @@ duration: 3600
 last-substantial-update: 2024-02-29T00:00:00Z
 jira: KT-15066
 thumbnail: KT-15066.jpeg
-source-git-commit: 0534647ce6335dd9988451de2629bee65b4603e5
+exl-id: 6294fa1b-4807-484b-ac51-f01bb1dd9656
+source-git-commit: 1bb993b45f8e46a227ff20d58935be44bf97480b
 workflow-type: tm+mt
 source-wordcount: '276'
 ht-degree: 0%
@@ -21,11 +22,12 @@ ht-degree: 0%
 
 # Webinar Date: 6 maart 2024
 
-Tijd: 17:00 uur CET / 9.00 uur PDT / 9.30 uur IST Dit webinar is voltooid. Bekijk de onderstaande opname.
+Tijd: 17:00 CET / 9:00 PDT / 9.30 pm IST
+Dit webinar is voltooid. Bekijk de onderstaande opname.
 
 ## Winfronten samenstellen op Edge Delivery Services met Adobe Commerce
 
-Deze AEM GEMs webinar zal u leren hoe te om een krachtige opslaggelegenheid op Edge Delivery Services voor Adobe Commerce te bouwen. Wij zullen u door het opstellingsproces van uw project met het Boilerplate van de Handel en hoe te om het met de nieuwe diensten van de Handel te verbinden SaaS voor snelle en Sensei UI-verbeterde productcatalogusintegratie. Wij introduceren drop-in componenten, een reeks klantgerichte front-end componenten die storefront ontwikkeling versnellen. U leert de beste werkwijzen over het uitbreiden en opmaken ervan. Tot slot zullen wij de nieuwe eigenschappen van het de auteursrecht van de Levering van de Rand benadrukken om uw Ervaring van de Handel met authored inhoud te verrijken.
+Deze AEM GEMs webinar zal u leren hoe te om een krachtige opslaggelegenheid op Edge Delivery Services voor Adobe Commerce te bouwen. We begeleiden u door het installatieproces van uw project met de Commerce-bouwsteen en hoe u deze kunt verbinden met de nieuwe Commerce SaaS-services voor snelle en Sensei UI-verbeterde integratie van productcatalogi. Wij introduceren drop-in componenten, een reeks klantgerichte front-end componenten die storefront ontwikkeling versnellen. U leert de beste werkwijzen over het uitbreiden en opmaken ervan. Tot slot zullen we de nieuwe Edge Delivery-ontwerpfuncties benadrukken om uw Commerce-ervaringen te verrijken met authored content.
 
 ## Presentatoren
 
@@ -38,6 +40,6 @@ Deze AEM GEMs webinar zal u leren hoe te om een krachtige opslaggelegenheid op E
 
 >[!NOTE]
 > 
->* Ga voor sessiespecifieke community-interacties over Experience League naar onze [contextafhankelijke thread](https://adobe.ly/48m4dEm).
+>* Voor zitting specifieke communautaire interactie over Experience League gelieve onze [ contextuele draad ](https://adobe.ly/48m4dEm) te bezoeken.
 >
->* Meld u aan bij [Gebruikersgroep AEM Adobe](https://aem-augs.adobe.com/).
+>* Om berichten over onze aanstaande webinars te ontvangen, gelieve te registreren bij [ AEM de Groep van de Gebruiker van de Adobe ](https://aem-augs.adobe.com/).

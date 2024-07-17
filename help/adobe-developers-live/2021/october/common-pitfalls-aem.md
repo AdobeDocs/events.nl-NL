@@ -22,12 +22,12 @@ ht-degree: 4%
 
 Leer de meest voorkomende fouten die anderen hebben gemaakt, zodat u ze zelf kunt vermijden! In deze zitting zullen wij enkele gemeenschappelijke kwesties bekijken die onze aanwezigheidsingenieurs en steuningenieurs hebben gezien en beste praktijken bespreken om ervoor te zorgen dat u deze in uw eigen implementatie van Adobe Experience Manager as a Cloud Service kunt vermijden.
 
-Doorgaan met gesprek in **[Experience League Gemeenschappen](https://adobe.ly/3kLQK3j)**.
+Ga het gesprek in **[Gemeenschappen van het Experience League ](https://adobe.ly/3kLQK3j)** voort.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337852/?quality=12&learn=on&hidetitle=true)
 
 ## Aanvullende bronnen
 
-- [Adobe Experience Platform-documentatie](https://experienceleague.adobe.com/docs/experience-platform.html)
-- [Adobe Experience Platform - Overzicht](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html)
+- [ Documentatie van Adobe Experience Platform ](https://experienceleague.adobe.com/docs/experience-platform.html)
+- [ het Overzicht van Adobe Experience Platform ](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html)
 - [Tutorials voor Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=nl)

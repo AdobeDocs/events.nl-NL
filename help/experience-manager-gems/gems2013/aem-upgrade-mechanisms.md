@@ -18,13 +18,13 @@ Deze sessie beschrijft de upgrademechanismen in CQ/AEM, waarmee CQ zelf en aange
 
 >[!VIDEO](https://video.tv.adobe.com/v/19576/?quality=9)
 
-*Geleverd op 22 mei 2013*
+*Geleverde 22 Mei, 2013*
 
-**Gepresenteerd door**
+**Voorgesteld door:**
 
 Bertrand Delacdetailz, Senior Developer, Adobe
 
-**Presenter-dia&#39;s**
+**de dia&#39;s van de Presentator**
 
 [Bestand ophalen](assets/cqgems-bdelacretaz-cq-upgrades-2013-05-22.pdf)
 

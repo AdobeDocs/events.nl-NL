@@ -1,5 +1,5 @@
 ---
-title: JavaScript-bibliotheekoverzicht, tips en trucs voor foutopsporing
+title: JavaScript Library Overview, Debugging Tips & Tricks
 description: De recentste versies en eigenschappen, hoe te om at.js te zuiveren, het oplossen van problemen levende demo, zelf-steunmiddelen, en hoe te met steun in dienst te nemen.
 role: Admin, User
 level: Beginner
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ---
 
-# JavaScript-bibliotheekoverzicht, tips en trucs voor foutopsporing
+# JavaScript Library Overview, Debugging Tips &amp; Tricks
 
 Leer over: De recentste versies en eigenschappen, hoe te om at.js te zuiveren, het oplossen van problemen levende demo, zelf-steunmiddelen, en hoe te met steun in dienst te nemen.
 

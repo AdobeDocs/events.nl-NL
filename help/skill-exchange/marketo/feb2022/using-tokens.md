@@ -1,6 +1,6 @@
 ---
-title: Schaalbaarheid en efficiëntie met tokens in [!DNL Marketo Engage]
-description: Leer hoe u tokens kunt gebruiken die verder gaan dan personalisatie, zodat uw programma beter kan worden opgebouwd en bewerkingen efficiënter kunnen worden uitgevoerd in [!DNL Marketo Engage].
+title: Schaalbaarheid en efficiëntie met tokens in  [!DNL Marketo Engage]
+description: Leer hoe te om tekenen voorbij verpersoonlijking te gebruiken om uw programma te maken en verrichtingen efficiënter in  [!DNL Marketo Engage] bouwen.
 solution: Marketo Engage
 role: User
 level: Beginner
@@ -17,9 +17,9 @@ ht-degree: 0%
 
 # Schaalbaarheid en efficiëntie met tokens in [!DNL Marketo Engage]
 
-Leer hoe u tokens kunt gebruiken die verder gaan dan personalisatie, zodat uw programma beter kan worden opgebouwd en bewerkingen efficiënter kunnen worden uitgevoerd in [!DNL Marketo Engage].
+Leer hoe u tokens kunt gebruiken die verder gaan dan personalisatie, zodat uw programma efficiënter kan worden gemaakt en uitgevoerd in [!DNL Marketo Engage] .
 
-**Key Takeaways**
+**Zeer belangrijke Takeaways**
 
 * Begrijp de verschillende soorten tokens en waar zij kunnen worden gebruikt
 * Bekijk ideeën voor het documenteren van uw tokenstrategie

@@ -25,19 +25,19 @@ Krijg om de antwoorden op sommige vaak gestelde vragen in Commerce Intelligence 
 
 ## Toetsen
 
-**Valutamanagement**
+**het Beheer van de Valuta**
 
 * Valuta&#39;s worden beheerd op basis van één valutastelsel.
 * De monetaire cijfers in de rapporten worden voorafgegaan door het gegeven valutasymbool.
 * De valutainstellingen worden uitgevoerd door een toepasselijke valuta te selecteren voor de omrekening van valutakoersen.
 
-**Methoden voor het importeren van gegevens**
+**de Methoden van de Invoer van Gegevens**
 
 * Gegevens kunnen worden geïmporteerd met API-connectiviteit, CSP-uploads en import-API.
 * Oracle-DB wordt niet ondersteund, maar CSP-API voor uploaden of importeren kan als alternatief worden gebruikt.
 * Beperkingen op het gebruik van API&#39;s omvatten één verzoek per maand en ongeveer 100 archiefverzoeken, die ongeveer 100.000 records per maand vertegenwoordigen.
 
-**Source-gegevensintegratie**
+**de Integratie van Source van Gegevens**
 
 * Adobe Commerce Intelligence ondersteunt meerdere gegevensbronnen zoals Adobe Commerce, SAS, API&#39;s, databases, enz.
 * Hiermee wordt convergentie van gegevens van verschillende Adobe Commerce-instanties in één Commerce Intelligence-instantie toegestaan.

@@ -19,6 +19,6 @@ ht-degree: 0%
 
 In deze keynote zitting, zult u over de hoogste tendensen in D&amp;I leren. Sluit u aan bij ons om te verkennen hoe u uw gegevens kunt gebruiken door uw investeringen in Experiencen Cloud volledig te maximaliseren en nieuwe innovaties te bekijken.
 
-*Axel Schaefer* Hoofd productmarketing, Analytics EMEA/Adobe
+*Schaefer van de As* Hoofd van de Marketing van het Product, Analytics EMEA/Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/343818/?quality=12&learn=on)

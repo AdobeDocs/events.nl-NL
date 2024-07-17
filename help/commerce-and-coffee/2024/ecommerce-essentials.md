@@ -33,13 +33,13 @@ Top 3 Key Takeaways van de Webinar &quot;Mastering eCommerce Essentials&quot; me
 * Speciale productaanbevelingen op basis van ervaringen van individuele klanten verbeteren de service- en conversiecijfers.
 * Effectieve handelsregels in combinatie met machinaal leren leiden tot op maat gesneden aanbevelingen, waardoor de algehele winkelervaring wordt verbeterd.
 
-**Marketing- en promotiestrategie**
+**Marketing en Bevorderingsstrategie**
 
 * Marketing en promotie zijn essentieel voor succesvolle e-commercestrategieën die zowel op consumenten als op bedrijven gericht zijn.
 * Strategieën zoals kortingen, speciale aanbiedingen, en loyaliteitsprogramma&#39;s stimuleren aankopen, aandrijven omzettingen, en bevorderen klantenloyaliteit.
 * Het gebruik van meerdere kanalen, zoals sociale media, e-mailmarketing en SEO, verbetert de betrokkenheid en het behoud van klanten.
 
-**Segmentering van klanten voor persoonlijke ervaringen**
+**Segmentatie van de Klant voor Persoonlijke Ervaringen**
 
 * Door gebruik te maken van klantkenmerken en segmentering kunnen persoonlijke ervaringen worden gemaakt op basis van klantenbelangen, zoals voorkeuren voor fitness, wat leidt tot een betere betrokkenheid en tevredenheid van de klant.
 * Het uitvoeren van loyaliteitsprogramma&#39;s met beloningspunten voor diverse acties zoals registratie, nieuwsbrieven ondertekenen-ups, en verwijzingen kan klantenbehoud drijven en gewenste gedrag stimuleren, uiteindelijk het bevorderen van klantenloyaliteit.

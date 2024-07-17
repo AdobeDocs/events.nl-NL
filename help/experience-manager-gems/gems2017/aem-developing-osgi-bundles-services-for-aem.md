@@ -18,9 +18,9 @@ Leer in deze zitting hoe gemakkelijk het is om bundels OSGi en de diensten voor 
 
 >[!VIDEO](https://video.tv.adobe.com/v/19654/?quality=9)
 
-*Geleverd op 6 september 2017*
+*Geleverde 6 September, 2017*
 
-**Gepresenteerd door**
+**Voorgesteld door:**
 
 Carsten Ziegeler, hoofdwetenschapper, Adobe
 
@@ -29,11 +29,11 @@ Karl Pauls, Computer Scientist, Adobe
 Chatexpert:\
 David Bosschaert, Senior Software Engineer, Adobe
 
-**Presenter-dia&#39;s**
+**de dia&#39;s van de Presentator**
 
 [Bestand ophalen](assets/aem-gems-osgi-best-practices-090617.pdf)
 
 ## Verwante koppelingen {#related-links}
 
-* [OSGi in actie (pdf)](https://manning-content.s3.amazonaws.com/download/9/86fba2b-2ea2-48cc-855d-39e06df49ceb/OSGIiAsamplech1.pdf)
-* [OSGi-componenten](https://blog.osoco.de/2015/08/osgi-components-simply-simple-part-i/)
+* [ OSGi in Actie (pdf) ](https://manning-content.s3.amazonaws.com/download/9/86fba2b-2ea2-48cc-855d-39e06df49ceb/OSGIiAsamplech1.pdf)
+* [ componenten OSGi ](https://blog.osoco.de/2015/08/osgi-components-simply-simple-part-i/)

@@ -1,6 +1,6 @@
 ---
-title: Rapportage binnen [!DNL Marketo Engage]
-description: Meer inzicht in de mogelijkheden voor rapportage op hoog niveau binnen [!DNL Marketo Engage]en een diepe duik in Rapporten en Slimme Lijsten.
+title: Rapporteren binnen  [!DNL Marketo Engage]
+description: Verbeter een inzicht in hoog niveau rapporteringsmogelijkheden binnen  [!DNL Marketo Engage], en een diepe duik in Rapporten en Slimme Lijsten.
 solution: Marketo Engage
 role: User
 level: Beginner
@@ -15,9 +15,9 @@ ht-degree: 2%
 
 ---
 
-# Rapportage binnen [!DNL Marketo Engage]
+# Rapporteren binnen [!DNL Marketo Engage]
 
-In deze sessie worden alle rapportagetools besproken die beschikbaar zijn in [!DNL Marketo Engage] inclusief:
+In deze sessie worden alle rapportprogramma&#39;s besproken die beschikbaar zijn in [!DNL Marketo Engage] , waaronder:
 
 * Rapporten
 * Slimme lijsten
@@ -30,6 +30,6 @@ In deze sessie worden alle rapportagetools besproken die beschikbaar zijn in [!D
 * Wanneer gebruikt u Standaardrapporten versus Slimme lijsten
 * Lidmaatschappen
 
-U behoudt deze sessie met inzicht in de mogelijkheden voor rapporten op hoog niveau binnen [!DNL Marketo Engage]en een diepe duik in Rapporten en Slimme Lijsten.
+U behoudt deze sessie met inzicht in de rapportmogelijkheden op hoog niveau in [!DNL Marketo Engage] en u gaat diep in Rapporten en Slimme lijsten duiken.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340309/?quality=12&learn=on)

@@ -1,6 +1,6 @@
 ---
 title: Marketo Engage Rockstars
-description: Drie "Rockstar"-klanten zullen elk hun best doen [!DNL Marketo Engage] uiteinde of truc. Wie zal je verblinden zonder geloof? Kijk en stem in real time.
+description: Drie "klanten Rockstar"zullen elk hun beste  [!DNL Marketo Engage]  uiteinde of truc voorstellen. Wie zal je verblinden zonder geloof? Kijk en stem in real time.
 solution: Marketo Engage
 role: User
 level: Intermediate, Experienced
@@ -17,6 +17,6 @@ ht-degree: 0%
 
 # [!DNL Marketo Engage] Rockstars
 
-Drie &quot;Rockstar&quot;-klanten zullen elk hun best doen [!DNL Marketo Engage] uiteinde of truc. Wie zal je verblinden zonder geloof? Kijk en stem in real time.
+Drie klanten met de naam Rockstar zullen elk hun beste [!DNL Marketo Engage] tip of truc presenteren. Wie zal je verblinden zonder geloof? Kijk en stem in real time.
 
 >[!VIDEO](https://video.tv.adobe.com/v/342559/?quality=12&learn=on)

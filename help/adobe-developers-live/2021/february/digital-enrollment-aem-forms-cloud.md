@@ -24,8 +24,8 @@ ht-degree: 0%
 
 Deze sessie richt zich op de reis van Forms van on-premise naar cloud. Het zal ook de mogelijkheid van het gebruik van digitale inschrijvingen door middel van demo&#39;s omvatten.
 
-Doorgaan met gesprek in **[Experience League Gemeenschappen](https://adobe.ly/36Yd3v6)**.
+Ga het gesprek in **[Gemeenschappen van het Experience League ](https://adobe.ly/36Yd3v6)** voort.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332305/?quality=12&learn=on&hidetitle=true)
 
-Klikken **[hier](/help/adobe-developers-live/assets/digital-enrollment-aem-forms-cloud.pdf)** voor de sessiedia&#39;s
+Klik **[hier](/help/adobe-developers-live/assets/digital-enrollment-aem-forms-cloud.pdf)** voor de zittingsdia&#39;s.

@@ -1,6 +1,6 @@
 ---
 title: '[!DNL Adobe Analytics] Champion Tips and Tricks'
-description: Vijf lidstaten [!DNL Adobe Analytics] Kampioenen van over de hele wereld delen tips en trucs die hen hielpen de baas te worden [!DNL Adobe Analytics].
+description: Sluit zich vijf  [!DNL Adobe Analytics]  Kampioenen van over de wereld aan aangezien zij de uiteinden en de trucs delen die hen meester  [!DNL Adobe Analytics] hielpen.
 role: User
 doc-type: Event
 last-substantial-update: 2023-02-09T00:00:00Z
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Adobe Analytics] Champion Tips en Tricks
+# [!DNL Adobe Analytics] Champion Tips and Tricks
 
-Vijf lidstaten [!DNL Adobe Analytics] Kampioenen van over de hele wereld delen tips en trucs die hen hielpen de baas te worden [!DNL Adobe Analytics].
+Doe mee met vijf [!DNL Adobe Analytics] kampioenen van over de hele wereld als ze tips en trucs delen die hen hielpen bij het beheersen van [!DNL Adobe Analytics] .
 
 >[!VIDEO](https://video.tv.adobe.com/v/3414191/?quality=12&learn=on)

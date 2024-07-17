@@ -1,5 +1,5 @@
 ---
-title: Een blik in Toolkit van de Ontwikkelaar van de Handel
+title: Een blik in Toolkit van de Ontwikkelaar van Commerce
 description: Omvat onderwerpen zoals lokale ontwikkelopstelling, het zuiveren en het profileren hulpmiddelen, het leveraging New Relic aan uw voordeel in een productiemilieu, en het testen.
 role: Developer
 level: Beginner
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Een blik in Toolkit van de Ontwikkelaar van de Handel
+# Een blik in Toolkit van de Ontwikkelaar van Commerce
 
 Als het gaat om het behalen van succesvolle resultaten op het gebied van flexibele en dus complexe kaders zoals Adobe Commerce en Magento open source, is het absoluut noodzakelijk dat ontwikkelingsteams de juiste instrumenten voor de baan gebruiken. In deze talk zullen we door instrumenten lopen die ik nuttig heb gevonden in mijn carrière als ontwikkelaar van Magento&#39;s. Wij zullen onderwerpen zoals lokale ontwikkelingsopstelling, het zuiveren en het profileren hulpmiddelen, het gebruiken van New Relic aan uw voordeel in een productiemilieu, het testen etc. behandelen. We zullen enkele voorbeelden bekijken van hoe deze instrumenten het leven van ontwikkelaars, in een toch al complexe omgeving, gemakkelijker kunnen maken!
 

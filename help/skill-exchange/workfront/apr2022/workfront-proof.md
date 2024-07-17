@@ -1,6 +1,6 @@
 ---
 title: Toekomst van Adobe Workfront Proof
-description: Gebruikt u Workfront Proof voor overzicht en goedkeurings werkschema's bij uw organisatie? Erg benieuwd hoe we het meeste kunnen halen uit het instrument en wat we voor de toekomst hebben gepland.
+description: Gebruikt u Workfront Proof voor overzicht- en goedkeuringswerkstromen bij uw organisatie? Erg benieuwd hoe we het meeste kunnen halen uit het instrument en wat we voor de toekomst hebben gepland.
 solution: Workfront
 role: User
 level: Intermediate, Experienced
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 # Toekomst van Adobe Workfront Proof
 
-Gebruikt u Workfront Proof voor overzicht en goedkeurings werkschema&#39;s bij uw organisatie? Erg benieuwd hoe we het meeste kunnen halen uit het instrument en wat we voor de toekomst hebben gepland? Caroline Ossmann, productmanager bij Adobe Workfront for Proof, zal het volgende delen:
+Gebruikt u Workfront Proof voor overzicht- en goedkeuringswerkstromen bij uw organisatie? Erg benieuwd hoe we het meeste kunnen halen uit het instrument en wat we voor de toekomst hebben gepland? Caroline Ossmann, productmanager bij Adobe Workfront for Proof, zal het volgende delen:
 
 * Belangrijkste kenmerken van recente innovaties
 * Voorbeelden van hoe wij onze klanten die Proef van het leveraging zien

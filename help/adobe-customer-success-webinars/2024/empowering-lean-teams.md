@@ -8,13 +8,13 @@ duration: 2499
 last-substantial-update: 2024-03-11T00:00:00Z
 jira: KT-15114
 thumbnail: 3427800.jpeg
-source-git-commit: 2489f9e31da2de8e7955843baed3ff05d5cc7b64
+exl-id: 1dc9fcb7-66d8-4394-a97f-deff20813794
+source-git-commit: 1bb993b45f8e46a227ff20d58935be44bf97480b
 workflow-type: tm+mt
 source-wordcount: '771'
 ht-degree: 0%
 
 ---
-
 
 # Lean Teams monteren
 
@@ -42,7 +42,7 @@ Dit webinar bespreekt de uitdagingen waarmee slanke teams worden geconfronteerd 
 
 * Gestroomlijnd creatief proces: Met bibliotheken in Creatives Cloud kunnen gebruikers elementen rechtstreeks naar hun projecten slepen. Zo stroomlijnt u het creatieve proces en verkort u de tijd die nodig is om taken uit te voeren, zoals het toevoegen van afbeeldingen of het toepassen van specifieke kleuren of tekststijlen.
 
-* Samenwerking en realtime updates: Creative Cloud-bibliotheken vergemakkelijken samenwerking tussen teamleden door gebruikers toe te staan bibliotheken of middelen met anderen te delen. Dit zorgt ervoor dat iedereen met de zelfde reeks materialen werkt en updates in real time toelaat. Wanneer één teamlid een middel in een gedeelde bibliotheek bijwerkt, is de verandering automatisch beschikbaar aan iedereen die tot het toegang heeft.
+* Collaboration en real-time updates: Creatives Cloud bibliotheken vergemakkelijken samenwerking tussen teamleden doordat gebruikers bibliotheken of elementen kunnen delen met anderen. Dit zorgt ervoor dat iedereen met de zelfde reeks materialen werkt en updates in real time toelaat. Wanneer één teamlid een middel in een gedeelde bibliotheek bijwerkt, is de verandering automatisch beschikbaar aan iedereen die tot het toegang heeft.
 
 * Versiebeheer: Met bibliotheken met Creatives Cloud kunt u gemakkelijker verschillende versies van elementen beheren. Dit vermindert het risico van inconsistenties met activa en zorgt ervoor dat de teamleden altijd de recentste versie gebruiken.
 
@@ -58,7 +58,7 @@ De uitdagingen waarmee een slank team wordt geconfronteerd, zijn onder meer:
 
 * Beheren van uitval en werkbelasting: met een slank team draagt elk teamlid vaak meerdere hoofdletters, wat leidt tot hogere werklasten, hoge druk en een hoger risico op uitbarsting. Het in evenwicht brengen van de kwaliteit van het werk-leven wordt een uitdaging en kan moreel en productiviteit in tijd beïnvloeden.
 
-* Samenwerking en communicatie: Effectieve samenwerking en communicatie zijn van essentieel belang voor een efficiënte werking van leaanse teams. Nochtans, kan het coördineren over verschillende projecten en het verzekeren van alle teamleden worden gericht een uitdaging zonder voldoende personeel zijn om verschillende werkstromen te beheren. Deze uitdaging wordt nog verergerd als het team op afstand wordt gedistribueerd of werkt.
+* Collaboration en communicatie: effectieve samenwerking en communicatie zijn van essentieel belang voor een efficiënte werking van slanke teams. Nochtans, kan het coördineren over verschillende projecten en het verzekeren van alle teamleden worden gericht een uitdaging zonder voldoende personeel zijn om verschillende werkstromen te beheren. Deze uitdaging wordt nog verergerd als het team op afstand wordt gedistribueerd of werkt.
 
 * Deze uitdagingen kunnen worden overwonnen door taken te stroomlijnen, de efficiëntie te verhogen, de levenskwaliteit te verbeteren, de vaardigheidstekorten te verminderen en de belangrijkste productfuncties en integratie van de Oplossingen van de Adobe te benutten.
 

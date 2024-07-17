@@ -21,9 +21,9 @@ Meer informatie over de nieuwste functies in Adobe Real-Time CDP die de afgelope
 
 >[!VIDEO](https://video.tv.adobe.com/v/3430515/?quality=12&learn=on)
 
-**Als u de discussie wilt voortzetten, bezoek dan onze [discussie over het Experience League](https://experienceleaguecommunities.adobe.com/t5/real-time-customer-data-platform/experience-league-live-post-session-discussion-how-the-latest/m-p/685150#M67){target="_blank"}.**
+**om de bespreking voort te zetten, gelieve onze [ bespreking over de Gemeenschap van het Experience League ](https://experienceleaguecommunities.adobe.com/t5/real-time-customer-data-platform/experience-league-live-post-session-discussion-how-the-latest/m-p/685150#M67) te bezoeken {target="_blank"}.**
 
-**Details tonen**: Bent u een huidige Real-Time CDP-deskundige die inzicht zoekt in wat nieuw is in het product, waarom het van belang is en hoe Adobe u kan helpen uw strategieën voor het beheer van klantgegevens te verbeteren? Kijk niet verder - je bent op de juiste plek gekomen! In deze reeks duiken we diep in wat onlangs in Real-Time CDP gelanceerd is, zodat je kunt profiteren van wat nieuw is, en een impact kunt hebben op je organisatie.\
+**toon Details**: Bent u een huidige Real-Time CDP deskundige en zoekend inzicht in wat nieuw in het product is, waarom het van belang is en hoe de Adobe u kan helpen uw strategieën van het klantengegevensbeheer verbeteren? Kijk niet verder - je bent op de juiste plek gekomen! In deze reeks duiken we diep in wat onlangs in Real-Time CDP gelanceerd is, zodat je kunt profiteren van wat nieuw is, en een impact kunt hebben op je organisatie.\
 In deze sessie bespreken en tonen we vijf nieuwe functies die de afgelopen maanden zijn gestart:
 
 1. Playbooks voor gebruiksscenario

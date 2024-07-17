@@ -20,12 +20,12 @@ ht-degree: 10%
 
 Lees meer over de nieuwste technische ontwikkelingen en updates voor ontwikkelaars die beschikbaar zijn in Adobe Creative Cloud, Document Cloud en Experience Cloud.
 
-Doorgaan met gesprek in **[Experience League Gemeenschappen](https://adobe.ly/3F2g1ym)**.
+Ga het gesprek in **[Gemeenschappen van het Experience League ](https://adobe.ly/3F2g1ym)** voort.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337490/?quality=12&learn=on&hidetitle=true)
 
 ## Aanvullende bronnen
 
-- [Adobe Experience Platform-documentatie](https://experienceleague.adobe.com/docs/experience-platform.html)
-- [Adobe Experience Platform - Overzicht](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html)
+- [ Documentatie van Adobe Experience Platform ](https://experienceleague.adobe.com/docs/experience-platform.html)
+- [ het Overzicht van Adobe Experience Platform ](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html)
 - [Tutorials voor Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=nl)

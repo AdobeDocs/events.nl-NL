@@ -1,5 +1,5 @@
 ---
-title: Externe aanmeldingsmodule van Oak — Verifiëren met LDAP en hoger
+title: Oak externe aanmeldingsmodule - Verifiëren met LDAP en hoger
 description: Zie de nieuwe externe aanmeldingsmodule van Apache Jackrabbit Oak. Leer de details en de interactie van de login module, de synchronisatiemanager, en de identiteitsleverancier. Ontvang een demonstratie van de vereiste configuratie zodat LDAP-gebruikers automatisch in AEM kunnen worden geïmporteerd voor verificatiedoeleinden. Leer tips en trucs voor het opsporen van fouten in het systeem als dingen niet meteen werken.
 discoiquuid: dbc3dbdf-3bae-4ad8-a4dd-0bd28abebc58
 targetaudience: target-audience advanced
@@ -12,19 +12,19 @@ ht-degree: 0%
 
 ---
 
-# Externe aanmeldingsmodule van Oak — Verifiëren met LDAP en hoger{#oak-s-external-login-module-authenticating-with-ldap-and-beyond}
+# Oak externe aanmeldingsmodule - Verifiëren met LDAP en hoger{#oak-s-external-login-module-authenticating-with-ldap-and-beyond}
 
 Zie de nieuwe externe aanmeldingsmodule van Apache Jackrabbit Oak. Leer de details en de interactie van de login module, de synchronisatiemanager, en de identiteitsleverancier. Ontvang een demonstratie van de vereiste configuratie zodat LDAP-gebruikers automatisch in AEM kunnen worden geïmporteerd voor verificatiedoeleinden. Leer tips en trucs voor het opsporen van fouten in het systeem als dingen niet meteen werken.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19382/?quality=9)
 
-*Geleverd op 29 juli 2015*
+*Geleverde 29 Juli, 2015*
 
-**Gepresenteerd door**
+**Voorgesteld door:**
 
 * Tobias Bocanegra, hoofdwetenschapper, Adobe
 
-**Presenter-dia&#39;s**
+**de dia&#39;s van de Presentator**
 
 [Bestand ophalen](assets/oak-ldap-cqgems.pdf)
 <!--

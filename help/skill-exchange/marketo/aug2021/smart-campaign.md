@@ -17,7 +17,7 @@ ht-degree: 0%
 
 # De kracht van een slimme campagne
 
-In deze sessie leert u alles over *Slimme campagnes* inclusief: Slimme lijst - Triggers en filters, stroom, planning en resultaten.
+In deze zitting zult u allen over *Slimme Campagnes* met inbegrip van leren: Slimme Lijst - Trekkers &amp; Filters, Stroom, Programma en Resultaten.
 
 U laat deze sessie achter met inzicht in wat slimme campagnes zijn, hoe u ze kunt gebruiken en tips en trucs voor succes!
 

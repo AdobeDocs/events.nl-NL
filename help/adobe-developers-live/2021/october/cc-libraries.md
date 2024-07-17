@@ -1,6 +1,6 @@
 ---
-title: Inleiding tot Creatives Cloud-bibliotheken en API's voor de Asset Browser
-description: Leer hoe u bibliotheken met Creatives Cloud kunt integreren in uw webtoepassingen via de API voor bibliotheken van Creatives Cloud en de SDK van de SDK van de Asset Browser
+title: Inleiding tot Creative Cloud Libraries- en Asset Browser-API's
+description: Leer hoe u Creative Cloud Libraries kunt integreren in uw webtoepassingen via Creative Cloud Libraries API en Asset Browser SDK
 solution: Creative Cloud
 feature: Developer Tools
 topic: Development
@@ -17,14 +17,14 @@ ht-degree: 9%
 
 ---
 
-# Inleiding tot Creatives Cloud-bibliotheken en API&#39;s voor de Asset Browser
+# Inleiding tot Creative Cloud Libraries- en Asset Browser-API&#39;s
 
-Leer hoe u bibliotheken met Creatives Cloud kunt integreren in uw webtoepassingen via de API voor bibliotheken van Creatives Cloud en de SDK van de SDK van de Asset Browser
+Leer hoe u Creative Cloud Libraries kunt integreren in uw webtoepassingen via Creative Cloud Libraries API en Asset Browser SDK
 
 >[!VIDEO](https://video.tv.adobe.com/v/337592/?quality=12&learn=on&hidetitle=true)
 
 ## Aanvullende bronnen
 
-- [Adobe Experience Platform-documentatie](https://experienceleague.adobe.com/docs/experience-platform.html)
-- [Adobe Experience Platform - Overzicht](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html)
+- [ Documentatie van Adobe Experience Platform ](https://experienceleague.adobe.com/docs/experience-platform.html)
+- [ het Overzicht van Adobe Experience Platform ](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html)
 - [Tutorials voor Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=nl)

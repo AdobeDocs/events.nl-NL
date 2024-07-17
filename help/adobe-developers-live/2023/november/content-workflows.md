@@ -1,6 +1,6 @@
 ---
 title: Workflows voor inhoud automatiseren met App Builder
-description: App Builder biedt een geïntegreerd extern uitbreidingsframework voor het integreren en maken van aangepaste ervaringen die Adobe Experience Manager uitbreiden. Met dit volledige uitbreidingskader, dat op de infrastructuur van de Adobe wordt voortgebouwd, kunnen de ontwikkelaars douanemicrodiensten bouwen, Adobe Experience Manager uitbreiden en integreren over Adobe oplossingen en de rest van de stapel van IT.
+description: App Builder biedt een uniform uitbreidbaarheidskader van derden voor het integreren en maken van aangepaste ervaringen die Adobe Experience Manager uitbreiden. Met dit volledige uitbreidingskader, dat op de infrastructuur van de Adobe wordt voortgebouwd, kunnen de ontwikkelaars douanemicrodiensten bouwen, Adobe Experience Manager uitbreiden en integreren over Adobe oplossingen en de rest van de stapel van IT.
 solution: Experience Manager,Experience Manager Sites
 product: experience manager
 sub-product: sites
@@ -23,6 +23,6 @@ ht-degree: 0%
 
 # Workflows voor inhoud automatiseren met App Builder
 
-App Builder biedt een geïntegreerd extern uitbreidingsframework voor het integreren en maken van aangepaste ervaringen die Adobe Experience Manager uitbreiden. Met dit volledige uitbreidingskader, dat op de infrastructuur van de Adobe wordt voortgebouwd, kunnen de ontwikkelaars douanemicrodiensten bouwen, Adobe Experience Manager uitbreiden en integreren over Adobe oplossingen en de rest van de stapel van IT.
+App Builder biedt een uniform uitbreidbaarheidskader van derden voor het integreren en maken van aangepaste ervaringen die Adobe Experience Manager uitbreiden. Met dit volledige uitbreidingskader, dat op de infrastructuur van de Adobe wordt voortgebouwd, kunnen de ontwikkelaars douanemicrodiensten bouwen, Adobe Experience Manager uitbreiden en integreren over Adobe oplossingen en de rest van de stapel van IT.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426340/?learn=on)

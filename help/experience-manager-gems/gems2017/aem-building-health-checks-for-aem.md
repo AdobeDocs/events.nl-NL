@@ -18,18 +18,18 @@ Het is niet eenvoudig om te bepalen of een AEM-instantie gezond is. Deze sessie 
 
 >[!VIDEO](https://video.tv.adobe.com/v/19026/?quality=9)
 
-*Geleverd op 12 juli 2017*
+*Geleverde 12 Juli, 2017*
 
-**Ana Vinatoru, software engineer, Adobe**
+**Ana Vinatoru, de Ingenieur van de Software, Adobe**
 
-**Presenter-dia&#39;s**
+**de dia&#39;s van de Presentator**
 
 [Bestand ophalen](assets/aem-gems-health-checks-for-aem.pdf)
 
 >[!WARNING]
 >
->AEM versies 6.4 en ouder zijn End of Life en worden niet meer door de Adobe verkocht.  Adobe raadt u aan een upgrade naar de nieuwste versie uit te voeren - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  Gearchiveerde versies van de documentatie zijn vanuit deze [page](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html).
+>AEM versies 6.4 en ouder zijn End of Life en worden niet meer door de Adobe verkocht.  De Adobe adviseert bevordering aan de recentste versie - [ Adobe Experience Manager as a Cloud Service ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  De gearchiveerde versies van de documentatie kunnen van deze [ pagina ](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html) worden betreden.
 
 ## Verwante koppelingen {#related-links}
 
-* [Verkoopdocumentatie](https://sling.apache.org/documentation/bundles/sling-health-check-tool.html)
+* [ het Verdelen Documentatie ](https://sling.apache.org/documentation/bundles/sling-health-check-tool.html)

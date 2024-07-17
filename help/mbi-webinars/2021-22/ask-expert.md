@@ -1,8 +1,8 @@
 ---
-title: Commerciële inlichtingen - Vraag het een expert
-description: Bekijk deze geregistreerde webinars voor een diepe duik met het productteam van de Intelligentie van de Handel, met inbegrip van bedrijfstransformatie door intelligente gegevens.
-landing-page-description: Bekijk deze geregistreerde webinars voor een diepe duik met het productteam van de Intelligentie van de Handel, met inbegrip van bedrijfstransformatie door intelligente gegevens.
-short-description: Bekijk deze geregistreerde webinars voor een diepe duik met het productteam van de Intelligentie van de Handel, met inbegrip van bedrijfstransformatie door intelligente gegevens.
+title: Commerce Intelligence - Vraag het een expert
+description: Bekijk deze geregistreerde webinars voor een diepe duik met het het productteam van Commerce Intelligence, met inbegrip van bedrijfstransformatie door intelligente gegevens.
+landing-page-description: Bekijk deze geregistreerde webinars voor een diepe duik met het het productteam van Commerce Intelligence, met inbegrip van bedrijfstransformatie door intelligente gegevens.
+short-description: Bekijk deze geregistreerde webinars voor een diepe duik met het het productteam van Commerce Intelligence, met inbegrip van bedrijfstransformatie door intelligente gegevens.
 kt: 10404
 solution: Commerce, Commerce Intelligence
 role: Leader,User,Data Architect
@@ -21,11 +21,11 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Adobe Commerce Intelligence stond voorheen bekend als [!DNL Magento Business Intelligence (MBI)]. Opnamen voor gebeurtenissen uit het verleden geven de vorige naam weer.
+>Adobe Commerce Intelligence stond eerder bekend als [!DNL Magento Business Intelligence (MBI)] . Opnamen voor gebeurtenissen uit het verleden geven de vorige naam weer.
 
 Sessie 1:
 
-- Wat klanten over de Intelligentie van de Handel zeggen
+- Wat klanten zeggen over Commerce Intelligence
 - Bedrijfstransformatie via intelligente gegevens
 
 Sessie 2:
@@ -37,7 +37,7 @@ Sessie 2:
 
 ## Opgenomen webinaire inhoud
 
-_Vraag het een expert_ bestaat uit twee sessies:
+_vraag een Deskundige_ uit twee zittingen wordt samengesteld:
 
 ### Sessie 1
 
@@ -51,7 +51,7 @@ _Vraag het een expert_ bestaat uit twee sessies:
 
 >[!TIP]
 >
->Als je nog geen ervaring hebt met de Commerce Intelligence, [Aan de slag met videoreeks](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/introduction/1-overview.html) verstrekt een volledig overzicht voor het drijven van betere bedrijfsinzichten en resultaten door gegevenssamenvoeging, analyse, en visualisatie.
+>Als u aan Commerce Intelligence nieuw bent, [ Begonnen het krijgen videoreeks ](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/introduction/1-overview.html) verstrekt een volledig overzicht voor het drijven van betere bedrijfsinzichten en resultaten door gegevenssamenvoeging, analyse, en visualisatie.
 
-- [Inleiding van de Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/getting-started.html)
-- [Commerce Intelligence-ondersteuning](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html)
+- [ Inleiding van Commerce Intelligence ](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/getting-started.html)
+- [ de Steun van Commerce Intelligence ](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html)

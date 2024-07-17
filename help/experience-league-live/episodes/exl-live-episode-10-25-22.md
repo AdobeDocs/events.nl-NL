@@ -28,4 +28,4 @@ Nu de meeste reizen van klanten tegenwoordig multi-surface en multi-touchpoint z
 
 In deze live stream-gebeurtenis introduceerden productexperts van de Adobe de nieuwste intelligente rangschikkingsmogelijkheden voor aanbiedingen en lieten ze zien hoe ze aanbiedingen konden toevoegen aan reizen en campagnes in Adobe Journey Optimizer.  Ze hebben ook laten zien hoe aanbiedingen in eigen Journey Optimizer-kanalen kunnen worden geplaatst, zoals e-mail-, SMS- en mobiele apps, maar ook in externe systemen en geïntegreerde toepassingen zoals Adobe Target.
 
-De discussie over dit onderwerp over Adobe Experience League voortzetten [Communautaire post](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-deliver-the-right/m-p/554802#M55).
+Ga verder de bespreking over dit onderwerp op de Adobe Experience League [ Communautaire post ](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-deliver-the-right/m-p/554802#M55).

@@ -34,6 +34,6 @@ In deze sessie leert u:
 * Tips en trucs voor bewerkbare sjablonen
 * Allemaal samenvoegen om krachtige bouwstenen voor inhoud te maken
 
-U kunt de presentatiedia&#39;s openen [hier](../../assets/experience-manager/may2023/mastering-content-and-experience-fragments/AEM_Content_fragments_and_Experience_Fragments_Webinar_Session_Final.pdf).
+U kunt tot de presentatiedia&#39;s [ hier ](../../assets/experience-manager/may2023/mastering-content-and-experience-fragments/AEM_Content_fragments_and_Experience_Fragments_Webinar_Session_Final.pdf) toegang hebben.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419557/?learn=on)

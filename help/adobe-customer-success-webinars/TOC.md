@@ -24,9 +24,9 @@ ht-degree: 0%
    + [Hoofdlettertoewijzing aan oplossingsmogelijkheden gebruiken](2024/use-case-mapping.md)
    + [Essentiële onderdelen van SDK-migratie voor web](2024/web-sdk-migration.md)
 + 2023 {#2023}
-   + [De Stichting voor Personalisatie op schaal bouwen](2023/personalization-at-scale.md)
+   + [Bouwen aan de Stichting voor Personalization op schaal](2023/personalization-at-scale.md)
    + [Wijzigingsbeheer](2023/change-management.md)
-   + [Inhoud en ervaring - Personalisatie](2023/content-experiences-personalization.md)
+   + [Inhoud en ervaring - Personalization](2023/content-experiences-personalization.md)
    + [Gereedheid voor migratie naar Customer Journey Analytics](2023/cja-migration-readiness.md)
    + [Essentiële Customer Journey Analytics Integration](2023/cja-integration-essentials.md)
    + [Een realtime strategie voor gegevensverzameling en -activering ontwikkelen](2023/data-collection-activation-strategy.md)

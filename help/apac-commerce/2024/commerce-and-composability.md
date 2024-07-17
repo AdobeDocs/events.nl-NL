@@ -1,19 +1,19 @@
 ---
 title: Verschillende bedrijfsmodellen met Commerce en Composability inschakelen
-description: De vergadering concentreerde zich hoofdzakelijk op het toelaten van diverse bedrijfsmodellen in Adobe Commerce, het benadrukken van B2B handelstoename trends, het benadrukken van het belang van het vereenvoudigen van integratie voor naadloze verbeteringen, het tonen van gepersonaliseerde B2B aan B2C interacties door een demo, het bespreken van de mogelijkheden van Adobe Commerce zoals omnichannel steun en API netwerkintegratie, benadrukkend de voordelen van composable handelsdiensten, introducerend App Builder voor scalable aanpassingen en abonnementsbeheer binnen het platform.
+description: De vergadering was voornamelijk gericht op het mogelijk maken van verschillende bedrijfsmodellen in Adobe Commerce, het benadrukken van B2B-trends op het gebied van de handelsgroei, het benadrukken van het belang van het vereenvoudigen van integratie voor naadloze upgrades, het tonen van persoonlijke B2B-tot-B2C-interacties via een demo, het bespreken van Adobe Commerce-mogelijkheden zoals omnichannel ondersteuning en API-netwerkintegratie, het benadrukken van de voordelen van composable commercediensten, het introduceren van de App Builder voor schaalbare aanpassingen en abonnementsbeheer binnen het platform voor schaalbaar beheer.
 role: Admin, Developer, User
 level: Beginner, Intermediate
 doc-type: Event
 duration: 3594
 last-substantial-update: 2024-06-15T00:00:00Z
 jira: KT-15741
-source-git-commit: e2beb9336151eddc3cb29470fab12e77a4f8ffb0
+exl-id: 2be2bcd3-b595-4362-a7f8-91b1001da874
+source-git-commit: 74f9d5e2e3f3a5830e96422b58222d3c3a9b7acc
 workflow-type: tm+mt
 source-wordcount: '330'
 ht-degree: 0%
 
 ---
-
 
 # Verschillende bedrijfsmodellen met Commerce en Composability inschakelen
 
@@ -46,7 +46,7 @@ Bedrijven gebruiken Adobe commerce om meerdere bedrijfsmodellen in hetzelfde pla
 
 * Omnichannel-ondersteuning
 * Persoonlijke ervaringen
-* Integratie met systemen van derden via API-net en App Builder
+* Integratie met systemen van derden via API-netwerken en App Builder
 
 ### Technologische aspecten besproken
 

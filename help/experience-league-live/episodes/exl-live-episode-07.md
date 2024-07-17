@@ -20,7 +20,7 @@ ht-degree: 0%
 
 De ontwikkeling van microservices, de integratie van back-endsystemen en de automatisering van workflows is nooit zo eenvoudig geweest.
 
-Word gastheer Mark Szulc en gasten Sarah Xu &amp; Zoran Nikolovski als zij echte voorbeelden bespreken van het gebruiken van de nieuwe Adobe App Builder (vroeger de Firefly van het Project) om Adobe Experience Manager uit te breiden en te integreren.  Van het uitbreiden van de bestaande functies in enkele minuten tot het bouwen van nieuwe functies, zult u zien wat u moet inspireren en beginnen met het bouwen.
+Word gastheer Mark Szulc en gasten Sarah Xu &amp; Zoran Nikolovski als ze echte voorbeelden bespreken van het gebruik van de nieuwe Adobe App Builder (voorheen Project Firefly) om Adobe Experience Manager uit te breiden en te integreren.  Van het uitbreiden van de bestaande functies in enkele minuten tot het bouwen van nieuwe functies, zult u zien wat u moet inspireren en beginnen met het bouwen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/339319/?quality=12&learn=on)
 

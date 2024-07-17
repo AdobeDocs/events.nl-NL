@@ -22,13 +22,13 @@ Tijdens deze zitting zal David het volgende bespreken:
 
 >[!VIDEO](https://video.tv.adobe.com/v/19379/?quality=9)
 
-*Geleverd op 11 februari 2015*
+*Geleverde 11 Februari, 2015*
 
-**Gepresenteerd door**
+**Voorgesteld door:**
 
 * David Catalan, leider QE Developer, Adobe
 
-**Presenter-dia&#39;s**
+**de dia&#39;s van de Presentator**
 
-[Bestand ophalen](assets/cq-gems-on-aem-sonarqube-2015-02.pdf)
-[Terug naar het overzicht](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[ krijgt Dossier ](assets/cq-gems-on-aem-sonarqube-2015-02.pdf)
+[ krijg terug naar het Overzicht ](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

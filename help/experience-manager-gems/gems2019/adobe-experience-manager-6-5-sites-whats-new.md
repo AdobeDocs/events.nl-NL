@@ -18,13 +18,13 @@ Krijg een overzicht van de belangrijkste platformveranderingen, wat AEM rond Kop
 
 >[!VIDEO](https://video.tv.adobe.com/v/26368/?quality=9)
 
-*Geleverd 03-06-19*
+*Geleverde 03/06/19*
 
-**Gepresenteerd door**
+**Voorgesteld door:**
 
 * Cedric Huesler, Director Product Management, Adobe
 * Gabriel Walt, productmanager, Adobe
 
-**Presenter-dia&#39;s**
+**de dia&#39;s van de Presentator**
 
 [Bestand ophalen](assets/aem65-whatsnewgem-march6.pdf)

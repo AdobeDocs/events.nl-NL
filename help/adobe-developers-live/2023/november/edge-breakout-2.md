@@ -26,6 +26,6 @@ ht-degree: 0%
 
 Ekrem Dogan behandelt de cruciale aspecten van het optimaliseren van de prestaties van websites tijdens deze sessie vanuit Adobe Developers Live. Opgenomen live op 6 november 2023, leer strategieën voor het bereiken en onderhouden van een top Lighthouse Score, die efficiënte en gebruikersvriendelijke websites met Adobe Experience Manager verzekert. Dit praatje zit vol praktische tips en echte voorbeelden, waardoor het een must-Attentie is voor ontwikkelaars die zich richten op optimalisatie van webprestaties.
 
-Doorgaan met gesprek in [Experience League Gemeenschappen](https://adobe.ly/3rC7TTm).
+Ga het gesprek in [ Gemeenschappen van het Experience League ](https://adobe.ly/3rC7TTm) voort.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425625/?learn=on)

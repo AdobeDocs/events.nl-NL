@@ -26,7 +26,7 @@ Diep duik met ons in de ontwikkeling van single-page-Toepassingen die kunnen wor
 
 >[!VIDEO](https://video.tv.adobe.com/v/25503/?quality-9)
 
-*Geleverd 21-11-18*
+*Geleverde 11/21/18*
 
 Gepresenteerd door: Artur Kudlacz, Developer, Adobe
 
@@ -36,11 +36,11 @@ Presentatordia&#39;s - 21-11-18
 
 ## Verwante koppelingen {#related-links}
 
-[Zelfstudie weekeinde](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html)
+[ Weekend Leerprogramma ](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html)
 
 [Documentatie](https://helpx.adobe.com/experience-manager/6-4/sites/developing/using/spa-overview.html)
 
-[Voorbeeld - We Retail Journal](https://github.com/adobe/aem-sample-we-retail-journal)
+[ Steekproef - wij detailhandelsdagboek ](https://github.com/adobe/aem-sample-we-retail-journal)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

@@ -18,13 +18,13 @@ De zitting zal een overzicht van DataStore (DS) en details over configuratie en 
 
 >[!VIDEO](https://video.tv.adobe.com/v/20422/?quality=9)
 
-*Geleverd op 11 oktober 2017*
+*Geleverde 11 Oktober, 2017*
 
-**Gepresenteerd door**
+**Voorgesteld door:**
 
 Amit Jain, Sr. Computer Scientist, Adobe
 
-**Presenter-dia&#39;s**
+**de dia&#39;s van de Presentator**
 
 [Bestand ophalen](assets/managing-aem-datastoreoct17.pdf)
 <!--

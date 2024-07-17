@@ -27,8 +27,9 @@ Duiken voorbereiden in,
 
 * De snellere ontwikkeling van websites en het verminderen van onderhoudskosten met de Componenten van de Kern van het Beheer van de Inhoud van het Web (WCM)
 * Een live demonstratie die laat zien hoe u een lasercomponent kunt transformeren in een kaartstijlcomponent met meerdere ontwerpvariaties
-* Beste praktijken voor het optimaliseren van uw Systemen van de Stijl *A geleidelijke demonstratie van het opstellen van veranderingen UI efficiënt gebruikend de front-end pijpleiding
+* Aanbevolen werkwijzen voor het optimaliseren van uw stijlsystemen
+*Een geleidelijke demonstratie van het opstellen van veranderingen UI efficiënt gebruikend de front-end pijpleiding
 
-U kunt de presentatiedia&#39;s openen [hier](/help/learn-from-your-peers/assets/experience-manager/sept2023/aem-core-components.pdf).
+U kunt tot de presentatiedia&#39;s [ hier ](/help/learn-from-your-peers/assets/experience-manager/sept2023/aem-core-components.pdf) toegang hebben.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425841/?learn=on)

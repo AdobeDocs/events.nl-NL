@@ -1,5 +1,5 @@
 ---
-title: Creative Agencies - Workfront Proof (11 augustus 2020)
+title: Creatieve agentschappen - Workfront Proof (11 augustus 2020)
 description: Luister naar Cindy Reichert en praat over hoe Brown-Forman Workfront Proof gebruikt.
 role: User
 level: Beginner, Intermediate
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Creative Agencies: Workfront Proof (11 augustus 2020)
+# Creatieve agentschappen: Workfront Proof (11 augustus 2020)
 
 Luister naar Cindy Reichert en praat over hoe Brown-Forman Workfront Proof gebruikt.
 

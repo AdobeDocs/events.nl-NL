@@ -1,6 +1,6 @@
 ---
-title: Niveau uw Cross-channel marketing met Adobe [!DNL Campaign Classic]
-description: Diepduik webinar die zich op werkschema's, automatisering, verpersoonlijking, en meting voor Adobe concentreert [!DNL Campaign Classic] klanten.
+title: Niveau omhoog Uw Cross-channel Marketing met Adobe  [!DNL Campaign Classic]
+description: Diep-duik webinar het concentreren op werkschema's, automatisering, verpersoonlijking, en meting voor Adobe  [!DNL Campaign Classic]  klanten.
 version: Classic v7
 solution: Campaign
 kt: 10506
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 ---
 
-# Niveau uw Cross-channel marketing met Adobe [!DNL Campaign Classic]
+# Uw cross-channel marketing optimaliseren met Adobe [!DNL Campaign Classic]
 
-Diepduik webinar die zich op werkschema&#39;s, automatisering, verpersoonlijking, en meting voor Adobe concentreert [!DNL Campaign Classic] klanten.
+Diepgaande webinar die zich richt op werkstromen, automatisering, verpersoonlijking, en meting voor Adobe [!DNL Campaign Classic] klanten.
 
 >[!VIDEO](https://video.tv.adobe.com/v/343524/?quality=12&learn=on)

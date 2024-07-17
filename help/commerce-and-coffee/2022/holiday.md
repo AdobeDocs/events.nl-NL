@@ -1,5 +1,5 @@
 ---
-title: Handel en koffie - 2021-vakantieretrospectief
+title: Commerce en koffie - 2021-vakantieretrospectief
 description: Tijdens deze sessie bekijken we hoe het landschap van eCommerce is gelukt tijdens het unieke vakantieseizoen van 2021. Met deze lessen bespreken we methoden om de Adobe Commerce-strategie in 2022 beter te beïnvloeden. Corey toont vervolgens waarschuwingen over productvoorraden, ophaling van BOPIS/Curbside, beloningen en loyaliteit en nog veel meer. De presentatie en de demo gaan vergezeld van een live Vragen en antwoorden met Corey.
 solution: Commerce
 topic: Commerce

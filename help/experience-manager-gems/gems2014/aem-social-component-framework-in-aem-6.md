@@ -18,17 +18,17 @@ Het Social Component Framework (SCF) is beschikbaar als een kenmerkpakket voor C
 
 >[!VIDEO](https://video.tv.adobe.com/v/19464/?quality=9)
 
-*Geleverd op 13 augustus 2014*
+*Geleverde 13 Augustus, 2014*
 
-**Gepresenteerd door**
+**Voorgesteld door:**
 
 Siddharth Palaniswami, Sr. Software Engineering Lead, Adobe
 
-**Presenter-dia&#39;s**
+**de dia&#39;s van de Presentator**
 
 [Bestand ophalen](assets/scf-gems.pdf)
 
 ## Verwante koppelingen {#related-links}
 
-* [Github-koppeling voor codevoorbeeld](https://github.com/Adobe-Marketing-Cloud/aem-scf-sample-components-extension)
-* [Framework sociale component](https://docs.adobe.com/content/docs/en/aem/6-0/develop/social-communities/scf.html)
+* [ Github verbinding voor codesteekproef ](https://github.com/Adobe-Marketing-Cloud/aem-scf-sample-components-extension)
+* [ Sociaal Kader van de Component ](https://docs.adobe.com/content/docs/en/aem/6-0/develop/social-communities/scf.html)

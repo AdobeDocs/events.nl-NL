@@ -15,7 +15,7 @@ ht-degree: 0%
 + [Overzicht](overview.md)
 + 2024 {#2024}
    + [Versnellingsdag](2024/accelerator-day/overview.md)
-   + Versnellingsdag{#accelerator-day}
+   + Versnellingsdag {#accelerator-day}
       + [Verborgen: morgen navigeren](./2024/accelerator-day/navigating-tomorrow.md)
       + [Verborgen: Deelvenster voorbij randen](./2024/accelerator-day/panel-beyond-borders.md)
       + [Verborgen: Ervaring evolutie](./2024/accelerator-day/experience-evolution.md)
@@ -33,11 +33,11 @@ ht-degree: 0%
    + [7 manieren om een eCommerce-bedrijf organisch te kweken](2024/grow-ecommerce-business.md)
 + 2023 {#2023}
    + [PERSONALIZATION met AI-mogelijkheden](2023/ai-personalisation.md)
-   + [PaaS Cloud Commerce van Adobe](2023/adobes-paas-cloud-commerce.md)
+   + [ de Cloud Commerce van de Adobe PaaS ](2023/adobes-paas-cloud-commerce.md)
    + [De omzettingen van de elektronische handel bevorderen](2023/ecommerce-conversions.md)
    + [Samengestelde handelsstrategieën](2023/composable-commerce.md)
    + [Marktplaatsen als een groeifactor](2023/marketplaces.md)
-   + [Voorbereiding piek seizoen](2023/peak-season-prep.md)
+   + [ de Voorbereiding van de Seizoen van het Hoogtepunt ](2023/peak-season-prep.md)
 + 2022 {#2022}
    + [Gereedheid van feestdagen 2022](2022/holiday.md)
    + [New Relic Masterclass](2022/new-relic.md)

@@ -18,13 +18,13 @@ Wilt u geen connectors voor AEM maken? Kom te leren hoe u om het even welke inte
 
 >[!VIDEO](https://video.tv.adobe.com/v/22501/?quality=9)
 
-*Afgeleverd op 16 mei 2018*
+*Van 0} geleverde Mei 16, 2018*
 
-**Gepresenteerd door**
+**Voorgesteld door:**
 
 Francois Le Droff, Senior Computer Scientist, Cloud Integration, Adobe
 
-**Presenter-dia&#39;s**
+**de dia&#39;s van de Presentator**
 
 [Bestand ophalen](assets/gem-2018-05-aem-events.pdf)
 

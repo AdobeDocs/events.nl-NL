@@ -1,6 +1,6 @@
 ---
-title: Door AI aangedreven personalisatie
-description: Kunstmatige intelligentie is overal om ons heen en begint veel van onze dagelijkse interacties te doordringen. Als AI op de juiste manier wordt gebruikt, kunt u uw klanten een hyperrelevante en gedenkwaardige ervaring bieden. Adobe investeert al vele jaren zwaar in AI en meer recentelijk hebben we gezien dat AI-capaciteiten op de voorgrond zijn gekomen in de handel. In dit webinar, zullen wij door Jason Ford, Manager - Commerce Solutions Consulting APAC worden gesteund, om meer over te leren hoe te om Adobe toolkit te gebruiken om uw verpersoonlijkingsstrategie te superladen.
+title: PERSONALIZATION met AI-voeding
+description: Kunstmatige intelligentie is overal om ons heen en begint veel van onze dagelijkse interacties te doordringen. Als AI op de juiste manier wordt gebruikt, kunt u uw klanten een hyperrelevante en gedenkwaardige ervaring bieden. Adobe investeert al vele jaren zwaar in AI en meer recentelijk hebben we in Commerce de AI-capaciteiten op de voorgrond zien komen. In dit webinar, zullen wij door Jason Ford, Manager - Commerce Solutions Consulting APAC worden gesteund, om meer over te leren hoe te om Adobe toolkit te gebruiken om uw verpersoonlijkingsstrategie te superladen.
 feature-set: Commerce
 feature: Upgrade
 solution: Commerce
@@ -20,8 +20,8 @@ ht-degree: 0%
 
 ---
 
-# Door AI aangedreven personalisatie
+# PERSONALIZATION met AI-voeding
 
-Kunstmatige intelligentie is overal om ons heen en begint veel van onze dagelijkse interacties te doordringen. Als AI op de juiste manier wordt gebruikt, kunt u uw klanten een hyperrelevante en gedenkwaardige ervaring bieden. Adobe investeert al vele jaren zwaar in AI en meer recentelijk hebben we gezien dat AI-capaciteiten op de voorgrond zijn gekomen in de handel. In dit webinar, zullen wij door Jason Ford, Manager - Commerce Solutions Consulting APAC worden gesteund, om meer over te leren hoe te om Adobe toolkit te gebruiken om uw verpersoonlijkingsstrategie te superladen.
+Kunstmatige intelligentie is overal om ons heen en begint veel van onze dagelijkse interacties te doordringen. Als AI op de juiste manier wordt gebruikt, kunt u uw klanten een hyperrelevante en gedenkwaardige ervaring bieden. Adobe investeert al vele jaren zwaar in AI en meer recentelijk hebben we in Commerce de AI-capaciteiten op de voorgrond zien komen. In dit webinar, zullen wij door Jason Ford, Manager - Commerce Solutions Consulting APAC worden gesteund, om meer over te leren hoe te om Adobe toolkit te gebruiken om uw verpersoonlijkingsstrategie te superladen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419107/?learn=on)

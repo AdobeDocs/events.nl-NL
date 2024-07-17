@@ -1,6 +1,6 @@
 ---
 title: Nooit meer tijd verspillen bij het zoeken naar inhoud
-description: Word een bekwame auteur met een diepe duik in AEM Sites en het beleid UI van Media Library met uiteinden en trucs om uw efficiency van dag tot dag te verhogen
+description: Word een bekwame auteur met een diepe duik in AEM Media Library Plaatsen en het beleid UI van met uiteinden en trucs om uw efficiency van dag tot dag te verhogen
 solution: Experience Manager, Experience Manager Sites
 feature-set: Experience Manager Assets
 product: experience manager
@@ -29,7 +29,7 @@ Leer hoe u in Adobe Experience Manager rijke en boeiende klantervaringen kunt ma
 
 >[!VIDEO](https://video.tv.adobe.com/v/336983/?quality=12&learn=on&hidetitle=true)
 
-Word een bekwame auteur met een diepe duik in AEM Sites en het beleid UI van Media Library met uiteinden en trucs om uw efficiency van dag tot dag te verhogen.
+Word een bekwame auteur met een diepe duik in AEM Media Library Plaatsen en de beleidsinterface van met uiteinden en trucs om uw efficiency van dag tot dag te verhogen.
 
 ## Reeksopnamen
 

@@ -18,9 +18,9 @@ Bent u op zoek naar best practices om het proces van het maken en lokaliseren va
 
 >[!VIDEO](https://video.tv.adobe.com/v/19569/?quality=9)
 
-*Geleverd op 30 oktober 2013*
+*Geleverde 30 Oktober, 2013*
 
-**Gepresenteerd door**
+**Voorgesteld door:**
 
 Keith Brazilië, VP of Technology, Translations.com
 

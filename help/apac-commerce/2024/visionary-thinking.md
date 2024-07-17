@@ -9,17 +9,17 @@ doc-type: Event
 duration: 3419
 last-substantial-update: 2024-05-03T00:00:00Z
 jira: KT-15448
-source-git-commit: d6689f340b954778892c8a7de07607a156c9f069
+exl-id: a495d5f0-a567-4a17-913a-15d01441ab27
+source-git-commit: 441e5d9313ea3c46ce09d1d6cfbe358fce8e0b83
 workflow-type: tm+mt
 source-wordcount: '352'
 ht-degree: 0%
 
 ---
 
+# Creative Edge: Hoe Visionary Thinking Commerce transformeert
 
-# Creative Edge: hoe Visionary Thinking Commerce transformeert
-
-Creative Edge: How Visionary Thinking is Transformation Ecommerce delves duikt in de voorhoede van innovatie, waar Gen AI het creatieve landschap revolutioneert en ongekende inzichten en mogelijkheden biedt. De deelnemers zullen leren hoe AI het beheer van merk en stijlrichtlijnen stroomlijnt, die consistentie over diverse platforms en kanalen verzekeren.
+De Creative Edge: Hoe Visionary Thinking de e-commerce transformeert, komt op de voorgrond van innovatie, waar Gen AI het creatieve landschap revolutioneert en ongekende inzichten en mogelijkheden biedt. De deelnemers zullen leren hoe AI het beheer van merk en stijlrichtlijnen stroomlijnt, die consistentie over diverse platforms en kanalen verzekeren.
 
 Door naadloze integratie, ontdek hoe te om uw creatieve activa in marketing uitvoering en handel moeiteloos op te nemen, die klantenbetrokkenheid en omrekeningskoersen verbeteren.
 

@@ -1,6 +1,6 @@
 ---
 title: Experience Manager Assets-export met Adobe I/O-kracht
-description: Deze sessie heeft betrekking op een overzicht van het Adobe I/O serverless-platform van Events, Actions to App Builder, ook vanuit AEMaaCS-perspectief, en laat zien hoe Adobe I/O gebruiksgevallen kan helpen implementeren, zoals het exporteren van-elementen van Adobe Experience Manager naar externe cloudopslag (Azure) of systemen van derden (Marketo) in realtime (sync) of batchmodus (async).
+description: Deze sessie heeft betrekking op een overzicht van het Adobe I/O serverless-platform van Events, Actions naar App Builder, ook vanuit AEMaaCS-perspectief, om te zien hoe Adobe I/O gebruiksscenario's kan implementeren, zoals het exporteren van-elementen van Adobe Experience Manager naar externe cloudopslag (Azure) of systemen van derden (Marketo) in real-time (sync) of batchmodus (async).
 solution: Experience Manager,Experience Manager Assets
 feature: Developer Tools
 topic: Development, Integrations
@@ -20,14 +20,14 @@ ht-degree: 1%
 
 # Experience Manager Assets-export met Adobe I/O-kracht
 
-Deze sessie heeft betrekking op een overzicht van het Adobe I/O serverless-platform van Events, Actions to App Builder, ook vanuit AEMaaCS-perspectief, en laat zien hoe Adobe I/O gebruiksgevallen kan helpen implementeren, zoals het exporteren van-elementen van Adobe Experience Manager naar externe cloudopslag (Azure) of systemen van derden (Marketo) in realtime (sync) of batchmodus (async).
+Deze sessie heeft betrekking op een overzicht van het Adobe I/O serverless-platform van Events, Actions naar App Builder, ook vanuit AEMaaCS-perspectief, om te zien hoe Adobe I/O gebruiksscenario&#39;s kan implementeren, zoals het exporteren van-elementen van Adobe Experience Manager naar externe cloudopslag (Azure) of systemen van derden (Marketo) in real-time (sync) of batchmodus (async).
 
-Doorgaan met gesprek in **[Experience League Gemeenschappen](https://adobe.ly/3mkDXo6)**.
+Ga het gesprek in **[Gemeenschappen van het Experience League ](https://adobe.ly/3mkDXo6)** voort.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337842/?quality=12&learn=on&hidetitle=true)
 
 ## Aanvullende bronnen
 
-- [Adobe Experience Manager-documentatie](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
-- [Overzicht Adobe Experience Manager Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html)
-- [Adobe Experience Manager Tutorials](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html)
+- [ Documentatie van Adobe Experience Manager ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
+- [ het Overzicht van de Cloud Service van Adobe Experience Manager ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html)
+- [ Tutorials van Adobe Experience Manager ](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html)

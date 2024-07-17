@@ -66,4 +66,4 @@ Als u in het bevorderen van uw kennis en gebruik van Adobe Experience Manager, h
 
 >[!TIP]
 >
->**Alle opgenomen sessies worden weergegeven in de navigatie aan de linkerkant**.
+>**Alle geregistreerde zittingen zijn vermeld in de navigatie op de linkerzijde**.

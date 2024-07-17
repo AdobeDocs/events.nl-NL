@@ -24,9 +24,9 @@ De zitting zal ook de capaciteit van de het oppervlakconfiguratie van de Taak, d
 
 >[!VIDEO](https://video.tv.adobe.com/v/19523/?quality=9)
 
-*Geleverd op 5 maart 2014*
+*Geleverde Maart 5, 2014*
 
-**Gepresenteerd door**
+**Voorgesteld door:**
 
 Varun Nagpal, Computer Scientist, Adobe
 

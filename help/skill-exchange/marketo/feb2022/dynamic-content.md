@@ -1,5 +1,5 @@
 ---
-title: Dynamische inhoud en de kracht van personalisatie
+title: Dynamische inhoud en de kracht van Personalization
 description: In deze sessie leert u hoe u dynamische inhoud kunt gebruiken om meer doelgerichte, relevante inhoud naar uw database te verzenden.
 solution: Marketo Engage
 role: User
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 ---
 
-# Dynamische inhoud en de kracht van personalisatie
+# Dynamische inhoud en de kracht van Personalization
 
 In deze sessie leert u hoe u dynamische inhoud kunt gebruiken om meer doelgerichte, relevante inhoud naar uw database te verzenden.
 
-**Key Takeaways**
+**Zeer belangrijke Takeaways**
 
-* Stroomlijn uw [!DNL Marketo Engage] programma bouwt en bespaart tijd door Dynamische Inhoud te gebruiken
+* Stroomlijn uw [!DNL Marketo Engage] -programma en bespaar tijd door gebruik te maken van dynamische inhoud
 * Leer hoe u uw database kunt segmenteren om uw dynamische inhoud aan te drijven
 * Rapport over het effect van uw dynamische inhoud om toekomstige marketingbeslissingen te begeleiden
 

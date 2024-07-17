@@ -1,6 +1,6 @@
 ---
-title: Cloud Service voor schermen
-description: Meer informatie over de verschillen tussen het leveren van inhoud voor het digitale signaalkanaal en het aanbieden van een website, en over de manier waarop as a Cloud Service schermen een kanaalspecifiek leveringsmechanisme bieden om aan de unieke vereisten van digitale signage te voldoen.
+title: Screens Cloud Service
+description: Meer informatie over de verschillen tussen het leveren van inhoud voor het digitale signaalkanaal en het aanbieden van een website en over de manier waarop Screens as a Cloud Service een kanaalspecifiek leveringsmechanisme biedt voor het voldoen aan de unieke vereisten van digitale signage.
 solution: Experience Manager,Experience Manager Screens
 feature: Developer Tools
 topic: Development
@@ -18,16 +18,16 @@ ht-degree: 1%
 
 ---
 
-# Cloud Service voor schermen
+# Screens Cloud Service
 
-Meer informatie over de verschillen tussen het leveren van inhoud voor het digitale signaalkanaal en het aanbieden van een website, en over de manier waarop as a Cloud Service schermen een kanaalspecifiek leveringsmechanisme bieden om aan de unieke vereisten van digitale signage te voldoen.
+Meer informatie over de verschillen tussen het leveren van inhoud voor het digitale signaalkanaal en het aanbieden van een website en over de manier waarop Screens as a Cloud Service een kanaalspecifiek leveringsmechanisme biedt voor het voldoen aan de unieke vereisten van digitale signage.
 
-Doorgaan met gesprek in **[Experience League Gemeenschappen](https://adobe.ly/3umX8Be)**.
+Ga het gesprek in **[Gemeenschappen van het Experience League ](https://adobe.ly/3umX8Be)** voort.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337885/?quality=12&learn=on&hidetitle=true)
 
 ## Aanvullende bronnen
 
-- [Adobe Experience Manager-documentatie](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
-- [Overzicht Adobe Experience Manager Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html)
-- [Adobe Experience Manager Tutorials](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html)
+- [ Documentatie van Adobe Experience Manager ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
+- [ het Overzicht van de Cloud Service van Adobe Experience Manager ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html)
+- [ Tutorials van Adobe Experience Manager ](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html)

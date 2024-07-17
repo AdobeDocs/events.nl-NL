@@ -23,6 +23,6 @@ ht-degree: 0%
 
 Naomi Robichaud biedt een gedetailleerd overzicht van de integratie van Adobe Commerce met de Amazon-Sales Channel in deze sessie vanuit Adobe Developers Live, die op 6 november 2023 is opgenomen. Ontdek de flexibiliteit van de gebruikersinterface van Adobe Commerce en gebeurtenisgestuurde uitbreidbaarheid en hoe deze kan worden gebruikt om aanpasbare, robuuste toepassingen voor digitale handel te maken in een cloud-native omgeving. Een must watch voor ontwikkelaars die op zoek zijn naar praktische inzichten in de integratie van de digitale handel.
 
-Doorgaan met gesprek in [Experience League Gemeenschappen](https://adobe.ly/46M7lZK).
+Ga het gesprek in [ Gemeenschappen van het Experience League ](https://adobe.ly/46M7lZK) voort.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425636/?learn=on)

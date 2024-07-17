@@ -24,6 +24,6 @@ ht-degree: 0%
 
 Een panel met Carsten Ziegeler, Karl Pauls en David Bosschaert over waarom we OSGi gebruiken, waarom het relevant is in de cloud en wat Adobe Experience Manager-ontwikkelaars ervan moeten weten.
 
-Doorgaan met gesprek in **[Experience League Gemeenschappen](https://adobe.ly/36Yd3v6)**.
+Ga het gesprek in **[Gemeenschappen van het Experience League ](https://adobe.ly/36Yd3v6)** voort.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331740/?quality=12&learn=on&hidetitle=true)

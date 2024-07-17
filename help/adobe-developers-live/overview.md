@@ -19,11 +19,11 @@ In Adobe Developers Live zijn ontwikkelaars van Adoben en ontwikkelaars van erva
 
 Adobe productteams in heel Adobe Experience Cloud, Document Cloud en Creative Cloud zullen de nieuwste technologische ontwikkelingen en ontwikkelaarsgereedschappen laten zien die het ontwerp, de workflows voor het creëren van inhoud, documentservices en het beheer van klantervaringen in alle bedrijfstakken stimuleren.
 
-Registreren voor toekomstige gebeurtenissen **[hier](https://developerevents.adobe.com/)**.
+Register voor toekomstige gebeurtenissen **[hier ](https://developerevents.adobe.com/)**.
 
 >[!TIP]
 >
->**Alle opgenomen sessies worden weergegeven in de navigatie aan de linkerkant**.
+>**Alle geregistreerde zittingen zijn vermeld in de navigatie op de linkerzijde**.
 
 <!--
 

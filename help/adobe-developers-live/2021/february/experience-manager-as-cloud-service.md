@@ -24,8 +24,8 @@ ht-degree: 0%
 
 Een blik achter de schermen die inzichten delen over strategie en innovatie rond Adobe Experience Manager in de cloud en de grote veranderingen beschrijven die leiden tot waar we nu zijn.
 
-Doorgaan met gesprek in **[Experience League Gemeenschappen](https://adobe.ly/36Yd3v6)**.
+Ga het gesprek in **[Gemeenschappen van het Experience League ](https://adobe.ly/36Yd3v6)** voort.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331278/?quality=12&learn=on&hidetitle=true)
 
-Klikken **[hier](/help/adobe-developers-live/assets/experience-manager-as-cloud-service.pdf)** voor de sessiedia&#39;s
+Klik **[hier](/help/adobe-developers-live/assets/experience-manager-as-cloud-service.pdf)** voor de zittingsdia&#39;s.

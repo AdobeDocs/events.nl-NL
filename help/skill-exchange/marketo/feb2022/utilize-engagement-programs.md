@@ -1,6 +1,6 @@
 ---
 title: 101 - Betrokkenheidsprogramma's gebruiken om uw klanten te betrekken
-description: Leer de basisbeginselen van betrokkenheidsprogramma's in [!DNL Marketo Engage] inclusief voorbeelden van gebruiksgevallen en tips en trucs.
+description: Leer de grondbeginselen van betrokkenheidsprogramma's binnen van  [!DNL Marketo Engage]  met inbegrip van voorbeeld gebruiksgevallen en uiteinden en trucs.
 solution: Marketo Engage
 role: User
 level: Beginner
@@ -17,9 +17,9 @@ ht-degree: 0%
 
 # 101 - Betrokkenheidsprogramma&#39;s gebruiken om uw klanten te betrekken
 
-Leer de basisbeginselen van betrokkenheidsprogramma&#39;s in [!DNL Marketo Engage] inclusief voorbeelden van gebruiksgevallen en tips en trucs.
+Leer de basisbeginselen van betrokkenheidsprogramma&#39;s in [!DNL Marketo Engage] , inclusief voorbeelden, gebruiksgevallen en tips en trucs.
 
-**Key Takeaways**
+**Zeer belangrijke Takeaways**
 
 * Meer inzicht in Marketo Engagement Programs en hun unieke functionaliteit
 * Meer informatie over het opzetten van programma&#39;s en best practices en hoe deze van toepassing zijn op praktijkvoorbeelden

@@ -14,19 +14,19 @@ ht-degree: 0%
 
 # Diep in Adobe Experience Manager 6.4{#deep-dive-into-adobe-experience-manager}
 
-Experience Manager biedt een flexibele oplossing voor het ontwerpen, anticiperen en leveren van snel aanpasbare ervaringen op internet, mobiel en elk eindpunt in de reis van de klant. U kunt deze sessie bijwonen om een voorvertoning te bekijken van de belangrijkste functies en integratie van de komende release van Adobe Experience Manager 6.4. De agenda omvat: Overzicht van AEM 6.4 | Core Components 2 | Stijlsysteem | Padwijzigingen als gevolg van de scheiding van inhoud van apps/producten | Veranderingen in eikenhout en strooisel - incl. contextgevoelige configuratie | Apps met één pagina bewerkbaar maken met focus op reageren
+Experience Manager biedt een flexibele oplossing voor het ontwerpen, anticiperen en leveren van snel aanpasbare ervaringen op internet, mobiel en elk eindpunt in de reis van de klant. U kunt deze sessie bijwonen om een voorvertoning te bekijken van de belangrijkste functies en integratie van de komende release van Adobe Experience Manager 6.4. De agenda omvat: Overzicht van AEM 6.4 | Core Components 2 | Stijlsysteem | Padwijzigingen als gevolg van de scheiding van inhoud van apps/producten | Wijzigingen in Oak en Sling - incl. contextgevoelige configuratie | Apps met één pagina bewerkbaar maken met focus op reageren
 
 >[!VIDEO](https://video.tv.adobe.com/v/21749/?quality=9)
 
-*Geleverd op 14 maart 2018*
+*Geleverde Maart 14, 2018*
 
-**Gepresenteerd door**
+**Voorgesteld door:**
 
 Gabriel Walt, productmanager, Adobe
 
 Cedric Huesler, Director Product Management, Adobe
 
-**Presenter-dia&#39;s**
+**de dia&#39;s van de Presentator**
 
 [Bestand ophalen](assets/aem64-developerupdate31418.pdf)
 

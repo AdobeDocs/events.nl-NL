@@ -1,6 +1,6 @@
 ---
 title: Meer informatie over de SDK van Adobe App Builder, Adobe IO, Webhooks en Admin UI
-description: Meer informatie over Adobe App Builder, Adobe-IO, webhaken en de SDK van de Admin-gebruikersinterface.  Dit is een inleiding aan elke nieuwe eigenschap om u te helpen gemeenschappelijke gebruiksgevallen begrijpen.
+description: Meer informatie over Adobe App Builder, Adobe IO, webhaken, Admin UI SDK.  Dit is een inleiding aan elke nieuwe eigenschap om u te helpen gemeenschappelijke gebruiksgevallen begrijpen.
 solution: Commerce
 feature: App Builder
 topic: Development
@@ -21,6 +21,6 @@ ht-degree: 0%
 
 # Meer informatie over de SDK van Adobe App Builder, Adobe IO, Webhooks en Admin UI
 
-Meer informatie over Adobe App Builder, Adobe-IO, webhaken en de SDK van de Admin-gebruikersinterface.  Dit is een inleiding aan elke nieuwe eigenschap om u te helpen gemeenschappelijke gebruiksgevallen begrijpen.
+Meer informatie over Adobe App Builder, Adobe IO, webhaken, Admin UI SDK.  Dit is een inleiding aan elke nieuwe eigenschap om u te helpen gemeenschappelijke gebruiksgevallen begrijpen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425805/?learn=on)

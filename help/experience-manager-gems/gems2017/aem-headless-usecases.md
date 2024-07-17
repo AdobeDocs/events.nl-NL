@@ -24,14 +24,14 @@ Toetsentoetsen:
 
 >[!VIDEO](https://video.tv.adobe.com/v/20495/?quality=9)
 
-*Geleverd op 18 oktober 2017*
+*Geleverde 18 Oktober, 2017*
 
-**Gepresenteerd door**
+**Voorgesteld door:**
 
 * Haresh Kumar, Director of Strategy and Product Marketing AEM, Adobe
 * Gilles Knobloch, Senior Engineering Manager, Adobe
 
-**Presenter-dia&#39;s**
+**de dia&#39;s van de Presentator**
 
 [Bestand ophalen](assets/gems-fluid-experiencesoct1617.pdf)
 <!--

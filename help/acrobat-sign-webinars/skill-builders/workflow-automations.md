@@ -8,13 +8,13 @@ doc-type: Event
 duration: 1109
 last-substantial-update: 2024-04-30T00:00:00Z
 jira: KT-15303
-source-git-commit: d2e6829590d4243409652b16b13c8da253df62a5
+exl-id: 72fc12aa-05fe-4856-9c34-bb61f6f3a295
+source-git-commit: a9055b8c455e5a28cc47f350644a7ae1a428d9bc
 workflow-type: tm+mt
 source-wordcount: '279'
 ht-degree: 0%
 
 ---
-
 
 # Workflow Automated met Microsoft Power Automate
 
@@ -29,5 +29,3 @@ Maak gebruik van alle automatiseringsmogelijkheden met Microsoft&#39;s low-code/
 * &#x200B; Bovendien kunnen gebruikers met Power Automate geautomatiseerde workflows in Adobe Acrobat Sign maken en gebruiken zonder dat IT-medewerkers erbij hoeven te worden betrokken.
 * Deze geautomatiseerde workflows kunnen de efficiëntie, de productiviteit en fouten verhogen.
 * Met Power Automate kunnen niet-beheerders ook workflows maken en gebruikers een platform bieden om taken en processen te automatiseren door stromen te maken die verschillende toepassingen en services met elkaar verbinden. Het biedt een brede waaier van trekkers en acties aan die kunnen worden gebruikt om aangepaste werkschema&#39;s te bouwen die op specifieke bedrijfsbehoeften worden gebaseerd.
-
-

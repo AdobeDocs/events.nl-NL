@@ -16,7 +16,7 @@ Het programma van de Uren van het Bureau van de Klant is een pro-actieve benader
 
 >[!TIP]
 >
->**Alle opgenomen sessies worden weergegeven in de navigatie aan de linkerkant**.
+>**Alle geregistreerde zittingen zijn vermeld in de navigatie op de linkerzijde**.
 
 <!--
 

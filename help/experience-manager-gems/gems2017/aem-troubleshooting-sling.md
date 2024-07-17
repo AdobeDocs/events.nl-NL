@@ -9,7 +9,7 @@ duration: 3093
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '164'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -19,13 +19,13 @@ SCD (Sling Content Distribution) kan worden gebruikt in AEM voor voorwaartse, om
 
 >[!VIDEO](https://video.tv.adobe.com/v/19451/?quality=9)
 
-*Geleverd op 23 augustus 2017*
+*Geleverde Augustus 23, 2017*
 
-**Gepresenteerd door**
+**Voorgesteld door:**
 
 Timoth Maret, Senior Developer, Adobe
 
-**Presenter-dia&#39;s**
+**de dia&#39;s van de Presentator**
 
 [Bestand ophalen](assets/aem-gems-scd.pdf)
 
@@ -33,14 +33,14 @@ Timoth Maret, Senior Developer, Adobe
 
 >[!WARNING]
 >
->AEM versies 6.4 en ouder zijn End of Life en worden niet meer door de Adobe verkocht.  Adobe raadt u aan een upgrade naar de nieuwste versie uit te voeren - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  Gearchiveerde versies van de documentatie zijn vanuit deze [page](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html).
+>AEM versies 6.4 en ouder zijn End of Life en worden niet meer door de Adobe verkocht.  De Adobe adviseert bevordering aan de recentste versie - [ Adobe Experience Manager as a Cloud Service ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  De gearchiveerde versies van de documentatie kunnen van deze [ pagina ](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html) worden betreden.
 >
->Zie voor meer informatie *Synchronisatie van gebruikers* in de AEM documentatie.
+>Aangezien het op deze zitting betrekking heeft gelieve te zien *Synchronisatie van de Gebruiker* in de documentatie van de AEM.
 
-* [Apache Sling Content Distribution](https://sling.apache.org/documentation/bundles/content-distribution.html)
-* [Terug naar het overzicht](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+* [ Apache het Verdelen van Inhoud Distributie ](https://sling.apache.org/documentation/bundles/content-distribution.html)
+* [ krijg terug naar het Overzicht ](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
 
 >[!MORELIKETHIS]
 >
->* [Indexeren en JCR-query AEM](aem-indexing-jcr-query.md)
->* [Problemen met distributie van inhoud oplossen](aem-troubleshooting-sling.md)
+>* [ AEM het Indexeren en Vraag JCR ](aem-indexing-jcr-query.md)
+>* [ het Oplossen van problemen die de Distributie van de Inhoud plaatsen ](aem-troubleshooting-sling.md)

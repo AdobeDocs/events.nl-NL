@@ -25,8 +25,8 @@ ht-degree: 0%
 
 Deze sessie introduceert de nieuwe functie van bulkopname van middelen in de cloudservice en de schaalbaarheid en prestaties ervan.
 
-Doorgaan met gesprek in **[Experience League Gemeenschappen](https://adobe.ly/36Yd3v6)**.
+Ga het gesprek in **[Gemeenschappen van het Experience League ](https://adobe.ly/36Yd3v6)** voort.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331769/?quality=12&learn=on&hidetitle=true)
 
-Klikken **[hier](/help/adobe-developers-live/assets/asset-bulk-ingestion.pdf)** voor de sessiedia&#39;s
+Klik **[hier](/help/adobe-developers-live/assets/asset-bulk-ingestion.pdf)** voor de zittingsdia&#39;s.

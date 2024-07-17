@@ -22,12 +22,12 @@ ht-degree: 1%
 
 Er zijn vele manieren om de Cloud Service van Adobe Experience Manager met de Gebeurtenissen van de Douane van Adobe I/O te integreren. Ontdek welke verschillende opties beschikbaar zijn en hoe deze het beste passen bij uw specifieke gebruikscase.
 
-Doorgaan met gesprek in **[Experience League Gemeenschappen](https://adobe.ly/3ij0O1W)**.
+Ga het gesprek in **[Gemeenschappen van het Experience League ](https://adobe.ly/3ij0O1W)** voort.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337529/?quality=12&learn=on&hidetitle=true)
 
 ## Aanvullende bronnen
 
-- [Adobe Experience Manager-documentatie](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
-- [Overzicht Adobe Experience Manager Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html)
-- [Adobe Experience Manager Tutorials](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html)
+- [ Documentatie van Adobe Experience Manager ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
+- [ het Overzicht van de Cloud Service van Adobe Experience Manager ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html)
+- [ Tutorials van Adobe Experience Manager ](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html)

@@ -1,6 +1,6 @@
 ---
-title: Handel en koffie - Voorbereiding van hoogseizoen
-description: Deze sessie gaat over strategieën, tips en beste praktijken voor je plaats van de Handel tijdens het piekseizoen. We bespreken de verwachtingen voor 2022 op vakantie, de mobiele handel, de opties voor promotie en afrekening en het belang van marketing om een succesvol piekseizoen te helpen aanjagen. De presentatie en de demo gaan vergezeld van een live-vraag met Corey Gelato.
+title: Commerce en Koffie - Voorbereiding van piekseizoen
+description: Deze sessie omvat strategieën, tips en beste praktijken voor uw Commerce-site tijdens het piekseizoen. We bespreken de verwachtingen voor 2022 op vakantie, de mobiele handel, de opties voor promotie en afrekening en het belang van marketing om een succesvol piekseizoen te helpen aanjagen. De presentatie en de demo gaan vergezeld van een live-vraag met Corey Gelato.
 solution: Commerce
 topic: Commerce
 role: Admin, Leader, User
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Handel en koffie: voorbereiding piek seizoen
+# Commerce en Koffie: voorbereiding van piekseizoen
 
-Deze sessie gaat over strategieën, tips en beste praktijken voor je plaats van de Handel tijdens het piekseizoen. We bespreken de verwachtingen voor 2022 op vakantie, de mobiele handel, de opties voor promotie en afrekening en het belang van marketing om een succesvol piekseizoen te helpen aanjagen. De presentatie en de demo gaan vergezeld van een live-vraag met Corey Gelato.
+Deze sessie omvat strategieën, tips en beste praktijken voor uw Commerce-site tijdens het piekseizoen. We bespreken de verwachtingen voor 2022 op vakantie, de mobiele handel, de opties voor promotie en afrekening en het belang van marketing om een succesvol piekseizoen te helpen aanjagen. De presentatie en de demo gaan vergezeld van een live-vraag met Corey Gelato.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3412587/?quality=12&learn=on)

@@ -1,6 +1,6 @@
 ---
-title: AEM analyse van as a Cloud Service implementatiefouten
-description: AEM as a Cloud Service plaatsingsinternals, en het oplossen van problemen.
+title: AEM as a Cloud Service-analyse van implementatiefouten
+description: Interne AEM as a Cloud Service-implementaties en probleemoplossing.
 feature-set: Experience Manager Cloud Manager
 feature: Code Deployment
 role: Admin, User
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# AEM analyse van as a Cloud Service implementatiefouten
+# AEM as a Cloud Service-analyse van implementatiefouten
 
-In deze zitting, zult u over AEM as a Cloud Service plaatsingsinternals, en het oplossen van problemen leren.
+In deze sessie leert u meer over de interne implementatie van AEM as a Cloud Service en over het oplossen van problemen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422532/?learn=on)

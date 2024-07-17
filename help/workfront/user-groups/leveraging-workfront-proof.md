@@ -1,5 +1,5 @@
 ---
-title: Workfront Proof (9 november 2021) gebruiken
+title: Workfront Proof (9 november 2021)
 description: Luister naar verschillende manieren om Workfront Proof te gebruiken om uw werk te verbeteren.
 role: Admin, User
 level: Beginner, Intermediate
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Workfront Proof (9 november 2021) gebruiken
+# Workfront Proof (9 november 2021)
 
 Luister naar verschillende manieren om Workfront Proof te gebruiken om uw werk te verbeteren.
 

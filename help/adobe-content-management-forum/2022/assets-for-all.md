@@ -1,5 +1,5 @@
 ---
-title: Middelen voor alle
+title: Assets for all
 description: Horen van Purnima Rachoor Roy over hoe Assets Essentials het nieuwe Digital Asset Management-systeem voor afdelingen en middelgrote bedrijven zijn.
 solution: Experience Manager, Experience Manager Assets, Experience Manager as a Cloud Service
 feature: Asset Management
@@ -16,8 +16,8 @@ ht-degree: 0%
 
 ---
 
-# Middelen voor alle
+# Assets for all
 
-Horen van Purnima Rachoor Roy over hoe [!DNL Assets Essentials] is de nieuwe [!DNL Digital Asset Management] systeem voor diensten en middelgrote ondernemingen.
+Hoort Purnima Rachoor Roy over hoe [!DNL Assets Essentials] het nieuwe [!DNL Digital Asset Management] -systeem is voor afdelingen en middelgrote bedrijven.
 
 >[!VIDEO](https://video.tv.adobe.com/v/345378/?quality=12&learn=on)

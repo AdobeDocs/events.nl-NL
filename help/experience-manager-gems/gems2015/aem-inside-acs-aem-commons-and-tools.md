@@ -24,13 +24,13 @@ In deze zitting, zal Justin Edelson, Global Evangelist voor AEM en co-project le
 
 >[!VIDEO](https://video.tv.adobe.com/v/19374/?quality=9)
 
-*Geleverd op 26 augustus 2015*
+*Geleverde Augustus 26, 2015*
 
-**Gepresenteerd door**
+**Voorgesteld door:**
 
 * Justin Edelson, goeroe voor AEM, Adobe
 
-**Presenter-dia&#39;s**
+**de dia&#39;s van de Presentator**
 
 [Bestand ophalen](assets/08262015-commons-and-tools.pptx)
 <!--

@@ -1,6 +1,6 @@
 ---
 title: Adobe Experience Manager Headless uitbreiden met Adobe App Builder
-description: App Builder biedt krachtige mogelijkheden voor het zonder kop integreren van Adobe Experience Manager met systemen van derden, van gebeurtenisgestuurde integratie, schaalbare verwerking zonder server tot toepassingen van één pagina (SPA). Bekijk een aantal praktische gebruiksscenario's en algemene patronen waarin App Builder is gebruikt voor het uitbreiden van Adobe Experience Manager.
+description: Van gebeurtenisgestuurde integratie, schaalbare verwerking zonder server tot toepassingen van één pagina (SPA), App Builder biedt krachtige mogelijkheden voor het zonder kop integreren van Adobe Experience Manager met systemen van derden. Bekijk een aantal echte gebruiksscenario's en algemene patronen waarin App Builder is gebruikt voor het uitbreiden van Adobe Experience Manager.
 solution: Experience Manager
 topic: Headless
 role: User
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Adobe Experience Manager Headless uitbreiden met Adobe App Builder
 
-App Builder biedt krachtige mogelijkheden voor het zonder kop integreren van Adobe Experience Manager met systemen van derden, van gebeurtenisgestuurde integratie, schaalbare verwerking zonder server tot toepassingen van één pagina (SPA). Bekijk een aantal praktische gebruiksscenario&#39;s en algemene patronen waarin App Builder is gebruikt voor het uitbreiden van Adobe Experience Manager.
+Van gebeurtenisgestuurde integratie, schaalbare verwerking zonder server tot toepassingen van één pagina (SPA), App Builder biedt krachtige mogelijkheden voor het zonder kop integreren van Adobe Experience Manager met systemen van derden. Bekijk een aantal echte gebruiksscenario&#39;s en algemene patronen waarin App Builder is gebruikt voor het uitbreiden van Adobe Experience Manager.
 
 >[!VIDEO](https://video.tv.adobe.com/v/346385/?quality=12&learn=on)

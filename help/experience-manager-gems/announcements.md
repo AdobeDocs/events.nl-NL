@@ -22,4 +22,4 @@ ht-degree: 0%
 >[!NOTE]
 >
 >* Informatie over komende sessies volgt begin november 2022.
->* Meld u aan bij [Gebruikersgroep AEM Adobe](https://aem-augs.adobe.com/) om automatisch op de hoogte te worden gebracht over komende webinars.
+>* Gelieve te registreren bij [ AEM de Groep van de Gebruiker van de Adobe ](https://aem-augs.adobe.com/) om op komende webinars automatisch op de hoogte te worden gebracht.

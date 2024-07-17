@@ -18,9 +18,9 @@ Deze zittingen van Gems wordt gewijd aan een dichtere blik op implementatiedetai
 
 >[!VIDEO](https://video.tv.adobe.com/v/27010/?quality=9)
 
-*Geleverd 20-03-19*
+*Geleverde 03/20/19*
 
-**Gepresenteerd door** Artur Kudlacz, Developer, Adobe
+**voorgesteld door:** Artur Kudlacz, Ontwikkelaar, Adobe
 
 Presentatordia&#39;s, datum: 20-03-2019
 

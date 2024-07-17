@@ -18,19 +18,19 @@ Hoewel AEM werk vrij zelfstandig is, moeten wij consultants van AT/AAM/AA die sa
 
 >[!VIDEO](https://video.tv.adobe.com/v/19833/?quality=9)
 
-*Geleverd op 27 september 2017*
+*Geleverde 27 September, 2017*
 
-**Gepresenteerd door**
+**Voorgesteld door:**
 
 Jan Exner, Mgr. Beheerconsultant, Adobe
 
-**Presenter-dia&#39;s**
+**de dia&#39;s van de Presentator**
 
 [Bestand ophalen](assets/170927-aem-gems-integrations.pdf)
 
 ## Verwante koppelingen {#related-links}
 
-[Webanalyse voor ontwikkelaars](https://webanalyticsfordevelopers.com/)
+[ Analytics van het Web voor Ontwikkelaars ](https://webanalyticsfordevelopers.com/)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

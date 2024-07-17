@@ -19,23 +19,23 @@ AEM 6 wordt geleverd met een cloudservice voor Dynamic Tag Management (DTM), de 
 
 >[!VIDEO](https://video.tv.adobe.com/v/19401/?quality=9)
 
-*Geleverd op 1 oktober 2014*
+*Geleverde 1 Oktober, 2014*
 
-**Gepresenteerd door**
+**Voorgesteld door:**
 
 Sandro Loser, oplossingsarchitect, Adobe
 
-**Presenter-dia&#39;s**
+**de dia&#39;s van de Presentator**
 
 [Bestand ophalen](assets/dtm-10-1-2014.pdf)
 
 ## Verwante koppelingen {#related-links}
 
-[Integreren met Adobe Dynamic Tag Management](https://docs.adobe.com/docs/en/aem/6-0/administer/integration/marketing-cloud/dtm.html)
+[ Integrerend met Adobe Dynamische Tag Management ](https://docs.adobe.com/docs/en/aem/6-0/administer/integration/marketing-cloud/dtm.html)
 
-[Help bij DTM](https://experienceleague.adobe.com/docs/data-collection.html?lang=en)
+[ DTM Help ](https://experienceleague.adobe.com/docs/data-collection.html?lang=en)
 
-[Toegang tot DTM aanvragen](https://dtm.adobe.com/request_access)
+[ Toegang van het Verzoek tot DTM ](https://dtm.adobe.com/request_access)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
@@ -43,4 +43,4 @@ Sandro Loser, oplossingsarchitect, Adobe
 
 >[!MORELIKETHIS]
 >
->* [Adobe Analytics implementeren op een lokale AEM-instantie met de Dynamic Tag Management-cloudservice](aem-adobe-analytics-dynamic-tag-management.md)
+>* [ hoe te om Adobe Analytics op een lokale AEM instantie op te stellen door de Dynamische de wolkendienst van Tag Management te gebruiken ](aem-adobe-analytics-dynamic-tag-management.md)

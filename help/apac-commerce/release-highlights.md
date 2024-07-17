@@ -19,6 +19,6 @@ ht-degree: 0%
 
 # Adobe Commerce Roadmap-hooglichten
 
-Word lid van Ed Kennedy, Senior Product Marketing Manager voor Adobe Commerce, voor de nieuwste updates met betrekking tot de belangrijkste Adobe Commerce-productinvesteringen, waaronder Adobe Experience Platform Connector voor Adobe Commerce, Intelligente Categorieën, API Mesh, App Builder, Blauwe/groene implementatie en Autoscaling.
+Word lid van Ed Kennedy, Senior Product Marketing Manager voor Adobe Commerce, voor de nieuwste updates met betrekking tot de belangrijkste Adobe Commerce-productinvesteringen, waaronder Adobe Experience Platform Connector voor Adobe Commerce, Intelligent Categories, API Mesh, App Builder, Blue/Green Deployment en Autoscaling.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410838/?quality=12&learn=on)

@@ -1,5 +1,5 @@
 ---
-title: De prestaties van de Handel door platform leveren
+title: Commerce-prestaties leveren via platform
 description: In deze inspirerende presentatie beleven we ons verhaal 'Beter samen', waar Adobe Commerce naadloos integreert met onze uitgebreide technologiesuite. Ontdek hoe deze synergie efficiency, innovatie, en holistische klantenervaringen bevordert, die uw zaken aan nieuwe hoogten opvoeren
 solution: Commerce
 feature-set: Commerce
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 ---
 
-# De prestaties van de Handel door platform leveren
+# Commerce-prestaties leveren via platform
 
 In deze inspirerende presentatie beleven we ons verhaal &#39;Beter samen&#39;, waar Adobe Commerce naadloos integreert met onze uitgebreide technologiesuite. Ontdek hoe deze synergie efficiency, innovatie, en holistische klantenervaringen bevordert, die uw zaken aan nieuwe hoogten opvoeren
 

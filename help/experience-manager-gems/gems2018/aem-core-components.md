@@ -18,13 +18,13 @@ Leer alles over de Core Components en de bijbehorende functies, over hoe ze werk
 
 >[!VIDEO](https://video.tv.adobe.com/v/25674/)
 
-*Bezorgd op 5-12-18*
+*Geleverde 12/5/18*
 
-**Gepresenteerd door**
+**Voorgesteld door:**
 
 Gabriel Walt, productmanager, Adobe
 
-[Documentatie voor kerncomponenten AEM](https://helpx.adobe.com/experience-manager/core-components/user-guide.html)
+[ AEM de Documentatie van de Componenten van de Kern ](https://helpx.adobe.com/experience-manager/core-components/user-guide.html)
 
 AEM Gems - AEM Core Components - Datum: 12/05/2018
 

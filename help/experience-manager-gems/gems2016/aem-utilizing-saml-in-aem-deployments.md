@@ -18,21 +18,21 @@ Sluit zich aan bij Sham Hassan Chikkegowda, CS Engineer, en Timothe Maret, Senio
 
 >[!VIDEO](https://video.tv.adobe.com/v/19299/?quality=9)
 
-*Geleverd op 20 juli 2016*
+*Geleverde 20 Juli, 2016*
 
-**Gepresenteerd door**
+**Voorgesteld door:**
 
 * Sham Hassan Chikkegowda, CS Engineer, Adobe
 * Timoth Maret, Senior Developer, Adobe
 
-**Presenter-dia&#39;s**
+**de dia&#39;s van de Presentator**
 
 [Bestand ophalen](assets/aem-gems-072016-saml.pdf)
 
 ## Verwante koppelingen {#related-links}
 
-* [SAML 2.0-verificatiehandler](https://docs.adobe.com/docs/en/aem/6-2/administer/security/saml-2-0-authenticationhandler.html)
-* [[SAMLProf] Profielen voor de SAML V2.0 (OASIS Security Assertion Markup Language)](https://docs.oasis-open.org/security/saml/v2.0/saml-profiles-2.0-os.pdf)
-* [[SAMLBind] Bindingen voor de SAML V2.0 van de Markup Language (OASIS Security Assertion Markup Language)](https://docs.oasis-open.org/security/saml/v2.0/saml-bindings-2.0-os.pdf)
-* [[SAMLTech] de Taal van de Prijsverhoging van de Veiligheid (SAML) V2.0 Technisch Overzicht](https://www.oasis-open.org/committees/download.php/27819/sstc-saml-tech-overview-2.0-cd-02.pdf)
-* [SAML V2.0 Executive-overzicht](https://www.oasis-open.org/committees/download.php/13525/sstc-saml-exec-overview-2.0-cd-01-2col.pdf)
+* [ SAML 2.0 de Handler van de Authentificatie ](https://docs.adobe.com/docs/en/aem/6-2/administer/security/saml-2-0-authenticationhandler.html)
+* [[SAMLProf] Profielen voor SAML V2.0 (OASIS Security Assertion Markup Language) ](https://docs.oasis-open.org/security/saml/v2.0/saml-profiles-2.0-os.pdf)
+* [[SAMLBind] Bindingen voor de Taal van de Prijsverhoging van de Veiligheid van de Veiligheid van OASIS (SAML) V2.0 ](https://docs.oasis-open.org/security/saml/v2.0/saml-bindings-2.0-os.pdf)
+* [ [SAMLTech] de Taal van de Prijsverhoging van de Veiligheid (SAML) V2.0 Technisch Overzicht ](https://www.oasis-open.org/committees/download.php/27819/sstc-saml-tech-overview-2.0-cd-02.pdf)
+* [ SAML V2.0 Uitvoerend Overzicht ](https://www.oasis-open.org/committees/download.php/13525/sstc-saml-exec-overview-2.0-cd-01-2col.pdf)

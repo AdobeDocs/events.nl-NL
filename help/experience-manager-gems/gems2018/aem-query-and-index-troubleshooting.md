@@ -19,9 +19,9 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/23270/?quality=9)
 
-*Geboden 08-08-2018*
+*Geleverd 08/08/2018*
 
-**Gepresenteerd door**
+**Voorgesteld door:**
 
 Thomas Mueller, Senior Software Engineer, Adobe
 

@@ -19,6 +19,6 @@ ht-degree: 0%
 
 Stop in uw Adobe Campaign Standard instantie en ontdek beste praktijken rond het richten, personalisatie en marketing vermoeidheid om een beter gebruik van ACS te hebben. Deze sessie is interactief: maak van deze sessie uw eigen sessie door rechtstreeks aan onze expert te vragen naar functies/behoeften!
 
-*Laurent Valenza* Belangrijkste oplossingsconsultant/Adobe
+*Laurent Valenza* Belangrijkste consultant/Adobe van de Oplossing
 
 >[!VIDEO](https://video.tv.adobe.com/v/343828/?quality=12&learn=on)

@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # De inzamelingshoogtepunten van gegevens en roadmap
 
-**Wat we hebben uitgebracht en wat er gebeurt met het verzamelen van Adobe gegevens**
+**wat wij hebben vrijgegeven en wat omhoog komt met de gegevensinzameling van de Adobe**
 
 Gegevensverzameling is van groot belang voor de Adobe! U moet de gegevens kunnen vertrouwen u met werkt. Vorig jaar hebben we een gebeurtenis gehad met lozingen en er komen geweldige dingen op.
 
@@ -27,5 +27,5 @@ Gegevensverzameling is van groot belang voor de Adobe! U moet de gegevens kunnen
 
 Bekijk de video hierboven om deze live streamgebeurtenis te bekijken, waar experts op het gebied van gegevensverzameling Adoben een overzicht gaven van belangrijke recente updates en een glimp opnamen van komende roadmap-items.
 
-Heb je daar vragen over? De discussie over dit onderwerp over Adobe Experience League voortzetten [Communautaire post](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-launch/experience-league-live-post-session-discussion-data-collection/m-p/569923#M316).
+Heb je daar vragen over? Ga verder de bespreking over dit onderwerp op de Adobe Experience League [ Communautaire post ](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-launch/experience-league-live-post-session-discussion-data-collection/m-p/569923#M316).
 

@@ -19,6 +19,6 @@ ht-degree: 0%
 
 In deze sessie leert u over de beste praktijken voor het gebruik van analytische dashboards op mobiele apparaten en hoe u toepassingen kunt aanpassen via Doel.
 
-*Ashika Ramjee* Oplossingsconsultant/Adobe
+*Ashika Ramjee* de Adviseur/Adobe van de Oplossing
 
 >[!VIDEO](https://video.tv.adobe.com/v/343819/?quality=12&learn=on)

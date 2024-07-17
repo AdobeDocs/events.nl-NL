@@ -19,13 +19,13 @@ ht-degree: 0%
 
 # Analyses op kantoor of onderweg
 
-**Willekeurige inzichten altijd en overal met Adobe[!DNL Analytics]**
+**Vrijzeloze inzichten op om het even welk ogenblik, overal met Adobe[!DNL Analytics]**
 
 Met zoveel eisen aan uw tijd en aandacht, moet u bedrijfsinzichten in om het even welk plaatsen tot stand kunnen brengen en toegang hebben - of u achter een bureau of uit bent en ongeveer.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410834/?quality=12&learn=on)
 
-Bekijk de video hierboven om deze live streamgebeurtenis te bekijken, waar Adobe [!DNL Analytics] experts gaven een aantal geweldige tips voor het aanpassen van en het openen van inzichten in Analysis Workspace en de [!DNL Analytics] De app Dashboards.
+Bekijk de video hierboven om deze live streamgebeurtenis te bekijken. Adobe [!DNL Analytics] -experts gaven tips over het aanpassen van en het openen van inzichten in Analysis Workspace en de app Dashboards van [!DNL Analytics] .
 
-Heb je daar vragen over? De discussie over dit onderwerp over Adobe Experience League voortzetten [Communautaire post](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-post-session-discussion-analytics-in-the/m-p/558787#M3037).
+Heb je daar vragen over? Ga verder de bespreking over dit onderwerp op de Adobe Experience League [ Communautaire post ](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-post-session-discussion-analytics-in-the/m-p/558787#M3037).
 

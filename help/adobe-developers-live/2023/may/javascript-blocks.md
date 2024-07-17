@@ -1,6 +1,6 @@
 ---
 title: Handmatig een site maken met de nieuwe JavaScript-blokken
-description: Hand-aan het creëren van een plaats met de nieuwe blokken JavaScriptLeer over volgende-generatiesamenstellingsbaarheid, de recentste innovatie van AEM Sites. Het wordt geleverd met een geheel nieuwe ontwerper en ontwikkelaarservaring om de snelste sites op het web te bouwen. In deze zitting zult u leren hoe te om nieuwe plaatsen met volgende generatiecomposability van de grond te ontwikkelen; hoe een typisch project opstelling en gestructureerd is, hoe het ontwikkelingswerkschema werkt, hoe te om inhoud te stileren, douaneblokken uit te voeren en hoe te om uw veranderingen in productie met nadruk op Webprestaties te krijgen.
+description: Hands-on het creëren van een plaats met de nieuwe blokken van JavaScriptLeer over de composability van de volgende generatie, de recentste innovatie van AEM Sites. Het wordt geleverd met een geheel nieuwe ontwerper en ontwikkelaarservaring om de snelste sites op het web te bouwen. In deze zitting zult u leren hoe te om nieuwe plaatsen met volgende generatiecomposability van de grond te ontwikkelen; hoe een typisch project opstelling en gestructureerd is, hoe het ontwikkelingswerkschema werkt, hoe te om inhoud te stileren, douaneblokken uit te voeren en hoe te om uw veranderingen in productie met nadruk op Webprestaties te krijgen.
 product: experience manager
 sub-product: sites
 topic: Development

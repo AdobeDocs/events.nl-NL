@@ -12,7 +12,8 @@ duration: 3600
 last-substantial-update: 2024-02-29T00:00:00Z
 jira: KT-15065
 thumbnail: KT-15065.jpeg
-source-git-commit: c3256d974364fa0b1615b470aa703d6b9a8e1956
+exl-id: ef0cf02c-1670-4286-bf2e-1563a5307820
+source-git-commit: 1bb993b45f8e46a227ff20d58935be44bf97480b
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 0%
@@ -37,6 +38,6 @@ Dit AEM webinar van GEMs omvat een presentatie en een demo om u te tonen hoe AEM
 
 >[!NOTE]
 > 
->* Ga voor sessiespecifieke community-interacties over Experience League naar onze [contextafhankelijke thread](https://adobe.ly/3uIj6D7).
+>* Voor zitting specifieke communautaire interactie over Experience League gelieve onze [ contextuele draad ](https://adobe.ly/3uIj6D7) te bezoeken.
 >
->* Meld u aan bij [Gebruikersgroep AEM Adobe](https://aem-augs.adobe.com/).
+>* Om berichten over onze aanstaande webinars te ontvangen, gelieve te registreren bij [ AEM de Groep van de Gebruiker van de Adobe ](https://aem-augs.adobe.com/).

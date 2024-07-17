@@ -18,12 +18,12 @@ Leer de patronen voor responsief ontwerp in CQ en hoe u een HTML5-mobiele ervari
 
 >[!VIDEO](https://video.tv.adobe.com/v/19572/?quality=9)
 
-*Geleverd op 18 september 2013*
+*Geleverde 18 September, 2013*
 
-**Gepresenteerd door**
+**Voorgesteld door:**
 
 Bruce Lefebvre, Computer Scientist, Adobe
 
 ## Verwante koppelingen {#related-links}
 
-[Presentatordia&#39;s en bronnen](https://brucelefebvre.com/blog/2013/09/18/cq-gems-mobile-first-development/)
+[ de dia&#39;s en Middelen van de Presentator ](https://brucelefebvre.com/blog/2013/09/18/cq-gems-mobile-first-development/)

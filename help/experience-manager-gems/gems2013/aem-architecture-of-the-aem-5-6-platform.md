@@ -18,17 +18,17 @@ Leer meer over de ontwikkeling van de architectuur van het AEM Application Platf
 
 >[!VIDEO](https://video.tv.adobe.com/v/19575/?quality=9)
 
-*Geleverd op 8 mei 2013*
+*Geleverde 8 Mei, 2013*
 
-**Gepresenteerd door**
+**Voorgesteld door:**
 
 Felix Meschberger, hoofdwetenschapper, Adobe
 
-**Presenter-dia&#39;s**
+**de dia&#39;s van de Presentator**
 
 [Bestand ophalen](assets/20130508-aem56-architecture.pdf)
 
-**Sessievragen en antwoorden**
+**vragen en antwoorden van de Zitting**
 
 [Bestand ophalen](assets/questionsanswers-aem56-architecture.pdf)
 

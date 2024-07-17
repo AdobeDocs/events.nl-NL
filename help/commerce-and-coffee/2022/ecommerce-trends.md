@@ -1,5 +1,5 @@
 ---
-title: Handel en koffie - e-commerce trends
+title: Commerce en koffie - E-Commerce Trends
 description: Deze zitting duikt in 5 van de hoogste tendensen in eCommerce vandaag. Wij bespreken strategieën en tactieken rond de hoogste tendensen samen met de gevolgen die zij aan uw zaken wanneer uitgevoerd hebben. Corey voert dan een demonstratie van de Tickers van de Gebeurtenis, de Toestemmingen van de Categorie, B2B Mogelijkheden en meer uit. De presentatie en de demo gaan vergezeld van een live Vragen en antwoorden met Corey.
 solution: Commerce
 topic: Commerce
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ---
 
-# Handel en koffie - e-commerce trends
+# Commerce en koffie - E-Commerce Trends
 
 Deze zitting duikt in 5 van de hoogste tendensen in eCommerce vandaag. Wij bespreken strategieën en tactieken rond de hoogste tendensen samen met de gevolgen die zij aan uw zaken wanneer uitgevoerd hebben. Corey voert dan een demonstratie van de Tickers van de Gebeurtenis, de Toestemmingen van de Categorie, B2B Mogelijkheden en meer uit. De presentatie en de demo gaan vergezeld van een live Vragen en antwoorden met Corey.
 

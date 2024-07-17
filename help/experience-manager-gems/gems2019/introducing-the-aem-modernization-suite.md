@@ -23,13 +23,13 @@ Sommige klanten vertrouwen nog op de klassieke gebruikersinterface voor hun AEM 
 
 >[!VIDEO](https://video.tv.adobe.com/v/27322?quality=9)
 
-*Geleverd 05-08-19*
+*Geleverde 05/08/19*
 
-**Gepresenteerd door**
+**Voorgesteld door:**
 
 * Bryan Stop, AEM Technisch Architect, Adobe
 * Gilles Knobloch, Senior Engineering Manager, Adobe
 
-**Presenter-dia&#39;s**
+**de dia&#39;s van de Presentator**
 
 [Bestand ophalen](assets/modernization-toolsaemgems.pdf)

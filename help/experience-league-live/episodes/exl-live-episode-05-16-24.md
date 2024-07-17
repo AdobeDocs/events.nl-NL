@@ -22,12 +22,12 @@ Leer de nieuwste en beste (NIEUWE) manier om Adobe Analytics te migreren naar de
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428791/?quality=12&learn=on)
 
-**Details**: In deze sessie leert u de nieuwste en beste (NIEUWE) manier om Adobe Analytics te migreren naar de SDK van het web. Op deze manier kunt u de nieuwe, snellere bibliotheken, veel nieuwe functies en een toekomstbestendige implementatie gebruiken als u Adobe Experience Platform wilt gebruiken, en tegelijkertijd eenvoudig gegevens naar Adobe Analytics (en Target en AAM) verzenden.
+**Details**: In deze zitting, leer de recentste en grootste (NIEUWE) manier om Adobe Analytics aan het Web SDK te migreren. Op deze manier kunt u de nieuwe, snellere bibliotheken, veel nieuwe functies en een toekomstbestendige implementatie gebruiken als u Adobe Experience Platform wilt gebruiken, en tegelijkertijd eenvoudig gegevens naar Adobe Analytics (en Target en AAM) verzenden.
 
 Wij vormen een gegevensstroom op de rand, en installeren en vormen de uitbreiding van SDK van het Web in ons bezit van Markeringen. Wij tonen hoe te om verschillende regeltypes van de uitbreiding van Analytics aan het Web SDK te migreren.
 
-Als u vragen wilt stellen of contact wilt opnemen met Adobe-experts en uw collega&#39;s, gaat u naar de [Communautaire discussie over Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-data/experience-league-live-post-session-discussion-this-is-the-way/m-p/673538){target="_blank"}.
+Om vragen of interface met de deskundigen van de Adobe evenals uw edelen te stellen, gelieve te bezoeken de [ Communautaire bespreking van het Experience League ](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-data/experience-league-live-post-session-discussion-this-is-the-way/m-p/673538) {target="_blank"}.
 
-Zie voor aanvullende documentatie [Adobe Analytics implementeren met de Adobe Experience Platform Web SDK](https://experienceleague.adobe.com/en/docs/analytics/implementation/aep-edge/web-sdk/overview).
+Voor extra documentatie, zie [ Adobe Analytics uitvoeren gebruikend het Web SDK van Adobe Experience Platform ](https://experienceleague.adobe.com/en/docs/analytics/implementation/aep-edge/web-sdk/overview).
 
-Een volgende vergadering bijwonen **webinar betreffende strategische stappen voor het uitvoeren van Web SDK**, registreren [HIER](https://engage.adobe.com/step_by_step_guide_implement.html).
+Om een aanstaande **webinar betreffende strategische stappen bij te wonen voor het uitvoeren van Web SDK**, registreer [ HER ](https://engage.adobe.com/step_by_step_guide_implement.html).

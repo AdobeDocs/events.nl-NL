@@ -27,6 +27,8 @@ Dale WhitChurch, EVP, Production Intelligence, bij IPG Health, zal delen hoe hij
 
 U zult horen,
 
-Hoe zij zowel hun proces als infrastructuur in tijd hebben geëvolueerd Praktisch advies om Workfront in uw bredere technologiestapel te integreren en zeer belangrijke werkschema&#39;s rijpen Hoe IPG de basis voor de Keten van de Levering van Inhoud legt
+Hoe zij zowel hun proces als infrastructuur in tijd hebben geëvolueerd
+Praktisch advies voor het integreren van Workfront in uw bredere technologiestapel en de rijpende belangrijkste workflows
+Hoe IPG de basis voor de Keten van de Levering van Inhoud legt
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425810/?learn=on)

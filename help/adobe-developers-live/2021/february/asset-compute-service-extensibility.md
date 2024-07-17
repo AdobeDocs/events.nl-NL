@@ -25,6 +25,6 @@ ht-degree: 0%
 
 Leer hoe u met Adobe Developer App Builder een aangepaste Asset compute-worker voor middelenverwerking kunt maken tijdens het opnemen in Adobe Experience Manager.
 
-Doorgaan met gesprek in **[Experience League Gemeenschappen](https://adobe.ly/36Yd3v6)**.
+Ga het gesprek in **[Gemeenschappen van het Experience League ](https://adobe.ly/36Yd3v6)** voort.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331849/?quality=12&learn=on&hidetitle=true)

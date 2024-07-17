@@ -18,11 +18,11 @@ Heb je je ooit afgevraagd wat er in de teerbestanden van TarMK zit? Wat is een s
 
 >[!VIDEO](https://video.tv.adobe.com/v/19138/?quality=9)
 
-*Gepresenteerd op 15 februari 2017*
+*Gepresenteerde Februari 15, 2017*
 
-**Michael Duerig, Senior Developer, Adobe**
+**Michael Duerig, Hogere Ontwikkelaar, Adobe**
 
-**Presenter-dia&#39;s**
+**de dia&#39;s van de Presentator**
 
 [Bestand ophalen](assets/aem-gems-tarmk-deep-dive.pptx)
 

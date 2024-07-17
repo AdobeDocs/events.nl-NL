@@ -16,8 +16,8 @@ ht-degree: 0%
 
 ---
 
-# Kwaliteit van de gegevens en goedkeuring in [!DNL Analytics]
+# Gegevenskwaliteit en -acceptatie in [!DNL Analytics]
 
-Bedrijven hebben gegevens geïdentificeerd als een sleutelfactor voor het succes van toekomstige bedrijven. Hiervoor is een hoog niveau van gegevenskwaliteit nodig en een volwassen gegevensstapel. Leer hoe u gegevenskwaliteit in elk aspect van [!DNL Adobe Analytics] en een gedeelde cultuur om hem heen te creëren.
+Bedrijven hebben gegevens geïdentificeerd als een sleutelfactor voor het succes van toekomstige bedrijven. Hiervoor is een hoog niveau van gegevenskwaliteit nodig en een volwassen gegevensstapel. Leer hoe u gegevenskwaliteit in elk aspect van [!DNL Adobe Analytics] kunt opbouwen en een gedeelde cultuur rond het kunt creëren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3414203/?quality=12&learn=on)

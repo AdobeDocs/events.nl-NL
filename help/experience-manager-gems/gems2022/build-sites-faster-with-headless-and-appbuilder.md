@@ -1,6 +1,6 @@
 ---
 title: Sneller websites maken met AEM Headless en App Builder
-description: Bekijk een presentatie en demo over hoe u apps van één pagina (SPA) met de Adobe App Builder-workflows snel kunt opstarten en implementeren.
+description: Bekijk een presentatie en demo over hoe u de app van één pagina (SPA) snel kunt opstarten en implementeren met Adobe App Builder-workflows.
 solution: Experience Manager
 feature-set: Experience Manager
 version: Cloud Service, 6.5
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 Deze AEM webinar-opname van GEM&#39;s bevat een presentatie en een demo over het volgende:
 
-U kunt apps van één pagina (SPA) snel opstarten en implementeren met behulp van de workflows en gereedschappen van de Adobe App Builder, zonder dat u traditionele vaardigheden voor Experience Managers, zoals Java en Sling, hoeft te gebruiken. Met Experience Manager Headless kunnen marketers en ontwikkelaars expertise op hun eigen domein hebben. Ontwikkelaars beheren het algemene toepassingsframework terwijl marketers de inhoud en de weergave ervan bepalen.
+Snel apps van één pagina (SPA) opstarten en implementeren met behulp van Adobe App Builder-workflows en -gereedschappen, zonder dat traditionele Experience Managers, zoals Java en Sling, vereist zijn. Met Experience Manager Headless kunnen marketers en ontwikkelaars expertise op hun eigen domein hebben. Ontwikkelaars beheren het algemene toepassingsframework terwijl marketers de inhoud en de weergave ervan bepalen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/341311/?quality=12&learn=on)
 
@@ -31,8 +31,8 @@ Dit webinar werd uitgevoerd op 23 maart 2022 en gepresenteerd door Duy Nguyen, S
 
 >[!MORELIKETHIS]
 >
->* [Overeenkomende contextafhankelijke thread](https://adobe.ly/3LkSWdm)
->* Meld u aan bij [Gebruikersgroep AEM Adobe](https://aem-augs.adobe.com/) om op de hoogte te worden gebracht van komende webinars.
+>* [ Overeenkomende contextuele draad ](https://adobe.ly/3LkSWdm)
+>* Gelieve te registreren bij [ AEM de Groep van de Gebruiker van de Adobe ](https://aem-augs.adobe.com/) om over aanstaande webinars op de hoogte te worden gebracht.
 
 
 <!-- >>* [Corresponding Adobe Experience Manager User Group Event page](https://aem-augs.adobe.com/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-build-sites-faster-with-aem-headless-and-app-builder/) -->

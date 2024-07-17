@@ -28,5 +28,5 @@ In deze sessie met betrekking tot gegevensverzameling voor de Adobe Experience C
 * [Vraag het de experts - De grondbeginselen van Web SDK](exl-live-episode-05-26-22.md)
 * [Vraag het de experts - RTCDP-verbindingen](exl-live-episode-06-23-22.md)
 
-Bezoek het Experience League voor verdere discussie over dit onderwerp [Communautaire post](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/aep-community-qna-coffee-break-7-21-22-10-30am-pt-adobe/td-p/461503).
+Voor verdere bespreking over dit onderwerp, gelieve de Experience League [ communautaire post ](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/aep-community-qna-coffee-break-7-21-22-10-30am-pt-adobe/td-p/461503) te bezoeken.
 

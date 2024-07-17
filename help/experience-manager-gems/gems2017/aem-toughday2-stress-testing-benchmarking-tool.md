@@ -18,14 +18,14 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/18935/?quality=9)
 
-*Geleverd op 21 juni 2017*
+*Geleverd 21 Juni, 2017*
 
-**Gepresenteerd door**
+**Voorgesteld door:**
 
 * Catalin Luta, QE Developer, Adobe
 * Andrei Stefan Tuicu, QE Developer, Adobe
 
-**Presenter-dia&#39;s**
+**de dia&#39;s van de Presentator**
 
 [Bestand ophalen](assets/aem-gems-toughday2.pdf)
 <!--

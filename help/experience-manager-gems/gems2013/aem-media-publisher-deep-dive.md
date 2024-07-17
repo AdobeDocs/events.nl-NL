@@ -14,22 +14,22 @@ ht-degree: 0%
 
 # AEM 5.6 Media Publisher diep duiken {#aem-media-publisher-deep-dive}
 
-Als onderdeel van Adobe Experience Manager biedt CQ 5.6 een nieuw kader voor handel om Experience Driven Commerce-websites te bouwen boven op een handelsplatform van derden. Deze sessie biedt een overzicht van het framework vanuit architecturaal perspectief en biedt een aantal details over de referentie-implementatie, gebaseerd op de gegevensopslagruimte van het JCR.
+Als onderdeel van Adobe Experience Manager biedt CQ 5.6 een nieuw Commerce Framework voor het maken van Experience Driven Commerce-websites boven op een handelsplatform van derden. Deze sessie biedt een overzicht van het framework vanuit architecturaal perspectief en biedt een aantal details over de referentie-implementatie, gebaseerd op de gegevensopslagruimte van het JCR.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19574/?quality=9)
 
-*Afgeleverd op 17 april 2013*
+*Geleverd 17 April, 2013*
 
-**Gepresenteerd door**
+**Voorgesteld door:**
 
 John Fait
 
-**Presenter-dia&#39;s**
+**de dia&#39;s van de Presentator**
 
 [Bestand ophalen](assets/cq-gems-aem-media-publisher-04-17-2013-final.pdf)
 
 ## Verwante koppelingen {#related-links}
 
 * [Documentatie](https://docs.adobe.com/content/docs/en/cq/5-6-1/media-publisher.html)
-* [DPS-productpagina](https://www.adobe.com/ca/products/digital-publishing-suite-family.html)
-* [DPS Cloud Service](https://helpx.adobe.com/digital-publishing-suite/help/eol-statement-for-dpsc.html)
+* [ DPS de Pagina van het Product ](https://www.adobe.com/ca/products/digital-publishing-suite-family.html)
+* [ Cloud Service DPS ](https://helpx.adobe.com/digital-publishing-suite/help/eol-statement-for-dpsc.html)

@@ -18,9 +18,9 @@ De presentatie behandelt architectuur op hoog niveau ContextHub met sommige diep
 
 >[!VIDEO](https://video.tv.adobe.com/v/23839/?quality=9)
 
-*Geplaatst 19-09-2018*
+*Geleverd 09/19/2018*
 
-**Gepresenteerd door**
+**Voorgesteld door:**
 
 Artur Kudlacz, Developer, Adobe
 

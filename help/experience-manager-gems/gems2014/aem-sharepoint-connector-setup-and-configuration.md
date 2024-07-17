@@ -23,13 +23,13 @@ De SharePoint Connector van de Adobe stelt inhoud via de standaardJCR interface 
 
 >[!VIDEO](https://video.tv.adobe.com/v/19525/?quality=9)
 
-*Geleverd op 29 januari 2014*
+*Geleverde 29 Januari, 2014*
 
-**Gepresenteerd door**
+**Voorgesteld door:**
 
 Tarun Aggarwal, toonsoftware engineer, Adobe
 
-**Presenter-dia&#39;s**
+**de dia&#39;s van de Presentator**
 
 [Bestand ophalen](assets/cq-gems-sharepoint-connector.pdf)
 <!--

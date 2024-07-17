@@ -1,6 +1,6 @@
 ---
 title: Marketo Engage Experience Makers Spotlight
-description: Doe mee met ons als we twee ervaren klanten onder de aandacht brengen en [!DNL Marketo Engage] gebruikers. Elke deelnemer deelt zijn beste [!DNL Marketo Engage] uiteinde of truc.
+description: Sluit zich bij ons aan aangezien wij twee deskundige klanten en  [!DNL Marketo Engage]  gebruikers spotlight. Elk zal hun beste  [!DNL Marketo Engage]  uiteinde of truc delen.
 solution: Marketo Engage
 role: User
 level: Beginner
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Marketo Engage] Geniet van spotlicht voor makers
+# [!DNL Marketo Engage] Ervaar spotlicht voor makers
 
-Doe mee met ons als we twee ervaren klanten onder de aandacht brengen en [!DNL Marketo Engage] gebruikers. Elke deelnemer deelt zijn beste [!DNL Marketo Engage] uiteinde of truc.
+Doe mee met ons als we twee ervaren klanten en [!DNL Marketo Engage] gebruikers onder de aandacht brengen. Elke deelnemer deelt zijn beste [!DNL Marketo Engage] tip of truc.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340592/?quality=12&learn=on)

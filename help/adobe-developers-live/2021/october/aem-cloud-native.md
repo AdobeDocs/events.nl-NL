@@ -1,6 +1,6 @@
 ---
 title: Mogelijkheid tot cloud-native extensie voor Experience Cloud - wat zit er in voor ontwikkelaars van Experience Managers
-description: Sluit u aan bij ons voor een sessie met Loni Stark, VP Experience Manager en Michael Marth, Senior Director AEM Sites & Screens om meer te weten te komen over de cloudnative uitbreidingsstrategie van de Adobe voor Experience Cloud en wat er in zit voor ontwikkelaars. Bekijk live demo's over gebruiksscenario's voor uitbreidbaarheid, die zijn gebouwd met het 'Adobe Developer App Builder'-framework voor ontwikkelaars in de cloud van de Adobe, dat nieuwe mogelijkheden voor integratie met en uitbreiding van Adobe Experience Manager bevat.
+description: Meld u aan voor een sessie met Loni Stark, VP Experience Manager en Michael Marth, Senior Director AEM Sites en Screens voor meer informatie over de cloudstrategie van Adobe voor uitbreidbaarheid in Experience Cloud en wat er in zit voor ontwikkelaars. Bekijk live demo's over gebruiksscenario's voor uitbreidbaarheid, gebouwd met het 'Adobe Developer App Builder'-framework voor ontwikkelaars in de cloud van Adobe, dat nieuwe mogelijkheden voor integratie met en uitbreiding van Adobe Experience Manager omvat.
 solution: Experience Manager
 feature: Developer Tools
 topic: Development
@@ -20,14 +20,14 @@ ht-degree: 1%
 
 # Mogelijkheid tot cloud-native extensie voor Experience Cloud - wat zit er in voor ontwikkelaars van Experience Managers
 
-Sluit u aan bij ons voor een sessie met Loni Stark, VP Experience Manager en Michael Marth, Senior Director AEM Sites &amp; Screens om meer te weten te komen over de cloudnative uitbreidingsstrategie van de Adobe voor Experience Cloud en wat er in zit voor ontwikkelaars. Bekijk live demo&#39;s over gebruiksscenario&#39;s voor uitbreidbaarheid, die zijn gebouwd met het &#39;Adobe Developer App Builder&#39;-framework voor ontwikkelaars in de cloud van de Adobe, dat nieuwe mogelijkheden voor integratie met en uitbreiding van Adobe Experience Manager bevat.
+Meld u aan voor een sessie met Loni Stark, VP Experience Manager en Michael Marth, Senior Director AEM Sites en Screens voor meer informatie over de cloudstrategie van Adobe voor uitbreidbaarheid in Experience Cloud en wat er in zit voor ontwikkelaars. Bekijk live demo&#39;s over gebruiksscenario&#39;s voor uitbreidbaarheid, gebouwd met het &#39;Adobe Developer App Builder&#39;-framework voor ontwikkelaars in de cloud van Adobe, dat nieuwe mogelijkheden voor integratie met en uitbreiding van Adobe Experience Manager omvat.
 
-Doorgaan met gesprek in **[Experience League Gemeenschappen](https://adobe.ly/2XTk7aX)**.
+Ga het gesprek in **[Gemeenschappen van het Experience League ](https://adobe.ly/2XTk7aX)** voort.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337491/?quality=12&learn=on&hidetitle=true)
 
 ## Aanvullende bronnen
 
-- [Adobe Experience Manager-documentatie](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
-- [Overzicht Adobe Experience Manager Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html)
-- [Adobe Experience Manager Tutorials](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html)
+- [ Documentatie van Adobe Experience Manager ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
+- [ het Overzicht van de Cloud Service van Adobe Experience Manager ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html)
+- [ Tutorials van Adobe Experience Manager ](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html)

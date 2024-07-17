@@ -22,4 +22,4 @@ Het webinar werd op 11 januari gehouden met 931 actieve deelnemers. Het Workfron
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426854/?learn=on)
 
-Krijg uw vragen over de versie beantwoord en bespreek de versie in [Adobe Workfront Communities](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-adobe-workfront-24-1-release-webinar/td-p/645442?profile.language=en).
+Krijg uw vragen over de versie beantwoord en bespreek de versie in de [ Gemeenschappen van Adobe Workfront ](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-adobe-workfront-24-1-release-webinar/td-p/645442?profile.language=en).

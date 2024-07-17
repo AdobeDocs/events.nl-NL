@@ -17,6 +17,6 @@ ht-degree: 0%
 
 # Get inFORMation - De ultieme tips en trucs voor uw Forms
 
-Forms is een essentieel onderdeel van de &#39;Demand Generation&#39;-reis van een organisatie, maar er zijn vaak vragen die moeten worden beantwoord om ervoor te zorgen dat ze geoptimaliseerd zijn. In deze sessie: [!DNL Marketo Engage] Champions, Amanda en Julz, zullen u door beste praktijken en tips laten lopen om op formulieren toe te passen om de nauwkeurigheid van verzamelde gegevens te verhogen en de omrekeningskoersen te verhogen.
+Forms is een essentieel onderdeel van de &#39;Demand Generation&#39;-reis van een organisatie, maar er zijn vaak vragen die moeten worden beantwoord om ervoor te zorgen dat ze geoptimaliseerd zijn. In deze sessie doorlopen [!DNL Marketo Engage] Champions, Amanda en Julz, u de beste praktijken en tips die u kunt toepassen op formulieren om de nauwkeurigheid van verzamelde gegevens te verhogen en de conversietarieven te verhogen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340312/?quality=12&learn=on)

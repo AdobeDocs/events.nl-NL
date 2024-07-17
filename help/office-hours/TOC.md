@@ -5,7 +5,7 @@ user-guide-description: De Uren van het bureau is een pro-actieve benadering van
 source-git-commit: 142e427ea8c6406b869dcb50db5f0f08a034e273
 workflow-type: tm+mt
 source-wordcount: '95'
-ht-degree: 3%
+ht-degree: 8%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 3%
    + Adobe Campaign {#adobe-campaign-office-hours}
       + [Tips voor overzicht en probleemoplossing van SMS-kanalen](2023/ac-sms-channel-overview.md)
    + Adobe Commerce {#adobe-commerce-office-hours}
-      + [Analyse voor de hele site](2023/site-wide-analysis-tool.md)
+      + [ plaats-brede het Hulpmiddel van de Analyse ](2023/site-wide-analysis-tool.md)
    + Adobe Experience Platform {#adobe-experience-platform-office-hours}
       + [Machtigingen Admin Console](2023/aep-admin-console-permissions.md)
    + Adobe Experience Manager {#adobe-experience-manager-office-hours}
@@ -33,6 +33,6 @@ ht-degree: 3%
    + Adobe Marketo {#adobe-marketo-office-hours}
       + [Geavanceerde slimme-lijstlogica en algemene valkuilen](2023/marketo-common-pitfalls.md)
    + Adobe Target {#adobe-target-office-hours}
-      + [JavaScript-bibliotheekoverzicht, tips en trucs voor foutopsporing](2023/target-debugging-tips-and-tricks.md)
+      + [JavaScript Library Overview, Debugging Tips &amp; Tricks](2023/target-debugging-tips-and-tricks.md)
    + Workfront {#workfront-office-hours}
       + [Dubbele contactpersonen corrigeren](2023/workfront-fix-duplicate-contacts.md)

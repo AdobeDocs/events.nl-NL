@@ -1,5 +1,5 @@
 ---
-title: LIVE-middelen Experiencen League
+title: EXPERIENCE LEAGUE LIVE ASSETS
 description: Op deze pagina staan elementen voor Experience League LIVE
 role: User
 level: Beginner
@@ -14,10 +14,10 @@ ht-degree: 0%
 
 ---
 
-# LIVE-middelen Experiencen League
+# EXPERIENCE LEAGUE LIVE ASSETS
 
 Op deze pagina staan elementen voor Experience League LIVE
 
-![Aflevering 6 Zijbalkafbeelding](assets/exl-live-ep6-sidebar.jpg)
+![ Episode 6 het Beeld Sidebar ](assets/exl-live-ep6-sidebar.jpg)
 
-![Actief logo Experience League](assets/exl-live-logo.png)
+![ Experience League Levend Logo ](assets/exl-live-logo.png)

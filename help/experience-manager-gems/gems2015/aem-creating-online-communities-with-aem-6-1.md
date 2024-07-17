@@ -14,17 +14,17 @@ ht-degree: 0%
 
 # Online gemeenschappen maken met AEM 6.1{#creating-online-communities-with-aem}
 
-Stel je voor dat je in uren een community-site kunt opstaan in plaats van weken met weinig tot geen hulp van je CQ-technici. AEM Communities 6.1 zal zich richten op het bieden van deze mogelijkheid via een wizardgestuurde sjabloonbenadering om een aantal verschillende gevallen van eerste gebruik te behandelen. AEM Communities 6.1 biedt ook de mogelijkheid om deze nieuwe gemeenschapssites verder aan te passen via AEM WCM [!DNL Sites] capaciteit. Meld u aan bij ons om te leren hoe u de krachtige ontwerpinterface van AEM kunt gebruiken om een levendige klantgemeenschap te bouwen en de tools te leren waarmee u uw ventilatorbasis lang na de introductie betrokken kunt houden.
+Stel je voor dat je in uren een community-site kunt opstaan in plaats van weken met weinig tot geen hulp van je CQ-technici. AEM Communities 6.1 zal zich richten op het bieden van deze mogelijkheid via een wizardgestuurde sjabloonbenadering om een aantal verschillende gevallen van eerste gebruik te behandelen. AEM Communities 6.1 biedt ook de mogelijkheid om deze nieuwe communitysites verder aan te passen via AEM WCM [!DNL Sites] -mogelijkheid. Meld u aan bij ons om te leren hoe u de krachtige ontwerpinterface van AEM kunt gebruiken om een levendige klantgemeenschap te bouwen en de tools te leren waarmee u uw ventilatorbasis lang na de introductie betrokken kunt houden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19381/?quality=9)
 
-*Geleverd op 22 juli 2015*
+*Geleverde 22 Juli, 2015*
 
-**Gepresenteerd door**
+**Voorgesteld door:**
 
 * Bertrand de Coatpont, Group Product Manager, Adobe
 
-**Presenter-dia&#39;s**
+**de dia&#39;s van de Presentator**
 
 [Bestand ophalen](assets/aem-6-1-communities-gems.pdf)
 <!--

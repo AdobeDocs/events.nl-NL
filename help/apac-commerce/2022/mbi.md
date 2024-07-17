@@ -27,7 +27,7 @@ U zult van Daniel Rios (Hogere Manager, Product Management) horen die de volgend
 
 * Gegevens omzetten in waarde
 * Een sterke gegevensbasis opbouwen
-* MBI combineren en [!DNL Analytics] data
+* MBI- en [!DNL Analytics] -gegevens combineren
 
 Je ziet ook een live demo van het platform om deze concepten tot leven te brengen.
 

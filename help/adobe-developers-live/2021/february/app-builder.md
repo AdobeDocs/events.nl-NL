@@ -1,6 +1,6 @@
 ---
-title: Dieptedia van Adobe Developer App Builder
-description: 'Wilt u meer informatie over Adobe Developer App Builder-ontwikkelaars? Word lid van ons en bekijk Adobe Developer App Builder in actie: code, beveiliging, apps zonder kop en zonder kop, CI/CD en meer. Deze sessie is afgeleverd als onderdeel van de Adobe Developers Live Content-gebeurtenis.'
+title: Adobe Developer App Builder diep duiken
+description: Wil je meer Adobe Developer App Builder-ontwikkelaars horen? Sluit u aan bij ons en bekijk Adobe Developer App Builder in actie - code, beveiliging, headfull en headless apps, CI/CD en meer. Deze sessie is afgeleverd als onderdeel van de Adobe Developers Live Content-gebeurtenis.
 feature: Developer Tools
 topic: Development
 role: Developer
@@ -19,12 +19,12 @@ ht-degree: 0%
 
 ---
 
-# Dieptedia van Adobe Developer App Builder
+# Adobe Developer App Builder diep duiken
 
-Wilt u meer informatie over Adobe Developer App Builder-ontwikkelaars? Meld u aan en zie App Builder in actie: code, beveiliging, apps zonder kop en zonder kop, CI/CD en meer.
+Wil je meer Adobe Developer App Builder-ontwikkelaars horen? Doe mee en zie App Builder in actie: code, beveiliging, headfull en headless apps, CI/CD en meer.
 
-Doorgaan met gesprek in **[Experience League Gemeenschappen](https://adobe.ly/36Yd3v6)**.
+Ga het gesprek in **[Gemeenschappen van het Experience League ](https://adobe.ly/36Yd3v6)** voort.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331741/?quality=12&learn=on&hidetitle=true)
 
-Klikken **[hier](/help/adobe-developers-live/assets/app-builder.pdf)** voor de sessiedia&#39;s
+Klik **[hier](/help/adobe-developers-live/assets/app-builder.pdf)** voor de zittingsdia&#39;s.

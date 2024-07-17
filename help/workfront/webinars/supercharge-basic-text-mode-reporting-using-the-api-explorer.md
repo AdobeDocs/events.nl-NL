@@ -15,16 +15,16 @@ ht-degree: 0%
 
 # Vraag het de Expert - de Rapportering van de Wijze van de Tekst van de Opstuwing Basis gebruikend de Ontdekkingsreiziger API
 
-Meer informatie over de [[!UICONTROL API Explorer]](https://developer.adobe.com/workfront/api-explorer/), hoe deze te gebruiken en hoe u uw rapporten kunt verbeteren door de standaardtekstmodus te gebruiken. Dit webinar werd geregistreerd op 22 januari 2020.
+Leer over [[!UICONTROL API Explorer] ](https://developer.adobe.com/workfront/api-explorer/), hoe te om het te gebruiken, en hoe te om uw rapporten te verbeteren leveraging basistekstwijze. Dit webinar werd geregistreerd op 22 januari 2020.
 
 >[!VIDEO](https://video.tv.adobe.com/v/341124/?quality=12)
 
 ## Aanvullende bronnen
 
-![Een grafiek met voorbeelden van coderegels voor tekstmodi](assets/text-mode-chart.png)
+![ een grafiek die voorbeelden van de regels van de tekstwijze toont ](assets/text-mode-chart.png)
 
 
-**Eindkolom &quot;Alle taakrollen&quot;**
+**Definitieve &quot;Alle Rollen van de Baan&quot;kolom**
 
 ```
 description="Primary =" indicates the user's primary job role
@@ -37,7 +37,7 @@ valueexpression=IF({user}.{roleID}={role}.{ID},CONCAT("Primary = ",{role}.{name}
 valueformat=HTML
 ```
 
-**Tekstmodus voor de kolom &quot;Alle teams&quot;**
+**Wijze van de Tekst voor &quot;Alle Teams&quot;kolom**
 
 ```
 displayname=All Teams
@@ -49,7 +49,7 @@ valueexpression={name}
 valueformat=HTML
 ```
 
-**Tekstmodus voor kolom &quot;Alle groepen&quot;**
+**Wijze van de Tekst voor &quot;Alle Groepen&quot;kolom**
 
 ```
 displayname=All Groups
@@ -61,7 +61,7 @@ valuefield=group:name
 valueformat=HTML
 ```
 
-**Tekstmodus voor de kolom &quot;Directe rapporten&quot;**
+**Wijze van de Tekst voor &quot;Directe Rapporten&quot;kolom**
 
 ```
 displayname=Direct Reports
@@ -101,11 +101,11 @@ Wanneer u een uitgiftenrapport maakt, kunt u taakinformatie zien als de kwestie 
 
 **Vraag**
 
-U kunt de tekstopmaak delen ([!DNL CSS]) voorbeelden?
+Kunt u de formaatvoorbeelden van de Tekst ([!DNL CSS]) delen?
 
 **Antwoord**
 
-Workfront biedt geen ondersteuning [!DNL CSS] in de tekstmodus.
+Workfront ondersteunt [!DNL CSS] niet in de tekstmodus.
 
 **Vraag**
 
@@ -135,7 +135,8 @@ Wanneer u in de tekstmodus naar objecten verwijst, wilt u deze precies zo schrij
 valuefield=project:name
 ```
 
-Nochtans, in het geval van Kwesties, worden die genoemd opTasks in de Ontdekkingsreiziger van API. Zo als u een rapport van het Uur in werking zou stellen en een kolom voor de naam van de Uitgave wilt toevoegen, zou het waardegebied als het volgende kijken:
+Nochtans, in het geval van Kwesties, worden die genoemd opTasks in de Ontdekkingsreiziger van API. Als u dus een rapport van het Uur in werking zou stellen en een kolom voor de naam van de Uitgave wilt toevoegen, zou het waardegebied
+ziet er als volgt uit:
 
 ```
 valuefield=opTask:name

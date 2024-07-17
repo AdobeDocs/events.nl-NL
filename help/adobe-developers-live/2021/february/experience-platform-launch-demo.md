@@ -23,8 +23,8 @@ ht-degree: 0%
 
 Met AEP Launch kunt u snel en eenvoudig uw marketing- en advertentietags op de client implementeren en beheren, leren hoe u uw eigen extensies kunt aanpassen en schrijven.
 
-Doorgaan met gesprek in **[Experience League Gemeenschappen](https://adobe.ly/36Yd3v6)**.
+Ga het gesprek in **[Gemeenschappen van het Experience League ](https://adobe.ly/36Yd3v6)** voort.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331734/?quality=12&learn=on&hidetitle=true)
 
-Klikken **[hier](/help/adobe-developers-live/assets/experience-platform-launch-demo.pdf)** voor de sessiedia&#39;s
+Klik **[hier](/help/adobe-developers-live/assets/experience-platform-launch-demo.pdf)** voor de zittingsdia&#39;s.

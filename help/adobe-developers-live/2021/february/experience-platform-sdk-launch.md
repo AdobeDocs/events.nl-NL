@@ -24,8 +24,8 @@ ht-degree: 0%
 
 Ontgrendel het volledige potentieel van de Server van de Lancering van AEP met AEP Web &amp; Mobile SDK&#39;s om uw inzameling van ondernemingsgegevens te optimaliseren.
 
-Doorgaan met gesprek in **[Experience League Gemeenschappen](https://adobe.ly/36Yd3v6)**.
+Ga het gesprek in **[Gemeenschappen van het Experience League ](https://adobe.ly/36Yd3v6)** voort.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331761/?quality=12&learn=on&hidetitle=true)
 
-Klikken **[hier](/help/adobe-developers-live/assets/experience-platform-sdk-launch.pdf)** voor de sessiedia&#39;s
+Klik **[hier](/help/adobe-developers-live/assets/experience-platform-sdk-launch.pdf)** voor de zittingsdia&#39;s.

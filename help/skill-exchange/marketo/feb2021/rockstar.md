@@ -1,6 +1,6 @@
 ---
-title: Adobe [!DNL Marketo Engage] Rockstar-segment
-description: Vier "Rockstar"-klanten zullen elk hun beste [!DNL Marketo Engage] uiteinde of truc. Wie zal je verblinden zonder geloof?
+title: Adobe  [!DNL Marketo Engage]  segment Rockstar
+description: Vier "klanten Rockstar"zullen elk hun beste  [!DNL Marketo Engage]  uiteinde of truc voorstellen. Wie zal je verblinden zonder geloof?
 solution: Marketo Engage
 role: User
 level: Beginner
@@ -17,6 +17,6 @@ ht-degree: 0%
 
 # Adobe [!DNL Marketo Engage] Rockstar-segment
 
-Vier &quot;Rockstar&quot;-klanten zullen elk hun beste [!DNL Marketo Engage] uiteinde of truc. Wie zal je verblinden zonder geloof?
+Vier &quot;Rockstar&quot;-klanten presenteren elk hun beste [!DNL Marketo Engage] tip of truc. Wie zal je verblinden zonder geloof?
 
 >[!VIDEO](https://video.tv.adobe.com/v/340311/?quality=12&learn=on)

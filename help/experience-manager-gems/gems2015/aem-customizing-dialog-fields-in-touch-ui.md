@@ -23,14 +23,14 @@ In deze sessie wordt uitgelegd hoe u aangepaste velden (of widgets) voor aanraak
 
 >[!VIDEO](https://video.tv.adobe.com/v/19373/?quality=9)
 
-*Geleverd op 7 oktober 2015*
+*Geleverde 7 Oktober, 2015*
 
-**Gepresenteerd door**
+**Voorgesteld door:**
 
 * Christanto Leonardo, senior ontwikkelaar, Adobe
 * Christian Meyer, Developer, Adobe
 
-**Presenter-dia&#39;s**
+**de dia&#39;s van de Presentator**
 
 [Bestand ophalen](assets/aem-gems-customizing-touch-ui-dialog-fields.pdf)
 <!--

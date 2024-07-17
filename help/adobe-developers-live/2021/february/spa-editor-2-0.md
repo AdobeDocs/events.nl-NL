@@ -25,8 +25,8 @@ ht-degree: 0%
 
 Laad uw bestaande SPA React of Angular in de Pagina-editor en stel, met minimale tussenkomst, auteurs in staat inhoud in te voegen die zij in hun context bewerken.
 
-Doorgaan met gesprek in **[Experience League Gemeenschappen](https://adobe.ly/36Yd3v6)**.
+Ga het gesprek in **[Gemeenschappen van het Experience League ](https://adobe.ly/36Yd3v6)** voort.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331743/?quality=12&learn=on&hidetitle=true)
 
-Klikken **[hier](/help/adobe-developers-live/assets/spa-editor-2-0.pdf)** voor de sessiedia&#39;s
+Klik **[hier](/help/adobe-developers-live/assets/spa-editor-2-0.pdf)** voor de zittingsdia&#39;s.

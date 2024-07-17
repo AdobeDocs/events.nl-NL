@@ -1,6 +1,6 @@
 ---
 title: as a Cloud Service Experience Manager] innovaties
-description: Sluit u aan bij Gagan Mand en Shankari Panchapakesan voor meer informatie over de nieuwste innovaties met [!DNL AEM as a Cloud Service], met name op het gebied van ontwikkelaarservaring.
+description: Sluit zich aan bij Gagan Mand en Shankari Panchapakesan om over de recentste innovaties met  [!DNL AEM as a Cloud Service], vooral in termen van ontwikkelaarservaring te leren.
 solution: Experience Manager, Experience Manager as a Cloud Service
 topic: Upgrade, Development
 role: Leader, Architect, Developer, Data Architect, Data Engineer, Admin, User
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # [!DNL Experience Manager as a Cloud Service] innovaties
 
-Sluit u aan bij Gagan Mand en Shankari Panchapakesan voor meer informatie over de nieuwste innovaties met [!DNL AEM as a Cloud Service], met name op het gebied van ontwikkelaarservaring.
+Sluit u aan bij Gagan Mand en Shankari Panchapakesan om meer te weten te komen over de nieuwste innovaties met [!DNL AEM as a Cloud Service] , vooral in termen van ontwikkelaarservaring.
 
 >[!VIDEO](https://video.tv.adobe.com/v/345379/?quality=12&learn=on)

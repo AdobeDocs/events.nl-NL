@@ -19,7 +19,7 @@ Op 8-9 februari 2021, Adobe Developers Live: Content bracht ontwikkelaars en erv
 
 Deze tweedaagse conferentie bevatte belangrijke Adobe Experience Manager-updates voor ontwikkelaars, zoals Headless en GraphQL, Adobe Experience Manager as a Cloud Service, technische sessies en mogelijkheden voor gemeenschapsnetwerken.
 
-Maak verbinding met collega-devs en neem deel aan de sessiegesprekken in **[Experience League Gemeenschappen](https://adobe.ly/36Yd3v6)**.
+Verbind met mededevs en sluit zich aan bij de zittingsgesprekken in **[Gemeenschappen van het Experience League ](https://adobe.ly/36Yd3v6)**.
 
 ## Hooglichten
 
@@ -30,8 +30,8 @@ Maak verbinding met collega-devs en neem deel aan de sessiegesprekken in **[Expe
       <img alt="Koploos - GraphQL met inhoudsfragmenten" src="/help/adobe-developers-live/assets/jabran.png"/>
       </a>
       <div>
-         <a href="headless-graphql-content-fragments.md"><strong>Koploos - GraphQL met inhoudsfragmenten</strong></a>         
-         <br/><em>met Jabran Asghar, Sr. Software Engineer</em>
+         <a href="headless-graphql-content-fragments.md"><strong> Hoofdloos - GraphQL met Inhoudsfragmenten </strong></a>         
+         <br/><em> met Jabran Asghar, Sr. de Ingenieur van de Software </em>
       </div>
       <p>
         <br/>
@@ -43,8 +43,8 @@ Maak verbinding met collega-devs en neem deel aan de sessiegesprekken in **[Expe
       <img alt="Frontend Dev - Uw toekomstige werkschema om snel de frontend van uw plaats te bouwen en op te stellen." src="/help/adobe-developers-live/assets/gabriel.png"/>
       </a>
       <div>
-         <a href="rapid-frontend-devlopment.md"><strong>Frontend Dev - Uw toekomstige werkschema om snel de frontend van uw plaats te bouwen en op te stellen.</strong></a>
-         <br/><em>met Gabriel Walt, Sr. Product Manager</em>
+         <a href="rapid-frontend-devlopment.md"><strong> Frontend Dev - Uw toekomstige werkschema om snel het front van uw plaats te bouwen en op te stellen.</strong></a>
+         <br/><em> met Gabriel Walt, Sr. de Manager van het Product </em>
       </div>
       <p>
         <br/>
@@ -57,8 +57,8 @@ Maak verbinding met collega-devs en neem deel aan de sessiegesprekken in **[Expe
       <img alt="Bereid u voor op de Cloud Service - Beste werkwijzen voor migratie" src="/help/adobe-developers-live/assets/andreea.png"/>
       </a>
       <div>
-         <a href="get-ready-aem-cloud.md"><strong>Bereid u voor op de Cloud Service - Beste werkwijzen voor migratie</strong></a>
-         <br/><em>met Andreea Moise, Sr. Software Engineer</em>
+         <a href="get-ready-aem-cloud.md"><strong> krijgen klaar voor de Cloud Service - de beste praktijken van de Migratie </strong></a>
+         <br/><em> met Andreea Moise, Sr. de Ingenieur van de Software </em>
       </div>
       <p>
         <br/>
@@ -70,16 +70,16 @@ Maak verbinding met collega-devs en neem deel aan de sessiegesprekken in **[Expe
 
 >[!TIP]
 >
->**Alle sessies worden weergegeven in de navigatie aan de linkerkant**.
+>**Alle zittingen worden vermeld in de navigatie op de linkerzijde**.
 
 ## Aanvullende bronnen
 
-* [Experience League - AEM verkennen](https://experienceleague.adobe.com/#recommended/solutions/experience-manager)
-* [AEM Sites Authoring Documentation](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html)
-* [AEM Sites Developing Documentation](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html)
-* [AEM Sites-beheerdocumentatie](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html)
-* [AEM Sites-documentatie implementeren](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html)
-* [as a Cloud Service Tutorials AEM](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html)
-* [AEM Assets Tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html)
-* [AEM Forms Tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/overview.html)
-* [Tutorials AEM stichting](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html)
+* [ Experience League - onderzoek AEM ](https://experienceleague.adobe.com/#recommended/solutions/experience-manager)
+* [ de Authoring Documentatie van AEM Sites ](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html)
+* [ AEM Sites het Ontwikkelen Documentatie ](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html)
+* [ AEM Sites die Documentatie beheren ](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html)
+* [ AEM Sites die Documentatie opstelt ](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html)
+* [ Tutorials van AEM as a Cloud Service ](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html)
+* [ Tutorials van AEM Assets ](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html)
+* [ Tutorials van AEM Forms ](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/overview.html)
+* [ AEM de Tutorials van de Stichting ](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html)

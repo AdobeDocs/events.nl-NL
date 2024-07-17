@@ -1,8 +1,8 @@
 ---
 title: Aan de slag met Commerce Intelligence
-description: Bekijk deze webinar voor meer informatie over de kernfuncties van de Commerce Intelligence voor je Adobe Commerce of Magento Open Source Store.
-landing-page-description: Bekijk dit geregistreerde webinar om over de kernfunctionaliteit van de Intelligentie van de Handel voor uw Adobe Commerce of Magento Open Source opslag te leren.
-short-description: Bekijk dit geregistreerde webinar om over de kernfunctionaliteit van de Intelligentie van de Handel voor uw Adobe Commerce of Magento Open Source opslag te leren.
+description: Bekijk deze webinar voor meer informatie over de kernfunctionaliteit van Commerce Intelligence voor je Adobe Commerce of Magento Open Source winkel.
+landing-page-description: Bekijk deze opgenomen webinar voor meer informatie over de kernfunctionaliteit van Commerce Intelligence voor je Adobe Commerce of Magento Open Source Store.
+short-description: Bekijk deze opgenomen webinar voor meer informatie over de kernfunctionaliteit van Commerce Intelligence voor je Adobe Commerce of Magento Open Source Store.
 kt: 10408
 solution: Commerce, Commerce Intelligence
 role: Leader, User, Data Architect
@@ -21,9 +21,9 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->Adobe Commerce Intelligence stond voorheen bekend als [!DNL Magento Business Intelligence (MBI)]. Opnamen voor gebeurtenissen uit het verleden geven de vorige naam weer.
+>Adobe Commerce Intelligence stond eerder bekend als [!DNL Magento Business Intelligence (MBI)] . Opnamen voor gebeurtenissen uit het verleden geven de vorige naam weer.
 
-Leer rechtstreeks van het team van het Product van de Handel over de kernfunctionaliteit van de Intelligentie van de Handel met een diepe duik in pre-gevormde dashboards en beschikbare aanpassingsopties.
+Leer rechtstreeks van het Commerce-productteam over de kernfunctionaliteit van Commerce Intelligence, met een diepe duik in vooraf geconfigureerde dashboards en aanpassingsopties.
 
 De gevallen van het gebruik worden overal gedeeld, die illustratieve voorbeelden van verstrekken hoe de handelaars meer inzicht en het drijven van meer groei in hun winkels met BI krijgen, beginnend dag één.
 
@@ -31,5 +31,5 @@ De gevallen van het gebruik worden overal gedeeld, die illustratieve voorbeelden
 
 ## Aanvullende bronnen
 
-[Inleiding van de Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/getting-started.html)
-[Commerce Intelligence-ondersteuning](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html)
+[ Inleiding van Commerce Intelligence ](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/getting-started.html)
+[ Steun van Commerce Intelligence ](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html)

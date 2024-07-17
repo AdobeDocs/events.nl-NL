@@ -18,13 +18,13 @@ Hoewel u mogelijk niet in staat bent om volledig over te stappen op het gebruik 
 
 >[!VIDEO](https://video.tv.adobe.com/v/19467/?quality=9)
 
-*Geleverd op 10 september 2014*
+*Geleverde 10 September, 2014*
 
-**Gepresenteerd door**
+**Voorgesteld door:**
 
 Anthony Rumsey, Computer Scientist, Adobe
 
-**Presenter-dia&#39;s**
+**de dia&#39;s van de Presentator**
 
 [Bestand ophalen](assets/9-10-2014-delivering-managed-content-to-your-native-apps.pdf)
 <!--

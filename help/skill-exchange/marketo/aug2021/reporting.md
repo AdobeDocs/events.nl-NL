@@ -1,6 +1,6 @@
 ---
-title: Rapportage binnen [!DNL Marketo Engage]
-description: In deze sessie worden alle rapportagetools besproken die beschikbaar zijn in [!DNL Marketo Engage] inclusief Meldingen Smart List Analyzers MPI-e-mailtips
+title: Rapporteren binnen  [!DNL Marketo Engage]
+description: Deze zitting zal alle Rapporterende Hulpmiddelen herzien beschikbaar in  [!DNL Marketo Engage]  met inbegrip van de Slimme Lijsten van Rapporten MPI E-mailInzichten van Analysators
 solution: Marketo Engage
 role: User
 level: Beginner
@@ -15,9 +15,9 @@ ht-degree: 1%
 
 ---
 
-# Rapportage binnen [!DNL Marketo Engage]
+# Rapporteren binnen [!DNL Marketo Engage]
 
-In deze sessie worden alle rapportagetools besproken die beschikbaar zijn in [!DNL Marketo Engage] inclusief:
+In deze sessie worden alle rapportprogramma&#39;s besproken die beschikbaar zijn in [!DNL Marketo Engage] , waaronder:
 
 * Rapporten
 * Slimme lijsten
@@ -30,7 +30,7 @@ In deze sessie worden alle rapportagetools besproken die beschikbaar zijn in [!D
 * Wanneer gebruikt u Standaardrapporten versus Slimme lijsten
    * Lidmaatschappen
 
-U behoudt deze sessie met inzicht in de mogelijkheden voor rapporten op hoog niveau binnen [!DNL Marketo Engage]en een diepe duik in Rapporten en Slimme Lijsten.
+U behoudt deze sessie met inzicht in de rapportmogelijkheden op hoog niveau in [!DNL Marketo Engage] en u gaat diep in Rapporten en Slimme lijsten duiken.
 
 Een live vraag aan het einde van deze sessie beantwoordt al uw onopgeloste vragen.
 

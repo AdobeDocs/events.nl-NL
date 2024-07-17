@@ -1,6 +1,6 @@
 ---
-title: Verrijken de Ervaringen van de Handel met Verwante Inhoud
-description: De CIF Add-on heeft onlangs Product Experience Management geïntroduceerd, waarmee de mogelijkheden tot schrijven van middelen, contentfragmenten en ervaringsfragmenten worden uitgebreid om Adobe Experience Manager-inhoud te koppelen aan productgegevens. Door de kracht van de bijbehorende inhoud te benutten, kunt u uw volledig dynamische productcatalogus die is gemaakt met CIF Core Components verrijken om gegevens uit zowel Adobe Commerce als Adobe Experience Manager weer te geven. In deze zitting leert u om uw storefront project met verschillende niveaus van marketing-gedreven ervaringen te verrijken. Wij introduceren u ook aan geavanceerde gebruiksgevallen waar wij tonen hoe de douanecomponenten hefboomwerking bijbehorende inhoud kunnen.
+title: Commerce-ervaringen verrijken met gekoppelde inhoud
+description: De CIF Add-on heeft onlangs Product Experience Management geïntroduceerd waarmee de mogelijkheden tot schrijven van Assets, Content Fragments en Experience Fragments worden uitgebreid om Adobe Experience Manager-inhoud te koppelen aan productgegevens. Door de kracht van de bijbehorende inhoud te benutten, kunt u uw volledig dynamische productcatalogus die is gemaakt met CIF Core Components verrijken om gegevens uit zowel Adobe Commerce als Adobe Experience Manager weer te geven. In deze zitting leert u om uw storefront project met verschillende niveaus van marketing-gedreven ervaringen te verrijken. Wij introduceren u ook aan geavanceerde gebruiksgevallen waar wij tonen hoe de douanecomponenten hefboomwerking bijbehorende inhoud kunnen.
 solution: Commerce,Experience Manager
 feature: Developer Tools
 role: Developer, Architect
@@ -17,14 +17,14 @@ ht-degree: 3%
 
 ---
 
-# Verrijken de Ervaringen van de Handel met Verwante Inhoud
+# Commerce-ervaringen verrijken met gekoppelde inhoud
 
-De CIF Add-on heeft onlangs Product Experience Management geïntroduceerd, waarmee de mogelijkheden tot schrijven van middelen, contentfragmenten en ervaringsfragmenten worden uitgebreid om Adobe Experience Manager-inhoud te koppelen aan productgegevens. Door de kracht van de bijbehorende inhoud te benutten, kunt u uw volledig dynamische productcatalogus die is gemaakt met CIF Core Components verrijken om gegevens uit zowel Adobe Commerce als Adobe Experience Manager weer te geven. In deze zitting leert u om uw storefront project met verschillende niveaus van marketing-gedreven ervaringen te verrijken. Wij introduceren u ook aan geavanceerde gebruiksgevallen waar wij tonen hoe de douanecomponenten hefboomwerking bijbehorende inhoud kunnen.
+De CIF Add-on heeft onlangs Product Experience Management geïntroduceerd waarmee de mogelijkheden tot schrijven van Assets, Content Fragments en Experience Fragments worden uitgebreid om Adobe Experience Manager-inhoud te koppelen aan productgegevens. Door de kracht van de bijbehorende inhoud te benutten, kunt u uw volledig dynamische productcatalogus die is gemaakt met CIF Core Components verrijken om gegevens uit zowel Adobe Commerce als Adobe Experience Manager weer te geven. In deze zitting leert u om uw storefront project met verschillende niveaus van marketing-gedreven ervaringen te verrijken. Wij introduceren u ook aan geavanceerde gebruiksgevallen waar wij tonen hoe de douanecomponenten hefboomwerking bijbehorende inhoud kunnen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337772/?quality=12&learn=on&hidetitle=true)
 
 ## Aanvullende bronnen
 
-- [Adobe Experience Platform-documentatie](https://experienceleague.adobe.com/docs/experience-platform.html)
-- [Adobe Experience Platform - Overzicht](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html)
+- [ Documentatie van Adobe Experience Platform ](https://experienceleague.adobe.com/docs/experience-platform.html)
+- [ het Overzicht van Adobe Experience Platform ](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html)
 - [Tutorials voor Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=nl)

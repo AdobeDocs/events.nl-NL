@@ -32,23 +32,23 @@ Inzichtelijke strategieën en praktische benaderingen voor organisaties die hun 
 
 De vergadering was toegespitst op Lean Teams en het maximaliseren van de efficiëntie met Adobe Workfront. Hier volgt een overzicht van de belangrijkste punten die worden besproken.
 
-**Leerteams en efficiëntie**
+**Leerteams en Efficiëntie**
 
 * Gesprek over de uitdagingen waarmee Lean teams worden geconfronteerd.
 * Gemarkeerde doelstellingen en voordelen van Lean management.
 * Benadrukte beginselen in verband met Lean management.
 
-**Efficiëntiestrategieën**
+**Strategieën voor Efficiency**
 
 * Het belang van voortdurende verbetering.
 * De communicatie stroomlijnen.
 * Gegevensgestuurde beslissingen nemen.
 
-**Workfront Tools**
+**de Hulpmiddelen van Workfront**
 
 * Het gebruik van Workfront-gereedschappen, zoals blauwdrukken, bronnenplanner en integratie voor succes.
 
-**Key Takeaways**
+**Zeer belangrijke Takeaways**
 
 * Strategieën voor efficiëntie.
 * Communicatie stroomlijnen.

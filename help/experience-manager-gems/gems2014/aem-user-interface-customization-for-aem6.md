@@ -18,20 +18,20 @@ De zitting begeleidt u door manieren om AEM gebruikersinterface uit te breiden 6
 
 >[!VIDEO](https://video.tv.adobe.com/v/19519/?quality=9)
 
-*Geleverd op 7 mei 2014*
+*Geleverde 7 Mei, 2014*
 
-**Gepresenteerd door**
+**Voorgesteld door:**
 
 * Gilles Knobloch, Engineering Manager, Adobe
 * Damien Antipa, Senior UX Engineer, Adobe
 
-**Presenter-dia&#39;s**
+**de dia&#39;s van de Presentator**
 
 [Bestand ophalen](assets/user-interface-customization-for-aem6.pdf)
 
 ## Verwante koppelingen {#related-links}
 
-* [Aanraakinterface-concepten](https://docs.adobe.com/docs/en/aem/6-0/develop/the-basics/touch-ui-concepts.html)
-* [Structuur](https://docs.adobe.com/docs/en/aem/6-0/develop/the-basics/touch-ui-structure.html)
-* [De consoles aanpassen (interface met aanraakgeoptimaliseerde interface)](https://docs.adobe.com/docs/en/aem/6-0/develop/extending/customizing-consoles-touch.html)
-* [Paginaontwerp aanpassen (voor aanraking geoptimaliseerde gebruikersinterface)](https://docs.adobe.com/docs/en/aem/6-0/develop/extending/customizing-page-authoring-touch.html)
+* [ Aanraakgevoelige Concepten UI ](https://docs.adobe.com/docs/en/aem/6-0/develop/the-basics/touch-ui-concepts.html)
+* [ Structuur ](https://docs.adobe.com/docs/en/aem/6-0/develop/the-basics/touch-ui-structure.html)
+* [ het Aanpassen van de Consoles (aanraking-geoptimaliseerde UI) ](https://docs.adobe.com/docs/en/aem/6-0/develop/extending/customizing-consoles-touch.html)
+* [ het Aanpassen van de Authoring van de Pagina (aanraking-geoptimaliseerde UI) ](https://docs.adobe.com/docs/en/aem/6-0/develop/extending/customizing-page-authoring-touch.html)

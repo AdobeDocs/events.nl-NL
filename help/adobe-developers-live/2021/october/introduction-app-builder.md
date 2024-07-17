@@ -1,6 +1,6 @@
 ---
 title: Introductie van App Builder - Alles wat u nodig hebt om een aangepaste Cloud-app te maken om aan uw zakelijke behoeften te voldoen
-description: Ontdek wat er mogelijk is met App Builder en vraag ons alles wat u wilt weten. Meld u aan voor meer informatie over hoe u met App Builder native toepassingen voor de cloud kunt maken om de mogelijkheden van Adobe Experience Manager en andere producten voor de Adobe uit te breiden. U leert veelgebruikte toepassingen kennen en leert hoe u aan de slag kunt met App Builder.
+description: Ontdek wat mogelijk is met App Builder en vraag ons alles wat je wilt weten. Meld u aan voor meer informatie over hoe u met App Builder native cloudtoepassingen kunt maken om de out-of-the-box mogelijkheden van Adobe Experience Manager en andere Adobe producten uit te breiden. U leert veelgebruikte toepassingen kennen en leert hoe u aan de slag kunt met App Builder.
 feature: Developer Tools
 topic: Development
 role: Developer, Architect
@@ -18,14 +18,14 @@ ht-degree: 3%
 
 # Introductie van App Builder - Alles wat u nodig hebt om een aangepaste Cloud-app te maken om aan uw zakelijke behoeften te voldoen
 
-Ontdek wat er mogelijk is met App Builder en vraag ons alles wat u wilt weten. Meld u aan voor meer informatie over hoe u met App Builder native toepassingen voor de cloud kunt maken om de mogelijkheden van Adobe Experience Manager en andere producten voor de Adobe uit te breiden. U leert veelgebruikte toepassingen kennen en leert hoe u aan de slag kunt met App Builder.
+Ontdek wat mogelijk is met App Builder en vraag ons alles wat je wilt weten. Meld u aan voor meer informatie over hoe u met App Builder native cloudtoepassingen kunt maken om de out-of-the-box mogelijkheden van Adobe Experience Manager en andere Adobe producten uit te breiden. U leert veelgebruikte toepassingen kennen en leert hoe u aan de slag kunt met App Builder.
 
-Doorgaan met gesprek in **[Experience League Gemeenschappen](https://adobe.ly/3AYeJlv)**.
+Ga het gesprek in **[Gemeenschappen van het Experience League ](https://adobe.ly/3AYeJlv)** voort.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337767/?quality=12&learn=on&hidetitle=true)
 
 ## Aanvullende bronnen
 
-- [Adobe Experience Platform-documentatie](https://experienceleague.adobe.com/docs/experience-platform.html)
-- [Adobe Experience Platform - Overzicht](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html)
+- [ Documentatie van Adobe Experience Platform ](https://experienceleague.adobe.com/docs/experience-platform.html)
+- [ het Overzicht van Adobe Experience Platform ](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html)
 - [Tutorials voor Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=nl)

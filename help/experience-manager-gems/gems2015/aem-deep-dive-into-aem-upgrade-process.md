@@ -18,9 +18,9 @@ Leer over het algemene verbeteringsscenario, de punten van de verbeteringsuitbre
 
 >[!VIDEO](https://video.tv.adobe.com/v/19376/?quality=9)
 
-*Geleverd op 14 oktober 2015*
+*Geleverde 14 Oktober, 2015*
 
-**Gepresenteerd door**
+**Voorgesteld door:**
 
 * Bertrand Delacdetailz, belangrijkste wetenschapper, Adobe
 * Tomek Rekawek Software Developer, Adobe

@@ -30,6 +30,6 @@ Bedrijven zijn steeds meer overgestapt op cloudgebaseerde oplossingen. Het is be
 * Adobe Experience Manager Access met IMS en AEM groepen
 * Cloud Manager gebruiken om AEM te beveiligen.
 
-U kunt de presentatiedia&#39;s openen [hier](../../assets/experience-manager/july2023/effective-security-strategies-in-cloud-service/AEM-CloudManager-Security_Webinar_July_18.pdf).
+U kunt tot de presentatiedia&#39;s [ hier ](../../assets/experience-manager/july2023/effective-security-strategies-in-cloud-service/AEM-CloudManager-Security_Webinar_July_18.pdf) toegang hebben.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421772/?learn=on)

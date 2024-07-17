@@ -1,5 +1,5 @@
 ---
-title: Een invulbaar, elektronisch webformulier verzenden
+title: Post een invulbaar, elektronisch webformulier
 description: Leer hoe u een webformulier maakt waarmee iedereen het kan invullen en ondertekenen, zonder dat u de transactie hoeft te starten of zelfs het e-mailadres van de ondertekenaar kent.
 feature: Sign, Form
 role: User
@@ -8,15 +8,15 @@ doc-type: Event
 duration: 1570
 last-substantial-update: 2024-04-30T00:00:00Z
 jira: KT-15296
-source-git-commit: d2e6829590d4243409652b16b13c8da253df62a5
+exl-id: de00b727-129b-4ae7-bfec-97795b616fb6
+source-git-commit: a9055b8c455e5a28cc47f350644a7ae1a428d9bc
 workflow-type: tm+mt
 source-wordcount: '270'
 ht-degree: 0%
 
 ---
 
-
-# Een invulbaar, elektronisch webformulier verzenden
+# Post een invulbaar, elektronisch webformulier
 
 Leer hoe u een webformulier maakt waarmee iedereen het kan invullen en ondertekenen, zonder dat u de transactie hoeft te starten of zelfs het e-mailadres van de ondertekenaar kent. U leert ook hoe u een documentsjabloon voorbereidt die kan worden gebruikt voor afzonderlijke handtekeningtransacties en voor het posten naar een unieke URL voor breed delen.
 

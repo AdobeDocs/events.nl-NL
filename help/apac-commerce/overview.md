@@ -24,11 +24,11 @@ De APAC Commerce Webinar-reeks is een maandelijks aantal workshops voor klanten 
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2024/accelerator-day/overview.html">
-        <strong>Adobe Commerce Accelerator Day</strong>
+        <strong> Dag van de Versneller van Adobe Commerce </strong>
       </a>
     </div>
     <p>
-    <em>Adobe en de Gemenebest Bank van Australië (CBA) laten innovaties op het gebied van handel, cloud en betalingsoplossingen zien.</em>
+    <em> Adobe en de Bank van het Gemenebest van Australië (CBA) toont innovaties in handel, wolk, en betalingsoplossingen.</em>
     <p>
   </td>
   <td>
@@ -37,11 +37,11 @@ De APAC Commerce Webinar-reeks is een maandelijks aantal workshops voor klanten 
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2024/innovation-spotlight.html">
-        <strong>Adobe Commerce Innovation Spotlight Webinar</strong>
+        <strong> Adobe Commerce Innovatie Spotlight Webinar </strong>
       </a>
     </div>
     <p>
-    <em>Meld u aan voor inspiratie over hoe u de nieuwste functies en architectuur kunt gebruiken om uw klanten de beste ervaring te bieden en uw bedrijf uit te breiden!In dit webinar.</em>
+    <em> sluit zich aan bij ons voor inspiratie op hoe te om de recentste eigenschappen en architectuur over te nemen om de beste ervaring aan uw klanten te leveren en uw zaken te kweken!In dit webinar.</em>
     <p>
   </td> 
   <td>
@@ -50,11 +50,11 @@ De APAC Commerce Webinar-reeks is een maandelijks aantal workshops voor klanten 
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2024/visionary-thinking.html">
-        <strong>Creative Edge - Hoe Visionary Thinking Commerce transformeert</strong>
+        <strong> Creative Edge - hoe het Visionary denken Commerce </strong> omzet
       </a>
     </div>
     <p>
-    <em>Verken de integratie van creativiteit en handel.</em>
+    <em> Onderzoek de integratie van creativiteit en handel.</em>
     <p>
   </td>
 </tr>
@@ -62,4 +62,4 @@ De APAC Commerce Webinar-reeks is een maandelijks aantal workshops voor klanten 
 
 >[!TIP]
 >
->**Alle opgenomen sessies worden weergegeven in de navigatie aan de linkerkant**.
+>**Alle geregistreerde zittingen zijn vermeld in de navigatie op de linkerzijde**.

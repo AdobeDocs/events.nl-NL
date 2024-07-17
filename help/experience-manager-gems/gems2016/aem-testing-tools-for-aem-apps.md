@@ -18,11 +18,11 @@ Van het Testen van de Eenheid aan de Test van de Integratie van een Toepassing v
 
 >[!VIDEO](https://video.tv.adobe.com/v/19302/?quality=9)
 
-*Gepresenteerd op 14 december 2016*
+*Gepresenteerde December 14, 2016*
 
 **Robert Munteanu en Carsten Ziegeler**
 
-**Presenter-dia&#39;s**
+**de dia&#39;s van de Presentator**
 
 [Bestand ophalen](assets/aem-gems-tools-for-testing-12-14-16.pdf)
 <!--

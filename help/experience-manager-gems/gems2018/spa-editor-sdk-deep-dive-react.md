@@ -26,21 +26,21 @@ Diep duik met ons in de ontwikkeling van single-page-Toepassingen die kunnen wor
 
 >[!VIDEO](https://video.tv.adobe.com/v/25194/?quality=9)
 
-*Geleverd 31-10-18*
+*Geleverde 10/31/18*
 
 Gepresenteerd door: Patrick Fauchere, Engineering Manager, Adobe
 
-**Presenter-dia&#39;s**
+**de dia&#39;s van de Presentator**
 
 [Bestand ophalen](assets/aem-gems-spa-editordeepdive-react-10312018.pdf)
 
 ## Verwante koppelingen {#related-links}
 
-[Zelfstudie weekeinde](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html)
+[ Weekend Leerprogramma ](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html)
 
 [Documentatie](https://helpx.adobe.com/experience-manager/6-4/sites/developing/using/spa-overview.html)
 
-[Voorbeeld - We Retail Journal](https://github.com/adobe/aem-sample-we-retail-journal)
+[ Steekproef - wij detailhandelsdagboek ](https://github.com/adobe/aem-sample-we-retail-journal)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

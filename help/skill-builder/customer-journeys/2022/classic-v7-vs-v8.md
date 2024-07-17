@@ -1,5 +1,5 @@
 ---
-title: Adobe [!DNL Campaign Classic] V7 versus V8
+title: Adobe  [!DNL Campaign Classic]  V7 vs V8
 description: Word lid van deze sessie voor meer informatie over de nieuwste productupdates en voor meer inzicht in de verschillen tussen V7 en V8 van onze productmanagers.
 solution: Campaign, Campaign Classic v7, Campaign v8 Client Console
 role: Admin, User
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Word lid van deze sessie voor meer informatie over de nieuwste productupdates en voor meer inzicht in de verschillen tussen V7 en V8 van onze productmanagers.
 
-*Christophe Protat* Productmanager/Adobe
+*Christophe Protat* de Manager/Adobe van het Product
 
 *Gael Mouello* Senior Product Manager/Adobe
 

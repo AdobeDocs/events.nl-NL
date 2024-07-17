@@ -19,13 +19,13 @@ Combineer de kracht van een gebeurtenisgestuurde architectuur en realtime herken
 
 >[!VIDEO](https://video.tv.adobe.com/v/22809/?quality=9)
 
-*Geleverd op 27 juni 2018*
+*Geleverd 27 Juni, 2018*
 
-**Gepresenteerd door**
+**Voorgesteld door:**
 
 Sarah Xu, Ontwikkelgoeroe, Adobe
 
-**Presenter-dia&#39;s**
+**de dia&#39;s van de Presentator**
 
 [Bestand ophalen](assets/gems+6+27+18+adobe+io+analytics+triggers.pdf)
 
@@ -35,8 +35,8 @@ Sarah Xu, Ontwikkelgoeroe, Adobe
 
 >[!MORELIKETHIS]
 >
->* [Solderen als eiken-index voor AEM](solr-as-an-oak-index-for-aem.md)
->* [Betere middelenanalyse ontgrendelen met AEM 6.4](https://helpx.adobe.com/experience-manager/kt/eseminars/experience-insider/exp-asset-analytics-64.html)
+>* [ Solr als index van Oak voor AEM ](solr-as-an-oak-index-for-aem.md)
+>* [ ontgrendelend krachtigere activa Analytics met AEM 6.4 ](https://helpx.adobe.com/experience-manager/kt/eseminars/experience-insider/exp-asset-analytics-64.html)
 
 <!-- this link is broken: >* [Getting the most out of digital interactions with AEM and Analytics](https://helpx.adobe.com/experience-manager/kt/eseminars/ask-the-expert/aem-getting-the-most-out-of-digital-interactions-with-aem-and-analytics.html) 
 -->

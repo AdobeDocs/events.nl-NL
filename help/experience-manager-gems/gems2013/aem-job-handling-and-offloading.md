@@ -18,9 +18,9 @@ De behandeling van de baan is de onderliggende infrastructuur voor eigenschappen
 
 >[!VIDEO](https://video.tv.adobe.com/v/19580/?quality=9)
 
-*Geleverd op 24 juli 2013*
+*Geleverde 24 Juli, 2013*
 
-**Gepresenteerd door**
+**Voorgesteld door:**
 
 Carsten Ziegeler, senior ontwikkelaar, Adobe
 
@@ -36,6 +36,6 @@ Presenter-dia&#39;s - Deel 2
 
 ## Verwante koppelingen {#related-links}
 
-* [Apache Sling Event en Jobhandling](https://sling.apache.org/documentation/bundles/apache-sling-eventing-and-job-handling.html)
-* [API voor detectie en de implementatie ervan](https://sling.apache.org/documentation/bundles/discovery-api-and-impl.html)
-* [Taken verschuiven](https://docs.adobe.com/docs/en/cq/current/deploying/offloading.html)
+* [ Apache die Gebeurtenis en Jobhandling ](https://sling.apache.org/documentation/bundles/apache-sling-eventing-and-job-handling.html)
+* [ Ontdekking API en zijn implementaties ](https://sling.apache.org/documentation/bundles/discovery-api-and-impl.html)
+* [ het Offloaden van Banen ](https://docs.adobe.com/docs/en/cq/current/deploying/offloading.html)

@@ -249,7 +249,7 @@ Ja, dit is hoe:
    Project Users > ID > Equal >$$USER.ID 
 ```
 
-* Zo niet, plaats de gebruikersnaam in plaats van [!DNL $$USER.ID]. Hierin worden alle projecten weergegeven waarin deze persoon een taak krijgt toegewezen of de eigenaar of sponsor is. Als u slechts projecten wilt zien waar zij taken worden toegewezen zou u deze twee extra filterregels moeten toevoegen:
+* Als dat niet het geval is, plaatst u de gebruikersnaam in plaats van [!DNL $$USER.ID] . Hierin worden alle projecten weergegeven waarin deze persoon een taak krijgt toegewezen of de eigenaar of sponsor is. Als u slechts projecten wilt zien waar zij taken worden toegewezen zou u deze twee extra filterregels moeten toevoegen:
 
 ```
    Project > Owner ID > Not Equal > $$USERID

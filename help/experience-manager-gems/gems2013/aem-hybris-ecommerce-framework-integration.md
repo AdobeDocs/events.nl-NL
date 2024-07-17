@@ -18,13 +18,13 @@ In deze vergadering presenteren we onze integratieoplossing voor hybris in AEM. 
 
 >[!VIDEO](https://video.tv.adobe.com/v/19578/?quality=9)
 
-*Afgeleverd op 13 mei 2013*
+*Geleverde Mei 13, 2013*
 
-**Gepresenteerd door**
+**Voorgesteld door:**
 
 Felix Oghina, Adobe Product Developer
 
-**Presenter-dia&#39;s**
+**de dia&#39;s van de Presentator**
 
 [Bestand ophalen](assets/hybris-aem-5-6-ecommerce-framework-integration.pdf)
 

@@ -1,5 +1,5 @@
 ---
-title: Inhoud en ervaring - De drijvende kracht achter personalisatie
+title: Inhoud en ervaring - Het draaiende hart van Personalization
 description: Het identificeren van en het overwinnen van gemeenschappelijke uitdagingen om een inhoud te bouwen & het vermogen van de Ervaringen bouwend uit gebruiksgevallen om inhoud over de klantenreis te drijven
 solution: General
 topic: Personalization
@@ -18,9 +18,9 @@ ht-degree: 0%
 
 ---
 
-# Inhoud en ervaring: het drijvende hart van personalisatie
+# Inhoud en ervaring: het draaiende hart van Personalization
 
-*Inhoud en ervaring: het drijvende hart van personalisatie*
+*Inhoud &amp; Ervaringen: Het Beating Hart van Personalization*
 
 * Algemene uitdagingen identificeren en overwinnen om inhoud en ervaringen te ontwikkelen
 * Gebruikszaken opbouwen om inhoud over de reis van de klant te drijven

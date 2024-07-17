@@ -1,8 +1,8 @@
 ---
-title: Dashboards van de inlichtingendienst van de handel Diepteduik
-description: Bekijk dit webinar voor een geleide tour van de vier dashboards inbegrepen bij opstelling met elke rekening van de Intelligentie van de Handel.
-landing-page-description: Bekijk dit geregistreerde webinar voor een geleide tour van de vier dashboards inbegrepen bij opstelling met elke rekening van de Intelligentie van de Handel.
-short-description: Bekijk dit geregistreerde webinar voor een geleide tour van de vier dashboards inbegrepen bij opstelling met elke rekening van de Intelligentie van de Handel.
+title: Commerce Intelligence-dashboards diep duiken
+description: Bekijk deze webinar voor een begeleide rondleiding van de vier dashboards inbegrepen bij opstelling met elke rekening van Commerce Intelligence.
+landing-page-description: Bekijk deze geregistreerde webinar voor een geleide tour van de vier dashboards inbegrepen bij opstelling met elke rekening van Commerce Intelligence.
+short-description: Bekijk deze geregistreerde webinar voor een geleide tour van de vier dashboards inbegrepen bij opstelling met elke rekening van Commerce Intelligence.
 kt: 10496
 solution: Commerce, Commerce Intelligence
 role: Leader, User, Data Architect
@@ -17,13 +17,13 @@ ht-degree: 0%
 
 ---
 
-# Dashboards van de inlichtingendienst van de handel Diepteduik
+# Commerce Intelligence-dashboards diep duiken
 
 >[!NOTE]
 >
->Adobe Commerce Intelligence stond voorheen bekend als [!DNL Magento Business Intelligence (MBI)]. Opnamen voor gebeurtenissen uit het verleden geven de vorige naam weer.
+>Adobe Commerce Intelligence stond eerder bekend als [!DNL Magento Business Intelligence (MBI)] . Opnamen voor gebeurtenissen uit het verleden geven de vorige naam weer.
 
-Volg een begeleide rondleiding van de vier dashboards inbegrepen bij opstelling met elke rekening van de Intelligentie van de Handel. Dit geregistreerde webinar benadrukt de rol die uw standaarddashboards in het krijgen van waarde van uw eCommerce opslaggegevens spelen, en behandelt de high-level doelstellingen van elk dashboard. Ook duikt het in op een aantal gangbare gevallen van het gebruik van voorgebouwde rapporten, zoals:
+Volg een rondleiding door de vier dashboards die bij opstelling met elke rekening van Commerce Intelligence inbegrepen zijn. Dit geregistreerde webinar benadrukt de rol die uw standaarddashboards in het krijgen van waarde van uw eCommerce opslaggegevens spelen, en behandelt de high-level doelstellingen van elk dashboard. Ook duikt het in op een aantal gangbare gevallen van het gebruik van voorgebouwde rapporten, zoals:
 
 - Identificeer het effect van de campagnes van de klantenverwerving door het verband tussen de maand van de klantenverwerving en levenwaarde te visualiseren.
 - Steuntendensen in plaatsing van uurbestellingen die op inventarisatie- of personeelsbehoeften wijzen.
@@ -35,5 +35,5 @@ Volg een begeleide rondleiding van de vier dashboards inbegrepen bij opstelling 
 
 ## Nuttige bronnen
 
-[Dashboards](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/ess-dashboards.html)
-[Grafiekgegevens exporteren](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/share/exp-chart-dash.html)
+[ Dashboards ](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/ess-dashboards.html)
+[ het Uitvoeren Gegevens van de Grafiek ](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/share/exp-chart-dash.html)

@@ -1,6 +1,6 @@
 ---
 title: Experimenten in schaalbaarheid AEM auteur
-description: Schalen AEM auteurs gaat vooral over het schalen van eikenhout, maar wat is de beste manier om dat te doen? In deze vergadering zullen we een aantal experimenten behandelen die zijn uitgevoerd om te onderzoeken hoe AEM en eik geschaald kunnen worden. We zullen vertellen wat we geleerd hebben van deze experimenten, hoe wat we geleerd hebben, van invloed is op hoe we denken over het verder ontwikkelen van content, projecten en instrumenten die voortkomen uit deze experimenten, en ook een aantal verrassende en niet-intuïtieve overnames.
+description: Schalen AEM Auteurs gaat vooral over het schalen van Oak, maar wat is de beste manier om dat te doen? In deze vergadering zullen we een aantal experimenten behandelen die zijn uitgevoerd om te onderzoeken hoe AEM en Oak geschaald kunnen worden. We zullen vertellen wat we geleerd hebben van deze experimenten, hoe wat we geleerd hebben, van invloed is op hoe we denken over het verder ontwikkelen van content, projecten en instrumenten die voortkomen uit deze experimenten, en ook een aantal verrassende en niet-intuïtieve overnames.
 discoiquuid: 0b0d99a4-60be-4e25-9169-5a9717fbcaa2
 targetaudience: target-audience advanced
 exl-id: c38e4340-1cda-4267-8738-4c83884b6934
@@ -14,17 +14,17 @@ ht-degree: 0%
 
 # Experimenten in schaalbaarheid AEM auteur{#experiments-in-aem-author-scalability}
 
-Schalen AEM auteurs gaat vooral over het schalen van eikenhout, maar wat is de beste manier om dat te doen? In deze vergadering zullen we een aantal experimenten behandelen die zijn uitgevoerd om te onderzoeken hoe AEM en eik geschaald kunnen worden. We zullen vertellen wat we geleerd hebben van deze experimenten, hoe wat we geleerd hebben, van invloed is op hoe we denken over het verder ontwikkelen van content, projecten en instrumenten die voortkomen uit deze experimenten, en ook een aantal verrassende en niet-intuïtieve overnames.
+Schalen AEM Auteurs gaat vooral over het schalen van Oak, maar wat is de beste manier om dat te doen? In deze vergadering zullen we een aantal experimenten behandelen die zijn uitgevoerd om te onderzoeken hoe AEM en Oak geschaald kunnen worden. We zullen vertellen wat we geleerd hebben van deze experimenten, hoe wat we geleerd hebben, van invloed is op hoe we denken over het verder ontwikkelen van content, projecten en instrumenten die voortkomen uit deze experimenten, en ook een aantal verrassende en niet-intuïtieve overnames.
 
 >[!VIDEO](https://video.tv.adobe.com/v/21522/?quality=9)
 
-*Geleverd op 7 februari 2018*
+*Geleverde 7 Februari, 2018*
 
-**Gepresenteerd door**
+**Voorgesteld door:**
 
 Matt Ryan, Sr. Software Engineer, Adobe
 
-**Presenter-dia&#39;s**
+**de dia&#39;s van de Presentator**
 
 [Bestand ophalen](assets/experiments+in+aem+author+scalability+2+7+18.pdf)
 <!--

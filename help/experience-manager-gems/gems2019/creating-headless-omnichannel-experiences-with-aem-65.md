@@ -22,12 +22,12 @@ U moet het volgende niveau van dynamische ervaringen creëren om uw snelle klant
 
 >[!VIDEO](https://video.tv.adobe.com/v/27088/?quality=9)
 
-*Geleverd 16-04-19*
+*Geleverd 04/16/19*
 
-**Gepresenteerd door**
+**Voorgesteld door:**
 
 * Amol Anand, belangrijkste consultant, technisch architect, Adobe
 
-**Presenter-dia&#39;s**
+**de dia&#39;s van de Presentator**
 
 [Bestand ophalen](assets/headless-omnichannelwebinar04162019.pdf)

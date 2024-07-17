@@ -24,11 +24,11 @@ Verpersoonlijking in real time op om het even welk kanaal gebruikend online en o
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/data-and-insights/2022/personalize.html">
-        <strong>Personaliseren en automatiseren met Adobe Target</strong>
+        <strong> personaliseren en automatiseren met Adobe Target </strong>
       </a>
     </div>
     <p>
-    <em>Sluit u aan bij deze sessie om de kernconcepten van het automatiseren en optimaliseren van Adobe Target-mogelijkheden te leren met Auto Target en Auto Personalizations.</em>
+    <em> sluit zich aan bij deze zitting om de kernconcepten te leren van het automatiseren en optimaliseren van de mogelijkheden van Adobe Target gebruikend AutoDoel en AutoAanpassingen.</em>
     <p>
   </td>
   <td>
@@ -37,11 +37,11 @@ Verpersoonlijking in real time op om het even welk kanaal gebruikend online en o
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/data-and-insights/2022/innovations.html">
-        <strong>2022 Innovaties en trends</strong>
+        <strong> 2022 Innovaties en tendensen </strong>
       </a>
     </div>
     <p>
-    <em>In deze keynote zitting, zult u over de hoogste tendensen in D&amp;I leren. Sluit u aan bij ons om te verkennen hoe u uw gegevens kunt gebruiken door uw investeringen in Experiencen Cloud volledig te maximaliseren en nieuwe innovaties te bekijken.</em>
+    <em> In deze keynote zitting, zult u over de hoogste tendensen in D&amp;I leren. Meld u aan bij ons om te verkennen hoe u uw gegevens kunt gebruiken door uw investeringen in Experiencen Cloud volledig te maximaliseren en nieuwe innovaties te bekijken. </em>
     <p>
   </td>  
   <td>
@@ -50,11 +50,11 @@ Verpersoonlijking in real time op om het even welk kanaal gebruikend online en o
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/data-and-insights/2022/mobile-and-apps.html">
-        <strong>Analyses en doeltoepassingen voor mobiele apparaten en toepassingen</strong>
+        <strong> Analytics en de toepassingen van het Doel voor Mobiele en Apps </strong>
       </a>
     </div>
     <p>
-    <em>In deze sessie leert u over de beste praktijken voor het gebruik van analytische dashboards op mobiele apparaten en hoe u toepassingen kunt aanpassen via Doel.</em>
+    <em> In deze zitting zult u over beste praktijken op leren hoe te om de dashboards van Analytics op mobiele apparaten te gebruiken, evenals hoe te apps via Doel personaliseren.</em>
     <p>
   </td>
 </tr>
@@ -62,4 +62,4 @@ Verpersoonlijking in real time op om het even welk kanaal gebruikend online en o
 
 >[!TIP]
 >
->**Alle opgenomen sessies worden weergegeven in de navigatie aan de linkerkant**.
+>**Alle geregistreerde zittingen zijn vermeld in de navigatie op de linkerzijde**.

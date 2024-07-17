@@ -18,18 +18,18 @@ In deze sessie zal Peter Klassen - Product Manager het volgende bekijken: JCR Re
 
 >[!VIDEO](https://video.tv.adobe.com/v/19517/?quality=9)
 
-*Geleverd op 11 juni 2014*
+*Geleverd 11 Juni, 2014*
 
-**Gepresenteerd door**
+**Voorgesteld door:**
 
 Peter Klassen, productmanager, Adobe
 
-**Presenter-dia&#39;s**
+**de dia&#39;s van de Presentator**
 
 [Bestand ophalen](assets/aem6-platform-whatsnew.pdf)
 
 ## Verwante koppelingen {#related-links}
 
-* [Opmerkingen bij de release AEM 6.0](https://docs.adobe.com/content/docs/en/aem/6-0/release-notes.html)
-* [AEM 6.0 beheren](https://docs.adobe.com/docs/en/aem/6-0/manage.html)
-* [Uw upgrade naar AEM 6.0 plannen](https://docs.adobe.com/content/docs/en/aem/6-0/deploy/upgrade/planning.html)
+* [ AEM 6.0 de Nota&#39;s van de Versie ](https://docs.adobe.com/content/docs/en/aem/6-0/release-notes.html)
+* [ het Leiden AEM 6.0 ](https://docs.adobe.com/docs/en/aem/6-0/manage.html)
+* [ plannend uw verbetering aan AEM 6.0 ](https://docs.adobe.com/content/docs/en/aem/6-0/deploy/upgrade/planning.html)

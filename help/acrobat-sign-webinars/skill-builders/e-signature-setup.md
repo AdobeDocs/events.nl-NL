@@ -8,13 +8,13 @@ doc-type: Event
 duration: 1796
 last-substantial-update: 2024-04-30T00:00:00Z
 jira: KT-15293
-source-git-commit: d2e6829590d4243409652b16b13c8da253df62a5
+exl-id: 599f4121-b27b-41af-8220-2f0b1716e3d5
+source-git-commit: a9055b8c455e5a28cc47f350644a7ae1a428d9bc
 workflow-type: tm+mt
 source-wordcount: '389'
 ht-degree: 0%
 
 ---
-
 
 # Uw overeenkomsten voorbereiden voor elektronische ondertekening
 
@@ -30,12 +30,12 @@ Door speciaal opgemaakte tekstcodes toe te passen op specifieke gedeelten van he
 
 Deze aanpak biedt verschillende voordelen:
 
-* **Naadloze integratie** Omdat veel documenten in Microsoft Word beginnen, kunt u met behulp van tekstcodes met uw originele document werken zonder extra software of conversies. U kunt het document in Word onderhouden en bewerken terwijl u nog steeds e-handtekeningen kunt verzamelen.
+* **Naadloze integratie** aangezien vele documenten in Microsoft Word beginnen, staat het gebruiken van tekstmarkeringen u toe om met uw origineel document zonder de behoefte aan extra software of omzettingen te werken.U kunt het document in Word handhaven en uitgeven terwijl nog het hebben van de capaciteit om e-handtekeningen te verzamelen.
 
-* **Volledige controle over formuliervelden** Met tekstcodes hebt u volledige controle over de plaatsing en eigenschappen van formuliervelden. U kunt het type veld opgeven (bijvoorbeeld handtekening, tekstinvoer, selectievakje), dit toewijzen aan een specifieke deelnemer, instellen als vereist of optioneel en andere eigenschappen definiëren, zoals weergave, standaardwaarden en knopinfo.
+* **Volledige controle over vormgebieden** de markeringen van de Tekst geven u volledige controle over de plaatsing en de eigenschappen van vormgebieden.U kunt het type van gebied (b.v., handtekening, tekstinput, checkbox) specificeren, het toewijzen aan een specifieke deelnemer, het plaatsen zoals vereist of facultatief, en andere eigenschappen zoals verschijning, standaardwaarden, en tooltips bepalen.
 
-* **Herbruikbaarheid** Nadat u tekstcodes hebt toegepast op uw Word-document, kan dit fungeren als een herbruikbare sjabloon voor het verzamelen van e-handtekeningen. U kunt de sjabloon opslaan en delen, zodat u eenvoudig hetzelfde document kunt gebruiken voor meerdere overeenkomsten of workflows.
+* **Herbruikbaarheid** Zodra u tekstmarkeringen op uw document van Word hebt toegepast, kan het als herbruikbaar malplaatje voor het verzamelen van e-handtekeningen dienen.U kunt het malplaatje bewaren en delen, makend het gemakkelijk om het zelfde document voor veelvoudige overeenkomsten of werkschema&#39;s te gebruiken.
 
-* **Flexibiliteit en aanpassing** Met tekstcodes kunt u verschillende typen formuliervelden definiëren, zoals selectievakjes, keuzerondjes, vervolgkeuzelijsten en meer. Met deze flexibiliteit kunt u aangepaste formulieren maken die zijn toegesneden op uw specifieke behoeften en verschillende soorten informatie van deelnemers verzamelen.
+* **Flexibiliteit en aanpassing** de markeringen van de Tekst staan u toe om diverse types van vormgebieden, met inbegrip van controledozen, radioknopen, drop-down lijsten, en meer te bepalen.Deze flexibiliteit laat u toe om aangepaste vormen tot stand te brengen die aan uw specifieke behoeften worden aangepast en verschillende soorten informatie van deelnemers te verzamelen.
 
-* **Gemakkelijke verwijzing en begeleiding** Adobe biedt een handleiding voor tekstcodes waarin de syntaxis en structuur van tekstcodes worden geïllustreerd. Deze handleiding kan als referentie dienen wanneer u tekstcodes toepast op uw eigen documenten, zodat u deze op de juiste wijze opmaakt en alle beschikbare opties benut.
+* **Gemakkelijke verwijzing en begeleiding** Adobe verstrekt een gids van de tekstmarkering die de syntaxis en de structuur van tekstmarkeringen aantoont.Deze gids kan als verwijzing dienen wanneer het toepassen van tekstmarkeringen op uw eigen documenten, die ervoor zorgen dat u hen correct formatteert en uit alle beschikbare opties voordeel haalt.

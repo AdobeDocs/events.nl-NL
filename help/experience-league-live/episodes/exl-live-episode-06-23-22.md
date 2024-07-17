@@ -22,7 +22,7 @@ In deze tweede van drie livestreamsessies met betrekking tot gegevensverzameling
 
 >[!VIDEO](https://video.tv.adobe.com/v/344251/?quality=12&learn=on)
 
-**Doorgaan met de discussie** in de [Gemeenschap Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-launch/experience-league-live-post-session-discussion-real-time-cdp/m-p/458195#M285){target="_blank"}!
+**zet de bespreking** in de [ Gemeenschap van het Experience League ](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-launch/experience-league-live-post-session-discussion-real-time-cdp/m-p/458195#M285) {target="_blank"} voort!
 
 ## Extra LIVE-sessies van Experience League uit deze gegevensverzamelingsreeks
 

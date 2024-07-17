@@ -8,7 +8,7 @@ duration: 3537
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '162'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -18,20 +18,20 @@ AEM Dynamic Media biedt klanten de mogelijkheid om op schaalbare en voordelige w
 
 >[!VIDEO](https://video.tv.adobe.com/v/19297/?quality=9)
 
-*Geleverd op 17 augustus 2016*
+*Geleverde 17 Augustus, 2016*
 
-**Gepresenteerd door**
+**Voorgesteld door:**
 
 * Cynthia Tillo, hoofd productmanager, Adobe
 * Bob van Manen, Engineering Manager, Adobe
 
-**Presenter-dia&#39;s**
+**de dia&#39;s van de Presentator**
 
 [Bestand ophalen](assets/aemgems-081716-dynamic-media-configuration.pdf)
 
 ## Verwante koppelingen {#related-links}
 
-[Dynamic Media configureren](https://docs.adobe.com/docs/en/aem/6-2/administer/content/dynamic-media/config-dynamic.html)
+[ het Vormen Dynamic Media ](https://docs.adobe.com/docs/en/aem/6-2/administer/content/dynamic-media/config-dynamic.html)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

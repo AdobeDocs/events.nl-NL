@@ -22,6 +22,6 @@ ht-degree: 0%
 
 Meer informatie over beheer van headless Experience met de nieuwste verbeteringen voor Experience Manager Content Fragment en de nieuwe GraphQL API voor het leveren van inhoud zonder kop.
 
-*Thomas Morf* Trainingsconsultant/Adobe
+*Thomas Morf* Opleidingsconsultant/Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/343816/?quality=12&learn=on)

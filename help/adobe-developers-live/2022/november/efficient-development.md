@@ -23,7 +23,7 @@ ht-degree: 0%
 
 # Efficiënte ontwikkeling op Adobe Experience Manager as a Cloud Service
 
-Cloud Manager biedt verschillende typen pijpleidingen om de ontwikkelaarservaring te verbeteren en de workflow te stroomlijnen, waaronder een front-end code-implementatiepijplijn.
+Cloud Manager biedt verschillende soorten pijpleidingen om de ontwikkelaarservaring te verbeteren en hun workflow te stroomlijnen, waaronder een front-end code-implementatiepijplijn.
 
 In deze sessie leert u hoe u een bestaande website instelt voor snelle front-end code-implementatie.
 

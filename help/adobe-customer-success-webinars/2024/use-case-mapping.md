@@ -29,13 +29,13 @@ Dit webinar verkent zeer belangrijke manieren om gebruiksgevallen te onderzoeken
 
 ## Samenvatting van de vergadering
 
-**De uitdagingen die door Echt - tijd CDP worden gericht**
+**Uitdagingen die door CDP in real time worden gericht**
 
 * Gesegregd marketinggereedschap
 * Verspreide oorsprong van gegevens
 * Regels inzake governance-verschuiving
 
-**Gevolgen van de afschrijving van cookies van derden**
+**Effect van Verdringing van de Koekjes van de Derde**
 
 * Effecten op gebruiksgevallen zoals herbestemming van betaalde media en personalisatie
 
@@ -43,13 +43,13 @@ Dit webinar verkent zeer belangrijke manieren om gebruiksgevallen te onderzoeken
 
 * Focus op gegevensinvoer, publieksbeheer en structuren voor gegevensuitvoer
 
-**Het belang van de aanpassing en de Prioriteit**
+**Belang van Groepering en Prioritization**
 
 * CDP-mogelijkheden afstemmen op strategische prioriteiten
 * Prioriteit van de gebruiksgevallen
 * Zorgen voor effectieve uitvoering
 
-**Besprekte strategieën**
+**Besprekte Strategieën**
 
 * Geavanceerde segmenteringsmogelijkheden benutten
 * Functies voor het delen van gegevens gebruiken

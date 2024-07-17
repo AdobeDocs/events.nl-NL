@@ -22,7 +22,7 @@ ht-degree: 0%
    + [Workfront-systeemonderhoud](user-groups/workfront-system-maintenance.md)
 + Agile {#agile}
    + [Geniet van marketing](user-groups/agile-in-marketing.md)
-+ Rapportage en dashboards {#reporting-and-dashboards}
++ Rapporteren en dashboards {#reporting-and-dashboards}
    + [Geavanceerde rapportage](user-groups/advanced-reporting.md)
    + [Creatieve agentschappen: rapportage en dashboards](user-groups/creative-agencies-reporting-and-dashboards.md)
    + [Kwaliteit van gaging en betrokkenheid](webinars/gauging-quality-and-engagement.md)
@@ -40,11 +40,11 @@ ht-degree: 0%
 + Timesheets {#timesheets}
    + [Timesheets gebruiken in Workfront](user-groups/utilizing-timesheets-in-workfront.md)
 + Workfront Proof {#workfront-proof}
-   + [Aanbevolen procedures voor het maximaliseren van Workfront-proefdrukken](webinars/best-practices-to-maximize-workfront-proof.md)
-   + [Follow-up van best practices voor Workfront-proefdrukken](webinars/follow-up-to-workfront-proof-best-practices.md)
-   + [Creative Agencies: Workfront Proof](user-groups/creative-agencies-workfront-proof.md)
+   + [Aanbevolen procedures voor het maximaliseren van Workfront Proof](webinars/best-practices-to-maximize-workfront-proof.md)
+   + [Follow-up van beste praktijken van Workfront Proof](webinars/follow-up-to-workfront-proof-best-practices.md)
+   + [Creatieve agentschappen: Workfront Proof](user-groups/creative-agencies-workfront-proof.md)
    + [Workfront Proof gebruiken](user-groups/leveraging-workfront-proof.md)
 + Wachtrijen en opname aanvragen {#request-queues-and-intake}
    + [Wachtrijen aanvragen en Forms innemen](user-groups/request-queues-and-intake-forms.md)
-+ Uitstoot {#releases}
++ Versies {#releases}
    + [24.1 Release](webinars/24-1-release-webinar.md)

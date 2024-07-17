@@ -1,5 +1,5 @@
 ---
-title: De Data Warehouse van de Intelligentie van de Handel optimaliseren
+title: Uw Commerce Intelligence-Data Warehouse optimaliseren
 description: Kijk naar dit webinar voor meer informatie over Data Warehouse Manager.
 landing-page-description: Kijk naar dit opgenomen webinar
 short-description: Kijk naar dit opgenomen webinar
@@ -17,11 +17,11 @@ ht-degree: 0%
 
 ---
 
-# De Data Warehouse van de Intelligentie van de Handel optimaliseren
+# Uw Commerce Intelligence-Data Warehouse optimaliseren
 
 >[!NOTE]
 >
->Adobe Commerce Intelligence stond voorheen bekend als [!DNL Magento Business Intelligence (MBI)]. Opnamen voor gebeurtenissen uit het verleden geven de vorige naam weer.
+>Adobe Commerce Intelligence stond eerder bekend als [!DNL Magento Business Intelligence (MBI)] . Opnamen voor gebeurtenissen uit het verleden geven de vorige naam weer.
 
 Gebruikend de Manager van de Data Warehouse, kunt u lijst en kolomsync montages beheren, neer in het schema van een lijst boren, en berekende kolommen tot stand brengen in rapporten te gebruiken.
 
@@ -43,5 +43,5 @@ In dit webinar:
 
 ## Nuttige bronnen
 
-[Uw database optimaliseren voor analyse](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/opt-db-analysis.html)
-[Aanbevolen Dimensionen van Gegevens voor Segmentatie en Filtreren](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html)
+[ Optimizing Uw Gegevensbestand voor Analyse ](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/opt-db-analysis.html)
+[ Aanbevolen Dimensionen van Gegevens voor Segmentatie en Filtrerend ](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html)

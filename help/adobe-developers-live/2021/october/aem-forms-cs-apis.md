@@ -1,6 +1,6 @@
 ---
 title: Adobe Experience Manager Forms as a Cloud Service - Snel uw ontwikkeling volgen met behulp van API's
-description: Leer hoe u as a Cloud Service API's van Adobe Experience Manager Forms kunt gebruiken om toegang te krijgen tot services zoals Headless Delivery of Forms en Communications op schaal. Deze sessie gaat over het maken van clienttoepassingen voor gebruik van Synchronous en Batch Doc Gen met Adobe Experience Manager Forms CS API. Deelnemers krijgen ook een voorvertoning van de aanstaande Headless API's voor Forms waarmee ontwikkelaars gemakkelijk mobiele toepassingen of React-toepassingen met formulieren kunnen maken.
+description: Leer hoe u Adobe Experience Manager Forms as a Cloud Service API's kunt gebruiken om toegang te krijgen tot services zoals Headless Delivery of Forms en Communications op schaal. Deze sessie gaat over het maken van clienttoepassingen voor gebruik van Synchronous en Batch Doc Gen met Adobe Experience Manager Forms CS API. Deelnemers krijgen ook een voorvertoning van de aanstaande Headless API's voor Forms waarmee ontwikkelaars gemakkelijk mobiele toepassingen of React-toepassingen met formulieren kunnen maken.
 solution: Experience Manager,Experience Manager Forms
 role: User
 level: Beginner
@@ -18,18 +18,18 @@ ht-degree: 0%
 
 # Adobe Experience Manager Forms as a Cloud Service: Snel uw ontwikkeling volgen met behulp van API&#39;s
 
-Leer hoe u as a Cloud Service API&#39;s van Adobe Experience Manager Forms kunt gebruiken om toegang te krijgen tot services zoals Headless Delivery of Forms en Communications op schaal. 
+Leer hoe u Adobe Experience Manager Forms as a Cloud Service API&#39;s kunt gebruiken om toegang te krijgen tot services zoals Headless Delivery of Forms en Communications op schaal. 
 
 Deze sessie gaat over het maken van clienttoepassingen voor gebruik van Synchronous en Batch Doc Gen met Adobe Experience Manager Forms CS API&#39;s
 
 Deelnemers krijgen ook een voorvertoning van de aanstaande Headless API&#39;s voor Forms waarmee ontwikkelaars gemakkelijk mobiele toepassingen of React-toepassingen met formulieren kunnen maken.
 
-Doorgaan met gesprek in **[Experience League Gemeenschappen](https://adobe.ly/3zKLQrw)**.
+Ga het gesprek in **[Gemeenschappen van het Experience League ](https://adobe.ly/3zKLQrw)** voort.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337724/?quality=12&learn=on&hidetitle=true)
 
 ## Aanvullende bronnen
 
-- [Adobe Experience Manager-documentatie](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
-- [Overzicht Adobe Experience Manager Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html)
-- [Adobe Experience Manager Tutorials](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html)
+- [ Documentatie van Adobe Experience Manager ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
+- [ het Overzicht van de Cloud Service van Adobe Experience Manager ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html)
+- [ Tutorials van Adobe Experience Manager ](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html)

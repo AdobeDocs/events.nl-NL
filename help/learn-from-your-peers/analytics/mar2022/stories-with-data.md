@@ -1,6 +1,6 @@
 ---
 title: Ingrijpende verhalen vertellen met gegevens
-description: Verbinden [!DNL Adobe Analytics] Champion Amy Ard legt uit hoe kunst en wetenschap samen kunnen komen om een krachtig verhaal te vertellen en je bedrijf te helpen gegevensgestuurde beslissingen te nemen.
+description: Word  [!DNL Adobe Analytics]  Champion Amy Ard aangezien zij verklaart hoe de kunst en de wetenschap samen kunnen komen om een krachtig verhaal te vertellen en uw bedrijf te helpen gegeven-gedreven besluiten nemen.
 solution: Analytics
 role: User
 doc-type: Event
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Ingrijpende verhalen vertellen met gegevens
 
-Gegevens zijn een van de krachtigste instrumenten waarop een organisatie kan vertrouwen, maar alleen als ze op een manier worden gepresenteerd die van belang is voor de besluitvormers. Verbinden [!DNL Adobe Analytics] Champion Amy Ard legt uit hoe kunst en wetenschap samen kunnen komen om een krachtig verhaal te vertellen en je bedrijf te helpen gegevensgestuurde beslissingen te nemen.
+Gegevens zijn een van de krachtigste instrumenten waarop een organisatie kan vertrouwen, maar alleen als ze op een manier worden gepresenteerd die van belang is voor de besluitvormers. Doe mee aan [!DNL Adobe Analytics] Champion Amy Ard terwijl ze uitlegt hoe kunst en wetenschap samen kunnen komen om een krachtig verhaal te vertellen en je bedrijf te helpen gegevensgestuurde beslissingen te nemen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/342096/?quality=12&learn=on)

@@ -26,7 +26,7 @@ In de video &quot;Adobe Marketo Engage Champion Deep Dive&quot; bespreken de pre
 
 ## Toetsen
 
-**Aangepaste velden voor programmaleden (PMC&#39;s)**
+{de Velden van de Douane van het Lid van 0} Programma (PMCs) ****
 
 * Unieke gegevensvelden die specifiek zijn voor een programma.
 * Contextgegevens op programmaniveau toestaan.
@@ -36,7 +36,7 @@ In de video &quot;Adobe Marketo Engage Champion Deep Dive&quot; bespreken de pre
 * Gebruik in e-mails, bestemmingspagina&#39;s en waarschuwingen voor persoonlijke communicatie.
 * Het bijhouden, analyseren en rapporteren van programmaspecifieke gegevens verbeteren.
 
-**Gebruik van PMC&#39;s in Marketo**
+**Gebruik van PMCs in Marketo**
 
 * Cruciaal voor het vastleggen en delen van informatie binnen programma&#39;s.
 * Programmabeschrijvingen zijn ideaal voor het weergeven van velden en voor het verzamelen van gegevens.
@@ -46,7 +46,7 @@ In de video &quot;Adobe Marketo Engage Champion Deep Dive&quot; bespreken de pre
 * Nauwkeurige planning en validatie van aangepaste velden om fouten te voorkomen.
 * De velden die voor elk programma nodig zijn, controleren en prioriteren.
 
-**Planning en implementatie van aangepaste velden**
+**de Planning en Implementatie van de Gebieden van de Douane**
 
 * Concepttests en -proefdrukken voordat er wijzigingen worden aangebracht of nieuwe velden worden gemaakt.
 * Collaboration tussen marketing- en verkoopteams voor effectief gebruik in het veld.

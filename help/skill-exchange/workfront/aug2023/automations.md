@@ -22,10 +22,12 @@ ht-degree: 0%
 
 Dankzij de automatisering van de hefboomwerking kan een enorm potentieel voor efficiëntie worden ontsloten door uw gebruikers toe te staan zich op het werk te concentreren dat hun unieke vaardigheden en deskundigheid vereist, in plaats van de routinetaken en de herhalende taken die hen kunnen misleiden.
 
-Tijdens deze sessie delen Jennafer Higgs, Jonathan Cabre en Malcom Benites van Zimmerman Advertising praktische voorbeelden van automatiseringen waarvan is bewezen dat ze een efficiëntere workflow creëren.
+Tijdens deze sessie delen Jennafer Higgs, Jonathan Cabre en Malcom Benites van Zimmerman Advertising praktische voorbeelden van automatiseringen die een efficiëntere workflow hebben opgeleverd.
 
 Ze delen zowel Fusion- als non-Fusion-automatisering, waaronder:
 
-・ Hoe projecten automatisch te sluiten ・ Subtemplate genereren ・ Geconsolideerde goedgekeurde evaluatie van activa
+・ Hoe projecten automatisch te sluiten
+・ Subtemplate genereren
+・ Geconsolideerde goedgekeurde evaluatie van bedrijfsmiddelen
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425812/?learn=on)

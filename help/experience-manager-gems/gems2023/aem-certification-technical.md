@@ -22,7 +22,7 @@ ht-degree: 0%
 
 # Maak kennis met de kunst van de Experience Manager-certificering: klaar voor u, stel ze in, profiteer van een certificering!
 
-Dit webinar is uitgevoerd op **28 juni**, 2023. Bekijk de onderstaande opname.
+Dit webinar is geleid op **28e juni**, 2023. Bekijk de onderstaande opname.
 
 ## Sessiebeschrijving
 
@@ -45,6 +45,6 @@ Haal vandaag nog uw plaats in en maak een reis naar nieuwe hoogten met Experienc
 
 >[!NOTE]
 >
->* Voor sessiespecifieke community-interacties over Experience League gaat u naar [Contextuele thread](https://adobe.ly/3p2CmbA)
+>* Voor zitting specifieke communautaire interactie over Experience League, gelieve dit [ Contextuele Draad ](https://adobe.ly/3p2CmbA) te bezoeken
 >
->* Als je berichten wilt ontvangen over onze komende webinars, kun je je inschrijven op [Gebruikersgroep AEM Adobe](https://aem-augs.adobe.com/).
+>* Om berichten betreffende onze aanstaande webinars te ontvangen, gelieve te registreren bij [ AEM de Groep van de Gebruiker van de Adobe ](https://aem-augs.adobe.com/).

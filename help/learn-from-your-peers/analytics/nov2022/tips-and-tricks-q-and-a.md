@@ -1,6 +1,6 @@
 ---
-title: '''[!DNL Adobe Analytics] Opvolging vragen en antwoorden voor miniatuurtips en trucs'
-description: We verzamelden vijf [!DNL Adobe Analytics] Champions van over de hele wereld delen de tips en trucs die hen hielpen de baas te worden [!DNL Adobe Analytics]. During the event, over 90 questions were asked by [!DNL Adobe Analytics] gebruikers over de hele wereld. Sinds onze [!DNL Adobe Analytics] De experts konden niet al die vragen beantwoorden tijdens de live vragen en antwoorden, we kregen de groep weer bij elkaar en hosten een follow-up-sessie met vragen en antwoorden, waar de kampioenen UW vragen beantwoordden en nog meer tips en trucs van experts deelden.
+title: '''[!DNL Adobe Analytics] Opvolgvragen en antwoorden voor tips en trucs'
+description: Wij verzamelden vijf  [!DNL Adobe Analytics]  Champions van over de wereld om de uiteinden en de trucs te delen die hen meester  [!DNL Adobe Analytics]. During the event, over 90 questions were asked by [!DNL Adobe Analytics]  gebruikers over de wereld hielpen. Aangezien onze  [!DNL Adobe Analytics]  deskundigen niet al die vraag tijdens levende Q&A konden beantwoorden, kregen wij de groep terug samen en ontvangen een follow-up zitting Q&A waar de Kampioenen UW vragen beantwoordden en nog meer deskundige uiteinden & trucs deelden.
 role: User
 doc-type: Event
 last-substantial-update: 2023-02-09T00:00:00Z
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Adobe Analytics] Opvolging vragen en antwoorden voor kampioentstips en trucs
+# [!DNL Adobe Analytics] Champion Tips and Tricks Follow-up Q en A
 
-We verzamelden vijf [!DNL Adobe Analytics] Champions van over de hele wereld delen de tips en trucs die hen hielpen de baas te worden [!DNL Adobe Analytics]. Tijdens het evenement werden meer dan 90 vragen gesteld door [!DNL Adobe Analytics] gebruikers over de hele wereld. Sinds onze [!DNL Adobe Analytics] De experts konden niet al die vragen beantwoorden tijdens de live vragen en antwoorden, we kregen de groep weer bij elkaar en hosten een follow-up-sessie met vragen en antwoorden, waar de kampioenen UW vragen beantwoordden en nog meer tips en trucs van experts deelden.
+We verzamelden vijf [!DNL Adobe Analytics] Champions van over de hele wereld om de tips en trucs te delen die hen hielpen bij het beheersen van [!DNL Adobe Analytics] . Tijdens het evenement hebben [!DNL Adobe Analytics] -gebruikers over de hele wereld meer dan 90 vragen gesteld. Omdat onze [!DNL Adobe Analytics] -experts niet in staat waren al die vragen te beantwoorden tijdens de live vragen en antwoorden, kregen we de groep weer samen en kregen we een follow-up-sessie met vragen en antwoorden, waar de kampioenen UW vragen beantwoordden en nog meer tips en trucs van experts deelden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3414192/?quality=12&learn=on)

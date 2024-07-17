@@ -18,13 +18,13 @@ Bekijk in een technische talk wat we voor de volgende generatie van Adobe Experi
 
 >[!VIDEO](https://video.tv.adobe.com/v/19384/?quality=9)
 
-*Geleverd op 21 januari 2015*
+*Geleverde 21 Januari, 2015*
 
-**Gepresenteerd door**
+**Voorgesteld door:**
 
 * Gabriel Walt, productmanager, Adobe
 
-**Presenter-dia&#39;s**
+**de dia&#39;s van de Presentator**
 
 [Bestand ophalen](assets/aem-technical-sneak-peek.pdf)
 <!--

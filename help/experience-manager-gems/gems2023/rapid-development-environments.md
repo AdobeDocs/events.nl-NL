@@ -1,5 +1,5 @@
 ---
-title: Het versnellen AEM as a Cloud Service ontwikkeling met Snelle Ontwikkelomgevingen
+title: AEM as a Cloud Service-ontwikkeling versnellen met Rapid Development Environment
 description: Om veranderingen op te stellen, vereisen de huidige milieu's van de Ontwikkeling van de Wolk het gebruik van een proces dat uitgebreide codeveiligheid en kwaliteitsregels gebruikt genoemd een pijpleiding CI/CD. Voor situaties waar snelle en herhalende veranderingen nodig zijn, heeft de Adobe Snelle Ontwikkelomgevingen (RDEs voor kort) geïntroduceerd.RDEs staat ontwikkelaars toe om veranderingen snel op te stellen en te herzien, die de hoeveelheid tijd minimaliseren nodig om eigenschappen te testen die aan een lokale ontwikkelomgeving worden bewezen te werken.
 feature-set: Experience Manager
 solution: Experience Manager
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 ---
 
-# Het versnellen AEM as a Cloud Service ontwikkeling met Snelle Ontwikkelomgevingen
+# AEM as a Cloud Service-ontwikkeling versnellen met Rapid Development Environment
 
 Dit webinar is uitgevoerd op 22 februari 2023. Bekijk de onderstaande opname.
 
@@ -44,6 +44,6 @@ RDEs staat ontwikkelaars toe om veranderingen snel op te stellen en te herzien, 
 
 >[!NOTE]
 >
->* Voor sessiespecifieke community-interacties over Experience League gaat u naar [Contextuele thread](http://bit.ly/3x1Cl8x)
+>* Voor zitting specifieke communautaire interactie over Experience League, gelieve dit [ Contextuele Draad ](http://bit.ly/3x1Cl8x) te bezoeken
 >
->* Als je berichten wilt ontvangen over onze komende webinars, kun je je inschrijven op [Gebruikersgroep AEM Adobe](https://aem-augs.adobe.com/).
+>* Om berichten betreffende onze aanstaande webinars te ontvangen, gelieve te registreren bij [ AEM de Groep van de Gebruiker van de Adobe ](https://aem-augs.adobe.com/).

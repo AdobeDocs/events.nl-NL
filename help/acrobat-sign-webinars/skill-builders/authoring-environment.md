@@ -7,13 +7,13 @@ doc-type: Event
 duration: 1790
 last-substantial-update: 2024-04-30T00:00:00Z
 jira: KT-15298
-source-git-commit: d2e6829590d4243409652b16b13c8da253df62a5
+exl-id: fc9f03e9-09ec-43b5-8afe-6b7866e49489
+source-git-commit: a9055b8c455e5a28cc47f350644a7ae1a428d9bc
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 0%
 
 ---
-
 
 # Geavanceerde training voor ontwerpomgeving
 
@@ -28,4 +28,3 @@ Bekijk de mogelijkheden die beschikbaar zijn in de Acrobat Sign-ontwerpomgeving 
 * Aanvullende opties zoals velden voor bestandsbijlagen, hyperlinkvelden en transactie-id worden verkend.
 * Aan deelnemers kunnen formuliervelden worden toegewezen en sjablooneigenschappen kunnen worden ingesteld voor aanpassing.
 * Ook het proces van het maken van herbruikbare documentsjablonen, het beheren van sjablonen en het exporteren van ondertekende overeenkomsten wordt behandeld.
-

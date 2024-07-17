@@ -18,14 +18,14 @@ In deze sessie presenteren we AEM 6.3-mogelijkheden en best practices voor het b
 
 >[!VIDEO](https://video.tv.adobe.com/v/21532/?quality=9)
 
-*Geleverd op 25 oktober 2017*
+*Geleverde 25 Oktober, 2017*
 
-**Gepresenteerd door**
+**Voorgesteld door:**
 
 Leandro Reis, globalization architect, Adobe Core Services\
-Mathias Siegel, Sr Product Manager, [!DNL AEM Sites], ADOBE
+Mathias Siegel, Sr Product Manager, [!DNL AEM Sites], Adobe
 
-**Presenter-dia&#39;s**
+**de dia&#39;s van de Presentator**
 
 [Bestand ophalen](assets/immerse-2017-translationpresentation-rev1.pdf)
 
@@ -33,6 +33,6 @@ Mathias Siegel, Sr Product Manager, [!DNL AEM Sites], ADOBE
 
 >[!WARNING]
 >
->AEM versies 6.4 en ouder zijn End of Life en worden niet meer door de Adobe verkocht.  Adobe raadt u aan een upgrade naar de nieuwste versie uit te voeren - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  Gearchiveerde versies van de documentatie zijn vanuit deze [page](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html).
+>AEM versies 6.4 en ouder zijn End of Life en worden niet meer door de Adobe verkocht.  De Adobe adviseert bevordering aan de recentste versie - [ Adobe Experience Manager as a Cloud Service ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  De gearchiveerde versies van de documentatie kunnen van deze [ pagina ](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html) worden betreden.
 >
->Zie voor meer informatie *AEM Sites-vertaaldocumenten*, *Documentatie over best practices voor vertaling* en *Meertalige middelen beheren* in de documentatie AEM 6.3.
+>Aangezien het op deze zitting betrekking heeft gelieve te zien {de Vertaaldocumenten van 0} AEM Sites *,* de Documentatie van de Beste praktijken van de Vertaling *en* het Leiden Meertalige Assets *in de AEM 6.3 documentatie.*

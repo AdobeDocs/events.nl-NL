@@ -25,4 +25,4 @@ Join Chris Knittle, manager van Opleiding en Aflevering bij Workfront, voor meer
 * De basisbeginselen van taakduur en voorgangers
 * Een inleiding aan taakbeperkingen
 
->[!VIDEO](https://video.tv.adobe.com/v/Cannot vindt verbinding MPC/?quality=12&amp;learn=on)
+>[!VIDEO] (https://video.tv.adobe.com/v/Cannot zoek MPC Link/?quality=12&amp;learn=on)

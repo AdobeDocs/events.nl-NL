@@ -1,6 +1,6 @@
 ---
-title: Architectuur van de Bouwer van de app en Technische Diepe Dive
-description: Meer informatie over App Builder terwijl we de toepassingsarchitectuur doorlopen van App Builder-toepassingen die Adobe Experience Manager uitbreiden.
+title: App Builder-architectuur en diep doordringend technisch
+description: Meer informatie over App Builder terwijl we door de toepassingsarchitectuur van App Builder-apps lopen die Adobe Experience Manager uitbreiden.
 solution: Experience Manager
 feature: Developer Tools
 topic: Development
@@ -18,16 +18,16 @@ ht-degree: 8%
 
 ---
 
-# Architectuur van de Bouwer van de app en Technische Diepe Dive
+# App Builder-architectuur en diep doordringend technisch
 
-Meer informatie over App Builder terwijl we de toepassingsarchitectuur doorlopen van App Builder-toepassingen die Adobe Experience Manager uitbreiden.
+Meer informatie over App Builder terwijl we door de toepassingsarchitectuur van App Builder-apps lopen die Adobe Experience Manager uitbreiden.
 
-Doorgaan met gesprek in **[Experience League Gemeenschappen](https://adobe.ly/3uragoI)**.
+Ga het gesprek in **[Gemeenschappen van het Experience League ](https://adobe.ly/3uragoI)** voort.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337709/?quality=12&learn=on&hidetitle=true)
 
 ## Aanvullende bronnen
 
-- [Adobe Experience Platform-documentatie](https://experienceleague.adobe.com/docs/experience-platform.html)
-- [Adobe Experience Platform - Overzicht](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html)
+- [ Documentatie van Adobe Experience Platform ](https://experienceleague.adobe.com/docs/experience-platform.html)
+- [ het Overzicht van Adobe Experience Platform ](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html)
 - [Tutorials voor Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=nl)

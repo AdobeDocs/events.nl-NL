@@ -1,5 +1,5 @@
 ---
-title: Programma's maken binnen de Adobe [!DNL Marketo Engage]
+title: Het creëren van Programma's binnen Adobe  [!DNL Marketo Engage]
 description: Deze zitting zal u allen over de Structuur van het Programma met inbegrip van - de Types van Programma, Kanalen & Statussen en Markeringen leren.
 solution: Marketo Engage
 role: User
@@ -19,6 +19,6 @@ ht-degree: 0%
 
 Deze zitting zal u allen over de Structuur van het Programma met inbegrip van - de Types van Programma, Kanalen &amp; Statussen en Markeringen leren. U zult ook over het Concept van het Programma van de Stichting leren en wat omhoog een Programma maakt.
 
-U laat deze sessie achter met inzicht in de manier waarop u uw [!DNL Marketo Engage] -instantie om op de meest efficiënte manier aan uw bedrijfsbehoeften te voldoen en hoe u programma&#39;s kunt maken om e-mails en webinars uit te voeren.
+U laat deze sessie over met inzicht in hoe u [!DNL Marketo Engage] -exemplaar zo kunt instellen dat het op de meest efficiënte manier aan uw bedrijfsbehoeften voldoet, en hoe u programma&#39;s kunt maken om e-mails en webinars uit te voeren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340308/?quality=12&learn=on)

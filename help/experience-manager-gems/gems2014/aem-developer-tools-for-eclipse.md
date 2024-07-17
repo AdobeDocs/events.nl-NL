@@ -18,21 +18,21 @@ De AEM Developer Tools for Eclipse is een set Eclipse-plug-ins die AEM ontwikkel
 
 >[!VIDEO](https://video.tv.adobe.com/v/19465/?quality=9)
 
-*Geleverd op 20 augustus 2014*
+*Geleverde Augustus 20, 2014*
 
-**Gepresenteerd door**
+**Voorgesteld door:**
 
 Stefan Egli, Developer, Adobe
 
-**Presenter-dia&#39;s**
+**de dia&#39;s van de Presentator**
 
 [Bestand ophalen](assets/aem-dev-tools-cq-gems.pdf)
 
 ## Verwante koppelingen {#related-links}
 
-* [AEM Developer Tools for Eclipse - documentatie](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developer-tools/eclipse.html)
-* [Verschuivende IDE-tol](https://sling.apache.org/documentation/development/ide-tooling.html)
-* [Forum voor discussies en vragen](https://help-forums.adobe.com/content/adobeforums/en/experience-manager-forum/adobe-experience-manager.html)
-* [Problemen melden en bijhouden](https://github.com/Adobe-Marketing-Cloud/aem-eclipse-developer-tools/issues)
-* [Hobbes.js: UI Testing Framework](https://docs.adobe.com/docs/en/aem/6-0/develop/components/hobbes.html)
-* [Terug naar het overzicht](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+* [ AEM de Hulpmiddelen van de Ontwikkelaar voor Eclipse - documentatie ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developer-tools/eclipse.html)
+* [ het Verdraaien van de Tooling van winde ](https://sling.apache.org/documentation/development/ide-tooling.html)
+* [ Forum voor besprekingen &amp; vragen ](https://help-forums.adobe.com/content/adobeforums/en/experience-manager-forum/adobe-experience-manager.html)
+* [ Uitgave die &amp; het volgen rapporteert ](https://github.com/Adobe-Marketing-Cloud/aem-eclipse-developer-tools/issues)
+* [ Hobbes.js: Het Testen van UI Kader ](https://docs.adobe.com/docs/en/aem/6-0/develop/components/hobbes.html)
+* [ krijg terug naar het Overzicht ](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

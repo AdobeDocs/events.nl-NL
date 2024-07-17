@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Dit webinar onderzoekt de doorsnede van MSM en vertaling voor meertalige websites. Wij behandelen de ingewikkeldheid die door vertaling, aanbevelingen voor plaatsstructuur, en een korte vergelijking van vertaalschakelaars en hulpmiddelen voor diverse gebruiksgevallen wordt geïntroduceerd.
 
-**Gepresenteerd door**
+**Voorgesteld door:**
 
 Christine Duran, Sr Translation Technology Group Manager, Adobe
 
-**Presenter-dia&#39;s**
+**de dia&#39;s van de Presentator**
 
 [Bestand ophalen](assets/20130731-adobe-msm-and-translation-best-practices.pdf)
 
@@ -29,6 +29,6 @@ De oorspronkelijke inhoud van deze GEM-zitting vanaf 2013 is vervangen. De infor
 
 Lees in plaats daarvan meer over Best Practices in de documentatie van Adobe Experience Manager:
 
-* [Aanbevolen werkwijzen voor beheer op meerdere locaties](https://docs.adobe.com/docs/en/aem/6-1/administer/sites/msm/msm-bp.html)
-* [Aanbevolen werkwijzen voor vertaling](https://docs.adobe.com/docs/en/aem/6-1/administer/sites/translation/tc-bp.html)
-* [Terug naar het overzicht](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+* [ Multisite Beste praktijken van het Beheer ](https://docs.adobe.com/docs/en/aem/6-1/administer/sites/msm/msm-bp.html)
+* ](https://docs.adobe.com/docs/en/aem/6-1/administer/sites/translation/tc-bp.html) Beste praktijken van de Vertaling 0}[
+* [ krijg terug naar het Overzicht ](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

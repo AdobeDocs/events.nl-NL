@@ -25,8 +25,8 @@ ht-degree: 0%
 
 Adobe Experience Manager Screens as a Cloud Service opnieuw in beeld brengen: een reis van strak gekoppeld zijn aan een CMS tot een volledig beheerde en schaalbare cloudservice.
 
-Doorgaan met gesprek in **[Experience League Gemeenschappen](https://adobe.ly/36Yd3v6)**.
+Ga het gesprek in **[Gemeenschappen van het Experience League ](https://adobe.ly/36Yd3v6)** voort.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331767/?quality=12&learn=on&hidetitle=true)
 
-Klikken **[hier](/help/adobe-developers-live/assets/screens-as-a-cloud-service.pdf)** voor de sessiedia&#39;s
+Klik **[hier](/help/adobe-developers-live/assets/screens-as-a-cloud-service.pdf)** voor de zittingsdia&#39;s.

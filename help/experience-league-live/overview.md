@@ -27,7 +27,7 @@ Experience League LIVE is een live streaming show die wordt gemaakt door het tea
 <tr>
 
 <td style="vertical-align: top;">
-      <b>Kom binnenkort terug om te leren over nieuwe, komende shows! In de tussentijd kunt u onze vorige afleveringen weergeven door op koppelingen onder of in de linkernavigatie te klikken.</b>
+      <b> kom snel terug om van nieuwe, aanstaande shows te leren! Ondertussen, bekijk onze vorige episoden door verbindingen onder of in de linkernavigatie te klikken.</b>
   </td>
 </tr>
 </table>
@@ -56,10 +56,10 @@ Experience League LIVE is een live streaming show die wordt gemaakt door het tea
     </a>
     <div>
       <a href="/help/experience-league-live/episodes/exl-live-episode-04-21-22.md">
-        <strong>AEM van hoofdletters naar headless</strong>
+        <strong> AEM van Hoofdvol aan Koploze </strong>
       </a>
-      <br/><em>met Danny Gordon, Amol Anand, Sachin Mali en Sean Steimer</em>
-      <br/><em>21 april 2022</em>
+      <br/><em> met Danny Gordon, Amol Anand, Sachin Mali, en Sean Steimer </em>
+      <br/><em> 21 April, 2022 </em>
     </div>
   </td>
 
@@ -68,9 +68,9 @@ Experience League LIVE is een live streaming show die wordt gemaakt door het tea
       <img alt="Experience League LIVE ep8" src="./assets/youtube-thumbnails/jan-25-yt.jpg">
     </a>
     <div>
-      <a href="episodes/exl-live-episode-08.md"><strong>Customer Journey Analytics - De binnenkant van de schelp</strong></a>
-      <br/><em>met Trevor Paulsen, Rohit Gossain, Alex Strawn</em>
-      <br/><em>25 januari 2021</em>
+      <a href="episodes/exl-live-episode-08.md"><strong> Customer Journey Analytics - BinnenScoop </strong></a>
+      <br/><em> met Trevor Paulsen, Rohit Gossain, Alex Strawn </em>
+      <br/><em> Januari 25, 2021 </em>
     </div>
   </td>
 
@@ -80,10 +80,10 @@ Experience League LIVE is een live streaming show die wordt gemaakt door het tea
     </a>
     <div>
       <a href="episodes/exl-live-episode-05-26-22.md">
-        <strong>Vraag het de experts: De basisbeginselen van Web SDK</strong>
+        <strong> Vraag de deskundigen: De grondbeginselen van Web SDK </strong>
       </a>
-      <br/><em>met Rudi Shumpert, Jeff Chasin en Eric Matisoff</em>
-      <br/><em>26 mei 2022</em>
+      <br/><em> met Rudi Shumpert, Jeff Chasin, en Eric Matisoff </em>
+      <br/><em> Mei 26, 2022 </em>
     </div>
   </td>
   </tr>
@@ -93,4 +93,4 @@ Experience League LIVE is een live streaming show die wordt gemaakt door het tea
 
 >[!TIP]
 >
->Ontdek gratis onze gratis leermethoden [cursussen](https://experienceleague.adobe.com/#dashboard/learning) en individuele [zelfstudies](https://experienceleague.adobe.com/docs/home-tutorials.html).
+>Voor extra methodes om te leren, controleer onze vrije [ cursussen ](https://experienceleague.adobe.com/#dashboard/learning) evenals individuele [ leerprogramma&#39;s ](https://experienceleague.adobe.com/docs/home-tutorials.html).

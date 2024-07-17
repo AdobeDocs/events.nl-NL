@@ -20,9 +20,9 @@ Leer de Beste praktijken rond de rijke configuraties en het gebruik van RTE in A
 
 >[!VIDEO](https://video.tv.adobe.com/v/27087/?quality=9)
 
-*Geleverd 17-04-19*
+*Geleverd 04/17/19*
 
-**Gepresenteerd door**
+**Voorgesteld door:**
 
 Hanish Bansal, Computer Scientist, Adobe
 

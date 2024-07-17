@@ -1,6 +1,6 @@
 ---
 title: Aug 2023 Grow Track - Experience Makers Spotlight
-description: Niveaus verhogen - De gebruiker van de werkruimte trainen
+description: Niveaus verhogen - De Workspace-gebruiker trainen
 feature-set: Analytics
 feature: Workspace Basics
 role: User
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # De Gebeurtenis van de Uitwisseling van de vaardigheid aug 2023 - Grow Spoor - de Spotlight van de Makers van de Ervaring
 
-Niveaus verhogen - De gebruiker van de werkruimte trainen
+Niveaus verhogen - De Workspace-gebruiker trainen
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425993/?learn=on)

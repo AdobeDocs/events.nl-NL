@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # AEM GEM-functie - Hoofdletters/kleine letters voor klant en implementatie van AEM headless in gebruik
 
-*Dit webinar is uitgevoerd op **Woensdag 12 oktober - 15:00 UTC**. De opname is hieronder beschikbaar.*
+*Dit webinar is geleid op **Woensdag, 12 oktober - 3pm UTC**. De opname is beschikbaar hieronder.*
 
 Deze uitzonderlijke AEM GEMs zitting kenmerkt twee sprekers die AEM als klanten werken. De zitting zal in twee helften als volgt worden verdeeld:
 
@@ -27,7 +27,7 @@ Deze uitzonderlijke AEM GEMs zitting kenmerkt twee sprekers die AEM als klanten 
 
 Presenter: Vengadesh Shanmugavelu - Technisch architect, Qatar Airways
 
-**Beschrijving sessie:**
+**beschrijving van de Zitting:**
 Er zijn vele manieren waarop we koploze CMS via AEM kunnen implementeren.
 In deze zitting zullen wij het volgende behandelen:
 
@@ -41,18 +41,18 @@ In deze zitting zullen wij het volgende behandelen:
 
 Presenter: Debal Das - Senior System Analyst, IBM
 
-**Beschrijving sessie:**
+**beschrijving van de Zitting:**
 In deze sessie zullen we het gebruik van GraphQL-inhoudsfragmenten behandelen (naast de reeds bestaande JSON-API&#39;s).
 
 Conceptueel, is GraphQL gelijkaardig aan een SQL gegevensbestandvraag, met uitzondering dat API voor de vraag eerder dan een gegevensbestand wordt gebruikt.
 
 Dit elimineert het vereiste voor API om vele eindpunten te verstrekken die diverse volumes of groepen gegevens voor diverse klanten leveren en toelaat diverse cliënten om API voor hun eigen behoeften te vragen.
 
-**Sessieopname**
+**Opname van de Zitting**
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410160)
 
 >[!NOTE]
 >
->* Voor sessiespecifieke community-interacties over Experience League gaat u naar [Contextuele thread](https://adobe.ly/3r6P4nr)
->* Meld u aan bij [Gebruikersgroep AEM Adobe](https://aem-augs.adobe.com/).
+>* Voor zitting specifieke communautaire interactie over Experience League, gelieve dit [ Contextuele Draad ](https://adobe.ly/3r6P4nr) te bezoeken
+>* Om automatische berichten betreffende webinars te ontvangen, gelieve te registreren bij [ AEM de Groep van de Gebruiker van de Adobe ](https://aem-augs.adobe.com/).

@@ -1,5 +1,5 @@
 ---
-title: Vraag het de expert - Follow-up van best practices voor Workfront-proefdrukken
+title: Vraag het de Expert - Follow-up aan de Beste praktijken van Workfront Proof
 description: Leer waarom u automatische werkstroomsjablonen moet gebruiken, hoe u deze maakt en hoe u de proefdrukinstellingen aanpast om de privacy te garanderen. Dit webinar werd geregistreerd op 4 maart 2020.
 doc-type: feature video
 team: Technical Marketing
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 ---
 
-# Vraag het de expert - Follow-up van best practices voor Workfront-proefdrukken
+# Vraag het de Expert - Follow-up aan de Beste praktijken van Workfront Proof
 
 Leer waarom u automatische werkstroomsjablonen moet gebruiken, hoe u deze maakt en hoe u de proefdrukinstellingen aanpast om de privacy te garanderen. Dit webinar werd geregistreerd op 4 maart 2020.
 
@@ -43,7 +43,7 @@ In ons gebruiksgeval uploadt de ontwerper het document, maar de accountmanager g
 
 **Antwoord**
 
-Als u de Designer instelt op basis van een Access Level of Work of Plan in Workfront, krijgt u een proeflicentie. Als hun het proefdrukken vergunning aan Supervisor of Beheerder wordt geplaatst, dan zullen zij nieuwe versies van proeven kunnen tot stand brengen zonder het moeten de handstap nemen van het hebben van de Manager van de Rekening die de nieuwe versie omzet en een werkschema toepast. De nieuwe versie neemt alleen de workflow van de vorige versie over (en kan op dit moment ook worden gewijzigd of gewijzigd).
+Als u de Designer instelt met een Access Level of Work of Plan in Workfront, krijgt u een proeflicentie. Als hun het proefdrukken vergunning aan Supervisor of Beheerder wordt geplaatst, dan zullen zij nieuwe versies van proeven kunnen tot stand brengen zonder het moeten de handstap nemen van het hebben van de Manager van de Rekening die de nieuwe versie omzet en een werkschema toepast. De nieuwe versie neemt alleen de workflow van de vorige versie over (en kan op dit moment ook worden gewijzigd of gewijzigd).
 
 **Vraag**
 

@@ -21,7 +21,7 @@ ht-degree: 0%
 
 # Voorbereiding piek seizoen
 
-Tijdens deze zitting van de Handel &amp; Koffie, neemt Corey Gelato een diepe duik in piekseizoen beste praktijken en strategieën voor 2023, of u tijdens het traditionele vakantieseizoen of een industrie-specifieke bezige periode voorkomt. De EG-handel blijft het doorsluizen naar alle winkeliers, of het nu om B2C of B2B gaat. Met technieken die tijdens deze sessie worden gedeeld, kan uw team uw producten en/of services op uw site(s) succesvol en effectief promoten en concurrerend blijven tijdens een piekseizoen op elk gewenst moment van het jaar.
+Tijdens deze sessie van Commerce &amp; Coffee neemt Corey Gelato een diepe duik in de beste praktijken en strategieën voor het piekseizoen voor 2023, of die van u tijdens het traditionele vakantieseizoen of een branchespecifieke drukke periode plaatsvindt. De EG-handel blijft het doorsluizen naar alle winkeliers, of het nu om B2C of B2B gaat. Met technieken die tijdens deze sessie worden gedeeld, kan uw team uw producten en/of services op uw site(s) succesvol en effectief promoten en concurrerend blijven tijdens een piekseizoen op elk gewenst moment van het jaar.
 
 Nadat Corey een demonstratie heeft gegeven van functies zoals het opdelen en voorvertonen van inhoud, promoties, de regels voor catalogusprijzen en winkelprijzen en nog veel meer, beantwoordt het vragen tijdens een live sessie met vragen en antwoorden.
 

@@ -1,5 +1,5 @@
 ---
-title: Programma's maken binnen [!DNL Marketo Engage]
+title: Programma's maken binnen  [!DNL Marketo Engage]
 description: Deze zitting zal u allen over de Structuur van het Programma met inbegrip van de Types van Programma, Kanalen & Statussen en Markeringen leren.
 solution: Marketo Engage
 role: User
@@ -17,9 +17,9 @@ ht-degree: 0%
 
 # Programma&#39;s maken binnen [!DNL Marketo Engage]
 
-Deze sessie leert u allemaal over *Programmastructuur* inclusief: Programmatypen, Kanalen en statussen en tags. U leert ook over de *Foundation-programmaconcept* en wat is een programma?
+Deze zitting zal u allen over *Structuur van het Programma* omvatten: De Types van Programma, Kanalen &amp; Statussen en Markeringen. U zult ook over het *Concept van het Programma van de Stichting* leren en wat omhoog een Programma maakt.
 
-U laat deze sessie achter met inzicht in de manier waarop u uw [!DNL Marketo Engage] -instantie om op de meest efficiënte manier aan uw bedrijfsbehoeften te voldoen en hoe u programma&#39;s kunt maken om e-mails en webinars uit te voeren.
+U laat deze sessie over met inzicht in hoe u [!DNL Marketo Engage] -exemplaar zo kunt instellen dat het op de meest efficiënte manier aan uw bedrijfsbehoeften voldoet, en hoe u programma&#39;s kunt maken om e-mails en webinars uit te voeren.
 
 Een live vraag aan het einde van deze sessie beantwoordt al uw onopgeloste vragen.
 

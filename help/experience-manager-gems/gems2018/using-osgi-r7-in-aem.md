@@ -28,9 +28,9 @@ In deze zitting, zullen wij de interessantste toevoegingen in OSGi R7 benadrukke
 
 >[!VIDEO](https://video.tv.adobe.com/v/25037/?quality=9)
 
-*Geleverd 17-10-18*
+*Geleverde 10/17/18*
 
-**Gepresenteerd door**
+**Voorgesteld door:**
 
 * Karl Pauls, Computer Scientist, Adobe
 * Carsten Ziegeler, hoofdwetenschapper, Adobe
@@ -42,11 +42,11 @@ Datum: 17-10-2018
 
 ## Verwante koppelingen {#related-links}
 
-[OSGi Alliance Blog](https://blog.osgi.org/2018/09/osgi-r7-highlights-blog-series.html)
+[ Blog OSGi Alliance ](https://blog.osgi.org/2018/09/osgi-r7-highlights-blog-series.html)
 
-[OSGi-specificatielicentie, versie 2.0](https://osgi.org/specification/osgi.core/7.0.0/index.html)
+[ Vergunning OSGi van de Specificatie, Versie 2.0 ](https://osgi.org/specification/osgi.core/7.0.0/index.html)
 
-[OSGi Compendium Release 7](https://osgi.org/specification/osgi.cmpn/7.0.0/index.html)
+[ CompendiumRelease 7 van OSGi ](https://osgi.org/specification/osgi.cmpn/7.0.0/index.html)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

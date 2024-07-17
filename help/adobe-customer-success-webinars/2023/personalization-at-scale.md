@@ -1,5 +1,5 @@
 ---
-title: De Stichting voor Personalisatie op schaal bouwen
+title: Bouwen aan de Stichting voor Personalization op schaal
 description: Dit webinar richt zich op het begrijpen van het grondwerk nodig om verpersoonlijking op schaal te ordenen
 solution: Experience Cloud
 topic: Personalization
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ---
 
-# De Stichting voor Personalisatie op schaal bouwen
+# Bouwen aan de Stichting voor Personalization op schaal
 
 Dit webinar richt zich op het begrijpen van het grondwerk nodig om verpersoonlijking op schaal te ordenen
 

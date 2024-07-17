@@ -20,7 +20,7 @@ ht-degree: 3%
 # Dieptediven {#deep-dives-recordings}
 
 + [Overzicht](overview.md)
-+ Diep in Marketo {#deep-dives-marketo}
++ Diepte dia&#39;s in Marketo {#deep-dives-marketo}
    + [Migratie van Admin Console](admin-console.md)
    + [API&#39;s](api.md)
    + [Certificering](certification.md)

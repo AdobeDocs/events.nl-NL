@@ -18,13 +18,13 @@ Adobe Experience Manager biedt functies waarmee u eenvoudig digitale inhoud kunt
 
 >[!VIDEO](https://video.tv.adobe.com/v/19579/?quality=9)
 
-*Geleverd op 12 juni 2013*
+*Geleverd 12 Juni, 2013*
 
-**Gepresenteerd door**
+**Voorgesteld door:**
 
 Gilles Knobloch, Lead Developer, Adobe
 
-**Presenter-dia&#39;s**
+**de dia&#39;s van de Presentator**
 
 [Bestand ophalen](assets/2013-06-12-launches-cqgems.pdf)
 

@@ -18,13 +18,13 @@ Dit AEM Gem zal in detail beschrijven hoe te om AEM op MongoDB in een productie 
 
 >[!VIDEO](https://video.tv.adobe.com/v/19304/?quality=9)
 
-*Geleverd op 23 maart 2016*
+*Geleverde Maart 23, 2016*
 
-**Gepresenteerd door**
+**Voorgesteld door:**
 
 * Ian Boston, Senior Software Engineer, Adobe
 
-**Presenter-dia&#39;s**
+**de dia&#39;s van de Presentator**
 
 [Bestand ophalen](assets/aem-gems-032316-onmongodb.pdf)
 
@@ -32,9 +32,9 @@ Dit AEM Gem zal in detail beschrijven hoe te om AEM op MongoDB in een productie 
 
 >[!WARNING]
 >
->AEM versies 6.4 en ouder zijn End of Life en worden niet meer door de Adobe verkocht.  Adobe raadt u aan een upgrade naar de nieuwste versie uit te voeren - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  Gearchiveerde versies van de documentatie zijn vanuit deze [page](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html).
+>AEM versies 6.4 en ouder zijn End of Life en worden niet meer door de Adobe verkocht.  De Adobe adviseert bevordering aan de recentste versie - [ Adobe Experience Manager as a Cloud Service ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  De gearchiveerde versies van de documentatie kunnen van deze [ pagina ](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html) worden betreden.
 >
->Zie voor meer informatie *Oak-query&#39;s en indexering: AEM met MongoDB* in de AEM 6.1 documentatie.
+>Zoals het op deze zitting betrekking heeft gelieve te zien *Vragen van Oak en het Indexeren: AEM met MongoDB* in AEM 6.1 documentatie.
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

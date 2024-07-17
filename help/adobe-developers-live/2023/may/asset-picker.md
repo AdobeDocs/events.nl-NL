@@ -1,6 +1,6 @@
 ---
-title: Hoe sluit u onze nieuwste middelenkiezer in in andere UI/producten en integreert u met toepassingen van derden met behulp van API
-description: Hoe te om onze recentste plukker van Activa in andere UI/producten in te bedden en met derdetoepassingen te integreren gebruikend APILearn hoe te van alle opties te profiteren u hebt wanneer het op het integreren van activa in andere toepassingen komt. Vindt u het bijzonder moeilijk om AEM Assets-Cloud Servicen te integreren met deze CMS's? Wilt u weten hoe u stabiele, testbare en onderhoudsbare AEM Assets-integraties in minuten schrijft in plaats van uren/dagen? We zullen de kracht en veelzijdigheid van micro-frontends aantonen door onze ervaringen met het omzetten van twee React-projecten - de Kiezer van de Bestemming en de Kiezer van Activa - in modulaire, onafhankelijke, en gemakkelijk uitvoerbare frontendcomponenten.
+title: Hoe sluit u onze nieuwste Assets-kiezer in in andere UI/producten en integreert u met toepassingen van derden met behulp van API
+description: Hoe kunt u onze nieuwste Assets-kiezer insluiten in andere UI/producten en integreren met toepassingen van derden met APILearn hoe u kunt profiteren van alle opties die u hebt voor het integreren van middelen in andere toepassingen. Vindt u het bijzonder moeilijk om AEM Assets-Cloud Servicen te integreren met deze CMS's? Wilt u weten hoe u stabiele, testbare en onderhoudsbare AEM Assets-integraties in minuten schrijft in plaats van uren/dagen? We zullen de kracht en veelzijdigheid van micro-frontends aantonen door onze ervaringen met het omzetten van twee React-projecten - de Kiezer van de Bestemming en de Kiezer van Activa - in modulaire, onafhankelijke, en gemakkelijk uitvoerbare frontendcomponenten.
 product: experience manager
 sub-product: assets
 topic: Development
@@ -19,9 +19,9 @@ ht-degree: 0%
 
 ---
 
-# Hoe sluit u onze nieuwste middelenkiezer in in andere UI/producten en integreert u met toepassingen van derden met behulp van API
+# Hoe sluit u onze nieuwste Assets-kiezer in in andere UI/producten en integreert u met toepassingen van derden met behulp van API
 
-Hoe sluit u onze nieuwste middelenkiezer in in andere UI/producten en integreert u met toepassingen van derden met behulp van API
+Hoe sluit u onze nieuwste Assets-kiezer in in andere UI/producten en integreert u met toepassingen van derden met behulp van API
 
 Leer hoe u kunt profiteren van alle opties die u hebt als het gaat om het integreren van middelen in andere toepassingen. Vindt u het bijzonder moeilijk om AEM Assets-Cloud Servicen te integreren met deze CMS&#39;s? Wilt u weten hoe u stabiele, testbare en onderhoudsbare AEM Assets-integraties in minuten schrijft in plaats van uren/dagen? We zullen de kracht en veelzijdigheid van micro-frontends aantonen door onze ervaringen met het omzetten van twee React-projecten - de Kiezer van de Bestemming en de Kiezer van Activa - in modulaire, onafhankelijke, en gemakkelijk uitvoerbare frontendcomponenten. → Ga verder met het gesprek op: https://adobe.ly/3LqELUM
 

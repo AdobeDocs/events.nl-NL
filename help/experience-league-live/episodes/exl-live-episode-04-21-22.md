@@ -23,7 +23,7 @@ Neem deel aan Host Danny Gordon en gasten Amol Anand, Sachin Mali en Sean Steime
 
 >[!VIDEO](https://video.tv.adobe.com/v/342475/?quality=12&learn=on)
 
-**Opgenomen op 21 april, 9.00 uur PST**
+**Opgenomen 21ste April, 9am PST**
 
 ## Presentatiesdia&#39;s
 

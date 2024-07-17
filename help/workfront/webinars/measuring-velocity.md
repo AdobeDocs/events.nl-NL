@@ -1,6 +1,6 @@
 ---
 title: Vraag het de Expert - Meting van snelheid
-description: Leer om snelheid te meten en te volgen gebruikend [!DNL Workfront] rapportage. Deze workshop werd op 14 augustus 2019 vastgelegd.
+description: Leer om snelheid te meten en te volgen gebruikend  [!DNL Workfront]  rapporterend. Deze workshop werd op 14 augustus 2019 vastgelegd.
 doc-type: feature video
 team: Technical Marketing
 jira: KT-9912
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Vraag het de Expert - Meting van snelheid
 
-Leer om snelheid te meten en te volgen gebruikend [!DNL Workfront] rapportage. Deze workshop werd op 14 augustus 2019 vastgelegd.
+Leer de snelheid te meten en bij te houden met behulp van [!DNL Workfront] reporting. Deze workshop werd op 14 augustus 2019 vastgelegd.
 
 >[!VIDEO](https://video.tv.adobe.com/v/341057/?quality=12)
 
@@ -27,9 +27,9 @@ Bespaar tijd door de berekeningen hieronder te kopiëren en te plakken.
 >[!NOTE]
 >
 >De syntaxis voor aangepaste veldberekeningen is gewijzigd sinds de presentatie in 2019 is gegeven, maar de concepten en andere instructies in de presentatie zijn nog steeds correct.
->**De onderstaande berekeningen zijn bijgewerkt met de meest recente syntaxisregels.**
+>**De berekeningen hieronder zijn bijgewerkt om op de recentste syntaxisregels te wijzen.**
 
-**Eerste datum vastleggen**
+**eerste Vastlegt Datum**
 
 Indeling: Datum
 
@@ -39,7 +39,7 @@ Berekening:
 IF(ISBLANK({DE:First Commit Date}),{defaultBaseline}.{plannedCompletionDate},{DE:First Commit Date})
 ```
 
-**Eerste duur**
+**Eerste Duur**
 
 Indeling: Tekst
 
@@ -49,7 +49,7 @@ Berekening:
 IF(ISBLANK({DE:First Duration}),{defaultBaseline}.{durationMinutes},{DE:First Duration})
 ```
 
-**Werkelijke verhouding**
+**werk-om verhouding** vast te leggen
 
 Format : Number
 
@@ -59,7 +59,7 @@ Berekening:
 ROUND(DIV({actualDurationMinutes},{DE:First Duration}),1)
 ```
 
-**Status verhouding vastleggen**
+**werk-aan-verbind de Status van de Verhouding**
 
 opmaak:tekst
 
@@ -69,7 +69,7 @@ Berekening:
 IF({DE:Work-to-Commit Ratio}>2,"Terrible",IF({DE:Work-to-Commit Ratio}>1.6,"Poor",IF({DE:Work-to-Commit Ratio}>1.2,"Not Bad","Excellent")))
 ```
 
-**Aangepaste snelheid**
+**Aangepaste Snelheid**
 
 Format : Number
 
@@ -79,7 +79,7 @@ Berekening:
 ROUND(DIV({actualDurationMinutes},{durationMinutes}),1)
 ```
 
-**Status aangepaste snelheid**
+**Aangepaste Status van de Snelheid**
 
 opmaak:tekst
 
@@ -413,7 +413,7 @@ Ja. U moet een documentrapport maken. Het lijkt alsof u een specifieke documentn
 
 **Vraag**
 
-Waarom zijn in rapporten waarden beschikbaar als kolom maar niet als selectie of groepering? Bijvoorbeeld: bron van uitgave.
+Waarom zijn in rapporten waarden beschikbaar als kolom maar niet als selectie of groepering? Bijvoorbeeld: Issue Source.
 
 **Antwoord**
 

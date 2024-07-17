@@ -21,37 +21,37 @@ Skill Builder is een webinar reeks die wordt ontworpen om uw kennisbasis te bouw
   <td>
     <img alt="Content en commerce" src="assets/commerce.png" />
     <div>
-      <strong>Inhoud en handel</strong>
+      <strong> Inhoud en Commerce </strong>
     </div>
     <p>
-    <em>Maak en beheer een reeks boeiende websites, mobiele apps en formulieren. Leer ook om multi-channel commerciële ervaringen op één enkel platform met onze flexibele, AI-aangedreven handelsoplossing te bouwen.</em>
+    <em> creeer en beheer een waaier van het in dienst nemen websites, mobiele apps, en vormen. Plus leren om multi-kanaalhandel ervaringen op één enkel platform met onze flexibele, AI-Vervaardigde handeloplossing te bouwen.</em>
     <p>
     <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/content-and-commerce/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
-      <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Door sessies bladeren</span>
+      <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> doorblader Zittingen </span>
     </a>
   </td>
   <td>
     <img alt="Reizen van klanten" src="assets/customer-journey.png" />
     <div>
-      <strong>Reizen van klanten</strong>
+      <strong> reizen van de Klant </strong>
     </div>
     <p>
-    <em>Ontwikkel klantprofielen in real time door gegevens uit alle bronnen te trekken om gepersonaliseerde, dwars-kanaalreizen tot stand te brengen.</em>
+    <em> ontwikkelt klantenprofielen in real time door gegevens uit alle bronnen te trekken om gepersonaliseerde, dwars-kanaalreizen tot stand te brengen.</em>
     <p>
     <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/customer-journeys/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
-      <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Door sessies bladeren</span>
+      <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> doorblader Zittingen </span>
     </a>
   </td>
   <td>
     <img alt="Gegevens en inzichten" src="assets/data-insights.png" />
     <div>
-      <strong>Gegevens en inzichten</strong>
+      <strong> Gegevens en inzichten </strong>
     </div>
     <p>
-    <em>Verpersoonlijking in real time op om het even welk kanaal gebruikend online en off-line gegevensinzichten over uw volledige organisatie.</em>
+    <em> Verpersoonlijking in real time van de aandrijving op om het even welk kanaal die online en off-line gegevensinzichten over uw volledige organisatie gebruiken.</em>
     <p>
     <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/data-and-insights/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
-      <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Door sessies bladeren</span>
+      <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> doorblader Zittingen </span>
     </a>
   </td>  
 </tr>
@@ -59,4 +59,4 @@ Skill Builder is een webinar reeks die wordt ontworpen om uw kennisbasis te bouw
 
 >[!TIP]
 >
->**Alle opgenomen sessies worden weergegeven in de navigatie aan de linkerkant**.
+>**Alle geregistreerde zittingen zijn vermeld in de navigatie op de linkerzijde**.

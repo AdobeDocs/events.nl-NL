@@ -18,19 +18,20 @@ ht-degree: 0%
 
 ---
 
-# Onder de kap zoeken - Cloud Manager 2022
+# Onder de motorkap kijken - Cloud Manager 2022
 
-*Dit webinar is uitgevoerd op 15 juni - 15 uur UTC. Bekijk de onderstaande opname.*
+*Dit webinar is uitgevoerd op 15 Juni - 3 pm UTC. Bekijk de onderstaande opname.*
 
-Beschrijving van de sessie: Ontdek de nieuwe functies die het afgelopen jaar zijn gepubliceerd, bekijk een update van de ontwikkelingen achter de schermen en kijk uit naar de rest van 2022. Informatie over hoe Cloud Manager werkt onder de kap en hoe een klant er optimaal gebruik van kan maken.
+Beschrijving sessie:
+Ontdek de nieuwe kenmerken die het afgelopen jaar zijn gepubliceerd, een update van de ontwikkelingen achter de schermen en kijk uit naar de rest van 2022. Details over hoe Cloud Manager onder de kap werkt en hoe een klant er optimaal gebruik van kan maken.
 
 De inhoud is van toepassing op zowel Adobe Experience Manager as a Cloud Service als Experience Manager Managed Services, met nadruk op Cloud Service. Het is geschikt voor zowel technische als niet-technische deelnemers. Voorafgaande blootstelling aan Cloud Manager kan helpen bij de context, maar is niet nodig.
 
-**Webinar-opname**
+**Webinar Opname**
 
 >[!VIDEO](https://video.tv.adobe.com/v/343876)
 
 >[!NOTE]
 >
->* Voor sessiespecifieke community-interacties over Experience League gaat u naar [Contextuele thread](https://adobe.ly/3O0rdzd)
->* Meld u aan bij [Gebruikersgroep AEM Adobe](https://aem-augs.adobe.com/).
+>* Voor zitting specifieke communautaire interactie over Experience League, gelieve dit [ Contextuele Draad ](https://adobe.ly/3O0rdzd) te bezoeken
+>* Om automatische berichten betreffende webinars te ontvangen, gelieve te registreren bij [ AEM de Groep van de Gebruiker van de Adobe ](https://aem-augs.adobe.com/).

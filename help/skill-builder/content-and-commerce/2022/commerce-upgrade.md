@@ -1,6 +1,6 @@
 ---
 title: Alles wat u hoeft te weten over de Adobe Commerce 2.4.4-upgrade
-description: Als 2.4.4. Het Pak van de Dienst van de handel werd beschikbaar, leert de voordelen en alles u moet weten om de verbetering te plannen en te leveren.
+description: Als 2.4.4. Commerce Service Pack werd beschikbaar, leer de voordelen en alles wat u moet weten om de upgrade te plannen en te leveren.
 solution: Commerce
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -17,8 +17,8 @@ ht-degree: 0%
 
 # Alles wat u hoeft te weten over de Adobe Commerce 2.4.4-upgrade
 
-Als 2.4.4. Het Pak van de Dienst van de handel werd beschikbaar, leert de voordelen en alles u moet weten om de verbetering te plannen en te leveren.
+Als 2.4.4. Commerce Service Pack werd beschikbaar, leer de voordelen en alles wat u moet weten om de upgrade te plannen en te leveren.
 
-*Bethan Williams-James* Consultant/Adobe voor handelsoplossingen
+*Bethan Williams-James* Consultant/Adobe van de Oplossingen van Commerce
 
 >[!VIDEO](https://video.tv.adobe.com/v/343813/?quality=12&learn=on)

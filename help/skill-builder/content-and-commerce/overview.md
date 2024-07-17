@@ -1,6 +1,6 @@
 ---
-title: Skill Builder - Inhoud en Handel
-description: Opgenomen webinarreeks om uw kennisbasis te bouwen en uw investering in de Oplossingen van de Inhoud en van de Handel van de Adobe te maximaliseren
+title: Skill Builder - Inhoud en Commerce
+description: Opgenomen webinarreeks om uw kennisbasis te bouwen en uw investering in de Oplossingen van de Adobe van de Inhoud en van Commerce te maximaliseren
 exl-id: 1ed57ee1-89d4-4697-a999-72e0fe215f87
 duration: 58
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
@@ -24,11 +24,11 @@ Maak en beheer een reeks boeiende websites, mobiele apps en formulieren. Leer oo
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/headless.html">
-        <strong>Ervaring zonder grenzen bieden met Adobe Experience Manager</strong>
+        <strong> lever Zwaardeloze Ervaringen met Adobe Experience Manager </strong>
       </a>
     </div>
     <p>
-    <em>Meer informatie over beheer van headless Experience met de nieuwste verbeteringen voor Experience Manager Content Fragment en de nieuwe GraphQL API voor het leveren van inhoud zonder kop.</em>
+    <em> Leer over hoofdloos ervaringsbeheer gebruikend de recentste verhogingen van het Fragment van de Inhoud van de Experience Manager en nieuwe GraphQL API voor hoofdloze inhoudslevering.</em>
     <p>
   </td>
   <td>
@@ -37,11 +37,11 @@ Maak en beheer een reeks boeiende websites, mobiele apps en formulieren. Leer oo
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/metadata.html">
-        <strong>Metagegevens laten werken voor uw bedrijf in Adobe Experience Manager Assets</strong>
+        <strong> het werk van Metagegevens van het Merk voor uw zaken in Adobe Experience Manager Assets </strong>
       </a>
     </div>
     <p>
-    <em>Leer hoe u optimaal kunt profiteren van uw metagegevens in AEM Assets door de werklast te verminderen en elementen van tags te voorzien en uw middelen doorzoekbaar te maken.</em>
+    <em> Leer hoe te om de meesten uit uw meta-gegevens in AEM Assets te maken door de werkbelasting aan markeringsactiva te verminderen en door uw activa doorzoekbaar te maken.</em>
     <p>
   </td>  
   <td>
@@ -50,11 +50,11 @@ Maak en beheer een reeks boeiende websites, mobiele apps en formulieren. Leer oo
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/workflow.html">
-        <strong>Haal alles uit het workflowbeheer voor bedrijven</strong>
+        <strong> krijgt het meeste uit het Beheer van het Werkschema van de Onderneming </strong>
       </a>
     </div>
     <p>
-    <em>In deze sessie leert u de voordelen van het gebruik van workflows voor uw middelenbeheer en hoe u deze snel kunt maken.</em>
+    <em> In deze zitting zult u de voordelen leren om werkschema's voor uw activa beheer te gebruiken en hoe te om hen snel tot stand te brengen.</em>
     <p>
   </td>
 </tr>
@@ -62,4 +62,4 @@ Maak en beheer een reeks boeiende websites, mobiele apps en formulieren. Leer oo
 
 >[!TIP]
 >
->**Alle opgenomen sessies worden weergegeven in de navigatie aan de linkerkant**.
+>**Alle geregistreerde zittingen zijn vermeld in de navigatie op de linkerzijde**.

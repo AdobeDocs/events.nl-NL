@@ -1,8 +1,8 @@
 ---
 title: Gegevenssets beheren in Commerce Intelligence
-description: Bekijk dit webinar om over enkele van de krachtige eigenschappen van de Manager van de Data Warehouse van de Intelligentie van de Handel te leren.
-landing-page-description: Bekijk dit webinar om over enkele van de krachtige eigenschappen van de Manager van de Data Warehouse van de Intelligentie van de Handel te leren.
-short-description: Bekijk dit webinar om over enkele van de krachtige eigenschappen van de Manager van de Data Warehouse van de Intelligentie van de Handel te leren.
+description: Kijk naar dit webinar voor meer informatie over de krachtige functies van Commerce Intelligence Data Warehouse Manager.
+landing-page-description: Kijk naar dit webinar voor meer informatie over de krachtige functies van Commerce Intelligence Data Warehouse Manager.
+short-description: Kijk naar dit webinar voor meer informatie over de krachtige functies van Commerce Intelligence Data Warehouse Manager.
 kt: 10410
 solution: Commerce, Commerce Intelligence
 role: Leader, User, Data Architect
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Adobe Commerce Intelligence stond voorheen bekend als [!DNL Magento Business Intelligence (MBI)]. Opnamen voor gebeurtenissen uit het verleden geven de vorige naam weer.
+>Adobe Commerce Intelligence stond eerder bekend als [!DNL Magento Business Intelligence (MBI)] . Opnamen voor gebeurtenissen uit het verleden geven de vorige naam weer.
 
 Of u nu beschikt over de krachtige functies van MBI Data Warehouse Manager, rechtstreeks bij het Adobe Commerce Product-team. Ga verder dan het samenstellen van basisrapporten en leer hoe u meer kunt doen met uw gegevens.
 
@@ -33,5 +33,5 @@ Tijdens dit geregistreerde webinar, leert u hoe te om het rendement op investeri
 
 ## Nuttige bronnen
 
-[Een rondleiding van de Manager van de Data Warehouse](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/warehouse-manager/tour-dwm.html)
-[Uw gegevens verbinden](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/connecting/connecting-data.html)
+[ Rondleiding van de Manager van de Data Warehouse ](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/warehouse-manager/tour-dwm.html)
+[ verbind uw gegevens ](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/connecting/connecting-data.html)

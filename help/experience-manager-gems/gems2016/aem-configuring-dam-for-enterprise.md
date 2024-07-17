@@ -15,21 +15,21 @@ ht-degree: 0%
 
 # DAM voor bedrijven configureren{#configuring-the-dam-for-enterprise}
 
-Deze sessie is bedoeld om gebruikers te helpen succes te verbeteren door gebruik te maken van [!DNL AEM Assets]. Arnold Espos zal zich concentreren op de gebruiksgevallen van echte DAM Enterprise-klanten, hun uitdagingen en de oplossingen die zijn ontwikkeld om hen te ondersteunen om het succes dat zij met DAM zien te vergroten.
+Deze sessie is ontworpen om gebruikers te helpen succes te verbeteren door [!DNL AEM Assets] te gebruiken. Arnold Espos zal zich concentreren op de gebruiksgevallen van echte DAM Enterprise-klanten, hun uitdagingen en de oplossingen die zijn ontwikkeld om hen te ondersteunen om het succes dat zij met DAM zien te vergroten.
 
 Deelnemers zullen beter begrijpen hoe ze DAM in hun omgeving kunnen gebruiken. Door casestudy&#39;s van echte klanten te bekijken, kunnen deelnemers die met bestaande DAM-klanten samenwerken de nieuwe oplossingen begrijpen die via dit aanbod worden aangeboden, wat hun bestaande workflows en het begrip van de technologie kan helpen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19298/?quality=9)
 
-*Geleverd op 5 oktober 2016*
+*Geleverde 5 Oktober, 2016*
 
-**Gepresenteerd door**
+**Voorgesteld door:**
 
 * Arnold Espos, Sr. Product Manager, Adobe
-* Josh Ramirez, hoofd van het product, [!DNL AEM Assets], ADOBE
+* Josh Ramirez, Hoofd van Product, [!DNL AEM Assets], Adobe
 * Greg Klebus, Group Product Manager, Adobe
 
-**Presenter-dia&#39;s**
+**de dia&#39;s van de Presentator**
 
 [Bestand ophalen](assets/assets-webinar-oct5final.pdf)
 
@@ -37,8 +37,8 @@ Deelnemers zullen beter begrijpen hoe ze DAM in hun omgeving kunnen gebruiken. D
 
 >[!WARNING]
 >
->AEM versies 6.4 en ouder zijn End of Life en worden niet meer door de Adobe verkocht.  Adobe raadt u aan een upgrade naar de nieuwste versie uit te voeren - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  Gearchiveerde versies van de documentatie zijn vanuit deze [page](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html).
+>AEM versies 6.4 en ouder zijn End of Life en worden niet meer door de Adobe verkocht.  De Adobe adviseert bevordering aan de recentste versie - [ Adobe Experience Manager as a Cloud Service ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  De gearchiveerde versies van de documentatie kunnen van deze [ pagina ](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html) worden betreden.
 >
->Zie voor meer informatie *Opmerkingen bij de release Desktop App* in de AEM 6.2 documentatie.
+>Aangezien het op deze zitting betrekking heeft te zien gelieve {de Nota&#39;s van de Versie van de App van 0} Desktop *in AEM 6.2 documentatie.*
 
-* [Updates van AEM Assets-documentatie](https://docs.adobe.com/content/docs/en/aem/recent-documentation-updates.html)
+* [ de Documentatieupdates van AEM Assets ](https://docs.adobe.com/content/docs/en/aem/recent-documentation-updates.html)

@@ -1,6 +1,6 @@
 ---
 title: Uitbreidbaarheid Commerce integration framework via GraphQL
-description: Meer informatie over het uitbreiden van de belangrijkste componenten van de Handel met GraphQL. Deze sessie is afgeleverd als onderdeel van de Adobe Developers Live Content-gebeurtenis.
+description: Leer hoe u Commerce-kerncomponenten uitbreidt met GraphQL. Deze sessie is afgeleverd als onderdeel van de Adobe Developers Live Content-gebeurtenis.
 solution: Experience Manager,Experience Manager Sites
 product: experience manager
 sub-product: sites
@@ -23,10 +23,10 @@ ht-degree: 0%
 
 # Uitbreidbaarheid Commerce integration framework via GraphQL
 
-Meer informatie over het uitbreiden van de belangrijkste componenten van de Handel met GraphQL.
+Leer hoe u Commerce-kerncomponenten uitbreidt met GraphQL.
 
-Doorgaan met gesprek in **[Experience League Gemeenschappen](https://adobe.ly/36Yd3v6)**.
+Ga het gesprek in **[Gemeenschappen van het Experience League ](https://adobe.ly/36Yd3v6)** voort.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331850/?quality=12&learn=on&hidetitle=true)
 
-Klikken **[hier](/help/adobe-developers-live/assets/cif-extensibility-graphql.pdf)** voor de sessiedia&#39;s
+Klik **[hier](/help/adobe-developers-live/assets/cif-extensibility-graphql.pdf)** voor de zittingsdia&#39;s.

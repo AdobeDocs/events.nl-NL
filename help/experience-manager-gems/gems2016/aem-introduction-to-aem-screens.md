@@ -18,14 +18,14 @@ AEM Screens is de nieuwe digitale signaaloplossing die in Adobe Experience Manag
 
 >[!VIDEO](https://video.tv.adobe.com/v/19301/?quality=9)
 
-*Afgeleverd op 16 november 2016*
+*Geleverde 16 November, 2016*
 
-**Gepresenteerd door**
+**Voorgesteld door:**
 
 * Julien Ramboz, UI Developer, Adobe
 * Tobias Reiss, Computer Scientist, Software Development, Adobe
 
-**Presenter-dia&#39;s**
+**de dia&#39;s van de Presentator**
 
 [Bestand ophalen](assets/2016-11-16-aem-screens.pdf)
 
@@ -38,6 +38,6 @@ Voorbeeldproject
 
 >[!WARNING]
 >
->AEM versies 6.4 en ouder zijn End of Life en worden niet meer door de Adobe verkocht.  Adobe raadt u aan een upgrade naar de nieuwste versie uit te voeren - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  Gearchiveerde versies van de documentatie zijn vanuit deze [page](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html).
+>AEM versies 6.4 en ouder zijn End of Life en worden niet meer door de Adobe verkocht.  De Adobe adviseert bevordering aan de recentste versie - [ Adobe Experience Manager as a Cloud Service ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  De gearchiveerde versies van de documentatie kunnen van deze [ pagina ](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html) worden betreden.
 >
->Zie voor meer informatie *Schermen implementeren* en *Schermconcept* in de AEM 6.2 documentatie.
+>Aangezien het op deze zitting betrekking heeft gelieve te zien *Opstellend Screens* en *Concept van Screens* in AEM 6.2 documentatie.

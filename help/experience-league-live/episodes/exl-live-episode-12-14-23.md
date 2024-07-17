@@ -23,9 +23,9 @@ Leer hoe u met de nieuwe functies die in 2023 zijn uitgebracht, het publiek effe
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425754/?quality=12&learn=on)
 
->[!BEGINSHADEBOX &quot;Heb je vragen?&quot;]
+>[!BEGINSHADEBOX  &quot;Heb vragen?&quot;]
 
-De discussie over dit onderwerp over Adobe Experience League voortzetten [Communautaire post](https://experienceleaguecommunities.adobe.com/t5/real-time-customer-data-platform/experience-league-live-post-session-discussion-countdown-to-2024/m-p/639558#M14){target="_blank"}.
+Ga de bespreking over dit onderwerp over Adobe Experience League [ Communautaire post ](https://experienceleaguecommunities.adobe.com/t5/real-time-customer-data-platform/experience-league-live-post-session-discussion-countdown-to-2024/m-p/639558#M14) {target="_blank"} voort.
 
 >[!ENDSHADEBOX]
 

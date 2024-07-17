@@ -18,7 +18,7 @@ Welkom bij Customer Data Management Voices uw bestemming als technische en marke
 
 >[!TIP]
 >
->**Alle opgenomen sessies worden weergegeven in de navigatie aan de linkerkant**.
+>**Alle geregistreerde zittingen zijn vermeld in de navigatie op de linkerzijde**.
 
 ## Bouwstenen voor gegevensbeheer van klanten
 
@@ -29,7 +29,7 @@ Welkom bij Customer Data Management Voices uw bestemming als technische en marke
       <img alt="Stroomlijnen van uw eerste module voor gegevensbeheer" src="./assets/first-mile.png"/>
       </a>
       <div>
-         <a href="./cdm/first-mile.md"><strong>Stroomlijnen van uw eerste module voor gegevensbeheer</strong></a>
+         <a href="./cdm/first-mile.md"><strong> die uw eerste Mile van het Beheer van Gegevens stroomlijnen </strong></a>
          <br/>
       </div>
    </td>
@@ -38,7 +38,7 @@ Welkom bij Customer Data Management Voices uw bestemming als technische en marke
       <img alt="Een klantgegevensplatform selecteren voor succes" src="./assets/cdp-success.png"/>
       </a>
       <div>
-         <a href="./cdm/cdp-success.md"><strong>Een klantgegevensplatform selecteren voor succes</strong></a>
+         <a href="./cdm/cdp-success.md"><strong> Selecterend een Platform van Gegevens van de Klant voor Succes </strong></a>
          <br/>
       </div>
     </td>
@@ -47,7 +47,7 @@ Welkom bij Customer Data Management Voices uw bestemming als technische en marke
       <img alt="Personen en proces" src="./assets/people-and-process.png"/>
       </a>
       <div>
-         <a href="./cdm/people-and-process.md"><strong>Aanbevolen CDP-procedures - Personen en Proces</strong></a>
+         <a href="./cdm/people-and-process.md"><strong> CDP Beste praktijken - Mensen en Proces </strong></a>
          <br/>
       </div>
     </td>
@@ -58,7 +58,7 @@ Welkom bij Customer Data Management Voices uw bestemming als technische en marke
       <img alt="Evolving Your Audience Center of Excellence" src="./assets/evolving-your-audience-center-of-excellence.png"/>
       </a>
       <div>
-         <a href="./cdm/evolving-your-audience-center-of-excellence.md"><strong>Evolving Your Audience Center of Excellence</strong></a>
+         <a href="./cdm/evolving-your-audience-center-of-excellence.md"><strong> evoluerend Uw Centrum van de Publiek van Uitmuntendheid </strong></a>
          <br/>
       </div>
     </td>
@@ -67,7 +67,7 @@ Welkom bij Customer Data Management Voices uw bestemming als technische en marke
       <img alt="Betere ervaringen opbouwen met klantprofielen" src="./assets/building-better-experiences-with-customer-profiles.png"/>
       </a>
       <div>
-         <a href="./cdm/building-better-experiences-with-customer-profiles.md"><strong>Betere ervaringen opbouwen met klantprofielen</strong></a>
+         <a href="./cdm/building-better-experiences-with-customer-profiles.md"><strong> Bouwend betere ervaringen met klantenprofielen </strong></a>
       </div>
       <p>
         <br/>
@@ -77,7 +77,7 @@ Welkom bij Customer Data Management Voices uw bestemming als technische en marke
       <img alt="Hoe de Marketing Teams de Strategieën van het gegevensbeheer verbeteren" src="./assets/how-marketing-teams-are-improving-data-management-strategies.png"/>
       </a>
       <div>
-         <a href="./cdm/how-marketing-teams-are-improving-data-management-strategies.md"><strong>Hoe de Marketing Teams de Strategieën van het gegevensbeheer verbeteren</strong></a>
+         <a href="./cdm/how-marketing-teams-are-improving-data-management-strategies.md"><strong> Hoe de Teams van de Marketing de Strategieën van het Beheer van Gegevens verbeteren </strong></a>
       </div>
       <p>
       </p>
@@ -94,7 +94,7 @@ Welkom bij Customer Data Management Voices uw bestemming als technische en marke
       <img alt="Adobe Real-time Customer Data Platform en Healthcare Shield" src="./assets/healthcare-shield.png"/>
       </a>
       <div>
-         <a href="./governance/healthcare-shield.md"><strong>Adobe Real-time Customer Data Platform en Healthcare Shield</strong></a>
+         <a href="./governance/healthcare-shield.md"><strong> Adobe Real-time Customer Data Platform en het Schild van de Gezondheidszorg </strong></a>
          <br/>
       </div>
       <p>
@@ -105,7 +105,7 @@ Welkom bij Customer Data Management Voices uw bestemming als technische en marke
       <img alt="10 overwegingen voor Verantwoordelijk beheer van klantgegevens" src="./assets/ten-considerations-for-responsible-customer-data-management.png"/>
       </a>
       <div>
-         <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html"><strong>10 overwegingen voor Verantwoordelijk beheer van klantgegevens</strong></a>
+         <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html"><strong> 10 overwegingen voor het Verantwoordelijke Beheer van de Gegevens van de Klant </strong></a>
          <br/>
       </div>
       <p>
@@ -116,7 +116,7 @@ Welkom bij Customer Data Management Voices uw bestemming als technische en marke
       <img alt="De rol van de Markering als Data Steward verhogen" src="./assets/elevating-the-marketers-role-as-a-data-steward.png"/>
       </a>
       <div>
-         <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/elevating-the-marketers-role-as-a-data-steward.html"><strong>De rol van de Markering als Data Steward verhogen</strong></a>
+         <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/elevating-the-marketers-role-as-a-data-steward.html"><strong> die de Rol van de Markering als Gegevens verheft </strong></a>
          <br/>
       </div>
       <p>
@@ -135,17 +135,17 @@ Welkom bij Customer Data Management Voices uw bestemming als technische en marke
       <img alt="Bouw Uitstekende Ervaring met uw Gegevens van de Eerste Partij" src="./assets/build-superb-experiences-with-your-first-party-data.png"/>
       </a>
       <div>
-         <a href="./industry/build-superb-experiences-with-your-first-party-data.md"><strong>Bouw Uitstekende Ervaring met uw Gegevens van de Eerste Partij</strong></a>
+         <a href="./industry/build-superb-experiences-with-your-first-party-data.md"><strong> bouwt Uitstekende Ervaringen met uw Gegevens van de Eerste Partij </strong></a>
       </div>
       <p>
       </p>
     </td>
      <td>
       <a href="./industry/data-collaboration-in-the-first-party-data-context.md">
-      <img alt="De Samenwerking van gegevens in de Context van Gegevens van de Eerste partij" src="./assets/data-collaboration-in-the-first-party-data-context.png"/>
+      <img alt="Data Collaboration in de context First-party Data" src="./assets/data-collaboration-in-the-first-party-data-context.png"/>
       </a>
       <div>
-         <a href="./industry/data-collaboration-in-the-first-party-data-context.md"><strong>De Samenwerking van gegevens in de Context van Gegevens van de Eerste partij</strong></a>
+         <a href="./industry/data-collaboration-in-the-first-party-data-context.md"><strong> Collaboration van Gegevens in de Context van Gegevens van de Eerste partij </strong></a>
       </div>
       <p>
       </p>
@@ -155,7 +155,7 @@ Welkom bij Customer Data Management Voices uw bestemming als technische en marke
       <img alt="De toekomst van gegevensbeheer en de veranderende omgeving" src="./assets/the-future-of-data-management-and-the-changing-environment.png"/>
       </a>
       <div>
-         <a href="./industry/the-future-of-data-management-and-the-changing-environment.md"><strong>De toekomst van gegevensbeheer en de veranderende omgeving</strong></a>
+         <a href="./industry/the-future-of-data-management-and-the-changing-environment.md"><strong> De Toekomst van Gegevensbeheer en het Veranderende Milieu </strong></a>
       </div>
       <p>
       </p>
@@ -165,7 +165,7 @@ Welkom bij Customer Data Management Voices uw bestemming als technische en marke
       <img alt="Een overzicht van twee percepties - merken versus consumenten" src="./assets/brands-vs-consumers.png"/>
       </a>
       <div>
-         <a href="./industry/brands-vs-consumers.md"><strong>Een overzicht van twee percepties - merken versus consumenten</strong></a>
+         <a href="./industry/brands-vs-consumers.md"><strong> Een Taal van Twee Percepties - Merken vs. Consumenten </strong></a>
          <br/>
       </div>
     </td>

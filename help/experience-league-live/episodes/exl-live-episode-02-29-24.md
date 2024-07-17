@@ -24,9 +24,9 @@ Neem deel aan deze live sessie van het Experience League, waar Adobe Campaign-pr
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427258/?quality=12&learn=on)
 
->[!BEGINSHADEBOX &quot;Heb je vragen?&quot;]
+>[!BEGINSHADEBOX  &quot;Heb vragen?&quot;]
 
-De discussie over dit onderwerp over Adobe Experience League voortzetten [Communautaire post](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/experience-league-live-post-session-discussion-leaping-ahead/m-p/656893#M2671){target="_blank"}.
+Ga de bespreking over dit onderwerp over Adobe Experience League [ Communautaire post ](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/experience-league-live-post-session-discussion-leaping-ahead/m-p/656893#M2671) {target="_blank"} voort.
 
 >[!ENDSHADEBOX]
 
@@ -46,9 +46,9 @@ De nieuwe gebruikersinterface van het Web van de Campagne is belangrijk omdat he
 
 ## Aanvullende bronnen
 
-* **[Campagne Web User Interface - Zeer belangrijke mogelijkheden](https://experienceleague.adobe.com/docs/campaign-web/v8/whats-new.html){target="_blank"}**
-  *Gedetailleerde documentatie over wat momenteel beschikbaar is in de gebruikersinterface van het Web van Adobe Campaign.*
+* **[Gebruikersinterface van het Web van de Campagne - Zeer belangrijke mogelijkheden ](https://experienceleague.adobe.com/docs/campaign-web/v8/whats-new.html){target="_blank"}**
+  *Gedetailleerde documentatie over wat momenteel beschikbaar in het gebruikersinterface van het Web van Adobe Campaign is.*
 
-* **[Adobe Campaign Web User Interface - Tutorials](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html?lang=en){target="_blank"}**
-  *Video&#39;s en zelfstudies over de functies en mogelijkheden van de Adobe Campaign Web User Interface.*
+* **[het Gebruikersinterface van het Web van Adobe Campaign - Tutorials ](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html?lang=en){target="_blank"}**
+  *hoe te video&#39;s en leerprogramma&#39;s op de eigenschappen en de mogelijkheden van het Gebruikersinterface van het Web van Adobe Campaign.*
 

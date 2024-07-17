@@ -19,13 +19,13 @@ Sluit u aan bij de onderstaande sessies voor meer informatie:
 * Hoe te om ervaringsbeheer te moderniseren dat inhoud het schrijven democratiseren, makend de levering in het omni-kanaal een breeze, en het schrapen van verpersoonlijking om elke ervaring te maken tellen.
 * Een toeleveringsketen voor inhoud maken die kan worden geschaald voor personalisatie
 * Hoe te om tijd aan markt voor nieuwe plaatsverwezenlijking te versnellen en afhankelijkheid van technische middelen te verminderen
-* De nieuwste innovaties voor [!DNL Experience Manager] aangeboden als een cloudservice en hoe u zich aanpast aan de voortdurend veranderende marktverwachtingen terwijl u vooruit blijft
+* De nieuwste innovaties voor [!DNL Experience Manager] die als cloudservice worden aangeboden en de manier waarop u zich aanpast aan de voortdurend veranderende marktverwachtingen terwijl u uw voorsprong behoudt
 * Sites sneller bouwen met Adobe [!DNL Experience Manager] als een CMS zonder kop, met GraphQL en Content Fragments
 * Beste praktijken van de ontwikkelaar om tijd aan markt voor Adobe Experience Manager Sites te versnellen
 
 >[!TIP]
 >
->**Alle opgenomen sessies worden weergegeven in de navigatie aan de linkerkant**.
+>**Alle geregistreerde zittingen zijn vermeld in de navigatie op de linkerzijde**.
 
 <table>
   <tr>
@@ -34,8 +34,8 @@ Sluit u aan bij de onderstaande sessies voor meer informatie:
       <img alt="Welkomstadres en AEM" src="assets/welcome.png" >
       </a>
       <div>
-         <a href="2022/welcome.md"><strong>Welkomstadres en AEM</strong></a>         
-         <br/><em>met Elliot Sedegah, Haresh Kumar en Kurt Benkert</em>
+         <a href="2022/welcome.md"><strong> Welkome adres en AEM overzicht </strong></a>         
+         <br/><em> met Elliot Sedegah, Haresh Kumar, en Kurt Benkert </em>
       </div>
       <p>
         <br/>
@@ -44,15 +44,15 @@ Sluit u aan bij de onderstaande sessies voor meer informatie:
    </td>
    <td>
       <a href="2022/assets-for-all.md">
-      <img alt="Elementen voor alles" src="assets/assets-for-all.png" >
+      <img alt="Assets for All" src="assets/assets-for-all.png" >
       </a>
       <div>
-         <a href="2022/assets-for-all.md"><strong>Adobe uitbreiden [!DNL Experience Manager] Hoofdloos met Adobe [!DNL App Builder]</strong></a>         
-         <br/><em>met Purnima Rachoor Roy</em>
+         <a href="2022/assets-for-all.md"><strong> Uitbreiding van Adobe [!DNL Experience Manager] zonder kop met Adobe [!DNL App Builder]</strong></a>         
+         <br/><em> met Purnima Rachoor Roy </em>
       </div>
       <p>
         <br/>
-          Meer informatie over hoe [!DNL Assets Essentials] is de nieuwe [!DNL Digital Asset Management] systeem voor diensten en middelgrote ondernemingen.
+          Leer hoe [!DNL Assets Essentials] het nieuwe [!DNL Digital Asset Management] systeem is voor afdelingen en middelgrote bedrijven.
       </p>
    </td>
    <td>
@@ -60,8 +60,8 @@ Sluit u aan bij de onderstaande sessies voor meer informatie:
       <img alt="Een toeleveringsketen voor inhoud opbouwen die wordt geschaald" src="assets/supply-chain.png" />
       </a>
       <div>
-         <a href="2022/supply-chain.md"><strong>Een toeleveringsketen voor inhoud opbouwen die wordt geschaald</strong></a>         
-         <br/><em>met Marc Angelinovich</em>
+         <a href="2022/supply-chain.md"><strong> bouwend een Keten van de Levering van de Inhoud die Schaalt </strong></a>         
+         <br/><em> met Marc Angelinovich </em>
       </div>
       <p>
         <br/>

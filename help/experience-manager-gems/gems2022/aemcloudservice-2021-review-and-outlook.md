@@ -1,5 +1,5 @@
 ---
-title: AEM as a Cloud Service - evaluatie 2021 en vooruitzichten 2022
+title: AEM as a Cloud Service - Evaluatie 2021 en vooruitzichten 2022
 description: Bekijk een AEM GEMs webinar voor een herziening van AEM as a Cloud Service in 2021. Lees ook een overzicht van wat er in 2022 in opslag is.
 solution: Experience Manager
 feature-set: Experience Manager
@@ -31,6 +31,6 @@ Dit webinar werd uitgevoerd op 25 januari 2022 en gepresenteerd door Bertrand de
 
 >[!MORELIKETHIS]
 >
->* [Overeenkomende Adobe Experience Manager-gebruikersgroepgebeurtenispagina](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager-blogs/aem-gems-adobe-experience-manager-aem-as-a-cloud-service-2021/ba-p/437266)
->* [Overeenkomende contextafhankelijke thread](https://adobe.ly/3rqbSOz)
->* Meld u aan bij [Gebruikersgroep AEM Adobe](https://aem-augs.adobe.com/) om op de hoogte te worden gebracht van komende webinars.
+>* [ Overeenkomende pagina van de Gebeurtenis van de Gebruikersgroep van Adobe Experience Manager ](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager-blogs/aem-gems-adobe-experience-manager-aem-as-a-cloud-service-2021/ba-p/437266)
+>* [ Overeenkomende contextuele draad ](https://adobe.ly/3rqbSOz)
+>* Gelieve te registreren bij [ AEM de Groep van de Gebruiker van de Adobe ](https://aem-augs.adobe.com/) om over aanstaande webinars op de hoogte te worden gebracht.

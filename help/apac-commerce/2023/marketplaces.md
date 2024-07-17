@@ -22,7 +22,7 @@ ht-degree: 0%
 
 # Moet je groeien? Mirakl Marketplace als een kracht voor groei
 
-In september hebben we de APAC Commerce Webinar Series geïnstalleerd, en we zijn blij om gastsprekers, Cheryl Jones en Joael Pereira, te verwelkomen, en ons te betreden van Mirakl, een van de Premier Technology Partners van Adobe. In deze sessie leert u hoe u markten kunt benutten om incrementele inkomsten te stimuleren en tegelijk een uitzonderlijke klantervaring te bieden en hoe belangrijk het is om zich aan te passen aan een steeds veeleisender consumentenmarkt. U zult het gemak en de eenvoud van het integreren van Marketplace in uw Adobe Commerce-winkel met een demo vergroten, en de mogelijkheid hebben om onze luidsprekers live vragen te stellen.
+In september hebben we de APAC Commerce Webinar Series geïnstalleerd. We zijn opgetogen om gastsprekers, Cheryl Jones en Joael Pereira, te verwelkomen en ons te betreden vanuit Mirakl, een van de Premier Technology Partners van Adobe. In deze sessie leert u hoe u markten kunt benutten om incrementele inkomsten te stimuleren en tegelijk een uitzonderlijke klantervaring te bieden en hoe belangrijk het is om zich aan te passen aan een steeds veeleisender consumentenmarkt. U zult het gemak en de eenvoud van het integreren van Marketplace in uw Adobe Commerce-winkel met een demo vergroten, en de mogelijkheid hebben om onze luidsprekers live vragen te stellen.
 
 Sluit u aan bij ons om te ontdekken:
 

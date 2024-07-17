@@ -19,6 +19,6 @@ ht-degree: 0%
 
 Leer hoe u optimaal kunt profiteren van uw metagegevens in AEM Assets door de werklast te verminderen en elementen van tags te voorzien en uw middelen doorzoekbaar te maken.
 
-*Robin Bussell* Senior Trainer/Adobe
+*Robin Bussell* senior trainer/Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/343815/?quality=12&learn=on)

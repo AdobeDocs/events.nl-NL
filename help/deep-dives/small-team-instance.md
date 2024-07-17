@@ -1,6 +1,6 @@
 ---
-title: Leer hoe een klein team zijn Adobe maximaliseert [!DNL Marketo Engage] instance
-description: Bespreek hoe u ondersteunde instanties van Adobe [!DNL Marketo Engage] met een klein team of team van één.
+title: Leer hoe een klein team hun Adobe  [!DNL Marketo Engage]  instantie maximaliseert
+description: Bespreek hoe te om instanties van Adobe  [!DNL Marketo Engage]  met een klein team of team van te steunen.
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 # Leer hoe een klein team hun exemplaar maximaliseert
 
-Gelieve deel te nemen aan huidige Adobe [!DNL Marketo Engage] Champions, Darshil Shah, Jenny Robertson en Joy Martinez bespreken hoe zij Adoben hebben gesteund [!DNL Marketo Engage] met een klein team of team van één. Onze kampioenen zullen ook bespreken hoe ze succesvol konden worden, zonder veel middelen, hoe dit hun carrière hielp en de positieve resultaten die ze konden zien in hun geval.
+U wordt verzocht deel te nemen aan de huidige Adobe [!DNL Marketo Engage] Champions, Darshil Shah, Jenny Robertson en Joy Martinez om met een klein team of team van één te bespreken hoe zij Adoben hebben ondersteund [!DNL Marketo Engage] . Onze kampioenen zullen ook bespreken hoe ze succesvol konden worden, zonder veel middelen, hoe dit hun carrière hielp en de positieve resultaten die ze konden zien in hun geval.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3417670/?quality=12&learn=on)
 
-Klikken **[hier](assets/small-team-instance.pdf){target="_blank"}** voor de sessiedia&#39;s
+Klik **[hier](assets/small-team-instance.pdf){target="_blank"}** voor de zittingsdia&#39;s.

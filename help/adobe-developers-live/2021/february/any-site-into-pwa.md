@@ -25,6 +25,6 @@ ht-degree: 0%
 
 Maak uw site installeerbaar op mobiele apparaten en offline beschikbaar met één klik, ongeacht of het een webtoepassing of een traditionele site betreft.
 
-Doorgaan met gesprek in **[Experience League Gemeenschappen](https://adobe.ly/36Yd3v6)**.
+Ga het gesprek in **[Gemeenschappen van het Experience League ](https://adobe.ly/36Yd3v6)** voort.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331742/?quality=12&learn=on&hidetitle=true)

@@ -20,8 +20,8 @@ Op 4-5 oktober 2021 heeft Adobe Developers Live ontwikkelaars en ontwikkelaars v
 Adobe productteams in heel Adobe Experience Cloud, Document Cloud en Creative Cloud lieten de nieuwste technologische vooruitgang zien en ontwikkelaarsgereedschappen die design, het creëren van content, documentservices en het beheer van klantervaringen in alle bedrijfstakken mogelijk maken.
 
 Verbind met collega devs en sluit zich aan bij de zittingsgesprekken in de Gemeenschappen van de Experience League.
-* [Adobe Developer App Builder - lijst met voltooide sessies](https://experienceleaguecommunities.adobe.com/t5/project-firefly-discussions/adobe-developers-live-october-2021-project-firefly-s-complete/td-p/425779)
-* [AEM lijst met voltooide sessies](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/adobe-developers-live-october-2021-complete-session-list/m-p/423041#M120517)
+* [ de Volledige lijst van de Zitting van Adobe Developer App Builder ](https://experienceleaguecommunities.adobe.com/t5/project-firefly-discussions/adobe-developers-live-october-2021-project-firefly-s-complete/td-p/425779)
+* [ AEM Volledige lijst van de Zitting ](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/adobe-developers-live-october-2021-complete-session-list/m-p/423041#M120517)
 
 ## Hooglichten
 
@@ -32,8 +32,8 @@ Verbind met collega devs en sluit zich aan bij de zittingsgesprekken in de Gemee
       <img alt="Zitplaatsen zonder hoofd" src="/help/adobe-developers-live/assets/mathias.png"/>
       </a>
       <div>
-         <a href="headless.md"><strong>Zitplaatsen zonder hoofd</strong></a>         
-         <br/><em>met Mathias Siegel, Principal Product Manager, AEM Sites</em>
+         <a href="headless.md"><strong> Hoofdloze Plaatsen </strong></a>         
+         <br/><em> met Mathias Siegel, de Hoofd Manager van het Product, AEM Sites </em>
       </div>
       <p>
         <br/>
@@ -45,8 +45,8 @@ Verbind met collega devs en sluit zich aan bij de zittingsgesprekken in de Gemee
       <img alt="Overzicht van de integratie van Adobe Experience Platform" src="/help/adobe-developers-live/assets/eric.png"/>
       </a>
       <div>
-         <a href="aep-integration.md"><strong>Overzicht van de integratie van Adobe Experience Platform</strong></a>
-         <br/><em>met Eric Knee, Principal Enterprise Solution Architect</em>
+         <a href="aep-integration.md"><strong> Overzicht van de integratie van Adobe Experience Platform </strong></a>
+         <br/><em> met Eric Knee, HoofdArchitect van de Oplossing van de Onderneming </em>
       </div>
       <p>
         <br/>
@@ -59,8 +59,8 @@ Verbind met collega devs en sluit zich aan bij de zittingsgesprekken in de Gemee
       <img alt="Documenten genereren en e-handtekeningen vastleggen in uw apps met Adobe Sign API" src="/help/adobe-developers-live/assets/ben.png"/>
       </a>
       <div>
-         <a href="pdf-services-api.md"><strong>Documenten genereren en e-handtekeningen vastleggen in uw apps met Adobe Sign API</strong></a>
-         <br/><em>met Ben Vanderberg, Principal Developer Evangelist</em>
+         <a href="pdf-services-api.md"><strong> producerend documenten en het vangen e-handtekeningen in uw apps gebruikend Adobe Sign API </strong></a>
+         <br/><em> met Ben Vanderberg, Principal Developer Evangelist </em>
       </div>
       <p>
         <br/>
@@ -72,30 +72,30 @@ Verbind met collega devs en sluit zich aan bij de zittingsgesprekken in de Gemee
 
 >[!TIP]
 >
->**Alle sessies worden weergegeven in de navigatie aan de linkerkant**.
+>**Alle zittingen worden vermeld in de navigatie op de linkerzijde**.
 
 ## Aanvullende bronnen
 
 ### AEM
 
-* [Experience League - AEM verkennen](https://experienceleague.adobe.com/#recommended/solutions/experience-manager)
-* [AEM Sites Authoring Documentation](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html)
-* [AEM Sites Developing Documentation](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html)
-* [AEM Sites-beheerdocumentatie](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html)
-* [AEM Sites-documentatie implementeren](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html)
-* [as a Cloud Service Tutorials AEM](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html)
-* [AEM Assets Tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html)
-* [AEM Forms Tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/overview.html)
-* [Tutorials AEM stichting](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html)
+* [ Experience League - onderzoek AEM ](https://experienceleague.adobe.com/#recommended/solutions/experience-manager)
+* [ de Authoring Documentatie van AEM Sites ](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html)
+* [ AEM Sites het Ontwikkelen Documentatie ](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html)
+* [ AEM Sites die Documentatie beheren ](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html)
+* [ AEM Sites die Documentatie opstelt ](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html)
+* [ Tutorials van AEM as a Cloud Service ](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html)
+* [ Tutorials van AEM Assets ](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html)
+* [ Tutorials van AEM Forms ](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/overview.html)
+* [ AEM de Tutorials van de Stichting ](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html)
 
 ### Adobe Experience Platform
 
-* [Adobe Experience Platform-documentatie](https://experienceleague.adobe.com/docs/experience-platform.html)
-* [Adobe Experience Platform - Overzicht](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html)
+* [ Documentatie van Adobe Experience Platform ](https://experienceleague.adobe.com/docs/experience-platform.html)
+* [ het Overzicht van Adobe Experience Platform ](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html)
 * [Tutorials voor Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=nl)
 
 ### App Builder
 
-* [Overzicht App Builder](https://adobe.ly/aem-appbuilder)
-* [Handleiding voor ontwikkelaars van App Builder](https://adobe.ly/appbuilder)
-* [Aanmelden bij proefversie van App Builder](https://adobe.ly/appbuilder-trial)
+* [ het Overzicht van App Builder ](https://adobe.ly/aem-appbuilder)
+* [ de Gids van de Ontwikkelaar van App Builder ](https://adobe.ly/appbuilder)
+* [ het programma van het Proefprogramma van App Builder ondertekenen omhoog ](https://adobe.ly/appbuilder-trial)

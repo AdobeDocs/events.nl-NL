@@ -1,6 +1,6 @@
 ---
 title: Sjablonen, tokens en teamwork - Maak uw inhoud schaalbaar
-description: Meer informatie over tokens en sjablonen in [!DNL Marketo Engage]. Ontdek tips voor het optimaal benutten van uw bestaande inhoudsbibliotheek.
+description: Leer over het gebruiken van tokens en malplaatjes in  [!DNL Marketo Engage]. Ontdek tips voor het optimaal benutten van uw bestaande inhoudsbibliotheek.
 role: Admin, User
 level: Intermediate, Experienced
 doc-type: Event
@@ -17,9 +17,9 @@ ht-degree: 0%
 
 ---
 
-# Sjablonen, tokens en teamwork - Maak uw Adobe [!DNL Marketo Engage] inhoud schaalbaar
+# Sjablonen, tokens en teamwork - Maak uw Adobe [!DNL Marketo Engage] -inhoud schaalbaar
 
-Het maken van inhoud voor uw marketingprogramma&#39;s is een lange weg. Door sjablonen en tokens toe te passen kunt u schaalbare processen in verschillende teams maken en meer bereiken met minder in [!DNL Marketo Engage]. Horen van Lauren McCormack, een bekroonde marketingleider—en 2x-Adobe [!DNL Marketo Engage] Champion - aangezien zij haar jaren van wijsheid deelt om uw te maken [!DNL Marketo Engage] inhoud schaalbaar.
+Het maken van inhoud voor uw marketingprogramma&#39;s is een lange weg. Door sjablonen en tokens toe te passen, kunt u schaalbare processen in verschillende teams maken en meer bereiken met minder in [!DNL Marketo Engage] . Horen van Lauren McCormack, een bekroonde marketingleider—en 2x Adobe [!DNL Marketo Engage] Champion—terwijl ze haar jaren van wijsheid deelt om uw [!DNL Marketo Engage] -inhoud schaalbaar te maken.
 
 Meer informatie over:
 

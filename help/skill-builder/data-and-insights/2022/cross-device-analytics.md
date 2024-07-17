@@ -19,6 +19,6 @@ ht-degree: 0%
 
 Meer informatie over het gebruik van Adobe Analytics en Customer Journey Analytics voor het analyseren van gebruikersgedrag in browsers/Apparaten/Apps en meerdere kanalen.
 
-*Sonia Charles* Oplossingsconsultant, gegevens en inzichten / Adobe
+*Sonia Charles* de Adviseur van Oplossingen, Gegevens &amp; Inzichten/Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/343820/?quality=12&learn=on)

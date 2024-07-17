@@ -1,6 +1,6 @@
 ---
-title: Handel en koffie
-description: De Adobe Commerce- en Coffee-reeks richt zich op handelsstrategieën en -tactieken, ondersteund door statistieken die het gebeurtenisonderwerp weerspiegelen.
+title: Commerce en koffie
+description: De Adobe Commerce- en Coffee-reeks richt zich op Commerce-strategieën en -tactieken, ondersteund door statistieken die het gebeurtenisonderwerp weerspiegelen.
 exl-id: fba820f3-55cf-4cf5-bb0f-6b19870264db
 duration: 81
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
@@ -10,9 +10,9 @@ ht-degree: 0%
 
 ---
 
-# Handel en koffie
+# Commerce en koffie
 
-De Commerce &amp; Coffee-reeks is voor bestaande Adobe Commerce-klanten van alle vaardigheidsniveaus en is voorzien van Sr. Commerce Strategy Consultant, Corey Gelato. De reeks richt zich op handelsstrategieën en tactieken, ondersteund door statistieken die het gebeurtenisonderwerp weerspiegelen. Na de presentatie is er een live demonstratie die laat zien hoe de besproken strategieën in actie kunnen worden gebracht binnen een handelsplatform. Elke gebeurtenis wordt afgesloten door de aanwezigen de gelegenheid te geven zelf vragen te stellen en rechtstreeks contact op te nemen met de Adobe-experts. U laat elke gebeurtenis een vernieuwd besef achter van waarom en hoe u concurrerend kunt blijven en succes kunt behalen, terwijl u alles maximaliseert wat uw Adobe Commerce-platform te bieden heeft.
+De Commerce &amp; Coffee-reeks is bedoeld voor bestaande Adobe Commerce-klanten met alle vaardigheidsniveaus en functies Sr. Commerce Strategy Consultant, Corey Gelato. De reeks richt zich op Commerce-strategieën en -tactieken, ondersteund door statistieken die het gebeurtenisonderwerp weerspiegelen. Na de presentatie is er een live demonstratie die laat zien hoe de besproken strategieën binnen een Commerce-platform in praktijk kunnen worden gebracht. Elke gebeurtenis wordt afgesloten door de aanwezigen de gelegenheid te geven zelf vragen te stellen en rechtstreeks contact op te nemen met de Adobe-experts. U laat elke gebeurtenis een vernieuwd besef achter van waarom en hoe u concurrerend kunt blijven en succes kunt behalen, terwijl u alles maximaliseert wat uw Adobe Commerce-platform te bieden heeft.
 
 <!--
 ## What's New
@@ -64,4 +64,4 @@ De Commerce &amp; Coffee-reeks is voor bestaande Adobe Commerce-klanten van alle
 
 >[!TIP]
 >
->**Alle opgenomen sessies worden weergegeven in de navigatie aan de linkerkant**.
+>**Alle geregistreerde zittingen zijn vermeld in de navigatie op de linkerzijde**.

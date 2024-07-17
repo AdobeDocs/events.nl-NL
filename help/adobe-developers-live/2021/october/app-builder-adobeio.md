@@ -1,6 +1,6 @@
 ---
-title: Een overzicht van Adobe Exchange, de externe ontwikkelaarsmarkt
-description: Leer hoe te om de dienst-aan-dienst integratie op de Console van de Ontwikkelaar tot stand te brengen, het op Admin Console te beheren en een openbare toepassingslijst op de Uitwisseling van de Adobe te publiceren. Na het creëren van een verbinding aan een Adobe API, zullen wij door de stappen lopen om als Partner van de Uitwisseling van de Adobe te registreren, die tot een openbare lijst leidt, voor goedkeuring en het publiceren van het voorleggen.
+title: Een overzicht van de Adobe Exchange, de externe markt voor ontwikkelaars
+description: Leer hoe u een service-to-service integratie op Developer Console kunt maken, deze kunt beheren op Admin Console en een openbare toepassingslijst kunt publiceren op Adobe Exchange. Na het creëren van een verbinding aan een Adobe API, zullen wij door de stappen lopen om als Partner van de Adobe Exchange te registreren, een openbare lijst te creëren, voor goedkeuring voor te leggen en het te publiceren.
 feature: Developer Tools
 topic: Development
 role: Developer, Architect
@@ -16,16 +16,16 @@ ht-degree: 4%
 
 ---
 
-# Een overzicht van Adobe Exchange, de externe ontwikkelaarsmarkt
+# Een overzicht van de Adobe Exchange, de externe markt voor ontwikkelaars
 
-Leer hoe te om de dienst-aan-dienst integratie op de Console van de Ontwikkelaar tot stand te brengen, het op Admin Console te beheren en een openbare toepassingslijst op de Uitwisseling van de Adobe te publiceren. Na het creëren van een verbinding aan een Adobe API, zullen wij door de stappen lopen om als Partner van de Uitwisseling van de Adobe te registreren, die tot een openbare lijst leidt, voor goedkeuring en het publiceren van het voorleggen.
+Leer hoe u een service-to-service integratie op Developer Console kunt maken, deze kunt beheren op Admin Console en een openbare toepassingslijst kunt publiceren op Adobe Exchange. Na het creëren van een verbinding aan een Adobe API, zullen wij door de stappen lopen om als Partner van de Adobe Exchange te registreren, een openbare lijst te creëren, voor goedkeuring voor te leggen en het te publiceren.
 
-Doorgaan met gesprek in **[Experience League Gemeenschappen](https://adobe.ly/3ooiltm)**.
+Ga het gesprek in **[Gemeenschappen van het Experience League ](https://adobe.ly/3ooiltm)** voort.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337841/?quality=12&learn=on&hidetitle=true)
 
 ## Aanvullende bronnen
 
-- [Adobe Experience Platform-documentatie](https://experienceleague.adobe.com/docs/experience-platform.html)
-- [Adobe Experience Platform - Overzicht](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html)
+- [ Documentatie van Adobe Experience Platform ](https://experienceleague.adobe.com/docs/experience-platform.html)
+- [ het Overzicht van Adobe Experience Platform ](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html)
 - [Tutorials voor Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=nl)

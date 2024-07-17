@@ -23,9 +23,9 @@ Doe mee met Bryan, Eric en Doug terwijl ze bespreken hoe ze snel met Customer Jo
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426778/?quality=12&learn=on)
 
->[!BEGINSHADEBOX &quot;Heb je vragen?&quot;]
+>[!BEGINSHADEBOX  &quot;Heb vragen?&quot;]
 
-Doorgaan met de discussie over de [Forum van de Gemeenschap van Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-post-session-discussion-bringing-your/m-p/646093#M3582).
+Ga verder de bespreking over de [ bespreking van het Forum van de Gemeenschap van de Experience League ](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-post-session-discussion-bringing-your/m-p/646093#M3582).
 
 >[!ENDSHADEBOX]
 

@@ -1,6 +1,6 @@
 ---
 title: Voorbereiding piek seizoen
-description: In de volgende tranche van de APAC Commerce Webinar Reeks die zich op het voorbereiden van uw zaken voor het piekseizoen zal concentreren. Voorbereiding is essentieel voor succes en in dit webinar zullen we u door de beste praktijken laten lopen om Adobe Commerce te gebruiken om de verkoop en prestaties gedurende deze belangrijke handelsperiode te maximaliseren (of elke andere verkoopgebeurtenis die uw bedrijf het hele jaar kan ervaren).
+description: In de volgende tranche van de APAC Commerce Webinar Series, die zich zal concentreren op het voorbereiden van uw zaken voor het piekseizoen. Voorbereiding is essentieel voor succes en in dit webinar zullen we u door de beste praktijken laten lopen om Adobe Commerce te gebruiken om de verkoop en prestaties gedurende deze belangrijke handelsperiode te maximaliseren (of elke andere verkoopgebeurtenis die uw bedrijf het hele jaar kan ervaren).
 solution: Commerce
 feature: Best Practices
 topic: Performance
@@ -21,6 +21,6 @@ ht-degree: 0%
 
 # Voorbereiding piek seizoen
 
-In de volgende tranche van de APAC Commerce Webinar Reeks die zich op het voorbereiden van uw zaken voor het piekseizoen zal concentreren. Voorbereiding is essentieel voor succes en in dit webinar zullen we u door de beste praktijken laten lopen om Adobe Commerce te gebruiken om de verkoop en prestaties gedurende deze belangrijke handelsperiode te maximaliseren (of elke andere verkoopgebeurtenis die uw bedrijf het hele jaar kan ervaren).
+In de volgende tranche van de APAC Commerce Webinar Series, die zich zal concentreren op het voorbereiden van uw zaken voor het piekseizoen. Voorbereiding is essentieel voor succes en in dit webinar zullen we u door de beste praktijken laten lopen om Adobe Commerce te gebruiken om de verkoop en prestaties gedurende deze belangrijke handelsperiode te maximaliseren (of elke andere verkoopgebeurtenis die uw bedrijf het hele jaar kan ervaren).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3423983/?learn=on)

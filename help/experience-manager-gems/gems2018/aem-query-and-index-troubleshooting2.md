@@ -18,9 +18,9 @@ Dit is een voortzetting van de zitting van vorig jaar AEM Indexing en Vraag JCR.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23429/?quality=0)
 
-*Geleverd 22-08-18*
+*Geleverd 08/22/18*
 
-**Gepresenteerd door**
+**Voorgesteld door:**
 
 Thomas Mueller, Senior Software Engineer, Adobe
 

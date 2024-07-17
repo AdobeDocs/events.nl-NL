@@ -1,6 +1,6 @@
 ---
-title: Investeren in jezelf - Adobe [!DNL Marketo Engage] Certificering
-description: Hebt u interesse gehad in het certificeringsproces en hoe kan het uw marketingcarrière helpen? Of misschien bent u geïnteresseerd in het proces om het examen te bestuderen, voor te bereiden en te nemen? Deelnemen aan Adobe [!DNL Marketo Engage] Champions spreken over hun reis naar een Marketo Certified Expert of Architect!
+title: Het investeren in uzelf - Adobe  [!DNL Marketo Engage]  Certificatie
+description: Hebt u interesse gehad in het certificeringsproces en hoe kan het uw marketingcarrière helpen? Of misschien bent u geïnteresseerd in het proces om het examen te bestuderen, voor te bereiden en te nemen? Word Adobe  [!DNL Marketo Engage]  Champions aangezien zij hun reis bespreken om een Marketo Verklaarde Deskundige of Architect te worden!
 role: Admin, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -16,10 +16,10 @@ ht-degree: 0%
 
 ---
 
-# Investeren in jezelf - Adobe [!DNL Marketo Engage] Certificering
+# Investeren in uzelf - Adobe [!DNL Marketo Engage] certificatie
 
-Hebt u interesse gehad in het certificeringsproces en hoe kan het uw marketingcarrière helpen? Of misschien bent u geïnteresseerd in het proces om het examen te bestuderen, voor te bereiden en te nemen? Deelnemen aan Adobe [!DNL Marketo Engage] Champions spreken over hun reis naar een Marketo Certified Expert of Architect!
+Hebt u interesse gehad in het certificeringsproces en hoe kan het uw marketingcarrière helpen? Of misschien bent u geïnteresseerd in het proces om het examen te bestuderen, voor te bereiden en te nemen? Word lid van Adobe [!DNL Marketo Engage] Kampioenen die hun reis bespreken om een Marketo Certified Expert of Architect te worden!
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416760/?quality=12&learn=on)
 
-Klikken **[hier](assets/certification.pdf){target="_blank"}** voor de sessiedia&#39;s
+Klik **[hier](assets/certification.pdf){target="_blank"}** voor de zittingsdia&#39;s.

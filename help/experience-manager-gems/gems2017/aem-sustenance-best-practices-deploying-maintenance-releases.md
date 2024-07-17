@@ -18,14 +18,14 @@ Meld u aan bij ons om de beste praktijken te kennen voor de implementatie van AE
 
 >[!VIDEO](https://video.tv.adobe.com/v/18982/?quality=9)
 
-*Geleverd op 28 juni 2017*
+*Geleverd Juni 28.2017*
 
-**Gepresenteerd door**
+**Voorgesteld door:**
 
 * Gurpreet Singh Bhatia, toonsoftware engineer, AEM Sustaining Engineering, Adobe
 * Karanjeet Singh, Senior Software Engineer, AEM Sustaining Engineering, Adobe
 
-**Presenter-dia&#39;s**
+**de dia&#39;s van de Presentator**
 
 [Bestand ophalen](assets/aem-sustenance-best-practices-gems.pdf)
 <!--

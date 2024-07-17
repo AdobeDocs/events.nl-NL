@@ -24,5 +24,5 @@ Doe mee aan een live discussie met drie deskundigen van de Adobe die daar gezame
 
 >[!VIDEO](https://video.tv.adobe.com/v/337219/?quality=12&learn=on)
 
-Als u deze sessie wilt bespreken, gaat u naar de [discussie in de Gemeenschap Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/questions-and-discussion-for-experience-league-live-ep-3-expert/td-p/425205){target="_blank"}.
+Om deze zitting te bespreken, gelieve de [ bespreking in de Gemeenschap van het Experience League ](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/questions-and-discussion-for-experience-league-live-ep-3-expert/td-p/425205) te bezoeken {target="_blank"}.
 

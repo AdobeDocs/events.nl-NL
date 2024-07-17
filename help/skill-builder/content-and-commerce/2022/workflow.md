@@ -18,6 +18,6 @@ ht-degree: 0%
 
 In deze sessie leert u de voordelen van het gebruik van workflows voor uw middelenbeheer en hoe u deze snel kunt maken.
 
-*Chris Sofokleous* Oplossingsconsultant, AEM/Adobe
+*Chris Sofokleous* Adviseur van Oplossingen, AEM/Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/343817/?quality=12&learn=on)

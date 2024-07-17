@@ -1,5 +1,5 @@
 ---
-title: Vraag het de Expert - Beste praktijken om het Proef van Workfront te maximaliseren
+title: Vraag het de Expert - Beste praktijken om Workfront Proof te maximaliseren
 description: Leer hoe te om montages te vormen, grote rapportering toe te laten, en gemeenschappelijke valkuilen in Bewijs te vermijden. Dit webinar werd geregistreerd op 26 februari 2020.
 doc-type: feature video
 team: Technical Marketing
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 ---
 
-# Vraag het de Expert - Beste praktijken om het Proef van Workfront te maximaliseren
+# Vraag het de Expert - Beste praktijken om Workfront Proof te maximaliseren
 
 Leer hoe te om montages voor succes, toegangsmeningen (en andere trucs) te vormen om grote rapportering toe te laten, en te begrijpen hoe te om gemeenschappelijke valkuilen in Bewijs te vermijden. Dit webinar werd geregistreerd op 26 februari 2020.
 
@@ -83,7 +83,7 @@ Is er bij het indienen van een proefdruk - onder Organisatie - nog genoeg om de 
 
 **Antwoord**
 
-Deze vraag heeft betrekking op Workfront Proof Standalone. In een zelfstandig Workfront-proefexemplaar kunt u privémappen gebruiken om mappen te verbergen voor specifieke gebruikers. Hierdoor wordt een meer gestroomlijnde lijst met mappen waaruit u kunt kiezen. U kunt ook gebruikmaken van de logica type-ahead om de map te zoeken waaraan u ook een proefdruk wilt toevoegen.
+Deze vraag heeft betrekking op Workfront Proof Standalone. In de zelfstandige Workfront Proof kunt u privémappen gebruiken om mappen te verbergen voor specifieke gebruikers. Hierdoor wordt een meer gestroomlijnde lijst met mappen waaruit u kunt kiezen. U kunt ook gebruikmaken van de logica type-ahead om de map te zoeken waaraan u ook een proefdruk wilt toevoegen.
 
 **Vraag**
 
@@ -469,7 +469,7 @@ Wordt het Workfront Proof-werkgebied alleen toegevoegd als Geautomatiseerde work
 
 **Antwoord**
 
-Het stadium van het &quot;Bewijs van Workfront&quot;zal aan bewijzen worden toegevoegd als een niet-ontvanger in de proef klikt. Het wordt ook toegepast als iemand een Basic Workflow Proof omzet in een Automated Workfront Proof.
+Het werkgebied &quot;Workfront Proof&quot; wordt toegevoegd aan proefdrukken als een niet-ontvanger op de proefdruk klikt. Het wordt ook toegepast als iemand een Basic Workflow Proof omzet in een Automated Workfront Proof.
 
 **Vraag**
 

@@ -18,13 +18,13 @@ In deze zitting zullen wij richtlijnen over hoe te om een CQ/AEM (5.6) gebaseerd
 
 >[!VIDEO](https://video.tv.adobe.com/v/19571/?quality=9)
 
-*Geleverd op 2 oktober 2013*
+*Geleverde 2 Oktober, 2013*
 
-**Gepresenteerd door**
+**Voorgesteld door:**
 
 Thierry Yge, Senior Support Engineer, Adobe
 
-**Presenter-dia&#39;s**
+**de dia&#39;s van de Presentator**
 
 [Bestand ophalen](assets/gems-cq-troubleshoot-ppt-2.pdf)
 

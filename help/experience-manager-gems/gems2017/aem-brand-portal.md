@@ -24,17 +24,17 @@ U zult leren:
 
 >[!VIDEO](https://video.tv.adobe.com/v/20730/?quality=9)
 
-*Geleverd op 8 november 2017*
+*Geleverde 8 November, 2017*
 
-**Gepresenteerd door**
+**Voorgesteld door:**
 
-Mike Carley, Product Marketing Manager - [!DNL AEM Assets], ADOBE
+Mike Carley, Product Marketing Manager - [!DNL AEM Assets], Adobe
 
 Krishna Selvaraj, Technical Marketing Engineer - AEM, Adobe
 
 Daniel Gordon, Technical Marketing Engineer - AEM, Adobe
 
-**Presenter-dia&#39;s**
+**de dia&#39;s van de Presentator**
 
 [Bestand ophalen](assets/gems+bp-asset+share+nov+8+17+.pdf)
 <!--

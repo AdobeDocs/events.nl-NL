@@ -1,8 +1,8 @@
 ---
 title: De overgang naar Adobe Experience Manager as a Cloud Service versnellen
 description: Meer informatie over hoe u de Adobe Experience Manager as a Cloud Service-gereedschappen voor het refactoring van code kunt gebruiken om de overgang naar de Cloud Service te versnellen door de Cloud Service van uw bestaande inhoud (pakketstructuur, indexen, Adobe Experience Manager Asset Processing Workflows, dispatcherconfiguraties) via automatisering compatibel te maken.
-landing-page-description: Gebruik de AEM as a Cloud Service code-refactoring hulpmiddelen om uw overgang aan Cloud Service te versnellen.
-short-description: Gebruik de AEM as a Cloud Service code-refactoring hulpmiddelen om uw overgang aan Cloud Service te versnellen.
+landing-page-description: Gebruik de AEM as a Cloud Service-gereedschappen voor coderefactoring om de overgang naar Cloud Service te versnellen.
+short-description: Gebruik de AEM as a Cloud Service-gereedschappen voor coderefactoring om de overgang naar Cloud Service te versnellen.
 solution: Experience Manager
 feature: Developer Tools
 topic: Development
@@ -28,12 +28,12 @@ In deze zitting, zullen wij tonen hoe wij de insteekmodule kunnen gebruiken aio-
 
 Wij hopen om mensen te helpen de beste praktijken begrijpen rond het gebruiken van de hulpmiddelen van het coderefactoring, door de uitvoering van de hulpmiddelen op echte de klantencodebasis van Adobe Experience Manager te tonen.
 
-Doorgaan met gesprek in **[Experience League Gemeenschappen](https://adobe.ly/3ETr7FI)**.
+Ga het gesprek in **[Gemeenschappen van het Experience League ](https://adobe.ly/3ETr7FI)** voort.
 
 >[!VIDEO](https://video.tv.adobe.com/v/338036/?quality=12&learn=on&hidetitle=true)
 
 ## Aanvullende bronnen
 
-- [Adobe Experience Manager-documentatie](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
-- [Overzicht Adobe Experience Manager Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html)
-- [Adobe Experience Manager Tutorials](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html)
+- [ Documentatie van Adobe Experience Manager ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
+- [ het Overzicht van de Cloud Service van Adobe Experience Manager ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html)
+- [ Tutorials van Adobe Experience Manager ](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html)

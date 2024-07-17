@@ -1,6 +1,6 @@
 ---
-title: Handel en koffie - Personalisatie
-description: Deze zitting duikt in strategieën en tactieken rond het personaliseren van uw plaats van de Handel en blijf concurrerend jaar door. We evalueren waarom, wat en hoe we de effecten op conversie die rechtstreeks verband houden met personalisatie, kunnen personaliseren en bespreken. Corey doorloopt vervolgens een demonstratie van categorietoestemmingen, klantsegmenten, dynamische blokken/widgets, product Recommendations en meer. De presentatie en de demo gaan vergezeld van een live Vragen en antwoorden met Corey.
+title: Commerce en Koffie - Personalization
+description: Deze sessie leidt tot strategieën en tactieken om uw Commerce-site aan te passen en het hele jaar door concurrerend te blijven. We evalueren waarom, wat en hoe we de effecten op conversie die rechtstreeks verband houden met personalisatie, kunnen personaliseren en bespreken. Corey doorloopt vervolgens een demonstratie van categorietoestemmingen, klantsegmenten, dynamische blokken/widgets, product Recommendations en meer. De presentatie en de demo gaan vergezeld van een live Vragen en antwoorden met Corey.
 solution: Commerce
 topic: Commerce
 role: Admin, Leader, User
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Handel en koffie - Personalisatie
+# Commerce en Koffie - Personalization
 
-Deze zitting duikt in strategieën en tactieken rond het personaliseren van uw plaats van de Handel en blijf concurrerend jaar door. We evalueren waarom, wat en hoe we de effecten op conversie die rechtstreeks verband houden met personalisatie, kunnen personaliseren en bespreken. Corey doorloopt vervolgens een demonstratie van categorietoestemmingen, klantsegmenten, dynamische blokken/widgets, product Recommendations en meer. De presentatie en de demo gaan vergezeld van een live Vragen en antwoorden met Corey.
+Deze sessie leidt tot strategieën en tactieken om uw Commerce-site aan te passen en het hele jaar door concurrerend te blijven. We evalueren waarom, wat en hoe we de effecten op conversie die rechtstreeks verband houden met personalisatie, kunnen personaliseren en bespreken. Corey doorloopt vervolgens een demonstratie van categorietoestemmingen, klantsegmenten, dynamische blokken/widgets, product Recommendations en meer. De presentatie en de demo gaan vergezeld van een live Vragen en antwoorden met Corey.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3412700/?quality=12&learn=on)

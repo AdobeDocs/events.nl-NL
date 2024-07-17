@@ -8,7 +8,7 @@ duration: 3816
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '117'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -16,24 +16,24 @@ ht-degree: 1%
 
 AEM 6 wordt geleverd met een nieuwe opslagplaats met een nieuwe opslagplaats die is ontworpen voor verbeterde prestaties en schaalbaarheid. Deze sessie zal een diepgaande analyse geven van de nieuwe architectuur in de opslagplaats en de belangrijkste verschillen en verbeteringen voor ontwikkelaars en operationele teams beschrijven. De behandelde onderwerpen omvatten:
 
-* Contentmigratie
+* Inhoud migreren
 * Achterwaartse compatibiliteit
 * Belangrijkste implementatiescenario&#39;s
 * Aangepaste zoekindexen
 
 >[!VIDEO](https://video.tv.adobe.com/v/19518/?quality=9)
 
-*Geleverd op 18 juni 2014*
+*Geleverd 18 Juni, 2014*
 
-**Gepresenteerd door**
+**Voorgesteld door:**
 
 Jukka Zitting, Senior Developer, Adobe
 
-**Presenter-dia&#39;s**
+**de dia&#39;s van de Presentator**
 
 [Bestand ophalen](assets/technical-deep-dive-of-the-aem-6-platform.pdf)
 
 ## Verwante koppelingen {#related-links}
 
-* [AEM Upgrade uitvoeren van documentatie](https://docs.adobe.com/content/docs/en/aem/6-0/deploy/upgrade.html)
-* [Presentatie van ApacheCon &quot;Oak, de architectuur van Apache Jackrabbit 3&quot;](https://www.slideshare.net/jukka/oak-the-architecture-of-apache-jackrabbit-3)
+* [ AEM de Documentatie van de Verbetering ](https://docs.adobe.com/content/docs/en/aem/6-0/deploy/upgrade.html)
+* [ Presentatie van ApacheCon &quot;Oak, de architectuur van Apache Jackrabbit 3&quot;](https://www.slideshare.net/jukka/oak-the-architecture-of-apache-jackrabbit-3)

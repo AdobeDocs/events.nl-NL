@@ -26,7 +26,7 @@ ht-degree: 0%
 ## Beschrijving
 
 De Analysator van Beste praktijken is een hulpmiddel dat analyse en rapporteringsmogelijkheden betreffende AEM op gebouw en instanties van AMS verstrekt. Het genereert een evaluatie van uw huidige AEM implementatie door gebieden aan te geven die de aanbevolen beste praktijken niet volgen en tegelijkertijd richtlijnen te bieden voor het nemen van maatregelen om mogelijke problemen op te lossen. De motivatie is eenvoudig: het identificeren en aanpakken van slechts één misbruik binnen uw AEM omgeving heeft het potentieel om gebruikerservaring te verbeteren, de technische schuld te verminderen en op zijn beurt uw totale eigendomskosten te verlagen. Waarom duurt het dan niet om te zien of er verbeteringsmogelijkheden zijn?
-De analyse AEM Best Practices is niet van toepassing op AEM as a Cloud Service omgevingen.
+De AEM Best Practices Analyzer is niet van toepassing op AEM as a Cloud Service-omgevingen.
 
 ### Presentatoren
 
@@ -42,5 +42,5 @@ De analyse AEM Best Practices is niet van toepassing op AEM as a Cloud Service o
 
 >[!NOTE]
 >
->* Voor sessiespecifieke community-interacties over Experience League gaat u naar [Contextuele thread](https://bit.ly/3Z6AyM1)
->* Meld u aan bij [Gebruikersgroep AEM Adobe](https://aem-augs.adobe.com/).
+>* Voor zitting specifieke communautaire interactie over Experience League, gelieve dit [ Contextuele Draad ](https://bit.ly/3Z6AyM1) te bezoeken
+>* Om automatische berichten betreffende webinars te ontvangen, gelieve te registreren bij [ AEM de Groep van de Gebruiker van de Adobe ](https://aem-augs.adobe.com/).

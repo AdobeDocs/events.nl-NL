@@ -23,7 +23,7 @@ Een bibliotheek met opgenomen Workfront-gebeurtenissen waarbij experts en colleg
       <img alt="Workfront-systeemonderhoud" src="assets/workfront-system-maintenance.png"/>
       </a>
       <div>
-         <a href="user-groups/workfront-system-maintenance.md"><strong>Workfront-systeemonderhoud</strong></a>
+         <a href="user-groups/workfront-system-maintenance.md"><strong> het Onderhoud van het Systeem van Workfront </strong></a>
 <!---         <br/><em>foo</em> -->
       </div>
       <p>
@@ -36,7 +36,7 @@ Een bibliotheek met opgenomen Workfront-gebeurtenissen waarbij experts en colleg
       <img alt="Rapportage en dashboards" src="assets/reporting-and-dashboards.png"/>
       </a>
       <div>
-         <a href="user-groups/reporting-and-dashboards.md"><strong>Rapportage en dashboards</strong></a>
+         <a href="user-groups/reporting-and-dashboards.md"><strong> Meldend &amp; dashboards </strong></a>
 <!---         <br/><em>foo</em> -->
       </div>
       <p>
@@ -49,7 +49,7 @@ Een bibliotheek met opgenomen Workfront-gebeurtenissen waarbij experts en colleg
       <img alt="Geniet van marketing" src="assets/agile-in-marketing.png"/>
       </a>
       <div>
-         <a href="user-groups/agile-in-marketing.md"><strong>Geniet van marketing</strong></a>
+         <a href="user-groups/agile-in-marketing.md"><strong> Grijs in Marketing </strong></a>
 <!---         <br/><em>foo</em> -->
       </div>
       <p>

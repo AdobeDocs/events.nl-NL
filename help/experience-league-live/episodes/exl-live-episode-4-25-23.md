@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Krijg gegevensinzameling en gebeurtenis door:sturen omhoog en lopend met enkel een paar klikken!
 
-**Nieuwe snelstartworkflows introduceren in Adobe Experience Platform-gegevensverzameling**
+**Introducerend nieuwe snelle beginwerkschema&#39;s in de gegevensinzameling van Adobe Experience Platform**
 
 Als u de moderne hulpmiddelen van de gegevensinzameling van Adobe nieuw bent en zenuwachtig om in het diepe eind te springen, kunt u nu met een basisinstallatie sneller dan ooit, met inbegrip van het verzenden van gebeurtenisgegevens naar Meta op de serverzijde aan. Met een paar klikken, zullen de snelle startwerkschema&#39;s van de gegevensinzameling van de Adobe veelvoudige dingen op het achtereind plaatsen om u tijd te besparen en uw opstelling te verzekeren correct is.
 
@@ -27,5 +27,5 @@ Als u de moderne hulpmiddelen van de gegevensinzameling van Adobe nieuw bent en 
 
 Start de bovenstaande video om een replay van deze live streamgebeurtenis weer te geven.
 
-Heb je daar vragen over? De discussie over dit onderwerp over Adobe Experience League voortzetten [Communautaire post](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-data/experience-league-live-post-session-discussion-get-data/m-p/589754#M476).
+Heb je daar vragen over? Ga verder de bespreking over dit onderwerp op de Adobe Experience League [ Communautaire post ](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-data/experience-league-live-post-session-discussion-get-data/m-p/589754#M476).
 

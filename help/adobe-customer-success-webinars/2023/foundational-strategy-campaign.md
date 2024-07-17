@@ -1,6 +1,6 @@
 ---
 title: Verbinden van de stippen - Foundationele Strategie voor Campagne Orchestratie
-description: De stichtingen van de organisatie van de Campagne de Rol van Campagne binnen Personalisatie @ Schaal Foundational Pillars & Guiding Principles Orchestration Best Practices Common Challen& Solutions
+description: Stichting van Campagneorganisatie De rol van Campagneorganisatie binnen Personalization @ Schaal Foundational Pillars & Guiding Principles Orchestration Best Practices Common Challen& Solutions
 solution: Campaign
 feature-set: Campaign
 feature: Personalization
@@ -21,9 +21,9 @@ ht-degree: 0%
 
 # Verbinden van de stippen - Foundationele Strategie voor Campagne Orchestratie
 
-*Stichting van de Campagneorganisatie*
+*Bevestigingen van de Orchestratie van de Campagne*
 
-* De rol van de organisatie van de Campagne binnen Personalisatie @ Schaal
+* De rol van de campagneorganisatie binnen Personalization @-schaal
 * Grondbeginselen en grondbeginselen
 * Best practices voor ordestratie van metingen
 * Algemene uitdagingen en oplossingen

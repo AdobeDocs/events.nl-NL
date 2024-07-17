@@ -1,6 +1,6 @@
 ---
 title: Dus je wilt Adobe Experience Cloud uitbreiden
-description: Wilt u de oplossingen van de Adobe uitbreiden gebruikend een moderne architectuur die voor veelvoudige oplossingen werkt? We vinden dat je Adobe Developer App Builder een poging moet geven. Deze sessie is afgeleverd als onderdeel van de Adobe Developers Live Content-gebeurtenis.
+description: Wilt u de oplossingen van de Adobe uitbreiden gebruikend een moderne architectuur die voor veelvoudige oplossingen werkt? We denken dat je Adobe Developer App Builder een poging moet doen. Deze sessie is afgeleverd als onderdeel van de Adobe Developers Live Content-gebeurtenis.
 solution: Experience Cloud
 topic: Development
 role: Developer
@@ -19,10 +19,10 @@ ht-degree: 0%
 
 # Wilt u Adobe Experience Cloud uitbreiden?
 
-Wilt u de oplossingen van de Adobe uitbreiden gebruikend een moderne architectuur die voor veelvoudige oplossingen werkt? We vinden dat je Adobe Developer App Builder een poging moet geven.
+Wilt u de oplossingen van de Adobe uitbreiden gebruikend een moderne architectuur die voor veelvoudige oplossingen werkt? We denken dat je Adobe Developer App Builder een poging moet doen.
 
-Doorgaan met gesprek in **[Experience League Gemeenschappen](https://adobe.ly/36Yd3v6)**.
+Ga het gesprek in **[Gemeenschappen van het Experience League ](https://adobe.ly/36Yd3v6)** voort.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331852/?quality=12&learn=on&hidetitle=true)
 
-Klikken **[hier](/help/adobe-developers-live/assets/extend-experience-cloud.pdf)** voor de sessiedia&#39;s
+Klik **[hier](/help/adobe-developers-live/assets/extend-experience-cloud.pdf)** voor de zittingsdia&#39;s.

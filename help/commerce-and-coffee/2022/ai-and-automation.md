@@ -1,5 +1,5 @@
 ---
-title: Handel en koffie - AI en Automatisering
+title: Commerce en koffie - AI en Automatisering
 description: Deze sessie gaat uitgebreid in op Adobe Commerce AI-mogelijkheden. Wij bespreken wat AI en Automation is, wat klanten zijn gekomen om te verwachten en waarom de ondernemingen het niet kunnen negeren. Corey doorloopt vervolgens een grondige demonstratie van Product Recommendations en Live Search binnen het Adobe Commerce-platform. De presentatie en de demo gaan vergezeld van een live Vragen en antwoorden met Corey.
 solution: Commerce
 topic: Commerce
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ---
 
-# Handel en koffie - AI en Automatisering
+# Commerce en koffie - AI en Automatisering
 
 Deze sessie gaat uitgebreid in op Adobe Commerce AI-mogelijkheden. Wij bespreken wat AI en Automation is, wat klanten zijn gekomen om te verwachten en waarom de ondernemingen het niet kunnen negeren. Corey doorloopt vervolgens een grondige demonstratie van Product Recommendations en Live Search binnen het Adobe Commerce-platform. De presentatie en de demo gaan vergezeld van een live Vragen en antwoorden met Corey.
 

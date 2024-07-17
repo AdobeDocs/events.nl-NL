@@ -17,19 +17,19 @@ ht-degree: 1%
 
 >[!VIDEO](https://video.tv.adobe.com/v/22255/?quality=9)
 
-*Afgeleverd op 18 april 2018*
+*Geleverd 18 April, 2018*
 
-**Gepresenteerd door**
+**Voorgesteld door:**
 
 Jonas Dahl, Product Manager, Adobe
 
-**Presenter-dia&#39;s**
+**de dia&#39;s van de Presentator**
 
 [Bestand ophalen](assets/aem+gems+ml+and+ai+in+aem+4+17+18.pdf)
 
 ## Bronnen {#resources}
 
-[Verbeterde slimme tags - AEM Assets](https://helpx.adobe.com/experience-manager/6-4/assets/using/enhanced-smart-tags.html)
+[ Verbeterde Slimme Markeringen - AEM Assets ](https://helpx.adobe.com/experience-manager/6-4/assets/using/enhanced-smart-tags.html)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
@@ -37,4 +37,4 @@ Jonas Dahl, Product Manager, Adobe
 
 >[!MORELIKETHIS]
 >
->* [Machine leren in AEM: verbeterde slimme tags, slimme lay-out en meer](aem-machine-learning.md)
+>* [ het Leren van de Machine in AEM: Verbeterde Slimme Markeringen, Slimme Lay-out en meer ](aem-machine-learning.md)

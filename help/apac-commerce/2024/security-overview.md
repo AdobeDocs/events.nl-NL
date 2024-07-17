@@ -28,32 +28,32 @@ Terwijl de veiligheid aan talrijke technische en bedrijfsfactoren gebonden is, l
 
 ## Toetsen
 
-**E-commerce Industrie Veiligheid**
+**E-commerce de Veiligheid van de Industrie**
 
 * Zeer doelgericht door cyberaanvallers voor diefstal van creditcardgegevens.
 
-**Adobe Commerce-veiligheidsmaatregelen**
+**de Veiligheidsmaatregelen van Adobe Commerce**
 
 * Actief versterking van de veiligheidsmaatregelen voor de bescherming van koopvaardijschepen.
 * adviseert tweefasenauthentificatie, het beperken van het API tarief, en beleid van de inhoudsveiligheid.
 
-**Aanbevolen werkwijzen voor beveiliging**
+**Beste praktijken van de Veiligheid**
 
 * Proactieve beveiligingsverbeteringen implementeren.
 * Blijf bijgewerkt met toepassingsupdates en beveiligingspatches.
 * Toezicht op veiligheidsbedreigingen en activeer systeemintegrators voor inbreukonderzoeken.
 * De kwetsbaarheid van het rapport door het programma van de insectvlechting.
 
-**Adobe Commerce-updates**
+**de Updates van Adobe Commerce**
 
 * Voer een upgrade uit naar de nieuwste releases om beveiligingsrisico&#39;s te verhelpen en ervoor te zorgen dat aan de vereisten wordt voldaan.
 
-**Snelle WAF-integratie van de volgende generatie**
+**de Snelle Integratie van WAF van de Volgende Generatie**
 
 * In uitvoering om de veiligheidsmaatregelen te verbeteren.
 * Collaboration met supportprofessionals voor het implementeren van Fastly-regels om kwaadwillige verzoeken te blokkeren.
 * De verwachte ETA voor de opname van WAF van volgende generatie in de vergunning is binnen het volgende kwartaal.
 
-**Effectieve strategieën**
+**Effectieve Strategieën**
 
 * Regels en strategieën implementeren om verschillende soorten kwaadwillige verzoeken doeltreffend te bestrijden.

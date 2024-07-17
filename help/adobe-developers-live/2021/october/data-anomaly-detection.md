@@ -1,6 +1,6 @@
 ---
-title: DataFacts - Het eerste hulpprogramma voor anomale detectie van gegevens van AEP is gebaseerd op App Builder
-description: Softcrylic gebruikt de Bouwer van de App van de Adobe om een toepassing te ontwikkelen die helpt gegevensinconsistenties binnen Adobe Experience Platform (AEP) identificeren
+title: DataFacts - Het eerste Data Anomaly Detection Tool van AEP is gebaseerd op App Builder
+description: Softcrylic gebruikt de App Builder van Adobe om een toepassing te ontwikkelen die helpt gegevensinconsistenties binnen Adobe Experience Platform (AEP) identificeren
 feature: Developer Tools
 topic: Development
 role: Developer, Architect
@@ -16,14 +16,14 @@ ht-degree: 8%
 
 ---
 
-# DataFacts - Het eerste hulpprogramma voor anomale detectie van gegevens van AEP is gebaseerd op App Builder
+# DataFacts - Het eerste Data Anomaly Detection Tool van AEP is gebaseerd op App Builder
 
-Softcrylic gebruikt de Bouwer van de App van de Adobe om een toepassing te ontwikkelen die helpt gegevensinconsistenties binnen Adobe Experience Platform (AEP) identificeren
+Softcrylic gebruikt de App Builder van Adobe om een toepassing te ontwikkelen die helpt gegevensinconsistenties binnen Adobe Experience Platform (AEP) identificeren
 
 >[!VIDEO](https://video.tv.adobe.com/v/337710/?quality=12&learn=on&hidetitle=true)
 
 ## Aanvullende bronnen
 
-- [Adobe Experience Platform-documentatie](https://experienceleague.adobe.com/docs/experience-platform.html)
-- [Adobe Experience Platform - Overzicht](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html)
+- [ Documentatie van Adobe Experience Platform ](https://experienceleague.adobe.com/docs/experience-platform.html)
+- [ het Overzicht van Adobe Experience Platform ](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html)
 - [Tutorials voor Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=nl)

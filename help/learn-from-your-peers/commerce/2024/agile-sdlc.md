@@ -20,7 +20,7 @@ ht-degree: 0%
 
 ---
 
-# Stroomlijnde e-commerce: een gerichte aanpak van communicatie, vereisten en tests in Agile SDLC
+# Stroomlijnen van E-Commerce: een gerichte aanpak van communicatie, vereisten en tests in Agile SDLC
 
 Doe mee met Adobe Commerce-expert en pleitbezorger, Tyler Granlund, omdat hij overstapt naar het stroomlijnen van e-commerce via de SDLC-praktijken (Agile Software Development Life Cycle).
 
@@ -30,6 +30,6 @@ In dit webinar leert u,
 * Uitmuntendheid testen - tips voor testprocedures die in verschillende fasen van toepassing zijn, zodat robuuste en betrouwbare websites voor e-handel kunnen worden ontwikkeld.
 * Belanghebbenden en teamcommunicatie - Tips voor het bevorderen van effectieve communicatie. De nadruk leggen op transparantie en verantwoordingsplicht als belangrijke drijvende krachten voor een succesvolle uitvoering van projecten.
 
-U hebt toegang tot de dia&#39;s [hier](../../assets/commerce/agile-sldc-slides.pdf){target="_blank"}.
+U kunt tot de dia&#39;s [ hier ](../../assets/commerce/agile-sldc-slides.pdf){target="_blank"} toegang hebben.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427501/?learn=on)

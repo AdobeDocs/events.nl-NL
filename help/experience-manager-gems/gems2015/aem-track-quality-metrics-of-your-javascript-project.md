@@ -22,17 +22,17 @@ Methodologie om sonarqube analyse aan projecten te integreren Javascript en zo t
 
 >[!VIDEO](https://video.tv.adobe.com/v/19372/?quality=9)
 
-*Geleverd op 9 december 2015*
+*Geleverde 9 December, 2015*
 
-**Gepresenteerd door**
+**Voorgesteld door:**
 
 * David Catalan, leider QE Developer, Adobe
 
-**Presenter-dia&#39;s**
+**de dia&#39;s van de Presentator**
 
 [Bestand ophalen](assets/aem-gems-js-quality-metrics-12-9-15.pdf)
 
-**Codevoorbeeld**
+**Steekproef van de Code**
 
 [Bestand ophalen](assets/com-adobe-granite-ui-utils-timing-with-licenses.zip)
 <!--

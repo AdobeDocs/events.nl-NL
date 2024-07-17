@@ -18,13 +18,13 @@ Leer hoe AEM DAM de metagegevens van elementen beheert. Leer de XMP standaard en
 
 >[!VIDEO](https://video.tv.adobe.com/v/19524/?quality=9)
 
-*Geleverd op 20 november 2013*
+*Geleverde November 20, 2013*
 
-**Gepresenteerd door**
+**Voorgesteld door:**
 
 Ugo Cei, Developer Technical Marketing Manager, Adobe
 
-**Presenter-dia&#39;s**
+**de dia&#39;s van de Presentator**
 
 [Bestand ophalen](assets/metadata-management-in-aem-dam.pdf)
 

@@ -1,6 +1,6 @@
 ---
 title: AEM Champion Office Hours - April Edition
-description: Word lid van ons voor de editie van april van AEM Champion Office Hours van Adobe, als panel van Adobe Experience Manager Champions, die beste praktijken bespreken, uiteinden delen en een live Q&A rondom AEM as a Cloud Service aangaan. Of u nu nieuw bent om te AEM, een vraag hebt over uw overgang naar Cloud Service, of eenvoudig wilt begrijpen hoe de overgang naar AEM as a Cloud Service de behoeften van uw organisatie kan dienen, u bent zeker om waardevolle inzichten van onze Kampioen van Adobe Experience Manager te verwerven.
+description: Word lid van ons voor de editie van april van AEM Champion Office Hours van Adobe, als panel van Adobe Experience Manager Champions, waar ze de beste praktijken bespreken, tips delen en een live Vragen en antwoorden in de omgeving van AEM as a Cloud Service volgen. Of u nu nieuw bent om te AEM, een vraag hebt over uw overgang naar Cloud Service, of eenvoudig wilt begrijpen hoe het overstappen naar AEM as a Cloud Service de behoeften van uw organisatie kan dienen, u bent zeker om waardevolle inzichten van onze Adobe Experience Manager Champions te verwerven.
 solution: Experience Manager
 feature-set: Experience Manager
 feature: Cloud Manager
@@ -21,8 +21,8 @@ ht-degree: 0%
 
 # AEM Champion Office Hours - April Edition
 
-Word lid van ons voor de editie van april van AEM Champion Office Hours van Adobe, als panel van [Adobe Experience Manager Champions |https://business.adobe.com/blog/the-latest/introducing-the-very-first-adobe-experience-manager-champion-class]bespreek beste praktijken, deel uiteinden, en begin aan een levende vraag &amp; A omringend AEM as a Cloud Service.
+Sluit zich bij ons aan voor de uitgave van April van AEM Bureau van Adobe, als paneel van [ Champions van Adobe Experience Manager |https://business.adobe.com/blog/the-latest/introducing-the-very-first-adobe-experience-manager-champion-class ] bespreek beste praktijken, aandeeluiteinden, en begin in een levende Q&amp;A omringende AEM as a Cloud Service.
 
-Of u nu nieuw bent om te AEM, een vraag hebt over uw overgang naar Cloud Service, of eenvoudig wilt begrijpen hoe de overgang naar AEM as a Cloud Service de behoeften van uw organisatie kan dienen, u bent zeker om waardevolle inzichten van onze Kampioen van Adobe Experience Manager te verwerven.
+Of u nu nieuw bent om te AEM, een vraag hebt over uw overgang naar Cloud Service, of eenvoudig wilt begrijpen hoe het overstappen naar AEM as a Cloud Service de behoeften van uw organisatie kan dienen, u bent zeker om waardevolle inzichten van onze Adobe Experience Manager Champions te verwerven.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419001/?learn=on)

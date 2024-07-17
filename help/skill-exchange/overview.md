@@ -18,7 +18,7 @@ De Makers van de ervaring de Uitwisseling van de Vaardigheid is een globale reek
 
 >[!TIP]
 >
->**Alle opgenomen sessies worden weergegeven in de navigatie aan de linkerkant**.
+>**Alle geregistreerde zittingen zijn vermeld in de navigatie op de linkerzijde**.
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -41,7 +41,7 @@ De Makers van de ervaring de Uitwisseling van de Vaardigheid is een globale reek
       <img alt="Analyses aan de slag" src="./assets/analytics-getting-started.png"/>
       </a>
       <div>
-         <a href="analytics/jun2021/getting-started.md"><strong>Aan de slag met Adobe Analytics</strong></a>
+         <a href="analytics/jun2021/getting-started.md"><strong> Aan de slag Adobe Analytics </strong></a>
 <!---         <br/><em>foo</em> -->
       </div>
       <p>
@@ -54,7 +54,7 @@ De Makers van de ervaring de Uitwisseling van de Vaardigheid is een globale reek
       <img alt="Gegevensonderhoud" src="./assets/data-maintenance.png"/>
       </a>
       <div>
-         <a href="marketo/feb2022/data-maintenance.md"><strong>Gegevensonderhoud</strong></a>
+         <a href="marketo/feb2022/data-maintenance.md"><strong> het Onderhoud van Gegevens </strong></a>
 <!---         <br/><em>foo</em> -->
       </div>
       <p>
@@ -67,7 +67,7 @@ De Makers van de ervaring de Uitwisseling van de Vaardigheid is een globale reek
       <img alt="10 tips voor wauw je Workfront" src="./assets/workfront-10-tips.png"/>
       </a>
       <div>
-         <a href="workfront/apr2022/ten-tips.md"><strong>10 tips voor wauw je Workfront</strong></a>
+         <a href="workfront/apr2022/ten-tips.md"><strong> 10 Uiteinden aan Wow Uw Workfront </strong></a>
 <!---         <br/><em>foo</em> -->
       </div>
       <p>

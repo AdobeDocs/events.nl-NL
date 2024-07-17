@@ -18,9 +18,9 @@ Met Adobe Experience Manager kunt u door de gebruiker gegenereerde en geschreven
 
 >[!VIDEO](https://video.tv.adobe.com/v/19383/?quality=9)
 
-*Geleverd op 3 december 2014*
+*Geleverde 3 December, 2014*
 
-**Gepresenteerd door**
+**Voorgesteld door:**
 
 * Akshay Madan, hoofd productmanager meertalig productbeheer en oplossingen, Adobe
 * Chris Wendt, Principal Group Program Manager Microsoft Translator, Microsoft
@@ -33,7 +33,7 @@ Presenter-dia&#39;s - Microsoft
 
 [Bestand ophalen](assets/adobe-microsoft-gems-12-03-14.pdf)
 
-**Sessievragen en -antwoorden**
+**Vragen en Antwoorden van de Zitting**
 
 [Bestand ophalen](assets/q-a-machine-translation-12-3-14.pdf)
 <!--

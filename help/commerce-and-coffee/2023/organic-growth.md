@@ -1,5 +1,5 @@
 ---
-title: Handel en koffie - Biologische groei
+title: Commerce en koffie - Organische groei
 description: In deze sessie bekijken we een aantal van de belangrijkste strategieën van de Adobe om een site voor eCommerce organisch te laten groeien. Wanneer het produceren van Organic Groei, is het noodzakelijk om het digitale ecosysteem van uw zaken als geheel te bekijken. We ontkennen zeven manieren om een eCommerce-bedrijf organisch te laten groeien vanuit SEO en sociale media om gebouwen en optimalisatie ter plaatse te koppelen. Corey voert een live demonstratie uit van Adobe Commerce-functies, zoals herschrijven van URL's, genereren van sitemap, canonieke metatags, metagegevens en meer. Zoals altijd sluiten we de sessie af met een live vraag en antwoord.
 solution: Commerce
 topic: Commerce
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 ---
 
-# Handel en koffie: Biologische groei
+# Commerce en koffie: organische groei
 
 In deze sessie bekijken we een aantal van de belangrijkste strategieën van de Adobe om een site voor eCommerce organisch te laten groeien. Wanneer het produceren van Organic Groei, is het noodzakelijk om het digitale ecosysteem van uw zaken als geheel te bekijken. We ontkennen zeven manieren om een eCommerce-bedrijf organisch te laten groeien vanuit SEO en sociale media om gebouwen en optimalisatie ter plaatse te koppelen. Corey voert een live demonstratie uit van Adobe Commerce-functies, zoals herschrijven van URL&#39;s, genereren van sitemap, canonieke metatags, metagegevens en meer. Zoals altijd sluiten we de sessie af met een live vraag en antwoord.
 

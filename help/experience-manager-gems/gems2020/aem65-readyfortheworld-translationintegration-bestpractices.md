@@ -16,16 +16,16 @@ ht-degree: 0%
 
 Deze sessie biedt de huidige AEM vertaalmogelijkheden en de beste praktijken voor het beheer van meertalige websites. U leert hoe u algemene websites kunt structureren en taalkopieën, live kopieën en MSM kunt gebruiken. De sessie gaat ook over hoe u met geavanceerde functies content eenvoudiger, sneller en beheerbaarder kunt vertalen.
 
-**Gepresenteerd door**
+**Voorgesteld door:**
 
 * Ankur Sial, computerwetenschapper, Adobe
 * Harpreet Neelu, Programmabeheerder, Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/31153?quality=9)
 
-*Geleverd 22-01-2020*
+*Geleverd 01/22/2020*
 
-**Presenter-dia&#39;s**
+**de dia&#39;s van de Presentator**
 
 [Bestand ophalen](assets/gems-2020-translations.pdf)
 

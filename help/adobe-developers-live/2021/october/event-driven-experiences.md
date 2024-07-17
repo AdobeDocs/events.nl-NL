@@ -20,12 +20,12 @@ ht-degree: 2%
 
 Elke Ondernemingen willen klantenervaringen leveren die tijdig, gericht, efficiënt en gepersonaliseerd zijn. Gebeurtenisgestuurde architecturen vormen een fundamenteel onderdeel van de ervaringsactiviteiten. EDA&#39;s stellen onze klanten in staat te reageren op veranderingen in status, gedrag en updates om workflows en beslissingen in vrijwel realtime te activeren. Adobe I/O Events ondersteunt interne leveranciers en productteams van Adoben door abonnementsbeheer van derden te bieden voor de gebeurtenissen die door deze providers worden uitgezonden. In deze sessie leert u meer over Aangepaste I/O-gebeurtenissen, die de EDA-mogelijkheden uitbreiden, doordat ontwikkelaars van derden externe gebeurtenissen kunnen genereren om te integreren met producten van de Adobe in een bidirectionele flow.
 
-Doorgaan met gesprek in **[Experience League Gemeenschappen](https://adobe.ly/3kXfjdx).**
+Ga het gesprek in **[Gemeenschappen van het Experience League ](https://adobe.ly/3kXfjdx) voort.**
 
 >[!VIDEO](https://video.tv.adobe.com/v/337616/?quality=12&learn=on&hidetitle=true)
 
 ## Aanvullende bronnen
 
-- [Adobe Experience Platform-documentatie](https://experienceleague.adobe.com/docs/experience-platform.html)
-- [Adobe Experience Platform - Overzicht](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html)
+- [ Documentatie van Adobe Experience Platform ](https://experienceleague.adobe.com/docs/experience-platform.html)
+- [ het Overzicht van Adobe Experience Platform ](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html)
 - [Tutorials voor Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=nl)

@@ -17,6 +17,8 @@ ht-degree: 0%
 
 # Een bovenste rechthoek doordringt zich in aangepaste objecten en snelheid
 
-Een-op-veel relationele gegevens plus een geteste sjabloonengine; het perfecte tagteam voor geavanceerde e-mailinhoud. Leer tactieken voor het ontwerpen van CO-schema&#39;s, sorteren, filteren en aggregeren van CO-records, het detecteren van record-updates en het integreren van pseudo-CO&#39;s met behulp van JSON. We zullen ook algemene snelheidskwesties behandelen, zoals het lokaliseren van datums, tijden en valuta.
+Een-op-veel relationele gegevens plus een geteste sjabloonengine; het perfecte tagteam voor geavanceerde e-mailinhoud. Meer informatie over CO
+schemaontwerp; sorteren, filteren en aggregeren van CO-records; het opsporen van record-updates; en het integreren van pseudo-CO&#39;s met behulp van JSON. We gaan
+behandelt ook algemene snelheidsvragen als het lokaliseren van datums, tijden en valuta.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340313/?quality=12&learn=on)

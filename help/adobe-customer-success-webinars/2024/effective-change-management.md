@@ -30,18 +30,18 @@ Maak kennis met de nuances van Change Management en geef strategische inzichten 
 
 ## Belangrijkste drie punten voor effectief wijzigingsbeheer
 
-**Essentiële aspecten van wijzigingsbeheer**
+**Essentiële Aspecten van het Beheer van de Verandering**
 
 * Met Wijzigingsbeheer worden organisatorische doelstellingen afgestemd op individuele prestaties.
 * Verbetert behendigheid en verbetert efficiency binnen de organisatie.
 
-**Kerncompetenties voor effectief wijzigingsbeheer**
+**Kerncompetenties voor het Effectieve Beheer van de Verandering**
 
 * De betrokkenheid van belanghebbenden is van cruciaal belang.
 * Effectieve communicatie is essentieel.
 * Opleiding en ondersteuning zijn nodig voor een geslaagde adoptie van wijzigingen.
 
-**Het overwinnen van Uitdagingen in het Beheer van de Verandering**
+**Overkomende Uitdagingen in het Beheer van de Verandering**
 
 * Aanpakken van veranderingsvermoeidheid en resistentiebeheer.
 * Het definiëren van succesmetriek is cruciaal.

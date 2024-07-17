@@ -22,7 +22,7 @@ ht-degree: 0%
 
 # Uw bedrijf stroomlijnen met de PaaS Cloud Commerce van Adobe
 
-In de meest recente versie van de APAC Commerce Webinar Series, onderzoeken wij de waarde van de oplossing van PaS van de Commerce Cloud van de Adobe. Voor iedereen die zichzelf en nieuwsgierig waarneemt om te weten wat een oplossing PaaS hen zou kunnen aanbieden, is dit webinar voor u. Als u al een Adobe Commerce Cloud-klant bent, kunt u zich bij ons voegen voor meer informatie over hoe u de waarde van uw bestaande installatie kunt maximaliseren.
+In de meest recente versie van de APAC Commerce Webinar-reeks onderzoeken we de waarde van de Commerce Cloud PaaS-oplossing van de Adobe. Voor iedereen die zichzelf en nieuwsgierig waarneemt om te weten wat een oplossing PaaS hen zou kunnen aanbieden, is dit webinar voor u. Als u al een Adobe Commerce Cloud-klant bent, kunt u zich bij ons voegen voor meer informatie over hoe u de waarde van uw bestaande installatie kunt maximaliseren.
 
 U zult van een van onze klanten, Panatrade, de toonaangevende sportkleding distributeur in Indonesië, horen hoe ze hun reis van de winkel naar Adobe Commerce Cloud maken en hoe ze de vruchten plukken van de overgang naar een volledig geoptimaliseerde en beheerde oplossing voor hun e-commerce-activiteiten.
 

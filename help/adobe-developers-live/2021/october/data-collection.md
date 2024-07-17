@@ -1,6 +1,6 @@
 ---
 title: Gegevensverzameling voor digitale ervaringen - Clientprestaties en de kracht van serverintegratie
-description: Digitale ervaringen op internet en mobiele apparatuur veranderen snel en dat geldt ook voor uw tools. Kom te zien wat Adobe doet in de Technologie van de Rand om prestaties te verbeteren en ontwikkelaars en patronen toe te staan om code aan één van 's werelds grootste infrastructuur van de gegevensinzameling op te stellen.
+description: Digitale ervaringen op internet en mobiele apparatuur veranderen snel en dat geldt ook voor uw tools. Kom te zien wat Adobe doet in de Technologie van Edge om prestaties te verbeteren en ontwikkelaars en patronen toe te staan om code aan één van 's werelds grootste infrastructuur van de gegevensinzameling op te stellen.
 solution: Data Collection
 feature: Web SDK, Debugger, Tags, Event Forwarding
 topic: Development
@@ -19,12 +19,12 @@ ht-degree: 5%
 
 # Gegevensverzameling voor digitale ervaringen - Clientprestaties en de kracht van serverintegratie
 
-Digitale ervaringen op internet en mobiele apparatuur veranderen snel en dat geldt ook voor uw tools. Kom te zien wat Adobe doet in de Technologie van de Rand om prestaties te verbeteren en ontwikkelaars en patronen toe te staan om code aan één van &#39;s werelds grootste infrastructuur van de gegevensinzameling op te stellen.
+Digitale ervaringen op internet en mobiele apparatuur veranderen snel en dat geldt ook voor uw tools. Kom te zien wat Adobe doet in de Technologie van Edge om prestaties te verbeteren en ontwikkelaars en patronen toe te staan om code aan één van &#39;s werelds grootste infrastructuur van de gegevensinzameling op te stellen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337584/?quality=12&learn=on&hidetitle=true)
 
 ## Aanvullende bronnen
 
-- [Adobe Experience Platform-documentatie](https://experienceleague.adobe.com/docs/experience-platform.html)
-- [Adobe Experience Platform - Overzicht](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html)
+- [ Documentatie van Adobe Experience Platform ](https://experienceleague.adobe.com/docs/experience-platform.html)
+- [ het Overzicht van Adobe Experience Platform ](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html)
 - [Tutorials voor Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=nl)

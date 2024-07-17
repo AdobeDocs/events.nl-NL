@@ -22,17 +22,17 @@ David introduceert u aan de Wijze van de Ontwikkelaar in AEM 6.O. De modus Ontwi
 
 >[!VIDEO](https://video.tv.adobe.com/v/19501/?quality=9)
 
-*Geleverd op 16 juli 2014*
+*Geleverde 16 Juli, 2014*
 
-**Gepresenteerd door**
+**Voorgesteld door:**
 
 David Catalan, QE Developer, Adobe
 
-**Presenter-dia&#39;s**
+**de dia&#39;s van de Presentator**
 
 [Bestand ophalen](assets/aem-6-developer-mode-07-16-14.pdf)
 
-**Sessievragen en -antwoorden**
+**Vragen en Antwoorden van de Zitting**
 
 [Bestand ophalen](assets/q-a-developer-mode-7-16-14.pdf)
 <!--

@@ -18,9 +18,9 @@ Met Adobe Experience Manager 6.2 is een nieuwe sjablooneditor geïntroduceerd di
 
 >[!VIDEO](https://video.tv.adobe.com/v/19300/?quality=9)
 
-*Geleverd op 14 september 2016*
+*Geleverde 14 September, 2016*
 
-**Gepresenteerd door**
+**Voorgesteld door:**
 
 * Patrick Fauchere, software engineer, Adobe
 
@@ -28,7 +28,7 @@ Chatexpert
 
 * Gabriel Walt, productmanager, Adobe
 
-**Presenter-dia&#39;s**
+**de dia&#39;s van de Presentator**
 
 [Bestand ophalen](assets/aem-gems-91416-template-editor.pdf)
 
@@ -36,6 +36,6 @@ Chatexpert
 
 >[!WARNING]
 >
->AEM versies 6.4 en ouder zijn End of Life en worden niet meer door de Adobe verkocht.  Adobe raadt u aan een upgrade naar de nieuwste versie uit te voeren - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  Gearchiveerde versies van de documentatie zijn vanuit deze [page](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html).
+>AEM versies 6.4 en ouder zijn End of Life en worden niet meer door de Adobe verkocht.  De Adobe adviseert bevordering aan de recentste versie - [ Adobe Experience Manager as a Cloud Service ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  De gearchiveerde versies van de documentatie kunnen van deze [ pagina ](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html) worden betreden.
 >
->Zie voor meer informatie *Paginasjablonen* en *Paginasjablonen maken* in de AEM 6.2 documentatie.
+>Aangezien het op deze zitting betrekking heeft gelieve te zien *Malplaatjes van de Pagina* en *Creërend de Malplaatjes van de Pagina* in de AEM 6.2 documentatie.

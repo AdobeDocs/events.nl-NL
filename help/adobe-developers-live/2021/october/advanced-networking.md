@@ -23,12 +23,12 @@ De migratie van de wolk kan uitdagend zijn wanneer andere diensten op-gebouw of 
 
 Wij zullen tonen hoe te om een specifieke ip of een verbinding van VPN te verzoeken, die de opties verklaren die aan klanten beschikbaar zijn.
 
-Doorgaan met gesprek in **[Experience League Gemeenschappen](https://adobe.ly/3EUTdAo)**.
+Ga het gesprek in **[Gemeenschappen van het Experience League ](https://adobe.ly/3EUTdAo)** voort.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337898/?quality=12&learn=on&hidetitle=true)
 
 ## Aanvullende bronnen
 
-- [Adobe Experience Manager-documentatie](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
-- [Overzicht Adobe Experience Manager Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html)
-- [Adobe Experience Manager Tutorials](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html)
+- [ Documentatie van Adobe Experience Manager ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
+- [ het Overzicht van de Cloud Service van Adobe Experience Manager ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html)
+- [ Tutorials van Adobe Experience Manager ](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html)

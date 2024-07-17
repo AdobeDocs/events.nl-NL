@@ -20,10 +20,10 @@ ht-degree: 0%
 
 # Een overzicht van twee percepties - merken versus consumenten
 
-Tegenwoordig zijn marketers in de wirwar van informatie die gewijd is aan identiteitspraktijken. En slechts 37% van de marketingprofessionals zei dat ze erg voorbereid zijn op een toekomst zonder cookie, volgens recent onderzoek van de Adobe en [!DNL Advanis]. In deze webinar-Adobe wordt het begrip en gereedheidsniveau van adverteerders en uitgevers voor een toekomst zonder cookie, de impact op hun gebruiksgevallen en hun perceptie van het bredere ecosysteem ontvouwen.
+Tegenwoordig zijn marketers in de wirwar van informatie die gewijd is aan identiteitspraktijken. En slechts 37% van de marketingprofessionals zei dat ze erg voorbereid zijn op een toekomst zonder cookie, volgens recent onderzoek van de Adobe en [!DNL Advanis] . In deze webinar-Adobe wordt het begrip en gereedheidsniveau van adverteerders en uitgevers voor een toekomst zonder cookie, de impact op hun gebruiksgevallen en hun perceptie van het bredere ecosysteem ontvouwen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332060/?quality=12&learn=on)
 
-Als u deze video wilt aanvullen, kunt u ook [een whitepaper downloaden](./../assets/whitepaper-a-tale-of-two-perceptions.pdf)
+Om deze video aan te vullen, kunt u ook [ een whitepaper ](./../assets/whitepaper-a-tale-of-two-perceptions.pdf) downloaden
 
-*Een jaar later: bijgewerkte inzichten over*<a href="https://business.adobe.com/blog/perspectives/a-tale-of-two-perceptions-readiness-for-a-cookieless-future"> business.adobe.com </a>*.*
+*Één jaar later: Bijgewerkte inzichten op*<a href="https://business.adobe.com/blog/perspectives/a-tale-of-two-perceptions-readiness-for-a-cookieless-future"> business.adobe.com </a>*.*

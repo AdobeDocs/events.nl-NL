@@ -18,23 +18,23 @@ HTML is een nieuwe sjabloonengine en taalimplementatie. HTML streeft ernaar JSP 
 
 >[!VIDEO](https://video.tv.adobe.com/v/19504/?quality=9)
 
-*Geleverd op 25 juni 2014*
+*Geleverd 25 Juni, 2014*
 
-**Gepresenteerd door**
+**Voorgesteld door:**
 
 Gabriel Walt, productmanager, Adobe
 
-**Presenter-dia&#39;s**
+**de dia&#39;s van de Presentator**
 
 [Bestand ophalen](assets/sightly-component-development.pdf)
 
-**Sessievragen en -antwoorden**
+**Vragen en Antwoorden van de Zitting**
 
 [Bestand ophalen](assets/introduction-to-sightly-q-as.pdf)
 
 ## Verwante koppelingen {#related-links}
 
-[Ontwikkelen met HTML](https://docs.adobe.com/docs/en/htl/overview.html?wcmmode=disabled)
+[ het Ontwikkelen met HTML ](https://docs.adobe.com/docs/en/htl/overview.html?wcmmode=disabled)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

@@ -20,23 +20,23 @@ Replicatie is een centrale functie in AEM omdat hierdoor geschreven inhoud kan w
 
 >[!VIDEO](https://video.tv.adobe.com/v/19282/?quality=9)
 
-*Geleverd op 26 juli 2017*
+*Geleverde 26 Juli, 2017*
 
-**Tommaso Teofili, Developer, Adobe**
+**Tommaso Teofili, Ontwikkelaar, Adobe**
 
-**Presenter-dia&#39;s**
+**de dia&#39;s van de Presentator**
 
 [Bestand ophalen](assets/aem-gems-troubleshooting-aem-replication.pdf)
 
 ## Verwante koppelingen {#related-links}
 
-* [AEM 6.3 replicatie](https://docs.adobe.com/docs/en/aem/6-3/deploy/configuring/replication.html)
-* [AEM 6.2 replicatie](https://docs.adobe.com/docs/en/aem/6-2/deploy/configuring/replication.html)
-* [AEM 6.1-replicatie](https://docs.adobe.com/docs/en/aem/6-1/deploy/configuring/replication.html)
-* [AEM 6.0-replicatie](https://docs.adobe.com/docs/en/aem/6-0/deploy/configuring/replication.html)
+* [ AEM 6.3 Replicatie ](https://docs.adobe.com/docs/en/aem/6-3/deploy/configuring/replication.html)
+* [ AEM 6.2 Replicatie ](https://docs.adobe.com/docs/en/aem/6-2/deploy/configuring/replication.html)
+* [ AEM 6.1 Replicatie ](https://docs.adobe.com/docs/en/aem/6-1/deploy/configuring/replication.html)
+* [ AEM 6.0 Replicatie ](https://docs.adobe.com/docs/en/aem/6-0/deploy/configuring/replication.html)
 
 >[!MORELIKETHIS]
 >
->* [Indexeren en JCR-query AEM](aem-indexing-jcr-query.md)
->* [Problemen met AEM replicatie oplossen](aem-troubleshooting-aem-replication.md)
+>* [ AEM het Indexeren en Vraag JCR ](aem-indexing-jcr-query.md)
+>* [ het Oplossen van problemen AEM Replicatie ](aem-troubleshooting-aem-replication.md)
 <!-- >>* [Adobe Experience Manager: AEM 6.x Maintenance Tasks](https://helpx.adobe.com/experience-manager/kt/eseminars/ccoo-aem-Aug-register.html) -->

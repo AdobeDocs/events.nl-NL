@@ -21,7 +21,7 @@ ht-degree: 0%
 >[!VIDEO](https://video.tv.adobe.com/v/3427704/?learn=on)
 
 **Gematigd door** Chris Willis
-**Luidsprekers** Courtny Edwards-Jones en Jane Musatova
+**Sprekers** Courtny Edwards-Jones en Jane Musatova
 
 ## Overzicht
 

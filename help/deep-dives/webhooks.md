@@ -8,13 +8,13 @@ doc-type: Event
 duration: 3185
 last-substantial-update: 2024-04-25T00:00:00Z
 jira: KT-15385
-source-git-commit: 8fdbc89be6e17116ef4f3fe1c3a0465783fa63f4
+exl-id: d8e22e01-724a-4b0c-855b-0adb29e98d30
+source-git-commit: 0dfaa269fd25df0845c4eeee442fb2859492b543
 workflow-type: tm+mt
 source-wordcount: '374'
 ht-degree: 0%
 
 ---
-
 
 # Webhaken gebruiken om gegevens over te dragen
 

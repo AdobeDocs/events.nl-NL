@@ -28,19 +28,19 @@ Carly leidt ook een live demonstratie en begeleidt u door het opzetten van een b
 ## Top 3 Key Takeaways on Lead Nurturturturturturturturturing
 
 
-**Het belang van de onrust op de lood**
+**Belang van het Loodgenezen**
 
 * Loodvoeding is van cruciaal belang voor het opbouwen van effectieve relaties met potentiële klanten.
 * Het omvat het delen van middelen, het verstrekken van nuttige informatie, het opleiden van producten en de diensten, en het personaliseren van interactie.
 * Helpt de neiging van een vooruitzicht te verhogen om te kopen, vertrouwen te bouwen, merk en gedacht leiderschap te verbeteren, en de verkoopcyclus te verkorten.
 
-**Strategieën voor effectieve sturing van lood**
+**Strategieën voor het Effectieve Loodgenezing**
 
 * Definieer duidelijke doelstellingen, lijn marketing en verkoop inspanningen, identificeer doelpubliek, en segmentgegevens effectief.
 * Selecteer de juiste typen campagnes, gebruik bestaande inhoud opnieuw, maak nieuwe inhoud en gebruik gereedschappen zoals Marketo.
 * Bestaande inhoud gebruiken, publiek segmenteren, inhoud personaliseren, optimaliseren op basis van prestatiemetriek en het succes meten.
 
-*E-mailcampagnes en besluitvorming optimaliseren*
+*Optimizing Email Campaigns en besluit-Making*
 
 * U kunt overwegen geneste programma&#39;s of gebeurtenissen te gebruiken om programmasjablonen te maken voor complexe e-mailcampagnes.
 * Het besluit om het opvoeden van de leiding te stoppen, afstemmen op het doel van de opvoedingscampagne.

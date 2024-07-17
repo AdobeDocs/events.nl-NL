@@ -1,5 +1,5 @@
 ---
-title: Vakantiereedheid met de Commerce Intelligence
+title: Gereedheid voor feestdagen met Commerce Intelligence
 description: Bekijk dit webinar om te leren hoe u uw eCommerce-gegevens kunt gebruiken voor succes tijdens het feestseizoen.
 landing-page-description: Bekijk dit geregistreerde webinar om te leren hoe u uw gegevens van de eCommerce voor succes tijdens het vakantieseizoen kunt gebruiken.
 short-description: Bekijk dit geregistreerde webinar om te leren hoe u uw gegevens van de eCommerce voor succes tijdens het vakantieseizoen kunt gebruiken.
@@ -17,11 +17,11 @@ ht-degree: 0%
 
 ---
 
-# Vakantiereedheid met de Commerce Intelligence
+# Gereedheid voor feestdagen met Commerce Intelligence
 
 >[!NOTE]
 >
->Adobe Commerce Intelligence stond voorheen bekend als [!DNL Magento Business Intelligence (MBI)]. Opnamen voor gebeurtenissen uit het verleden geven de vorige naam weer.
+>Adobe Commerce Intelligence stond eerder bekend als [!DNL Magento Business Intelligence (MBI)] . Opnamen voor gebeurtenissen uit het verleden geven de vorige naam weer.
 
 Gebruik uw eCommerce-gegevens voor succes tijdens het feestseizoen. In dit webinar worden enkele gebruikelijke gevallen en methoden voor seizoensanalyse beschreven die worden gebruikt om deze aan te pakken met behulp van belangrijke MBI-functies, zoals:
 
@@ -40,5 +40,5 @@ Gebruik uw eCommerce-gegevens voor succes tijdens het feestseizoen. In dit webin
 
 ## Nuttige bronnen
 
-[Handboek voor informatie over handel](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=nl)
-[Commerce Intelligence-ondersteuning](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html)
+[ de Gids van de Gebruiker van Commerce Intelligence ](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=nl)
+[ Steun van Commerce Intelligence ](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html)

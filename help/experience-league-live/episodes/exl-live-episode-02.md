@@ -23,5 +23,5 @@ Doe mee aan een discussie met drie experts van de Adobe die u helpen deze techno
 
 >[!VIDEO](https://video.tv.adobe.com/v/336422/?quality=12&learn=on)
 
-Als u deze sessie wilt bespreken, gaat u naar de [discussie in de Gemeenschap Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/questions-and-discussion-for-experience-league-live-ep-2-make/m-p/420645#M68){target="_blank"}.
+Om deze zitting te bespreken, gelieve de [ bespreking in de Gemeenschap van het Experience League ](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/questions-and-discussion-for-experience-league-live-ep-2-make/m-p/420645#M68) te bezoeken {target="_blank"}.
 

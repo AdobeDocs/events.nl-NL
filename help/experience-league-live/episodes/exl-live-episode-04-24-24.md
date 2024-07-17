@@ -22,12 +22,12 @@ Activeer binnenkomende oppervlakten en korrelige verpersoonlijkingscontrole met 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428095/?quality=12&learn=on)
 
-**Details**: Code-based Experience Channel in Adobe Journey Optimizer biedt enorme mogelijkheden en nieuwe gebruiksgevallen voor merken die hun personalisatie- en experimentatieprogramma&#39;s verbouwen. Dit nieuwe kanaal laat teams toe om verpersoonlijkingscontrole te verhogen gebruikend HTML of op code-gebaseerde acties JSON met de capaciteit om korrelige aspecten van inheemse toepassingen te veranderen. Code-Gebaseerd Ervingenkanaal breidt flexibiliteit en prestaties voor cliënt-kant, server-kant, hybride, en op API-Gebaseerde implementaties uit.
+**Details**: Code-Gebaseerd het Kanaal van de Ervaring in Adobe Journey Optimizer opent enorme kansen en nieuwe gebruiksgevallen voor merken die hun verpersoonlijking en experimenteringsprogramma&#39;s kweken. Dit nieuwe kanaal laat teams toe om verpersoonlijkingscontrole te verhogen gebruikend HTML of op code-gebaseerde acties JSON met de capaciteit om korrelige aspecten van inheemse toepassingen te veranderen. Code-Gebaseerd Ervingenkanaal breidt flexibiliteit en prestaties voor cliënt-kant, server-kant, hybride, en op API-Gebaseerde implementaties uit.
 
 In dit Experience League Live aflevering vindt u samen met productdeskundigen Robert Calangiu en Brent Kostak nieuwe mogelijkheden en gebruiksscenario&#39;s voor op code gebaseerd Erviteitskanaal. Leer hoe ontwikkelaars, productmanagers, en marketers statische en dynamische inhoud kunnen samenstellen en leveren over Web, mobiel, TV-verbonden apparaten, kiosken, ATMs, en meer!
 
->[!BEGINSHADEBOX &quot;Heb je vragen?&quot;]
+>[!BEGINSHADEBOX  &quot;Heb vragen?&quot;]
 
-**De discussie over dit onderwerp over Adobe Experience League voortzetten [Communautaire post](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-new-code-based/m-p/668305#M205){target="_blank"}.**
+**zet de bespreking over dit onderwerp op Adobe Experience League [ Communautaire post ](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-new-code-based/m-p/668305#M205) {target="_blank"} voort.**
 
 >[!ENDSHADEBOX]

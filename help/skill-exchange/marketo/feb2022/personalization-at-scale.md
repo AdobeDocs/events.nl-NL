@@ -1,6 +1,6 @@
 ---
-title: Personalisatie op schaal
-description: De kracht van Adobe benutten [!DNL Marketo Engage], personaliseer verder dan tokens.
+title: Personalization op schaal
+description: Maak de macht van Adobe  [!DNL Marketo Engage], personaliseer voorbij tokens.
 solution: Marketo Engage
 role: User
 level: Beginner
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 ---
 
-# Personalisatie op schaal - de kracht van de Adobe benutten [!DNL Marketo Engage] Betrokkenheid voor gegevens naar schijf
+# Personalization op schaal - de kracht van Adobe [!DNL Marketo Engage] -gegevens benutten om betrokkenheid te stimuleren
 
-Aan de slag met het personaliseren van outreach is eenvoudig genoeg met tokens en dergelijke, maar hoe zit het met het feit dat je je personalisatie verder wilt aanpassen dan tokens toestaan? Adobe [!DNL Marketo Engage] kan u zoveel informatie over uw vooruitzichten verzamelen, en het gebruiken van deze informatie kan één van de krachtigste manieren zijn om outreach te personaliseren, opvallen in onoverzichtelijke inboxes, en vooruitgangsvooruitzichten door de trechter te helpen. In deze zitting zullen wij behandelen:
+Aan de slag met het personaliseren van outreach is eenvoudig genoeg met tokens en dergelijke, maar hoe zit het met het feit dat je je personalisatie verder wilt aanpassen dan tokens toestaan? Met Adobe [!DNL Marketo Engage] kunt u zoveel informatie over uw perspectieven verzamelen. Het gebruik van deze informatie kan een van de krachtigste manieren zijn om outreach te personaliseren, in onoverzichtelijke vakken op te vallen en vooruitgangsperspectieven in de trechter te helpen. In deze zitting zullen wij behandelen:
 
 * Ideeën voor personalisatie na tokens
 * Verschillende gevallen voor personalisatiegebruik

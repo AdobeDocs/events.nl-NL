@@ -19,15 +19,15 @@ Alles begint met de Adobe Experience Platform. Ontdek hoe het platform een rol i
 Leer in deze sessie hoe:
 
 * De componenten waaruit Adobe Experience Platform bestaat - Data Services
-* De Werkruimte van de Wetenschap van Gegevens verbetert dramatisch het ontwerp en de levering van rijke klantenervaringen
+* Data Science Workspace verbetert het ontwerp en de levering van rijke ervaringen van klanten aanzienlijk
 * Eerste stappen voor integratie met Adobe Experience Platform en het gebruik van het Experience Data Model
 * Huidige en toekomstige integratieopties voor externe ontwikkelaars
 
 >[!VIDEO](https://video.tv.adobe.com/v/23270/?quality=9)
 
-*Geboden 08-08-2018*
+*Geleverd 08/08/2018*
 
-**Gepresenteerd door**
+**Voorgesteld door:**
 
 Klaasjan Tukker, Director Product Management, Adobe
 

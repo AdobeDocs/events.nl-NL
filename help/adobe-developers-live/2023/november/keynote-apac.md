@@ -1,6 +1,6 @@
 ---
 title: Developers Live APAC Keynote
-description: Word op 14 november 2023 lid van Mark Szulc, Hoofd productmanager & regionale medewerker van APAC, en Ron Nagy, Senior Evangelist, voor het Adobe Experience Manager Keynote.
+description: Word op 14 november 2023 lid van Mark Szulc, Hoofd productmanager en regionale medewerker van APAC, en Ron Nagy, Senior Evangelist, voor het Adobe Experience Manager Keynote tijdens Adobe Developers Live APAC - Content en Commerce.
 solution: Commerce, Experience Manager as a Cloud Service
 topic: Development
 role: Admin, Developer

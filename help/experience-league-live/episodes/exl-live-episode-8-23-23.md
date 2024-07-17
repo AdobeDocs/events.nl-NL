@@ -28,7 +28,7 @@ Met API Gedragsde Campagnes, kunnen de ondernemingen een campagne plaatsen en he
 
 In deze live sessie van Experience League zullen productdeskundigen van Adoben uitleggen hoe u zaken voor transactie- en marketinggebruik kunt uitvoeren met de mogelijkheden voor via API gestuurde berichten in AJO.
 
-**Klik op de bovenstaande afbeelding om de show te bekijken!**
+**klik op het beeld hierboven om op de show te letten!**
 
-Doorgaan met de discussie over de [Communautaire post Experience League](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-api-triggered/m-p/614273#M132).
+Ga verder de bespreking over het [ Communautaire post van de Experience League ](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-api-triggered/m-p/614273#M132).
 

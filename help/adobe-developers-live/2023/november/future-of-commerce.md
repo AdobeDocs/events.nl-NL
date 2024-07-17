@@ -1,6 +1,6 @@
 ---
 title: De toekomst van de handel (Gen AI en 3D)
-description: Laat de toekomst van Adobe Commerce los! Ontdek onze geavanceerde presentatie over de nieuwste verbeteringen in ons handelsplatform, aangedreven door generatieve AI- en 3D-technologie. Leer hoe deze innovaties de betrokkenheid van klanten herdefiniëren en bedrijfssucces stimuleren.
+description: Laat de toekomst van Adobe Commerce los! Ontdek onze geavanceerde presentatie over de nieuwste verbeteringen in ons Commerce-platform, aangedreven door generatieve AI- en 3D-technologie. Leer hoe deze innovaties de betrokkenheid van klanten herdefiniëren en bedrijfssucces stimuleren.
 solution: Commerce
 feature-set: Commerce
 feature: Site Management
@@ -22,6 +22,6 @@ ht-degree: 0%
 
 # De toekomst van de handel (Gen AI en 3D)
 
-Laat de toekomst van Adobe Commerce los! Ontdek onze geavanceerde presentatie over de nieuwste verbeteringen in ons handelsplatform, aangedreven door generatieve AI- en 3D-technologie. Leer hoe deze innovaties de betrokkenheid van klanten herdefiniëren en bedrijfssucces stimuleren.
+Laat de toekomst van Adobe Commerce los! Ontdek onze geavanceerde presentatie over de nieuwste verbeteringen in ons Commerce-platform, aangedreven door generatieve AI- en 3D-technologie. Leer hoe deze innovaties de betrokkenheid van klanten herdefiniëren en bedrijfssucces stimuleren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426312/?learn=on)
