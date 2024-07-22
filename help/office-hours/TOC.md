@@ -2,9 +2,9 @@
 user-guide-title: Kantooruren Adobe
 user-guide-breadcrumb: Adobe Office Hours
 user-guide-description: De Uren van het bureau is een pro-actieve benadering van gevalvervorming door klanten oplossing-specifieke webinars aan te bieden.
-source-git-commit: 142e427ea8c6406b869dcb50db5f0f08a034e273
+source-git-commit: 3853bd9eb1464cf41b54d09ffb7c5b6a466a5dcd
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '98'
 ht-degree: 8%
 
 ---
@@ -36,3 +36,6 @@ ht-degree: 8%
       + [JavaScript Library Overview, Debugging Tips &amp; Tricks](2023/target-debugging-tips-and-tricks.md)
    + Workfront {#workfront-office-hours}
       + [Dubbele contactpersonen corrigeren](2023/workfront-fix-duplicate-contacts.md)
+      + [Goedkeuringsrapporten proefdrukken](2023/workfront-proof-approval-reports.md)
+
+
