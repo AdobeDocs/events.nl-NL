@@ -2,9 +2,9 @@
 user-guide-title: Adobe Experience League-gebeurtenisopnamen
 user-guide-breadcrumb: Event Recordings
 user-guide-description: Een verzameling gebeurtenisopnamen die zijn geforceerd bij het gebruik van Adobe Enterprise-producten
-source-git-commit: 3685a942f3027d41a891ce8830afb085e328a97c
+source-git-commit: a336f9d76d0b270694eb2d911c3c65d1fbe27d40
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '374'
 ht-degree: 2%
 
 ---
@@ -31,7 +31,7 @@ ht-degree: 2%
    + [ Overzicht van de Versie van de Experience Manager ](https://experienceleague.adobe.com/docs/events/aemcs-release-update-recordings/overview.html)
    + [ leer van uw Peers ](https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html)
    + [ Marketo en Mochas ](https://experienceleague.adobe.com/docs/events/marketo-and-mochas-recordings/overview.html)
-   + [ Uren van het Bureau ](https://experienceleague.adobe.com/docs/events/office-hours/overview.html)
+   + [ de Technische Zittingen van het Experience Cloud ](https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html)
    + [ Bouwer van de Vaardigheid ](https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html)
    + [ Uitwisseling van de Vaardigheid ](https://experienceleague.adobe.com/docs/events/the-skill-exchange-recordings/overview.html)
    + [ Workfront ](https://experienceleague.adobe.com/docs/events/workfront-recordings/overview.html)
@@ -46,13 +46,13 @@ ht-degree: 2%
       + [ Webinars van het Succes van de Klant van de Adobe ](https://experienceleague.adobe.com/docs/events/adobe-customer-success-webinar-recordings/overview.html)
       + [ Levend Experience League ](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html)
       + [ leer van uw Peers ](https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html)
-      + [ Uren van het Bureau ](https://experienceleague.adobe.com/docs/events/office-hours/overview.html)
+      + [ de Technische Zittingen van het Experience Cloud ](https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html)
       + [ Bouwer van de Vaardigheid ](https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html)
       + [ Uitwisseling van de Vaardigheid ](https://experienceleague.adobe.com/docs/events/the-skill-exchange-recordings/overview.html)
    + Adobe Campaign {#ac}
       + [ Adobe Campaign Insider Reeksen ](https://experienceleague.adobe.com/docs/events/adobe-campaign-insider-recordings/overview.html)
       + [ Adobe Developers Live ](https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html)
-      + [ Uren van het Bureau ](https://experienceleague.adobe.com/docs/events/office-hours/overview.html)
+      + [ de Technische Zittingen van het Experience Cloud ](https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html)
       + [ Bouwer van de Vaardigheid ](https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html)
    + Adobe Commerce {#acommerce}
       + [ de Updates van het Product van Adobe Commerce ](https://experienceleague.adobe.com/docs/events/adobe-commerce-product-update-recordings/overview.html)
@@ -60,7 +60,7 @@ ht-degree: 2%
       + [ APAC Commerce Gebeurtenissen ](https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/overview.html)
       + [ Commerce en Koffie ](https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html)
       + [ Webinars van Adobe Commerce Intelligence ](https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/overview.html)
-      + [ Uren van het Bureau ](https://experienceleague.adobe.com/docs/events/office-hours/overview.html)
+      + [ de Technische Zittingen van het Experience Cloud ](https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html)
       + [ Bouwer van de Vaardigheid ](https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html)
    + Adobe Customer Journey Analytics {#cja}
       + [ Webinars van het Succes van de Klant van de Adobe ](https://experienceleague.adobe.com/docs/events/adobe-customer-success-webinar-recordings/overview.html)
@@ -73,19 +73,19 @@ ht-degree: 2%
       + [ Experience Manager GEMS ](https://experienceleague.adobe.com/docs/events/experience-manager-gems-recordings/overview.html)
       + [ Overzicht van de Versie van de Experience Manager ](https://experienceleague.adobe.com/docs/events/aemcs-release-update-recordings/overview.html)
       + [ leer van uw Peers ](https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html)
-      + [ Uren van het Bureau ](https://experienceleague.adobe.com/docs/events/office-hours/overview.html)
+      + [ de Technische Zittingen van het Experience Cloud ](https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html)
       + [ Bouwer van de Vaardigheid ](https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html)
       + [ Uitwisseling van de Vaardigheid ](https://experienceleague.adobe.com/docs/events/the-skill-exchange-recordings/overview.html)
    + Adobe Experience Platform {#aep}
       + [ Adobe Developers Live ](https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html)
       + [ de Woorden van het Beheer van Gegevens van de Klant ](https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/overview.html)
       + [ Levend Experience League ](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html)
-      + [ Uren van het Bureau ](https://experienceleague.adobe.com/docs/events/office-hours/overview.html)
+      + [ de Technische Zittingen van het Experience Cloud ](https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html)
    + Adobe Marketo {#am}
       + [ Diep duikt ](https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html)
       + [ leer van uw Peers ](https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html)
       + [ Marketo en Mochas ](https://experienceleague.adobe.com/docs/events/marketo-and-mochas-recordings/overview.html)
-      + [ Uren van het Bureau ](https://experienceleague.adobe.com/docs/events/office-hours/overview.html)
+      + [ de Technische Zittingen van het Experience Cloud ](https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html)
       + [ Bouwer van de Vaardigheid ](https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html)
       + [ Uitwisseling van de Vaardigheid ](https://experienceleague.adobe.com/docs/events/the-skill-exchange-recordings/overview.html)
    + Adobe Journey Optimizer {#ajo}
@@ -96,11 +96,11 @@ ht-degree: 2%
       + [ Bouwer van de Vaardigheid ](https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html)
    + Adobe Target {#at}
       + [ Levend Experience League ](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html)
-      + [ Uren van het Bureau ](https://experienceleague.adobe.com/docs/events/office-hours/overview.html)
+      + [ de Technische Zittingen van het Experience Cloud ](https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html)
       + [ Bouwer van de Vaardigheid ](https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html)
    + Adobe Workfront {#aw}
       + [ Adobe Developers Live ](https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html)
       + [ leer van uw Peers ](https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html)
-      + [ Uren van het Bureau ](https://experienceleague.adobe.com/docs/events/office-hours/overview.html)
+      + [ de Technische Zittingen van het Experience Cloud ](https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html)
       + [ Uitwisseling van de Vaardigheid ](https://experienceleague.adobe.com/docs/events/the-skill-exchange-recordings/overview.html)
       + [ Workfront ](https://experienceleague.adobe.com/docs/events/workfront-recordings/overview.html)

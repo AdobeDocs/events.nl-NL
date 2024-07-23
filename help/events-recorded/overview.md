@@ -4,9 +4,9 @@ description: Een inzameling van gebeurtenisopnamen concentreerde zich op het geb
 mini-toc-levels: 0
 exl-id: de8be4a9-8bc6-48f6-997a-bbb6671120db
 duration: 334
-source-git-commit: 142e427ea8c6406b869dcb50db5f0f08a034e273
+source-git-commit: a336f9d76d0b270694eb2d911c3c65d1fbe27d40
 workflow-type: tm+mt
-source-wordcount: '1040'
+source-wordcount: '1050'
 ht-degree: 0%
 
 ---
@@ -373,24 +373,24 @@ Blijf in de lus op exclusieve evenementen en webinars om uw leermogelijkheden ui
       </a>
     </div>
   </div>
-</div><div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Office Hours" tabIndex="15">
+</div><div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Experience Cloud Tech Sessions" tabIndex="15">
   <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
     <div class="card-image">
       <figure class="image x-is-16by9">
-        <a href="https://experienceleague.adobe.com/docs/events/office-hours/overview.html" title="Office Hours" tabindex="-1">
-          <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-office-hours.png" alt="Office Hours">
+        <a href="https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html" title="Technische sessies Experience Cloud" tabindex="-1">
+          <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-experience-cloud-tech-sessions.png" alt="Technische sessies Experience Cloud">
         </a>
       </figure>
     </div>
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/events/office-hours/overview.html" title="Office Hours"> Uren van het Bureau </a>
+              <a href="https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html" title="Technische sessies Experience Cloud"> de Technische Zittingen van het Experience Cloud </a>
           </p>
           <p class="is-size-6">
-         De Uren van het bureau is een pro-actieve benadering van gevalvervorming door klanten oplossing-specifieke webinars aan te bieden.</p>
+            Ontgrendel Adobe Experience Cloud met Adobe, door experts geleide technische sessies, die live en op aanvraag beschikbaar zijn voor naadloos leren.</p>
       </div>
-      <a href="https://experienceleague.adobe.com/docs/events/office-hours/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+      <a href="https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
         <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Leer meer </span>
       </a>
     </div>
