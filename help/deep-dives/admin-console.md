@@ -9,18 +9,27 @@ doc-type: Event
 duration: 3416
 last-substantial-update: 2024-06-28T00:00:00Z
 jira: KT-15797
-source-git-commit: c1716eac12bc496f866db8dce1f67235dc75c319
+exl-id: 811852d0-9900-43cc-b6d8-29c8b2fef40c
+source-git-commit: 7358d62eee1468e65b4ec073de1344a54dac41ce
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '219'
 ht-degree: 0%
 
 ---
 
-
 # Marketo Engage op identiteit Adobe voorbereiden
+
+Dit is een opleiding op de migratie voor [ Adobe Marketo Engage abonnementen om met het Systeem van Identity Management van de Adobe te integreren ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). De inhoud is het meest geschikt voor beheerders van Marketo&#39;s Engage. Met deze training krijgt u de essentiële kennis om uw organisatie op interfunctionele wijze voor te bereiden en interne gebruikers voor te lichten over deze aanstaande verandering.
+
 
 >[!VIDEO](https://video.tv.adobe.com/v/3430920/?learn=on)
 
 ## Overzicht
 
-De belangrijkste focus van deze trainingssessie is de migratie van Marketo Engage naar Adobe Identity and Adobe Admin Console. Het behandelt essentiële aspecten in elke fase (product, gebruiker, en steunovergang) van migratiereis met een grotere nadruk op gebruikersmigratie - wat verandert of niet verandert, acties die door de beheerders of gebruikers van uw organisatie worden vereist, en mededelingen van Adobe bij elke mijlpaal. Het duikt dieper in zeer belangrijke gebieden zoals het plannen van een migratiedatum in de pre-migratiefase, wat tijdens de gebruikersmigratie te verwachten, en hoe te om de migratieconsole tijdens zelf-migratie te navigeren. Vul de koppelingen naar nuttige bronnen en vier belangrijke stappen in om uw organisatie voor te bereiden.
+Deze trainingssessie richt zich op het migreren van abonnementen op Marketo&#39;s Engage naar de Admin-console voor Adobe Identity en Adobe. Het behandelt essentiële aspecten in elke fase (product, gebruiker, en steunovergang) van de migratiereis met een primaire nadruk op gebruikersmigratie.
+
+## In deze sessie verwacht u het volgende te horen:
+
+1. Overzicht van welke veranderingen of niet verandert, migratieacties die door de beheerders of gebruikers van uw organisatie worden vereist, en mededelingen van Adobe bij elke mijlpaal.
+1. De belangrijkste migratieacties omvatten het plannen van een migratiedatum tijdens pre-migratie, wat tijdens de gebruikersmigratie te verwachten, en het navigeren van de migratieconsole voor instanties die voor zelfmigratie geschikt zijn.
+1. Nuttige bronnen en vier belangrijke stappen die beheerders moeten uitvoeren om uw organisatie voor te bereiden op de komende wijzigingen.
