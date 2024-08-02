@@ -10,9 +10,9 @@ level: Intermediate
 doc-type: Event
 duration: 3600
 exl-id: 4080464c-dbe8-4c8d-ad15-f72d7c89df7c
-source-git-commit: 2205289f5961385c51aa7d8bfb9eab2bb9bc879e
+source-git-commit: 8191106e64cbfb6337e37c411e56630d59aabe2e
 workflow-type: tm+mt
-source-wordcount: '334'
+source-wordcount: '335'
 ht-degree: 0%
 
 ---
@@ -43,6 +43,6 @@ Tijdens dit AEM webinar van GEMs, zullen wij tonen hoe u het meeste uit het toev
 
 >[!NOTE]
 >
->* Voor webinar/onderwerp specifieke communautaire interactie over dit webinar op Experience League gelieve te bezoeken gelieve de respectieve [ Contextuele Draad ](tbd).
+>* Voor webinar/onderwerp specifieke communautaire interactie over dit webinar op Experience League gelieve te bezoeken gelieve de respectieve [ Contextuele Draad ](https://adobe.ly/4f1jhMo).
 >
 >* Om berichten over onze aanstaande webinars te ontvangen, gelieve te registreren bij [ AEM de Groep van de Gebruiker van de Adobe ](https://aem-augs.adobe.com/).
