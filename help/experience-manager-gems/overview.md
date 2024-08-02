@@ -12,9 +12,9 @@ type: Event
 user-guide-description: AEM GEM-sessies
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 658be21bfe19a3070d0dafbb753fc3292610e989
+source-git-commit: 2205289f5961385c51aa7d8bfb9eab2bb9bc879e
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '307'
 ht-degree: 0%
 
 ---
@@ -23,9 +23,9 @@ ht-degree: 0%
 
 <img alt="Digitale ervaringen" src="./assets/ADX_Gems.png"/>
 
-## De komende AEM van GEMs webinar - Integrating Private GitHub Repositories in AEM Cloud Manager
+## Webinar AEM GEM&#39;s - Integratie van AEM Assets met Edge Delivery Services
 
-Dit webinar zal worden gehouden op woensdag 31 juli - 17:00 CEST / 08:00 uur PDT / 08.30 uur IST. Merk op dat slechts registratie voor dit webinar wordt vereist - gelieve [ hier ](https://adobe.ly/3LmXfGk) te registreren.
+Dit webinar zal worden uitgevoerd op woensdag 21 augustus - 21.00 uur CEST / 08.00 uur PDT / 08.30 uur IST. Merk op dat slechts registratie voor dit webinar wordt vereist - gelieve [ hier ](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-integrating-aem-assets-with-edge-delivery-services/) te registreren.
 
 <!--  Remove the comment marks, and put the upcoming event in the below table
 
@@ -48,11 +48,11 @@ Dit webinar zal worden gehouden op woensdag 31 juli - 17:00 CEST / 08:00 uur PDT
 
 -->
 
-## Vorige AEM GEMs-gebeurtenis
+## Vorige AEM GEM&#39;s webinar
 
-Ons recentste webinar van AEM GEMs op **het Verbeteren van de ontwikkelaarservaring voor AEM Assets met onze nieuwe APIs en Gebeurtenissen** is geleid op *19 juni, 2024*.
+Onze recentste AEM webinar GEMs op **Integrating Private GitHub Repositories in AEM Cloud Manager** is uitgevoerd op *31st Juli, 2024*.
 De **opname** kan hier worden gevonden:
-[ Verbeterend de ontwikkelaarservaring voor AEM Assets met onze nieuwe APIs en Gebeurtenissen ](gems2024/improving-dev-experience-for-aem-assets-with-new-apis-and-events.md)
+[ Integrating Private GitHub Repositories in AEM Cloud Managers ](gems2024/private-github-for-aem-cloud-manager.md)
 
 >[!NOTE]
 >

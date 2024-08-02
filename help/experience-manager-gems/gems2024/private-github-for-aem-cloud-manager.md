@@ -9,16 +9,17 @@ role: Developer
 level: Intermediate
 doc-type: Event
 duration: 3600
-source-git-commit: 658be21bfe19a3070d0dafbb753fc3292610e989
+exl-id: 4080464c-dbe8-4c8d-ad15-f72d7c89df7c
+source-git-commit: 2205289f5961385c51aa7d8bfb9eab2bb9bc879e
 workflow-type: tm+mt
-source-wordcount: '364'
+source-wordcount: '334'
 ht-degree: 0%
 
 ---
 
 # Webinar Date: 31 juli 2024
 
-Dit webinar zal worden gehouden op woensdag 31 juli - 17:00 CEST / 08:00 uur PDT / 08.30 uur IST. Merk op dat slechts registratie voor dit webinar wordt vereist - gelieve [ hier ](https://adobe.ly/3LmXfGk) te registreren.
+Dit webinar is voltooid. Bekijk de onderstaande opname.
 
 ## Integratie van particuliere GitHub-opslagplaatsen in AEM Cloud Manager
 
@@ -34,12 +35,14 @@ Tijdens dit AEM webinar van GEMs, zullen wij tonen hoe u het meeste uit het toev
 * Shankari Panchapakesan, hoofd productmanager, Adobe
 * Florin Stancu, Software Development Engineer, Adobe
 
-## Webinar-registratie
+## Webinar-opname
+
+>[!VIDEO](https://video.tv.adobe.com/v/3432350)
+
+## Webinar Community Interactie
 
 >[!NOTE]
-> 
->* Dit webinar is gratis, alleen registratie is vereist. Gelieve te registreren [ hier ](https://adobe.ly/3LmXfGk).
 >
->* Voor webinar/onderwerp specifieke communautaire interactie over dit webinar op Experience League gelieve te bezoeken gelieve de respectieve [ Contextuele Draad ](https://adobe.ly/4f1jhMo).
+>* Voor webinar/onderwerp specifieke communautaire interactie over dit webinar op Experience League gelieve te bezoeken gelieve de respectieve [ Contextuele Draad ](tbd).
 >
 >* Om berichten over onze aanstaande webinars te ontvangen, gelieve te registreren bij [ AEM de Groep van de Gebruiker van de Adobe ](https://aem-augs.adobe.com/).
