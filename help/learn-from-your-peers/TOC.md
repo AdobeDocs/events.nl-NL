@@ -2,9 +2,9 @@
 user-guide-title: "[!DNL Experience Makers Learn from your peers]"
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: "Inzameling van opnamen van  [!DNL Experience Makers Learn from your peers]"
-source-git-commit: aa6147e16b48c10fa163e3a939d1edde30f7989c
+source-git-commit: d2954c2c4ed7b83ca6084395e3d414f76109acb9
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '292'
 ht-degree: 2%
 
 ---
@@ -46,7 +46,7 @@ ht-degree: 2%
       + [Inhoud- en ervaringsfragmenten maken](experience-manager/may2023/mastering-content-and-experience-fragments.md)
 + Marketo {#marketo}
    + Juli 2024 {#july2024}
-      + [De kaart van de Markteur - een uitvoerige Gids aan het Strategialiseren, het Bouwen en het Analyseren van de Campagnes van Marketo](marketo/july2024/marketers-map-marketo-campaigns.md)
+      + [De kaart van de Markteur: Strategizing, Bouwend, en Analyseert de Campagnes van Marketo](marketo/july2024/marketers-map-marketo-campaigns.md)
    + April 2024 {#april2024}
       + [Praktische toepassingen van Marketo Engage REST API](marketo/april2024/practical-applications-of-marketo-engage-rest-api.md)
    + Januari 2024 {#jan2024}
