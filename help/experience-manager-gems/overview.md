@@ -12,9 +12,9 @@ type: Event
 user-guide-description: AEM GEM-sessies
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 7f41b655c6e0509084fdacf3f33a382727bf9157
+source-git-commit: 5ea58365068d0e97175bde8b27e9bf995c1b46a9
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '312'
 ht-degree: 0%
 
 ---
@@ -64,8 +64,8 @@ Welkom aan **AEM GEMs** - onze webinar reeks van technische diepe duiken op Adob
 
 De webinars worden regelmatig uitgevoerd, met inbegrip van de volgende webinars:
 
-* Een maximale duur van 60 minuten
-* Vragen en antwoorden aan het eind en chatexperts beschikbaar in het hele webinar
+* Een maximale duur van 60 minuten per webinar
+* &lt; 15 minuten vragen en antwoorden aan het eind en chatexperts beschikbaar in het hele webinar
 * Opname beschikbaar na elk webinar
 * Alle AEM GEM-webinars zijn kosteloos en worden vrijwel uitsluitend geregistreerd.
 
