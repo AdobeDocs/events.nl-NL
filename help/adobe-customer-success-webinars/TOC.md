@@ -2,9 +2,9 @@
 user-guide-title: Geslaagde webinars van klanten van de Adobe
 breadcrumb-title: Geslaagde webinars van klanten van de Adobe
 user-guide-description: Met succes geleide webinars van de Klant van de Adobe die worden ontworpen om u bij het optimaliseren van uw investering in het Experience Cloud van de Adobe te helpen. Vergroot waardevolle inzichten om de waarde te maximaliseren en de acceptatie van oplossingen voor Adoben te vergroten.
-source-git-commit: 32b9aa55a48d744e695ca23b88f927c9fc538bb0
+source-git-commit: 3bcce2d2a01f5ed1abbc8fccd59512fe8a070fae
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '157'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,6 @@ ht-degree: 0%
    + [Hoofdlettertoewijzing aan oplossingsmogelijkheden gebruiken](2024/use-case-mapping.md)
    + [Essentiële onderdelen van SDK-migratie voor web](2024/web-sdk-migration.md)
    + [Integratie van AEP App Services voor gebruik door klanten](2024/aep-apps-services-integrations.md)
-   + [Commerce en koffie: strategieën voor B2B e-commerce](2024/commerce-and-coffee-strategies-for-b2b-ecommerce.md)
    + [Marketo Measure &amp; Mochas: Activiteiten en aangepaste modellen](2024/marketo-measure-and-mochas-activities-and-custom-models.md)
 + 2023 {#2023}
    + [Bouwen aan de Stichting voor Personalization op schaal](2023/personalization-at-scale.md)
