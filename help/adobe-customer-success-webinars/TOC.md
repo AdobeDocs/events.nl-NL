@@ -2,9 +2,9 @@
 user-guide-title: Geslaagde webinars van klanten van de Adobe
 breadcrumb-title: Geslaagde webinars van klanten van de Adobe
 user-guide-description: Met succes geleide webinars van de Klant van de Adobe die worden ontworpen om u bij het optimaliseren van uw investering in het Experience Cloud van de Adobe te helpen. Vergroot waardevolle inzichten om de waarde te maximaliseren en de acceptatie van oplossingen voor Adoben te vergroten.
-source-git-commit: 3bcce2d2a01f5ed1abbc8fccd59512fe8a070fae
+source-git-commit: d1186a48229d38d8c5549286357ef1108dfac916
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---
@@ -14,17 +14,20 @@ ht-degree: 0%
 
 + [Geslaagde webinars van klanten van de Adobe](overview.md)
 + 2024 {#2024}
+   + [Integratie van AEP App Services voor gebruik door klanten](2024/aep-apps-services-integrations.md)
+   + [Hoofdlettergebruik in AEP](2024/aep-use-case-planning.md)
    + [Adobe Workfront - Lean Teams](2024/workfront-lean-teams.md)
    + [Prioriteit gegevensstroom](2024/data-stream-prioritization.md)
    + [Effectief wijzigingsbeheer](2024/effective-change-management.md)
    + [Lean Teams monteren](2024/empowering-lean-teams.md)
    + [Expedia gaat van Adobe Analytics naar Customer Journey Analytics](2024/expedia-aa-to-cja.md)
+   + [Grondbeginselen van Workfront System and Group Admin Guardianship](2024/workfront-admin-guardianship.md)
    + [Hyperpersonalisatie](2024/hyperpersonalization.md)
+   + [Journey Optimizer Mobile-mogelijkheden](2024/journey-optimizer-mobile-capabilities.md)
    + [Strategisch leiderschap](2024/strategic-leadership.md)
    + [Hoofdlettertoewijzing aan oplossingsmogelijkheden gebruiken](2024/use-case-mapping.md)
    + [Essentiële onderdelen van SDK-migratie voor web](2024/web-sdk-migration.md)
-   + [Integratie van AEP App Services voor gebruik door klanten](2024/aep-apps-services-integrations.md)
-   + [Marketo Measure &amp; Mochas: Activiteiten en aangepaste modellen](2024/marketo-measure-and-mochas-activities-and-custom-models.md)
+
 + 2023 {#2023}
    + [Bouwen aan de Stichting voor Personalization op schaal](2023/personalization-at-scale.md)
    + [Wijzigingsbeheer](2023/change-management.md)
