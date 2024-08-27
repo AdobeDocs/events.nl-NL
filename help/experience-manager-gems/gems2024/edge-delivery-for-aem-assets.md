@@ -9,7 +9,7 @@ role: Developer
 level: Intermediate
 doc-type: Event
 duration: 3600
-source-git-commit: 4ca4262057c8bee2657ee89986894e4a3a516938
+source-git-commit: 9dc54b9034ffa5e533df2c026b9d6518f50c6531
 workflow-type: tm+mt
 source-wordcount: '306'
 ht-degree: 0%
@@ -35,6 +35,6 @@ Tijdens dit AEM GEMs webinar, zullen wij tonen hoe u AEM Assets in uw plaats kun
 >
 >[!NOTE]
 >
->* Voor zitting specifieke communautaire interactie over Experience League gelieve te bezoeken de respectieve [ Contextuele Draad ](https://adobe.ly/4aCz0OE).
+>* Voor zitting specifieke communautaire interactie over Experience League gelieve te bezoeken de respectieve [ Contextuele Draad ](https://adobe.ly/3LSCVfX).
 >
 >* Om berichten over onze aanstaande webinars te ontvangen, gelieve te registreren bij [ AEM de Groep van de Gebruiker van de Adobe ](https://aem-augs.adobe.com/).
