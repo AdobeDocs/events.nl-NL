@@ -2,9 +2,9 @@
 user-guide-title: Geslaagde webinars van klanten van de Adobe
 breadcrumb-title: Geslaagde webinars van klanten van de Adobe
 user-guide-description: Met succes geleide webinars van de Klant van de Adobe die worden ontworpen om u bij het optimaliseren van uw investering in het Experience Cloud van de Adobe te helpen. Vergroot waardevolle inzichten om de waarde te maximaliseren en de acceptatie van oplossingen voor Adoben te vergroten.
-source-git-commit: d1186a48229d38d8c5549286357ef1108dfac916
+source-git-commit: 87a01d0a4002a35bf538c6ac32ee6631c38f25c0
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '178'
 ht-degree: 0%
 
 ---
@@ -16,12 +16,15 @@ ht-degree: 0%
 + 2024 {#2024}
    + [Integratie van AEP App Services voor gebruik door klanten](2024/aep-apps-services-integrations.md)
    + [Hoofdlettergebruik in AEP](2024/aep-use-case-planning.md)
+   + [Adobe Journey Optimizer Essentials](2024/ajo-essentials.md)
    + [Adobe Workfront - Lean Teams](2024/workfront-lean-teams.md)
    + [Prioriteit gegevensstroom](2024/data-stream-prioritization.md)
    + [Effectief wijzigingsbeheer](2024/effective-change-management.md)
    + [Lean Teams monteren](2024/empowering-lean-teams.md)
    + [Expedia gaat van Adobe Analytics naar Customer Journey Analytics](2024/expedia-aa-to-cja.md)
    + [Grondbeginselen van Workfront System and Group Admin Guardianship](2024/workfront-admin-guardianship.md)
+   + [Leerteams en Customer Journey Analytics](2024/lean-teams-cja.md)
+   + [Doel Personalization](2024/target-personalization.md)
    + [Hyperpersonalisatie](2024/hyperpersonalization.md)
    + [Journey Optimizer Mobile-mogelijkheden](2024/journey-optimizer-mobile-capabilities.md)
    + [Strategisch leiderschap](2024/strategic-leadership.md)
