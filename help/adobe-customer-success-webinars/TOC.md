@@ -2,9 +2,9 @@
 user-guide-title: Geslaagde webinars van klanten van de Adobe
 breadcrumb-title: Geslaagde webinars van klanten van de Adobe
 user-guide-description: Met succes geleide webinars van de Klant van de Adobe die worden ontworpen om u bij het optimaliseren van uw investering in het Experience Cloud van de Adobe te helpen. Vergroot waardevolle inzichten om de waarde te maximaliseren en de acceptatie van oplossingen voor Adoben te vergroten.
-source-git-commit: 87a01d0a4002a35bf538c6ac32ee6631c38f25c0
+source-git-commit: 12447442bb31bec89d2c82b45cf15a8c99bd34ce
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
@@ -23,10 +23,13 @@ ht-degree: 0%
    + [Lean Teams monteren](2024/empowering-lean-teams.md)
    + [Expedia gaat van Adobe Analytics naar Customer Journey Analytics](2024/expedia-aa-to-cja.md)
    + [Grondbeginselen van Workfront System and Group Admin Guardianship](2024/workfront-admin-guardianship.md)
+   + [Aan de slag met Adobe Journey Optimizer-analyse](2024/getting-started-ajo-analysis.md)
    + [Leerteams en Customer Journey Analytics](2024/lean-teams-cja.md)
+   + [Cookies en gegevensprivacy beheren](2024/mastering-cookies-data-privacy.md)
    + [Doel Personalization](2024/target-personalization.md)
    + [Hyperpersonalisatie](2024/hyperpersonalization.md)
    + [Journey Optimizer Mobile-mogelijkheden](2024/journey-optimizer-mobile-capabilities.md)
+   + [Gereedheid voor Real-time Customer Data Platform-migratie](2024/rtcdp-migration-readiness.md)
    + [Strategisch leiderschap](2024/strategic-leadership.md)
    + [Hoofdlettertoewijzing aan oplossingsmogelijkheden gebruiken](2024/use-case-mapping.md)
    + [Essentiële onderdelen van SDK-migratie voor web](2024/web-sdk-migration.md)
