@@ -1,6 +1,6 @@
 ---
 title: Van chaos tot helderheid - Niveau uw gegevenskwaliteit
-description: 'In deze zitting, zult u praktische uiteinden en strategieën voor ontdekken: Het ontwikkelen van en het uitvoeren van een plan voor de rapporten van het het schoonmaakbeurtvoorbeeld kunt u gebruiken om de kwesties van de gegevenskwaliteit te ontdekken die gebruikers van alle mensen toelaten om gegevensbonus op te ruimen en te handhaven! Uw gegevens voorbereiden voor de groeiende functionaliteit van Canvasdashboards"'
+description: In deze zitting, zult u praktische uiteinden en strategieën voor het Ontwikkelen van en het uitvoeren van een plan voor de rapporten van het het schoonmaakbeurtvoorbeeld ontdekken u kunt gebruiken om de kwesties van de gegevenskwaliteit te ontdekken die gebruikers van alle mensen toelaten om gegevensbonus op te ruimen en te handhaven! Uw gegevens voorbereiden voor de groeiende functionaliteit van Canvasdashboards"
 solution: Workfront
 role: User
 level: Beginner
@@ -8,7 +8,7 @@ doc-type: Event
 duration: 1816
 last-substantial-update: 2024-08-29T00:00:00Z
 jira: KT-16106
-source-git-commit: 5cba50018e7aa4fb0e867fd0070bd7f003215d5f
+source-git-commit: 9f58c7c83054cee5296a120f9d55dee84254f5f7
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
