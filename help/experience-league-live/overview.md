@@ -8,9 +8,9 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: d692337e230540fe667072bd12351fd62c5aa4d2
+source-git-commit: 4d3f85437e3f1c27684be89186f9cd6dad74e859
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '178'
 ht-degree: 1%
 
 ---
@@ -26,15 +26,15 @@ Experience League LIVE is een live streaming show die wordt gemaakt door het tea
 <table>
 <tr>
 
-<td style="vertical-align: top;"><a href="episodes/exl-live-episode-08-28-24.md">
-      <img alt="Experience League LIVE aug 28" src="episodes/assets/WebBanner-aug-28-2024.png">
+<td style="vertical-align: top;"><a href="episodes/exl-live-episode-09-18-24.md">
+      <img alt="Experience League LIVE aug 28" src="episodes/assets/WebBanner-09-18-2024.jpg">
     </a>
     <div>
-      <a href="episodes/exl-live-episode-08-28-24.md">
-        <strong> Spotlight van de Zomer - drie moet eigenschappen in Adobe Journey Optimizer </strong> proberen
+      <a href="episodes/exl-live-episode-09-18-24.md">
+        <strong> bent u bereid om uw mobiele analytische app op het niveau te brengen?</strong>
       </a>
-      <br/><em> met Sandra Hausmann, Keara Fausett, Aaron Forrest, en Justin Grover </em>
-      <br/><em> Augustus 28, 2024 </em>
+      <br/><em> met Daniel Wright, Mitch Rice, en Kevin Lind </em>
+      <br/><em> September 18, 2024 bij 8:30 PT </em>
     </div>
   </td>
 </tr>
