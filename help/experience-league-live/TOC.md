@@ -9,10 +9,10 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 4d3f85437e3f1c27684be89186f9cd6dad74e859
+source-git-commit: eacc80e3015303ec35d1a3d115b3117b11fb868e
 workflow-type: tm+mt
-source-wordcount: '444'
-ht-degree: 2%
+source-wordcount: '461'
+ht-degree: 1%
 
 ---
 
@@ -21,6 +21,7 @@ ht-degree: 2%
 
 + [Overzicht](overview.md)
 + Episodes {#episodes}
+   + [EP 40: AI Bash - De kracht van AI Assistant vrijmaken in Adobe Experience Platform-toepassingen en -campagne](episodes/exl-live-episode-09-26-24.md)
    + [EP 39: Bent u klaar om de app voor mobiele analysemogelijkheden op te waarderen?](episodes/exl-live-episode-09-18-24.md)
    + [EP 38: Zomerspotlight - Drie functies moeten in Adobe Journey Optimizer proberen](episodes/exl-live-episode-08-28-24.md)
    + [EP 37: Hoe de nieuwste Adobe Real-Time CDP-releases de naald voor uw bedrijf kunnen verplaatsen](episodes/exl-live-episode-06-26-24.md)
