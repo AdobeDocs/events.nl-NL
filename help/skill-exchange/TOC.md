@@ -3,10 +3,10 @@ user-guide-title: De Uitwisseling van de Vaardigheid
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Inzameling opnamen van Ervaar de Uitwisseling van de Vaardigheid
 event-series: The Skill Exchange
-source-git-commit: 34eef234c654a62ad30929b99dcb4d09af48c29d
+source-git-commit: 5cba50018e7aa4fb0e867fd0070bd7f003215d5f
 workflow-type: tm+mt
-source-wordcount: '526'
-ht-degree: 5%
+source-wordcount: '581'
+ht-degree: 4%
 
 ---
 
@@ -14,7 +14,16 @@ ht-degree: 5%
 # De Uitwisseling van de Vaardigheid {#the-skill-exchange-recordings}
 
 + [Overzicht](overview.md)
++ Adobe Commerce {#commerce}
+   + 20 aug. 24 {#aug2024}
+      + [Adobe Commerce-prestaties verhogen](commerce/aug2024/commerce-performance.md)
+      + [SEO maximaliseren gedurende migratiestromen](commerce/aug2024/seo-migration-workflows.md)
 + Analytics {#analytics}
+   + 20 aug. 24 {#aug2024}
+      + [Kenmerkconcepten op hoog niveau](analytics/aug2024/attribution-concepts.md)
+      + [Waardevolle inzichten zichtbaar maken](analytics/aug2024/uncover-valuable-insights.md)
+      + [Berekende waarden gebruiken](analytics/aug2024/calculated-metrics.md)
+      + [Visualisaties met Analysis Workspace](analytics/aug2024/spotlight-visualizations.md)
    + aug. 2023 {#aug2023}
       + [Alles over segmenten](analytics/aug2023/spotlight-segments.md)
       + [De gegevens analyseren](analytics/aug2023/analyze-the-data.md)
@@ -77,6 +86,10 @@ ht-degree: 5%
       + [Marketingkanalen, gebruik verantwoord](analytics/jun2021/marketing-channels.md)
       + [Alles samenvoegen](analytics/jun2021/putting-all-together.md)
 + Experience Manager {#aem}
+   + Augustus 2024 {#aug2024}
+      + [AEM Sites met Universal Editor](aem/aug2024/universal-editor.md)
+      + [Stramienkoppen en SPA Editor](aem/aug2024/headless-spa-editor.md)
+      + [Strategieën voor beheer van digitale middelen](aem/aug2024/spotlight-dam-strategies.md)
    + Augustus 2023 {#aug2023}
       + Developer Track {#developer-track}
          + [AEM Developer Starter Kit](aem/aug2023/deploy-new-project.md)
@@ -125,10 +138,13 @@ ht-degree: 5%
    + Augustus 2024 {#aug2024}
       + [Toetsenbord openen](workfront/aug2024/keynote.md)
       + [De werklastbalans aanpassen](workfront/aug2024/workload-balancer.md)
+      + [Gegevenskwaliteit](workfront/aug2024/data-quality.md)
       + [Verbeter uw Ervaring](workfront/aug2024/approval-experience.md)
+      + [Workfront Fusion and Boards](workfront/aug2024/fusion-boards.md)
       + [Aanvoerketen voor marketinginhoud](workfront/aug2024/content-supply-chain.md)
       + [Procesverbeteringen en operationele efficiëntie](workfront/aug2024/spotlight-process-operations.md)
       + [Bewaren en Betrokkenheid](workfront/aug2024/retention-engagement-journey.md)
+      + [Tailing van Workfront-startpagina&#39;s](workfront/aug2024/tailoring-homepages.md)
       + [Transformatie van processtromen naar Workfront Wins](workfront/aug2024/spotlight-process-flows.md)
    + Augustus 2023 {#aug2023}
       + [Inleiding tot de kamers](workfront/aug2023/introduction-to-boards.md)
