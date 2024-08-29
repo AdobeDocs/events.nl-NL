@@ -1,14 +1,14 @@
 ---
 title: Gereedheid voor Real-time Customer Data Platform-migratie
 description: Ontdek hoe u naar Adobe CDP (Real-Time CDP) in real time (RTCDP) kunt migreren en welk inspanningsniveau vereist is:- Migreer vanuit een bestaande CDP- Effect op bestaande gebruiksgevallen (Personalization en Optimalisatie) - Organisatorische veranderingen die worden vereist om klantengegevensbeheer in real time te steunen.
-solution: Real-time Customer Data Platform
+solution: Real-Time Customer Data Platform
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
 duration: 2385
 last-substantial-update: 2024-08-28T00:00:00Z
 jira: KT-16030
-source-git-commit: 12447442bb31bec89d2c82b45cf15a8c99bd34ce
+source-git-commit: 2445124970fdf5e87509d03c1ede66344bbfd234
 workflow-type: tm+mt
 source-wordcount: '265'
 ht-degree: 0%
