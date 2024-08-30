@@ -3,9 +3,9 @@ user-guide-title: De Uitwisseling van de Vaardigheid
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Inzameling opnamen van Ervaar de Uitwisseling van de Vaardigheid
 event-series: The Skill Exchange
-source-git-commit: 5cba50018e7aa4fb0e867fd0070bd7f003215d5f
+source-git-commit: a5e8d1ccfb7f8874a0081b70ac8c756702ce438d
 workflow-type: tm+mt
-source-wordcount: '581'
+source-wordcount: '615'
 ht-degree: 4%
 
 ---
@@ -16,10 +16,13 @@ ht-degree: 4%
 + [Overzicht](overview.md)
 + Adobe Commerce {#commerce}
    + 20 aug. 24 {#aug2024}
+      + [Toetsenbord openen](workfront/aug2024/keynote.md)
       + [Adobe Commerce-prestaties verhogen](commerce/aug2024/commerce-performance.md)
+      + [Effectieve uitbreidbaarheid](commerce/aug2024/extensibility.md)
       + [SEO maximaliseren gedurende migratiestromen](commerce/aug2024/seo-migration-workflows.md)
 + Analytics {#analytics}
    + 20 aug. 24 {#aug2024}
+      + [Toetsenbord openen](analytics/aug2024/keynote.md)
       + [Kenmerkconcepten op hoog niveau](analytics/aug2024/attribution-concepts.md)
       + [Waardevolle inzichten zichtbaar maken](analytics/aug2024/uncover-valuable-insights.md)
       + [Berekende waarden gebruiken](analytics/aug2024/calculated-metrics.md)
@@ -87,7 +90,11 @@ ht-degree: 4%
       + [Alles samenvoegen](analytics/jun2021/putting-all-together.md)
 + Experience Manager {#aem}
    + Augustus 2024 {#aug2024}
+      + [Toetsenbord openen](aem/aug2024/keynote.md)
       + [AEM Sites met Universal Editor](aem/aug2024/universal-editor.md)
+      + [Dynamic Media Classic Asset Management](aem/aug2024/dmc-asset-management.md)
+      + [Consistente ervaringen met AEM Aanpassing en Bestuur](aem/aug2024/customize-elements.md)
+      + [Elementen aanpassen](aem/aug2024/customize-elements.md)
       + [Stramienkoppen en SPA Editor](aem/aug2024/headless-spa-editor.md)
       + [Strategieën voor beheer van digitale middelen](aem/aug2024/spotlight-dam-strategies.md)
    + Augustus 2023 {#aug2023}
@@ -112,6 +119,11 @@ ht-degree: 4%
          + [Zakelijke waarde verhogen met content personaliseren in AEM](aem/aug2022/personalization.md)
          + [Optimaliseer uw AEM](aem/aug2022/implementation.md)
 + Marketo {#marketo}
+   + Augustus 2024 {#aug2024}
+      + [Toetsenbord openen](marketo/aug2024/keynote.md)
+      + [Geavanceerde toepassingen van Betrokkenheidsprogramma&#39;s](marketo/aug2024/advanced-applications-engagment-programs.md)
+      + [Bewaren en Betrokkenheid](marketo/aug2024/retention-engagement-journey.md)
+      + [Slimme lijstlogica](marketo/aug2024/smart-list-logic.md)
    + Februari 2022 {#feb2022}
       + [Gegevensonderhoud](marketo/feb2022/data-maintenance.md)
       + [Dynamische inhoud en de kracht van Personalization](marketo/feb2022/dynamic-content.md)
@@ -143,7 +155,6 @@ ht-degree: 4%
       + [Workfront Fusion and Boards](workfront/aug2024/fusion-boards.md)
       + [Aanvoerketen voor marketinginhoud](workfront/aug2024/content-supply-chain.md)
       + [Procesverbeteringen en operationele efficiëntie](workfront/aug2024/spotlight-process-operations.md)
-      + [Bewaren en Betrokkenheid](workfront/aug2024/retention-engagement-journey.md)
       + [Tailing van Workfront-startpagina&#39;s](workfront/aug2024/tailoring-homepages.md)
       + [Transformatie van processtromen naar Workfront Wins](workfront/aug2024/spotlight-process-flows.md)
    + Augustus 2023 {#aug2023}
