@@ -2,9 +2,9 @@
 user-guide-title: Technische sessies Experience Cloud
 user-guide-breadcrumb: Experience Cloud Tech Sessions
 user-guide-description: De Sessies van de Tech van het Experience Cloud is een pro-actieve benadering van gevalvervorming door klanten oplossing-specifieke webinars aan te bieden.
-source-git-commit: a336f9d76d0b270694eb2d911c3c65d1fbe27d40
+source-git-commit: a1bc6495b21fe54c50d9a50a6904daac50a93bb6
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '112'
 ht-degree: 7%
 
 ---
@@ -14,6 +14,8 @@ ht-degree: 7%
 
 + [Technische sessies Experience Cloud](overview.md)
 + 2024 {#2024}
+   + Gegevensplatform voor inhoud in realtime {#rtcdp-office-hours-2024}
+      + [Real-Time Content Data Platform Timings](2024/rtcdp-timings.md)
    + Adobe Marketo {#adobe-marketo-office-hours-2024}
       + [Champion Tech-sessies - mei](2024/champion-office-hours.md)
 + 2023 {#2023}

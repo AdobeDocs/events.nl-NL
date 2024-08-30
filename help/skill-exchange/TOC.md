@@ -3,9 +3,9 @@ user-guide-title: De Uitwisseling van de Vaardigheid
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Inzameling opnamen van Ervaar de Uitwisseling van de Vaardigheid
 event-series: The Skill Exchange
-source-git-commit: 28a55b5e5e6716f970585d721edd5ab411d3aa45
+source-git-commit: a1bc6495b21fe54c50d9a50a6904daac50a93bb6
 workflow-type: tm+mt
-source-wordcount: '613'
+source-wordcount: '658'
 ht-degree: 4%
 
 ---
@@ -20,10 +20,15 @@ ht-degree: 4%
       + [Adobe Commerce-prestaties verhogen](commerce/aug2024/commerce-performance.md)
       + [Effectieve uitbreidbaarheid](commerce/aug2024/extensibility.md)
       + [SEO maximaliseren gedurende migratiestromen](commerce/aug2024/seo-migration-workflows.md)
+      + [De ervaring van de Klant aanpassen](commerce/aug2024/personalization.md)
 + Analytics {#analytics}
    + 20 aug. 24 {#aug2024}
       + [Toetsenbord openen](analytics/aug2024/keynote.md)
+      + [Waarschuwingen en annotaties](analytics/aug2024/alerts-annotations.md)
+      + [Geniet van spotlicht voor makers](analytics/aug2024/spotlight-reporting-analysis.md)
       + [Kenmerkconcepten op hoog niveau](analytics/aug2024/attribution-concepts.md)
+      + [In-Depth blik bij Segmentatie](analytics/aug2024/segmentation.md)
+      + [Marketingkanalen en Attributie](analytics/aug2024/marketing-channels-attribution.md)
       + [Waardevolle inzichten zichtbaar maken](analytics/aug2024/uncover-valuable-insights.md)
       + [Berekende waarden gebruiken](analytics/aug2024/calculated-metrics.md)
       + [Visualisaties met Analysis Workspace](analytics/aug2024/spotlight-visualizations.md)
@@ -92,10 +97,12 @@ ht-degree: 4%
    + Augustus 2024 {#aug2024}
       + [Toetsenbord openen](aem/aug2024/keynote.md)
       + [AEM Sites met Universal Editor](aem/aug2024/universal-editor.md)
-      + [Dynamic Media Classic Asset Management](aem/aug2024/dmc-asset-management.md)
       + [Consistente ervaringen met AEM Aanpassing en Bestuur](aem/aug2024/customize-elements.md)
-      + [Stramienkoppen en SPA Editor](aem/aug2024/headless-spa-editor.md)
       + [Strategieën voor beheer van digitale middelen](aem/aug2024/spotlight-dam-strategies.md)
+      + [Dynamic Media Classic Asset Management](aem/aug2024/dmc-asset-management.md)
+      + [De toeleveringsketen voor inhoud verbeteren](aem/aug2024/spotlight-content-supply-chain.md)
+      + [Stramienkoppen en SPA Editor](aem/aug2024/headless-spa-editor.md)
+      + [Print Production](aem/aug2024/print-production.md)
    + Augustus 2023 {#aug2023}
       + Developer Track {#developer-track}
          + [AEM Developer Starter Kit](aem/aug2023/deploy-new-project.md)
@@ -121,8 +128,13 @@ ht-degree: 4%
    + Augustus 2024 {#aug2024}
       + [Toetsenbord openen](marketo/aug2024/keynote.md)
       + [Geavanceerde toepassingen van Betrokkenheidsprogramma&#39;s](marketo/aug2024/advanced-applications-engagment-programs.md)
+      + [Prestaties verhogen met A/B testen](marketo/aug2024/a-b-testing.md)
+      + [Levenscyclusbeheer en -analyse](marketo/aug2024/lifecycle-management-analytics.md)
+      + [Efficiëntie van marketingactiviteiten](marketo/aug2024/spotlight-marketing-ops-efficiency.md)
       + [Bewaren en Betrokkenheid](marketo/aug2024/retention-engagement-journey.md)
       + [Slimme lijstlogica](marketo/aug2024/smart-list-logic.md)
+      + [Spotlight - Interactieve webinars](marketo/aug2024/spotlight-interactive-webinars.md)
+      + [Controlespoor en campagnecontrole gebruiken](marketo/aug2024/audit-trail-campaign-inspector.md)
    + Februari 2022 {#feb2022}
       + [Gegevensonderhoud](marketo/feb2022/data-maintenance.md)
       + [Dynamische inhoud en de kracht van Personalization](marketo/feb2022/dynamic-content.md)
