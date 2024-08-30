@@ -3,9 +3,9 @@ user-guide-title: De Uitwisseling van de Vaardigheid
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Inzameling opnamen van Ervaar de Uitwisseling van de Vaardigheid
 event-series: The Skill Exchange
-source-git-commit: a5e8d1ccfb7f8874a0081b70ac8c756702ce438d
+source-git-commit: 28a55b5e5e6716f970585d721edd5ab411d3aa45
 workflow-type: tm+mt
-source-wordcount: '615'
+source-wordcount: '613'
 ht-degree: 4%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 4%
 + [Overzicht](overview.md)
 + Adobe Commerce {#commerce}
    + 20 aug. 24 {#aug2024}
-      + [Toetsenbord openen](workfront/aug2024/keynote.md)
+      + [Toetsenbord openen](commerce/aug2024/keynote.md)
       + [Adobe Commerce-prestaties verhogen](commerce/aug2024/commerce-performance.md)
       + [Effectieve uitbreidbaarheid](commerce/aug2024/extensibility.md)
       + [SEO maximaliseren gedurende migratiestromen](commerce/aug2024/seo-migration-workflows.md)
@@ -94,7 +94,6 @@ ht-degree: 4%
       + [AEM Sites met Universal Editor](aem/aug2024/universal-editor.md)
       + [Dynamic Media Classic Asset Management](aem/aug2024/dmc-asset-management.md)
       + [Consistente ervaringen met AEM Aanpassing en Bestuur](aem/aug2024/customize-elements.md)
-      + [Elementen aanpassen](aem/aug2024/customize-elements.md)
       + [Stramienkoppen en SPA Editor](aem/aug2024/headless-spa-editor.md)
       + [Strategieën voor beheer van digitale middelen](aem/aug2024/spotlight-dam-strategies.md)
    + Augustus 2023 {#aug2023}
