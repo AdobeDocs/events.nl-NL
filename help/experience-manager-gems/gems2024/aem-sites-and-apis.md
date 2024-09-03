@@ -9,7 +9,7 @@ role: Developer
 level: Intermediate
 doc-type: Event
 duration: 3600
-source-git-commit: 3b55664ebc35de2657158bc0d7f365753cbb28eb
+source-git-commit: 8727d2d86d807d31ca35e3951fd65da78acd9cbd
 workflow-type: tm+mt
 source-wordcount: '308'
 ht-degree: 0%
@@ -24,8 +24,7 @@ Om zich aan te sluiten, gelieve te registreren [ hier ](https://adobe.ly/4g6TYck
 
 ## De kracht van AEM Sites ontgrendelen: de API&#39;s voor inhoudsbeheer beheren
 
-De manier waarop AEM Sites wordt gebruikt, ontwikkelt zich snel en voegt API-eerste patronen toe aan traditionele gebruikersinteracties. Of u nu uw activiteiten wilt stroomlijnen of uw automatisering wilt verbeteren, het is van cruciaal belang dat u deze trends voor ogen houdt. Meld u aan voor een diepgaande sessie waarbij we verwante geavanceerde updates in AEM Sites verkennen en bekijken hoe deze uw strategie voor inhoudsbeheer kunnen versterken.
-In deze sessie zult u ontdekken:
+De manier waarop AEM Sites wordt gebruikt, ontwikkelt zich snel en voegt API-eerste patronen toe aan traditionele gebruikersinteracties. Of u nu uw activiteiten wilt stroomlijnen of uw automatisering wilt verbeteren, het is van cruciaal belang dat u deze trends voor ogen houdt. Meld u aan voor een diepgaande sessie waarbij we verwante geavanceerde updates in AEM Sites verkennen en bekijken hoe deze uw strategie voor inhoudsbeheer kunnen versterken. In deze sessie zult u ontdekken:
 * Geavanceerde OpenAPI-standaarden: ontdek de nieuwste OpenAPI-implementaties voor naadloze CRUD-bewerkingen op AEM gestructureerde inhoud.
 * Eventing en Webhooks: Leer hoe de mogelijkheden van Adobe I/O voor gebeurtenissen en webhaken processen kunnen automatiseren op basis van de inhoud en statuswijzigingen in AEM.
 * Nieuwe REST API&#39;s voor vertalingsautomatisering: leer welke nieuwe REST API&#39;s uw workflows voor het vertalen van inhoud in AEM vereenvoudigen en stroomlijnen.
