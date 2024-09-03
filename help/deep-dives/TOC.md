@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 4471d715fb226701bdad95ffe2834e763451c7ea
+source-git-commit: 7f5998a03b576b2b50f0e44507a81187fac10919
 workflow-type: tm+mt
-source-wordcount: '53'
+source-wordcount: '56'
 ht-degree: 3%
 
 ---
@@ -31,4 +31,5 @@ ht-degree: 3%
    + [Gebruik van PMCF-velden voor schaalbaarheid](pmcf-fields.md)
    + [Maximaliseer uw exemplaar met een klein team](small-team-instance.md)
    + [Opmerken van complexe processen in het activiteitenlog](activity-log.md)
+   + [Wereldwijde marketing ontgrendelen](global-marketing.md)
    + [Webhaken gebruiken om gegevens over te dragen](webhooks.md)
