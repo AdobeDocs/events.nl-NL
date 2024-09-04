@@ -1,6 +1,6 @@
 ---
 title: Ontgrendelen van Global Marketing met Marketo Engage - Adobe Champion Deep Dive - augustus 2024
-description: Uw organisatie is bereid om Marketo Engage te gebruiken om veelvoudige talen, landen, bedrijfseenheden en/of producten te steunen en u wilt deze omzetting op het juiste spoor beginnen. Meld u voor ons aan de Augustus Deep Dive voor een uitvoerige gids over de ingewikkeldheid van lancering, onderhoud, en rapportering over globale marketing initiatieven. Hieronder wordt beschreven hoe u uw gegevens en instanties kunt structureren met behulp van werkruimten en partities, hoe u kunt voldoen aan uiteenlopende wettelijke vereisten over de hele wereld en hoe u uw campagnes kunt ondersteunen met segmentaties, fragmenten, dynamische inhoud en nog veel meer.
+description: Uw organisatie is bereid om Marketo Engage te gebruiken om veelvoudige talen, landen, bedrijfseenheden en/of producten te steunen en u wilt deze omzetting op het juiste spoor beginnen. Meld u voor ons aan de Augustus Deep Dive voor een uitvoerige gids over de ingewikkeldheid van lancering, onderhoud, en rapportering over globale marketing initiatieven. Wij zullen behandelen hoe te om uw gegevens en instantie te structureren gebruikend werkruimten en verdelingen, hoe te om aan verschillende wettelijke vereisten over de hele wereld te voldoen, en hoe te om uw campagnes met segmentaties, fragmenten, dynamische inhoud, en meer te steunen.
 solution: Marketo
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -8,7 +8,7 @@ doc-type: Event
 duration: 3351
 last-substantial-update: 2024-09-03T00:00:00Z
 jira: KT-16119
-source-git-commit: 7f5998a03b576b2b50f0e44507a81187fac10919
+source-git-commit: 6109b20829c1e50664eafb5bc674b781ec26611a
 workflow-type: tm+mt
 source-wordcount: '394'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # Ontgrendelen van Global Marketing met Marketo Engage - Adobe Champion Deep Dive - augustus 2024
 
-Uw organisatie is bereid om Marketo Engage te gebruiken om veelvoudige talen, landen, bedrijfseenheden en/of producten te steunen en u wilt deze omzetting op het juiste spoor beginnen. Meld u voor ons aan de Augustus Deep Dive voor een uitvoerige gids over de ingewikkeldheid van lancering, onderhoud, en rapportering over globale marketing initiatieven. Hieronder wordt beschreven hoe u uw gegevens en instanties kunt structureren met behulp van werkruimten en partities, hoe u kunt voldoen aan uiteenlopende wettelijke vereisten over de hele wereld en hoe u uw campagnes kunt ondersteunen met segmentaties, fragmenten, dynamische inhoud en nog veel meer.
+Uw organisatie is bereid om Marketo Engage te gebruiken om veelvoudige talen, landen, bedrijfseenheden en/of producten te steunen en u wilt deze omzetting op het juiste spoor beginnen. Meld u voor ons aan de Augustus Deep Dive voor een uitvoerige gids over de ingewikkeldheid van lancering, onderhoud, en rapportering over globale marketing initiatieven. Wij zullen behandelen hoe te om uw gegevens en instantie te structureren gebruikend werkruimten en verdelingen, hoe te om aan verschillende wettelijke vereisten over de hele wereld te voldoen, en hoe te om uw campagnes met segmentaties, fragmenten, dynamische inhoud, en meer te steunen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433245/?learn=on)
 
