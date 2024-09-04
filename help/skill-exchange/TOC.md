@@ -3,9 +3,9 @@ user-guide-title: De Uitwisseling van de Vaardigheid
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Inzameling opnamen van Ervaar de Uitwisseling van de Vaardigheid
 event-series: The Skill Exchange
-source-git-commit: a1bc6495b21fe54c50d9a50a6904daac50a93bb6
+source-git-commit: e3f251f2b3030f4d9fdf072aee05be25f06d89b4
 workflow-type: tm+mt
-source-wordcount: '658'
+source-wordcount: '663'
 ht-degree: 4%
 
 ---
@@ -102,6 +102,7 @@ ht-degree: 4%
       + [Dynamic Media Classic Asset Management](aem/aug2024/dmc-asset-management.md)
       + [De toeleveringsketen voor inhoud verbeteren](aem/aug2024/spotlight-content-supply-chain.md)
       + [Stramienkoppen en SPA Editor](aem/aug2024/headless-spa-editor.md)
+      + [Metagegevens, Inhoudsstructuur en Taxonomie](aem/aug2024/dam-performance.md)
       + [Print Production](aem/aug2024/print-production.md)
    + Augustus 2023 {#aug2023}
       + Developer Track {#developer-track}
