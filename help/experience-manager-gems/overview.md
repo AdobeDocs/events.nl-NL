@@ -12,9 +12,9 @@ type: Event
 user-guide-description: AEM GEM-sessies
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 7c5e261cf6ee05ea1dbe425b015f9ad33f4a20a4
+source-git-commit: 3e9a442e67fab387b886d57bebcc1940631c6ffe
 workflow-type: tm+mt
-source-wordcount: '312'
+source-wordcount: '308'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 <img alt="Digitale ervaringen" src="./assets/ADX_Gems.png"/>
 
-## De komende AEM GEM&#39;s webinar - De kracht van AEM Sites ontgrendelen: de API&#39;s voor contentbeheer beheren
+## De komende AEM GEMs webinar - AEM Sites: Meester de APIs van het Beheer van de Inhoud
 
 Dit webinar zal worden gehouden op woensdag 9 oktober - 17:00 CEST / 08:00 uur PDT / 08.30 uur IST. Merk op, dat slechts registratie voor dit webinar wordt vereist.
 Als geinteresseerd om zich aan te sluiten, gelieve [**hier** te registreren ](https://adobe.ly/4g6TYck).
