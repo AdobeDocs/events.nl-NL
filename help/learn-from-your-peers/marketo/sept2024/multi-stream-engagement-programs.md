@@ -8,9 +8,9 @@ doc-type: Event
 duration: 2477
 last-substantial-update: 2024-09-18T00:00:00Z
 jira: KT-16216
-source-git-commit: ac811378b605024bc49232b84932b029fe783c45
+source-git-commit: 933d52ea829b18ee287631c8701c7e4494c5379b
 workflow-type: tm+mt
-source-wordcount: '326'
+source-wordcount: '360'
 ht-degree: 0%
 
 ---
@@ -33,3 +33,11 @@ Dit Leer van Uw Peers zittingen besprak de opstelling en het beheer van betrokke
 * Overgangsstrategieën: het gebruik van slimme campagnes voor het overschakelen tussen streams binnen een betrokkenheidsprogramma biedt controle en automatisering. &#x200B; Begrijpen wanneer en hoe u de voorsprong kunt overbrengen op basis van factoren zoals levenscyclusfasen of uitputting van de inhoud is van essentieel belang voor een effectieve productie van lood.
 
 * Metrische gegevens over succes van programma: het definiëren van duidelijke succeswaarden voor betrokkenheidsprogramma&#39;s is van essentieel belang voor het meten van de doeltreffendheid. &#x200B; Of het nu gaat om klikken via e-mail, bezoeken van websites of andere acties, als u succescriteria hebt gedefinieerd, helpt u de prestaties en impact van de betrokkenheidsprogramma&#39;s nauwkeurig te evalueren. &#x200B;
+
+## Bronnen waarnaar in deze presentatie wordt verwezen
+
+* [ Begrijpend de Programma&#39;s van de Betrokkenheid ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs)
+* [ Begrijpend de Score van de Betrokkenheid ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score)
+* [ Toevoegend een Programma aan een Stream van het Programma van de Betrokkenheid ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/adding-a-program-to-an-engagement-program-stream)
+* [ Overzicht van de Bibliotheek van de Invoer van het Programma ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview)
+* [ de discussielijn van de Gemeenschap van de Verhandeling ](https://nation.marketo.com/t5/product-discussions/sept-17-webinar-learn-from-your-peers-master-complex-customer/td-p/352582)
