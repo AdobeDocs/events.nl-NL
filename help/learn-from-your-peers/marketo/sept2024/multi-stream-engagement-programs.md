@@ -8,9 +8,9 @@ doc-type: Event
 duration: 2477
 last-substantial-update: 2024-09-18T00:00:00Z
 jira: KT-16216
-source-git-commit: 933d52ea829b18ee287631c8701c7e4494c5379b
+source-git-commit: 33ed1cb1bc4a5a62fb590ac07ae788a6df812ef4
 workflow-type: tm+mt
-source-wordcount: '360'
+source-wordcount: '361'
 ht-degree: 0%
 
 ---
@@ -24,11 +24,11 @@ Onderzoek hoe te om klantenverhoudingen met multi-aanraak, multi-stroomprogramma
 
 ## Samenvatting
 
-Dit Leer van Uw Peers zittingen besprak de opstelling en het beheer van betrokkenheidsprogramma&#39;s in Marketo. Het behandelde onderwerpen zoals planning, bouw, en rapportering binnen betrokkenheidsprogramma&#39;s. De belangrijkste punten omvatten het kiezen tussen de programma&#39;s van de de reisbevordering en van de overeenkomst, het gebruiken van slimme campagnes voor overgangen, het beslissen tussen e-mail en standaardprogramma&#39;s, en het begrip van de metriek van het programmasucces. &#x200B; De discussie ging ook over onderwerpen als het overbrengen van inhoud, het beheren van verschillende talen, het gebruiken van dynamische inhoud, en het opzetten van veelvoudige stromen die op levenscyclusstadia of productfamilies worden gebaseerd. Het webinar benadrukte het belang van het testen, de beschikbaarheid van programma&#39;s en het gebruiken van betrokkenheidsscores voor rapportagedoeleinden. &#x200B;
+Deze Learn from Your Peers session besprak de opstelling en het beheer van betrokkenheidsprogramma&#39;s in Marketo Engage. Het behandelde onderwerpen zoals planning, bouw, en rapportering binnen betrokkenheidsprogramma&#39;s. De belangrijkste punten waren het kiezen tussen programma&#39;s voor het opvoeden van druppels en het aangaan van afspraken, het gebruiken van slimme campagnes voor overgangen, het beslissen tussen e-mails en standaardprogramma&#39;s, en het begrijpen van de maatstaven van het programmasucces. &#x200B; De discussie ging ook over onderwerpen als het overbrengen van inhoud, het beheren van verschillende talen, het gebruiken van dynamische inhoud, en het opzetten van veelvoudige stromen die op levenscyclusstadia of productfamilies worden gebaseerd. Het webinar benadrukte het belang van het testen, de beschikbaarheid van programma&#39;s en het gebruiken van betrokkenheidsscores voor rapportagedoeleinden. &#x200B;
 
 ## Key Takeaways
 
-* Het juiste programmatype kiezen: het is van cruciaal belang dat het verschil wordt begrepen tussen programma&#39;s voor het opvoeden van reizen en het uitvoeren van een overeenkomst. &#x200B; Betrokkenheidsprogramma&#39;s bieden meer flexibiliteit en complexiteit voor het koesteren van leads in vergelijking met reisprogramma&#39;s. &#x200B;
+* Het juiste programmatype kiezen: het is van cruciaal belang dat het verschil tussen programma&#39;s voor het opvoeden van druppels en voor het aangaan van afspraken wordt begrepen. &#x200B; Betrokkenheidsprogramma&#39;s bieden meer flexibiliteit en complexiteit voor het koesteren van leads in vergelijking met programma&#39;s voor het voeden van druppels. &#x200B;
 
 * Overgangsstrategieën: het gebruik van slimme campagnes voor het overschakelen tussen streams binnen een betrokkenheidsprogramma biedt controle en automatisering. &#x200B; Begrijpen wanneer en hoe u de voorsprong kunt overbrengen op basis van factoren zoals levenscyclusfasen of uitputting van de inhoud is van essentieel belang voor een effectieve productie van lood.
 
