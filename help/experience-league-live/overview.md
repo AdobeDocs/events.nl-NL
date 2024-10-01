@@ -8,9 +8,9 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 9a3b27dfc0c74cbcaceda0d7dc6b0c27086f7f3b
+source-git-commit: f375ee9f4477c514a0787eede047f80b25172c61
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '155'
 ht-degree: 1%
 
 ---
@@ -23,22 +23,28 @@ Experience League LIVE is een live streaming show die wordt gemaakt door het tea
 
 ## Actuele LIVE-Experience League-gebeurtenissen
 
+Meer gebeurtenissen komen binnenkort!
+
+<!-- 
+
 <table>
 <tr>
-
-<td style="vertical-align: top;"><a href="episodes/exl-live-episode-09-26-24.md">
-      <img alt="Experience League LIVE aug 28" src="episodes/assets/WebBanner-09-26-2024.png">
+  
+  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-09-26-24.md">
+      <img alt="Experience League LIVE Aug 28" src="episodes/assets/WebBanner-09-26-2024.png">
     </a>
     <div>
       <a href="episodes/exl-live-episode-09-18-24.md">
-        <strong> Onderzoek hoe AI Medewerker klanteninteractie omzet en productiviteit in de Toepassingen van Adobe Experience Cloud en Adobe Campaign verbetert. </strong>
+        <strong>Explore how AI Assistant transforms customer interactions and enhances productivity in Adobe Experience Cloud Applications and Adobe Campaign. </strong>
       </a>
-      <br/><em> met Rachel Hannessian, Amarnath Vannarth, en Arthur Lacroix </em>
-      <br/><em> September 26, 2024 bij 8:30 PT </em>
+      <br/><em>with Rachel Hannessian, Amarnath Vannararth, and Arthur Lacroix</em>
+      <br/><em>September 26, 2024 at 8:30 PT</em>
     </div>
   </td>
 </tr>
-</table>
+</table> 
+
+-->
 
 </div>
 
