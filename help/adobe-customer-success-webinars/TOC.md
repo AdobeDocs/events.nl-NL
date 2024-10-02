@@ -2,9 +2,9 @@
 user-guide-title: Geslaagde webinars van klanten van de Adobe
 breadcrumb-title: Geslaagde webinars van klanten van de Adobe
 user-guide-description: Met succes geleide webinars van de Klant van de Adobe die worden ontworpen om u bij het optimaliseren van uw investering in het Experience Cloud van de Adobe te helpen. Vergroot waardevolle inzichten om de waarde te maximaliseren en de acceptatie van oplossingen voor Adoben te vergroten.
-source-git-commit: 3ccafeec70790d62407a06e8dde89ae7ed5fd826
+source-git-commit: 2552636b85de07bec762083103a50b207798d71f
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '221'
 ht-degree: 0%
 
 ---
@@ -27,6 +27,7 @@ ht-degree: 0%
    + [Grondbeginselen van Workfront System and Group Admin Guardianship](2024/workfront-admin-guardianship.md)
    + [Aan de slag met Adobe Journey Optimizer-analyse](2024/getting-started-ajo-analysis.md)
    + [Aan de slag met Real-time Customer Data Platform](2024/getting-started-rtcdp.md)
+   + [Inzetten van AI voor Klantervaring](2024/ai-customer-experience.md)
    + [Leerteams en Customer Journey Analytics](2024/lean-teams-cja.md)
    + [Cookies en gegevensprivacy beheren](2024/mastering-cookies-data-privacy.md)
    + [Doel Personalization](2024/target-personalization.md)
