@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: eacc80e3015303ec35d1a3d115b3117b11fb868e
+source-git-commit: a738e2b749e1dc7511cb613539f3e3b675e3fe12
 workflow-type: tm+mt
-source-wordcount: '461'
+source-wordcount: '472'
 ht-degree: 1%
 
 ---
@@ -21,6 +21,7 @@ ht-degree: 1%
 
 + [Overzicht](overview.md)
 + Episodes {#episodes}
+   + [EP 41: publiek harmoniseren met behulp van Federated Audience Composition in Experience Platform](episodes/exl-live-episode-40-2024-10-24.md)
    + [EP 40: AI Bash - De kracht van AI Assistant vrijmaken in Adobe Experience Platform-toepassingen en -campagne](episodes/exl-live-episode-09-26-24.md)
    + [EP 39: Bent u klaar om de app voor mobiele analysemogelijkheden op te waarderen?](episodes/exl-live-episode-09-18-24.md)
    + [EP 38: Zomerspotlight - Drie functies moeten in Adobe Journey Optimizer proberen](episodes/exl-live-episode-08-28-24.md)
