@@ -2,7 +2,7 @@
 user-guide-title: Adobe Experience Manager GEMS-gebeurtenissen
 user-guide-description: Meer informatie over AEM Gems, een reeks technische diepteduiken van Adobe Experience Manager-experts.
 breadcrumb-title: GEMs-gebeurtenissen AEM
-source-git-commit: 8727d2d86d807d31ca35e3951fd65da78acd9cbd
+source-git-commit: d76e08a224c8416bbe79a0fc82d2cb9937b2827e
 workflow-type: tm+mt
 source-wordcount: '752'
 ht-degree: 0%
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 + [Overzicht](overview.md)
 + 2024 {#gems2024}
-   + [De kracht van AEM Sites ontgrendelen: de API&#39;s voor inhoudsbeheer beheren](gems2024/aem-sites-and-apis.md)
+   + [De kracht van AEM Sites ontgrendelen - de API&#39;s voor inhoudsbeheer beheren](gems2024/content-management-apis.md)
    + [Wat is er nieuw in Rapid Development Environment voor AEM?](gems2024/rapid-development-environment-news.md)
    + [AEM Assets integreren met Edge Delivery Services](gems2024/edge-delivery-for-aem-assets.md)
    + [Integratie van particuliere GitHub-opslagplaatsen in AEM Cloud Manager](gems2024/private-github-for-aem-cloud-manager.md)

@@ -12,9 +12,9 @@ type: Event
 user-guide-description: AEM GEM-sessies
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 1bdf2039e9b44f8f2f938ddf6443bf4888e26d7f
+source-git-commit: 670b69aea8b574567487f169579d7c81db7550ad
 workflow-type: tm+mt
-source-wordcount: '316'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
@@ -23,12 +23,16 @@ ht-degree: 0%
 
 <img alt="Digitale ervaringen" src="./assets/ADX_Gems.png"/>
 
-## De komende AEM GEMs webinar - AEM Sites: Meester de APIs van het Beheer van de Inhoud
+## Binnenkort zullen AEM webinars van GEM&#39;s worden aangekondigd
 
-Dit webinar zal worden gehouden op woensdag 9 oktober - 17:00 CEST / 08:00 uur PDT / 08.30 uur IST. Merk op, dat slechts registratie voor dit webinar wordt vereist.
-Als geinteresseerd om zich aan te sluiten, gelieve [**hier** te registreren ](https://adobe.ly/4g6TYck).
+Gelieve te registreren bij [ de Groep van de Gebruiker van de Adobe AEM ](https://aem-augs.adobe.com/) om op de hoogte te worden gebracht.
 
-<!--  Remove the comment marks, and put the upcoming event in the below table
+<!--  ## Upcoming AEM GEMs webinar - AEM Sites: Master the Content Management APIs
+
+This webinar will be conducted on Wednesday, October 9th - 5pm CEST / 8am PDT / 8.30pm IST. Note, that only registration is required for this webinar. 
+If interested to join, please register [**here**](https://adobe.ly/4g6TYck).
+
+
 
 <table style="max-width: 1214px;">
 <tr>
@@ -51,9 +55,9 @@ Als geinteresseerd om zich aan te sluiten, gelieve [**hier** te registreren ](ht
 
 ## Vorige AEM GEM&#39;s webinar
 
-Onze nieuwste AEM GEM&#39;s webinar over **Wat is er nieuw in Rapid Development Environment for AEM?** is geleid op *4 September, 2024*.
+Onze recentste AEM webinar GEMs op **ontgrendelt de Macht van AEM Sites - Meester de Beheer APIs van de Inhoud** is uitgevoerd op *9 Oktober, 2024*.
 De **opname** kan hier worden bekeken:
-[ wat in Snelle Milieu&#39;s van de Ontwikkeling voor AEM nieuw is?](gems2024/rapid-development-environment-news.md)
+[ Ontgrendelt de Macht van AEM Sites - Meester de Beheer APIs van de Inhoud ](gems2024/content-management-apis.md)
 
 >[!NOTE]
 >
