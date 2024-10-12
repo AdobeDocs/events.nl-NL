@@ -4,7 +4,7 @@ description: Een inzameling van gebeurtenisopnamen concentreerde zich op het geb
 mini-toc-levels: 0
 exl-id: de8be4a9-8bc6-48f6-997a-bbb6671120db
 duration: 334
-source-git-commit: ac867e3983725543f7a63bcf7e0db1598e1de6c9
+source-git-commit: d2b255e29737bb6bd878108daa4d75906618b2ab
 workflow-type: tm+mt
 source-wordcount: '1091'
 ht-degree: 0%
@@ -363,12 +363,12 @@ Blijf in de lus op exclusieve evenementen en webinars om uw leermogelijkheden ui
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/events/gen-studio-for-performance-marketing-events/overview.html" title="GenStudio for Performance Marketing Events"> Gebeurtenissen van GenStudio for Performance Marketing </a>
+              <a href="https://experienceleague.adobe.com/docs/events/genstudio-for-performance-marketing-events/overview.html" title="GenStudio for Performance Marketing Events"> Gebeurtenissen van GenStudio for Performance Marketing </a>
           </p>
           <p class="is-size-6">
          Ontdek de webinars en gebeurtenissen die u in de toekomst en in het verleden kunt organiseren om GenStudio for Performance Marketing onder de knie te krijgen.</p>
       </div>
-      <a href="https://experienceleague.adobe.com/docs/events/gen-studio-for-performance-marketing-events/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+      <a href="https://experienceleague.adobe.com/docs/events/genstudio-for-performance-marketing-events/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
         <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Leer meer </span>
       </a>
     </div>

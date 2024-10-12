@@ -2,7 +2,7 @@
 user-guide-title: Adobe Experience League-gebeurtenisopnamen
 user-guide-breadcrumb: Event Recordings
 user-guide-description: Een verzameling gebeurtenisopnamen die zijn geforceerd bij het gebruik van Adobe Enterprise-producten
-source-git-commit: 628e6811e60c0157d268acbd70435dff0ff0daf0
+source-git-commit: d2b255e29737bb6bd878108daa4d75906618b2ab
 workflow-type: tm+mt
 source-wordcount: '391'
 ht-degree: 2%
@@ -29,7 +29,7 @@ ht-degree: 2%
    + [ Experience League LIVE ](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html)
    + [ Experience Manager GEMS ](https://experienceleague.adobe.com/docs/events/experience-manager-gems-recordings/overview.html)
    + [ Overzicht van de Versie van de Experience Manager ](https://experienceleague.adobe.com/docs/events/aemcs-release-update-recordings/overview.html)
-   + [ Gebeurtenissen van GenStudio for Performance Marketing ](https://experienceleague.adobe.com/docs/events/gen-studio-for-performance-marketing-events/overview.html)
+   + [ Gebeurtenissen van GenStudio for Performance Marketing ](https://experienceleague.adobe.com/docs/events/genstudio-for-performance-marketing-events/overview.html)
    + [ leer van uw Peers ](https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html)
    + [ Marketo en Mochas ](https://experienceleague.adobe.com/docs/events/marketo-and-mochas-recordings/overview.html)
    + [ de Technische Zittingen van het Experience Cloud ](https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html)
@@ -83,7 +83,7 @@ ht-degree: 2%
       + [ Levend Experience League ](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html)
       + [ de Technische Zittingen van het Experience Cloud ](https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html)
    + Adobe GenStudio for Performance Marketing {#agspm}
-      + [ Adobe GenStudio for Performance Marketing ](https://experienceleague.adobe.com/docs/events/gen-studio-for-performance-marketing-events/overview.html)
+      + [ Adobe GenStudio for Performance Marketing ](https://experienceleague.adobe.com/docs/events/genstudio-for-performance-marketing-events/overview.html)
    + Adobe Marketo {#am}
       + [ Diep duikt ](https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html)
       + [ leer van uw Peers ](https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html)
