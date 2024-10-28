@@ -8,9 +8,9 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: aeef8e994a4c54f6884e3090fba028a9888abe4d
+source-git-commit: 645f97a48747f22008ca12a6cb832dfb89bb67e2
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '197'
 ht-degree: 1%
 
 ---
@@ -26,14 +26,14 @@ Experience League LIVE is een live streaming show die wordt gemaakt door het tea
 <table>
 <tr>
 
-<td style="vertical-align: top;"><a href="episodes/exl-live-episode-40-2024-10-24.md">
-      <img alt="Experience League LIVE okt 24" src="episodes/assets/ep41-web-banner.png">
+<td style="vertical-align: top;"><a href="episodes/exl-live-episode-10-30-24.md">
+      <img alt="Experience League LIVE okt 24" src="episodes/assets/30Oct24-webbanner.png">
     </a>
     <div>
-      <a href="episodes/exl-live-episode-40-2024-10-24.md"><strong> Leer over hoe de Samenstelling van het Publiek Federated een uitvoerige benadering van publiekscuratie en activering met Real-Time CDP en Journey Optimizer verstrekt. </strong></a>
-      <br/><em> met Alyssa Espiritu, Abhijit Ghosh, en Arthur Lacroix </em>
-      <br/><em> 24 oktober, 2024 bij 8:30 PT </em>
-      <br/><br/><a href="https://engage.adobe.com/ExpLeagueLive-241024.html"> Register voor deze gebeurtenis </a>
+      <a href="episodes/exl-live-episode-40-2024-10-24.md"><strong> leer over de Kaarten van de Inhoud, een nieuw veelzijdig overseinenkanaal voor Adobe Journey Optimizer die wordt ontworpen om gebruikersbetrokkenheid te verbeteren en gesprekken over mobiele en Webtoepassingen op te voeren. </strong></a>
+      <br/><em> met Don Huyhn en Pravin Kumar </em>
+      <br/><em> 30 oktober, 2024 bij 8:30 PT </em>
+      <br/><br/><a href="https://engage.adobe.com/ExpLeagueLive-241030.html?s_rtid=7015Y0000048hxzQAA&amp;s_iid=&amp;sfid=&amp;acctid=&amp;ecp="> Register voor deze gebeurtenis </a>
     </div>
   </td>
 </tr>
