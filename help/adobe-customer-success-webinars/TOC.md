@@ -2,9 +2,9 @@
 user-guide-title: Geslaagde webinars van klanten van de Adobe
 breadcrumb-title: Geslaagde webinars van klanten van de Adobe
 user-guide-description: Met succes geleide webinars van de Klant van de Adobe die worden ontworpen om u bij het optimaliseren van uw investering in het Experience Cloud van de Adobe te helpen. Vergroot waardevolle inzichten om de waarde te maximaliseren en de acceptatie van oplossingen voor Adoben te vergroten.
-source-git-commit: 2552636b85de07bec762083103a50b207798d71f
+source-git-commit: 6d34941792ad369db453b5f27521d7a818ffdedb
 workflow-type: tm+mt
-source-wordcount: '221'
+source-wordcount: '231'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,9 @@ ht-degree: 0%
 + 2024 {#2024}
    + [Adobe Journey Optimizer Essentials](2024/ajo-essentials.md)
    + [Adobe Workfront - Lean Teams](2024/workfront-lean-teams.md)
+   + [Adobe Workfront Master](2024/workfront-mastery.md)
+   + [Belangrijke concepten AEM ontwerpen](2024/aem-authoring-concepts.md)
+   + [AEM Sites-efficiëntie](2024/aem-sites-efficiencies.md)
    + [Integratie van AEP App Services voor gebruik door klanten](2024/aep-apps-services-integrations.md)
    + [Hoofdlettergebruik in AEP](2024/aep-use-case-planning.md)
    + [Copywriting met AI-machtiging](2024/ai-copywriting.md)
