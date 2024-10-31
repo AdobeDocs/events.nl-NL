@@ -9,9 +9,9 @@ doc-type: Event
 duration: 3452
 last-substantial-update: 2024-10-30T00:00:00Z
 jira: KT-16353
-source-git-commit: 6d34941792ad369db453b5f27521d7a818ffdedb
+source-git-commit: 3f245f71cd4db5097b5a9e712114112451d899e4
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '268'
 ht-degree: 0%
 
 ---
@@ -21,11 +21,28 @@ ht-degree: 0%
 
 In dit webinar duiken we in de basisbeginselen van het oplossen van problemen met Adobe Experience Manager (AEM)-sites. Of u nu te maken hebt met prestatieproblemen of met complexe configuraties, deze sessie biedt praktische vaardigheden om uw AEM te onderhouden en te optimaliseren. We geven prioriteit aan live demo&#39;s boven dia&#39;s en bieden praktijkervaring in het aanpakken van echte uitdagingen. &#x200B;
 
-
-## Belangrijke discussiepunten
-
-* Configuratie van virtuele host en domeintoewijzing
-* Prestatieproblemen
-* Autorisatie, identificatie, gebruikersmachtigingen
-
 >[!VIDEO](https://video.tv.adobe.com/v/3435114/?learn=on)
+
+## Belangrijke punten
+
+Het webinar concentreerde zich op de efficiency van de plaats van AMP, met inbegrip van prestatiesoptimalisering, configuratie, en het oplossen van problemen.
+
+### Dispatcher-configuratie
+
+* Het belang van verzender bij het aanbieden van presterende websites.
+* Zeer belangrijke aspecten van de configuratie van de verzender: virtuele gastheerconfiguratie, domeinafbeelding met geheim voorgeheugenstructuur, en regelmatige rapportering en omleiding.
+
+### Rights Management
+
+* Beste werkwijzen: pas rechten op groepen toe, vermijd ontkent verklaringen, en vermijd overengineering.
+* Gebruik van Netcentric ACL hulpmiddel om rechten door een Yaml- dossier te beheren, die gemakkelijke plaatsing en traceerbaarheid verzekeren.
+
+### Prestatieproblemen
+
+* Het is belangrijk delta&#39;s te identificeren bij synchronisatiebewerkingen om te voorkomen dat de volledige cache wordt leeggemaakt.
+* Vermijd grote paginabewerkingen tijdens kantooruren.
+* Vereenvoudig workflows naar de vereiste stappen.
+* Wees voorzichtig met systeemprocessen van derden op auteurssystemen, vooral met gereedschappen zoals ImageMagick.
+* Vermijd gesynchroniseerde verzoeken aan derdesystemen die niet het laden kunnen behandelen.
+* Beheer zware aangepaste componenten om prestatievermindering te voorkomen.
+* De monitor voor langlopende zittingen om segment te verhinderen vond geen uitzonderingen.
