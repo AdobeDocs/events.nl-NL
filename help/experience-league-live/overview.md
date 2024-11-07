@@ -8,10 +8,10 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 637f0256c1033c6ad016c5289103b09304ae5002
+source-git-commit: f8b0b67a0c576cf303d6e3f6b912a470f07e3eb0
 workflow-type: tm+mt
-source-wordcount: '197'
-ht-degree: 1%
+source-wordcount: '214'
+ht-degree: 0%
 
 ---
 
@@ -26,14 +26,14 @@ Experience League LIVE is een live streaming show die wordt gemaakt door het tea
 <table>
 <tr>
 
-<td style="vertical-align: top;"><a href="episodes/exl-live-episode-10-30-24.md">
-      <img alt="Experience League LIVE okt 24" src="assets/WebBanner-Nov-6-2024.jpg">
+<td style="vertical-align: top;"><a href="episodes/exl-live-episode-11-13-24.md">
+      <img alt="Experience League LIVE okt 24" src="episodes/assets/WebBanner_nov13_2024.jpg">
     </a>
     <div>
-      <a href="episodes/exl-live-episode-10-30-24.md"><strong> leer over de Kaarten van de Inhoud, een nieuw veelzijdig overseinenkanaal voor Adobe Journey Optimizer die wordt ontworpen om gebruikersbetrokkenheid te verbeteren en gesprekken over mobiele en Webtoepassingen op te voeren. </strong></a>
-      <br/><em> met Don Huyhn en Pravin Kumar </em>
-      <br/><em> 6 November, 2024 bij 8:30 PT </em>
-      <br/><br/><a href="https://engage.adobe.com/ExpLeagueLive-241030.html?s_rtid=7015Y0000048hxzQAA&amp;s_iid=&amp;sfid=&amp;acctid=&amp;ecp="> Register voor deze gebeurtenis </a>
+      <a href="episodes/exl-live-episode-11-13-24.md"><strong> sluit zich aan bij ons voor een opwindende levende zitting waar de deskundigen van de Adobe van het product en van de techniek u een opwindende blik bij onze recentste baanbrekende innovatie zullen geven - AI Medewerker voor Soortgelijke, die binnenkort naar Adobe Real-Time CDP komt om publieksinzichten en acties te superladen. </strong></a>
+      <br/><em> met Shivakumar Vaithyanathan, Ali Nazer, en Horia Galatanu </em>
+      <br/><em> 13 November, 2024 bij 9:00 PT </em>
+      <br/><br/><a href="https://engage.adobe.com/ExpLeagueLive-241113.html"> Register voor deze gebeurtenis </a>
     </div>
   </td>
 </tr>
