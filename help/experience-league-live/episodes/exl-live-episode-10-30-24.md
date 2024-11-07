@@ -7,22 +7,20 @@ feature: Audiences
 event-cta-url-live: https://www.youtube.com/watch?v=xp3WRr4XmWM
 event-start-time: 2024-10-30 08:30-7
 event-guests: Sandra Hausmann, Don Huynh, Pravin Prakash Kumar
-source-git-commit: f8b0b67a0c576cf303d6e3f6b912a470f07e3eb0
+source-git-commit: fe04eef54d34f1bcc0ce9d164d4d212096908f0a
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---
 
 # Weergavekaarten voor inhoud in Adobe Journey Optimizer
 
-**Revolutioneer uw betrokkenheidsstrategie met naadloze, niet-opdringerige blijvende overseinen**
+Leer hoe u uw servicestrategie kunt revolutioneren met naadloze, niet-indringende, permanente berichten met behulp van Content Cards in Adobe Journey Optimizer.
 
-In deze sessie introduceren Don Huynh en Pravin Prakash Kumar Content Cards, een nieuw veelzijdig communicatiekanaal voor Adobe Journey Optimizer dat is ontworpen om de betrokkenheid van gebruikers te verbeteren en gesprekken in mobiele en webtoepassingen te stimuleren. In tegenstelling tot traditionele pushberichten en meldingen in de app, bieden Content Cards naadloos belangrijke updates, promoties en berichten binnen uw app of website, zodat gebruikers een niet-opdringerige gebruikerservaring hebben.
+>[!VIDEO](https://video.tv.adobe.com/v/3436281/?quality=12&learn=on)
 
+**toon Details**:
 
-![ levende de ervaringsleague ](/help/experience-league-live/assets/WebBanner-Nov-6-2024.jpg)
-
-[ Register voor deze gebeurtenis ](https://engage.adobe.com/ExpLeagueLive-241030.html?s_rtid=7015Y0000048hxzQAA&amp;s_iid=&amp;sfid=&amp;acctid=&amp;ecp=)
-
+In deze sessie introduceren en demo Don Huynh en Pravin Prakash Kumar Content Cards, een veelzijdig communicatiekanaal voor Adobe Journey Optimizer dat is ontworpen om de betrokkenheid van gebruikers te vergroten en gesprekken tussen mobiele en webtoepassingen te stimuleren. In tegenstelling tot traditionele pushberichten en meldingen in de app, bieden Content Cards naadloos belangrijke updates, promoties en berichten binnen uw app of website, zodat gebruikers een niet-opdringerige gebruikerservaring hebben.
 
