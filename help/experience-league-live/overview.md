@@ -8,7 +8,7 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: f8b0b67a0c576cf303d6e3f6b912a470f07e3eb0
+source-git-commit: f08cc0e05763e738a03c508896a7122e121127a0
 workflow-type: tm+mt
 source-wordcount: '214'
 ht-degree: 0%
@@ -101,3 +101,4 @@ Experience League LIVE is een live streaming show die wordt gemaakt door het tea
 >[!TIP]
 >
 >Voor extra methodes om te leren, controleer onze vrije [ cursussen ](https://experienceleague.adobe.com/#dashboard/learning) evenals individuele [ leerprogramma&#39;s ](https://experienceleague.adobe.com/docs/home-tutorials.html).
+
