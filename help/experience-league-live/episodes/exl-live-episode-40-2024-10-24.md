@@ -7,9 +7,10 @@ feature: Audiences
 event-cta-url-live: https://youtube.com/live/ghN-XWdBLvg
 event-start-time: 2024-10-24 08:30-7
 event-guests: Doug Moore,Alyssa Espiritu,Abhijit Ghosh,Arthur Lacroix
-source-git-commit: aeef8e994a4c54f6884e3090fba028a9888abe4d
+exl-id: bfaacf49-a7a1-48a4-b3e4-52b9346b9f1b
+source-git-commit: 88f711a66ac62d97590d27adf5df1c7c5f6ebfef
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---
@@ -18,9 +19,9 @@ ht-degree: 0%
 
 Meer informatie over hoe Federated Audience Composition een uitgebreide benadering biedt van publiekscurve en activering met Real-Time CDP en Journey Optimizer.
 
-<img alt="Experience League LIVE 24 oktober 2024" src="../episodes/assets/ep41-web-banner.png">
+>[!VIDEO](https://video.tv.adobe.com/v/3436457/?quality=12&learn=on)
 
-[ Register voor deze gebeurtenis ](https://engage.adobe.com/ExpLeagueLive-241024.html)
+**om de bespreking voort te zetten, gelieve onze [ bespreking over de Gemeenschap van het Experience League ](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/adobe-experience-league-live-harmonize-audiences-in-experience/m-p/718976#M636) te bezoeken {target="_blank"}.**
 
 **toon Details**:
 Vergroot de toegang tot datacenters van bedrijven om publiek te maken en om de ervaring van het merk en de ervaring van het moment te versterken.
