@@ -1,6 +1,6 @@
 ---
 title: Expedia and Leading Brands Evolgelen hun organisatie van Adobe Analytics naar Customer Journey Analytics
-description: de volgende evolutie van de analyse te verkennen, met Jake Winter, hoofd in Adswerve, Erika Ulmer, Senior Manager, Data Product Management op Expedia, Ben Gaines, Director of Product Management op Adobe en Trevor Paulsen, Director of Product Management op Adobe, die hun ervaring uit de eerste hand zal delen om hun organisaties te leren nivelleren met Adobe Customer Journey Analytics. We bespreken de nieuwste trends en beste praktijken in analyses, en de uitdagingen en mogelijkheden die gepaard gaan met het benutten van Customer Journey Analytics. Of u nu een analyseprofessional of een bedrijfsleider bent die de analysemogelijkheden van uw organisatie wil verbeteren, dit webinar hoeft niet te worden gemist.
+description: Neem deel aan de toonaangevende bedrijven uit Adwerve, Expedia en Adobe als ze inzichten, trends en beste praktijken delen om Adobe Customer Journey Analytics te gebruiken voor het transformeren van organisatorische analyses in dit must-Attach-webinar.
 solution: Analytics, Customer Journey Analytics
 feature-set: Customer Journey Analytics
 feature: Adobe Analytics Integration
@@ -12,9 +12,9 @@ duration: 3933
 last-substantial-update: 2024-05-09T00:00:00Z
 jira: KT-15435
 exl-id: a6bb36bb-6bea-4ee0-b5e3-021d02d3de20
-source-git-commit: 1ee9b50eca2e167af477bd17bceb6c1d4b59311b
+source-git-commit: ef652eb09c33f11d69ec66f70013cd3e53537a95
 workflow-type: tm+mt
-source-wordcount: '423'
+source-wordcount: '351'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,6 @@ We bespreken de nieuwste trends en beste praktijken in analyses, en de uitdaging
 
 
 ## Key Takeaways
-
 
 * Verkrijg een diepgaand inzicht in de gegevens, met inbegrip van het modelleren van gegevens met gebiedsgroepen en het begrip van identiteit en gebeurteniswerkingsgebied.
 * Het doel en de voordelen van Customer Journey Analytics (CJA) overbrengen aan belanghebbenden en training bieden om individuen in staat te stellen gegevensgestuurde beslissingen te nemen.

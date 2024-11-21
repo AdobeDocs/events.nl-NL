@@ -1,6 +1,6 @@
 ---
 title: Essentiële onderdelen van SDK-migratie voor web
-description: Begrijp de verschillen in App Measurement/AT.js versus Web SDK, hoe te om, overwegingen in timing de migratie, opties voor het migreren en verwachte gegevensverschillen te migreren.Belangrijkste Punten van de Discussie - wat is SDK van het Web? De Stappen van de migratie en Overwegingen die de Migraties Gemeenschappelijke Misstappen en de Panden van de Migratie om te vermijden
+description: Begrijp de verschillen in app Measurement/AT.js versus Web SDK, hoe te, overwegingen in timing de migratie, opties voor het migreren en verwachte gegevensverschillen migreren.
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -8,9 +8,9 @@ duration: 3280
 last-substantial-update: 2024-06-07T00:00:00Z
 jira: KT-15561
 exl-id: 862e7cf3-079e-4a43-a4c2-3f7157e8efe9
-source-git-commit: 4471d715fb226701bdad95ffe2834e763451c7ea
+source-git-commit: ef652eb09c33f11d69ec66f70013cd3e53537a95
 workflow-type: tm+mt
-source-wordcount: '210'
+source-wordcount: '191'
 ht-degree: 0%
 
 ---

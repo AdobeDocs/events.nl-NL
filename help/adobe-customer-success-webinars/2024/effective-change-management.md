@@ -1,6 +1,6 @@
 ---
 title: Navigeren door verandering - Een webinar met leidinggevende functies voor effectief wijzigingsbeheer
-description: Maak kennis met de nuances van Change Management en geef strategische inzichten om u in staat te stellen uw organisatie door te sturen via transformationele reizen.Belangrijkste discussiepunten - Leer hoe u de inspanningen voor wijzigingen kunt afstemmen op overkoepelende organisatorische doelstellingen en doelstellingen Stramien in de kunst van het communiceren van wijzigingen naar verschillende belanghebbenden Efficiënte enablement-strategie implementeren en proactieve strategieën voor het beperken van risico's en het garanderen van soepele overgangen
+description: Maak kennis met de nuances van Change Management en geef strategische inzichten om u in staat te stellen uw organisatie door te sturen via transformationele reizen.
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -8,9 +8,9 @@ duration: 3340
 last-substantial-update: 2024-06-07T00:00:00Z
 jira: KT-15557
 exl-id: 6e71cc1e-f1bd-4c78-9fee-90ba0e0bce47
-source-git-commit: 4471d715fb226701bdad95ffe2834e763451c7ea
+source-git-commit: ef652eb09c33f11d69ec66f70013cd3e53537a95
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '181'
 ht-degree: 0%
 
 ---

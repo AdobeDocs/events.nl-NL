@@ -1,23 +1,23 @@
 ---
 title: Inzicht in Edge Network en mobiele Personalization met oplossingen voor Adobe
-description: Begrijp hoe de architectuur van Edge werkt en hoe te om implementaties te zuiveren gebruikend AssuranceTechnical begeleiding op te stellen en de Mobiele SDKHow te vormen om gepersonaliseerde ervaringen met Doel en AJO te leveren
+description: Begrijp hoe u mobiele strategieën kunt verbeteren, de betrokkenheid van gebruikers kunt verbeteren en persoonlijke ervaringen kunt bieden met oplossingen voor Adoben.
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
 duration: 3460
 last-substantial-update: 2024-09-04T00:00:00Z
 jira: KT-16137
-source-git-commit: 3ccafeec70790d62407a06e8dde89ae7ed5fd826
+exl-id: 235124fa-ff68-44d7-8e8e-70ce67a19134
+source-git-commit: ef652eb09c33f11d69ec66f70013cd3e53537a95
 workflow-type: tm+mt
-source-wordcount: '211'
+source-wordcount: '197'
 ht-degree: 0%
 
 ---
 
-
 # Inzicht in Edge Network en mobiele Personalization met oplossingen voor Adobe
 
-Begrijp hoe de architectuur van Edge werkt en hoe te om implementaties te zuiveren gebruikend Verzekering
+Begrijp hoe de architectuur van Edge werkt en hoe te om implementaties te zuiveren gebruikend Assurance
 Technische richtlijnen voor het instellen en configureren van de Mobile SDK
 Hoe u persoonlijke ervaringen kunt bieden met Target en AJO
 
@@ -41,6 +41,6 @@ Hoe u persoonlijke ervaringen kunt bieden met Target en AJO
 
 * Specifieke extensies implementeren, zoals Toestemming, Identiteit en Analyse, voor op maat gemaakte functies.
 * Extensies configureren voor Campaign Classic- en mediaberichten.
-* Leveraging Assurance voor foutopsporing, validatie en simulatie van processen voor gegevensverzameling.
+* Assurance gebruiken voor foutopsporing, validatie en simulatie van gegevensverzamelingsprocessen.
 
 Door zich op deze belangrijkste reisroutes te concentreren, kunnen de ondernemingen hun mobiele strategieën verbeteren, gebruikersbetrokkenheid verbeteren, en persoonlijke ervaringen verstrekken effectief gebruikend de Oplossingen van de Adobe.

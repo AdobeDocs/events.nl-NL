@@ -1,6 +1,6 @@
 ---
 title: Workfront Mastery - Strategieën voor succes
-description: Geef uw team de mogelijkheid om strategieën te ontwikkelen om Adobe Workfront optimaal te benutten. In deze sessie zullen onze experts u begeleiden door beste praktijken die waarde bieden, governance vereenvoudigen en acceptatie stimuleren.Belangrijkste discussiepunten:waarde voor het bedrijf leveren - Overwegingen voor het afstemmen van werk op strategische doelstellingenToetsen aan Workfront-bestuur - Leer hoe u incrementele waarde kunt bieden terwijl u de adoptie kunt verbeterenOvername optimaliseren door de gebruikerservaring te optimaliseren - Ontdek hoe Workfront een vereenvoudigde gebruikerservaring biedt
+description: Geef uw team de mogelijkheid om strategieën te ontwikkelen om Adobe Workfront optimaal te benutten. In deze sessie zullen onze experts u begeleiden door middel van best practices die waarde bieden, het bestuur vereenvoudigen en adoptie stimuleren.
 solution: Workfront
 role: Admin, Developer, Leader, User
 level: Intermediate
@@ -8,13 +8,13 @@ doc-type: Event
 duration: 2132
 last-substantial-update: 2024-10-30T00:00:00Z
 jira: KT-16415
-source-git-commit: 3f245f71cd4db5097b5a9e712114112451d899e4
+exl-id: d14b344c-5b41-4e9c-bae1-02db12771b48
+source-git-commit: ef652eb09c33f11d69ec66f70013cd3e53537a95
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '263'
 ht-degree: 0%
 
 ---
-
 
 # Workfront Mastery: strategieën voor succes
 

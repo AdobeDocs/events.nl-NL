@@ -1,6 +1,6 @@
 ---
 title: Real-Time CDP - Hoofdlettergebruik toewijzen aan oplossingsmogelijkheden
-description: Dit webinar onderzoekt zeer belangrijke manieren om gebruiksgevallen te onderzoeken en voorrang te geven, hen in kaart te brengen aan specifieke eigenschappen RTCDP, en groepering aan bedrijfsresultaten en waarde te verzekeren. Belangrijkste discussiepunten - Gebruik de Gevallen RT-CDP solves voor en het prioriteren van die specifiek voor bedrijfsresultaten ​ het richten van RT-CDP mogelijkheden aan prioritaire gebruiksgevallen
+description: Dit webinar verkent zeer belangrijke manieren om gebruiksgevallen te onderzoeken en voorrang te geven, hen in kaart te brengen aan specifieke eigenschappen in real time CDP, en groepering te verzekeren aan bedrijfsresultaten en waarde.
 solution: Real-Time Customer Data Platform
 role: Admin, Developer, Leader, User
 level: Intermediate
@@ -9,9 +9,9 @@ duration: 2421
 last-substantial-update: 2024-06-07T00:00:00Z
 jira: KT-15560
 exl-id: ebc38b82-52a7-4f8c-8ac7-f6e9f3fd2c55
-source-git-commit: 4471d715fb226701bdad95ffe2834e763451c7ea
+source-git-commit: ef652eb09c33f11d69ec66f70013cd3e53537a95
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '182'
 ht-degree: 0%
 
 ---
@@ -39,7 +39,7 @@ Dit webinar verkent zeer belangrijke manieren om gebruiksgevallen te onderzoeken
 
 * Effecten op gebruiksgevallen zoals herbestemming van betaalde media en personalisatie
 
-**Vergelijking van CDP in real time met Audience Manager DMP**
+**Vergelijking van CDP In real time met de Audience Manager van DMP**
 
 * Focus op gegevensinvoer, publieksbeheer en structuren voor gegevensuitvoer
 

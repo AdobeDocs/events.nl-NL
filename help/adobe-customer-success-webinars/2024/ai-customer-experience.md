@@ -1,6 +1,6 @@
 ---
 title: RTCDP-inzichten — Inspelen van AI voor Klantervaring
-description: Ontdek hoe Adobe Real-time Customer Data Platform (RTCDP) de uitdagingen aanpakt door gebruik te maken van artificiële intelligentie (AI) om marktanalisten te voorzien van verbeterde mogelijkheden, voorspellende-nestmodellen te bouwen en de ervaringen van klanten te optimaliseren via versnelde inzichten.Belangrijkste discussiepunten:- Uitdaging, oplossing en voordelen van de AI-architectuur op hoog niveau van de klant - AI-modellen van de klant
+description: Ontdek hoe Adobe Real-time Customer Data Platform (RTCDP) gebruik maakt van AI om de mogelijkheden van marktanalisten te verbeteren, voorspellende aandrijvingsmodellen te bouwen, en klantenervaringen te optimaliseren door versnelde inzichten, die belangrijke onderwerpen zoals de uitdagingen van AI van de Klant, oplossingen, voordelen, high-level architectuur, en AI modellen behandelen.
 solution: Real-Time Customer Data Platform
 role: Admin, Developer, Leader, User
 level: Intermediate
@@ -8,13 +8,13 @@ doc-type: Event
 duration: 2453
 last-substantial-update: 2024-10-02T00:00:00Z
 jira: KT-16269
-source-git-commit: 2552636b85de07bec762083103a50b207798d71f
+exl-id: fe4c4ebb-9f3c-4dc3-8bc7-529296346404
+source-git-commit: ef652eb09c33f11d69ec66f70013cd3e53537a95
 workflow-type: tm+mt
-source-wordcount: '302'
+source-wordcount: '295'
 ht-degree: 0%
 
 ---
-
 
 # RTCDP-inzichten: Intensief werken met AI voor Klantervaring
 

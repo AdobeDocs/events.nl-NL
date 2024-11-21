@@ -1,6 +1,6 @@
 ---
 title: Grondbeginselen van Workfront System and Group Admin Guardianship
-description: Leer om de juiste verhouding van de Beheerders van het Systeem van uw Workfront instantie aan de beheerders van de Groep adequaat te bepalen en waarom het laten gaan van een paar sleutels aan het koninkrijk niet zo riskant of eng moet zijn zoals men aanvankelijk zou kunnen waarnemen. Deze opname zal beste praktijken betreffende admin personeel, het verdelen van administratieve werkbelasting, het handhaven van gegevensintegriteit en scalability in hun ondernemingsinstanties en ook het delen van één of andere inspanning overzien.
+description: Ontdek beste praktijken voor het bepalen van het juiste evenwicht van de Beheerders van het Systeem en van de Groep van Workfront, het verdelen van werklasten, en het handhaven van gegevensintegriteit om uw onderneming efficiënt en veilig te schrapen.
 solution: Workfront
 role: Admin, Developer, Leader, User
 level: Intermediate
@@ -8,13 +8,13 @@ doc-type: Event
 duration: 3455
 last-substantial-update: 2024-08-27T00:00:00Z
 jira: KT-16037
-source-git-commit: d1186a48229d38d8c5549286357ef1108dfac916
+exl-id: b5997fdf-7e5c-4a96-8968-0898dd8f1ab7
+source-git-commit: ef652eb09c33f11d69ec66f70013cd3e53537a95
 workflow-type: tm+mt
-source-wordcount: '315'
+source-wordcount: '275'
 ht-degree: 0%
 
 ---
-
 
 # Grondbeginselen van Workfront System and Group Admin Guardianship
 
