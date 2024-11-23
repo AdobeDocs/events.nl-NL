@@ -1,6 +1,6 @@
 ---
 title: Reisbeheer van klanten - Levenscyclusmodellering
-description: Omvat correct het opzetten van uw levenscyclus van het begin, behoorlijk het segmenteren van mensen in de koopreis, in-product demonstratie van het levenscyclusmodel en diverse beschikbare rapportering en analyses om de doeltreffendheid van uw klantensegmenten te helpen analyseren.
+description: Onderzoek hoe transparantie marketing geloofwaardigheid met Cynthia Chang en James Leedom bouwt aangezien zij strategieën voor de opstelling van levenscyclus, reissegmentatie delen, en de modellerings, rapportering, en analysehulpmiddelen van de levenscyclus van Marketo Engage aantonen.
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -10,9 +10,9 @@ thumbnail: 3420763.jpeg
 event-start-time: 2023-6-30 08:30-8
 exl-id: e31120ae-3bdd-4974-953b-1f007c6962a8
 duration: 3772
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '203'
+source-wordcount: '197'
 ht-degree: 0%
 
 ---

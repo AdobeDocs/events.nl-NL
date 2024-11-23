@@ -1,6 +1,6 @@
 ---
 title: Marketo & Mochas - Looptijd Deel 2 - Uw Marketo-gebruik optimaliseren
-description: In deel 2 van onze 3-delige reeks over Marketo Maturity vindt u meer informatie over het optimaliseren van uw Marketo-gebruik. Deze sessie begint met de beste praktijken voor gegevensbeheer, waarbij de nadruk ligt op hulpmiddelen zoals een gegevenswoordenboek en System Smart Lists om de normalisatie van gegevens en het beheer van records te verbeteren. Vervolgens geven we een overzicht van best practices op het gebied van integratie, waarbij zowel native CRM-integratie als insteekmodules van derden worden benadrukt. Onze bedrijfsadviseurs zullen ook uiteinden voor programmaoptimalisering delen om verpersoonlijking te verbeteren en uw doelpubliek uit te breiden.
+description: Word bedrijfsadviseurs van de Adobe, Cynthia Chang en Carly Gaver, voor Deel 2 van de Marketo Looptijdreeks, die zich op gegevensbeheer, de integratie van CRM, en campagneroptimalisering richt om uw gebruik van Marketo, met levende Q&A te verbeteren.
 solution: Marketo
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -8,13 +8,13 @@ doc-type: Event
 duration: 3562
 last-substantial-update: 2024-09-24T00:00:00Z
 jira: KT-16234
-source-git-commit: d5584d9714f046ed32853edb7602123487ad9ac9
+exl-id: 06e58ede-e2bd-4b48-b335-f91a818246cd
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '256'
 ht-degree: 0%
 
 ---
-
 
 # Marketo &amp; Mochas: Rijheid, Deel 2 - Uw Marketo-gebruik optimaliseren
 

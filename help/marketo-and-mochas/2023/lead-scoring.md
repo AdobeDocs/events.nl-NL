@@ -1,6 +1,6 @@
 ---
 title: Marketo en Mochas - Scores voor lead
-description: In de openingssessie van Marketo & Mochas zijn marketingadviseurs voor Automation Business, Cynthia Chang en Kelvin Ieng te vinden. Deze sessie gaat over de voordelen van 'lead scoring', hoe u uw 'lead scoring'-modellen kunt instellen, strategen en beoordelen. Kelvin loopt door een levende demonstratie van hoe te opstelling een lood die model binnen  [!DNL Marketo Engage]  scoren en met 3 zeer belangrijke routes eindigt. De presentatie en de demo gaan vergezeld van een live-vraag met Kelvin en Cynthia.
+description: Leer de voordelen van loodscoring met Cynthia Chang en Kelvin Ieng in Marketo & Mochas, met strategieën, instellingen en een live demo in Marketo Engage, plus belangrijke reisroutes en live vragen en antwoorden.
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -10,9 +10,9 @@ thumbnail: 3412722.jpeg
 exl-id: f7a309d6-e5e6-46f7-91b9-a19ce4c2c3fd
 event-start-time: 2023-6-7 08:30-8
 duration: 3631
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '113'
 ht-degree: 0%
 
 ---

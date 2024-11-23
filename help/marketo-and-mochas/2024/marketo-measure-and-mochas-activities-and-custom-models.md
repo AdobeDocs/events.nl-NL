@@ -1,19 +1,19 @@
 ---
 title: Marketo Measure- en Mochas-activiteiten en aangepaste modellen
-description: Leer strategieën voor het maximaliseren van Adobe Marketo Measure met aangepaste kenmerkingsmodellen en activiteitenkenmerk. Schakel deel uit van Adobe-experts Kate Colbert en James Leedom als ze laten zien hoe ze toewijzingsweging aanpassen, aanraakpunten maken vanuit CRM-activiteiten en verkoop- en marketinggegevens uitlijnen. Ontdek voorbeelden uit de praktijk en beantwoord uw vragen in een live sessie met vragen en antwoorden.
+description: U kunt zich aansluiten bij Adobe Business Advisor Kate Colbert en technisch adviseur van de Klant James Leedom bij het verkennen van strategieën voor het benutten van Custom Attribution Models and Activity Attribution in Adobe Marketo Measure, het demonstreren van voorbeelden uit de praktijk en het afsluiten met een live Q&A-sessie.
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 4080
 last-substantial-update: 2024-08-16T00:00:00Z
 jira: KT-15926
-source-git-commit: d1186a48229d38d8c5549286357ef1108dfac916
+exl-id: 21a6d921-abe4-4787-b51f-f57faf669c1f
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '219'
 ht-degree: 0%
 
 ---
-
 
 # Marketo Measure &amp; Mochas: Activiteiten en aangepaste modellen
 

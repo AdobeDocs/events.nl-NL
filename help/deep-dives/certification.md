@@ -1,6 +1,6 @@
 ---
 title: Het investeren in uzelf - Adobe  [!DNL Marketo Engage]  Certificatie
-description: Hebt u interesse gehad in het certificeringsproces en hoe kan het uw marketingcarrière helpen? Of misschien bent u geïnteresseerd in het proces om het examen te bestuderen, voor te bereiden en te nemen? Word Adobe  [!DNL Marketo Engage]  Champions aangezien zij hun reis bespreken om een Marketo Verklaarde Deskundige of Architect te worden!
+description: Vreemd over hoe certificering uw marketingcarrière kan stimuleren? Word Adobe Marketo Engage Champions als ze hun ervaringen en tips delen over het studeren, voorbereiden en het examen afleggen om een Marketo Certified Expert of Architect te worden!
 role: Admin, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -9,9 +9,9 @@ jira: KT-12941
 thumbnail: 3416760.jpeg
 exl-id: aea1f3e5-3b28-432f-95df-a4eb300830c8
 duration: 3331
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '98'
 ht-degree: 0%
 
 ---

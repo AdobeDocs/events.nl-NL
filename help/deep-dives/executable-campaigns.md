@@ -1,6 +1,6 @@
 ---
 title: Uitvoerbare campagnes - Leer hoe uitvoerbare bestanden de efficiëntie en impact kunnen verhogen
-description: De sessie is toegesneden op Marketo-beheerders en -campagnegebruikers en richt zich op het begrijpen en implementeren van uitvoerbare campagnes om waarde toe te voegen aan campagnes en programma's, efficiëntie te creëren en groei te stimuleren.
+description: Join Chris Willis, Courtny Edwards-Jones, en Jane Musatova in deze Adobe Champion Deep Dive leren hoe uitvoerbare campagnes in Marketo processen kunnen stroomlijnen, gegevensnauwkeurigheid kunnen verzekeren, en complexe werkschema's kunnen automatiseren, met praktische voorbeelden en een nadruk op het minimaliseren van fouten en backlogs.
 role: Developer, User
 level: Intermediate, Experienced
 doc-type: Event
@@ -9,9 +9,9 @@ last-substantial-update: 2024-03-07T00:00:00Z
 jira: KT-15098
 thumbnail: 3427704.jpeg
 exl-id: cfea1a1a-2d29-4cf6-b633-aa2a2523114e
-source-git-commit: 5edfadf5b805161f9624068f70a7b4830ab84d72
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '468'
+source-wordcount: '479'
 ht-degree: 0%
 
 ---

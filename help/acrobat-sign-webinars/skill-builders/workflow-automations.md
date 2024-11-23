@@ -9,9 +9,9 @@ duration: 1109
 last-substantial-update: 2024-04-30T00:00:00Z
 jira: KT-15303
 exl-id: 72fc12aa-05fe-4856-9c34-bb61f6f3a295
-source-git-commit: a9055b8c455e5a28cc47f350644a7ae1a428d9bc
+source-git-commit: 27c53f62fe63e9b166b46cefa04abcdcc7823556
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '272'
 ht-degree: 0%
 
 ---
@@ -26,6 +26,6 @@ Maak gebruik van alle automatiseringsmogelijkheden met Microsoft&#39;s low-code/
 
 * Het doel van Power Automate is een oplossing met lage code/geen code te bieden waarmee niet-ontwikkelaars complexe workflows of stromen kunnen maken in Microsoft-termen.
 * Het laat gebruikers toe om taken en processen te automatiseren door prebuilt schakelaars te gebruiken om met honderden andere systemen en toepassingen te werken. Met Power Automate kunnen gebruikers gegevens lezen en schrijven, processen starten en handelingen uitvoeren met deze connectors, allemaal via een grafische configuratie voor slepen en neerzetten. De gegevens worden automatisch weergegeven en zijn beschikbaar voor gebruik in volgende triggers en handelingen.
-* &#x200B; Bovendien kunnen gebruikers met Power Automate geautomatiseerde workflows in Adobe Acrobat Sign maken en gebruiken zonder dat IT-medewerkers erbij hoeven te worden betrokken.
+* &#x200B; Bovendien kunnen gebruikers met Power Automate geautomatiseerde workflows in Adobe Acrobat Sign maken en gebruiken zonder dat ze daarbij IT-personeel hoeven te betrekken.
 * Deze geautomatiseerde workflows kunnen de efficiëntie, de productiviteit en fouten verhogen.
 * Met Power Automate kunnen niet-beheerders ook workflows maken en gebruikers een platform bieden om taken en processen te automatiseren door stromen te maken die verschillende toepassingen en services met elkaar verbinden. Het biedt een brede waaier van trekkers en acties aan die kunnen worden gebruikt om aangepaste werkschema&#39;s te bouwen die op specifieke bedrijfsbehoeften worden gebaseerd.

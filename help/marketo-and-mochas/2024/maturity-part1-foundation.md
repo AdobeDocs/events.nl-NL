@@ -1,19 +1,19 @@
 ---
 title: Marketo & Mochas - Looptijd Deel 1 - De Stichting oprichten
-description: Sluit u aan bij de bedrijfsadviseurs van Adobe, Cynthia Chang en Carly Gaver, omdat zij waardevolle inzichten delen over de rijpheidscurve van Marketo om de uitbreiding van het gebruik van Marketo door uw organisatie te begeleiden.
+description: Bekijk de Marketo Maturity Curve van de Adobe samen met bedrijfsadviseurs, Cynthia Chang en Carly Gaver, die inzichten bieden over het optimaliseren van technische instellingen, het implementeren van best practices en het onderhouden van effectieve documentatie en platformgovernance, met een live demonstratie van de bibliotheek met programmasjablonen.
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3512
 last-substantial-update: 2024-08-06T00:00:00Z
 jira: KT-15907
-source-git-commit: 6c14ae9f4f638b202afa922fe814429a8742160e
+exl-id: fc39cc75-a8b9-4398-a059-7a5fe947e296
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '163'
 ht-degree: 0%
 
 ---
-
 
 # Marketo &amp; Mochas: Looptijd Deel 1 - De stichting oprichten
 

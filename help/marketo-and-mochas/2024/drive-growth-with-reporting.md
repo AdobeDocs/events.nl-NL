@@ -1,6 +1,6 @@
 ---
 title: Marketo & Mochas - Groei stimuleren met Rapportering (Looptijd Pt 3)
-description: Word lid van de bedrijfsadviseurs van Adobe, Cynthia Chang en Carly Gaver, voor deel 3 van onze Marketo-webinarreeks over het stimuleren van de groei van bedrijven met rapportagetools voor Marketo. In ons laatste webinar van de reeks bespreken we hoe we de rapportagemogelijkheden van Marketo kunnen gebruiken om u te helpen volwassen te worden in uw gebruik van Marketo. We beginnen met tips over hoe u native Marketo-functies kunt gebruiken en rapporteren om de prestaties van uw instantie te controleren. Vervolgens bekijken we hoe we door Marketo kunnen navigeren in basis- en geavanceerde rapportering om nauwkeurige, onechte metriek te leveren die uw besluitvormingsproces verbetert en helpt uw bedrijfsdoelstellingen te bereiken. Mis deze kans niet om het potentieel van uw marketing rapportering en analyse te maximaliseren. We beantwoorden uw vragen zoals altijd live tijdens de sessie met vragen en antwoorden.
+description: Doe mee met de Business Advisors van Adobe, Cynthia Chang en Carly Gaver, voor Deel 3 van de Marketo-webinarserie over de rijpheid, en ontdek hoe u de rapportagetools van Marketo kunt benutten om de groei van uw bedrijf te stimuleren, de prestaties te controleren en onbruikbare meetgegevens te leveren, met live vragen en antwoorden.
 solution: Marketo
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -8,13 +8,13 @@ doc-type: Event
 duration: 3505
 last-substantial-update: 2024-10-30T00:00:00Z
 jira: KT-16392
-source-git-commit: 3f245f71cd4db5097b5a9e712114112451d899e4
+exl-id: 4ad37a4b-8544-4000-8e21-062e3f93909e
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '536'
+source-wordcount: '452'
 ht-degree: 0%
 
 ---
-
 
 # Marketo &amp; Mochas: Driving Growth with Reporting (Looptijd deel 3)
 

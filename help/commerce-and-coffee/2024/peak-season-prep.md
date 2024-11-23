@@ -1,6 +1,6 @@
 ---
 title: Commerce en koffie - Voorbereiding van piekseizoen
-description: alles wat u moet weten om uw plaats behoorlijk voor te bereiden op een piekseizoen op elk ogenblik van jaar. doeltreffende strategieën om niet alleen concurrerend te blijven , maar ook vóór de concurrentie . Leer hoe u de prestaties van uw website kunt optimaliseren, uw voorraad kunt beheren en de klantenondersteuning proactief kunt opvoeren. Corey bespreekt ook de beste praktijken voor het plannen van efficiënte marketing campagnes die omzettingen drijven, bestellingen vervullen, en uw campagnes analyseren met analyses en het melden van het postpiekseizoen.
+description: De sessie van Corey Gelato biedt strategieën voor eCommerce-bedrijven om tijdens piekseizoenen uit te blinken door de prestaties van websites te optimaliseren, inventarisatie te beheren, de betrokkenheid van klanten met AI-tools te verbeteren en post-seizoen analyses te gebruiken om het behoud en de loyaliteit te verbeteren.
 solution: Commerce
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -8,13 +8,13 @@ doc-type: Event
 duration: 3436
 last-substantial-update: 2024-09-24T00:00:00Z
 jira: KT-16235
-source-git-commit: d5584d9714f046ed32853edb7602123487ad9ac9
+exl-id: 8dc72811-74db-485a-ac25-e2647d0848f7
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '262'
 ht-degree: 0%
 
 ---
-
 
 # Commerce en koffie: voorbereiding van piekseizoen
 

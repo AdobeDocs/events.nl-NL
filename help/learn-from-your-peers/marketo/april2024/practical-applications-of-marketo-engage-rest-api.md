@@ -1,6 +1,6 @@
 ---
 title: De krachtige Automatisering van het Werkschema ontgrendelen - Praktische Toepassingen van Marketo Engage REST API
-description: Ontdek de kracht van de REST API voor Marketo's Engage, zodat u uw workflows voor marketingactiviteiten kunt stroomlijnen, handmatige arbeid kunt verminderen en tijd vrij kunt maken voor activiteiten die de inkomsten verhogen. Met behulp van REST API kunt u automatiseringsprogramma's zoals Zapier gebruiken om geautomatiseerde workflows en programmeertalen zoals Python te activeren en acties bulksgewijs uit te voeren.In dit webinar zult u:- Leer wat de REST API van het Marketo Engage is, hoe u uw eerste API-gebruiker kunt maken en hoe u het gebruik van API voor verschillende gebruikers kunt controleren.- Begrijp hoe de REST API kan worden gebruikt vanuit gereedschappen zoals Zapier en programmeertalen zoals Python.- U kunt zich laten inspireren door praktijkvoorbeelden van de manier waarop de REST API kan worden gebruikt om typische workflows voor marketingbewerkingen te stroomlijnen, zoals het samenvoegen van leads, het maken van UTM-trackingprogramma's en het ophalen van activiteitengegevens.
+description: Ontgrendel het potentieel van de REST API van het Marketo Engage om marketing werkschema's te automatiseren, hulpmiddelen zoals Zapier, hefboomwerking Python voor bulkacties te integreren, en taken zoals het samenvoegen van lood, het volgen van UTM, en de extractie van activiteitengegevens te stroomlijnen.
 feature: REST API
 role: Admin
 level: Beginner, Intermediate
@@ -9,9 +9,9 @@ duration: 2447
 last-substantial-update: 2024-04-19T00:00:00Z
 jira: KT-15347
 exl-id: bdfc3a26-0af1-4f39-b9ed-2842fecea17c
-source-git-commit: 18df838cce497b57c9bee0229bd2e7fc2ffde999
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '201'
 ht-degree: 0%
 
 ---

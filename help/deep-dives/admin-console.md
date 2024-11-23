@@ -1,6 +1,6 @@
 ---
 title: Marketo Engage op identiteit Adobe voorbereiden
-description: Een exclusieve training voor de komende Adobe Admin Console Migration. Deze vergadering heeft de stijl 'Train the Trainer', zodat u kunt nemen wat u leert en uw hoofdstukken kunt onderwijzen over deze aanstaande wijziging.
+description: Neem deel aan deze trainingssessie om u voor te bereiden op het migreren van abonnementen op Marketo's Engage naar Adobe-id, waarbij u de nadruk legt op gebruikersmigratie, sleutelhandelingen en essentiële resources voor beheerders, met richtlijnen voor het navigeren in de migratieconsole en het begrijpen van wijzigingen bij elke mijlpaal.
 solution: Marketo
 feature: Administration
 role: Admin, Developer, Leader, User
@@ -10,9 +10,9 @@ duration: 3416
 last-substantial-update: 2024-06-28T00:00:00Z
 jira: KT-15797
 exl-id: 811852d0-9900-43cc-b6d8-29c8b2fef40c
-source-git-commit: 7358d62eee1468e65b4ec073de1344a54dac41ce
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '220'
 ht-degree: 0%
 
 ---

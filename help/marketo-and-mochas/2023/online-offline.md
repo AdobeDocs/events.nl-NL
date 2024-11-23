@@ -1,6 +1,6 @@
 ---
 title: Online versus offline kanalen
-description: Kijk nader naar de strategische configuratie van Kanalen en Subkanalen, instructieoverzicht van Online en Off-line kanaalbeheer, hoe zij werken, de zitting toont demonstraties in-product en herziet beste praktijken die door attribuutdeskundigen worden gebruikt
+description: Word lid van de Adviseurs van de Onderneming van de Automatisering van de Marketing van de Adobe, Kate Colbert en Elizabeth Lundberg, voor een diepgaande 90 minuten zitting over het optimaliseren van Online en Offline kanalen met de Attributie van Marketo Measure, die strategische configuraties, beste praktijken, en levende Q&A kenmerkt.
 solution: Marketo Measure
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -10,9 +10,9 @@ jira: KT-13750
 thumbnail: 3422363.jpeg
 exl-id: d11e2351-81d3-42ae-baf2-dc9b487cc9b5
 duration: 5434
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---

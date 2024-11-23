@@ -9,9 +9,9 @@ jira: KT-13023
 thumbnail: 3417670.jpeg
 exl-id: bcba7f0e-8de0-47b3-adfc-75eb5b756031
 duration: 4002
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '103'
 ht-degree: 0%
 
 ---
@@ -22,4 +22,4 @@ U wordt verzocht deel te nemen aan de huidige Adobe [!DNL Marketo Engage] Champi
 
 >[!VIDEO](https://video.tv.adobe.com/v/3417670/?quality=12&learn=on)
 
-Klik **[hier](assets/small-team-instance.pdf){target="_blank"}** voor de zittingsdia&#39;s.
+Download a **[pdf versie](assets/small-team-instance.pdf){target="_blank"}** van zittingsdia&#39;s.

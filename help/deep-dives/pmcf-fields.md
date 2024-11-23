@@ -1,8 +1,8 @@
 ---
 title: Gebruik van PMCF-velden voor schaalbaarheid
-description: Hierin wordt het gebruik van Custom Fields (PMCF) van het Lid van het Programma in Marketo voor scalability besproken. De zitting behandelt definities, doeleinden, regels, en gebruiksgevallen voor PMCFs. Aanbevolen procedures voor het gebruik van PMCF's voor het wijzigen van gegevens, referentiegegevens en het bijhouden van unieke gebeurtenisgegevens, zoals UTM-parameters voor webinars. PMCF's zijn over het algemeen een waardevol instrument voor marktpartijen die complexe marketingprogramma's in Marketo willen beheren en schalen.
+description: Leer hoe u in Marketo aangepaste velden voor programmaleden (PMCF) kunt gebruiken voor schaalbaarheid, waaronder best practices voor gegevensbeheer, persoonlijke communicatie en nauwkeurige rapportage, zoals besproken in de Adobe Marketo Engage Champion Deep Dive-video.
 solution: Marketo Engage
-feature-set: "Marketo Engage"
+feature-set: Marketo Engage
 feature: Field Management
 role: Admin, Developer, User
 level: Intermediate, Experienced
@@ -10,13 +10,13 @@ doc-type: Event
 duration: 3059
 last-substantial-update: 2024-06-28T00:00:00Z
 jira: KT-15784
-source-git-commit: 4471d715fb226701bdad95ffe2834e763451c7ea
+exl-id: 9fd094c3-d6ad-410e-aeae-1b6bf3f012bd
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '309'
+source-wordcount: '281'
 ht-degree: 0%
 
 ---
-
 
 # Gebruik van PMCF-velden voor schaalbaarheid
 
@@ -32,7 +32,7 @@ In de video &quot;Adobe Marketo Engage Champion Deep Dive&quot; bespreken de pre
 * Contextgegevens op programmaniveau toestaan.
 * Maximaal 20 aangepaste velden per programma.
 * Methoden voor het importeren van gegevens: het importeren van lijsten, formuliervullingen en stroomstappen.
-* Synchroniseer met de leden van de Salesforce-campagne voor consistentie van de gegevens.
+* Synchroniseer met Salesforce-campagnegeleden voor consistentie van de gegevens.
 * Gebruik in e-mails, bestemmingspagina&#39;s en waarschuwingen voor persoonlijke communicatie.
 * Het bijhouden, analyseren en rapporteren van programmaspecifieke gegevens verbeteren.
 

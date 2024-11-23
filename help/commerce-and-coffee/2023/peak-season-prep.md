@@ -1,6 +1,6 @@
 ---
 title: Voorbereiding piek seizoen
-description: Corey Gelato neemt een diepe duik in de beste praktijken en strategieën voor het piekseizoen, leert uw goederen en/of services met succes en effectief te promoten op uw locatie(s) en blijft competitief gedurende een piekseizoen op elk moment van het jaar. Nadat Corey een demonstratie heeft gegeven van functies zoals het opdelen en voorvertonen van inhoud, promoties, de regels voor catalogusprijzen en winkelprijzen en nog veel meer, beantwoordt het vragen tijdens een live sessie met vragen en antwoorden.
+description: Sluit u aan bij Corey Gelato om piekseizoenstrategieën te verkennen, waaronder promoties, inhoudstaging en prijsregels, met live demonstraties en tips van experts om uw site voor eCommerce het hele jaar concurrerend te houden.
 solution: Commerce
 feature-set: Commerce
 feature: Promotions/Events, Catalog Management, Catalog Service, Checkout, Best Practices, Price Rules
@@ -12,9 +12,9 @@ jira: KT-13992
 thumbnail: 3424390.jpeg
 exl-id: 48986967-b794-4dc9-8a17-d38800ae90aa
 duration: 3580
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---

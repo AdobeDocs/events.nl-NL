@@ -1,6 +1,6 @@
 ---
 title: Adobe Marketo Engage Champion Deep Dive - Webhooks gebruiken om gegevens over te brengen
-description: Soms is het niet nodig om een API te maken, te testen en te implementeren. In plaats daarvan, kunt u met een webhaak zelf-dienen om een verscheidenheid van gegevensoverdrachten in uw CRM of andere geïntegreerde systemen uit te voeren. Sluit u aan bij Darshil Shah en Josh Arrington om te leren hoe u deze functie kunt gebruiken en snel de efficiëntie kunt verhogen! Gemaakt door John Grundy.
+description: Leer hoe u gegevens efficiënt kunt overbrengen met gebruik van websites in Marketo met Darshil Shah en Josh Arrington, inclusief gestructureerde gegevensverwerking, foutbeheer, verificatiemethoden en praktische gebruiksgevallen zoals CRM-integratie en e-commerce, onder toezicht van John Grundy.
 feature: Webhooks, Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -9,9 +9,9 @@ duration: 3185
 last-substantial-update: 2024-04-25T00:00:00Z
 jira: KT-15385
 exl-id: d8e22e01-724a-4b0c-855b-0adb29e98d30
-source-git-commit: 0dfaa269fd25df0845c4eeee442fb2859492b543
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '374'
+source-wordcount: '353'
 ht-degree: 0%
 
 ---

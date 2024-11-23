@@ -1,6 +1,6 @@
 ---
 title: API's
-description: Leer hoe u de Adobe-API van Marketo kunt gebruiken, leren hoe u basislijnverbindingen kunt maken, bergbewegende extensies kunt gebruiken en uw eerste API-aanroepen kunt maken. Leer meer over webhaken versus API, zodat u weet welk gereedschap het beste in uw oplossing kan worden toegepast. Leer best practices op het gebied van beveiliging, waaronder het miniaturen van uw rechtensets. Integreer met de cloud, profiteer van opslag en gebruik de kracht van de bulk-API voor import-/exporttaken.
+description: Sluit u aan bij ons om het volledige potentieel van de Adobe van de Marketo API te ontsluiten, van het maken van uw eerste API-aanroepen tot het benutten van bulkAPI's voor import-/exporttaken, het verkennen van websites versus API en het leren van beste praktijken voor gegevensbeveiliging en cloudintegratie, met eindeloze mogelijkheden om uw marketingstrategieën te veranderen.
 solution: Marketo Engage
 role: Admin, Architect, Developer, User
 level: Intermediate
@@ -10,9 +10,9 @@ jira: KT-13773
 thumbnail: 3422479.jpeg
 exl-id: 9620a016-8e4a-4cd9-9d63-2a731e0f226c
 duration: 3550
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '171'
 ht-degree: 0%
 
 ---

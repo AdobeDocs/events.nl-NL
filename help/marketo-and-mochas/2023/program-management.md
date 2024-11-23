@@ -1,6 +1,6 @@
 ---
 title: Marketo en Mochas - Best practices voor programmabeheer
-description: Programma's zijn een van de belangrijkste elementen van Marketo. Of u nu mappen instelt, aan naamgevingsconventies werkt, naar leden zoekt, de status van het programma controleert of alleen geïnteresseerd bent in het beheren van aanbevolen procedures.  Nieuwste updates van de sjablonen en creatieve elementen van de programmabibliotheek, samen met het delen van best practices voor programmabeheer en een demonstratie.
+description: Ontdek de essentiële elementen van Marketo-programma's, zoals mapinstellingen, naamgevingsconventies, onderzoeken van leden en statuscontroles van programma's, met de nieuwste updates van de sjablonen voor programmabibliotheken, creatieve middelen en demonstraties met aanbevolen procedures.
 solution: Marketo Engage
 feature-set: Marketo Engage
 feature: Programs, Templates
@@ -12,9 +12,9 @@ jira: KT-14226
 thumbnail: 3425070.jpeg
 exl-id: d3147987-3250-4d5c-a96a-e0bc41001528
 duration: 3501
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '155'
 ht-degree: 0%
 
 ---
