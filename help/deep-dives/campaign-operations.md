@@ -1,5 +1,5 @@
 ---
-title: Adobe Marketo Engage Champion Deep Dive - Campagne automatiseren en stroomlijnen met de Marketo API
+title: Campagne automatiseren en stroomlijnen met de Marketo API
 description: Ontdek hoe u uw marketingactiviteiten kunt stroomlijnen met de Marketo API in deze diepe duik, waar we zullen laten zien hoe we herhalende taken kunnen automatiseren, zoals het maken van e-mailbulletins, het volgen van programma's, het samenvoegen van duplicaten, het bijwerken van de programmakosten en het klonen van programma's, zodat u zich kunt concentreren op strategische initiatieven.
 role: Admin, Developer, User
 level: Intermediate, Experienced
@@ -7,9 +7,9 @@ doc-type: Event
 duration: 4370
 last-substantial-update: 2024-11-22T00:00:00Z
 jira: KT-16520
-source-git-commit: 27c53f62fe63e9b166b46cefa04abcdcc7823556
+source-git-commit: e54e738d55d4037f500d68597d2d29334ddddae9
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '339'
 ht-degree: 0%
 
 ---
