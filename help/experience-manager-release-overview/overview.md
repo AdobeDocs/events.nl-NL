@@ -4,10 +4,10 @@ description: Bekijk een kort overzicht van de nieuwste functies op Adobe Experie
 user-guide-breadcrumb: AEM Release Events
 exl-id: 5406adc9-173b-461b-bd91-59913d961aa0
 duration: 91
-source-git-commit: a4eae8c4a4176ced8b34be1e521f3beaac1ca8e4
+source-git-commit: a5b6c2c3150fcc98686fe74d68f186bfe4e1befa
 workflow-type: tm+mt
-source-wordcount: '186'
-ht-degree: 4%
+source-wordcount: '784'
+ht-degree: 0%
 
 ---
 
@@ -17,146 +17,240 @@ Bekijk een kort overzicht van de nieuwste functies op Adobe Experience Manager a
 
 ## Laatste update
 
-<table style="max-width: 50%;">
-  <tr>
-    <td>
-      <a href="2024/2024-9-0.md">
-        <img alt="2024.9.0 Release" src="https://video.tv.adobe.com/v/3433381?format=jpeg" />
-      </a>
-      <div>
-        <a href="2024/2024-9-0.md">
-          <strong> Release | 2024.9.0 </strong>
-        </a>
-      </div>
-      <em> Releasedatum september 2024 </em>
-      <p>
-        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Aanvullende informatie</a>
-      </p>
-    </td>
-  </tr>  
-</table>
+<!-- CARDS
+{cta = Watch}
+
+* 2024/2024-10-0.md
+
+-->
+<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
+<div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="2024.10.0 AEM Release Overview Video">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="2024/2024-10-0.md" title="2024.10.0 AEM Video over het overzicht van de release" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440501/?format=jpeg&nocache=1732753737912" alt="2024.10.0 AEM Video over het overzicht van de release"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="2024/2024-10-0.md" target="_blank" rel="referrer" title="2024.10.0 AEM Video over het overzicht van de release"> 2024.10.0 AEM het Overzicht van de Versie Video </a>
+                    </p>
+                    <p class="is-size-6">De functies in deze release zijn gericht op innovaties op het gebied van Experience Manager Assets en Cloud Service en bevatten de volgende functies:AEM Assets New Pricing and packaging voor AEM Assets met Assets Ultimate &amp; Asset PrimeAEM Cloud Service Forward logs naar meer bestemmingen. Pipeline-URL-omleidingen voor zakelijke gebruikers ​ RDE's ondersteunen Config Pipeline YAML ​ Interactive AEM Developer Console</p>
+                </div>
+                <a href="2024/2024-10-0.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Controle </span>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
 ## Oudere updates
 
-<table style="max-width: 50%;">
-  <tr>
-    <td>
-      <a href="2024/2024-8-0.md">
-        <img alt="2024.8.0 Release" src="https://video.tv.adobe.com/v/3433381?format=jpeg" />
-      </a>
-      <div>
-        <a href="2024/2024-8-0.md">
-          <strong> Release | 2024.8.0 </strong>
-        </a>
-      </div>
-      <em> Releasedatum augustus 2024 </em>
-      <p>
-        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Aanvullende informatie</a>
-      </p>
-    </td>
-    <td>
-      <a href="2024/2024-7-0.md">
-        <img alt="2024.7.0 Release" src="https://video.tv.adobe.com/v/3431707?format=jpeg" />
-      </a>
-      <div>
-        <a href="2024/2024-7-0.md">
-          <strong> Release | 2024.7.0 </strong>
-        </a>
-      </div>
-      <em> Releasedatum juli 2024 </em>
-      <p>
-        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Aanvullende informatie</a>
-      </p>
-    </td> 
-     <td>
-      <a href="2024/2024-6-0.md">
-        <img alt="2024.6.0 Release" src="https://video.tv.adobe.com/v/3430779?format=jpeg" />
-      </a>
-      <div>
-        <a href="2024/2024-6-0.md">
-          <strong> Release | 2024.6.0 </strong>
-        </a>
-      </div>
-      <em> Releasedatum juni 2024 </em>
-      <p>
-        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Aanvullende informatie</a>
-      </p>
-     </td>
-  </tr>
-  <tr> 
-     <td>
-      <a href="2024/2024-5-0.md">
-        <img alt="2024.5.0 Release" src="2024/assets/2024-5-0-thumb.png" />
-      </a>
-      <div>
-        <a href="2024/2024-5-0.md">
-          <strong> Release | 2024.5.0 </strong>
-          </br>
-        </a>
-      </div>
-      <em> Releasedatum Mei 2024 </em>
-    </td>
-    <td>
-      <a href="2024/2024-4-0.md">
-        <img alt="2024.4.0 Release" src="2024/assets/2024-4-0-thumb.png" />
-      </a>
-      <div>
-        <a href="2024/2024-4-0.md">
-          <strong> Release | 2024.4.0 </strong>
-          </br>
-        </a>
-      </div>
-      <em> Releasedatum april 2024 </em>
-    </td>
-    <td>
-      <a href="2024/2024-3-0.md">
-        <img alt="2024.3.0 Release" src="2024/assets/2024-3-0-thumb.png" />
-      </a>
-      <div>
-        <a href="2024/2024-3-0.md">
-          <strong> Release | 2024.3.0 </strong>
-          </br>
-        </a>
-      </div>
-      <em> Releasedatum april 2024 </em>
-    </td>   
-  </tr>
-  <tr> 
-    <td>
-      <a href="2024/2024-1-0.md">
-        <img alt="2024.1.0 Release" src="2024/assets/2024-1-0-thumb.png" />
-      </a>
-      <div>
-        <a href="2024/2024-1-0.md">
-          <strong> Release | 2024.1.0 </strong>
-          <br/>
-        </a>
-          <em> Releasedatum januari 2024 </em>
-      </div>
-    </td>
-    <td>
-      <a href="2023/2023-11-0.md">
-        <img alt="2023.11.0 Release" src="2023/assets/2023-11-0-thumb.png" />
-      </a>
-      <div>
-        <a href="2023/2023-11-0.md">
-          <strong> Release | 2023.11.0 </strong>
-          <br/>
-        </a>
-          <em> Releasedatum november 2023 </em>
-      </div>
-    </td>
-    <td>
-      <a href="2023/2023-10-0.md">
-        <img alt="2023.10.0 Release" src="2023/assets/2023-10-0-thumb.png" />
-      </a>
-      <div>
-        <a href="2023/2023-10-0.md">
-          <strong> Release | 2023.10.0 </strong>
-          <br/>
-        </a>
-          <em> Releasedatum oktober 2023 </em>
-      </div>
-    </td>
-  </tr>
-</table>
+<!-- CARDS
+{cta = Watch}
+
+  * 2024/2024-9-0.md
+  * 2024/2024-8-0.md
+  * 2024/2024-7-0.md
+  * 2024/2024-6-0.md
+  * 2024/2024-5-0.md
+  * 2024/2024-4-0.md
+  * 2024/2024-3-0.md
+  * 2024/2024-1-0.md
+  
+-->
+<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
+<div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="2024.9.0 AEM Release Overview Video">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="2024/2024-9-0.md" title="2024.9.0 AEM Video over het overzicht van de release" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434847/?format=jpeg&nocache=1732753739303" alt="2024.9.0 AEM Video over het overzicht van de release"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="2024/2024-9-0.md" target="_blank" rel="referrer" title="2024.9.0 AEM Video over het overzicht van de release"> 2024.9.0 AEM het Overzicht van de Versie Video </a>
+                    </p>
+                    <p class="is-size-6">De functies in deze release zijn gericht op innovaties op het gebied van Experience Manager Assets en Cloud Service en omvatten onder andere: AEM Assets - Asset Selector Enhancement to Support Collections ​ Assets Content Hub - support DRM (expired en licensed assets) ​ AEM Cloud Service - Cloud Manager Support for Edge Delivery ​ Edge Side Includes (ESI) ​ Basic Authentication ​ Interactive AEM Developer Console</p>
+                </div>
+                <a href="2024/2024-9-0.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Controle </span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="2024.8.0 AEM Release Overview Video">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="2024/2024-8-0.md" title="2024.8.0 AEM Video over het overzicht van de release" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433381/?format=jpeg&nocache=1732753739298" alt="2024.8.0 AEM Video over het overzicht van de release"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="2024/2024-8-0.md" target="_blank" rel="referrer" title="2024.8.0 AEM Video over het overzicht van de release"> 2024.8.0 AEM het Overzicht van de Versie Video </a>
+                    </p>
+                    <p class="is-size-6">De functies in deze release zijn gericht op innovaties in AEM Assets en Dynamic Media, Forms, Sites en Cloud Foundation en omvatten de volgende: Dynamic Media Composable Templates voor 1:1 dynamische variaties Forms GenAI Assistant Universal editor met nieuwe AEM inhoudstructuurintegratie ​ levenscyclus van DV-certificaten en ondersteuning voor Edge Delivery Services beheren via Cloud Manager Experience Audit Dashboard Verbeteringen in Pipeline Performance</p>
+                </div>
+                <a href="2024/2024-8-0.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Controle </span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="2024.7.0 AEM Release Overview Video">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="2024/2024-7-0.md" title="2024.7.0 AEM Video over het overzicht van de release" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3431707/?format=jpeg&nocache=1732753739316" alt="2024.7.0 AEM Video over het overzicht van de release"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="2024/2024-7-0.md" target="_blank" rel="referrer" title="2024.7.0 AEM Video over het overzicht van de release"> 2024.7.0 AEM het Overzicht van de Versie Video </a>
+                    </p>
+                    <p class="is-size-6">De eigenschappen in deze versie concentreren zich op de innovaties van Experience Manager Assets en van de Cloud Service en omvatten het volgende:AEM Assets:Content credentials in AEM Assets ​ AI aangedreven titels voor video met Dynamic Media ​ de Verbeteringen van de Selector van Activa voor Upload ​ Cloud Manager:Zelf configuratie van klant-geleide geloofsbrieven CDN ​ CDN de Waarschuwingen van de Regels van de Filter van de Winst ​ van het Verkeer ​</p>
+                </div>
+                <a href="2024/2024-7-0.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Controle </span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="2024.6.0 AEM release overview video">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="2024/2024-6-0.md" title="2024.6.0 AEM overzichtsvideo" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430779/?format=jpeg&nocache=1732753739294" alt="2024.6.0 AEM overzichtsvideo"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="2024/2024-6-0.md" target="_blank" rel="referrer" title="2024.6.0 AEM overzichtsvideo"> 2024.6.0 AEM versie overzichtsvideo </a>
+                    </p>
+                    <p class="is-size-6">De functies in de release van juni 2024 richten zich op AEM Assets met Content Hub, Dynamic Media met OpenAPI-mogelijkheden, verbeteringen in Assets Selector - tags en verlopen elementen, modellen van inhoudsfragmenten in Content Fragment Admin Console, Cloud Foundation - Privéopslagplaatsen in Cloud Manager toevoegen, en Cloud Foundation - Inhoudsherstel.</p>
+                </div>
+                <a href="2024/2024-6-0.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Controle </span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="2024.5.0 AEM Release Overview Video">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="2024/2024-5-0.md" title="2024.5.0 AEM Video over het overzicht van de release" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429503/?format=jpeg&nocache=1732753739313" alt="2024.5.0 AEM Video over het overzicht van de release"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="2024/2024-5-0.md" target="_blank" rel="referrer" title="2024.5.0 AEM Video over het overzicht van de release"> 2024.5.0 AEM het Overzicht van de Versie Video </a>
+                    </p>
+                    <p class="is-size-6">De functies in deze release zijn toegespitst op - Nieuwe Publish-opties voor AEM &amp; Dynamic Media Universal Editor Verbeteringen Migratie van Adaptive Forms Foundation Components to Core Components Additional Captcha Support in Adaptive Forms Cloud Foundation Enhancements</p>
+                </div>
+                <a href="2024/2024-5-0.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Controle </span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="2024.4.0 AEM Release Overview Video">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="2024/2024-4-0.md" title="2024.4.0 AEM Video over het overzicht van de release" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429111/?format=jpeg&nocache=1732753739287" alt="2024.4.0 AEM Video over het overzicht van de release"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="2024/2024-4-0.md" target="_blank" rel="referrer" title="2024.4.0 AEM Video over het overzicht van de release"> 2024.4.0 AEM het Overzicht van de Versie Video </a>
+                    </p>
+                    <p class="is-size-6">De functies in deze release zijn gericht op innovaties in Experience Manager Assets en Cloud Service en bevatten de volgende:AEM Assets:1-klik asset/ folder hernoemen in Assets ViewVereenvoudigde zoekervaring met gebruik van natuurlijke taalVoorvertoning dynamische uitvoeringen inclusief Smart Crop from Assets View Edit Video's eenvoudig in AEM met Express Quick ActionsCloud Manager:CDN-optimalisaties en tuningZelfserverconfiguratie van versiebeheer en controleleidingstakenLogboekbeheertaken uitbreiden naar leveranciers voorbij Splunk, met zelf-dient, specifieke IP supportCDN steun voor ESI, ook via SDIImproved Java registreren ervaring voor RDE</p>
+                </div>
+                <a href="2024/2024-4-0.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Controle </span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="2024.3.0 AEM Release Overview Video">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="2024/2024-3-0.md" title="2024.3.0 AEM Video over het overzicht van de release" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428344/?format=jpeg&nocache=1732753739309" alt="2024.3.0 AEM Video over het overzicht van de release"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="2024/2024-3-0.md" target="_blank" rel="referrer" title="2024.3.0 AEM Video over het overzicht van de release"> 2024.3.0 AEM het Overzicht van de Versie Video </a>
+                    </p>
+                    <p class="is-size-6">High Impact Ervaring AEM Authoring met Edge Delivery Services Edge Delivery Services voor FormsContent door iedereen, voor alle Universal Editor ActionScript AEM Sites - Generate Content Variations (GenAI) Rapid Development CruD OpenAPIs for Content Fragments and ModelsCloud Service Foundation Advanced NetworkingAndere opmerkelijke verbeteringen Vergelijken ondersteuning voor multisite beheer van contentfragmentversies voor ervaringsfragmenten Bijgewerkte Content Importer v1.51.5110 Sidekick Extension v6.41.0</p>
+                </div>
+                <a href="2024/2024-3-0.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Controle </span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="2024.1.0 AEM Release Overview Video">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="2024/2024-1-0.md" title="2024.1.0 AEM Video over het overzicht van de release" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427041/?format=jpeg&nocache=1732753739318" alt="2024.1.0 AEM Video over het overzicht van de release"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="2024/2024-1-0.md" target="_blank" rel="referrer" title="2024.1.0 AEM Video over het overzicht van de release"> 2024.1.0 AEM het Overzicht van de Versie Video </a>
+                    </p>
+                    <p class="is-size-6">De functies in deze release zijn gericht op innovaties op het gebied van Experience Manager Assets en Cloud Service en omvatten onder andere de volgende functies: AEM Assets - AEM Assets Cloud Service &amp; Adobe Journey Optimizer Integration, Smart Tags Lijst van gewezen personen, OOTB Video Preview-uitvoering, Cloud Manager - Aangepaste machtigingen</p>
+                </div>
+                <a href="2024/2024-1-0.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Controle </span>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
