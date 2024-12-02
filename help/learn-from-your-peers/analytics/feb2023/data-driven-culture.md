@@ -1,5 +1,5 @@
 ---
-title: '[!DNL Adobe Analytics] Een door gegevens gestuurde cultuur maken'
+title: '[!DNL Adobe Analytics] Een cultuur met gegevensgestuurde gegevens maken'
 description: Word  [!DNL Adobe Analytics]  Champion Gitai Ben-Ammi aangezien hij bespreekt wat een gegeven-gedreven cultuur als kijkt en strategieën deelt om  [!DNL Adobe Analytics]  te gebruiken om te bouwen.
 role: User
 doc-type: Event

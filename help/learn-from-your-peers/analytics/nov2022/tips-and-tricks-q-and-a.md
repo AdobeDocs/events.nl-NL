@@ -1,5 +1,5 @@
 ---
-title: '''[!DNL Adobe Analytics] Opvolgvragen en antwoorden voor tips en trucs'
+title: '[!DNL Adobe Analytics] Opvolging vragen en antwoorden voor tips en trucs'
 description: Wij verzamelden vijf  [!DNL Adobe Analytics]  Champions van over de wereld om de uiteinden en de trucs te delen die hen meester  [!DNL Adobe Analytics]. During the event, over 90 questions were asked by [!DNL Adobe Analytics]  gebruikers over de wereld hielpen. Aangezien onze  [!DNL Adobe Analytics]  deskundigen niet al die vraag tijdens levende Q&A konden beantwoorden, kregen wij de groep terug samen en ontvangen een follow-up zitting Q&A waar de Kampioenen UW vragen beantwoordden en nog meer deskundige uiteinden & trucs deelden.
 role: User
 doc-type: Event
