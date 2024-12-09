@@ -2,9 +2,9 @@
 user-guide-title: Geslaagde webinars van klanten van de Adobe
 breadcrumb-title: Geslaagde webinars van klanten van de Adobe
 user-guide-description: Met succes geleide webinars van de Klant van de Adobe die worden ontworpen om u bij het optimaliseren van uw investering in het Experience Cloud van de Adobe te helpen. Vergroot waardevolle inzichten om de waarde te maximaliseren en de acceptatie van oplossingen voor Adoben te vergroten.
-source-git-commit: 6d34941792ad369db453b5f27521d7a818ffdedb
+source-git-commit: 47ae42d06ed311e60ebce194e0683bb95e8e5b69
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '248'
 ht-degree: 0%
 
 ---
@@ -32,6 +32,7 @@ ht-degree: 0%
    + [Aan de slag met Real-time Customer Data Platform](2024/getting-started-rtcdp.md)
    + [Inzetten van AI voor Klantervaring](2024/ai-customer-experience.md)
    + [Leerteams en Customer Journey Analytics](2024/lean-teams-cja.md)
+   + [Mastering in de Adobe Admin Console](2024/adobe-admin-console.md)
    + [Cookies en gegevensprivacy beheren](2024/mastering-cookies-data-privacy.md)
    + [Doel Personalization](2024/target-personalization.md)
    + [Hyperpersonalisatie](2024/hyperpersonalization.md)
@@ -39,6 +40,9 @@ ht-degree: 0%
    + [Integratie met Real-time Customer Data Platform en Marketo](2024/aep-marketo-integration.md)
    + [Gereedheid voor Real-time Customer Data Platform-migratie](2024/rtcdp-migration-readiness.md)
    + [Strategisch leiderschap](2024/strategic-leadership.md)
+   + [Verificatie stroomlijnen](2024/streamline-authentication.md)
+   + [Gegevens omzetten in actie](2024/turning-data-into-action.md)
+   + [De kracht van Edge Services ontgrendelen](2024/edge-delivery-services.md)
    + [Hoofdlettertoewijzing aan oplossingsmogelijkheden gebruiken](2024/use-case-mapping.md)
    + [Essentiële onderdelen van SDK-migratie voor web](2024/web-sdk-migration.md)
 
