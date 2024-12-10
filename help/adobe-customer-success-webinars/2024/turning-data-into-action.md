@@ -7,13 +7,13 @@ doc-type: Event
 duration: 3391
 last-substantial-update: 2024-12-06T00:00:00Z
 jira: KT-16628
-source-git-commit: 47ae42d06ed311e60ebce194e0683bb95e8e5b69
+exl-id: eaa9642c-c460-410b-9af5-3ff42e50ef89
+source-git-commit: 1c1e8203802b9fc6bc92aab963e61a9392f2e59c
 workflow-type: tm+mt
 source-wordcount: '313'
 ht-degree: 0%
 
 ---
-
 
 # De strategische kracht van meting: gegevens omzetten in actie
 
@@ -29,7 +29,7 @@ Leer de essentiële elementen van het opbouwen van een holistische meetstrategie
 * Door de belanghebbenden regelmatig te betrekken bij het verstrekken van hun input, wordt ervoor gezorgd dat de gegevens die worden vastgelegd, vertrouwd zijn.
 * Door belanghebbenden de mogelijkheid te geven om vertrouwen te hebben in het uitvoeren van rapporten en het nemen van beslissingen op zich, vermindert de aarzeling.
 
-**Trust
+**Vertrouwen**
 
 * Het vertrouwen wordt opgebouwd door pro-actieve betrokkenheid, transparantie, gegevensbeheer, en kwaliteitscontrole.
 * Het is van cruciaal belang dat de belanghebbenden hun taken op elkaar afstemmen en bij de strategische planning worden betrokken.
@@ -52,4 +52,3 @@ Leer de essentiële elementen van het opbouwen van een holistische meetstrategie
 * Middelen voor nieuwe gebruikers en personen die geen analist zijn, krommen.
 * Regelmatige snelleinsessies en sessies voor het delen van kennis.
 * Nieuwsbrieven en interne communicatie gebruiken om inzichten en updates te delen.
-

@@ -2,9 +2,9 @@
 user-guide-title: Geslaagde webinars van klanten van de Adobe
 breadcrumb-title: Geslaagde webinars van klanten van de Adobe
 user-guide-description: Met succes geleide webinars van de Klant van de Adobe die worden ontworpen om u bij het optimaliseren van uw investering in het Experience Cloud van de Adobe te helpen. Vergroot waardevolle inzichten om de waarde te maximaliseren en de acceptatie van oplossingen voor Adoben te vergroten.
-source-git-commit: 47ae42d06ed311e60ebce194e0683bb95e8e5b69
+source-git-commit: 1c1e8203802b9fc6bc92aab963e61a9392f2e59c
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '263'
 ht-degree: 0%
 
 ---
@@ -15,6 +15,7 @@ ht-degree: 0%
 + [Geslaagde webinars van klanten van de Adobe](overview.md)
 + 2024 {#2024}
    + [Adobe Journey Optimizer Essentials](2024/ajo-essentials.md)
+   + [Adobe Target, door AI gedreven Personalization](2024/ai-personalization.md)
    + [Adobe Workfront - Lean Teams](2024/workfront-lean-teams.md)
    + [Adobe Workfront Master](2024/workfront-mastery.md)
    + [Belangrijke concepten AEM ontwerpen](2024/aem-authoring-concepts.md)
@@ -22,6 +23,7 @@ ht-degree: 0%
    + [Integratie van AEP App Services voor gebruik door klanten](2024/aep-apps-services-integrations.md)
    + [Hoofdlettergebruik in AEP](2024/aep-use-case-planning.md)
    + [Copywriting met AI-machtiging](2024/ai-copywriting.md)
+   + [Basis tot Midden de Mogelijkheden van de Analyse](2024/basic-to-intermediate-analysis-capabilities.md)
    + [Prioriteit gegevensstroom](2024/data-stream-prioritization.md)
    + [Edge Network en mobiele Personalization](2024/edge-network-mobile-personalization.md)
    + [Effectief wijzigingsbeheer](2024/effective-change-management.md)
@@ -31,16 +33,17 @@ ht-degree: 0%
    + [Aan de slag met Adobe Journey Optimizer-analyse](2024/getting-started-ajo-analysis.md)
    + [Aan de slag met Real-time Customer Data Platform](2024/getting-started-rtcdp.md)
    + [Inzetten van AI voor Klantervaring](2024/ai-customer-experience.md)
+   + [Hyperpersonalisatie](2024/hyperpersonalization.md)
+   + [Journey Optimizer Mobile-mogelijkheden](2024/journey-optimizer-mobile-capabilities.md)
    + [Leerteams en Customer Journey Analytics](2024/lean-teams-cja.md)
    + [Mastering in de Adobe Admin Console](2024/adobe-admin-console.md)
    + [Cookies en gegevensprivacy beheren](2024/mastering-cookies-data-privacy.md)
-   + [Doel Personalization](2024/target-personalization.md)
-   + [Hyperpersonalisatie](2024/hyperpersonalization.md)
-   + [Journey Optimizer Mobile-mogelijkheden](2024/journey-optimizer-mobile-capabilities.md)
+   + [Organisatorische gereedheid voor de toeleveringsketen voor inhoud](2024/organizational-readiness-content-supply-chain.md)
    + [Integratie met Real-time Customer Data Platform en Marketo](2024/aep-marketo-integration.md)
    + [Gereedheid voor Real-time Customer Data Platform-migratie](2024/rtcdp-migration-readiness.md)
    + [Strategisch leiderschap](2024/strategic-leadership.md)
    + [Verificatie stroomlijnen](2024/streamline-authentication.md)
+   + [Doel Personalization](2024/target-personalization.md)
    + [Gegevens omzetten in actie](2024/turning-data-into-action.md)
    + [De kracht van Edge Services ontgrendelen](2024/edge-delivery-services.md)
    + [Hoofdlettertoewijzing aan oplossingsmogelijkheden gebruiken](2024/use-case-mapping.md)
