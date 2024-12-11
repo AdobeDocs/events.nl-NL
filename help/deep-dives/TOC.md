@@ -9,10 +9,10 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: 0de0ff84e6e29b9460cb02f8890a5fbce7c432d3
 workflow-type: tm+mt
-source-wordcount: '64'
-ht-degree: 3%
+source-wordcount: '67'
+ht-degree: 2%
 
 ---
 
@@ -30,6 +30,7 @@ ht-degree: 3%
    + [Een instantie overnemen](inheriting-an-instance.md)
    + [Loodlevenscycli](lead-lifecycles.md)
    + [Gebruik van PMCF-velden voor schaalbaarheid](pmcf-fields.md)
+   + [Leverbaarheid van e-mail maximaliseren](maximize-email-deliverability.md)
    + [Maximaliseer uw exemplaar met een klein team](small-team-instance.md)
    + [Opmerken van complexe processen in het activiteitenlog](activity-log.md)
    + [Wereldwijde marketing ontgrendelen](global-marketing.md)
