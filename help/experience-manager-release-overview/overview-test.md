@@ -5,7 +5,7 @@ user-guide-breadcrumb: AEM Release Events
 duration: 91
 hidefromtoc: true
 exl-id: eb9580ae-84c9-4c68-84c3-007e67b91a92
-source-git-commit: 49b386b6729419261265a3d022a87df77f294137
+source-git-commit: ee8aede121140f6a4ce9f5da2656b3e3cc0e0137
 workflow-type: tm+mt
 source-wordcount: '814'
 ht-degree: 0%
@@ -31,7 +31,7 @@ Bekijk een kort overzicht van de nieuwste functies op Adobe Experience Manager a
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://video.tv.adobe.com/v/3440920/?learn=on&enablevpops" title="2024.11.0 AEM Overzicht van de release" target="_blank" rel="referrer">
+                    <a href="https://video.tv.adobe.com/v/3440920/?learn=on&enablevpops&autoplay=true" title="2024.11.0 AEM Overzicht van de release" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="2024/assets/2024-11-play-button.png" alt="2024.11.0 AEM Overzicht van de release"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -86,7 +86,7 @@ Bekijk een kort overzicht van de nieuwste functies op Adobe Experience Manager a
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="2024/2024-10-0.md" target="_blank" rel="referrer" title="2024.10.0 - Overzicht AEM"> 2024.10.0 AEM het Overzicht van de Versie </a>
                     </p>
-                    <p class="is-size-6">De functies in deze release zijn gericht op innovaties op het gebied van Experience Manager Assets en Cloud Service en bevatten de volgende functies:AEM Assets New Pricing and packaging voor AEM Assets met Assets Ultimate &amp; Asset PrimeAEM Cloud Service Forward logs naar meer bestemmingen. Pipeline-URL-omleidingen voor zakelijke gebruikers ​ RDE's ondersteunen Config Pipeline YAML ​ Interactive AEM Developer Console</p>
+                    <p class="is-size-6">De functies in deze release zijn gericht op innovaties op het gebied van Experience Manager Assets en Cloud Service en bevatten de volgende functies:AEM Assets New Pricing and packaging voor AEM Assets met Assets Ultimate &amp; Asset PrimeAEM Cloud Service Forward logs to more bestemmingen Pipeline-redirects voor zakelijke gebruikers ​ RDEs ondersteunen Config Pipeline YAML ​ Interactive AEM Developer Console</p>
                 </div>
                 <a href="2024/2024-10-0.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Meer details </span>
