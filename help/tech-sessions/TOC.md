@@ -2,9 +2,9 @@
 user-guide-title: Technische sessies Experience Cloud
 user-guide-breadcrumb: Experience Cloud Tech Sessions
 user-guide-description: De Sessies van de Tech van het Experience Cloud is een pro-actieve benadering van gevalvervorming door klanten oplossing-specifieke webinars aan te bieden.
-source-git-commit: 6d34941792ad369db453b5f27521d7a818ffdedb
+source-git-commit: b6f18d1a7adb683886bd08ad86998e619be24c29
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '123'
 ht-degree: 10%
 
 ---
@@ -15,6 +15,7 @@ ht-degree: 10%
 + [Technische sessies Experience Cloud](overview.md)
 + 2024 {#2024}
    + Gegevensplatform voor inhoud in realtime {#rtcdp-office-hours-2024}
+      + [Probleemoplossing voor AEP Web SDK](2024/aep-web-sdk-troubleshooting.md)
       + [AI-assistent](2024/ai-assistant.md)
       + [Real-Time Content Data Platform Timings](2024/rtcdp-timings.md)
    + Adobe Experience Manager {#aem-office-hours-2024}
