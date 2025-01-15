@@ -2,9 +2,9 @@
 user-guide-title: Geslaagde webinars van klanten van de Adobe
 breadcrumb-title: Geslaagde webinars van klanten van de Adobe
 user-guide-description: Met succes geleide webinars van de Klant van de Adobe die worden ontworpen om u bij het optimaliseren van uw investering in het Experience Cloud van de Adobe te helpen. Vergroot waardevolle inzichten om de waarde te maximaliseren en de acceptatie van oplossingen voor Adoben te vergroten.
-source-git-commit: 1c1e8203802b9fc6bc92aab963e61a9392f2e59c
+source-git-commit: e0810f122d633e915c143f01e95a184d78f6aa9e
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '266'
 ht-degree: 0%
 
 ---
@@ -38,6 +38,7 @@ ht-degree: 0%
    + [Leerteams en Customer Journey Analytics](2024/lean-teams-cja.md)
    + [Mastering in de Adobe Admin Console](2024/adobe-admin-console.md)
    + [Cookies en gegevensprivacy beheren](2024/mastering-cookies-data-privacy.md)
+   + [Sequentiële logica](2024/sequential-logic.md)
    + [Organisatorische gereedheid voor de toeleveringsketen voor inhoud](2024/organizational-readiness-content-supply-chain.md)
    + [Integratie met Real-time Customer Data Platform en Marketo](2024/aep-marketo-integration.md)
    + [Gereedheid voor Real-time Customer Data Platform-migratie](2024/rtcdp-migration-readiness.md)
@@ -47,7 +48,7 @@ ht-degree: 0%
    + [Gegevens omzetten in actie](2024/turning-data-into-action.md)
    + [De kracht van Edge Services ontgrendelen](2024/edge-delivery-services.md)
    + [Hoofdlettertoewijzing aan oplossingsmogelijkheden gebruiken](2024/use-case-mapping.md)
-   + [Essentiële onderdelen van SDK-migratie voor web](2024/web-sdk-migration.md)
+   + [Web SDK Migration Essentials](2024/web-sdk-migration.md)
 
 + 2023 {#2023}
    + [Bouwen aan de Stichting voor Personalization op schaal](2023/personalization-at-scale.md)
