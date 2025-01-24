@@ -2,10 +2,10 @@
 user-guide-title: Adobe Experience League-gebeurtenisopnamen
 user-guide-breadcrumb: Event Recordings
 user-guide-description: Een verzameling gebeurtenisopnamen die zijn geforceerd bij het gebruik van Adobe Enterprise-producten
-source-git-commit: 27358919021fbca757879bbb8ed9667bd973578f
+source-git-commit: 766c04837f2ccf65813d93bed7d57522a4e17be3
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '438'
+ht-degree: 2%
 
 ---
 
@@ -36,6 +36,7 @@ ht-degree: 0%
    + [ Gebeurtenissen van GenStudio for Performance Marketing ](https://experienceleague.adobe.com/docs/events/genstudio-for-performance-marketing-events/overview.html)
    + [ leer van uw Peers ](https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html)
    + [ Marketo en Mochas ](https://experienceleague.adobe.com/docs/events/marketo-and-mochas-recordings/overview.html)
+   + [ de Uren van het Bureau van de Champion van Marketo ](https://experienceleague.adobe.com/docs/events/marketo-champion-office-hours/overview.html)
    + [ Bouwer van de Vaardigheid ](https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html)
    + [ Uitwisseling van de Vaardigheid ](https://experienceleague.adobe.com/docs/events/the-skill-exchange-recordings/overview.html)
    + [ Wakker omhoog met Workfront ](https://experienceleague.adobe.com/docs/events/wake-up-with-workfront-recordings/overview.html)
@@ -96,6 +97,7 @@ ht-degree: 0%
       + [ de Technische Zittingen van het Experience Cloud ](https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html)
       + [ leer van uw Peers ](https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html)
       + [ Marketo en Mochas ](https://experienceleague.adobe.com/docs/events/marketo-and-mochas-recordings/overview.html)
+      + [ de Uren van het Bureau van de Champion van Marketo ](https://experienceleague.adobe.com/docs/events/marketo-champion-office-hours/overview.html)
       + [ Bouwer van de Vaardigheid ](https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html)
       + [ Uitwisseling van de Vaardigheid ](https://experienceleague.adobe.com/docs/events/the-skill-exchange-recordings/overview.html)
    + Adobe Journey Optimizer {#ajo}
