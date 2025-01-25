@@ -2,7 +2,7 @@
 user-guide-title: Technische sessies Experience Cloud
 user-guide-breadcrumb: Experience Cloud Tech Sessions
 user-guide-description: De Sessies van de Tech van het Experience Cloud is een pro-actieve benadering van gevalvervorming door klanten oplossing-specifieke webinars aan te bieden.
-source-git-commit: b6f18d1a7adb683886bd08ad86998e619be24c29
+source-git-commit: 852eec6eccb1cf5cf99d73ffcd635f55fed846cf
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 10%
@@ -43,5 +43,3 @@ ht-degree: 10%
    + Workfront {#workfront-office-hours}
       + [Dubbele contactpersonen corrigeren](2023/workfront-fix-duplicate-contacts.md)
       + [Goedkeuringsrapporten proefdrukken](2023/workfront-proof-approval-reports.md)
-
-
