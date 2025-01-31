@@ -11,19 +11,20 @@ doc-type: Technical Video
 duration: 3325
 last-substantial-update: 2024-10-10T00:00:00Z
 jira: KT-16327
-source-git-commit: d76e08a224c8416bbe79a0fc82d2cb9937b2827e
+exl-id: 9137dbbd-4e23-4a59-9f9c-d2702b56d70d
+source-git-commit: 1cfa9cdb0e973e6d088b1faeaa63539b0a7fba36
 workflow-type: tm+mt
 source-wordcount: '536'
 ht-degree: 0%
 
 ---
 
-
 # AEM GEM&#39;s - De kracht van AEM Sites ontgrendelen: de API&#39;s voor inhoudsbeheer beheren
 
 De manier waarop AEM Sites wordt gebruikt, ontwikkelt zich snel en voegt API-eerste patronen toe aan traditionele gebruikersinteracties. Of u nu uw activiteiten wilt stroomlijnen of uw automatisering wilt verbeteren, het is van cruciaal belang dat u deze trends voor ogen houdt. Meld u aan voor een diepgaande sessie waarbij we verwante geavanceerde updates in AEM Sites verkennen en bekijken hoe deze uw strategie voor inhoudsbeheer kunnen versterken.
 
 In deze sessie ontdekt u:
+
 * **Geavanceerde Normen OpenAPI** ontdekken de recentste implementaties OpenAPI voor naadloze verrichtingen CRUD op AEM gestructureerde inhoud.
 * **Gebeurtenis en Webhooks** Leer hoe de de gebeurtenis van Adobe I/O en Web-haak mogelijkheden processen kunnen automatiseren die op inhoud en staatsveranderingen in AEM worden gebaseerd.
 * **Nieuwe REST APIs voor de Automatisering van de Vertaling** krijgt om nieuwe REST APIs te kennen die uw werkschema&#39;s van de inhoudsomzetting in AEM vereenvoudigen en stroomlijnen.

@@ -2,9 +2,9 @@
 user-guide-title: Geslaagde webinars van klanten van de Adobe
 breadcrumb-title: Geslaagde webinars van klanten van de Adobe
 user-guide-description: Met succes geleide webinars van de Klant van de Adobe die worden ontworpen om u bij het optimaliseren van uw investering in het Experience Cloud van de Adobe te helpen. Vergroot waardevolle inzichten om de waarde te maximaliseren en de acceptatie van oplossingen voor Adoben te vergroten.
-source-git-commit: e0810f122d633e915c143f01e95a184d78f6aa9e
+source-git-commit: 1cfa9cdb0e973e6d088b1faeaa63539b0a7fba36
 workflow-type: tm+mt
-source-wordcount: '266'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
@@ -13,6 +13,9 @@ ht-degree: 0%
 # Geslaagde webinars van klanten van de Adobe {#adobe-customer-success-webinar-recordings}
 
 + [Geslaagde webinars van klanten van de Adobe](overview.md)
++ 2025 {#2025}
+   + [Loyaliteitsprogramma&#39;s verbeteren via Personalization en gegevens](2025/enhance-loyalty-programs.md)
+   + [Sequentiële logica](2025/mastering-sequential-logic.md)
 + 2024 {#2024}
    + [Adobe Journey Optimizer Essentials](2024/ajo-essentials.md)
    + [Adobe Target, door AI gedreven Personalization](2024/ai-personalization.md)

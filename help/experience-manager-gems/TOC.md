@@ -2,9 +2,9 @@
 user-guide-title: Adobe Experience Manager GEMS-gebeurtenissen
 user-guide-description: Meer informatie over AEM Gems, een reeks technische diepteduiken van Adobe Experience Manager-experts.
 breadcrumb-title: GEMs-gebeurtenissen AEM
-source-git-commit: d76e08a224c8416bbe79a0fc82d2cb9937b2827e
+source-git-commit: 1cfa9cdb0e973e6d088b1faeaa63539b0a7fba36
 workflow-type: tm+mt
-source-wordcount: '752'
+source-wordcount: '759'
 ht-degree: 0%
 
 ---
@@ -13,6 +13,8 @@ ht-degree: 0%
 # Experience Manager GEMS-gebeurtenissen {#experience-manager-gems-recordings}
 
 + [Overzicht](overview.md)
++ 2025 {#gems2025}
+   + [Aan de slag met Adobe Managed CDN](gems2025/getting-started-adobe-managed-cdn.md)
 + 2024 {#gems2024}
    + [De kracht van AEM Sites ontgrendelen - de API&#39;s voor inhoudsbeheer beheren](gems2024/content-management-apis.md)
    + [Wat is er nieuw in Rapid Development Environment voor AEM?](gems2024/rapid-development-environment-news.md)
@@ -45,7 +47,7 @@ ht-degree: 0%
 + 2018 {#gems2018}
    + [Diep duiken in Adobe Experience Manager 6.4](gems2018/aem-6-4-technical-sneak-peek.md)
    + [Adobe Experience Platform - Het hart van Experience Cloud](gems2018/aem-acp.md)
-   + [In real time en licht: bouw gebeurtenis-gedreven integratie met AEM gebruikend de Gebeurtenissen van Adobe I/O](gems2018/aem-adobe-io.md)
+   + [In real time en licht: bouw gebeurtenisgedreven integratie met AEM gebruikend Adobe I/O Events](gems2018/aem-adobe-io.md)
    + [Adobe Developer (IO)-gebeurtenissen - Analytics Triggers](gems2018/aem-analytics-triggers.md)
    + [Experimenten in schaalbaarheid AEM auteur](gems2018/aem-author-scalability1.md)
    + [AEM kerncomponenten](gems2018/aem-core-components.md)
@@ -56,8 +58,8 @@ ht-degree: 0%
    + [Problemen met zoeken en indexeren AEM (vervolg)](gems2018/aem-query-and-index-troubleshooting2.md)
    + [AEM SPA Editor](gems2018/aem-spa-editor.md)
    + [Opslaan als Oak-index voor AEM](gems2018/solr-as-an-oak-index-for-aem.md)
-   + [SPA Editor SDK diep duiken - deel 1 - reageren](gems2018/spa-editor-sdk-deep-dive-react.md)
-   + [SPA Editor SDK diep duiken - deel 2 - angular](gems2018/spa-editor-sdk-deep-dive-angular.md)
+   + [SPA Editor SDK deep duve - deel 1 - reageren](gems2018/spa-editor-sdk-deep-dive-react.md)
+   + [SPA Editor SDK deep duve - deel 2 - angular](gems2018/spa-editor-sdk-deep-dive-angular.md)
    + [OSGi R7 gebruiken in AEM](gems2018/using-osgi-r7-in-aem.md)
 + 2017 {#gems2017}
    + [Grote merkportalversie en nieuwe referentie-implementatie voor Asset Share](gems2017/aem-brand-portal.md)
