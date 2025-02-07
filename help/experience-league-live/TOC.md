@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: f8b0b67a0c576cf303d6e3f6b912a470f07e3eb0
+source-git-commit: 9e51315ba71324cc9990b5413a80d194839be5db
 workflow-type: tm+mt
-source-wordcount: '493'
+source-wordcount: '505'
 ht-degree: 1%
 
 ---
@@ -21,6 +21,7 @@ ht-degree: 1%
 
 + [Overzicht](overview.md)
 + Episodes {#episodes}
+   + [EP 44: Het ontgrendelen van operationele inzichten met AI Assistant in Adobe Experience Platform](episodes/exl-live-episode-02-27-25.md)
    + [EP 43: Inleiding tot AI Assistant for Audiences for Marketers in Real-Time CDP](episodes/exl-live-episode-11-13-24.md)
    + [EP 42: Onthult Content Cards for Adobe Journey Optimizer](episodes/exl-live-episode-10-30-24.md)
    + [EP 41: publiek harmoniseren met behulp van Federated Audience Composition in Experience Platform](episodes/exl-live-episode-40-2024-10-24.md)
@@ -28,7 +29,7 @@ ht-degree: 1%
    + [EP 39: Bent u klaar om de app voor mobiele analysemogelijkheden op te waarderen?](episodes/exl-live-episode-09-18-24.md)
    + [EP 38: Zomerspotlight - Drie functies moeten in Adobe Journey Optimizer proberen](episodes/exl-live-episode-08-28-24.md)
    + [EP 37: Hoe de nieuwste Adobe Real-Time CDP-releases de naald voor uw bedrijf kunnen verplaatsen](episodes/exl-live-episode-06-26-24.md)
-   + [EP 36: Dit is de manier...om Analytics naar Web SDK te migreren](episodes/exl-live-episode-05-16-24.md)
+   + [EP 36: Op deze manier... migreren Analytics naar Web SDK](episodes/exl-live-episode-05-16-24.md)
    + [EP 35: Nieuw op code gebaseerd ervaringskanaal in Journey Optimizer](episodes/exl-live-episode-04-24-24.md)
    + [EP 34: Marketo Measure nieuwe dashboards](episodes/exl-live-episode-04-18-24.md)
    + [EP 33: Vooruitgang met de nieuwe Adobe Campaign v8-gebruikersinterface](episodes/exl-live-episode-02-29-24.md)
@@ -48,7 +49,7 @@ ht-degree: 1%
    + [EP 19: Het juiste aanbod op het juiste moment doen met het besluitvormingsbeheer](episodes/exl-live-episode-10-25-22.md)
    + [EP 18: Je campagnes uitvoeren in Adobe Journey Optimizer](episodes/exl-live-episode-09-22-22.md)
    + [EP 17: Een meer persoonlijke klantervaring in real-time](episodes/exl-live-episode-09-20-22.md)
-   + [EP 16: Vraag de experts - Nuttige extensies in Tags (Launch) om extra kosten voor de SDK van Web op te brengen](episodes/exl-live-episode-08-23-22.md)
+   + [EP 16: Vraag de experts - Nuttige extensies in tags (Launch) om hulp bij het laden van de Web SDK](episodes/exl-live-episode-08-23-22.md)
    + [EP 15: Vraag het de experts - DataStreams en DataPrep](episodes/exl-live-episode-07-21-22.md)
    + [EP 14: Vraag het de experts - RTCDP-verbindingen](episodes/exl-live-episode-06-23-22.md)
    + [EP 13: Vraag het de experts - De basisbeginselen van Web SDK](episodes/exl-live-episode-05-26-22.md)
