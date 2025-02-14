@@ -1,6 +1,6 @@
 ---
 title: Integratie van particuliere GitHub-opslagplaatsen in AEM Cloud Manager
-description: Tijdens dit AEM webinar van GEMs, zullen wij tonen hoe u het meeste uit het toevoegen van uw eigen privé bewaarplaats GitHub in Cloud Manager kunt krijgen. We beginnen met de gegevensopslagruimte aan boord, die u nu in staat stelt de GitHub-opslagplaats rechtstreeks te koppelen aan uw Cloud Manager-pijpleidingen, zodat u uw code niet voortdurend hoeft te synchroniseren met de gegevensopslagruimte van de Adobe. Vervolgens willen we laten zien hoe u met deze functie uw testproces kunt verschuiven naar links, zodat de kwaliteitscontroles van de Cloud Manager-code op het niveau van de pull-aanvraag worden uitgevoerd voordat de code wordt samengevoegd. Op deze manier kunt u als AEM ontwikkelaar de problemen identificeren die uw Cloud Manager eerder in uw ontwikkelingscyclus zou hebben veroorzaakt.
+description: Het webinar van AEM GEMs zal aantonen hoe te om een privé bewaarplaats van GitHub in Cloud Manager toe te voegen, het direct met pijpleidingen te verbinden, en shift-linker het testen om kwesties op het niveau van het trekkingsverzoek te identificeren alvorens code samen te voegen.
 solution: Experience Manager
 version: Cloud Service
 feature: Developer Tools
@@ -10,9 +10,9 @@ level: Intermediate
 doc-type: Event
 duration: 3600
 exl-id: 4080464c-dbe8-4c8d-ad15-f72d7c89df7c
-source-git-commit: 8191106e64cbfb6337e37c411e56630d59aabe2e
+source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
 workflow-type: tm+mt
-source-wordcount: '335'
+source-wordcount: '251'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Dit webinar is voltooid. Bekijk de onderstaande opname.
 
 ## Integratie van particuliere GitHub-opslagplaatsen in AEM Cloud Manager
 
-Tijdens dit AEM webinar van GEMs, zullen wij tonen hoe u het meeste uit het toevoegen van uw eigen privé bewaarplaats GitHub in Cloud Manager kunt krijgen. We beginnen met de gegevensopslagruimte aan boord, die u nu in staat stelt de GitHub-opslagplaats rechtstreeks te koppelen aan uw Cloud Manager-pijpleidingen, zodat u uw code niet voortdurend hoeft te synchroniseren met de gegevensopslagruimte van de Adobe. Vervolgens willen we laten zien hoe u met deze functie uw testproces kunt verschuiven naar links, zodat de kwaliteitscontroles van de Cloud Manager-code op het niveau van de pull-aanvraag worden uitgevoerd voordat de code wordt samengevoegd. Op deze manier kunt u als AEM ontwikkelaar de problemen identificeren die uw Cloud Manager eerder in uw ontwikkelingscyclus zou hebben veroorzaakt.
+Tijdens dit webinar van AEM GEMs, zullen wij tonen hoe u het meeste uit het toevoegen van uw eigen privé bewaarplaats GitHub in Cloud Manager kunt krijgen. We beginnen met de gegevensopslagruimte aan boord, die u nu in staat stelt de GitHub-opslagplaats rechtstreeks te koppelen aan uw Cloud Manager-pijpleidingen, zodat u uw code niet voortdurend hoeft te synchroniseren met de Adobe-opslagplaats. Vervolgens willen we laten zien hoe u met deze functie uw testproces kunt verschuiven naar links, zodat de kwaliteitscontroles van de Cloud Manager-code op het niveau van de pull-aanvraag worden uitgevoerd voordat de code wordt samengevoegd. Op die manier kunt u als AEM-ontwikkelaar de problemen identificeren die uw Cloud Manager eerder in uw ontwikkelingscyclus zou hebben veroorzaakt.
 
 ## Presentatoren
 
@@ -32,7 +32,7 @@ Tijdens dit AEM webinar van GEMs, zullen wij tonen hoe u het meeste uit het toev
 ## Chatexperts
 
 * Dan Balescu, Senior Engineering Manager, Adobe
-* Shankari Panchapakesan, hoofd productmanager, Adobe
+* Shankari Panchapakesan, Principal Product Manager, Adobe
 * Florin Stancu, Software Development Engineer, Adobe
 
 ## Webinar-opname
@@ -45,4 +45,4 @@ Tijdens dit AEM webinar van GEMs, zullen wij tonen hoe u het meeste uit het toev
 >
 >* Voor webinar/onderwerp specifieke communautaire interactie over dit webinar op Experience League gelieve te bezoeken gelieve de respectieve [ Contextuele Draad ](https://adobe.ly/4f1jhMo).
 >
->* Om berichten over onze aanstaande webinars te ontvangen, gelieve te registreren bij [ AEM de Groep van de Gebruiker van de Adobe ](https://aem-augs.adobe.com/).
+>* Om berichten over onze aanstaande webinars te ontvangen, gelieve te registreren bij [ Adobe de Groep van de Gebruiker van AEM ](https://aem-augs.adobe.com/).

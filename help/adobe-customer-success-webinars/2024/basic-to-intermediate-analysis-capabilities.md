@@ -1,6 +1,6 @@
 ---
 title: Adobe Analytics & CJA Snel aan de slag voor basis-tot-intermediaire analysemogelijkheden
-description: De sessie "QuickStart for Basic Intermediate Analysis Capabilities", onder leiding van dr. Kirsten Schaffer, besprak het opzetten van robuuste analytische capaciteiten, governance en analytische paden, het vergelijken van Adobe Analytics en Customer Journey Analytics, het bespreken van soorten analyses en het benadrukken van het belang van één enkele bron van waarheid voor gegevensrapportage.
+description: Tijdens de zitting werden de mogelijkheden voor analyse, de vergelijking van Adobe Analytics en Customer Journey Analytics en de belangrijkste kenmerken voor marketingrapporten besproken.
 solution: Customer Journey Analytics, Analytics
 role: Admin, Developer, Leader, User
 level: Intermediate
@@ -8,13 +8,13 @@ doc-type: Event
 duration: 3783
 last-substantial-update: 2024-12-10T00:00:00Z
 jira: KT-16626
-source-git-commit: 1c1e8203802b9fc6bc92aab963e61a9392f2e59c
+exl-id: 9e6df60c-d4bc-4c32-b234-fafa1f0a73c0
+source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
 workflow-type: tm+mt
-source-wordcount: '448'
+source-wordcount: '421'
 ht-degree: 0%
 
 ---
-
 
 # Adobe Analytics &amp; CJA: Snel aan de slag voor basis tot intermediaire analysemogelijkheden
 
@@ -29,18 +29,18 @@ Leer hoe u snel aan de slag kunt met Adobe Analytics en Customer Journey Analyti
    * De sessie wordt opgenomen en de koppeling naar de opname wordt naar alle geregistreerde deelnemers verzonden.
 
 * **Inleiding van Sprekers**
-   * Frederick, Senior Customer Success Manager bij Adobe, introduceerde de sessie.
-   * Dr. Kirsten Schaffer, Hoofd Manager van het Succes van de Klant bij Adobe, is de presentator.
+   * Frederick, Senior Customer Success Manager in Adobe, introduceerde de sessie.
+   * Dr. Kirsten Schaffer, Principal Customer Success Manager bij Adobe, is de presentator.
 
 * **Inhoud van de Zitting**
    * De sessie heeft betrekking op het opzetten van een organisatie voor robuuste analytische capaciteiten, bestuursaspecten en doorlopende paden voor analyses en analyse van de klantenterichting.
-   * Bespreking over wanneer verschillende oplossingen voor Adobe moeten worden gebruikt en aanbevelingen van de Adobe voor digitale inzichten.
+   * Bespreek wanneer u verschillende Adobe-oplossingen en Adobe-aanbevelingen voor digitale inzichten wilt gebruiken.
 
 * **Belangrijke Onderwerpen die** worden besproken
    * **Externe en Interne Strijdkrachten** beïnvloedend digitale analyses, met inbegrip van marktverschuivingen, privacy en bestuur, gegevensdemocratie, en gegevensingewikkeldheid.
    * **bouwend een Robuuste Analytische Strategie van de Metingen van de Stichting**, gegevensinzameling, inzicht en analyse, het leren, gegevensbeheer.
    * **Vestiging een Digitaal Team van Analytics** Rollen en verantwoordelijkheden, creërend een hybride team, en het beheren van analytische verzoeken efficiënt.
-   * **Experience League van de Opties van Enablement van 0} Adobe {, cursussen op bestelling, op opleiders-gebaseerde klassen, communautaire steun.**
+   * **Experience League van de Opties van Enablement van 0} Adobe**, cursussen op bestelling, op trainer-gebaseerde klassen, communautaire steun.
 
 * **Vergelijking tussen Adobe Analytics en Customer Journey Analytics (CGA)**
    * Adobe Analytics is de basis voor digitale analyse.
@@ -61,5 +61,5 @@ Leer hoe u snel aan de slag kunt met Adobe Analytics en Customer Journey Analyti
 * **Hoogtepunten Q&amp;A**
    * Uitleg van componenten en statische gegevensschema&#39;s.
    * Beschrijving van offline gegevens.
-   * Recommendations voor migratie van Adobe Analytics naar CGA.
+   * Aanbevelingen voor migratie van Adobe Analytics naar CGA.
    * Het is belangrijk dat één enkele bron van waarheid wordt gedefinieerd voor gegevensrapportage.

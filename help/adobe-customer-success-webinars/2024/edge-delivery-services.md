@@ -1,6 +1,6 @@
 ---
 title: De levering van inhoud optimaliseren - De kracht van Edge Services ontgrendelen
-description: ATM Edge Delivery Services (EDS) verbetert ATM mogelijkheden met composable diensten, snelle ontwikkelingscycli, en high lighthouse scores, ondersteunend document-based en WYSIWYG creatie, serverloze architectuur, snelle plaatsverwezenlijking, en uitgebreide aanpassingsopties.
+description: De sessie over Edge Delivery Services (EDS) ging over de architectuur, integratie met op documenten gebaseerde en op AEM gebaseerde authoring, snel maken van sites, aanpassingsopties en aanbevolen procedures voor het handhaven van hoge prestaties.
 solution: Experience Manager, Experience Manager as a Cloud Service
 feature: Edge Delivery Services
 role: Admin, Developer, Leader, User
@@ -9,17 +9,17 @@ doc-type: Event
 duration: 3589
 last-substantial-update: 2024-12-06T00:00:00Z
 jira: KT-16631
-source-git-commit: 47ae42d06ed311e60ebce194e0683bb95e8e5b69
+exl-id: 2057e491-9ec3-4bfe-b85a-6b74d70822bf
+source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
 workflow-type: tm+mt
-source-wordcount: '410'
+source-wordcount: '406'
 ht-degree: 0%
 
 ---
 
-
 # De levering van inhoud optimaliseren: de kracht van Edge Services vrijmaken
 
-In deze zitting, zullen wij een overzicht van Edge Delivery Services (EDS) en zijn architectuur verstrekken. Via de Universal Editor zullen we uitzoeken hoe EDS kan worden geïntegreerd met op documenten gebaseerde ontwerpen en op AEM gebaseerde ontwerpen. In een live demo wordt EDS in actie gebracht, gevolgd door bronnen voor verdere verkenning en een sessie met vragen en antwoorden.
+In deze sessie geven we een overzicht van Edge Delivery Services (EDS) en de architectuur ervan. Via de Universal Editor zullen we uitzoeken hoe EDS integreert met op documenten gebaseerde ontwerpen en op AEM gebaseerde ontwerpen. In een live demo wordt EDS in actie gebracht, gevolgd door bronnen voor verdere verkenning en een sessie met vragen en antwoorden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3440938/?learn=on&enablevpops)
 
@@ -33,11 +33,11 @@ In deze zitting, zullen wij een overzicht van Edge Delivery Services (EDS) en zi
 ### Ontwerpopties
 
 * **op document-Gebaseerde Authoring** gebruikt vertrouwde hulpmiddelen zoals Microsoft Word of Google Docs voor inhoudsverwezenlijking, die snelle inhoudsverwezenlijking zonder uitgebreide opleiding toestaat. &#x200B;
-* **Universele Redacteur** verstrekt een interface van WYSIWYG gelijkend op traditionele ATM plaatsen, die voor gedetailleerdere en visuele inhoudsverwezenlijking toestaan. &#x200B;
+* **Universele Redacteur** verstrekt een interface van WYSIWYG gelijkend op de traditionele plaatsen van ATM, die voor gedetailleerdere en visuele inhoudsverwezenlijking toestaan. &#x200B;
 
 ### Architectuur
 
-* EDS integreert binnen het kader van Amazon Cloud Service. &#x200B;
+* EDS integreert binnen het Amazon Cloud Service-kader. &#x200B;
 * Deze functie ondersteunt een serverloze implementatie en kan werken zonder een traditionele auteur- of uitgeversinstantie. &#x200B;
 * Twee niveaus van caching kunnen worden uitgevoerd: op het niveau van de klanteninfrastructuur en het niveau van EDS. &#x200B;
 
@@ -65,4 +65,4 @@ In deze zitting, zullen wij een overzicht van Edge Delivery Services (EDS) en zi
 ### Ondersteuning en documentatie
 
 * Er is uitgebreide documentatie beschikbaar om gebruikers door het installatie- en aanpassingsproces te begeleiden. &#x200B;
-* Gebruikers worden aangemoedigd om de ondersteuning van de Adobe te bereiken voor onopgeloste problemen. &#x200B;
+* Gebruikers worden aangespoord om Adobe-ondersteuning te zoeken voor onopgeloste problemen. &#x200B;

@@ -1,6 +1,6 @@
 ---
 title: De ontwikkelaarservaring voor AEM Assets verbeteren met onze nieuwe API's en gebeurtenissen
-description: AEM ontwikkelaars hebben de mogelijkheid om de nieuwe Assets Open API's en cloud-native I/O-gebeurtenissen die we aanbieden, te verkennen. Deze verbeteringen maken het mogelijk om verwerkingsverouderde AEM extensies te maken. Tijdens deze vergadering zullen we laten zien hoe we deze instrumenten effectief kunnen implementeren. Deze demonstratie zal ontwikkelaars tonen hoe zij hun werkschema's kunnen stroomlijnen, hun ontwikkelingssnelheid verbeteren, en voortdurende onderhoudsinspanningen verminderen. Daarnaast zullen we ons buigen over praktijkvoorbeelden en beste praktijken, die een uitgebreid inzicht verschaffen in hoe deze innovaties kunnen worden gebruikt om ontwikkelingsprocessen te optimaliseren.
+description: AEM-ontwikkelaars kunnen nieuwe Assets Open API's en cloud-native I/O-gebeurtenissen verkennen om AEM-extensies te maken die buiten het proces vallen, workflows te stroomlijnen, de ontwikkelingssnelheid te verhogen en het onderhoud te verminderen, met praktijkvoorbeelden en best practices gedemonstreerd.
 solution: Experience Manager
 version: Cloud Service
 feature: Developer Tools
@@ -10,9 +10,9 @@ level: Intermediate
 doc-type: Event
 duration: 3600
 exl-id: c33fab30-649e-43b3-b1df-cf57e42d3612
-source-git-commit: e364366d7df321ebbcb598ac15e237e5626a4087
+source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
 workflow-type: tm+mt
-source-wordcount: '286'
+source-wordcount: '230'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Dit webinar is gehouden op woensdag 19 juni - 17.00 uur CEST / 08.00 uur PDT / 0
 
 ## De ontwikkelaarservaring voor AEM Assets verbeteren met onze nieuwe API&#39;s en gebeurtenissen
 
-AEM ontwikkelaars hebben de mogelijkheid om de nieuwe Assets Open API&#39;s en cloud-native I/O-gebeurtenissen die we aanbieden, te verkennen. Deze verbeteringen maken het mogelijk om verwerkingsverouderde AEM extensies te maken. Tijdens deze vergadering zullen we laten zien hoe we deze instrumenten effectief kunnen implementeren. Deze demonstratie zal ontwikkelaars tonen hoe zij hun werkschema&#39;s kunnen stroomlijnen, hun ontwikkelingssnelheid verbeteren, en voortdurende onderhoudsinspanningen verminderen. Daarnaast zullen we ons buigen over praktijkvoorbeelden en beste praktijken, die een uitgebreid inzicht verschaffen in hoe deze innovaties kunnen worden gebruikt om ontwikkelingsprocessen te optimaliseren.
+AEM-ontwikkelaars hebben de mogelijkheid om de nieuwe Assets Open API&#39;s en cloud-native I/O-gebeurtenissen te verkennen die we aanbieden. Deze verbeteringen maken het mogelijk om AEM-extensies te maken die buiten het proces vallen. Tijdens deze vergadering zullen we laten zien hoe we deze instrumenten effectief kunnen implementeren. Deze demonstratie zal ontwikkelaars tonen hoe zij hun werkschema&#39;s kunnen stroomlijnen, hun ontwikkelingssnelheid verbeteren, en voortdurende onderhoudsinspanningen verminderen. Daarnaast zullen we ons buigen over praktijkvoorbeelden en beste praktijken, die een uitgebreid inzicht verschaffen in hoe deze innovaties kunnen worden gebruikt om ontwikkelingsprocessen te optimaliseren.
 
 ## Presentatoren
 
@@ -42,4 +42,4 @@ AEM ontwikkelaars hebben de mogelijkheid om de nieuwe Assets Open API&#39;s en c
 > 
 >* Voor zitting specifieke communautaire interactie over dit webinar op Experience League gelieve te bezoeken de respectieve [ Contextuele Draad ](https://adobe.ly/3UQXwFO).
 >
->* Om berichten over onze aanstaande webinars te ontvangen, gelieve te registreren bij [ AEM de Groep van de Gebruiker van de Adobe ](https://aem-augs.adobe.com/).
+>* Om berichten over onze aanstaande webinars te ontvangen, gelieve te registreren bij [ Adobe de Groep van de Gebruiker van AEM ](https://aem-augs.adobe.com/).

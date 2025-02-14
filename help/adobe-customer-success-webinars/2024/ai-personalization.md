@@ -1,6 +1,6 @@
 ---
 title: Gebruikerservaring maximaliseren met Adobe Target AI-gestuurde Personalization
-description: De sessie over Adobe Target met door AI aangedreven personalisatie, onder leiding van John Magnusson, heeft kenmerken als Automatisch toewijzen, Automatisch doel, Automated Personalization en Recommendations gemarkeerd, met implementatievoorbeelden van Swisscom en Granger, waarbij de nadruk wordt gelegd op het framework Engage, Expand en Embed, en deelnemers worden aangemoedigd om deze gereedschappen toe te passen met behulp van een strategische aanpak.
+description: In de sessie van John Magnusson over de door AI gestuurde personalisatie in Adobe Target werden de belangrijkste kenmerken en voorbeelden benadrukt, waarbij de nadruk werd gelegd op het framework Inschakelen, Uitbreiden en Insluiten.
 solution: Target
 topic: Personalization, Artificial Intelligence
 role: Admin, Developer, Leader, User
@@ -9,29 +9,29 @@ doc-type: Event
 duration: 3186
 last-substantial-update: 2024-12-10T00:00:00Z
 jira: KT-16627
-source-git-commit: 1c1e8203802b9fc6bc92aab963e61a9392f2e59c
+exl-id: c1d89e23-1d6e-41a7-877c-1d016b4b39d0
+source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
 workflow-type: tm+mt
-source-wordcount: '402'
+source-wordcount: '375'
 ht-degree: 0%
 
 ---
 
-
 # Gebruikerservaring maximaliseren met Adobe Target AI-gestuurde Personalization
 
-De sessie over Adobe Target met door AI aangedreven personalisatie, onder leiding van John Magnusson, heeft kenmerken als Automatisch toewijzen, Automatisch doel, Automated Personalization en Recommendations gemarkeerd, met implementatievoorbeelden van Swisscom en Granger, waarbij de nadruk wordt gelegd op het framework Engage, Expand en Embed, en deelnemers worden aangemoedigd om deze gereedschappen toe te passen met behulp van een strategische aanpak.
+De sessie over Adobe Target met door AI aangedreven personalisatie, onder leiding van John Magnusson, heeft kenmerken als Automatisch toewijzen, Automatisch doel, Automated Personalization en Aanbevelingen gemarkeerd, met implementatievoorbeelden van Swisscom en Granger, waarbij het framework Engage, Expand en Embed wordt benadrukt en aanwezigen worden aangemoedigd deze gereedschappen toe te passen met een strategische aanpak.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3440934/?learn=on&enablevpops)
 
 ## Toetsen
 
 * **Nadruk van de Zitting** De zitting werd geconcentreerd op het maximaliseren van gebruikerservaring met Adobe Target AI-Gedreven verpersoonlijking.
-* **Presentator** John Magnusson, de Manager van het Succes van de Klant van de Oplossing met het team van Gegevens en van de Integratie van de Adobe, leidde de zitting.
+* **Presentator** John Magnusson, de Manager van het Succes van de Klant van de Oplossing met het team van Gegevens en van de Integratie van Adobe, leidde de zitting.
 * **Adobe Target-functies
    * **Auto Wijst** automatisch verkeer aan de best-presterende ervaring in real time toe, gebruikend een multi-gewapende bandebenadering.
    * **AutoDoel** gebruikt machine het leren om gebruikerservaringen te personaliseren door diverse gegevensbronnen te integreren.
    * **Automated Personalization (AP)** combineert verschillende aanbiedingsvariaties en gebruikt machine het leren om de beste inhoud aan elke bezoeker aan te passen.
-   * **Recommendations** toont automatisch relevante producten, de diensten, of inhoud die op gebruikersgedrag en voorkeur wordt gebaseerd.
+   * **Aanbevelingen** toont automatisch relevante producten, de diensten, of inhoud die op gebruikersgedrag en voorkeur wordt gebaseerd.
 * ** &#x200B; implementatievoorbeelden
    * **Swiss.com** Gebruikte Auto Wijst toe om de best-presterende ervaring in een test met vijf verschillende ervaringen te identificeren.
    * **Granger** leveraged Adobe Target om hun website opnieuw te verfraaien en elke hypothese te bevestigen, die tot significante verhogingen in overeenkomst en omzettingstarieven leidt.
@@ -41,5 +41,4 @@ De sessie over Adobe Target met door AI aangedreven personalisatie, onder leidin
 * **Experience League** geadviseerd als middel voor gedetailleerde documentatie en begeleiding bij het uitvoeren van de eigenschappen van Adobe Target.
 * **Hoogtepunten Q&amp;A**
    * Adobe Target kan via e-mailkanalen worden geïmplementeerd en worden geïntegreerd met Marketo.
-   * Het doel kan zijn eigen reeks verenigde klantenprofielen tot stand brengen en met CDP of het Publiek van de Adobe voor robuustere verpersoonlijking integreren.Vraag aan Actie** de Aanwezigen werden aangemoedigd om gebruiksgevallen voor de personaliseringshulpmiddelen van Adobe Target te identificeren en hen toe te passen gebruikend de bepaalde strategie, het ontwerp, de uitvoering, de analyse, en de handelingscyclus.
-
+   * Het doel kan zijn eigen reeks verenigde klantenprofielen tot stand brengen en met CDP of het Soorten publiek van Adobe voor robuustere verpersoonlijking integreren.Vraag aan Actie** Aanwezigen werden aangemoedigd om gebruiksgevallen voor de personaliseringshulpmiddelen van Adobe Target te identificeren en hen toe te passen gebruikend de bepaalde strategie, het ontwerp, de uitvoering, de analyse, en de handelingscyclus.

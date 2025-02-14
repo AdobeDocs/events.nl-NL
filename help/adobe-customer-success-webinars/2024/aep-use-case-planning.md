@@ -1,6 +1,6 @@
 ---
 title: Van visie naar waarde - AEP-caseplanning
-description: Leer om impactvolle klantenervaringen te leveren door een strategie met duidelijke doelstellingen en succesfactoren te bepalen die zich op bedrijfsresultaten en KPIs richten, een roadmap aan haalbare waardetoewijzing, en effectief hefboomwerking Adobe oplossingsmogelijkheden inbouwen.
+description: De AEP de zitting van de Planning van het Geval van het Gebruik behandelt waardetoewijzing, strategie groepering, en het maximaliseren van bedrijfswaarde door KPIs. Het helpt organisaties doelstellingen met bedrijfsresultaten en hefboomwerking de oplossingen van Adobe voor impactful klantenervaringen richten.
 solution: Experience Platform
 role: Admin, Developer, Leader, User
 level: Intermediate
@@ -9,9 +9,9 @@ duration: 3022
 last-substantial-update: 2024-08-26T00:00:00Z
 jira: KT-16038
 exl-id: 1d30c85d-3e78-4cc1-94f5-0a5b63d20ab2
-source-git-commit: ef652eb09c33f11d69ec66f70013cd3e53537a95
+source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Leer om impactvolle klantenervaringen te leveren door een strategie met duidelij
 
 1. zich aan bedrijfsresultaten en KPIs richten
 1. een stappenplan voor het realiseren van waarden
-1. effectief hefboomwerking Adobe oplossingsmogelijkheden.
+1. Adobe-oplossingsmogelijkheden effectief benutten.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433025/?learn=on)
 

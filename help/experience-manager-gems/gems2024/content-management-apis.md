@@ -1,6 +1,6 @@
 ---
-title: AEM GEM's - De kracht van AEM Sites ontgrendelen - de API's voor inhoudsbeheer beheren
-description: Met het webinar over API's voor Adobe Experience Manager-inhoud (AEM) werden nieuwe, gemoderniseerde API's geïntroduceerd voor verbeterd contentbeheer en -levering. ​Belangrijke sprekers, waaronder Matthias, Catalina, Leonard en Prashant, toonden de mogelijkheden van deze API's, zoals gestructureerd contentbeheer, geoptimaliseerde contentlevering en geautomatiseerde vertaalprocessen. ​De markeringen omvatten de nieuwe het schemaeigenschap van UI, verbeterde verwijzingsbehandeling, de mogelijkheden van het partijverzoek, en een snellere inhoudslevering API. ​De deelnemers werden aangemoedigd om deze API's te verkennen via de ontwikkelaarsdocumentatie van Adobe en deel te nemen aan het vroege adopterprogramma voor vroege toegang en directe technische ondersteuning.
+title: AEM GEM's - De kracht van AEM Sites ontgrendelen - De API's voor inhoudsbeheer beheren
+description: De AEM GEMs-sessie verkent API-eerste patronen in AEM Sites, die geavanceerde OpenAPI-standaarden, gebeurtenissen en webhaken, en nieuwe REST API's voor vertaalautomatisering omvatten, met inzichten van Adobe-experts.
 solution: Experience Manager
 version: Cloud Service
 feature: Edge Delivery Services
@@ -12,9 +12,9 @@ duration: 3325
 last-substantial-update: 2024-10-10T00:00:00Z
 jira: KT-16327
 exl-id: 9137dbbd-4e23-4a59-9f9c-d2702b56d70d
-source-git-commit: 1cfa9cdb0e973e6d088b1faeaa63539b0a7fba36
+source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
 workflow-type: tm+mt
-source-wordcount: '536'
+source-wordcount: '474'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,9 @@ De manier waarop AEM Sites wordt gebruikt, ontwikkelt zich snel en voegt API-eer
 
 In deze sessie ontdekt u:
 
-* **Geavanceerde Normen OpenAPI** ontdekken de recentste implementaties OpenAPI voor naadloze verrichtingen CRUD op AEM gestructureerde inhoud.
-* **Gebeurtenis en Webhooks** Leer hoe de de gebeurtenis van Adobe I/O en Web-haak mogelijkheden processen kunnen automatiseren die op inhoud en staatsveranderingen in AEM worden gebaseerd.
-* **Nieuwe REST APIs voor de Automatisering van de Vertaling** krijgt om nieuwe REST APIs te kennen die uw werkschema&#39;s van de inhoudsomzetting in AEM vereenvoudigen en stroomlijnen.
+* **Geavanceerde Normen OpenAPI** Onderzoek de recentste implementaties OpenAPI voor naadloze verrichtingen CRUD op de gestructureerde inhoud van AEM.
+* **Gebeurtenis en Webhooks** Leer hoe de de gebeurtenis en WebHaakmogelijkheden van Adobe I/O processen kunnen automatiseren die op inhoud en staatsveranderingen in AEM worden gebaseerd.
+* **Nieuwe REST APIs voor de Automatisering van de Vertaling** krijgt om de nieuwe REST APIs te kennen die uw werkschema&#39;s van de inhoudsomzetting in AEM vereenvoudigen en stroomlijnen.
 
 ## Presentatoren
 
@@ -38,17 +38,17 @@ In deze sessie ontdekt u:
 
 >[!VIDEO](https://video.tv.adobe.com/v/3435036/?learn=on)
 
-Heb je een vraag, misschien een opmerking?  Sluit me aan bij de bespreking in de [ Gemeenschappen van het Experience League ](https://adobe.ly/4e34grR)!
+Heb je een vraag, misschien een opmerking?  Sluit me aan bij de bespreking in de [ Gemeenschappen van Experience League ](https://adobe.ly/4e34grR)!
 
 ## Toetsen
 
-* **Inleiding van Modernized APIs** Nieuwe APIs voor AEM inhoudsbeheer en levering zijn geïntroduceerd om ontwikkelingswerkschema&#39;s en integratiemogelijkheden te verbeteren.
+* **Inleiding van Modernized APIs** Nieuwe APIs voor het inhoudsbeheer en levering van AEM zijn geïntroduceerd om ontwikkelingswerkschema&#39;s en integratiemogelijkheden te verbeteren.
 
 * **Gestructureerd Beheer van de Inhoud** nieuwe APIs steunt gestructureerd inhoudsbeheer, met inbegrip van eigenschappen zoals schema UI voor betere inhoud teruggevend, betere verwijzingsbehandeling, en de mogelijkheden van het partijverzoek.
 
 * **Geoptimaliseerde Levering van Inhoud** Een nieuwe API van de inhoudslevering biedt snellere reactietijden aan, die voor randlevering worden geoptimaliseerd, en steunt een lege structuur JSON voor efficiënte inhoudstransmissie.
 
-* **Geautomatiseerde Vertaalprocessen** AEM open API voor vertaalbeheer automatiseren vertaalwerkschema&#39;s, integreert met derdediensten, en steunt bulkverrichtingen.
+* **Geautomatiseerde Vertaal Processen** open AEM API voor vertaalbeheer automatiseert vertaalwerkschema&#39;s, integreert met derdediensten, en steunt bulkverrichtingen.
 
 * **Gebeurtenismechanisme** APIs omvat een gebeurtenismechanisme dat gebeurtenissen voor acties op middelen produceert, die via Adobe IO voor automatisering en integratie in real time kunnen worden verbruikt.
 
@@ -56,7 +56,7 @@ Heb je een vraag, misschien een opmerking?  Sluit me aan bij de bespreking in de
 
 * **Vroege Programma van de Goedkeuring** een uitnodiging om zich bij het vroege adopterprogramma voor directe technische steun en vroege toegang tot nieuwe eigenschappen aan te sluiten, toestaand gebruikers om de ontwikkeling van deze APIs te beïnvloeden.
 
-* **Uitgebreide Documentatie** Uitgebreide documentatie en playground zijn beschikbaar op het ontwikkelaarsportaal van de Adobe om gebruikers te helpen nieuwe APIs onderzoeken en uitvoeren.
+* **Uitgebreide Documentatie** Uitgebreide documentatie en playground zijn beschikbaar op het portaal van de ontwikkelaar van Adobe om gebruikers te helpen nieuwe APIs onderzoeken en uitvoeren.
 
 * {de Verbeteringen van Prestaties 1} Vroege adopters hebben significante prestatiesverbeteringen gemeld, met sommige eindpunten die tot 100x snellere reactietijden tonen.****
 
@@ -64,4 +64,4 @@ Heb je een vraag, misschien een opmerking?  Sluit me aan bij de bespreking in de
 
 ## Blijf op de hoogte!
 
-Om berichten over onze aanstaande webinars te ontvangen, gelieve te registreren bij [ AEM de Groep van de Gebruiker van de Adobe ](https://aem-augs.adobe.com/).
+Om berichten over onze aanstaande webinars te ontvangen, gelieve te registreren bij [ Adobe de Groep van de Gebruiker van AEM ](https://aem-augs.adobe.com/).

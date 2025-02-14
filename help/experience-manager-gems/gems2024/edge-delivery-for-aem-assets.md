@@ -1,6 +1,6 @@
 ---
 title: AEM Assets integreren met Edge Delivery Services
-description: Tijdens dit AEM GEMs webinar, zullen wij tonen hoe u AEM Assets in uw plaats kunt gebruiken die op AEM Edge Delivery Services wordt gebouwd.  We beginnen met de integratiestappen, waarmee ontwikkelaars de AEM Assets-opslagplaats kunnen integreren in de ontwerpstroom van de site. Vervolgens zullen we laten zien hoe ontwikkelaars de integratie kunnen aanpassen op basis van de vereisten voor het maken van sitespecifieke projecten. We zullen ook laten zien hoe de middelen kunnen worden geleverd met AEM Dynamic Media met de Open API, zodat u de Dynamic Media Open API-functies kunt gebruiken. Bovendien zullen wij in praktische gebruiksgevallen en beste praktijken duiken, die een uitvoerig inzicht verstrekken in hoe deze integratie helpt om uw oplossing van het activabeheer in uw plaats creatieve stromen te gebruiken.
+description: De AEM GEM's webinar zal demonstreren hoe AEM Assets kan worden geïntegreerd in sites die zijn gebouwd op AEM Edge Delivery Services, hoe de integratie kan worden aangepast, hoe middelen kunnen worden geleverd met AEM Dynamic Media met Open API en hoe praktijkvoorbeelden en best practices kunnen worden verkend.
 solution: Experience Manager
 version: Cloud Service
 feature: Edge Delivery Services
@@ -10,9 +10,9 @@ level: Intermediate
 doc-type: Event
 duration: 3600
 exl-id: cb32ddba-b105-4a85-9cb1-af2ff16dc037
-source-git-commit: 866d6e9338d485ee48f526ec035574454090378e
+source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
 workflow-type: tm+mt
-source-wordcount: '304'
+source-wordcount: '225'
 ht-degree: 0%
 
 ---
@@ -31,8 +31,8 @@ Dit webinar is voltooid. Bekijk de onderstaande opname.
 
 ## AEM Assets integreren met Edge Delivery Services
 
-Tijdens dit AEM GEMs webinar, zullen wij tonen hoe u AEM Assets in uw plaats kunt gebruiken die op AEM Edge Delivery Services wordt gebouwd.  We beginnen met de integratiestappen, waarmee ontwikkelaars de AEM Assets-opslagplaats kunnen integreren in de ontwerpstroom van de site. Vervolgens zullen we laten zien hoe ontwikkelaars de integratie kunnen aanpassen op basis van de vereisten voor het maken van sitespecifieke projecten. We zullen ook laten zien hoe de middelen kunnen worden geleverd met AEM Dynamic Media met de Open API, zodat u de Dynamic Media Open API-functies kunt gebruiken. Bovendien zullen wij in praktische gebruiksgevallen en beste praktijken duiken, die een uitvoerig inzicht verstrekken in hoe deze integratie helpt om uw oplossing van het activabeheer in uw plaats creatieve stromen te gebruiken.
+Tijdens deze webinar van AEM GEM&#39;s laten we zien hoe u AEM Assets kunt gebruiken in uw site die op AEM Edge Delivery Services is gebouwd.  We beginnen met de integratiestappen, waarmee ontwikkelaars de AEM Assets-opslagplaats kunnen integreren in de ontwerpstroom van de site. Vervolgens zullen we laten zien hoe ontwikkelaars de integratie kunnen aanpassen op basis van de vereisten voor het maken van sitespecifieke projecten. We zullen ook laten zien hoe de middelen kunnen worden geleverd met gebruik van AEM Dynamic Media met Open API, zodat u gebruik kunt maken van Dynamic Media Open API-functies. Bovendien zullen wij in praktische gebruiksgevallen en beste praktijken duiken, die een uitvoerig inzicht verstrekken in hoe deze integratie helpt om uw oplossing van het activabeheer in uw plaats creatieve stromen te gebruiken.
 
 Voor zitting specifieke communautaire interactie over Experience League gelieve te bezoeken de respectieve [ Contextuele Draad ](https://adobe.ly/3LSCVfX).
 
-Om berichten over onze aanstaande webinars te ontvangen, gelieve te registreren bij [ AEM de Groep van de Gebruiker van de Adobe ](https://aem-augs.adobe.com/).
+Om berichten over onze aanstaande webinars te ontvangen, gelieve te registreren bij [ Adobe de Groep van de Gebruiker van AEM ](https://aem-augs.adobe.com/).

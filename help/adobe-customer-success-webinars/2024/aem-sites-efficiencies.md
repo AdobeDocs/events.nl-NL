@@ -1,6 +1,6 @@
 ---
 title: AEM Sites-efficiëntie - Prestaties optimaliseren, configureren en problemen oplossen
-description: Deze sessie gaat over essentiële vaardigheden voor het oplossen van problemen voor Adobe Experience Manager-sites (AEM), waarbij de nadruk ligt op praktische, praktische oplossingen voor prestatieproblemen, complexe configuraties en gebruikersmachtigingen.
+description: Het webinar op de efficiency van de plaats van AMP behandelde prestaties optimalisering, de configuratie van de verzender, de beste praktijken van het rechtenbeheer, en strategieën om prestatieskwesties te richten.
 solution: Experience Manager
 version: Cloud Service
 role: Admin, Developer, Leader, User
@@ -10,16 +10,16 @@ duration: 3452
 last-substantial-update: 2024-10-30T00:00:00Z
 jira: KT-16353
 exl-id: 55f7c1d8-7c2c-4392-894a-2aa9b3cc0e4a
-source-git-commit: ef652eb09c33f11d69ec66f70013cd3e53537a95
+source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '231'
 ht-degree: 0%
 
 ---
 
 # AEM Sites-efficiëntie: prestaties optimaliseren, configureren en problemen oplossen
 
-In dit webinar duiken we in de basisbeginselen van het oplossen van problemen met Adobe Experience Manager (AEM)-sites. Of u nu te maken hebt met prestatieproblemen of met complexe configuraties, deze sessie biedt praktische vaardigheden om uw AEM te onderhouden en te optimaliseren. We geven prioriteit aan live demo&#39;s boven dia&#39;s en bieden praktijkervaring in het aanpakken van echte uitdagingen. &#x200B;
+In dit webinar duiken we in de basisbeginselen van het oplossen van problemen met Adobe Experience Manager (AEM)-sites. Of het nu gaat om prestatieproblemen of om complexe configuraties, deze sessie biedt praktische vaardigheden om uw AEM-omgeving te onderhouden en te optimaliseren. We geven prioriteit aan live demo&#39;s boven dia&#39;s en bieden praktijkervaring in het aanpakken van echte uitdagingen. &#x200B;
 
 >[!VIDEO](https://video.tv.adobe.com/v/3435114/?learn=on)
 
