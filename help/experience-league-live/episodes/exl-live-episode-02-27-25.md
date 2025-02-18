@@ -1,13 +1,14 @@
 ---
 title: Operationele inzichten met AI Assistant in Adobe Experience Platform ontgrendelen
-description: Sluit u aan bij ons voor een exclusieve live sessie met productdeskundigen van de Adobe om te ontdekken hoe AI Assistant waardevolle inzichten in de bedrijfsvoering kan ontsluiten, de productiviteit kan verhogen en het werk in Adobe Experience Platform en zijn platformgebaseerde toepassingen opnieuw kan definiëren.
+description: Meld u aan voor een exclusieve live sessie met Adobe-productdeskundigen om te ontdekken hoe AI Assistant waardevolle operationele inzichten kan ontsluiten, de productiviteit kan verhogen en het werk in Adobe Experience Platform en zijn platformgebaseerde toepassingen opnieuw kan definiëren.
 kt: KT-17230
 solution: Experience Platform
 feature: AI Assistant
 event-cta-url-live: https://www.youtube.com/live/fGgFwAOZle8
 event-start-time: 2025-02-27 08:30-8
 event-guests: Daniel Wright, Rudi Shumpert, Namita Krishnan, Huong Vu
-source-git-commit: c0d5ae4419c2e42322faa752a7cecca75f7c3aaf
+exl-id: d04e52e5-b6d0-4f9a-b6e6-f78e8f8cb7d0
+source-git-commit: 356cf28cdd2e8d6731ce58b4ae98267a73990582
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 0%
@@ -16,7 +17,7 @@ ht-degree: 0%
 
 # Operationele inzichten met AI Assistant in Adobe Experience Platform ontgrendelen
 
-Sluit u aan bij ons voor een exclusieve live sessie met productdeskundigen van de Adobe om te ontdekken hoe AI Assistant waardevolle inzichten in de bedrijfsvoering kan ontsluiten, de productiviteit kan verhogen en het werk in Adobe Experience Platform en zijn platformgebaseerde toepassingen opnieuw kan definiëren.
+Meld u aan voor een exclusieve live sessie met Adobe-productdeskundigen om te ontdekken hoe AI Assistant waardevolle operationele inzichten kan ontsluiten, de productiviteit kan verhogen en het werk in Adobe Experience Platform en zijn platformgebaseerde toepassingen opnieuw kan definiëren.
 
 In deze sessie gaat u op de volgende manieren te werk:
 
@@ -24,6 +25,6 @@ In deze sessie gaat u op de volgende manieren te werk:
 * Hoe de teams over de organisatie, van marketing verrichtingen aan gegevensingenieurs en architecten, operationele inzichten door AI Medewerker kunnen hefboomwerking
 * De nieuwste innovaties en mogelijkheden van AI Assistant die de productiviteit verhogen en workflows in Adobe Experience Platform-toepassingen opnieuw definiëren
 
-[![ ExL LIVE Feb 27 2025 ](assets/WebBanner-02-27-25.jpg) ](https://www.youtube.com/live/fGgFwAOZle8)
+[![ ExL LIVE Feb 27 2025 ](assets/WebBanner-Feb-27-2025.png) ](https://engage.adobe.com/ExpLeagueLive-250227.html)
 
 **klik het beeld om een herinnering te plaatsen Youtube!**

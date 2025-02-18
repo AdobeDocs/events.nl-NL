@@ -1,5 +1,5 @@
 ---
-title: LIVE-gebeurtenissen Experience League
+title: Experience League LIVE-gebeurtenissen
 description: Een verzameling koppelingen naar vorige Experience League LIVE-gebeurtenissen
 solution: Experience Platform,Real-Time Customer Data Platform,Journey Optimizer,Experience Manager,Target,Audience Manager,Analytics
 feature: Use Cases
@@ -8,7 +8,7 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 9e51315ba71324cc9990b5413a80d194839be5db
+source-git-commit: 6201fd942b87ec5e094a90c314d30dcb38a2b278
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 1%
@@ -17,22 +17,22 @@ ht-degree: 1%
 
 # EXPERIENCE LEAGUE LIVE
 
-Experience League LIVE is een live streaming show die wordt gemaakt door het team van Experiencen League.  Het is een kans om met de deskundigen van het product van de Adobe te verbinden en actionable uiteinden, trucs, en strategieën te leren u met de toepassingen van Adobe Experience Cloud kunt toepassen.
+Experience League LIVE is een live streaming show die wordt gemaakt door het Experience League-team.  Het is een kans om verbinding te maken met Adobe-productexperts en actiepunten, trucs en strategieën te leren die u kunt toepassen met de Adobe Experience Cloud-toepassingen.
 
 <div id="upcoming-events">
 
-## Actuele LIVE-Experience League-gebeurtenissen
+## Experience League LIVE-gebeurtenissen
 
 <table>
 <tr>
 <td style="vertical-align: top;"><a href="episodes/exl-live-episode-02-27-25.md">
-      <img alt="Experience League LIVE feb 27" src="episodes/assets/WebBanner-02-27-25.jpg">
+      <img alt="Experience League LIVE feb 27" src="episodes/assets/WebBanner-Feb-27-2025.png">
     </a>
     <div>
       <a href="episodes/exl-live-episode-02-27-25.md">
         <strong> het Ontgrendelen van operationele inzichten met AI Medewerker in Adobe Experience Platform </strong>
       </a>
-      <br/><em> met Rudi Shumpert, Namita Krishnan en Huong Vu </em>
+      <br/><em> met Daniel Wright, Namita Krishnan en Huong Vu </em>
       <br/><em> 27 februari, 2025 </em>
     </div>
   </td>
