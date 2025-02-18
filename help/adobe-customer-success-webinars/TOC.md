@@ -1,19 +1,21 @@
 ---
-user-guide-title: Geslaagde webinars van klanten van de Adobe
-breadcrumb-title: Geslaagde webinars van klanten van de Adobe
-user-guide-description: Met succes geleide webinars van de Klant van de Adobe die worden ontworpen om u bij het optimaliseren van uw investering in het Experience Cloud van de Adobe te helpen. Vergroot waardevolle inzichten om de waarde te maximaliseren en de acceptatie van oplossingen voor Adoben te vergroten.
-source-git-commit: 4a4822129ced9ee1bd11374a637c09ff7f95d61f
+user-guide-title: Adobe Customer Success Webinars
+breadcrumb-title: Adobe Customer Success Webinars
+user-guide-description: Adobe Customer Success geleide webinars die zijn ontworpen om u te helpen uw investering in Adobe Experience Cloud te optimaliseren. Vergroot waardevolle inzichten om de waarde te maximaliseren en de acceptatie van Adobe-oplossingen te vergroten.
+source-git-commit: 5d4308bd92d8285e2380725ad72e341319347cc4
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '289'
 ht-degree: 0%
 
 ---
 
 
-# Geslaagde webinars van klanten van de Adobe {#adobe-customer-success-webinar-recordings}
+# Adobe Customer Success Webinars {#adobe-customer-success-webinar-recordings}
 
-+ [Geslaagde webinars van klanten van de Adobe](overview.md)
++ [Adobe Customer Success Webinars](overview.md)
 + 2025 {#2025}
+   + [Grondbeginselen van de inhoudsvoorzieningsketen](2025/content-supply-chain-basics.md)
+   + [Opstellen van strategieën voor een effectieve meting](2025/impactful-insights.md)
    + [Aansturen van klantenservice](2025/driving-customer-engagement.md)
    + [Loyaliteitsprogramma&#39;s verbeteren via Personalization en gegevens](2025/enhance-loyalty-programs.md)
    + [Sequentiële logica](2025/mastering-sequential-logic.md)
@@ -22,30 +24,30 @@ ht-degree: 0%
    + [Adobe Target, door AI gedreven Personalization](2024/ai-personalization.md)
    + [Adobe Workfront - Lean Teams](2024/workfront-lean-teams.md)
    + [Adobe Workfront Master](2024/workfront-mastery.md)
-   + [Belangrijke concepten AEM ontwerpen](2024/aem-authoring-concepts.md)
+   + [Belangrijke concepten van AEM Authoring](2024/aem-authoring-concepts.md)
    + [AEM Sites-efficiëntie](2024/aem-sites-efficiencies.md)
    + [Integratie van AEP App Services voor gebruik door klanten](2024/aep-apps-services-integrations.md)
    + [Hoofdlettergebruik in AEP](2024/aep-use-case-planning.md)
    + [Copywriting met AI-machtiging](2024/ai-copywriting.md)
    + [Basis tot Midden de Mogelijkheden van de Analyse](2024/basic-to-intermediate-analysis-capabilities.md)
    + [Prioriteit gegevensstroom](2024/data-stream-prioritization.md)
-   + [Edge Network en mobiele Personalization](2024/edge-network-mobile-personalization.md)
+   + [Edge Network &amp; Mobile Personalization](2024/edge-network-mobile-personalization.md)
    + [Effectief wijzigingsbeheer](2024/effective-change-management.md)
    + [Lean Teams monteren](2024/empowering-lean-teams.md)
    + [Expedia gaat van Adobe Analytics naar Customer Journey Analytics](2024/expedia-aa-to-cja.md)
    + [Grondbeginselen van Workfront System and Group Admin Guardianship](2024/workfront-admin-guardianship.md)
    + [Aan de slag met Adobe Journey Optimizer-analyse](2024/getting-started-ajo-analysis.md)
-   + [Aan de slag met Real-time Customer Data Platform](2024/getting-started-rtcdp.md)
+   + [Aan de slag met Real-Time Customer Data Platform](2024/getting-started-rtcdp.md)
    + [Inzetten van AI voor Klantervaring](2024/ai-customer-experience.md)
    + [Hyperpersonalisatie](2024/hyperpersonalization.md)
    + [Journey Optimizer Mobile-mogelijkheden](2024/journey-optimizer-mobile-capabilities.md)
-   + [Leerteams en Customer Journey Analytics](2024/lean-teams-cja.md)
+   + [Lean Teams en Customer Journey Analytics](2024/lean-teams-cja.md)
    + [Mastering in de Adobe Admin Console](2024/adobe-admin-console.md)
    + [Cookies en gegevensprivacy beheren](2024/mastering-cookies-data-privacy.md)
    + [Sequentiële logica](2024/sequential-logic.md)
    + [Organisatorische gereedheid voor de toeleveringsketen voor inhoud](2024/organizational-readiness-content-supply-chain.md)
-   + [Integratie met Real-time Customer Data Platform en Marketo](2024/aep-marketo-integration.md)
-   + [Gereedheid voor Real-time Customer Data Platform-migratie](2024/rtcdp-migration-readiness.md)
+   + [Integratie met Real-Time Customer Data Platform en Marketo](2024/aep-marketo-integration.md)
+   + [Realtime gereedheid voor migratie van klantgegevens](2024/rtcdp-migration-readiness.md)
    + [Strategisch leiderschap](2024/strategic-leadership.md)
    + [Verificatie stroomlijnen](2024/streamline-authentication.md)
    + [Doel Personalization](2024/target-personalization.md)
@@ -58,13 +60,13 @@ ht-degree: 0%
    + [Bouwen aan de Stichting voor Personalization op schaal](2023/personalization-at-scale.md)
    + [Wijzigingsbeheer](2023/change-management.md)
    + [Inhoud en ervaring - Personalization](2023/content-experiences-personalization.md)
-   + [Gereedheid voor migratie naar Customer Journey Analytics](2023/cja-migration-readiness.md)
-   + [Essentiële Customer Journey Analytics Integration](2023/cja-integration-essentials.md)
+   + [Gereedheid voor Customer Journey Analytics-migratie](2023/cja-migration-readiness.md)
+   + [Customer Journey Analytics Integration Essentials](2023/cja-integration-essentials.md)
    + [Een realtime strategie voor gegevensverzameling en -activering ontwikkelen](2023/data-collection-activation-strategy.md)
    + [Effectieve meetstrategie](2023/measurement-strategy.md)
    + [Foundationele strategie voor campagneorchestratie](2023/foundational-strategy-campaign.md)
    + [Prioriteit geven aan Intelligentie en Meting](2023/intelligence-and-measurement.md)
    + [Realtime CDP Gegevens Gereedheid](2023/rtcdp-migration-data-readiness.md)
    + [Gereedheid voor CDP-migratie in realtime](2023/rtcdp-migration-readiness.md)
-   + [Vaststelling van een doeltreffende strategie voor Audience Activation](2023/audience-activation.md)
+   + [Een effectieve Audience Activation-strategie](2023/audience-activation.md)
    + [Overgang aan Echt - tijd CDP](2023/aam-to-rtcdp.md)
