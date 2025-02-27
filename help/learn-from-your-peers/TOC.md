@@ -2,9 +2,9 @@
 user-guide-title: '[!DNL Experience Makers Learn from your peers]'
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: Verzameling opnamen van  [!DNL Experience Makers Learn from your peers]
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: b93f940bfbd028349af2df86992a9e0655b7480d
 workflow-type: tm+mt
-source-wordcount: '302'
+source-wordcount: '313'
 ht-degree: 2%
 
 ---
@@ -37,7 +37,7 @@ ht-degree: 2%
       + [Communicatie, vereisten en tests in Agile SDLC](commerce/2024/agile-sdlc.md)
 + Experience Manager {#experience-manager}
    + November {#nov2023}
-      + [Uitmuntendheid van ontwikkelaars met AEM kerncomponenten](experience-manager/nov2023/core-components.md)
+      + [Uitmuntendheid voor ontwikkelaars met AEM Core-componenten](experience-manager/nov2023/core-components.md)
    + September {#sept2023}
       + [Een diepe insteekmodule voor AEM Sites](experience-manager/sept2023/aem-sites-tools.md)
    + Juli {#july2023}
@@ -54,7 +54,7 @@ ht-degree: 2%
    + April 2024 {#april2024}
       + [Praktische toepassingen van Marketo Engage REST API](marketo/april2024/practical-applications-of-marketo-engage-rest-api.md)
    + Januari 2024 {#jan2024}
-      + [Persoon die stramien scoort met Marketo Engage](marketo/jan2024/person-scoring-mastery.md)
+      + [Person Scoring Mastery met Marketo Engage](marketo/jan2024/person-scoring-mastery.md)
    + November 2023 {#nov2023}
       + [Marketo Engage en Dynamic Chat](marketo/nov2023/dynamic-chat.md)
    + September 2023 {#sept2023}
@@ -66,6 +66,9 @@ ht-degree: 2%
    + Maart 2023 {#mar2023}
       + [Hoe te om Uw  [!DNL Adobe Marketo Engage]  Inhoud Schaalbaar te maken](marketo/mar2023/templates-tokens-teamwork.md)
 + Workfront {#workfront}
+   + 2025 {#2025}
+      + Februari {#february2025}
+         + [Het articuleren Effect - hoe te om de Waarde van Workfront te meten en te delen](workfront/2025/how-to-measure-and-share-workfront-value.md)
    + 2024 {#2024}
       + April {#april2024}
          + [Het personeel van uw Workfront-systeem beheert de praktijk](workfront/2024/04/staffing-your-workfront-system-admin-practice.md)
@@ -107,4 +110,4 @@ ht-degree: 2%
          + [Wat is het bestuur van Workfront?](workfront/2022/03/what-is-workfront-governance.md)
       + Februari {#february}
          + [Werken met gebruikersbeheer](workfront/2022/02/understanding-user-management.md)
-+ [Leer hoe u een Adobe Champion-toepassing voor een evaluatiemogelijkheid kunt indienen](./adobe-champion-application.md)
++ [Leer hoe u een standout Adobe Champion-toepassing kunt indienen](./adobe-champion-application.md)
