@@ -8,9 +8,9 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 6201fd942b87ec5e094a90c314d30dcb38a2b278
+source-git-commit: 98c81f4400d80ca7991c9df94c3fa400600391c8
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '161'
 ht-degree: 1%
 
 ---
@@ -25,16 +25,8 @@ Experience League LIVE is een live streaming show die wordt gemaakt door het Exp
 
 <table>
 <tr>
-<td style="vertical-align: top;"><a href="episodes/exl-live-episode-02-27-25.md">
-      <img alt="Experience League LIVE feb 27" src="episodes/assets/WebBanner-Feb-27-2025.png">
-    </a>
-    <div>
-      <a href="episodes/exl-live-episode-02-27-25.md">
-        <strong> het Ontgrendelen van operationele inzichten met AI Medewerker in Adobe Experience Platform </strong>
-      </a>
-      <br/><em> met Daniel Wright, Namita Krishnan en Huong Vu </em>
-      <br/><em> 27 februari, 2025 </em>
-    </div>
+<td>
+  Kom binnenkort terug naar deze pagina voor meer aanstaande shows!
   </td>
 </tr>
 </table>
