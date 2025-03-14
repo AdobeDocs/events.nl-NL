@@ -2,9 +2,9 @@
 user-guide-title: Commerce- en Coffee-gebeurtenissen
 breadcrumb-title: Commerce- en Coffee-gebeurtenissen
 user-guide-description: Adobe Commerce en Coffee is een videobank waar experts en collega's hun gedachten en ideeën over het gebruik van Adobe Commerce delen.
-source-git-commit: 1e328fb4db0a3ba6988beb4922d67d585d01e43a
+source-git-commit: 93f42aa274bbe58b7996eb09582cb353b1b347f4
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '95'
 ht-degree: 2%
 
 ---
@@ -13,6 +13,8 @@ ht-degree: 2%
 # Commerce en koffie {#commerce-and-coffee-recordings}
 
 + [Overzicht](overview.md)
++ 2025 {#2025}
+   + [Zelfbediening in B2B](2025/self-service-b2b.md)
 + 2024 {#2024}
    + [Mij vragen](2024/ask-me-anything.md)
    + [Ecommerce Essentials](2024/ecommerce-essentials.md)

@@ -1,21 +1,26 @@
 ---
-user-guide-title: Technische sessies Experience Cloud
+user-guide-title: Technische Experience Cloud-sessies
 user-guide-breadcrumb: Experience Cloud Tech Sessions
-user-guide-description: De Sessies van de Tech van het Experience Cloud is een pro-actieve benadering van gevalvervorming door klanten oplossing-specifieke webinars aan te bieden.
-source-git-commit: 852eec6eccb1cf5cf99d73ffcd635f55fed846cf
+user-guide-description: Experience Cloud Tech Sessions is een pro-actieve benadering van case deflection door klanten oplossing-specifieke webinars aan te bieden.
+source-git-commit: 0060197dfc26604cda34f5380b9935c8e2bb791e
 workflow-type: tm+mt
-source-wordcount: '123'
-ht-degree: 10%
+source-wordcount: '140'
+ht-degree: 9%
 
 ---
 
 
-# Technische sessies Experience Cloud {#tech-sessions}
+# Technische Experience Cloud-sessies {#tech-sessions}
 
-+ [Technische sessies Experience Cloud](overview.md)
++ [Technische Experience Cloud-sessies](overview.md)
++ 2025 {#2025}
+   + [De meesten uit Marketo Measure halen](2025/getting-most-marketo-measure.md)
+   + Marketo-migratie naar de Adobe Admin Console {#marketo-admin-console}
+      + [Pre-migratie](2025/marketo-pre-migration.md)
+      + [Na de migratie](2025/marketo-post-migration.md)
 + 2024 {#2024}
    + Gegevensplatform voor inhoud in realtime {#rtcdp-office-hours-2024}
-      + [Probleemoplossing voor AEP Web SDK](2024/aep-web-sdk-troubleshooting.md)
+      + [AEP Web SDK Problemen oplossen](2024/aep-web-sdk-troubleshooting.md)
       + [AI-assistent](2024/ai-assistant.md)
       + [Real-Time Content Data Platform Timings](2024/rtcdp-timings.md)
    + Adobe Experience Manager {#aem-office-hours-2024}
@@ -30,9 +35,9 @@ ht-degree: 10%
    + Adobe Commerce {#adobe-commerce-office-hours}
       + [ plaats-brede het Hulpmiddel van de Analyse ](2023/site-wide-analysis-tool.md)
    + Adobe Experience Platform {#adobe-experience-platform-office-hours}
-      + [Machtigingen Admin Console](2023/aep-admin-console-permissions.md)
+      + [Admin Console-machtigingen](2023/aep-admin-console-permissions.md)
    + Adobe Experience Manager {#adobe-experience-manager-office-hours}
-      + [AEM analyse van implementatiefouten van CS](2023/aem-deployment-failures-analysis.md)
+      + [AEM CS-analyse van implementatiefouten](2023/aem-deployment-failures-analysis.md)
       + [AEM Forms Headless-architectuur](2023/aem-forms-headless-architecture.md)
       + [Migratie naar AEM Cloud Service](2023/migration-aemcs.md)
       + [Stichting voor het Optimaliseren van Indexen](2023/optimize-indexes-aemcs.md)
