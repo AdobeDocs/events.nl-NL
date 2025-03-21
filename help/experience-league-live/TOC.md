@@ -1,7 +1,7 @@
 ---
 user-guide-title: Live gebeurtenissen in Experience League
 user-guide-breadcrumb: Experience League Live Events
-user-guide-description: Een lijst met live gebeurtenissen uit het Experience League
+user-guide-description: Een lijst met Experience League Live Events
 type: Event
 mini-toc-levels: 2
 event-series: Experience League Live
@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 9e51315ba71324cc9990b5413a80d194839be5db
+source-git-commit: aab3785f25043242f8eccb11e304bab7e2ab7804
 workflow-type: tm+mt
-source-wordcount: '505'
+source-wordcount: '514'
 ht-degree: 1%
 
 ---
@@ -21,10 +21,11 @@ ht-degree: 1%
 
 + [Overzicht](overview.md)
 + Episodes {#episodes}
+   + [EP 45: Wacht niet... Samenwerken! Introductie van Real-Time CDP Collaboration](episodes/exl-live-episode-04-10-25.md)
    + [EP 44: Het ontgrendelen van operationele inzichten met AI Assistant in Adobe Experience Platform](episodes/exl-live-episode-02-27-25.md)
    + [EP 43: Inleiding tot AI Assistant for Audiences for Marketers in Real-Time CDP](episodes/exl-live-episode-11-13-24.md)
    + [EP 42: Onthult Content Cards for Adobe Journey Optimizer](episodes/exl-live-episode-10-30-24.md)
-   + [EP 41: publiek harmoniseren met behulp van Federated Audience Composition in Experience Platform](episodes/exl-live-episode-40-2024-10-24.md)
+   + [EP 41: publiek harmoniseren met Federated Audience Composition in Experience Platform](episodes/exl-live-episode-40-2024-10-24.md)
    + [EP 40: AI Bash - De kracht van AI Assistant vrijmaken in Adobe Experience Platform-toepassingen en -campagne](episodes/exl-live-episode-09-26-24.md)
    + [EP 39: Bent u klaar om de app voor mobiele analysemogelijkheden op te waarderen?](episodes/exl-live-episode-09-18-24.md)
    + [EP 38: Zomerspotlight - Drie functies moeten in Adobe Journey Optimizer proberen](episodes/exl-live-episode-08-28-24.md)
@@ -34,7 +35,7 @@ ht-degree: 1%
    + [EP 34: Marketo Measure nieuwe dashboards](episodes/exl-live-episode-04-18-24.md)
    + [EP 33: Vooruitgang met de nieuwe Adobe Campaign v8-gebruikersinterface](episodes/exl-live-episode-02-29-24.md)
    + [EP 32: Gebruik Hoofdlettergebruik, zelf-bediende malplaatjes om gebruiksgevallen in een paar klikken op te stellen](episodes/exl-live-episode-02-08-24.md)
-   + [EP 31: Adobe Analytics-gegevens en -analyses in Customer Journey Analytics brengen](episodes/exl-live-episode-01-17-24.md)
+   + [EP 31: Breng uw Adobe Analytics-gegevens en -analyses naar Customer Journey Analytics](episodes/exl-live-episode-01-17-24.md)
    + [EP 30: Aftellen tot 2024 met de vijf belangrijkste nieuwe functies in Adobe Real-Time CDP](episodes/exl-live-episode-12-14-23.md)
    + [EP 29: Haal het meeste uit uw gedragsgebeurtenisgegevens in Real-Time CDP en AJO](episodes/exl-live-episode-11-14-23.md)
    + [EP 28: Workfront Release Deep Dive - nieuwe Workfront Home](episodes/exl-live-episode-10-26-23.md)
@@ -51,13 +52,13 @@ ht-degree: 1%
    + [EP 17: Een meer persoonlijke klantervaring in real-time](episodes/exl-live-episode-09-20-22.md)
    + [EP 16: Vraag de experts - Nuttige extensies in tags (Launch) om hulp bij het laden van de Web SDK](episodes/exl-live-episode-08-23-22.md)
    + [EP 15: Vraag het de experts - DataStreams en DataPrep](episodes/exl-live-episode-07-21-22.md)
-   + [EP 14: Vraag het de experts - RTCDP-verbindingen](episodes/exl-live-episode-06-23-22.md)
+   + [EP 14: Vraag het de experts - RTCDP Connections](episodes/exl-live-episode-06-23-22.md)
    + [EP 13: Vraag het de experts - De basisbeginselen van Web SDK](episodes/exl-live-episode-05-26-22.md)
    + [EP 12: pushberichten met Journey Optimizer](episodes/exl-live-episode-05-12-22.md)
-   + [EP 11: AAM en Real-time CDP - Hoe kan ik al deze soorten publiek behandelen?](episodes/exl-live-episode-04-28-22.md)
-   + [EP 10: AEM van Koploos naar Koploos (en alles ertussen)](episodes/exl-live-episode-04-21-22.md)
+   + [EP 11: AAM en Real-time CDP - Hoe kan ik al deze soorten publiek verwerken?](episodes/exl-live-episode-04-28-22.md)
+   + [EP 10: AEM van Headful naar Headless (en alles daartussen)](episodes/exl-live-episode-04-21-22.md)
    + [EP 9: Maak kennis met alle nieuwe demo&#39;s in AEM](episodes/exl-live-episode-02-03-22.md)
-   + [EP 8: Customer Journey Analytics: de binnenkant van de code](episodes/exl-live-episode-08.md)
+   + [EP 8: Customer Journey Analytics: De binnenkant van de SOC](episodes/exl-live-episode-08.md)
    + [EP 7: AEM uitbreiden met Adobe App Builder](episodes/exl-live-episode-07.md)
    + [EP 6: Meet mensen in plaats van apparaten](episodes/exl-live-episode-06.md)
    + [EP 5: Ga sneller dan ooit live dankzij het snelle maken van sites](episodes/exl-live-episode-05.md)
