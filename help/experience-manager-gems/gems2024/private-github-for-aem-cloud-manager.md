@@ -2,7 +2,7 @@
 title: Integratie van particuliere GitHub-opslagplaatsen in AEM Cloud Manager
 description: Het webinar van AEM GEMs zal aantonen hoe te om een privé bewaarplaats van GitHub in Cloud Manager toe te voegen, het direct met pijpleidingen te verbinden, en shift-linker het testen om kwesties op het niveau van het trekkingsverzoek te identificeren alvorens code samen te voegen.
 solution: Experience Manager
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 feature: Developer Tools
 topic: Development
 role: Developer
@@ -10,7 +10,7 @@ level: Intermediate
 doc-type: Event
 duration: 3600
 exl-id: 4080464c-dbe8-4c8d-ad15-f72d7c89df7c
-source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '251'
 ht-degree: 0%

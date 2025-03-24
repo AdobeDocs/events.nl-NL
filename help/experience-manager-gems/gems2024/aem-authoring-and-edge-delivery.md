@@ -2,7 +2,7 @@
 title: Aan de slag met AEM Authoring en Edge Delivery Services
 description: De webinar van AEM GEM's laat zien hoe AEM authoring integreert met Edge Delivery Services, een project maakt met AEM Cloud Service en een WYSIWYG authoring interface onderhoudt.
 solution: Experience Manager
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 feature: Edge Delivery Services
 topic: Development
 role: Developer
@@ -13,7 +13,7 @@ last-substantial-update: 2024-02-29T00:00:00Z
 jira: KT-15065
 thumbnail: KT-15065.jpeg
 exl-id: ef0cf02c-1670-4286-bf2e-1563a5307820
-source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '178'
 ht-degree: 0%

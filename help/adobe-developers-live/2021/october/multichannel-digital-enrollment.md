@@ -4,12 +4,12 @@ description: Leer hoe u moderne, veilige en moderne ervaringen met digitale insc
 solution: Experience Manager,Experience Manager Forms
 role: User
 level: Beginner
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 kt: 9194
 type: Event
 exl-id: d1cd8681-ec55-4776-99bf-a41fbb755a9a
 duration: 1551
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 4%
@@ -20,11 +20,11 @@ ht-degree: 4%
 
 Leer hoe u moderne, veilige en moderne ervaringen met digitale inschrijving kunt opbouwen met Adobe Experience Manager Forms as a Cloud Service.
 
-In deze sessie worden de beste praktijken benadrukt voor het beveiligen van gegevens die in workflows worden verwerkt, het extern maken van verzonden gegevens naar Azure-opslag en het verzamelen van inzichten met behulp van Adobe [!DNL Analytics] met Adaptive Forms on cloud service.
+In deze sessie worden de beste praktijken benadrukt voor het beveiligen van gegevens die in workflows worden verwerkt, het extern beschikbaar stellen van verzonden gegevens naar Azure-opslag en het verzamelen van inzichten met Adobe [!DNL Analytics] met Adaptive Forms on cloud service.
 
 We zullen ook een voorvertoning van een aantal integraties op onze routekaart opnemen, zoals de integratie van Microsoft PowerAutomate en Teams met Adobe Experience Manager Forms.
 
-Ga het gesprek in **[Gemeenschappen van het Experience League ](https://adobe.ly/3CQjKgg)** voort.
+Ga het gesprek in **[Gemeenschappen van Experience League ](https://adobe.ly/3CQjKgg)** voort.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337887/?quality=12&learn=on&hidetitle=true)
 

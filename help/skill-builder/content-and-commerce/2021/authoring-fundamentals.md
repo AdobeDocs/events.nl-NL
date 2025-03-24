@@ -9,12 +9,12 @@ feature: Authoring
 topic: Content Management
 role: User
 level: Beginner
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 type: Event
 kt: 8945
 exl-id: 7e719f00-26f2-449f-aefc-38d1a9ca7291
 duration: 3837
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 # Adobe Experience Manager Sites Basics
 
-Leer hoe u in Adobe Experience Manager rijke en boeiende klantervaringen kunt maken in deze webinarreeks van 5 delen. Wij zullen met de bouwstenen van inhoud creatie beginnen terwijl het introduceren van u aan de fundamentele concepten en verrichtingen. Dit omvat functies voor sitebeheer en basisbeginselen voor de verwerking van digitale elementen binnen AEM. In het latere deel van de reeks ontdekt u functies die u kunnen helpen tijd te besparen en efficiënter te zijn door de inhoud opnieuw te gebruiken en deze via verschillende kanalen te leveren.
+Leer hoe u in Adobe Experience Manager rijke en boeiende klantervaringen kunt maken in deze webinarreeks van 5 delen. Wij zullen met de bouwstenen van inhoud creatie beginnen terwijl het introduceren van u aan de fundamentele concepten en verrichtingen. Dit omvat functies voor sitebeheer en basisbeginselen voor de verwerking van digitale middelen in AEM. In het latere deel van de reeks ontdekt u functies die u kunnen helpen tijd te besparen en efficiënter te zijn door de inhoud opnieuw te gebruiken en deze via verschillende kanalen te leveren.
 
 ## Creatief mooi web ervaart snel
 

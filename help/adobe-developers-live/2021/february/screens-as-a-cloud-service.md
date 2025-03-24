@@ -8,13 +8,13 @@ feature: Developer Tools
 topic: Development
 role: Developer
 level: Beginner
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 kt: 7164
 type: Event
 thumbnail: 331767.jpg
 exl-id: 3ddae9b1-f480-4d84-952a-ca31bb9616f7
 duration: 1665
-source-git-commit: 07a0a88da92652a6f07f65ba369e17cfe85fdafd
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 0%
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 Adobe Experience Manager Screens as a Cloud Service opnieuw in beeld brengen: een reis van strak gekoppeld zijn aan een CMS tot een volledig beheerde en schaalbare cloudservice.
 
-Ga het gesprek in **[Gemeenschappen van het Experience League ](https://adobe.ly/36Yd3v6)** voort.
+Ga het gesprek in **[Gemeenschappen van Experience League ](https://adobe.ly/36Yd3v6)** voort.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331767/?quality=12&learn=on&hidetitle=true)
 

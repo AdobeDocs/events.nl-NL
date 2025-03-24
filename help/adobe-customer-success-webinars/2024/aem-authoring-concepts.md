@@ -2,7 +2,7 @@
 title: AEM Basics Inleiding tot de belangrijkste concepten en mogelijkheden van AEM Authoring
 description: De AEM Authoring Basics-sessie had betrekking op belangrijke concepten, het model voor een dubbele omgeving, uitdagingen bij het maken van inhoud, ontwerpgereedschappen, samenwerkings- en vertaalfuncties en services voor randlevering.
 solution: Experience Manager
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -10,7 +10,7 @@ duration: 3248
 last-substantial-update: 2024-10-30T00:00:00Z
 jira: KT-16416
 exl-id: 5966c14a-7adb-48d8-bf20-9fb4a350745f
-source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '315'
 ht-degree: 0%
