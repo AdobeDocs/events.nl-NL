@@ -8,9 +8,9 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: aab3785f25043242f8eccb11e304bab7e2ab7804
+source-git-commit: 2838fbbcafd0454e47c069365cfc912473fbaccf
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '182'
 ht-degree: 1%
 
 ---
@@ -23,6 +23,8 @@ Experience League LIVE is een live streaming show die wordt gemaakt door het Exp
 
 ## Experience League LIVE-gebeurtenissen
 
+<div>Kom binnenkort terug voor informatie over de volgende geplande show.</div>
+&lt;!— 
 <table>
 <tr>
 <td style="vertical-align: top;"><a href="episodes/exl-live-episode-04-10-25.md">
@@ -36,11 +38,11 @@ Experience League LIVE is een live streaming show die wordt gemaakt door het Exp
       <br/><em> 10 April, 2025 </em>
     </div>
   </td>
-  </tr>
+ </tr>
 </table>
 
 </div>
-
+—&gt;
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
 <div id="recs-overview-body-3"></div>

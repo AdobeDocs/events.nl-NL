@@ -8,24 +8,28 @@ event-cta-url-live: https://www.youtube.com/live/OPRzvdLUu7E
 event-start-time: 2025-04-10 09:00-8
 event-guests: Doug Moore, Nina Caruso, Clayton Smith
 exl-id: 6376944b-eefd-4d9e-8db4-89d6d948889f
-source-git-commit: c79fce8485ff5e4584df436688bf7d0aeac5061f
+source-git-commit: ca10c0d6d26fe2348776cb92eeb306fc0511737f
 workflow-type: tm+mt
-source-wordcount: '200'
-ht-degree: 0%
+source-wordcount: '142'
+ht-degree: 1%
 
 ---
 
 # Wacht niet... Samenwerken! Introductie van Real-Time CDP Collaboration
 
-Real-Time CDP Collaboration is nu beschikbaar voor klanten in de VS en biedt gebruiksvriendelijke, privacygerichte samenwerking op het gebied van gegevens voor merken en uitgevers. Het helpt u, onze klanten, om publiek te ontdekken, te activeren en te meten om advertentie-inkomsten en macht betaalde media inspanningen in het tempo van betaalde marketing te maximaliseren. Wil je het beste weten? Als u een klant van Real-Time CDP bent, hebt u AL TOEGANG tot deze verbazingwekkende nieuwe mogelijkheid. Hebben we je aandacht opgetrokken? Wil je meer leren? Zo ja...
+In eerste instantie hebben onze experts op 10 april 2025 besproken hoe Real-Time CDP Collaboration gebruikersvriendelijke en privacygerichte samenwerking op het gebied van gegevens biedt voor merken en uitgevers. U kunt een publiek dat beschikbaar is voor klanten in de VS, detecteren, activeren en meten om de advertentie te maximaliseren en de betaalde media-inspanningen te optimaliseren in het tempo van de betaalde marketing.
 
-Sluit zich aan bij deze zitting aan:
+In deze sessie hebben we het volgende onderzocht:
 
-* Ontdek waarom we dit in de eerste plaats bouwden en hoor hoe we denken dat dit u helpt om problemen op te lossen voor de privacy van de consument en het publiek, met eenvoud en interoperabiliteit
-* Zie Real-Time CDP Collaboration in actie, met productdemo&#39;s
-* Meer informatie over het gebruik van zaken die we oplossen en wat er komt
-* Horen rechtstreeks van productexperts!
+* Waarom we dit product hebben gemaakt en hoe het helpt om de privacy en het publiek van de consument op te lossen en uitdagingen met eenvoud en interoperabiliteit aan te gaan
+* Real-Time CDP Collaboration in actie, met productdemo&#39;s
+* Gebruik nu ondersteunde gevallen en wat er moet gebeuren
 
-[![ ExL LIVE apr 10 2025 ](assets/WebBanner_Apr10_2025.jpg) ](https://engage.adobe.com/ExpLeagueLive-250410.html)
+>[!VIDEO](https://video.tv.adobe.com/v/3457557/?quality=12&learn=on)
+<!-- 
+**Continue the discussion on the Experience League [Community Post.](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/adobe-experience-league-live-unlocking-operational-insights-with/td-p/738208){target="_blank"}** 
+-->
 
-[**REGISTER NU!** ](https://engage.adobe.com/ExpLeagueLive-250410.html)
+## Aanvullende bronnen
+
+[ de video&#39;s van Real-Time CDP Collaboration ](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/collaboration/real-time-cdp-collaboration-overview)
