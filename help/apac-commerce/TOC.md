@@ -2,10 +2,10 @@
 user-guide-title: APAC Commerce Events
 breadcrumb-title: APAC Commerce Events
 user-guide-description: Adobe Commerce Events is een videobibliotheek waar experts en collega's hun gedachten en ideeën over het gebruik van Adobe Commerce hebben gedeeld.
-source-git-commit: 888157b1ae32dcd6657ddbac51c448ac72c65933
+source-git-commit: 0019364eaad86248349d31290f25f758d762eaf4
 workflow-type: tm+mt
-source-wordcount: '150'
-ht-degree: 2%
+source-wordcount: '147'
+ht-degree: 4%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 2%
 + [Overzicht](overview.md)
 + 2024 {#2024}
    + [Versnellingsdag](2024/accelerator-day/overview.md)
-   + Versnellingsdag {#accelerator-day}
+   + Versnellingsdag{#accelerator-day}
       + [Verborgen: morgen navigeren](./2024/accelerator-day/navigating-tomorrow.md)
       + [Verborgen: Deelvenster voorbij randen](./2024/accelerator-day/panel-beyond-borders.md)
       + [Verborgen: Ervaring evolutie](./2024/accelerator-day/experience-evolution.md)
@@ -35,7 +35,7 @@ ht-degree: 2%
    + [7 manieren om een eCommerce-bedrijf organisch te kweken](2024/grow-ecommerce-business.md)
 + 2023 {#2023}
    + [PERSONALIZATION met AI-mogelijkheden](2023/ai-personalisation.md)
-   + [ de Cloud Commerce van de Adobe PaaS ](2023/adobes-paas-cloud-commerce.md)
+   + [ Adobe Commerce de Wolk van de PAGAS ](2023/adobes-paas-cloud-commerce.md)
    + [De omzettingen van de elektronische handel bevorderen](2023/ecommerce-conversions.md)
    + [Samengestelde handelsstrategieën](2023/composable-commerce.md)
    + [Marktplaatsen als een groeifactor](2023/marketplaces.md)
@@ -46,7 +46,6 @@ ht-degree: 2%
    + [Site-brede analyse](2022/analysis-tool.md)
    + [Gegevens omzetten in waarde met MBI](2022/mbi.md)
    + [Upgrade uitvoeren naar 2.4.4](2022/upgrade.md)
-+ [Hooglichten routekaart vrijgeven](release-highlights.md)
 
 <!--+ Commerce Events {#commerce-events}
   + [Overview](commerce-events/overview.md)
