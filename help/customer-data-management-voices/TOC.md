@@ -21,8 +21,8 @@ ht-degree: 0%
    + [Betere ervaringen opbouwen met klantprofielen](cdm/building-better-experiences-with-customer-profiles.md)
    + [Hoe de Marketing Teams de Strategieën van het gegevensbeheer verbeteren](cdm/how-marketing-teams-are-improving-data-management-strategies.md)
 + Beheer en privacy van gegevens voor het publiek en het profiel {#governance}
-   + [ 10 overwegingen voor het Verantwoordelijke Beheer van de Gegevens van de Klant ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html)
-   + [ die de Rol van de Markteur als Gegevens verheft ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/elevating-the-marketers-role-as-a-data-steward.html)
+   + [ 10 overwegingen voor het Verantwoordelijke Beheer van de Gegevens van de Klant ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html?lang=nl-NL)
+   + [ die de Rol van de Markteur als Gegevens verheft ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/elevating-the-marketers-role-as-a-data-steward.html?lang=nl-NL)
    + [Beheer en privacy van gegevens in het profiel van het publiek](governance/healthcare-shield.md)
 + Industriële discussies {#industry}
    + [Bouw Uitstekende Ervaring met uw Gegevens van de Eerste Partij](industry/build-superb-experiences-with-your-first-party-data.md)

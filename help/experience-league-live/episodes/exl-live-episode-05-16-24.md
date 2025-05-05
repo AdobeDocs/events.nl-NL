@@ -28,6 +28,6 @@ Wij vormen een gegevensstroom op de rand, en installeren en vormen de uitbreidin
 
 Om vragen of interface met de deskundigen van de Adobe evenals uw edelen te stellen, gelieve te bezoeken de [ Communautaire bespreking van het Experience League ](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-data/experience-league-live-post-session-discussion-this-is-the-way/m-p/673538){target="_blank"} .
 
-Voor extra documentatie, zie [ Adobe Analytics uitvoeren gebruikend het Web SDK van Adobe Experience Platform ](https://experienceleague.adobe.com/en/docs/analytics/implementation/aep-edge/web-sdk/overview).
+Voor extra documentatie, zie [ Adobe Analytics uitvoeren gebruikend het Web SDK van Adobe Experience Platform ](https://experienceleague.adobe.com/nl/docs/analytics/implementation/aep-edge/web-sdk/overview).
 
 Om een aanstaande **webinar betreffende strategische stappen bij te wonen voor het uitvoeren van Web SDK**, registreer [ HER ](https://engage.adobe.com/step_by_step_guide_implement.html).

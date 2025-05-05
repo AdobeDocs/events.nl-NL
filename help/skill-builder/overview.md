@@ -26,7 +26,7 @@ Skill Builder is een webinar reeks die wordt ontworpen om uw kennisbasis te bouw
     <p>
     <em> creeer en beheer een waaier van het in dienst nemen websites, mobiele apps, en vormen. Plus leren om multi-kanaalhandel ervaringen op één enkel platform met onze flexibele, AI-Vervaardigde handeloplossing te bouwen.</em>
     <p>
-    <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/content-and-commerce/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
+    <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/content-and-commerce/overview.html?lang=nl-NL" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
       <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> doorblader Zittingen </span>
     </a>
   </td>
@@ -38,7 +38,7 @@ Skill Builder is een webinar reeks die wordt ontworpen om uw kennisbasis te bouw
     <p>
     <em> ontwikkelt klantenprofielen in real time door gegevens uit alle bronnen te trekken om gepersonaliseerde, dwars-kanaalreizen tot stand te brengen.</em>
     <p>
-    <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/customer-journeys/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
+    <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/customer-journeys/overview.html?lang=nl-NL" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
       <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> doorblader Zittingen </span>
     </a>
   </td>
@@ -50,7 +50,7 @@ Skill Builder is een webinar reeks die wordt ontworpen om uw kennisbasis te bouw
     <p>
     <em> Verpersoonlijking in real time van de aandrijving op om het even welk kanaal die online en off-line gegevensinzichten over uw volledige organisatie gebruiken.</em>
     <p>
-    <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/data-and-insights/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
+    <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/data-and-insights/overview.html?lang=nl-NL" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
       <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> doorblader Zittingen </span>
     </a>
   </td>  

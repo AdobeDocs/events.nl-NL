@@ -25,5 +25,5 @@ Met al het lawaai op de markt over CDPs, is het moeilijk om te weten waar te con
 ## Aanvullende informatie
 
 *[ Mensen en de Beste praktijken van het Proces voor het Beheer van Gegevens van de Klant ](people-and-process.md)
-*[ Bouw Uitstekende Ervaringen met uw Gegevens van de Eerste Partij ](https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/industry/build-superb-experiences-with-your-first-party-data.html)
+*[ Bouw Uitstekende Ervaringen met uw Gegevens van de Eerste Partij ](https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/industry/build-superb-experiences-with-your-first-party-data.html?lang=nl-NL)
 *[ Gevallenanalyse - TSB banken op gegevensverpersoonlijking in real time voor elke klant.](https://business.adobe.com/customer-success-stories/tsb-case-study.html)

@@ -51,11 +51,11 @@ Een voorbeeld van een gebruiksgeval die in deze zitting wordt besproken is verla
 
 ## Aanvullende bronnen
 
-* **[Overzicht van de Playbooks van het Geval van het Gebruik ](https://experienceleague.adobe.com/docs/experience-platform/use-case-playbooks/playbooks/overview.html){target="_blank"}**
+* **[Overzicht van de Playbooks van het Geval van het Gebruik ](https://experienceleague.adobe.com/docs/experience-platform/use-case-playbooks/playbooks/overview.html?lang=nl-NL){target="_blank"}**
   *Playbooks van het Geval van het Gebruik kan u helpen het probleem overwinnen wanneer het worden begonnen met Real-Time CDP of Adobe Journey Optimizer wanneer u niet precies zou kunnen weten wat met te beginnen of hoe te om de juiste activa tot stand te brengen om uw gewenste gebruiksgevallen te bereiken.*
 
-* **[Begonnen het worden met de Hoofdletters van het Gebruik ](https://experienceleague.adobe.com/docs/experience-platform/use-case-playbooks/playbooks/get-started.html){target="_blank"}**
+* **[Begonnen het worden met de Hoofdletters van het Gebruik ](https://experienceleague.adobe.com/docs/experience-platform/use-case-playbooks/playbooks/get-started.html?lang=nl-NL){target="_blank"}**
   *leer hoe te opstelling uw rekening voor de Playbooks van het Geval van het Gebruik, die voor Real-time Customer Data Platform en Adobe Journey Optimizer worden ontworpen.*
 
-* **[Beschikbare Playbooks van het Geval van het Gebruik ](https://experienceleague.adobe.com/docs/experience-platform/use-case-playbooks/playbooks/playbooks-list.html){target="_blank"}**
+* **[Beschikbare Playbooks van het Geval van het Gebruik ](https://experienceleague.adobe.com/docs/experience-platform/use-case-playbooks/playbooks/playbooks-list.html?lang=nl-NL){target="_blank"}**
   *leest deze pagina om een overzicht van alle beschikbare playbooks te krijgen die u in Real-time Customer Data Platform en Adobe Journey Optimizer kunt ontdekken en gebruiken.*

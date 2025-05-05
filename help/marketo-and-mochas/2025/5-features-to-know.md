@@ -30,23 +30,23 @@ Bekijk onze eerste Marketo &amp; Mochas-sessie van het jaar met onze Marketo Eng
    * [5 Kenmerken in 2025](../assets/marketo-&-mochas-5-features-handout.pdf)
 
 * **Beheer van de Rekening van het Doel**
-   * [Overzicht](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/target-account-management/setup/target-account-management-overview)
+   * [Overzicht](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/target-account-management/setup/target-account-management-overview)
    * [Veelgestelde vragen](https://nation.marketo.com/t5/knowledgebase/target-account-management-previously-abm-faq-product-facts-and/ta-p/301199)
    * [ Uiteinden &amp; Video van Trekken ](https://nation.marketo.com/t5/product-blogs/marketo-engage-abm-tips-amp-tricks-with-corey-bayless/ba-p/304664)
 
 * **Predictive Audiences**
-   * [Overzicht](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/predictive-audiences/getting-started-with-predictive-audiences)
+   * [Overzicht](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/core-marketo-concepts/predictive-audiences/getting-started-with-predictive-audiences)
    * [ Gevallen van het Gebruik ](https://nation.marketo.com/t5/product-blogs/using-predictive-audiences-in-marketo-engage/ba-p/301937)
 
 * **Geavanceerde Analyses van de Reis**
-   * [ Meldend Overzicht ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/reporting-overview#advanced-journey-analytics)
-   * [ het Overzicht van Modeler van de Levensstijl ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models)
+   * [ Meldend Overzicht ](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/reporting/reporting-overview#advanced-journey-analytics)
+   * [ het Overzicht van Modeler van de Levensstijl ](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models)
 
 * **Sandbox**
-   * [Overzicht](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox)
+   * [Overzicht](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox)
 
 * **Werkruimten en Verdelingen**
-   * [Overzicht](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions)
+   * [Overzicht](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions)
 
 ## Toetsen
 

@@ -31,5 +31,5 @@ De zitting zal ook de capaciteit van de het oppervlakconfiguratie van de Taak, d
 Varun Nagpal, Computer Scientist, Adobe
 
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/nl/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

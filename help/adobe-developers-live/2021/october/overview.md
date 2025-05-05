@@ -78,20 +78,20 @@ Verbind met collega devs en sluit zich aan bij de zittingsgesprekken in de Gemee
 
 ### AEM
 
-* [ Experience League - onderzoek AEM ](https://experienceleague.adobe.com/#recommended/solutions/experience-manager)
-* [ de Authoring Documentatie van AEM Sites ](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html)
-* [ AEM Sites het Ontwikkelen Documentatie ](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html)
-* [ AEM Sites die Documentatie beheren ](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html)
-* [ AEM Sites die Documentatie opstelt ](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html)
-* [ Tutorials van AEM as a Cloud Service ](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html)
-* [ Tutorials van AEM Assets ](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html)
-* [ Tutorials van AEM Forms ](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/overview.html)
-* [ AEM de Tutorials van de Stichting ](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html)
+* [ Experience League - onderzoek AEM ](https://experienceleague.adobe.com/nl#recommended/solutions/experience-manager)
+* [ de Authoring Documentatie van AEM Sites ](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html?lang=nl-NL)
+* [ AEM Sites het Ontwikkelen Documentatie ](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html?lang=nl-NL)
+* [ AEM Sites die Documentatie beheren ](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html?lang=nl-NL)
+* [ AEM Sites die Documentatie opstelt ](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=nl-NL)
+* [ Tutorials van AEM as a Cloud Service ](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html?lang=nl-NL)
+* [ Tutorials van AEM Assets ](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html?lang=nl-NL)
+* [ Tutorials van AEM Forms ](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/overview.html?lang=nl-NL)
+* [ AEM de Tutorials van de Stichting ](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html?lang=nl-NL)
 
 ### Adobe Experience Platform
 
-* [ Documentatie van Adobe Experience Platform ](https://experienceleague.adobe.com/docs/experience-platform.html)
-* [ het Overzicht van Adobe Experience Platform ](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html)
+* [ Documentatie van Adobe Experience Platform ](https://experienceleague.adobe.com/docs/experience-platform.html?lang=nl-NL)
+* [ het Overzicht van Adobe Experience Platform ](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=nl-NL)
 * [Tutorials voor Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=nl)
 
 ### App Builder

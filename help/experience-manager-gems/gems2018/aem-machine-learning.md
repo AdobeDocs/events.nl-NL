@@ -29,10 +29,10 @@ Jonas Dahl, Product Manager, Adobe
 
 ## Bronnen {#resources}
 
-[ Verbeterde Slimme Markeringen - AEM Assets ](https://helpx.adobe.com/experience-manager/6-4/assets/using/enhanced-smart-tags.html)
+[ Verbeterde Slimme Markeringen - AEM Assets ](https://helpx.adobe.com/nl/experience-manager/6-4/assets/using/enhanced-smart-tags.html)
 
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/nl/experience-manager/kt/eseminars/gems/aem-index.html)
 -->
 
 >[!MORELIKETHIS]

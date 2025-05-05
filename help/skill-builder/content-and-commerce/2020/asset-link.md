@@ -31,10 +31,10 @@ Asset Link is uw native verbinding met Adobe Creative Cloud.
 
 ## Bronnen
 
-* [ de video&#39;s van de Verbinding van Activa van Adobe ](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/adobe-asset-link/launch-adobe-asset-link.html)
-* [ Verbinding van Activa voor Adobe XD ](https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/adobe-asset-link-for-xd.ug.html)
-* [ vorm AEM Assets 6.5 en 6.4 voor de Verbinding van Activa van Adobe ](https://helpx.adobe.com/enterprise/using/configure-aem-assets-6-for-asset-link.html)
-* [ vorm AEM as a Cloud Service voor de Verbinding van Activa van Adobe ](https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/configure-aem-assets-for-asset-link.ug.html)
+* [ de video&#39;s van de Verbinding van Activa van Adobe ](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/adobe-asset-link/launch-adobe-asset-link.html?lang=nl-NL)
+* [ Verbinding van Activa voor Adobe XD ](https://helpx.adobe.com/nl/enterprise/admin-guide.html/enterprise/using/adobe-asset-link-for-xd.ug.html)
+* [ vorm AEM Assets 6.5 en 6.4 voor de Verbinding van Activa van Adobe ](https://helpx.adobe.com/nl/enterprise/using/configure-aem-assets-6-for-asset-link.html)
+* [ vorm AEM as a Cloud Service voor de Verbinding van Activa van Adobe ](https://helpx.adobe.com/nl/enterprise/admin-guide.html/enterprise/using/configure-aem-assets-for-asset-link.ug.html)
 
 ## Reeksopnamen
 

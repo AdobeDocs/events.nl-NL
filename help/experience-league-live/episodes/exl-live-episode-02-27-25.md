@@ -31,7 +31,7 @@ In deze sessie hebben we het volgende onderzocht:
 
 ## Aanvullende bronnen
 
-[ AI HulpOverzicht ](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/ai-assistant/overview)
+[ AI HulpOverzicht ](https://experienceleague.adobe.com/nl/docs/platform-learn/tutorials/ai-assistant/overview)
 
 [ AI Hulp het Werkblad van de Veiligheid ](https://www.adobe.com/content/dam/cc/en/trust-center/ungated/whitepapers/experience-cloud/adobe-ai-assistant-in-aep-security-fact-sheet.pdf)
 

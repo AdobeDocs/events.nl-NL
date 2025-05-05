@@ -30,9 +30,9 @@ Stefan Egli, Developer, Adobe
 
 ## Verwante koppelingen {#related-links}
 
-* [ AEM de Hulpmiddelen van de Ontwikkelaar voor Eclipse - documentatie ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developer-tools/eclipse.html)
+* [ AEM de Hulpmiddelen van de Ontwikkelaar voor Eclipse - documentatie ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developer-tools/eclipse.html?lang=nl-NL)
 * [ het Verdraaien van de Tooling van winde ](https://sling.apache.org/documentation/development/ide-tooling.html)
 * [ Forum voor besprekingen &amp; vragen ](https://help-forums.adobe.com/content/adobeforums/en/experience-manager-forum/adobe-experience-manager.html)
 * [ Uitgave die &amp; het volgen rapporteert ](https://github.com/Adobe-Marketing-Cloud/aem-eclipse-developer-tools/issues)
 * [ Hobbes.js: Het Testen van UI Kader ](https://docs.adobe.com/docs/en/aem/6-0/develop/components/hobbes.html)
-* [ krijg terug naar het Overzicht ](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+* [ krijg terug naar het Overzicht ](https://helpx.adobe.com/nl/experience-manager/kt/eseminars/gems/aem-index.html)

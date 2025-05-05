@@ -38,5 +38,5 @@ Leer over de vraagmotor van Oak en hoe het met Jackrabbit 2.x vergelijkt. De zit
 [ Documentatie van Oak ](https://jackrabbit.apache.org/oak/docs/)
 
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/nl/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

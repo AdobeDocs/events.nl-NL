@@ -30,7 +30,7 @@ Datum: 18-07-2018
 [Bestand ophalen](assets/aem-gems-solr-oakaem-071818.pdf)
 
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/nl/experience-manager/kt/eseminars/gems/aem-index.html)
 -->
 
 >[!MORELIKETHIS]

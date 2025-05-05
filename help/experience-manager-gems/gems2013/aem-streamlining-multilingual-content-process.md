@@ -25,5 +25,5 @@ Bent u op zoek naar best practices om het proces van het maken en lokaliseren va
 Keith Brazilië, VP of Technology, Translations.com
 
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/nl/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

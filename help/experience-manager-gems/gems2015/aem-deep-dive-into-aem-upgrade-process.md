@@ -33,5 +33,5 @@ Presenter-dia&#39;s - Rekawek
 
 [Bestand ophalen](assets/aemgems-upgrades-2015-trekaewk.pdf)
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/nl/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

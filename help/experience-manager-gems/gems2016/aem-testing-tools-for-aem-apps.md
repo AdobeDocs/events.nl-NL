@@ -26,5 +26,5 @@ Van het Testen van de Eenheid aan de Test van de Integratie van een Toepassing v
 
 [Bestand ophalen](assets/aem-gems-tools-for-testing-12-14-16.pdf)
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/nl/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

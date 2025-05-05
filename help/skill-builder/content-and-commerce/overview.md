@@ -19,11 +19,11 @@ Maak en beheer een reeks boeiende websites, mobiele apps en formulieren. Leer oo
 <table>
 <tr>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/headless.html">
+    <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/headless.html?lang=nl-NL">
       <img alt="Ervaring zonder grenzen bieden met Adobe Experience Manager" src="https://video.tv.adobe.com/v/343816?format=jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/headless.html">
+      <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/headless.html?lang=nl-NL">
         <strong> lever Zwaardeloze Ervaringen met Adobe Experience Manager </strong>
       </a>
     </div>
@@ -32,11 +32,11 @@ Maak en beheer een reeks boeiende websites, mobiele apps en formulieren. Leer oo
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/metadata.html">
+    <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/metadata.html?lang=nl-NL">
       <img alt="Metagegevens laten werken voor uw bedrijf in Adobe Experience Manager Assets" src="https://video.tv.adobe.com/v/343815?format=jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/metadata.html">
+      <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/metadata.html?lang=nl-NL">
         <strong> het werk van Metagegevens van het Merk voor uw zaken in Adobe Experience Manager Assets </strong>
       </a>
     </div>
@@ -45,11 +45,11 @@ Maak en beheer een reeks boeiende websites, mobiele apps en formulieren. Leer oo
     <p>
   </td>  
   <td>
-    <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/workflow.html">
+    <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/workflow.html?lang=nl-NL">
       <img alt="Haal alles uit het workflowbeheer voor bedrijven" src="https://video.tv.adobe.com/v/343817?format=jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/workflow.html">
+      <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/workflow.html?lang=nl-NL">
         <strong> krijgt het meeste uit het Beheer van het Werkschema van de Onderneming </strong>
       </a>
     </div>

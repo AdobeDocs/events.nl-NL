@@ -46,9 +46,9 @@ De nieuwe gebruikersinterface van het Web van de Campagne is belangrijk omdat he
 
 ## Aanvullende bronnen
 
-* **[Gebruikersinterface van het Web van de Campagne - Zeer belangrijke mogelijkheden ](https://experienceleague.adobe.com/docs/campaign-web/v8/whats-new.html){target="_blank"}**
+* **[Gebruikersinterface van het Web van de Campagne - Zeer belangrijke mogelijkheden ](https://experienceleague.adobe.com/docs/campaign-web/v8/whats-new.html?lang=nl-NL){target="_blank"}**
   *Gedetailleerde documentatie over wat momenteel beschikbaar in het gebruikersinterface van het Web van Adobe Campaign is.*
 
-* **[het Gebruikersinterface van het Web van Adobe Campaign - Tutorials ](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html?lang=en){target="_blank"}**
+* **[het Gebruikersinterface van het Web van Adobe Campaign - Tutorials ](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html?lang=nl-NL){target="_blank"}**
   *hoe te video&#39;s en leerprogramma&#39;s op de eigenschappen en de mogelijkheden van het Gebruikersinterface van het Web van Adobe Campaign.*
 

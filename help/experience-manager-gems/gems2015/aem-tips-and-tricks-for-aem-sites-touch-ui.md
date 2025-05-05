@@ -33,5 +33,5 @@ In dit GEM leert u hoe te:
 * Gilles Knobloch, Engineering Manager, Adobe
 
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/nl/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

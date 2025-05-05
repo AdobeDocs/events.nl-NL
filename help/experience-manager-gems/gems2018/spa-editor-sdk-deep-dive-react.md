@@ -36,12 +36,12 @@ Gepresenteerd door: Patrick Fauchere, Engineering Manager, Adobe
 
 ## Verwante koppelingen {#related-links}
 
-[ Weekend Leerprogramma ](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html)
+[ Weekend Leerprogramma ](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html?lang=nl-NL)
 
-[Documentatie](https://helpx.adobe.com/experience-manager/6-4/sites/developing/using/spa-overview.html)
+[Documentatie](https://helpx.adobe.com/nl/experience-manager/6-4/sites/developing/using/spa-overview.html)
 
 [ Steekproef - wij detailhandelsdagboek ](https://github.com/adobe/aem-sample-we-retail-journal)
 
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/nl/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

@@ -24,7 +24,7 @@ Leer alles over de Core Components en de bijbehorende functies, over hoe ze werk
 
 Gabriel Walt, productmanager, Adobe
 
-[ AEM de Documentatie van de Componenten van de Kern ](https://helpx.adobe.com/experience-manager/core-components/user-guide.html)
+[ AEM de Documentatie van de Componenten van de Kern ](https://helpx.adobe.com/nl/experience-manager/core-components/user-guide.html)
 
 AEM Gems - AEM Core Components - Datum: 12/05/2018
 

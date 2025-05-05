@@ -49,5 +49,5 @@ Datum: 17-10-2018
 [ CompendiumRelease 7 van OSGi ](https://osgi.org/specification/osgi.cmpn/7.0.0/index.html)
 
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/nl/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

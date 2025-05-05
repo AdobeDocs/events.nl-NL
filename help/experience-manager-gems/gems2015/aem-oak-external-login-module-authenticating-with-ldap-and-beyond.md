@@ -28,5 +28,5 @@ Zie de nieuwe externe aanmeldingsmodule van Apache Jackrabbit Oak. Leer de detai
 
 [Bestand ophalen](assets/oak-ldap-cqgems.pdf)
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/nl/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

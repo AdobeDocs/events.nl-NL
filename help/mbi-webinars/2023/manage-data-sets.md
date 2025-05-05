@@ -33,5 +33,5 @@ Tijdens dit geregistreerde webinar, leert u hoe te om het rendement op investeri
 
 ## Nuttige bronnen
 
-[ Rondleiding van de Manager van de Data Warehouse ](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/warehouse-manager/tour-dwm.html)
-[ verbind uw gegevens ](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/connecting/connecting-data.html)
+[ Rondleiding van de Manager van de Data Warehouse ](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/warehouse-manager/tour-dwm.html?lang=nl-NL)
+[ verbind uw gegevens ](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/connecting/connecting-data.html?lang=nl-NL)

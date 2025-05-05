@@ -25,7 +25,7 @@ In het snelle digitale marketinglandschap van vandaag is het van het grootste be
 * Inleiding tot marketingkanalen: leer hoe belangrijk het is verschillende marketingkanalen te identificeren en te categoriseren om te begrijpen wat de invloed ervan is op uw digitale aanwezigheid.
 * Adobe Analytics configureren: verhoog praktische kennis over het instellen van codes voor het bijhouden van campagnes, het vastleggen van relevante gegevens en het gebruik van Adobe Launch voor een efficiënte gegevensverzameling.
 
-  Om het campagne volgende codegeneratorhulpmiddel te downloaden dat in deze zitting wordt vermeld, bezoek [ het Beheersen van Adobe Analytics-Marketing Kanalen &amp; Attributie ](https://experienceleague.adobe.com/en/perspectives/mastering-adobe-analytics-marketing-channels-attribution) in het Perspectief van het Experience League.
+  Om het campagne volgende codegeneratorhulpmiddel te downloaden dat in deze zitting wordt vermeld, bezoek [ het Beheersen van Adobe Analytics-Marketing Kanalen &amp; Attributie ](https://experienceleague.adobe.com/nl/perspectives/mastering-adobe-analytics-marketing-channels-attribution) in het Perspectief van het Experience League.
 
 * Classificatie en Verwerkingsregels: Ontdek hoe te om de Bouwer van de Regel van de Classificatie te gebruiken en de Regels van de Verwerking van het Kanaal van de Marketing voor nauwkeurige verkeersbronclassificatie te vormen.
 * Attributiemodellen: Onderzoek verschillende toewijzingsmodellen beschikbaar in Adobe Analytics en hoe u deze kunt toepassen om de effectiviteit van uw marketingactiviteiten te meten en te optimaliseren.

@@ -29,5 +29,5 @@ Het Commerce integration framework (CIF) is een AEM toe:voegen-op die om het eve
 
 [Bestand ophalen](assets/150909-aem-gems-ibm-websphere-commerce-integration.pdf)
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/nl/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

@@ -32,4 +32,4 @@ John Fait
 
 * [Documentatie](https://docs.adobe.com/content/docs/en/cq/5-6-1/media-publisher.html)
 * [ DPS de Pagina van het Product ](https://www.adobe.com/ca/products/digital-publishing-suite-family.html)
-* [ Cloud Service DPS ](https://helpx.adobe.com/digital-publishing-suite/help/eol-statement-for-dpsc.html)
+* [ Cloud Service DPS ](https://helpx.adobe.com/nl/digital-publishing-suite/help/eol-statement-for-dpsc.html)

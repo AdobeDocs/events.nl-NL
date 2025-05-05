@@ -31,4 +31,4 @@ In deze sessie hebben we het volgende onderzocht:
 
 ## Aanvullende bronnen
 
-[ de video&#39;s van Real-Time CDP Collaboration ](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/collaboration/real-time-cdp-collaboration-overview)
+[ de video&#39;s van Real-Time CDP Collaboration ](https://experienceleague.adobe.com/nl/docs/platform-learn/tutorials/collaboration/real-time-cdp-collaboration-overview)

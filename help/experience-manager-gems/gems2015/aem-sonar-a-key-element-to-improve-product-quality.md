@@ -31,4 +31,4 @@ Tijdens deze zitting zal David het volgende bespreken:
 **de dia&#39;s van de Presentator**
 
 [ krijgt Dossier ](assets/cq-gems-on-aem-sonarqube-2015-02.pdf)
-[ krijg terug naar het Overzicht ](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[ krijg terug naar het Overzicht ](https://helpx.adobe.com/nl/experience-manager/kt/eseminars/gems/aem-index.html)

@@ -36,5 +36,5 @@ Methodologie om sonarqube analyse aan projecten te integreren Javascript en zo t
 
 [Bestand ophalen](assets/com-adobe-granite-ui-utils-timing-with-licenses.zip)
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/nl/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

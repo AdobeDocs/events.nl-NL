@@ -33,5 +33,5 @@ Om uw AEM te maximaliseren, is het belangrijk dat u de AEM Dispatcher-cache verf
 
 [Bestand ophalen](assets/aemgems-dispatcher-caching-part2-jan-28-2015.pdf)
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/nl/experience-manager/kt/eseminars/gems/aem-index.html)
 -->
