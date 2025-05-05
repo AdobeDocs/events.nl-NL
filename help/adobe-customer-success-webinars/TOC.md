@@ -2,9 +2,9 @@
 user-guide-title: Adobe Customer Success Webinars
 breadcrumb-title: Adobe Customer Success Webinars
 user-guide-description: Adobe Customer Success geleide webinars die zijn ontworpen om u te helpen uw investering in Adobe Experience Cloud te optimaliseren. Vergroot waardevolle inzichten om de waarde te maximaliseren en de acceptatie van Adobe-oplossingen te vergroten.
-source-git-commit: e7bf8b79ad4920b303fc3afbdfb4adee60614c88
+source-git-commit: b0f07b52c50ea008e8d0569ef7c8687a9e806f72
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '328'
 ht-degree: 0%
 
 ---
@@ -28,6 +28,7 @@ ht-degree: 0%
    + [GenStudio for Performance Marketing-besturingssysteem](2025/genstudio-for-performance-marketing-operating-model.md)
    + [Sequentiële logica](2025/mastering-sequential-logic.md)
    + [AEM-prestaties optimaliseren](2025/optimize-aem-performance.md)
+   + [Smarter Marketing begint hier - Google en Adobe integreren](2025/smarter-marketing-starts-here-integrating-google-and-adobe.md)
 + 2024 {#2024}
    + [Adobe Journey Optimizer Essentials](2024/ajo-essentials.md)
    + [Adobe Target, door AI gedreven Personalization](2024/ai-personalization.md)
@@ -36,7 +37,7 @@ ht-degree: 0%
    + [Belangrijke concepten van AEM Authoring](2024/aem-authoring-concepts.md)
    + [AEM Sites-efficiëntie](2024/aem-sites-efficiencies.md)
    + [Integratie van AEP App Services voor gebruik door klanten](2024/aep-apps-services-integrations.md)
-   + [Hoofdlettergebruik in AEP](2024/aep-use-case-planning.md)
+   + [AEP Use Case Planning](2024/aep-use-case-planning.md)
    + [Copywriting met AI-machtiging](2024/ai-copywriting.md)
    + [Basis tot Midden de Mogelijkheden van de Analyse](2024/basic-to-intermediate-analysis-capabilities.md)
    + [Prioriteit gegevensstroom](2024/data-stream-prioritization.md)
