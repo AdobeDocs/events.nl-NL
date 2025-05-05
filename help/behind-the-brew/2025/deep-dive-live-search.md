@@ -35,7 +35,7 @@ De algemene focus van de sessie was Adobe Commerce Live Search, inclusief onderd
 * **Technische Diep Duik**
 
    * **Eindpunten van GraphQL** Verschillen tussen levende onderzoek en catalogusdienst eindpunten.
-   * **Opstelling en configuratiedetails van de Schakelaar van de Dienst van 0} Commerce.**
+   * **Opstelling en configuratiedetails van de Schakelaar van de Dienst van 0&rbrace; Commerce.**
    * **Instructies van de Aanpassing** op om PLP en popover widgets aan te passen en uit te breiden gebruikend open-bron bewaarplaatsen.
 
 * **aanstaande Eigenschappen**

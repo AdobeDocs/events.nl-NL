@@ -34,7 +34,7 @@ Ga verder het gesprek in de Gemeenschap van Adobe Developers Live [ bespreking ]
 * **Intent-Gebaseerde Ervaringen** AEM richt zich om klantenintentie met gepersonaliseerde ervaringen snel en efficiënt aan te passen, die voor toekomstige klantenovereenkomst essentieel is.
 * **Slimme Ontdekking, Authoring, en het Herstellen** AEM Sites biedt hulpmiddelen aan om, auteur, en hergebruik merk-goedgekeurde activa te ontdekken, die, die inhoudsverwezenlijking efficiënter maken.
 * **Versnelde Activering** het platform laat snelle activering van inhoud bij schaal toe, gebruikend ingebouwde experimentatie om variaties snel te optimaliseren en te testen.
-* **AEM Sites van 0} Zelf-Lerend en van de Optimalisatie {omvat zelf-leert mogelijkheden om inhoud onophoudelijk te verbeteren en te optimaliseren die op prestaties wordt gebaseerd.**
+* **AEM Sites van 0&rbrace; Zelf-Lerend en van de Optimalisatie &lbrace;omvat zelf-leert mogelijkheden om inhoud onophoudelijk te verbeteren en te optimaliseren die op prestaties wordt gebaseerd.**
 * **Efficiëntie in de Variatie van de Inhoud** het platform kan talrijke inhoudvariaties snel produceren, beduidend die de tijd verminderen voor inhoudsverwezenlijking en het testen wordt vereist. &#x200B;
 * **privacy-Eerste Benadering** AEM Sites zorgt ervoor dat al het testen met verkeer vóór goedkeuring wordt gedaan, die privacynaleving verbeteren.
 * **het Vroege Programma van de Toegang** is er een vroege toegangsprogramma voor zelf-het leren experimenteren, toestaand gebruikers om veelvoudige variaties dynamisch te testen en op prestaties gebaseerd aan te passen.

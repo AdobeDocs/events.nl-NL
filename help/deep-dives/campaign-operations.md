@@ -33,11 +33,11 @@ In deze diepe duik zullen we u laten zien hoe u aan de slag kunt met de Marketo 
 ## Key Takeaways
 
 * **Nadruk** de zitting concentreerde zich op het automatiseren en het stroomlijnen van campagneverrichtingen gebruikend Marketo API.
-* **API Belangrijk** APIs is essentieel voor het automatiseren van herhaalde taken, toestaand systemen om te communiceren, en tijd en geld.API Grondbeginselen** Uitleg van wat een **API is, met inbegrip van het verschil tussen krijgen en Post verzoeken, en hoe zij functioneren.
+* **API Belangrijk** APIs is essentieel voor het automatiseren van herhaalde taken, toestaand systemen om te communiceren, en tijd en geld.API Grondbeginselen **&#x200B; Uitleg van wat een &#x200B;** API is, met inbegrip van het verschil tussen krijgen en Post verzoeken, en hoe zij functioneren.
 
 ### Gebruiksscenario’s
 
-* **Gebruikend een manuscript van Python van het Programma van het 0} Bulk om programma&#39;s te klonen, tokens bij te werken, en slimme campagnes te activeren. &#x200B;**
+* **Gebruikend een manuscript van Python van het Programma van het 0&rbrace; Bulk om programma&#39;s te klonen, tokens bij te werken, en slimme campagnes te activeren. &#x200B;**
 * **Aanmaak van het Programma op bestelling** Gebruikend Zapier om de verwezenlijking van Marketo programma&#39;s te automatiseren die op vormvoorlegging worden gebaseerd, met inbegrip van het produceren van parameters UTM en het creëren van **JIRA kaartjes voor het volgen.
-* **Tips van het Beheer van 0} API {bij het beheren van API gebruik, met inbegrip van het creëren van de afzonderlijke diensten van het lanceringspunt voor verschillende integratie en het controleren van API vraaggebruik.Hulpmiddelen en *** Middelen **Recommendations voor het gebruiken van hulpmiddelen zoals Postman voor het testen API verzoeken en ChatGPT voor het produceren van code Python.**
+* **Tips van het Beheer van 0&rbrace; API &lbrace;bij het beheren van API gebruik, met inbegrip van het creëren van de afzonderlijke diensten van het lanceringspunt voor verschillende integratie en het controleren van API vraaggebruik.Hulpmiddelen en &#x200B;*** Middelen **Recommendations voor het gebruiken van hulpmiddelen zoals Postman voor het testen API verzoeken en ChatGPT voor het produceren van code Python.**
 * **de Extra Gevallen van het Gebruik** Vermelding van andere potentiële gebruiksgevallen voor Marketo API, zoals het terugkeren van gegevensveranderingen, deduplicatie, en het verbinden van Marketo met AI.

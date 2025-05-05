@@ -36,8 +36,8 @@ Ga verder het gesprek in de Gemeenschap van Adobe Developers Live [ bespreking ]
 * **Proces van de Plaatsing** het nieuwe milieu staat voor snelle updates en bevestigingen via een nieuwe API en stop CLI toe, toelatend sneller terugkoppelt en plaatsing.
 * **de Verschillen van de Infrastructuur** het wolkenmilieu gebruikt één enkele auteur en publiceert instantie zonder hoge beschikbaarheid en gebruikt geen MongoDB.
 * **de Ontwikkelaars van de Opstelling en van het Gebruik** kunnen opstelling een snelle ontwikkelomgeving door de wolkeninterface, gebruikend npm en Adobe IO CLI voor installatie en configuratie.
-* **Belangrijke bevelen van 0} BasisBevelen {omvatten o.m. - hulp, io login, io status, io installeren, io geschiedenis, io schrapping, en io terugstellen.**
+* **Belangrijke bevelen van 0&rbrace; BasisBevelen &lbrace;omvatten o.m. - hulp, io login, io status, io installeren, io geschiedenis, io schrapping, en io terugstellen.**
 * **Logging en het Zuiveren** het nieuwe milieu steunt levende logboeken en veranderende logboekniveaus zonder herplaatsing, gebruikend bevelen zoals io am of d logboeken.
 * **Geavanceerde Onderwerpen** Steun voor front-end pakketten en configuratiepijpleidingen, die voor snelle plaatsing en herhaling toestaan.
-* **Abonnementen van de Eigenschappen van 0} {om momentopnamefunctionaliteit voor gemakkelijkere milieu terug te stellen en automatische updates zonder inhoudsverlies te introduceren.**
+* **Abonnementen van de Eigenschappen van 0&rbrace; &lbrace;om momentopnamefunctionaliteit voor gemakkelijkere milieu terug te stellen en automatische updates zonder inhoudsverlies te introduceren.**
 * **Q&amp;A en Terugkoppeling** De zitting moedigt deelnemers aan om zich bij het kanaal van het Overzicht voor levende interactie aan te sluiten en met het ontwikkelingsteam terug te koppelen.

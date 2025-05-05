@@ -45,6 +45,6 @@ Ga verder het gesprek in de Gemeenschap van Adobe Developers Live [ bespreking ]
    * Segregeer inhoud die is bedoeld voor dynamische media-aflevering, van andere inhoud.
    * Gebruik selectieve synchronisatie om verwerkingstijden te optimaliseren en de tijd om op de markt te brengen te verbeteren.
 * **de Kijker stelt** vooraf in past de verschijning en het gedrag van de kijker aan gebruikend kijker vooraf instelt zonder codeveranderingen. Voorbeelden zijn het bewerken van afspeel- en pauzeknoppen, het inschakelen van automatisch afspelen en herhalen en het toevoegen van afbeeldingsoverlays.
-* **het geheime voorgeheugen van de Invalidatie van het Geheime voorgeheugen van 0} het geheime voorgeheugen van het Geheime voorgeheugen {om op veranderingen onmiddellijk te wijzen die aan reeds gepubliceerde activa worden aangebracht, die het gebrek 10 uur TTL omzeilen.**
+* **het geheime voorgeheugen van de Invalidatie van het Geheime voorgeheugen van 0&rbrace; het geheime voorgeheugen van het Geheime voorgeheugen &lbrace;om op veranderingen onmiddellijk te wijzen die aan reeds gepubliceerde activa worden aangebracht, die het gebrek 10 uur TTL omzeilen.**
 * **Controle en het Zuiveren** Hulpmiddelen van het Gebruik zoals de Desktop app van de AEM en debugger van de Vraag pagina om verwerkingsbanen te volgen en onverwerkte activa te identificeren.
 * **het Slimme Beelden** Slimme beeldvorming wordt toegelaten door gebrek op alle domeinen, die beelddossiergrootte verminderen en ladingstijden verbeteren.

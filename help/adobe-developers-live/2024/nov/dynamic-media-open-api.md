@@ -48,7 +48,7 @@ Ga verder het gesprek in de Gemeenschap van Adobe Developers Live [ bespreking ]
    * Nieuwe geavanceerde wijzigingstoetsen geïntroduceerd (voorinstellingen, laagmasker, DPR onscherp masker, slimme beeldverwerking).
    * Ondersteuning voor AV- en TIFF-uitvoerindelingen.
 
-* **Browser van 0} Slimme Beeldvorming de formaatomzetting van het Beeld, optimalisering van de netwerkbandbreedte, en de verhouding van het apparatenpixel (DPR).**
+* **Browser van 0&rbrace; Slimme Beeldvorming de formaatomzetting van het Beeld, optimalisering van de netwerkbandbreedte, en de verhouding van het apparatenpixel (DPR).**
 
 * **de Kiezer van Activa**
    * Gebruikersinterface voor het integreren van Adobe Experience Manager-elementen.

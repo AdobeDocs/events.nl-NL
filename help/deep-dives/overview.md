@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Gebeurtenissen diep duiken
 
-Welkom bij de opnamen van dieptes op aanvraag. Gebruikend deze middelen die met de documentatie van Adobe Marketo [ ](https://experienceleague.adobe.com/docs/marketo-engage.html) en [ leerprogramma&#39;s ](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html) worden gecombineerd, zult u een beter inzicht krijgen hoe te om Adobe Marketo te gebruiken om uw zaken te steunen.
+Welkom bij de opnamen van dieptes op aanvraag. Gebruikend deze middelen die met de documentatie van Adobe Marketo [&#128279;](https://experienceleague.adobe.com/docs/marketo-engage.html) en [ leerprogramma&#39;s ](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html) worden gecombineerd, zult u een beter inzicht krijgen hoe te om Adobe Marketo te gebruiken om uw zaken te steunen.
 
 <!-- CARDS
 

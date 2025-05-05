@@ -47,7 +47,7 @@ Erkenning van de uitdagingen bij het schalen van inhoud het produceren, zoals de
 
 Overzicht van verschillende ontwerpgereedschappen in AEM,
 
-* **Traditionele redacteur van de Redacteur van de Pagina 0} {voor het creëren van en het uitgeven van Web-pagina&#39;s. &#x200B;**
+* **Traditionele redacteur van de Redacteur van de Pagina 0&rbrace; &lbrace;voor het creëren van en het uitgeven van Web-pagina&#39;s. &#x200B;**
 * **de Redacteur van het Fragment van de Inhoud** voor het creëren van inhoud zonder kop die over verschillende kanalen kan worden opnieuw gebruikt. &#x200B;
 * **Universele Redacteur** een moderne UI voor inhoudsverwezenlijking die zowel de inhoud van AEM als behoorlijk van instrumenten voorzien externe inhoud steunt. &#x200B;
 * **op document-Gebaseerde Authoring** staat inhoudsverwezenlijking toe gebruikend vertrouwde hulpmiddelen zoals Microsoft Word of Google Docs, die met de werkschema&#39;s van AEM worden geïntegreerd. &#x200B;

@@ -34,7 +34,7 @@ Ga verder het gesprek in de Gemeenschap van Adobe Developers Live [ bespreking ]
 * **Dedicated Team** Een specifiek team, met inbegrip van de AMS API Taakmacht, werkt aan deze APIs.
 * **de Middelen van de Ontwikkelaar** Developer.adobe.com is het belangrijkste middel voor de toegang tot van API documentatie en vestiging APIs. Het bevat gereedschappen zoals voorbeeldcode, afspeelruimten en responscodes.
 * **het Fragment APIs van de Inhoud** Nieuwe open APIs voor de verwezenlijking van het inhoudsfragment, beheer, en updates zijn beschikbaar, met gedetailleerde documentatie en interactieve eigenschappen voor het testen.
-* **Nieuwe APIs van de Integratie van de Gebeurtenis 0} {steunen gebeurtenisintegratie, die voor geautomatiseerde processen toestaat die op inhoud en procesgebeurtenissen worden gebaseerd.**
+* **Nieuwe APIs van de Integratie van de Gebeurtenis 0&rbrace; &lbrace;steunen gebeurtenisintegratie, die voor geautomatiseerde processen toestaat die op inhoud en procesgebeurtenissen worden gebaseerd.**
 * **Vroege Kansen van de Aannemer** Er zijn kansen voor vroege adopters om met nieuwe APIs, zoals het vertaalbeheer API en JSON inhoudslevering API in dienst te nemen.
 * **de Toekomstige Ontwikkelingen** aanstaande APIs omvatten volledig open API voor multi-plaats manager en verhogingen aan bestaande APIs om meer geautomatiseerde en geïntegreerde werkschema&#39;s te steunen.
 * **Aanmoediging om Nieuwe APIs te gebruiken** De Gebruikers worden aangemoedigd om op deze nieuwe APIs over te schakelen aangezien zij de toekomstige richting van de ontwikkeling van AMS API vertegenwoordigen.

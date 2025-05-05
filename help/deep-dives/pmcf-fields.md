@@ -26,7 +26,7 @@ In de video &quot;Adobe Marketo Engage Champion Deep Dive&quot; bespreken de pre
 
 ## Toetsen
 
-{de Velden van de Douane van het Lid van 0} Programma (PMCs) ****
+{de Velden van de Douane van het Lid van 0} Programma (PMCs) **&#x200B;**
 
 * Unieke gegevensvelden die specifiek zijn voor een programma.
 * Contextgegevens op programmaniveau toestaan.

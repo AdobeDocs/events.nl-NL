@@ -58,7 +58,7 @@ Heb je een vraag, misschien een opmerking?  Sluit me aan bij de bespreking in de
 
 * **Uitgebreide Documentatie** Uitgebreide documentatie en playground zijn beschikbaar op het portaal van de ontwikkelaar van Adobe om gebruikers te helpen nieuwe APIs onderzoeken en uitvoeren.
 
-* {de Verbeteringen van Prestaties 1} Vroege adopters hebben significante prestatiesverbeteringen gemeld, met sommige eindpunten die tot 100x snellere reactietijden tonen.****
+* {de Verbeteringen van Prestaties 1} Vroege adopters hebben significante prestatiesverbeteringen gemeld, met sommige eindpunten die tot 100x snellere reactietijden tonen.**&#x200B;**
 
 * **Toekomstig-proef** nieuwe APIs wordt ontworpen aan toekomstbestendig inhoudsbeheer en leveringssystemen, die scalability en efficiency verzekeren.
 

@@ -35,4 +35,4 @@ Verkrijg een stichting begrip van THEN en verwante opeenvolgende logische exploi
 * **Opeenvolgende logica van Bedrijfs Toepassingen** kan helpen diverse bedrijfsvragen, zoals klantengedrag na specifieke gebeurtenissen beantwoorden, die groepen vergelijken die op opeenvolgingen van acties worden gebaseerd, en klantenreizen analyseren.
 * **Geavanceerde Onderwerpen** De toekomstige zittingen kunnen geavanceerdere onderwerpen zoals het gebruiken in opeenvolgingen uitsluiten, niet-herhalingsinstanties, en extra uiteinden en voorbeelden behandelen.
 * **de Aanwezigen van het Verzoek van de Terugkoppeling* werden gevraagd om een onderzoek uit te vullen om terugkoppelen op de zitting te verstrekken en rente in toekomstige onderwerpen te uiten.
-* **De Verbindingen van Middelen van 0} {aan middelen voor zowel analytische als kanten CJA van opeenvolgende segmenten of filters werden verstrekt voor verder onderzoek.**
+* **De Verbindingen van Middelen van 0&rbrace; &lbrace;aan middelen voor zowel analytische als kanten CJA van opeenvolgende segmenten of filters werden verstrekt voor verder onderzoek.**

@@ -31,11 +31,11 @@ Ga verder het gesprek in de Gemeenschap van Adobe Developers Live [ bespreking ]
 ## Toetsen
 
 * **Integratie van de Diensten van de Levering van Advertentie met Adobe Commerce** Het doel is om uitzonderlijke e-commerce winkeluitkeringservaringen tot stand te brengen door de diensten van de levering met Adobe Commerce te integreren.
-* **de leverings diensten van Edge van de Ervaring van het Gevolgen van het 0} Hoogtepunt maken de het winkelen ervaring snel en snappy, verbeterend SEO rangschikkingen en verminderend het risico van het verliezen van klanten toe te schrijven aan langzame paginaladingen.**
+* **de leverings diensten van Edge van de Ervaring van het Gevolgen van het 0&rbrace; Hoogtepunt maken de het winkelen ervaring snel en snappy, verbeterend SEO rangschikkingen en verminderend het risico van het verliezen van klanten toe te schrijven aan langzame paginaladingen.**
 * **Adobe Commerce drop-ins** Deze zijn modulaire, pre-gebouwde, rendabele, klantgerichte, en verlengbare componenten die de winkelwandelervaring, zoals de pagina&#39;s van productdetails, kar, en controle bepalen.
 * **de Stapel van de Technologie** de integratie impliceert het gebruiken van eenvoudige CSS, JavaScript, en APIs. Adobe Commerce biedt een supersnelle API via de Federation Gateway.
-* **De Gebruikers van het Beheer van de Inhoud 1} kunnen inhoud tot stand brengen en beheren gebruikend diverse auteurshulpmiddelen, met inbegrip van het auteursrecht van APM, SharePoint, de Aandrijving van Google, en Microsoft Word.**
-* **de Adobe van de Uitrusting van de Aanzet van de Integratie van 0} verstrekt een aanzetuitrusting om het integratieproces met vooraf bepaalde gegevensstromen voor gemeenschappelijke voorwerpen zoals producten, klanten, voorraad, orden, en verzendingen te vereenvoudigen en te versnellen.**
-* **de Adobe van de Ervaring van 0} Ontwikkelaar streeft ernaar om de ontwikkelaarservaring over Adobe Commerce en Adobe Experience Manager (AEM) te verenigen gebruikend de zelfde technologiestapel en de vaardigheden.**
-* **Adobe van Middelen 0} {biedt diverse het leren materialen, codesteekproeven, en leerprogramma&#39;s aan om ontwikkelaars te helpen en uitzonderlijke het winkelen ervaringen efficiënt te handhaven.**
+* **De Gebruikers van het Beheer van de Inhoud 1&rbrace; kunnen inhoud tot stand brengen en beheren gebruikend diverse auteurshulpmiddelen, met inbegrip van het auteursrecht van APM, SharePoint, de Aandrijving van Google, en Microsoft Word.**
+* **de Adobe van de Uitrusting van de Aanzet van de Integratie van 0&rbrace; verstrekt een aanzetuitrusting om het integratieproces met vooraf bepaalde gegevensstromen voor gemeenschappelijke voorwerpen zoals producten, klanten, voorraad, orden, en verzendingen te vereenvoudigen en te versnellen.**
+* **de Adobe van de Ervaring van 0&rbrace; Ontwikkelaar streeft ernaar om de ontwikkelaarservaring over Adobe Commerce en Adobe Experience Manager (AEM) te verenigen gebruikend de zelfde technologiestapel en de vaardigheden.**
+* **Adobe van Middelen 0&rbrace; &lbrace;biedt diverse het leren materialen, codesteekproeven, en leerprogramma&#39;s aan om ontwikkelaars te helpen en uitzonderlijke het winkelen ervaringen efficiënt te handhaven.**
 

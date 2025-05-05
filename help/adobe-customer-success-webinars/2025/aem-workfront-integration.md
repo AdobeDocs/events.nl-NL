@@ -35,7 +35,7 @@ Dit webinar kenmerkt een gedetailleerde analyse van de integratie AEM-Workfront 
 
 * **Eigen Verbindingsvoordelen** De inheemse schakelaar voor Workfront en Adobe Experience Manager (AEM) biedt gemak van opstelling, geen extra vergunningskosten, automatische omslagverwezenlijking, meta-gegevenssynchronisatie, en de capaciteit om veelvoudige instanties van Workfront aan veelvoudige bewaarplaatsen van AEM te verbinden.
 
-* **de Toewijzing en Synchronisatie van Meta-gegevens van Meta-gegevens 1} De inheemse schakelaar steunt unidirectionele meta-gegevensstroom van Workfront aan AEM.** Gebruikers kunnen Workfront-velden toewijzen aan AEM-velden en wijzigingen in metagegevens in Workfront worden weerspiegeld in AEM.
+* **de Toewijzing en Synchronisatie van Meta-gegevens van Meta-gegevens 1&rbrace; De inheemse schakelaar steunt unidirectionele meta-gegevensstroom van Workfront aan AEM.** Gebruikers kunnen Workfront-velden toewijzen aan AEM-velden en wijzigingen in metagegevens in Workfront worden weerspiegeld in AEM.
 
 * **Gekoppelde Omslagen en Gidsen** De zitting benadrukte het belang van verbonden omslagen, de eerste vereisten voor vestiging hen, en de gidsen, zoals de 100 omslaggrens per integratie en beperkingen op speciale karakters in omslagnamen.
 

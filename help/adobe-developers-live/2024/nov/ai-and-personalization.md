@@ -35,8 +35,8 @@ Ga verder het gesprek in de Gemeenschap van Adobe Developers Live [ bespreking ]
 
 ### Tweestapsbenadering
 
-* **verzamelen van de Inzameling van 0} Gegevens gebruikersgegevens door verfijnde analyses of browser gegevenspunten.**
-* **Gebruik AI-Toegelaten achtergronden van de Interpretatie van Gegevens 0} om gepersonaliseerde inhoud te verwerken en voor te stellen.**
+* **verzamelen van de Inzameling van 0&rbrace; Gegevens gebruikersgegevens door verfijnde analyses of browser gegevenspunten.**
+* **Gebruik AI-Toegelaten achtergronden van de Interpretatie van Gegevens 0&rbrace; om gepersonaliseerde inhoud te verwerken en voor te stellen.**
 
 ### Demo Insights
 

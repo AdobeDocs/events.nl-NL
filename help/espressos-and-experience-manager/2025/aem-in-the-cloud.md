@@ -23,7 +23,7 @@ In deze sessie duiken de eigen bedrijfsadviseur van Adobe, Casey Witter en Techn
 
 ## Toetsen
 
-* **de dienstklanten van de Verbetering van Prestaties van 0} Cloud ervaren een 400% verbetering in de tijd van de paginading toe te schrijven aan betere architectuur, activa verwerking, en globale gegevenscentra.**
+* **de dienstklanten van de Verbetering van Prestaties van 0&rbrace; Cloud ervaren een 400% verbetering in de tijd van de paginading toe te schrijven aan betere architectuur, activa verwerking, en globale gegevenscentra.**
 
 * **toegang tot de Latest dienst van de Wolk van Innovaties** verleent toegang tot de recentste inhoudinnovaties, met inbegrip van snelle plaatsverwezenlijking, Adobe Jet en Studio, verbeterde veiligheid, en naleving van HIPAA.
 

@@ -40,5 +40,5 @@ Ontdek de kracht en het gemak van de nieuwe e-mailontwerper van Marketo Engage. 
 
 * **Soorten publiek van het Doel**
 
-   * **Beroeps van de Gebruikers van Marketo Engage van 0} {reeds gebruikend Marketo Engage die hun marketing mogelijkheden willen uitbreiden.**
+   * **Beroeps van de Gebruikers van Marketo Engage van 0&rbrace; &lbrace;reeds gebruikend Marketo Engage die hun marketing mogelijkheden willen uitbreiden.**
    * **de Teams van de Marketing van Teams** die hun e-mailblik willen verbeteren en voelen.

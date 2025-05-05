@@ -31,13 +31,13 @@ Ga verder het gesprek in de Gemeenschap van Adobe Developers Live [ bespreking ]
 
 * **Het belang van de Ontwikkelaars** Ontwikkelaars is essentieel voor Adobe en zijn Experience Manager en zaken van Adobe Commerce. &#x200B;
 * **Hybride Formaat** de gebeurtenis is speciaal omdat het zowel persoonlijk als online formaten combineert om grotere verbinding te bevorderen.
-* **Adobe Experience Manager van de Verwezenlijking van 0} Mijlpaal {is een hoeksteen van de de ervaringszaken van de Adobe digitaal geworden. &#x200B;**
+* **Adobe Experience Manager van de Verwezenlijking van 0&rbrace; Mijlpaal &lbrace;is een hoeksteen van de de ervaringszaken van de Adobe digitaal geworden. &#x200B;**
 * **Historische Context** De kerntechnologie van Adobe Experience Manager begon in een worstfabriek in 1993 en werd verworven door Adobe in 2010.
 * **Gemeenschap en Innovatie** De ontwikkelaarsgemeenschap wordt erkend voor zijn leiderschap en bereidheid om te verstoren en te innoveren, vooral met nieuwe technologieën zoals Gen AI.
 * **Nadruk van Prestaties en van de Snelheid** bij het creëren van de snelste websites en web-based ervaringen, met een doel om plaatsen zo snel zoals inheemse mobiele apps te leveren.
-* **Adobe van de Betrokkenheid van de Gemeenschap 0} {heeft een domein voor de gemeenschap gelanceerd om de nieuwe diensten uit te proberen en feedback te verstrekken.**
-* **Adobe van het Beheer van de Inhoud 0} {richt zich op het scheiden van inhoudslevering van inhoudsbeheer, die voor meer flexibiliteit en efficiency toestaat.**
-* **Adobe van de Ontwikkelingen van 0} de Toekomstige {investeert in nieuwe technologieën en hulpmiddelen om Webprestaties, gebruikerservaring, en ontwikkelaarsproductiviteit te verbeteren.**
+* **Adobe van de Betrokkenheid van de Gemeenschap 0&rbrace; &lbrace;heeft een domein voor de gemeenschap gelanceerd om de nieuwe diensten uit te proberen en feedback te verstrekken.**
+* **Adobe van het Beheer van de Inhoud 0&rbrace; &lbrace;richt zich op het scheiden van inhoudslevering van inhoudsbeheer, die voor meer flexibiliteit en efficiency toestaat.**
+* **Adobe van de Ontwikkelingen van 0&rbrace; de Toekomstige &lbrace;investeert in nieuwe technologieën en hulpmiddelen om Webprestaties, gebruikerservaring, en ontwikkelaarsproductiviteit te verbeteren.**
 * **Generatieve UI en Personalization** De Toekomstige Webervaringen zullen generatieve samenstelling UI en gepersonaliseerde inhoudslevering impliceren die op gegevens in real time en gebruikersinteractie wordt gebaseerd. &#x200B;
 * **Onderzoek en het Indexeren** Adobe voert geavanceerde onderzoeksfuncties, met inbegrip van vectorindexering uit, om inhoudsherwinning en gebruikerservaring te verbeteren.
 * **Collaboration en de Adobe van de Terugkoppeling** moedigt communautaire samenwerking en koppelt om hun producten en de diensten verder te innoveren en te verbeteren terug.

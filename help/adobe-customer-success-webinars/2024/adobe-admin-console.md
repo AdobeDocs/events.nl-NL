@@ -25,7 +25,7 @@ Dit webinar zal een uitvoerig overzicht van het navigeren van de Adobe Admin Con
 
 * **het Overzicht van Adobe Admin Console** Admin Console is een gecentraliseerd platform voor het beheren van de Oplossingen van de Onderneming van Adobe, die met Creative Cloud, Document Cloud, en Experience Cloud integreren.
 
-* **Admins van het Beheer van de Gebruiker 0} {kunnen gebruikers toevoegen/verwijderen, producten toewijzen, en gebruikersgroepen beheren.** Het biedt ook ondersteuning voor SSL-functies voor beveiligde aanmelding.
+* **Admins van het Beheer van de Gebruiker 0&rbrace; &lbrace;kunnen gebruikers toevoegen/verwijderen, producten toewijzen, en gebruikersgroepen beheren.** Het biedt ook ondersteuning voor SSL-functies voor beveiligde aanmelding.
 
 * **Admins van het Beheer van het Product en van de Vergunning** kunnen vergunningen toewijzen en eigenschappen en de diensten voor gebruikers aanpassen.
 

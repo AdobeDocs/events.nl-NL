@@ -18,7 +18,7 @@ Wilt u geen connectors voor AEM maken? Kom te leren hoe u om het even welke inte
 
 >[!VIDEO](https://video.tv.adobe.com/v/22501/?quality=9)
 
-*Van 0} geleverde Mei 16, 2018*
+*Van 0&rbrace; geleverde Mei 16, 2018*
 
 **Voorgesteld door:**
 

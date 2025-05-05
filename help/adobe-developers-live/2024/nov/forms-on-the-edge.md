@@ -37,6 +37,6 @@ Ga verder het gesprek in de Gemeenschap van Adobe Developers Live [ bespreking ]
 * {de Componenten en de Functies van de Douane van 0} **Ontwikkelaars kunnen douanecomponenten en functies aan vormen toevoegen gebruikend front-end coderen, die de functionaliteit en gebruikerservaring van de vorm verbeteren. &#x200B;**
 * **de Experimentatie en Optimalisering** Forms kan voor omzetting door experimenteren met verschillende lay-outs en gebiedstypes worden geoptimaliseerd, die plugins gebruiken om het proces te automatiseren om de het winnen variant te kiezen.
 * **AI Hulp** de toekomst van vormen omvat AI hulp voor het creëren van en het aanpassen van vormen die op herinneringen worden gebaseerd, die het proces efficiënter maken. &#x200B;
-* **Forms van de Vulling van de Vorm van 0} de Gesprek {kan als gesprekken door praatbots worden gevuld, makend de gebruikerservaring boeiender en intuïtiever maken. &#x200B;**
-* **de hulpmiddelen en de benaderingen van de 10} Ontwikkelaar en van BedrijfsSnelheid {richten zich op verhoging van zowel ontwikkelaar als bedrijfssnelheid, toelatend snellere en efficiëntere vormverwezenlijking en optimalisering.**
+* **Forms van de Vulling van de Vorm van 0&rbrace; de Gesprek &lbrace;kan als gesprekken door praatbots worden gevuld, makend de gebruikerservaring boeiender en intuïtiever maken. &#x200B;**
+* **de hulpmiddelen en de benaderingen van de 10&rbrace; Ontwikkelaar en van BedrijfsSnelheid &lbrace;richten zich op verhoging van zowel ontwikkelaar als bedrijfssnelheid, toelatend snellere en efficiëntere vormverwezenlijking en optimalisering.**
 

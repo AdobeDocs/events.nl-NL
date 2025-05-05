@@ -33,10 +33,10 @@ In dit webinar begeleiden Taylor Walker en Vishnu Pillai ons door de basisbegins
 
    * **Workspace** de belangrijkste nadruk was op de werkruimte binnen Adobe Analytics, met inbegrip van hoe te navigeren en verschillende panelen, visualisaties, en componenten te gebruiken.
    * **Nadruk van de Wegen van de Opleiding en van het Leren van Paden** op de beschikbaarheid van opleidingsleerprogramma&#39;s, het leren wegen, en middelen zoals Experience League en de Adobe Analytics YouTube pagina voor verder leren.
-   * **Discussie van de Opties van de Uitvoer van Gegevens van 0} {over het uitvoeren van gegevens gebruikend gegevensvoer, gegevenspakhuis, FTP, en SFTP, met een demo op de feeds van opstellingsgegevens.**
+   * **Discussie van de Opties van de Uitvoer van Gegevens van 0&rbrace; &lbrace;over het uitvoeren van gegevens gebruikend gegevensvoer, gegevenspakhuis, FTP, en SFTP, met een demo op de feeds van opstellingsgegevens.**
    * **Customer Journey Analytics (CJA)** Inleiding aan CJA en zijn integratie met Adobe Analytics voor een meer holistische mening van gegevens.
 
-* **Aanbevelingen van de Beste praktijken van 0} {bij het gebruiken van markeringen, omslagen, en het delen opties om projecten georganiseerd en toegankelijk te houden.**
+* **Aanbevelingen van de Beste praktijken van 0&rbrace; &lbrace;bij het gebruiken van markeringen, omslagen, en het delen opties om projecten georganiseerd en toegankelijk te houden.**
 
 * **Gevallen van het Gebruik en de Voorbeelden van de Analyse** van hoe te om Adobe Analytics voor diverse bedrijfsvragen te gebruiken, zoals het analyseren van de prestaties van de marketing campagne, het begrijpen van klantenreizen, en het identificeren van wrijvingspunten op digitale eigenschappen.
 

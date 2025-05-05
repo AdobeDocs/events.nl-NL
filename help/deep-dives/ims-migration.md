@@ -29,8 +29,8 @@ Als uw organisatie de migratie naar Adobe IMS voorbereidt of ondergaat, is deze 
 
 **Stappen van de Migratie**
 
-* **Eerste stap van de Migratie van het 0} Product {impliceert het migreren van het product aan Adobe Experience League.**
-* {de 1} Gebruikers van de Migratie van de Gebruiker van 0} {worden dan gemigreerd, met nadruk op het verzekeren zij Adobe IDs hebben die hun login van Marketo e-mails aanpassen.****
+* **Eerste stap van de Migratie van het 0&rbrace; Product &lbrace;impliceert het migreren van het product aan Adobe Experience League.**
+* {de 1} Gebruikers van de Migratie van de Gebruiker van 0&rbrace; &lbrace;worden dan gemigreerd, met nadruk op het verzekeren zij Adobe IDs hebben die hun login van Marketo e-mails aanpassen.**&#x200B;**
 * **de Migratie van Tickets van de Steun** tot slot, de steunkaartjes worden gemigreerd aan het nieuwe systeem.
 
 **Voorbereiding en Communicatie**
@@ -56,4 +56,4 @@ Als uw organisatie de migratie naar Adobe IMS voorbereidt of ondergaat, is deze 
 * Zorg ervoor dat rapportabonnementen en bladwijzers worden bijgewerkt met de nieuwe URL.
 * Wees voorbereid op mogelijke toewijzingen van werkruimte en partitietoegang na migratie.
 
-**Verscheidene vergaderingen en gebeurtenissen van de gebruikersgroep van de Gebeurtenissen van 0} de Komende {werden benadrukt, met inbegrip van virtuele en persoonlijk zittingen in diverse plaatsen, en de Adobe Summit in Maart 2025.**
+**Verscheidene vergaderingen en gebeurtenissen van de gebruikersgroep van de Gebeurtenissen van 0&rbrace; de Komende &lbrace;werden benadrukt, met inbegrip van virtuele en persoonlijk zittingen in diverse plaatsen, en de Adobe Summit in Maart 2025.**

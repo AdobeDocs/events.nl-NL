@@ -28,10 +28,10 @@ Begin het jaar krachtig met onze ingezeten Commerce-experts, Corey Gelato en Agb
 ### Gemarkeerde Adobe Commerce-functies
 
 * **Gedeelde Catalogi** Gekrulde catalogi met specifieke tarifering voor individuele bedrijven.
-* **het Beheer van het Bedrijf 1} ouder-kind bedrijfshiërarchie, gebruikersrollen, en toestemmingen.**
-* **Verbeterde het citeren** {citeren mogelijkheden, met inbegrip van citaatmalplaatjes, gealigneerd citeren, en het verschepen kostenaanpassingen.
+* **het Beheer van het Bedrijf 1&rbrace; ouder-kind bedrijfshiërarchie, gebruikersrollen, en toestemmingen.**
+* **Verbeterde het citeren** &lbrace;citeren mogelijkheden, met inbegrip van citaatmalplaatjes, gealigneerd citeren, en het verschepen kostenaanpassingen.
 * **Zelfbediening Hulpmiddelen** Eigenschappen zoals snelle orde, aanvraaglijsten, en de werkschema&#39;s van de koopgoedkeuring.
-* **Intelligente handel drijven van de Mogelijkheden AI van 0} {, gepersonaliseerde onderzoeksresultaten, en productaanbevelingen.**
+* **Intelligente handel drijven van de Mogelijkheden AI van 0&rbrace; &lbrace;, gepersonaliseerde onderzoeksresultaten, en productaanbevelingen.**
 
 ### B2B-trends
 

@@ -28,7 +28,7 @@ Ontdek een inzichtelijke sessie die laat zien hoe AEM Forms de betrokkenheid van
 
 * **de Mogelijkheden van de vormen van AEM Forms** AEM drijven operationele efficiency en uitzonderlijke gebruikerservaring door organisaties toe te laten om vormen aan schaal te schrijven, werkschema&#39;s te automatiseren, en omnichannel ervaringen te leveren. Dit leidt tot hogere omzettings en inschrijvingstarieven, verminderde vorm verlaten, en verhoogde teamproductiviteit.
 
-* **AEM Forms van de Oplossing van begin tot eind 1} verstrekt een oplossing van begin tot eind die omnichannel vormen, geautomatiseerde werkschema&#39;s, en interactieve klantenmededelingen omvat.** De oplossing is geïntegreerd met Adobe Experience Cloud en verbetert de algehele gebruikerservaring en operationele efficiëntie.
+* **AEM Forms van de Oplossing van begin tot eind 1&rbrace; verstrekt een oplossing van begin tot eind die omnichannel vormen, geautomatiseerde werkschema&#39;s, en interactieve klantenmededelingen omvat.** De oplossing is geïntegreerd met Adobe Experience Cloud en verbetert de algehele gebruikerservaring en operationele efficiëntie.
 
 * **de Innovaties en de Integraties** Recente innovaties omvatten leveringsdiensten voor betere prestaties, koploze adaptieve vormen voor omnichannel levering, en nieuwe schakelaars voor integratie met systemen zoals OneDrive, Macht Automate, Salesforce, en Workfront. Voorbeelden van functies voor vroege toegang zijn Gen AI-assistent, Marketo-connector en conversationele formulieren.
 

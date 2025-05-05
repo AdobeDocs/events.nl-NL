@@ -34,12 +34,12 @@ Het webinar was vooral gericht op het maximaliseren van de productiviteit met be
 
 * **de Scenario&#39;s van de Fusie**
 
-   * **Automatiserend de verwezenlijking van een ontwerpsamenvatting van het 0} Ontwerp en het Proofing Werkschema** en in werking stellend een het proefdrukken werkschema.
+   * **Automatiserend de verwezenlijking van een ontwerpsamenvatting van het 0&rbrace; Ontwerp en het Proofing Werkschema** en in werking stellend een het proefdrukken werkschema.
    * **de Generatie en het Vergroten van het Beeld van Adobe Firefly** Gebruikend Adobe Firefly om creatieve concepten te produceren en Adobe Photoshop resize beelden voor verschillende advertentietypes.
    * **Getagde Berichten die op de Verandering van het Gebied** worden gebaseerd die berichten voor veranderingen in projectchronologie creëren om werkingsgebiedkneep te vermijden.
 
 * **de Malplaatjes van de Fusie** zijn Malplaatjes beschikbaar om gebruikers te helpen begonnen met het creëren van en het aanpassen van fusiescenario&#39;s worden.
 
-* **Verscheidene opiniepeilingen van 0} en van de Betrokkenheid {werden geleid om het gebruik en de interesse van het publiek in de Fusie van het Werk van Adobe te meten Front en de demo&#39;s aan hun voorkeur aan te passen.**
+* **Verscheidene opiniepeilingen van 0&rbrace; en van de Betrokkenheid &lbrace;werden geleid om het gebruik en de interesse van het publiek in de Fusie van het Werk van Adobe te meten Front en de demo&#39;s aan hun voorkeur aan te passen.**
 
 * **Middelen en Steun** de Extra middelen, met inbegrip van downloadbare verbindingen en de optie om met het Systeem van het Front van het Werk in werking te stellen beheerders, zijn beschikbaar om gebruikers te helpen fusiescenario&#39;s uitvoeren en optimaliseren.

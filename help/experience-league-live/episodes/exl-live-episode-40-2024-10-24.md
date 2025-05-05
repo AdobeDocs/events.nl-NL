@@ -21,7 +21,7 @@ Meer informatie over hoe Federated Audience Composition een uitgebreide benaderi
 
 >[!VIDEO](https://video.tv.adobe.com/v/3436457?quality=12&learn=on)
 
-**om de bespreking voort te zetten, gelieve onze [ bespreking over de Gemeenschap van het Experience League ](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/adobe-experience-league-live-harmonize-audiences-in-experience/m-p/718976#M636) te bezoeken {target="_blank"}.**
+**om de bespreking voort te zetten, gelieve onze [ bespreking over de Gemeenschap van het Experience League ](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/adobe-experience-league-live-harmonize-audiences-in-experience/m-p/718976#M636){target="_blank"} te bezoeken .**
 
 **toon Details**:
 Vergroot de toegang tot datacenters van bedrijven om publiek te maken en om de ervaring van het merk en de ervaring van het moment te versterken.

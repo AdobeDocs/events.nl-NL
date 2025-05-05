@@ -35,11 +35,11 @@ Belangrijke discussiepunten
 
 * **de Voordelen van de Integratie** Integrerend Adobe Experience Manager (AEM), Adobe Analytics, en Adobe Target staat voor de levering van inhoud van begin tot eind, activering, en verpersoonlijking toe, die tot een krachtig gegeven-gedreven ecosysteem leiden. &#x200B;
 
-* **de Stappen voor de Zeer belangrijke stappen van de Integratie {omvatten vestiging identiteitskaart van Experience Cloud, het vormen van de Lancering van Adobe, het verbinden van AEM en Doel, en het delen van publiekssegmenten tussen Analytics en Doel.**
+* **de Stappen voor de Zeer belangrijke stappen van de Integratie &lbrace;omvatten vestiging identiteitskaart van Experience Cloud, het vormen van de Lancering van Adobe, het verbinden van AEM en Doel, en het delen van publiekssegmenten tussen Analytics en Doel.**
 
 * **Personalization en het Testen** De integratie laat gepersonaliseerde inhoudslevering en het testen (b.v., het testen A/B, multivariate het testen) toe om gebruikersbetrokkenheid en omzettingen te optimaliseren.
 
-* **benadrukte de Gelijke Aanpak van de Marketing van 0} het belang van een agile marketing benadering, die samenwerking tussen bedrijfs en technische teams impliceert om inhoud en campagnes efficiënt te beheren en te optimaliseren.**
+* **benadrukte de Gelijke Aanpak van de Marketing van 0&rbrace; het belang van een agile marketing benadering, die samenwerking tussen bedrijfs en technische teams impliceert om inhoud en campagnes efficiënt te beheren en te optimaliseren.**
 
 * **Gevallen van het Gebruik** verstrekte voorbeelden van gebruiksgevallen zoals het testen van promotionele banners en productaanbevelingen om praktische toepassingen van de geïntegreerde oplossingen te illustreren.
 

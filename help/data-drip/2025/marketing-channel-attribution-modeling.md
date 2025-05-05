@@ -23,7 +23,7 @@ Op deze sessie van Data Drip neemt Adobe Business Advisor, Taylor Walker, ons al
 *Presentatoren*
 
 * **Alana Cohen** Digitale Manager van Gebeurtenissen in Adobe.
-* **Bedrijfs Adviseur van de Leider van Taylor van 0} {op het Adviserende Team van de Klant van Adobe.**
+* **Bedrijfs Adviseur van de Leider van Taylor van 0&rbrace; &lbrace;op het Adviserende Team van de Klant van Adobe.**
 * **Vishnu** de Adviseur van Oplossingen concentreert zich op verpersoonlijkings en analytische strategieën.
 
 ## Agenda
@@ -47,7 +47,7 @@ Op deze sessie van Data Drip neemt Adobe Business Advisor, Taylor Walker, ons al
 
 * **de In de handel brengende Kanalen**
 
-   * **Verschillende wegen voor 1} biologisch onderzoek van het plaatsverkeer, betaalde advertenties, sociale media, e-mailmarketing.**
+   * **Verschillende wegen voor 1&rbrace; biologisch onderzoek van het plaatsverkeer, betaalde advertenties, sociale media, e-mailmarketing.**
    * **drie types van externe verkeersdimensies** marketing kanalen, verkeersbronnen, campagne rapportering.
    * **Standaard kanalen die door Adobe** worden geadviseerd betaalde onderzoek, natuurlijk onderzoek, e-mail, vertoning, filiaal, sociale netwerken, intern, direct, verwijzende domeinen.
 

@@ -33,4 +33,4 @@ Ga verder met het gesprek tijdens de campagne en Journey Optimizer Coffee Breaks
 
 ## Aanvullende bronnen
 
-{het informatieblad van 0} Veiligheid ](https://www.adobe.com/content/dam/cc/en/trust-center/ungated/whitepapers/experience-cloud/adobe-ai-assistant-in-aep-security-fact-sheet.pdf)[
+{het informatieblad van 0} Veiligheid [&#128279;](https://www.adobe.com/content/dam/cc/en/trust-center/ungated/whitepapers/experience-cloud/adobe-ai-assistant-in-aep-security-fact-sheet.pdf)

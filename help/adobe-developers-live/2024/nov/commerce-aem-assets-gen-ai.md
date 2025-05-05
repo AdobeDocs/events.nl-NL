@@ -32,13 +32,13 @@ Ga verder het gesprek in de Gemeenschap van Adobe Developers Live [ bespreking ]
 
 * **Doel van Integratie** De integratie streeft ernaar merkconsistentie te verzekeren door slechts goedgekeurde activa te gebruiken, activa efficiënt te beheren, toegangsbeperkingen af te dwingen, en grote dossiers voor Weboptimalisering te behandelen.
 * **het Overzicht van de Manifestatie** Een demo werd verstrekt die tonen hoe te, beelden tussen activa IAM en Adobe Commerce uploaden aan te passen en te synchroniseren.
-* **de opties van de Configuratie van 0} Configuratie {omvatten het selecteren van de bewaarplaats IAM, het plaatsen van de waarden van SKU, en het gebruiken van identiteitskaart van het de beeldcliënt van de activaselecteur.**
+* **de opties van de Configuratie van 0&rbrace; Configuratie &lbrace;omvatten het selecteren van de bewaarplaats IAM, het plaatsen van de waarden van SKU, en het gebruiken van identiteitskaart van het de beeldcliënt van de activaselecteur.**
 * **Beheer van Activa** de integratie staat voor ver ontvangen van beelden toe, die door activa IAM eerder dan Adobe Commerce worden gediend.
-* **de Adobe Express van de Aanpassing van 0} {kan worden gebruikt om beelden, met inbegrip van AI functionaliteiten voor wijzigingen uit te geven.**
+* **de Adobe Express van de Aanpassing van 0&rbrace; &lbrace;kan worden gebruikt om beelden, met inbegrip van AI functionaliteiten voor wijzigingen uit te geven.**
 * **Meta-gegevens en de gebieden van Meta-gegevens van de Synchronisatie** zoals SKU en beeldrollen worden gebruikt om beelden met producten te associëren, en de updates worden gesynchroniseerd binnen 1-2 minuten.
 * **gebeurtenis-gedreven Architectuur** de integratie gebruikt Adobe IO gebeurtenissen en een gebeurtenis-gedreven architectuur om activa tussen activa IAM en Adobe Commerce te synchroniseren.
 * **Verenigbaarheid** de integratie is compatibel met PBB controle, Punten van de Controle, en B2B widgets, leveraging GraphQL APIs.
-* **de Ontwikkelaars van de Opties van de Aanpassing van 0} {kunnen de activa passende regels aanpassen gebruikend toepassingen van de Bouwer AI.**
+* **de Ontwikkelaars van de Opties van de Aanpassing van 0&rbrace; &lbrace;kunnen de activa passende regels aanpassen gebruikend toepassingen van de Bouwer AI.**
 * **Vereisten van de Opstelling** vereist een lopende media vergunning, steunkaartje voor dynamische media met open API, en het samenvoegen van de openbare basis van de de activahandel van de bewaarplaats.
 * **Toekomstige Roadmap** De aanstaande eigenschappen omvatten steun voor extra media types, verpersoonlijking bij schaal, en meta-gegevensbestuiving tussen Adobe Commerce en activa IAM.
 * **VIP van het Programma** Belanghebbenden kunnen zich bij het VIP programma voor vroege toegang en steun tijdens de ontwikkeling en het testen fasen aansluiten.

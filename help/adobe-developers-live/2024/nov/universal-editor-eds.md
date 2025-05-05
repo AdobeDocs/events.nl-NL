@@ -30,9 +30,9 @@ Ga verder het gesprek in de Gemeenschap van Adobe Developers Live [ bespreking ]
 
 ## Toetsen
 
-* **Universele Redacteur van het Overzicht van de Universele Redacteur van 0} wordt het probleem van hoofdloos inhoudsbeheer ontworpen door auteurs toe te staan om inhoud in context met een levende voorproef tot stand te brengen. &#x200B;**
+* **Universele Redacteur van het Overzicht van de Universele Redacteur van 0&rbrace; wordt het probleem van hoofdloos inhoudsbeheer ontworpen door auteurs toe te staan om inhoud in context met een levende voorproef tot stand te brengen. &#x200B;**
 * **Steun van de Technologie** het steunt om het even welke implementatie, technologie, of type van inhoud, toestaand ontwikkelaars om diverse technologiestapels zoals React, Angular, enz. te gebruiken &#x200B;
-* **de Ontwikkelaars van de Flexibiliteit van de Ontwikkelaar van 0} kunnen beleid controleren en de auteurservaring door haken en uitbreidingen aanpassen zonder het moeten pijpleidingen in werking stellen of code compileren. &#x200B;**
+* **de Ontwikkelaars van de Flexibiliteit van de Ontwikkelaar van 0&rbrace; kunnen beleid controleren en de auteurservaring door haken en uitbreidingen aanpassen zonder het moeten pijpleidingen in werking stellen of code compileren. &#x200B;**
 * **Edge Delivery Services** De Universele Redacteur integreert met de diensten van de randlevering, die in-context levende voorproefauteurs verstrekken. &#x200B;
 * **Consolidatie van de Universele Redacteur van Redacteurs** streeft ernaar om diverse redacteurs (b.v., spionageredacteur, verre vlekredacteur, de redacteur van het inhoudsfragment) in één enkel platform te consolideren. &#x200B;
 * **op blok-Gebaseerde Authoring** Blokken worden gebruikt om brokken van inhoud met specifieke het stileren en functionaliteit te bepalen, die door ontwikkelaars kunnen worden beheerd. &#x200B;
