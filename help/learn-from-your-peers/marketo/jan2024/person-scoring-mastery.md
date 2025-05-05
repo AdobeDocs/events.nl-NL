@@ -29,7 +29,7 @@ In dit webinar leert u:
 * Hoe te opstelling een transparant en scalable model van het persoonscoring
 * De beste manier om dit in Marketo Engage uit te voeren, die lokale marktflexibiliteit terwijl het model - logisch en verenigbaar toestaat.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426914/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457445/?learn=on&captions=dut)
 
 ## Middelen die in webinar worden gedeeld
 

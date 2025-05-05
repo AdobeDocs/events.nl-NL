@@ -20,7 +20,7 @@ ht-degree: 0%
 
 NEEM een diepgaander inzicht in alle beschikbare opties wanneer u overeenkomsten ter ondertekening verzendt. In deze sessie leert u meer over: Verzenden naar meerdere ontvangers Beschikbare ontvangende rollen (ondertekenaar, invuller van formulier, delegator en anderen) Een wachtwoordbeveiliging voor CC-velden toevoegen en meer.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428186/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454886/?learn=on&captions=dut)
 
 Het webinar verstrekt inzicht in de geavanceerde eigenschappen van Acrobat Sign voor vestiging multi-deelnemer werkschema&#39;s, het vormen ontvankelijke rollen, en het gebruiken van ontvankelijke groepen en privé berichten. Dit leren kan helpen het proces om documenten ter ondertekening te verzenden stroomlijnen en de samenwerking tussen ondertekenende deelnemers verbeteren.
 

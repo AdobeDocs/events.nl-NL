@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Leer meer over de huidige status van Adobe Commerce en enkele verbeteringen die de afgelopen jaren zijn doorgevoerd. Adobe Commerce is een moderne bedrijfsoplossing die zich aanpast aan meerdere industrieën en gebruikscenario&#39;s. Deze live discussie gaat over verschillende bestaande klanten en hoe ze Adobe Commerce gebruikten om hun commerciële ervaring te voltooien.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425803/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455207/?learn=on&captions=dut)

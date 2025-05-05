@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Navigatie is essentieel voor uw bezoekers om hun weg rond uw plaats te vinden en in uw omzettingstekens te komen. Leer hoe u de effectiviteit van uw navigatie kunt volgen en hoe u deze kunt verbeteren met Adobe Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425992/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457373/?learn=on&captions=dut)

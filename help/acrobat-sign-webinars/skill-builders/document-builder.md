@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Geef uw verkoopteam een voorsprong met vooraf ingevulde voorstellen, contracten, facturen en nog veel meer in seconden door dagelijkse taken te automatiseren, zoals het direct in Salesforce voorbereiden van gegevensgestuurde documenten. Met Document Builder kunt u dynamisch een document genereren met Salesforce-gegevens voordat u het ter ondertekening verzendt. Hierdoor wordt een eens omslachtig proces eenvoudiger en gestroomlijnd. We doorlopen het stapsgewijze proces, zodat u tijd en moeite bespaart.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428193/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454919/?learn=on&captions=dut)
 
 ## Wat is het doel van Document Builder voor Acrobat Sign?
 

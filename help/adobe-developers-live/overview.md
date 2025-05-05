@@ -80,7 +80,7 @@ Adobe productteams in heel Adobe Experience Cloud, Document Cloud en Creative Cl
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/nov/ai-and-personalization.md" title="AI en Personalization naar Adobe Experience Manager-Edge Delivery Services brengen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440405/?format=jpeg&nocache=1733162925381" alt="AI en Personalization naar Adobe Experience Manager-Edge Delivery Services brengen"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440412/?format=jpeg&nocache=1733162925381&captions=dut" alt="AI en Personalization naar Adobe Experience Manager-Edge Delivery Services brengen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -126,7 +126,7 @@ Adobe productteams in heel Adobe Experience Cloud, Document Cloud en Creative Cl
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/nov/cdn-waf-aemcs.md" title="CDN- en WAF-configuratie in Adobe Experience Manager as a Cloud Service" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440401/?format=jpeg&nocache=1733162925358" alt="CDN- en WAF-configuratie in Adobe Experience Manager as a Cloud Service"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440608/?format=jpeg&nocache=1733162925358&captions=dut" alt="CDN- en WAF-configuratie in Adobe Experience Manager as a Cloud Service"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -237,7 +237,7 @@ Adobe productteams in heel Adobe Experience Cloud, Document Cloud en Creative Cl
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/nov/extension-manager.md" title="Extension Manager voor Adobe Experience Manager Sites" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440404/?format=jpeg&nocache=1733162926516" alt="Extension Manager voor Adobe Experience Manager Sites"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440434/?format=jpeg&nocache=1733162926516&captions=dut" alt="Extension Manager voor Adobe Experience Manager Sites"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -390,7 +390,7 @@ Adobe productteams in heel Adobe Experience Cloud, Document Cloud en Creative Cl
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/nov/asset-migration-blueprint.md" title="Assets-migratieblauwdruk" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440403/?format=jpeg&nocache=1733162927528" alt="Assets-migratieblauwdruk"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440445/?format=jpeg&nocache=1733162927528&captions=dut" alt="Assets-migratieblauwdruk"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -413,7 +413,7 @@ Adobe productteams in heel Adobe Experience Cloud, Document Cloud en Creative Cl
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/nov/performant-delivery.md" title="Aanbevolen procedures voor presterende levering" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440399/?format=jpeg&nocache=1733162927540" alt="Aanbevolen procedures voor presterende levering"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440423/?format=jpeg&nocache=1733162927540&captions=dut" alt="Aanbevolen procedures voor presterende levering"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

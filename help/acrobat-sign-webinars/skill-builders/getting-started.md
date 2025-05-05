@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Leer de basisbeginselen van Acrobat Sign om documenten snel te laten ondertekenen. Hieronder wordt uitgelegd hoe u uw documenten voorbereidt en verzendt voor een e-handtekening. Bekijk wat uw ondertekenaars zien Beheren en volg de voortgang van overeenkomsten Uw eigen handtekening maken, enzovoort.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428183/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455471/?learn=on&captions=dut)
 
 ## Belangrijkste punten
 

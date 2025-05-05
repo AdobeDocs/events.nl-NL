@@ -19,7 +19,7 @@ ht-degree: 0%
 
 Informatie over het nieuwe tijdperk van hyperpersonalisatie. We bouwen een basis op een ontwikkelingsmodel voor personalisatie, bespreken algemene blokkeersystemen en bieden tactische tips om aan de slag te gaan.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429288/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457351/?learn=on&captions=dut)
 
 ## Belangrijkste discussiepunten
 

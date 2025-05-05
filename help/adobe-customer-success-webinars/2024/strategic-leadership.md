@@ -24,4 +24,4 @@ Verkrijg de tactiek om organisatorische doelstellingen door strategische invloed
 - Het bepalen van de cursus voor succes op lange termijn
 - Strategische initiatieven effectief stimuleren
 
->[!VIDEO](https://video.tv.adobe.com/v/3427463/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456789/?learn=on&captions=dut)

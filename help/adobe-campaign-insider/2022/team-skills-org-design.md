@@ -20,4 +20,4 @@ ht-degree: 0%
 
 In de hedendaagse kanaalwereld en digitale wereld zijn consumenten in staat om overal, altijd en op welke manier dan ook in te grijpen. En de markt moet klaar zijn, anders riskeren ze een slechte klantervaring, of erger, een attributie. Het antwoord is niet alleen een marketingplatform dat de organisatie van berichten via kanalen ondersteunt, maar ook een marketingorganisatie die planning, uitvoering en meting van marketingcampagnes via alle kanalen ondersteunt.
 
->[!VIDEO](https://video.tv.adobe.com/v/343871/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457052/?quality=12&learn=on&captions=dut)

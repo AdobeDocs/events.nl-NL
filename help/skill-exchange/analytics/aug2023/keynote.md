@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Vreemd over waar Adobe Analytics naartoe gaat? Ben Gaines, Director of Product Management for Customer Journey Analytics en Adobe Analytics, zal je wat vertellen over wat je moet verwachten.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425984/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454422/?learn=on&captions=dut)

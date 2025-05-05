@@ -28,4 +28,4 @@ Leer hoe u gegevensstroomprioritering beheert voor campagneorchestratie om de mo
 - Inzicht in het belang van en de beste werkwijzen voor gegevensstroomprioritering
 - Marketing campagnes in real-time optimaliseren
 
->[!VIDEO](https://video.tv.adobe.com/v/3427302/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456811/?learn=on&captions=dut)

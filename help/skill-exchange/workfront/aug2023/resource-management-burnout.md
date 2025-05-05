@@ -30,4 +30,4 @@ In deze sessie delen Tia Calvert, Product Manager en Erin Kuchera, Creative Oper
 * Hoe te om tijd van het volgen op te nemen
 * Voorbeelden van hoe Mayo Clinic Analytics en Resource Manager gebruikt om teams transparantie te bieden en nieuwe taken te plannen
 
->[!VIDEO](https://video.tv.adobe.com/v/3425811/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457102/?learn=on&captions=dut)

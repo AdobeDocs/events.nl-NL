@@ -25,4 +25,4 @@ Leer de strategie achter organisatorische paraatheid vanuit het perspectief van 
 * Leer hoe u zich als organisatie kunt richten op gevallen van zakelijk gebruik
 * Belangrijke bronnen en acties voor CDP-gereedheid in real-time
 
->[!VIDEO](https://video.tv.adobe.com/v/3425603/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457069/?learn=on&captions=dut)

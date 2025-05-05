@@ -20,7 +20,7 @@ Verpersoonlijking in real time op om het even welk kanaal gebruikend online en o
 <tr>
   <td>
     <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/data-and-insights/2022/personalize.html?lang=nl-NL">
-      <img alt="Personaliseren en automatiseren met Adobe Target" src="https://video.tv.adobe.com/v/343821?format=jpeg" />
+      <img alt="Personaliseren en automatiseren met Adobe Target" src="https://video.tv.adobe.com/v/3457384?format=jpeg&captions=dut" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/data-and-insights/2022/personalize.html?lang=nl-NL">

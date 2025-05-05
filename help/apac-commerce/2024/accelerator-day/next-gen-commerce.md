@@ -24,6 +24,6 @@ Overzicht en demonstraties van AI in Commerce, de meest recente generatieve AI v
 
 + Gepresenteerd door Eroka O&#39;Connor, Senior Solution Consultant - Adobe
 
->[!VIDEO](https://video.tv.adobe.com/v/3429269/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456490/?learn=on&captions=dut)
 
 [&lt; Terug naar Adobe Commerce Accelerator Day](./overview.md)

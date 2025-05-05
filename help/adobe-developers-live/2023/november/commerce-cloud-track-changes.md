@@ -24,4 +24,4 @@ ht-degree: 0%
 
 Volg uw Commerce-projectimplementatiegebeurtenissen in New Relic door een scriptintegratie te maken. Schakel de functie New Relic Track-wijzigingen eenvoudig in om implementatiegebeurtenissen op uw Commerce te controleren op een infrastructuurproject in de cloud. De de gegevensinzameling van Plaatsingen helpt de invloed van plaatsingsveranderingen in algemene prestaties, zoals cpu, geheugen, de tijden van de transactierespons, en meer analyseren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426313/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456451/?learn=on&captions=dut)

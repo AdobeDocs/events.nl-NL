@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Meld u aan om te leren hoe u de Adobe-API van Marketo kunt gebruiken en de ware kracht van marketingautomatisering kunt verbeteren. Ontdek hoe u basislijnverbindingen kunt maken, de bewegende extensies in de bergen kunt gebruiken en uw eerste API-aanroepen kunt uitvoeren. Ontdek de nuance tussen functies die er ongeveer hetzelfde uitzien, zoals webhaken en API, zodat u weet welk gereedschap het beste kan worden toegepast in uw oplossing. Bescherm beter uw gegevens door de beste praktijken rond veiligheid te leren zoals het belang om uw toestemmingsreeksen te miniateren. Integreer met de cloud, profiteer van opslag en gebruik de kracht van de bulk-API voor import-/exporttaken. De mogelijkheden zijn eindeloos. Laat deze kans om je marketing te veranderen niet voorbij gaan. Registreer u nu om het potentieel van de Marketo API te ontdekken en uw marketingstrategieën echt om te zetten.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422479/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432501/?learn=on&captions=dut)

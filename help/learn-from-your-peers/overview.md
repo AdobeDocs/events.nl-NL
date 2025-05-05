@@ -157,7 +157,7 @@ Leer van experts en collega&#39;s van de Adobe hoe u optimaal kunt profiteren va
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/jan2024/person-scoring-mastery.md" title="Persoon die stramien scoort met Marketo Engage - Gelokaliseerde nuances in een Globaal Kader" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3426914/?format=jpeg&nocache=1732325316999" alt="Persoon die stramien scoort met Marketo Engage - Gelokaliseerde nuances in een Globaal Kader"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457445/?format=jpeg&nocache=1732325316999&captions=dut" alt="Persoon die stramien scoort met Marketo Engage - Gelokaliseerde nuances in een Globaal Kader"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

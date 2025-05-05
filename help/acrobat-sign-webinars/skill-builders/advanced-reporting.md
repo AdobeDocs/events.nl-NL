@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Lees meer over de analyses en rapporten die beschikbaar zijn in Acrobat Sign en bekijk hoe u gegevens kunt bekijken om de inzichten te leveren die u nodig hebt om uw bedrijf vooruit te helpen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428191/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454411/?learn=on&captions=dut)
 
 ## Nieuwe rapportage- en exportmogelijkheden
 

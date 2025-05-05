@@ -25,6 +25,6 @@ Overzicht van de meest recente ontwikkelingen op het Adobe Commerce- en App Buil
 
 + Gepresenteerd door Jason Ford, hoofd van de ANZ Solution Engineering - Adobe
 
->[!VIDEO](https://video.tv.adobe.com/v/3429272/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455457/?learn=on&captions=dut)
 
 [&lt; Terug naar Adobe Commerce Accelerator Day](./overview.md)

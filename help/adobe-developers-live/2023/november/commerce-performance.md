@@ -24,4 +24,4 @@ ht-degree: 0%
 
 In deze inspirerende presentatie beleven we ons verhaal &#39;Beter samen&#39;, waar Adobe Commerce naadloos integreert met onze uitgebreide technologiesuite. Ontdek hoe deze synergie efficiency, innovatie, en holistische klantenervaringen bevordert, die uw zaken aan nieuwe hoogten opvoeren
 
->[!VIDEO](https://video.tv.adobe.com/v/3426311/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455984/?learn=on&captions=dut)

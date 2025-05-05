@@ -19,7 +19,7 @@ ht-degree: 0%
 
 Bekijk de mogelijkheden die beschikbaar zijn in de Acrobat Sign-ontwerpomgeving dieper. De behandelde onderwerpen omvatten: Overzicht van het voorbereiden van uw het documentmalplaatjes van Acrobat Sign gebruikend Acrobat, tekst het etiketteren en de het Authoring Milieu van Acrobat Sign. Ga diep in de ontwerpomgeving te werk, waarbij u het klonen versus het kopiëren van velden bedekt, speciale velden toevoegt, velden toewijst en voorwaardelijke velden en berekeningsvelden instelt. Hoe u uw sjablonen ter ondertekening verzendt, waarbij u de documentsjabloon vergelijkt met de formulierveldsjabloon.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428189/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455908/?learn=on&captions=dut)
 
 ## Belangrijkste punten
 

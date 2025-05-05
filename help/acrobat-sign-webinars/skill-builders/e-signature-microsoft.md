@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Breid de manier uit waarop u Microsoft-toepassingen zoals Word, Outlook en Sharepoint gebruikt door Adobe Acrobat Sign toe te voegen aan uw bestaande workflows. Met deze sessie leert u hoe u de documentprocessen kunt stroomlijnen in algemene Microsoft-toepassingen, zodat u niet alleen een contextschakelaar hoeft te gebruiken om een handtekening te krijgen of een status te controleren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428185/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455056/?learn=on&captions=dut)
 
 ## Welke toepassingen worden door de Acrobat Sign-integratie ondersteund?
 

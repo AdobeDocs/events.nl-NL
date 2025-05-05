@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Alle Acrobat Sign-beheerders en eindgebruikers/individuele medewerkers aanroepen. Deze sessie heeft betrekking op het maken en gebruiken van workflows. Leer als Acrobat Sign-groep of accountbeheerder hoe u vooraf ingestelde workflows kunt definiëren om documenten automatisch ter ondertekening door te sturen naar de juiste partijen - en geef vervolgens toegang tot uw gehele Acrobat Sign-groep. En als eindgebruiker, leer hoe te om deze werkschema&#39;s te gebruiken om ervoor te zorgen de documenten de eerste keer — en elke keer worden ondertekend.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428192/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454908/?learn=on&captions=dut)
 
 ## Onderwerpen die worden behandeld
 

@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Alles over segmenten - Hoe kan ik uw gegevens voor inzichten segmenteren en manipuleren
 
->[!VIDEO](https://video.tv.adobe.com/v/3425989/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456613/?learn=on&captions=dut)

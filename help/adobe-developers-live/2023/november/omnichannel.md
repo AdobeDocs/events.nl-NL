@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Het uitlijnen van inhoud tussen binnenkomende en uitgaande kanalen kan moeilijk zijn te organiseren. Met Adobe Experience Manager kunt u zowel inkomende als uitgaande inhoud maken en deze inhoud tijdens de reis van de klant gebruiken. Deze sessie gaat over integratiepatronen met Adobe Target, Adobe Campaign, Adobe Journey Optimizer en meer.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426337/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455019/?learn=on&captions=dut)

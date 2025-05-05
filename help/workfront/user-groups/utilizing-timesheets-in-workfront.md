@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Luister naar Nicholas Twillie en Alma Martinez uit Walgreens die praten over het volgen van de tijd, via timesheets, in Workfront. Kijk dan, zoals Christian Barnes u de technische kant van timesheets laat zien.
 
->[!VIDEO](https://video.tv.adobe.com/v/341228/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457337/?quality=12&learn=on&captions=dut)

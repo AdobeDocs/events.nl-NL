@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Notariseer integratie - de snellere en gemakkelijkere manier om uw documenten te notariseren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428195/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454378/?learn=on&captions=dut)
 
 ## Belangrijkste onderwerpen
 

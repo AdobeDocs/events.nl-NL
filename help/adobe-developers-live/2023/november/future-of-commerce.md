@@ -24,4 +24,4 @@ ht-degree: 0%
 
 Laat de toekomst van Adobe Commerce los! Ontdek onze geavanceerde presentatie over de nieuwste verbeteringen in ons Commerce-platform, aangedreven door generatieve AI- en 3D-technologie. Leer hoe deze innovaties de betrokkenheid van klanten herdefiniëren en bedrijfssucces stimuleren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426312/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456462/?learn=on&captions=dut)

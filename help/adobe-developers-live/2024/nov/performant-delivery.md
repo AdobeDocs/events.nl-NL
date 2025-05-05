@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Sluit u aan bij Riya Midha, Sr. Product Manager op Adobe en ontdek de beste werkwijzen voor het opzetten van Adobe Experience Manager Assets Dynamic Media. Leer hoe u de levering van middelen optimaliseert, videostreaming verbetert, viewers configureert en de prestaties meet en verbetert.
 
->[!VIDEO](https://video.tv.adobe.com/v/3440399/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3440423/?learn=on&enablevpops&captions=dut)
 
 ## Communautaire discussie
 

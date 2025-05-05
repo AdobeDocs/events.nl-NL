@@ -19,6 +19,6 @@ ht-degree: 0%
 
 Kom meer te weten over de in- en uitgangen van de tools en best practices voor overeenkomstbeheer, zodat u altijd de status van uw overeenkomsten kunt kennen. Deze sessie heeft betrekking op: welke handelingen u kunt uitvoeren op documenten op het tabblad Beheer, hoe u gegevens van webformulieren en bulkverzendingen kunt verwerken en gebruiken en hoe u de benodigde documenten kunt zoeken en filteren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428190/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455007/?learn=on&captions=dut)
 
 In deze zitting, bespreekt de spreker hoe te om overeenkomsten te beheren en te volgen gebruikend Adobe Acrobat Sign. &#x200B; Zij verklaren de verschillende status van de overeenkomst, demonstreren acties die kunnen worden ondernomen in verband met lopende overeenkomsten en bieden middelen voor verder leren.

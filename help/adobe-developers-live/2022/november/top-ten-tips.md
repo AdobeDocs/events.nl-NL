@@ -24,4 +24,4 @@ ht-degree: 0%
 
 Geweldige ervaringsprestaties zijn essentieel voor succes van de ervaring. In deze sessie delen we met u onze beste 10 tips en tips om uw ontwikkelaars te helpen uw Adobe Experience Manager-websites sneller te maken.
 
->[!VIDEO](https://video.tv.adobe.com/v/3411300/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457181/?quality=12&learn=on&captions=dut)

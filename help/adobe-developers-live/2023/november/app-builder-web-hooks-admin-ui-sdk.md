@@ -23,4 +23,4 @@ ht-degree: 0%
 
 Meer informatie over Adobe App Builder, Adobe IO, webhaken, Admin UI SDK.  Dit is een inleiding aan elke nieuwe eigenschap om u te helpen gemeenschappelijke gebruiksgevallen begrijpen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425805/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456679/?learn=on&captions=dut)

@@ -24,4 +24,4 @@ ht-degree: 0%
 
 De Universele Redacteur is de volgende generatie van AEM in-context paginaredacteur en het lost de huidige beperkingen van de AEM Redacteur van de Pagina of SPA op. Het staat los van raamwerken, renderingengines en gegevensbronnen - en biedt dus alle vrijheid die de ontwikkelaars zoeken en maakt het echt universeel.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426341/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456474/?learn=on&captions=dut)

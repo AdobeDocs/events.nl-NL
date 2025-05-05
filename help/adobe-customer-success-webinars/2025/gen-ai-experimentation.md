@@ -27,7 +27,7 @@ Dit webinar verstrekt een dieper inzicht in hoe AI Assistant Content Accelerator
 * Inhoud experimenteren en optimaliseren
 * Generatieve AI
 
->[!VIDEO](https://video.tv.adobe.com/v/3444453/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3444465/?learn=on&enablevpops&captions=dut)
 
 ## Toetsen
 

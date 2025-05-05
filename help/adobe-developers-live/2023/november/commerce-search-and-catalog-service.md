@@ -24,4 +24,4 @@ ht-degree: 0%
 
 Leer meer over de services voor zoeken en Catalogus om uw ervaringen met winkels te verbeteren en te optimaliseren.  In deze demonstratie wordt uitgelegd hoe u de connector voor handelsservices kunt gebruiken voor uw winkel met GraphQL.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425806/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454735/?learn=on&captions=dut)

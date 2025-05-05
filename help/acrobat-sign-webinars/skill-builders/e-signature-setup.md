@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Leer drie eenvoudige manieren om uw documenten in te stellen voor elektronische ondertekening. Of het nu PDF, Microsoft 365-bestanden of zelfs een eenvoudig afbeeldingsbestand zijn, deze sessie biedt u de gereedschappen die u nodig hebt om het document te laten ondertekenen. Hieronder vindt u drie methoden: de eenvoudige ontwerpomgeving voor slepen en neerzetten van Adobe Acrobat Sign. Stel een PDF-formulier in Adobe Acrobat in. Gebruik tekstcodes voor een snel document.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428184/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455952/?learn=on&captions=dut)
 
 ## Wat is het voordeel van het gebruik van tekstcodes in combinatie met Microsoft Word?
 

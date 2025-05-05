@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Leer hoe u tijd kunt besparen met de functie Verzenden in bulk in Acrobat Sign. Als u veelvoudige individuen nodig hebt om unieke exemplaren van een beleidsupdate voor het hele bedrijf te ondertekenen, staat een NDA of een ander document, verzendt in Bulk u toe om het dossier eens voor te bereiden, naar veelvoudige ondertekenaars met één klik te verzenden en gemakkelijk reacties te volgen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428188/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454897/?learn=on&captions=dut)
 
 ## Belangrijkste punten
 

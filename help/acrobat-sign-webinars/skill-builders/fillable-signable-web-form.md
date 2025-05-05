@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Leer hoe u een webformulier maakt waarmee iedereen het kan invullen en ondertekenen, zonder dat u de transactie hoeft te starten of zelfs het e-mailadres van de ondertekenaar kent. U leert ook hoe u een documentsjabloon voorbereidt die kan worden gebruikt voor afzonderlijke handtekeningtransacties en voor het posten naar een unieke URL voor breed delen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428187/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455453/?learn=on&captions=dut)
 
 ## Belangrijkste punten
 

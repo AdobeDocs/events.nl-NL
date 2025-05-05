@@ -31,4 +31,4 @@ Hoe zij zowel hun proces als infrastructuur in tijd hebben geëvolueerd
 Praktisch advies voor het integreren van Workfront in uw bredere technologiestapel en de rijpende belangrijkste workflows
 Hoe IPG de basis voor de Keten van de Levering van Inhoud legt
 
->[!VIDEO](https://video.tv.adobe.com/v/3425810/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456668/?learn=on&captions=dut)

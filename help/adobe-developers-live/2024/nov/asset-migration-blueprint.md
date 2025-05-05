@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Sluit u aan bij Achim Koch, de belangrijkste technische architect bij de Adobe, om te leren hoe u een verouderde DAM naar Adobe Experience Manager Assets kunt migreren. Verbeter inzicht in de analyse van belanghebbenden, middelplanning, gegevenstransformatie, en beste praktijken zoals het gebruiken van Csv- dossiers voor gegevensbehandeling. Maak een routekaart voor uw eigen Adobe Experience Manager-migratieprojecten.
 
->[!VIDEO](https://video.tv.adobe.com/v/3440403/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3440445/?learn=on&enablevpops&captions=dut)
 
 ## Communautaire discussie
 

@@ -26,4 +26,4 @@ Segmenten in Adobe Analytics kunnen zeer krachtig zijn, maar met die kracht kome
 * De kracht van logica uitsluiten
 * De juiste configuratie kiezen om te slagen
 
->[!VIDEO](https://video.tv.adobe.com/v/3432748/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456935/?learn=on&captions=dut)

@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Niveaus verhogen - De Workspace-gebruiker trainen
 
->[!VIDEO](https://video.tv.adobe.com/v/3425993/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456690/?learn=on&captions=dut)

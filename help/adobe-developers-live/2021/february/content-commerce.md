@@ -27,6 +27,6 @@ Deze sessie helpt ontwikkelaars om op Adobe Experience Manager as a Cloud Servic
 
 Ga het gesprek in **[Gemeenschappen van Experience League ](https://adobe.ly/36Yd3v6)** voort.
 
->[!VIDEO](https://video.tv.adobe.com/v/331851/?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3454400/?quality=12&learn=on&hidetitle=true&captions=dut)
 
 Klik **[hier](/help/adobe-developers-live/assets/content-commerce.pdf)** voor de zittingsdia&#39;s.

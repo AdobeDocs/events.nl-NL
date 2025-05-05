@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Deze sessie leidt tot een regeleinde omdat u begrijpt hoe Adobe Analytics websitegegevens bijhoudt en Visualisaties gebruikt om meer inzicht te krijgen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425988/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456723/?learn=on&captions=dut)

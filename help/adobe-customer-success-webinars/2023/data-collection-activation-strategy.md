@@ -25,4 +25,4 @@ Gebruik en activeer op uw strategie van de gegevensinzameling om tijdiger intera
 * Overzicht van architecturen op hoog niveau
 * Overwegingen bij uw strategie voor gegevensverzameling en -activering
 
->[!VIDEO](https://video.tv.adobe.com/v/3426006/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456230/?learn=on&captions=dut)

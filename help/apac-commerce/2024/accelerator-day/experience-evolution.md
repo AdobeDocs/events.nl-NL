@@ -25,6 +25,6 @@ Een overzicht en demonstratie van personalisatie voor Commerce met behulp van re
 
 + Gepresenteerd door Mike Lynch, Enterprise Commerce Specialist - Adobe
 
->[!VIDEO](https://video.tv.adobe.com/v/3429266/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454444/?learn=on&captions=dut)
 
 [&lt; Terug naar Adobe Commerce Accelerator Day](./overview.md)
