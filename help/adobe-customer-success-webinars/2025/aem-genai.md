@@ -35,10 +35,10 @@ Ontdek tijdens deze sessie hoe GenAI het maken en automatiseren van inhoud in AE
 
 * **Generatieve AI Integratie in Adobe Experience Manager (AEM)** AEM leverages Generative AI (Gen AI) om inhoudsverwezenlijking te stroomlijnen, verpersoonlijking te verbeteren, en werkschema&#39;s over activa, plaatsen, en vormen te optimaliseren. Dit omvat functies zoals variatie genereren, SEO-optimalisatie en publiekspecifieke content creation.
 
-* {de 1} Gen AI mogelijkheden van de Integratie van Adobe Firefly en van Adobe Express 1} in AEM worden aangedreven door Adobe Firefly en Adobe Express, toelatend efficiënte activageneratie, slim etiketteren, en contextafhankelijke onderzoek om inhoudsbeheer en levering te verbeteren.****
+* {de 1} Gen AI mogelijkheden van de Integratie van Adobe Firefly en van Adobe Express 1&rbrace; in AEM worden aangedreven door Adobe Firefly en Adobe Express, toelatend efficiënte activageneratie, slim etiketteren, en contextafhankelijke onderzoek om inhoudsbeheer en levering te verbeteren.**&#x200B;**
 
 * **Optimizer van de Plaats van AEM** Een nieuwe die module voor de clouddiensten wordt ontworpen, verbetert de Optimizer van de Plaats van AEM verkeersaanwinst, overeenkomst, en omzetting door gegeven-gedreven inzichten, verbeterend marketing prestaties en klantenervaring.
 
 * **AI Medewerker voor AEM Forms** AI Medewerker vereenvoudigt vormverwezenlijking en beheer, toelatend ontvankelijke vormen, gepersonaliseerde mededeling, en naadloze integratie met werkschema&#39;s. Het is momenteel beschikbaar als onderdeel van een programma voor vroege toegang.
 
-* **Adobe van het 0} Beheer en van het Merk de Overerving benadrukt het belang om AI-Gegenereerde inhoud te verzekeren voldoet aan merknormen, veilig voor commercieel gebruik is, en voldoet aan wettelijke en privacyvereisten.** Gebruikers kunnen AI trainen om deze uit te lijnen met hun merktoon en richtlijnen.
+* **Adobe van het 0&rbrace; Beheer en van het Merk de Overerving benadrukt het belang om AI-Gegenereerde inhoud te verzekeren voldoet aan merknormen, veilig voor commercieel gebruik is, en voldoet aan wettelijke en privacyvereisten.** Gebruikers kunnen AI trainen om deze uit te lijnen met hun merktoon en richtlijnen.
