@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: e1d87cd15d45ea0c9ea94bfe8063e7a5ace97214
+source-git-commit: cfc7b54ae4360779ca2c41f88fc08089bae99165
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '89'
 ht-degree: 2%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 2%
 # Dieptediven {#deep-dives-recordings}
 
 + [Overzicht](overview.md)
-+ Diepte dia&#39;s in Marketo {#deep-dives-marketo}
++ Diep in Marketo {#deep-dives-marketo}
    + [Admin Console-migratie](admin-console.md)
    + [API&#39;s](api.md)
    + [Campagne automatiseren en stroomlijnen met de Marketo API](campaign-operations.md)
@@ -36,5 +36,6 @@ ht-degree: 2%
    + [Leverbaarheid van e-mail maximaliseren](maximize-email-deliverability.md)
    + [Maximaliseer uw exemplaar met een klein team](small-team-instance.md)
    + [Opmerken van complexe processen in het activiteitenlog](activity-log.md)
+   + [Salesforce-achtergrondsynchrone upgrade en gebruiksbewaking](salesforce-background-sync.md)
    + [Wereldwijde marketing ontgrendelen](global-marketing.md)
    + [Webhaken gebruiken om gegevens over te dragen](webhooks.md)
