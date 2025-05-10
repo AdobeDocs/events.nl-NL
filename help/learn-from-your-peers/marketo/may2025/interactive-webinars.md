@@ -9,13 +9,13 @@ doc-type: Event
 duration: 2559
 last-substantial-update: 2025-05-08T00:00:00Z
 jira: KT-18062
-source-git-commit: a12db1c83c836f71c5b0dfe8649596eaf7b90065
+exl-id: 896d90d0-5db1-4c10-88ea-88562929c31d
+source-git-commit: 9ea63767cb9164dba3568b7b0985493dd47a2fbb
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '264'
 ht-degree: 0%
 
 ---
-
 
 # Het revolutioneren van je webinaire ervaring: ontdek de impact van interactieve webinars
 
@@ -34,3 +34,10 @@ Adobe Marketo Engage Champion Maria Cruz heeft gebruik gemaakt van interactieve 
 * **Geautomatiseerde Verwerken sparen Tijd** Overgangen aan interactieve webinars staat voor automatisering van processen zoals lood toe verpletterend, verkoopalarm, en follow-ups, verminderend handinspanning en bespoedigende werkschema&#39;s.
 
 * **bouwt Herhaalbare Playbooks** Creërend een herhaalbare playbook die op inzichten en lessen van webinars wordt gebaseerd kan inspanningen met vertrouwen schalen en toekomstige webinar strategieën verbeteren.
+
+## Aanvullende bronnen
+
+* Sluit me aan bij de [ besprekingsdraad ](https://nation.marketo.com/t5/product-blogs/on-demand-learn-from-your-peers-revolutionizing-your-webinar/ba-p/356260) op de Gemeenschap van de Natie van de Marketing, waar Q&amp;A&#39;s worden gepost.
+* [ leer meer over eigenschappen GenAI in Interactieve Webinars ](https://nation.marketo.com/t5/latest-product-innovations/discover-how-genai-can-elevate-your-upcoming-webinars/ba-p/355055)
+* [ verken Interactieve Grondbeginselen van Webinars ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview)
+* [ leren om Interactieve Woordenboeken (Opiniepeilingen, Q&amp;A, CTAs) te gebruiken ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/best-practices-for-interactive-webinars)

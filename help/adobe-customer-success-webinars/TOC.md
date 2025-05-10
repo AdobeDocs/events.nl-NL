@@ -2,9 +2,9 @@
 user-guide-title: Adobe Customer Success Webinars
 breadcrumb-title: Adobe Customer Success Webinars
 user-guide-description: Adobe Customer Success geleide webinars die zijn ontworpen om u te helpen uw investering in Adobe Experience Cloud te optimaliseren. Vergroot waardevolle inzichten om de waarde te maximaliseren en de acceptatie van Adobe-oplossingen te vergroten.
-source-git-commit: 26c495842dbfdc6db8b81fd61ed84a3e3593b396
+source-git-commit: 9ea63767cb9164dba3568b7b0985493dd47a2fbb
 workflow-type: tm+mt
-source-wordcount: '361'
+source-wordcount: '364'
 ht-degree: 0%
 
 ---
@@ -32,6 +32,7 @@ ht-degree: 0%
    + [Sequentiële logica volgen - Visual Framework](2025/mastering-sequential-logic.md)
    + [Sequentiële logica beheren - Stappen starten](2025/sequential-logic-start-stop.md)
    + [AEM-prestaties optimaliseren](2025/optimize-aem-performance.md)
+   + [Digitale communicatie aanpassen](2025/personalize-digital-communications.md)
    + [Win Executive Sponsorship voor AEP-projecten](2025/exec-sponsorship-aep-projects.md)
    + [Workfront Fusion Basics &amp; Best Practices](2025/adobe-workfront-fusion-best-practices.md)
    + [Smarter Marketing begint hier - Google en Adobe integreren](2025/smarter-marketing-starts-here-integrating-google-and-adobe.md)
