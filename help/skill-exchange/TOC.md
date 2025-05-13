@@ -3,10 +3,10 @@ user-guide-title: De Uitwisseling van de Vaardigheid
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Inzameling opnamen van Ervaar de Uitwisseling van de Vaardigheid
 event-series: The Skill Exchange
-source-git-commit: e3f251f2b3030f4d9fdf072aee05be25f06d89b4
+source-git-commit: 974518ee6e9955f64cfbbd1ac0b4d45a5bf1aebe
 workflow-type: tm+mt
-source-wordcount: '663'
-ht-degree: 4%
+source-wordcount: '659'
+ht-degree: 8%
 
 ---
 
@@ -84,7 +84,7 @@ ht-degree: 4%
       + [Tips en trucs voor Adobe Analytics](analytics/sept2021/tips-and-tricks.md)
       + [De gegevens analyseren](analytics/sept2021/analyze-data.md)
       + [Aan de slag](analytics/sept2021/getting-started.md)
-      + [Navigeren SPA Uitdagingen in de Bouwstijlen van de Test &amp; Analyse](analytics/sept2021/navigate-spa.md)
+      + [Het navigeren van de Uitdagingen van het KUUROORD in Test bouwt &amp; Analyse](analytics/sept2021/navigate-spa.md)
       + [Alles samenvoegen](analytics/sept2021/putting-all-together.md)
    + Juni 2021 {#jun2021}
       + [Tips en trucs voor Adobe Analytics](analytics/jun2021/tips-and-tricks.md)
@@ -97,13 +97,13 @@ ht-degree: 4%
    + Augustus 2024 {#aug2024}
       + [Toetsenbord openen](aem/aug2024/keynote.md)
       + [AEM Sites met Universal Editor](aem/aug2024/universal-editor.md)
-      + [Consistente ervaringen met AEM Aanpassing en Bestuur](aem/aug2024/customize-elements.md)
+      + [Consistente ervaringen met AEM-aanpassingen en -bestuur](aem/aug2024/customize-elements.md)
       + [Strategieën voor beheer van digitale middelen](aem/aug2024/spotlight-dam-strategies.md)
       + [Dynamic Media Classic Asset Management](aem/aug2024/dmc-asset-management.md)
       + [De toeleveringsketen voor inhoud verbeteren](aem/aug2024/spotlight-content-supply-chain.md)
-      + [Stramienkoppen en SPA Editor](aem/aug2024/headless-spa-editor.md)
+      + [Hoofdkop- en SPA-editor naderen](aem/aug2024/headless-spa-editor.md)
       + [Metagegevens, Inhoudsstructuur en Taxonomie](aem/aug2024/dam-performance.md)
-      + [Print Production](aem/aug2024/print-production.md)
+      + [Afdrukproductie](aem/aug2024/print-production.md)
    + Augustus 2023 {#aug2023}
       + Developer Track {#developer-track}
          + [AEM Developer Starter Kit](aem/aug2023/deploy-new-project.md)
@@ -119,12 +119,12 @@ ht-degree: 4%
       + Developer Track {#developer-track}
          + [Geniet van spotlicht voor makers](aem/aug2022/spotlight.md)
          + [AEM Champion Session Multi Tender](aem/aug2022/multi-tenancy.md)
-         + [AEM Core Components &amp; Style Systems](aem/aug2022/core-components.md)
-         + [Uitbreiding van AEM headless met App Builder](aem/aug2022/app-builder.md)
+         + [AEM Core-componenten en -stijlsystemen](aem/aug2022/core-components.md)
+         + [AEM Headless uitbreiden met App Builder](aem/aug2022/app-builder.md)
       + Marketer/webproducent {#marketer}
          + [De kracht van herbruikbaarheid](aem/aug2022/reusability.md)
          + [Zakelijke waarde verhogen met content personaliseren in AEM](aem/aug2022/personalization.md)
-         + [Optimaliseer uw AEM](aem/aug2022/implementation.md)
+         + [Maximaliseer uw AEM-implementatie](aem/aug2022/implementation.md)
 + Marketo {#marketo}
    + Augustus 2024 {#aug2024}
       + [Toetsenbord openen](marketo/aug2024/keynote.md)
@@ -154,10 +154,10 @@ ht-degree: 4%
    + Februari 2021 {#feb2021}
       + [Een bovenste rechthoek doordringt zich in aangepaste objecten en snelheid](marketo/feb2021/custom-objects.md)
       + [Adobe  [!DNL Marketo Engage]  segment Rockstar](marketo/feb2021/rockstar.md)
-      + [Het creëren van Programma&#39;s binnen Adobe  [!DNL Marketo Engage]](marketo/feb2021/create-programs.md)
+      + [Programma&#39;s maken in Adobe  [!DNL Marketo Engage]](marketo/feb2021/create-programs.md)
       + [De kracht van een slimme campagne](marketo/feb2021/power-of-smart-campaign.md)
       + [Rapporteren binnen  [!DNL Marketo Engage]](marketo/feb2021/reporting-within-marketo.md)
-      + [Ultieme tips en trucs voor uw Forms](marketo/feb2021/forms-tips-and-tricks.md)
+      + [Ultimate Tips en trucs voor je Forms](marketo/feb2021/forms-tips-and-tricks.md)
 + Workfront {#workfront}
    + Augustus 2024 {#aug2024}
       + [Toetsenbord openen](workfront/aug2024/keynote.md)
@@ -186,7 +186,6 @@ ht-degree: 4%
       + [Toekomst van Adobe Workfront Proof](workfront/apr2022/workfront-proof.md)
       + [Spotlight van nieuwe baanervaring](workfront/apr2022/grow-track-spotlight.md)
       + [Leer de ervaring van het Spotlight van de Makers van het Spoor](workfront/apr2022/learn-track-spotlight.md)
-      + [Datums en tijdlijnen voor projecten beheren](workfront/apr2022/projects-dates-timelines.md)
       + [Objecten begrijpen in Workfront](workfront/apr2022/understanding-objects.md)
 + Digitale bites {#digital-bites}
    + [Ontgrendel de operationele efficiency met een best-in-klasse Operationeel Model](digital-bites/operational-model.md)
