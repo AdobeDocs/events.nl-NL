@@ -3,10 +3,10 @@ user-guide-title: De Uitwisseling van de Vaardigheid
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Inzameling opnamen van Ervaar de Uitwisseling van de Vaardigheid
 event-series: The Skill Exchange
-source-git-commit: 974518ee6e9955f64cfbbd1ac0b4d45a5bf1aebe
+source-git-commit: 3df61129609f91640357ef9346f0e82fe0fff7b3
 workflow-type: tm+mt
-source-wordcount: '659'
-ht-degree: 8%
+source-wordcount: '663'
+ht-degree: 7%
 
 ---
 
@@ -186,6 +186,7 @@ ht-degree: 8%
       + [Toekomst van Adobe Workfront Proof](workfront/apr2022/workfront-proof.md)
       + [Spotlight van nieuwe baanervaring](workfront/apr2022/grow-track-spotlight.md)
       + [Leer de ervaring van het Spotlight van de Makers van het Spoor](workfront/apr2022/learn-track-spotlight.md)
+      + [Datums en tijdlijnen voor projecten beheren](workfront/apr2022/projects-dates-timelines.md)
       + [Objecten begrijpen in Workfront](workfront/apr2022/understanding-objects.md)
 + Digitale bites {#digital-bites}
    + [Ontgrendel de operationele efficiency met een best-in-klasse Operationeel Model](digital-bites/operational-model.md)
