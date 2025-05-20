@@ -2,9 +2,9 @@
 user-guide-title: '[!DNL Experience Makers Learn from your peers]'
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: Verzameling opnamen van  [!DNL Experience Makers Learn from your peers]
-source-git-commit: cfc7b54ae4360779ca2c41f88fc08089bae99165
+source-git-commit: 97016d0d62c2eefca2fd305fedc093c814e3bcc9
 workflow-type: tm+mt
-source-wordcount: '326'
+source-wordcount: '327'
 ht-degree: 10%
 
 ---
@@ -114,4 +114,4 @@ ht-degree: 10%
          + [Wat is het bestuur van Workfront?](workfront/2022/03/what-is-workfront-governance.md)
       + februari {#february}
          + [Werken met gebruikersbeheer](workfront/2022/02/understanding-user-management.md)
-+ [Leer hoe u een standout Adobe Champion-toepassing kunt indienen](./adobe-champion-application.md)
++ [Leer hoe u een Champion toepast en opvalt](./adobe-champion-application.md)
