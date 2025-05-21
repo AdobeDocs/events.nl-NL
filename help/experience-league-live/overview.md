@@ -8,9 +8,9 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 724a3fce46a1adc8bfd422a8ed52bd4f14faa82f
+source-git-commit: a5ee0817798a0acba48c48191128c5f0b913213d
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '193'
 ht-degree: 1%
 
 ---
@@ -34,6 +34,19 @@ Experience League LIVE is een live streaming show die wordt gemaakt door het Exp
               </a>
               <br/><em> met Shay O'Reilly, Jennifer Werkmeister, en Doug Moore </em>
               <br/><em> Mei 22, 2025 </em>
+            </div>
+        </td>
+    </tr>
+    <tr>
+        <td style="vertical-align: top;"><a href="episodes/exl-live-episode-47-2025-06-05.md">
+              <img alt="Experience League LIVE 22 mei" src="assets/WebBannerExLLive-June05-2025.png">
+            </a>
+            <div>
+              <a href="episodes/exl-live-episode-47-2025-06-05.md">
+                <strong> Gelijke Werkschema's voor Gepersonaliseerde Inhoud bij Schaal </strong>
+              </a>
+              <br/><em> met Amarnath Vannarath, Chris Ivory, en Rohan Bhatt </em>
+              <br/><em> Juni 05, 2025 </em>
             </div>
         </td>
     </tr>
@@ -101,5 +114,5 @@ Experience League LIVE is een live streaming show die wordt gemaakt door het Exp
 
 >[!TIP]
 >
->Voor extra methodes om te leren, controleer onze vrije [ cursussen ](https://experienceleague.adobe.com/nl#dashboard/learning) evenals individuele [ leerprogramma&#39;s ](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=nl-NL).
+>Voor extra methodes om te leren, controleer onze vrije [ cursussen ](https://experienceleague.adobe.com/#dashboard/learning) evenals individuele [ leerprogramma&#39;s ](https://experienceleague.adobe.com/docs/home-tutorials.html).
 
