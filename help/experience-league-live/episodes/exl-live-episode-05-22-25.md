@@ -8,9 +8,9 @@ event-cta-url-live: https://www.youtube.com/live/0ApnRRtZxeY
 event-start-time: 2025-05-22 09:00-8
 event-guests: Doug Moore, Shay O'Reilly, Jennifer Werkmeister
 exl-id: a0a3c7dd-e060-4be8-ac9a-02a3bcf12614
-source-git-commit: d4bc02599900c0daea2fca4f19c4c68bf52ec410
+source-git-commit: 3fb60f3db95b4e760287da7c538cce7f559e0181
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
@@ -28,6 +28,6 @@ In deze sessie leert u hoe u:
 
 * Ontdek nieuwe Adobe-gereedschappen, zoals miniaturen van elementen en gedetailleerde weergaven, om inzichten in de inhoud te visualiseren en te verwerken.
 
-[![ ExL LIVE 22 Mei 2025 ](assets/May-22-2025-WebBanner.jpg) ](https://engage.adobe.com/ExpLeagueLive-250522.html)
+[![ ExL LIVE 22 Mei 2025 ](assets/ExL-LIVE-May-28-2025-WebBanner.jpg) ](https://www.youtube.com/live/FSlE6HeCWyQ)
 
-[**Register nu!** ](https://engage.adobe.com/ExpLeagueLive-250522.html)
+**klik het beeld hierboven om een herinnering van YouTube te plaatsen!**

@@ -8,10 +8,10 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: a5ee0817798a0acba48c48191128c5f0b913213d
+source-git-commit: 3fb60f3db95b4e760287da7c538cce7f559e0181
 workflow-type: tm+mt
-source-wordcount: '193'
-ht-degree: 1%
+source-wordcount: '214'
+ht-degree: 0%
 
 ---
 
@@ -26,20 +26,18 @@ Experience League LIVE is een live streaming show die wordt gemaakt door het Exp
 <table>
     <tr>
         <td style="vertical-align: top;"><a href="episodes/exl-live-episode-05-22-25.md">
-              <img alt="Experience League LIVE 22 mei" src="episodes/assets/May-22-2025-WebBanner.jpg">
+              <img alt="Experience League LIVE 28 mei" src="episodes/assets/ExL-LIVE-May-28-2025-WebBanner.jpg">
             </a>
             <div>
               <a href="episodes/exl-live-episode-05-22-25.md">
                 <strong> Content Analytics: Optimize prestaties met AI inzichten </strong>
               </a>
               <br/><em> met Shay O'Reilly, Jennifer Werkmeister, en Doug Moore </em>
-              <br/><em> Mei 22, 2025 </em>
+              <br/><em> Mei 28, 2025 </em>
             </div>
         </td>
-    </tr>
-    <tr>
         <td style="vertical-align: top;"><a href="episodes/exl-live-episode-47-2025-06-05.md">
-              <img alt="Experience League LIVE 22 mei" src="assets/WebBannerExLLive-June05-2025.png">
+              <img alt="Experience League LIVE 5 juni" src="assets/WebBannerExLLive-June05-2025.png">
             </a>
             <div>
               <a href="episodes/exl-live-episode-47-2025-06-05.md">
@@ -49,7 +47,19 @@ Experience League LIVE is een live streaming show die wordt gemaakt door het Exp
               <br/><em> Juni 05, 2025 </em>
             </div>
         </td>
+        <td style="vertical-align: top;"><a href="episodes/exl-live-episode-06-18-25.md">
+              <img alt="Experience League LIVE 18 juni" src="episodes/assets/exl-live-web-banner-20250618.png">
+            </a>
+            <div>
+              <a href="episodes/exl-live-episode-06-18-25.md">
+                <strong> HoofdFrequentie het Capping &amp; Prioritization van het Conflict </strong>
+              </a>
+              <br/><em> met Sandra Hausmann, Ariel Sultan, Aaron Forrest, en Keara Fausett </em>
+              <br/><em> 18 Juni, 2025 </em>
+            </div>
+        </td>
     </tr>
+
 </table>
 
 </div>
@@ -114,5 +124,5 @@ Experience League LIVE is een live streaming show die wordt gemaakt door het Exp
 
 >[!TIP]
 >
->Voor extra methodes om te leren, controleer onze vrije [ cursussen ](https://experienceleague.adobe.com/nl#dashboard/learning) evenals individuele [ leerprogramma&#39;s ](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=nl-NL).
+>Voor extra methodes om te leren, controleer onze vrije [ cursussen ](https://experienceleague.adobe.com/#dashboard/learning) evenals individuele [ leerprogramma&#39;s ](https://experienceleague.adobe.com/docs/home-tutorials.html).
 
