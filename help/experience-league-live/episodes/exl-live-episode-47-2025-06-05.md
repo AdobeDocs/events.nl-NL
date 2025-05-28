@@ -8,9 +8,9 @@ event-cta-url-live: https://youtube.com/live/tyXesNYv-eM
 event-start-time: 2025-06-05 08:30-7
 event-guests: Sandra Hausmann, Chris Ivory, Amarnath Vannarath, Rohan Bhatt
 exl-id: 0f8157a2-b0d1-4d46-a682-0268dadb65c5
-source-git-commit: 6ae06b3b8667f78d29b41cd5b3939bdeb82b646d
+source-git-commit: 3dd5c359900bf76fa45f0a774d778eed171e20d9
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Of uw teams inhoud direct in AJO ontwerpen, brainstorming met GenStudio for Perf
 
 Mis deze kans niet om uw marketingstrategieën te transformeren en uw publiek te betrekken zoals nooit tevoren.
 
-[ plaats nu een herinnering op YouTube ](https://youtube.com/live/tyXesNYv-eM) en deel van de revolutie in klantenovereenkomst uitmaken!
+[ Register nu ](https://engage.adobe.com/ExpLeagueLive-250605.html) en deel van de revolutie in klantenovereenkomst uitmaken!
 
 ![ webbanner ](/help/experience-league-live/assets/WebBannerExLLive-June05-2025.png)
 
