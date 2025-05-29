@@ -37,11 +37,11 @@ Mis deze kans niet om uw workflow te verbeteren en optimaal te profiteren van uw
 
 ## Toetsen
 
-* **Gecentraliseerd beheer van 0} Admin Console voor de gebruikers van Marketo, beheerders, en identiteiten, die met andere producten van Adobe worden gericht.**
+* **Gecentraliseerd beheer van 0&rbrace; Admin Console voor de gebruikers van Marketo, beheerders, en identiteiten, die met andere producten van Adobe worden gericht.**
 
 * **Rollen in Admin Console**
 
-   * **Volledige toegang van Admin van het 0} Systeem {**
+   * **Volledige toegang van Admin van het 0&rbrace; Systeem &lbrace;**
    * **Admin van het Product** beheert specifieke producten
    * **Admin van het Profiel** beheert specifieke profielen
    * **Admin van de Steun** legt steunkaartjes voor

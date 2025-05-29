@@ -27,7 +27,7 @@ In de transcriptie wordt een laatste interactieve webinarsessie van het jaar geh
 * **Webinar Optimalisering** Gebruik de ingebouwde bevestigingseigenschappen van het webinar platform om kalenderuitnodigingen en herinneringen te verzenden om aanwezigheid te verhogen.
 * {de Updates van het 0} Programma voor de Datums van de Update van het auteursrecht van het Nieuwjaar **gebruikend tokens en handhaaft programmamalplaatjes voor scalability en efficiency.**
 * **Onderbenutte de Eigenschappen van Marketo** gebruiken eigenschappen zoals willekeurige bemonstering, interactieve webinars, en dynamisch praatje om marketing inspanningen te verbeteren.
-* **Van de Aanbevolen Praktijken van de Marketing van 0} E-mail { voordat het verzenden van e-mail, vooral met specifieke IPs, en vermijd het gebruiken van Marketo voor koude e-mailmarketing om aan wettelijke normen te voldoen.**
+* **Van de Aanbevolen Praktijken van de Marketing van 0&rbrace; E-mail &lbrace; voordat het verzenden van e-mail, vooral met specifieke IPs, en vermijd het gebruiken van Marketo voor koude e-mailmarketing om aan wettelijke normen te voldoen.**
 * **het Beheer van het Gegevensbestand** voert een programma van het gegevensbeheer uit om schone gegevens te handhaven, gebieden te normaliseren, en effectief duplicaten te beheren.
 * **Beperk de Toestemmingen van de Gebruiker** gebruikerstoestemmingen om ongeoorloofde massa e-mail te verhinderen verzenden en slimme campagnemarges als veiligheidsmaatregel te plaatsen.
 * **Marketo-Salesforce Synchronisatie** vermijd het geven van de toegang van het de synchronisatiegebruiker van Marketo in Salesforce om gegevensoverbelasting te verhinderen en efficiënte synchronisatie te verzekeren.
