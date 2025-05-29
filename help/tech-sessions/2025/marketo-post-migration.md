@@ -1,7 +1,7 @@
 ---
 title: Marketo-migratie naar de Adobe Admin Console - (na migratie)
 description: Marketo-gebruikersbeheer centraliseren met Adobe Admin Console. Rollen (Systeem, Product, Profiel, Ondersteuningsbeheerders) en identiteitstypen beheren (Adobe, Enterprise, Federated ID). Stel SSL in voor Single Sign-On, behandel gebruikersbeheer en vernieuw certificaten om de drie jaar. Houd rekening met veel voorkomende problemen, zoals aanmeldingsproblemen en het vertrouwen van de gebruikersmap voor een uniforme ervaring. Breek grote gebruikersomzettingen in partijen van 500. Open de opname van de sessie op de Adobe Experience League-pagina.
-solution: Marketo
+solution: Marketo Engage
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -9,7 +9,7 @@ duration: 3194
 last-substantial-update: 2025-03-14T00:00:00Z
 jira: KT-17534
 exl-id: d9ccabf4-5eff-4e07-a7ff-6509bb6ff3c8
-source-git-commit: 848fa8fee05b315361781059eabb3b19904c78c2
+source-git-commit: 3f2a8375249858c4905d9058570dffcd4dcd8622
 workflow-type: tm+mt
 source-wordcount: '413'
 ht-degree: 0%
@@ -37,11 +37,11 @@ Mis deze kans niet om uw workflow te verbeteren en optimaal te profiteren van uw
 
 ## Toetsen
 
-* **Gecentraliseerd beheer van 0&rbrace; Admin Console voor de gebruikers van Marketo, beheerders, en identiteiten, die met andere producten van Adobe worden gericht.**
+* **Gecentraliseerd beheer van 0} Admin Console voor de gebruikers van Marketo, beheerders, en identiteiten, die met andere producten van Adobe worden gericht.**
 
 * **Rollen in Admin Console**
 
-   * **Volledige toegang van Admin van het 0&rbrace; Systeem &lbrace;**
+   * **Volledige toegang van Admin van het 0} Systeem {**
    * **Admin van het Product** beheert specifieke producten
    * **Admin van het Profiel** beheert specifieke profielen
    * **Admin van de Steun** legt steunkaartjes voor
