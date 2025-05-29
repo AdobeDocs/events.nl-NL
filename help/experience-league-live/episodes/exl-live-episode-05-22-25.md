@@ -36,4 +36,4 @@ Ga verder met de discussie over de [ bespreking van het Forum van de Gemeenschap
 
 ## Aanvullende bronnen
 
-[ de video&#39;s van Content Analytics ](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/content-analytics/introduction-to-content-analytics)
+[ de video&#39;s van Content Analytics ](https://experienceleague.adobe.com/nl/docs/customer-journey-analytics-learn/tutorials/content-analytics/introduction-to-content-analytics)
