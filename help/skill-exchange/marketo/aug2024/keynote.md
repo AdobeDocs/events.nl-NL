@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Toetsenbord openen met Raj Patel
 
->[!VIDEO](https://video.tv.adobe.com/v/3432957/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453061/?learn=on&captions=dut)

@@ -22,7 +22,7 @@ ht-degree: 0%
 Dit is een opleiding op de migratie voor [ Adobe Marketo Engage abonnementen om met het Systeem van Adobe te integreren Identity Management ](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). De inhoud is het meest geschikt voor Marketo Engage-beheerders. Met deze training krijgt u de essentiële kennis om uw organisatie op interfunctionele wijze voor te bereiden en interne gebruikers voor te lichten over deze aanstaande verandering.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3430920/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432368/?learn=on&captions=dut)
 
 ## Overzicht
 

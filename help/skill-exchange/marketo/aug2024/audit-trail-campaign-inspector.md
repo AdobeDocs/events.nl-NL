@@ -26,4 +26,4 @@ In deze sessie leert u:,
 * Aanbevolen werkwijzen voor het gebruik van het audittrail, met inbegrip van wat te controleren, hoe vaak en waarom het van belang is, samen met de extra voordelen van de meest recente release van juni 2024.
 * Hoe te om de Inspecteur van de Campagne te gebruiken om Slimme Campagnes regelmatig te herzien, met inbegrip van wat te zoeken (volume, partij tegenover trekker, hoge latentie trekkercampagnes die uw instantie zouden kunnen vertragen, enz.).
 
->[!VIDEO](https://video.tv.adobe.com/v/3432944/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456957/?learn=on&captions=dut)

@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Maak kennis met de krachtige integratie tussen Adobe AEP/Real-Time Customer Data Platforms (RTCDP) en Marketo. Ontdek hoe deze twee platforms naadloos samenwerken om uw communicatie inspanningen te verbeteren, processen te stroomlijnen, en persoonlijke klantenervaringen te drijven.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433222/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433674/?learn=on&captions=dut)
