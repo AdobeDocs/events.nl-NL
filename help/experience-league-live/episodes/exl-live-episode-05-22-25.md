@@ -8,26 +8,32 @@ event-cta-url-live: https://www.youtube.com/live/0ApnRRtZxeY
 event-start-time: 2025-05-22 09:00-8
 event-guests: Doug Moore, Shay O'Reilly, Jennifer Werkmeister
 exl-id: a0a3c7dd-e060-4be8-ac9a-02a3bcf12614
-source-git-commit: 3fb60f3db95b4e760287da7c538cce7f559e0181
+source-git-commit: 2e75e6b36e806ef9958dc76f7b832f15b69d8a02
 workflow-type: tm+mt
-source-wordcount: '183'
-ht-degree: 0%
+source-wordcount: '175'
+ht-degree: 1%
 
 ---
 
 # Content Analytics - Prestaties optimaliseren met AI-inzichten
 
-Sluit u aan bij ons voor een inzichtelijk webinar van een uur waarin we in de transformatieve wereld van content analytics duiken, aangedreven door Adobe, geavanceerde AI-technologie. In deze sessie wordt uitgelegd hoe inhoudanalytics de manier waarop u de prestaties van inhoud meet, begrijpt en optimaliseert, kan veranderen.
+Aanvankelijk op 28 mei 2025 bespraken onze experts de transformatieve wereld van content analytics, aangedreven door Adobe&#39;s geavanceerde AI-technologie. Content Analytics verandert de manier waarop u de prestaties van inhoud meet, begrijpt en optimaliseert.
 
-In deze sessie leert u hoe u:
-* Begrijp hoe AI activa (beelden) en ervaringen (tekst, CTAs) analyseert om te wijzen wat met uw publiek resoneert.
+In deze sessie hebben we het volgende onderzocht:
 
-* Identificeer onderbenutte activa, verminder inhoudsvermoeidheid, en optimaliseer begrotingen door inhoud met KPIs zoals omzettingen en downloads aan te sluiten.
-
+* Hoe AI elementen (afbeeldingen) en ervaringen (tekst, CTA&#39;s) analyseert om te bepalen wat er met uw publiek weerklinkt.
+* Hoe te om onderbenutte activa te identificeren, inhoudsmoeheid te verminderen, en begrotingen te optimaliseren door inhoud met KPIs zoals omzettingen en downloads aan te sluiten.
 * Ontdek hoe Content Analytics publieksvoorkeuren onthult om ervaringen voor gebruikers op maat te maken.
+* De nieuwe Adobe-gereedschappen, zoals miniaturen van elementen en gedetailleerde weergaven, zijn bestudeerd om inzichten in de inhoud te visualiseren en te verwerken.
 
-* Ontdek nieuwe Adobe-gereedschappen, zoals miniaturen van elementen en gedetailleerde weergaven, om inzichten in de inhoud te visualiseren en te verwerken.
+>[!VIDEO](https://video.tv.adobe.com/v/3460420/?quality=12&learn=on)
 
-[![ ExL LIVE 22 Mei 2025 ](assets/ExL-LIVE-May-28-2025-WebBanner.jpg) ](https://www.youtube.com/live/FSlE6HeCWyQ)
+>[!BEGINSHADEBOX  &quot;Heb vragen?&quot;]
 
-**klik het beeld hierboven om een herinnering van YouTube te plaatsen!**
+Ga verder met de discussie over de [ bespreking van het Forum van de Gemeenschap van Experience League ](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/adobe-experience-league-live-content-analytics-optimize/m-p/756741#M4712).
+
+>[!ENDSHADEBOX]
+
+## Aanvullende bronnen
+
+[ de video&#39;s van Content Analytics ](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/content-analytics/introduction-to-content-analytics)
