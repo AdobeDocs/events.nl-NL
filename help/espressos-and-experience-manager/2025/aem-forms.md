@@ -1,6 +1,6 @@
 ---
-title: AEM Forms
-description: 'AEM Forms verbetert het prestatiebeheer door operationele efficiëntie en buitengewone gebruikerservaring te bieden. Belangrijke voordelen zijn: hogere snelheden voor het invullen van formulieren, conversiesnelheden, verbeterde gebruikerservaring en minder fouten bij de klant. De mogelijkheden omvatten omnichannel vormen, geautomatiseerde werkschema''s, interactieve klantenmededelingen, en integratie met Adobe Experience Cloud, die door AI voor verbeterde verpersoonlijking worden gesteund. Tot de zakelijke gevolgen behoren een 2,5 x hogere conversiekoers voor online inschrijvingen, 85% snellere bewerking van formulieren en een 50% afname van fouten bij klanten. Eigen cloudprestaties zorgen ervoor dat formulieren actueel, schaalbaar, veilig en beschikbaar zijn. Innovaties omvatten op documenten gebaseerde authoring, converationele formulieren en ondersteuning voor universele editors. AI helpt formulieren te maken, tests te automatiseren en de efficiëntie te verbeteren. Heb toegang tot vroege innovaties door Adobe te contacteren. De zittingen van de topconferentie hebben betrekking op leiderschap, hoogste innovaties, en gevalsstudies. De middelen van de toegang, registreren voor de top, en verbinden met de managers van de oplossingsrekening voor verdere hulp.'
+title: Espressos & Experience Manager - AEM Forms
+description: AEM Forms verbetert de prestaties met omnichannel formulieren, personalisatie met AI-voeding en eigen schaalbaarheid in de cloud, waardoor 2,5x conversies, 85% snellere bewerkingen en 50% minder fouten worden veroorzaakt.
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -8,9 +8,9 @@ duration: 3297
 last-substantial-update: 2025-03-14T00:00:00Z
 jira: KT-17535
 exl-id: cb810398-5e62-4128-8338-71ea1bccc6f9
-source-git-commit: 848fa8fee05b315361781059eabb3b19904c78c2
+source-git-commit: a6dc33c7c991f949fd72539525e64af57520778f
 workflow-type: tm+mt
-source-wordcount: '453'
+source-wordcount: '344'
 ht-degree: 0%
 
 ---
