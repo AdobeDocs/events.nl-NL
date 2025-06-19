@@ -22,7 +22,7 @@ Het webinar waarin de meest recente Workfront-functieverbeteringen in de release
 * [ Deck PDF van de Schuifregelaar ](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/040325+-+25.4+Second+Quarter+2025+Release+Webinar.pdf)
 * [ Communautaire post van Experience League ](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-adobe-workfront-second-quarter-2025-release/td-p/746716)
 
-Voor meer informatie over de versieeigenschappen, bezoek de [ Tweede Kwartaal 2025 versie ](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-25-q2/25-q2-release-overview) overzichtspagina.
+Voor meer informatie over de versieeigenschappen, bezoek de [ Tweede Kwartaal 2025 versie ](https://experienceleague.adobe.com/nl/docs/workfront/using/product-announcements/product-releases/release-25-q2/25-q2-release-overview) overzichtspagina.
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3463798/?learn=on&enablevpops)
