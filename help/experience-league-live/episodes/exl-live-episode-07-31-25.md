@@ -35,4 +35,4 @@ Sandra Hausmann, Senior Technical Marketing Engineer, Digital Experience
 
 De registratie is binnenkort beschikbaar. Ondertussen, referentie de show op [ YouTube ](https://www.youtube.com/live/VUysRFpD40Q){target="_blank"} en uitgezocht om op de hoogte gebracht te worden.
 
-](/help/experience-league-live/episodes/assets/WebBanner-31July2025.png) ](https://www.youtube.com/live/VUysRFpD40Q) Banner van 0} Web[![
+![&#128279;](/help/experience-league-live/episodes/assets/WebBanner-31July2025.png) [&#128279;](https://www.youtube.com/live/VUysRFpD40Q) Banner van 0&rbrace; Web
