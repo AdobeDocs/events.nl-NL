@@ -2,9 +2,9 @@
 user-guide-title: Adobe Customer Success Webinars
 breadcrumb-title: Adobe Customer Success Webinars
 user-guide-description: Adobe Customer Success geleide webinars die zijn ontworpen om u te helpen uw investering in Adobe Experience Cloud te optimaliseren. Vergroot waardevolle inzichten om de waarde te maximaliseren en de acceptatie van Adobe-oplossingen te vergroten.
-source-git-commit: a6dc33c7c991f949fd72539525e64af57520778f
+source-git-commit: 062259db0862dc5fb1624932b40a9a6f43d9f0d0
 workflow-type: tm+mt
-source-wordcount: '410'
+source-wordcount: '420'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,9 @@ ht-degree: 0%
 
 + [Adobe Customer Success Webinars](overview.md)
 + 2025 {#2025}
+   + [Workfront en JIRA](2025/workfront-and-jira.md)
+   + [B2B en B2B2C Commerce transformeren](2025/transforming-b2b-commerce.md)
+   + [Journey Optimizer Essentials](2025/journey-optimizer-essentials.md)
    + [Automatisering van AI-stations in Workfront](2025/unlock-efficiency-ai-drive-automation-workfront.md)
    + [AI - Buiten de basisbeginselen](2025/ai-beyond-basics.md)
    + [Digital Experience Optimization met AI Insights](2025/accelerating-digital-experience-optimization.md)
