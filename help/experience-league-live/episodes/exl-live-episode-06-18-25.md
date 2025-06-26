@@ -30,6 +30,6 @@ Sluit me aan bij ons voor de [ Gemeenschap van Adobe Journey Optimizer Vraag me 
 
 Bekijk deze zelfstudies:
 
-* [ identificeer potentiële conflicten ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/conflict-management/identify-potential-conflicts)
-* [ wijs prioritaire scores aan binnenkomende acties toe ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/conflict-management/assign-priority-score)
-* *[ de frequentietoewijzing en rangschikking van de Reis ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/conflict-management/journey-frequency-capping-and-prioritization)
+* [ identificeer potentiële conflicten ](https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/conflict-management/identify-potential-conflicts)
+* [ wijs prioritaire scores aan binnenkomende acties toe ](https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/conflict-management/assign-priority-score)
+* *[ de frequentietoewijzing en rangschikking van de Reis ](https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/conflict-management/journey-frequency-capping-and-prioritization)
