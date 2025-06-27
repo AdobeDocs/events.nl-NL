@@ -4,9 +4,9 @@ description: Bekijk een kort overzicht van de nieuwste functies op Adobe Experie
 user-guide-breadcrumb: AEM Release Events
 exl-id: 5406adc9-173b-461b-bd91-59913d961aa0
 duration: 91
-source-git-commit: a6dc33c7c991f949fd72539525e64af57520778f
+source-git-commit: 51dfbfe124b46f609fb0349dbcfa2add442a026d
 workflow-type: tm+mt
-source-wordcount: '985'
+source-wordcount: '1175'
 ht-degree: 0%
 
 ---
@@ -20,17 +20,67 @@ Bekijk een kort overzicht van de nieuwste functies op Adobe Experience Manager a
 <!-- CARDS
 {cta = Watch}
 
+* 2025/2025-5-0.md
+* 2025/2025-4-0.md
 * 2025/2025-3-0.md
+* 2025/2025-2-0.md
+* 2025/2025-1-0.md
 
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="2025.5.0 AEM Release Overview Video">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="2025/2025-5-0.md" title="2025.5.0 AEM Release-video" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464307/?format=jpeg&nocache=1751033557118" alt="2025.5.0 AEM Release-video"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="2025/2025-5-0.md" target="_blank" rel="referrer" title="2025.5.0 AEM Release-video"> 2025.5.0 het Overzicht van de Versie van AEM Video </a>
+                    </p>
+                    <p class="is-size-6">Deze release voegt AEM Sites-, Forms- en Assets-updates toe, waaronder OpenAPI-levering, Java 21-ondersteuning, Smart Tags, Figma-connector en Dynamic Media voor AJO B2C.</p>
+                </div>
+                <a href="2025/2025-5-0.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Controle </span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="2025.04.0 AEM Release Overview Video">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="2025/2025-4-0.md" title="2025.04.0 AEM Release-video" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463991/?format=jpeg&nocache=1751033557127" alt="2025.04.0 AEM Release-video"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="2025/2025-4-0.md" target="_blank" rel="referrer" title="2025.04.0 AEM Release-video"> 2025.04.0 het Overzicht van de Versie van AEM Video </a>
+                    </p>
+                    <p class="is-size-6">Deze release biedt updates voor AEM Sites, Forms, Assets en Cloud Foundation, waaronder nieuwe gebruikersinterface's, Edge Delivery-ondersteuning en OpenAPI-verificatie.</p>
+                </div>
+                <a href="2025/2025-4-0.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Controle </span>
+                </a>
+            </div>
+        </div>
+    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="2025.3.0 AEM Release Overview Video">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/2025-3-0.md" title="2025.3.0 AEM Release-video" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463871/?format=jpeg&nocache=1749737199687&captions=dut" alt="2025.3.0 AEM Release-video"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463859/?format=jpeg&nocache=1751033557157" alt="2025.3.0 AEM Release-video"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -43,6 +93,52 @@ Bekijk een kort overzicht van de nieuwste functies op Adobe Experience Manager a
                     <p class="is-size-6">Deze release voegt AEM Sites-functies toe, zoals Variaties genereren, Crosswalk-ondersteuning in Universal Editor en Nieuwe productlancering in Sites Optimizer.</p>
                 </div>
                 <a href="2025/2025-3-0.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Controle </span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="2025.2.0 AEM Release Overview Video">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="2025/2025-2-0.md" title="2025.2.0 AEM Release-video" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458080/?format=jpeg&nocache=1751033557143" alt="2025.2.0 AEM Release-video"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="2025/2025-2-0.md" target="_blank" rel="referrer" title="2025.2.0 AEM Release-video"> 2025.2.0 het Overzicht van de Versie van AEM Video </a>
+                    </p>
+                    <p class="is-size-6">Ontdek nieuwe AEM-functies voor het genereren van intelligente inhoud, snellere activering en robuuste ondersteuning voor de cloud, waaronder automatische labeling, bewerking van externe middelen en 99,99% SLA.</p>
+                </div>
+                <a href="2025/2025-2-0.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Controle </span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="2025.01.0 AEM Release Overview Video">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="2025/2025-1-0.md" title="2025.01.0 AEM Release-video" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456072/?format=jpeg&nocache=1751033557182" alt="2025.01.0 AEM Release-video"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="2025/2025-1-0.md" target="_blank" rel="referrer" title="2025.01.0 AEM Release-video"> 2025.01.0 het Overzicht van de Versie van AEM Video </a>
+                    </p>
+                    <p class="is-size-6">In de Adobe Experience Manager 2025.1-video worden verbeteringen in inhoudsfragmenten, formulieren en elementen gemarkeerd, zoals dynamische media, samenwerkingsgereedschappen en Java 21-ondersteuning.</p>
+                </div>
+                <a href="2025/2025-1-0.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Controle </span>
                 </a>
             </div>
@@ -78,7 +174,7 @@ Bekijk een kort overzicht van de nieuwste functies op Adobe Experience Manager a
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/2025-2-0.md" title="2025.2.0 AEM Release-video" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458080/?format=jpeg&nocache=1749737200003" alt="2025.2.0 AEM Release-video"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458080/?format=jpeg&nocache=1751033557546" alt="2025.2.0 AEM Release-video"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -101,7 +197,7 @@ Bekijk een kort overzicht van de nieuwste functies op Adobe Experience Manager a
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/2025-1-0.md" title="2025.01.0 AEM Release-video" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456080/?format=jpeg&nocache=1749737199988&captions=dut" alt="2025.01.0 AEM Release-video"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456072/?format=jpeg&nocache=1751033557530" alt="2025.01.0 AEM Release-video"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -124,7 +220,7 @@ Bekijk een kort overzicht van de nieuwste functies op Adobe Experience Manager a
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/2024-11-0.md" title="2024.11.0 AEM Release-video" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440926/?format=jpeg&nocache=1749737200016&captions=dut" alt="2024.11.0 AEM Release-video"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440920/?format=jpeg&nocache=1751033557575" alt="2024.11.0 AEM Release-video"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -147,7 +243,7 @@ Bekijk een kort overzicht van de nieuwste functies op Adobe Experience Manager a
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/2024-10-0.md" title="2024.10.0 AEM Release-video" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440501/?format=jpeg&nocache=1749737200138" alt="2024.10.0 AEM Release-video"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440501/?format=jpeg&nocache=1751033557588" alt="2024.10.0 AEM Release-video"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -170,7 +266,7 @@ Bekijk een kort overzicht van de nieuwste functies op Adobe Experience Manager a
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/2024-9-0.md" title="2024.9.0 AEM Release-video" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434847/?format=jpeg&nocache=1749737200031" alt="2024.9.0 AEM Release-video"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434847/?format=jpeg&nocache=1751033557561" alt="2024.9.0 AEM Release-video"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -193,7 +289,7 @@ Bekijk een kort overzicht van de nieuwste functies op Adobe Experience Manager a
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/2024-8-0.md" title="2024.8.0 AEM Release-video" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433381/?format=jpeg&nocache=1749737200073" alt="2024.8.0 AEM Release-video"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433381/?format=jpeg&nocache=1751033557621" alt="2024.8.0 AEM Release-video"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -216,7 +312,7 @@ Bekijk een kort overzicht van de nieuwste functies op Adobe Experience Manager a
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/2024-7-0.md" title="2024.7.0 AEM Release-video" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432539/?format=jpeg&nocache=1749737200060&captions=dut" alt="2024.7.0 AEM Release-video"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3431707/?format=jpeg&nocache=1751033557607" alt="2024.7.0 AEM Release-video"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -239,7 +335,7 @@ Bekijk een kort overzicht van de nieuwste functies op Adobe Experience Manager a
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/2024-6-0.md" title="2024.6.0 AEM-release - overzichtsvideo" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430779/?format=jpeg&nocache=1749737200086" alt="2024.6.0 AEM-release - overzichtsvideo"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430779/?format=jpeg&nocache=1751033557634" alt="2024.6.0 AEM-release - overzichtsvideo"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -262,7 +358,7 @@ Bekijk een kort overzicht van de nieuwste functies op Adobe Experience Manager a
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/2024-5-0.md" title="2024.5.0 AEM Release-video" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3448068/?format=jpeg&nocache=1749737200044&captions=dut" alt="2024.5.0 AEM Release-video"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429503/?format=jpeg&nocache=1751033557683" alt="2024.5.0 AEM Release-video"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -285,7 +381,7 @@ Bekijk een kort overzicht van de nieuwste functies op Adobe Experience Manager a
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/2024-4-0.md" title="2024.4.0 AEM Release-video" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3446313/?format=jpeg&nocache=1749737200112&captions=dut" alt="2024.4.0 AEM Release-video"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429111/?format=jpeg&nocache=1751033557649" alt="2024.4.0 AEM Release-video"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -308,7 +404,7 @@ Bekijk een kort overzicht van de nieuwste functies op Adobe Experience Manager a
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/2024-3-0.md" title="2024.3.0 AEM Release-video" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3450613/?format=jpeg&nocache=1749737200127&captions=dut" alt="2024.3.0 AEM Release-video"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428344/?format=jpeg&nocache=1751033557714" alt="2024.3.0 AEM Release-video"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -331,7 +427,7 @@ Bekijk een kort overzicht van de nieuwste functies op Adobe Experience Manager a
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/2024-1-0.md" title="2024.1.0 AEM Release-video" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3448935/?format=jpeg&nocache=1749737200099&captions=dut" alt="2024.1.0 AEM Release-video"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427041/?format=jpeg&nocache=1751033557666" alt="2024.1.0 AEM Release-video"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

@@ -1,11 +1,11 @@
 ---
 user-guide-title: Adobe Experience Manager GEMS-gebeurtenissen
 user-guide-description: Meer informatie over AEM Gems, een reeks technische diepteduiken van Adobe Experience Manager-experts.
-breadcrumb-title: GEMs-gebeurtenissen AEM
-source-git-commit: 1cfa9cdb0e973e6d088b1faeaa63539b0a7fba36
+breadcrumb-title: AEM GEM's-gebeurtenissen
+source-git-commit: 51dfbfe124b46f609fb0349dbcfa2add442a026d
 workflow-type: tm+mt
-source-wordcount: '759'
-ht-degree: 0%
+source-wordcount: '770'
+ht-degree: 1%
 
 ---
 
@@ -14,7 +14,8 @@ ht-degree: 0%
 
 + [Overzicht](overview.md)
 + 2025 {#gems2025}
-   + [Aan de slag met Adobe Managed CDN](gems2025/getting-started-adobe-managed-cdn.md)
+   + [Maximaliseer de impact van je webbeleving met AEM Sites Optimizer](gems2025/maximize-impact-with-sites-optimizer.md)
+   + [Aan de slag met een door Adobe beheerde CDN](gems2025/getting-started-adobe-managed-cdn.md)
 + 2024 {#gems2024}
    + [De kracht van AEM Sites ontgrendelen - de API&#39;s voor inhoudsbeheer beheren](gems2024/content-management-apis.md)
    + [Wat is er nieuw in Rapid Development Environment voor AEM?](gems2024/rapid-development-environment-news.md)
@@ -22,60 +23,60 @@ ht-degree: 0%
    + [Integratie van particuliere GitHub-opslagplaatsen in AEM Cloud Manager](gems2024/private-github-for-aem-cloud-manager.md)
    + [De ontwikkelaarservaring voor AEM Assets verbeteren met onze nieuwe API&#39;s en gebeurtenissen](gems2024/improving-dev-experience-for-aem-assets-with-new-apis-and-events.md)
    + [Aan de slag met Edge Delivery Services voor AEM Forms](gems2024/edge-delivery-for-aem-forms.md)
-   + [ Begonnen het worden met AEM Authoring en Edge Delivery Services ](/help/experience-manager-gems/gems2024/aem-authoring-and-edge-delivery.md)
-   + [Storefronts maken op Edge Delivery Services in Adobe Commerce](/help/experience-manager-gems/gems2024/storefronts-on-edge-delivery-with-adobe-commerce.md)
+   + [ Begonnen het worden met de Authoring van AEM en Edge Delivery Services ](/help/experience-manager-gems/gems2024/aem-authoring-and-edge-delivery.md)
+   + [Winfronten bouwen op Edge Delivery Services op Adobe Commerce](/help/experience-manager-gems/gems2024/storefronts-on-edge-delivery-with-adobe-commerce.md)
 + 2023 {#gems2023}
    + [New Relic APM voor AEM as a Cloud Service](gems2023/newrelic-apm-for-aem-cloud-service.md)
-   + [AEM certificatie - technisch](gems2023/aem-certification-technical.md)
-   + [Snellere as a Cloud Service ontwikkeling van Experience Managers met snelle ontwikkelomgevingen](/help/experience-manager-gems/gems2023/rapid-development-environments.md)
+   + [AEM-certificering - technisch](gems2023/aem-certification-technical.md)
+   + [Experience Manager as a Cloud Service-ontwikkeling versnellen met Rapid Development Environment](/help/experience-manager-gems/gems2023/rapid-development-environments.md)
    + [AEM Best Practices Analyzer voor omgevingen op locatie en AMS](gems2023/aem-best-practices-analyzer.md)
 + 2022 {#gems2022}
-   + [Hoofdletters/kleine letters van klant en implementatie van AEM headless in gebruik](gems2022/customer-use-case-and-implementation-of-aem-headless-in-use.md)
+   + [Hoofdletters/kleine letters voor klant en implementatie van AEM Headless in gebruik](gems2022/customer-use-case-and-implementation-of-aem-headless-in-use.md)
    + [Onder de motorkap kijken - Cloud Manager 2022](gems2022/looking-under-the-hood-cloud-manager-2022.md)
-   + [Integreer AEM en CIF om een rijke en diepgaande e-commerceervaring op te bouwen](gems2022/aem-and-cif-framework-integration.md)
+   + [AEM en CIF integreren om een rijke en indrukwekkende ervaring op het gebied van e-commerce op te bouwen](gems2022/aem-and-cif-framework-integration.md)
    + [Sneller websites maken met AEM Headless en App Builder](gems2022/build-sites-faster-with-headless-and-appbuilder.md)
    + [Adobe Experience Manager as a Cloud Service: evaluatie 2021 en vooruitzichten 2022](gems2022/aemcloudservice-2021-review-and-outlook.md)
 + 2020 {#gems2020}
-   + [AEM 6.5 klaar voor de wereld - integratie van vertalingen en beste praktijken](gems2020/aem65-readyfortheworld-translationintegration-bestpractices.md)
+   + [AEM 6.5 gereed voor de wereld - integratie van vertalingen en best practices](gems2020/aem65-readyfortheworld-translationintegration-bestpractices.md)
 + 2019 {#gems2019}
    + [Nieuw in Experience Manager 6.5  [!DNL Sites]](gems2019/adobe-experience-manager-6-5-sites-whats-new.md)
-   + [Diepteduik AEM Rich Text Editor (RTE)](gems2019/aem-rich-text-editor-rte-deep-dive1.md)
+   + [Diepteduik in de AEM Rich Text Editor (RTE)](gems2019/aem-rich-text-editor-rte-deep-dive1.md)
    + [Diep duik op implementatiedetails van opslag, modules, en segmenten in ContextHub](gems2019/contexthub-deep-dive.md)
-   + [Ervaringen zonder hoofd-omnichannel maken met AEM 6.5](gems2019/creating-headless-omnichannel-experiences-with-aem-65.md)
-   + [Introductie van de AEM moderniseringssuite](gems2019/introducing-the-aem-modernization-suite.md)
+   + [Ervaringen maken zonder hoofd-kanaal met AEM 6.5](gems2019/creating-headless-omnichannel-experiences-with-aem-65.md)
+   + [Introductie van de AEM-moderniseringssuite](gems2019/introducing-the-aem-modernization-suite.md)
    + [Publiceren van auteurs voor AEM Screens gebruiken](gems2019/leveraging-author-publish-for-aem-screens.md)
 + 2018 {#gems2018}
    + [Diep duiken in Adobe Experience Manager 6.4](gems2018/aem-6-4-technical-sneak-peek.md)
    + [Adobe Experience Platform - Het hart van Experience Cloud](gems2018/aem-acp.md)
-   + [In real time en licht: bouw gebeurtenisgedreven integratie met AEM gebruikend Adobe I/O Events](gems2018/aem-adobe-io.md)
+   + [In real time en lichtgewicht: bouwen gebeurtenisgedreven integratie met AEM gebruikend Adobe I/O Events](gems2018/aem-adobe-io.md)
    + [Adobe Developer (IO)-gebeurtenissen - Analytics Triggers](gems2018/aem-analytics-triggers.md)
-   + [Experimenten in schaalbaarheid AEM auteur](gems2018/aem-author-scalability1.md)
-   + [AEM kerncomponenten](gems2018/aem-core-components.md)
+   + [Experimenten in schaalbaarheid van AEM-auteur](gems2018/aem-author-scalability1.md)
+   + [AEM-kerncomponenten](gems2018/aem-core-components.md)
    + [De explosie van digitale middelen &amp; [!DNL AEM Assets]](gems2018/aem-digital-asset-explosion.md)
    + [Inleiding aan ContextHub in AEM 6.4](gems2018/aem-intro-to-contexthub.md)
    + [Machine learning in AEM: Enhanced smart tags, smart layout en meer](gems2018/aem-machine-learning.md)
    + [De open bron behouden en uw gezondheid behouden](gems2018/aem-maintaining-open-source.md)
-   + [Problemen met zoeken en indexeren AEM (vervolg)](gems2018/aem-query-and-index-troubleshooting2.md)
+   + [AEM-query- en indexproblemen oplossen (vervolg)](gems2018/aem-query-and-index-troubleshooting2.md)
    + [AEM SPA Editor](gems2018/aem-spa-editor.md)
    + [Opslaan als Oak-index voor AEM](gems2018/solr-as-an-oak-index-for-aem.md)
-   + [SPA Editor SDK deep duve - deel 1 - reageren](gems2018/spa-editor-sdk-deep-dive-react.md)
-   + [SPA Editor SDK deep duve - deel 2 - angular](gems2018/spa-editor-sdk-deep-dive-angular.md)
+   + [De Redacteur van het KUUROORD SDK diepe duik - deel 1 - reacties](gems2018/spa-editor-sdk-deep-dive-react.md)
+   + [SPA Editor SDK deep dive - deel 2 - angstaanvormig](gems2018/spa-editor-sdk-deep-dive-angular.md)
    + [OSGi R7 gebruiken in AEM](gems2018/using-osgi-r7-in-aem.md)
 + 2017 {#gems2017}
    + [Grote merkportalversie en nieuwe referentie-implementatie voor Asset Share](gems2017/aem-brand-portal.md)
    + [Gezondheidscontroles voor AEM maken](gems2017/aem-building-health-checks-for-aem.md)
-   + [OSGi-bundels en -services ontwikkelen voor AEM](gems2017/aem-developing-osgi-bundles-services-for-aem.md)
+   + [OSGi-pakketten en -services ontwikkelen voor AEM](gems2017/aem-developing-osgi-bundles-services-for-aem.md)
    + [AEM Dynamic Media 6.3-architectuur](gems2017/aem-dynamic-media-architecture.md)
-   + [AEM vloeistofervaringen voor gebruik zonder kop](gems2017/aem-headless-usecases.md)
-   + [AEM indexeren en JCR-query](gems2017/aem-indexing-jcr-query.md)
-   + [AEM](gems2017/aem-integrations.md)
+   + [AEM vloeistofervaringen voor hoofdloos gebruik](gems2017/aem-headless-usecases.md)
+   + [AEM-indexering en JCR-query](gems2017/aem-indexing-jcr-query.md)
+   + [AEM-integratie](gems2017/aem-integrations.md)
    + [AEM DataStore beheren](gems2017/aem-managing-aem-datastore.md)
-   + [Formulieren zoeken die u gemakkelijk kunt maken met de zoekfunctie AEM](gems2017/aem-search-forms-using-querybuilder.md)
-   + [AEM sustenance - Aanbevolen werkwijzen voor de implementatie AEM onderhoudsreleases](gems2017/aem-sustenance-best-practices-deploying-maintenance-releases.md)
+   + [Formulieren zoeken die u gemakkelijk kunt maken met de AEM querybuilder](gems2017/aem-search-forms-using-querybuilder.md)
+   + [AEM-service - Aanbevolen procedures voor de implementatie van AEM-onderhoudsreleases](gems2017/aem-sustenance-best-practices-deploying-maintenance-releases.md)
    + [In het teerpit: een TarMK diep duiken](gems2017/aem-tarmk-deepdive.md)
    + [Dag 2 - Een nieuw en verbeterd instrument voor stresstests en benchmarking](gems2017/aem-toughday2-stress-testing-benchmarking-tool.md)
-   + [AEM 6.3 klaar voor de wereld - Vertaalintegratie en beste praktijken](gems2017/aem-translation-best-practices.md)
-   + [Problemen met AEM replicatie oplossen](gems2017/aem-troubleshooting-aem-replication.md)
+   + [AEM 6.3 gereed voor de wereld - Vertaalintegratie en best practices](gems2017/aem-translation-best-practices.md)
+   + [Problemen met AEM-replicatie oplossen](gems2017/aem-troubleshooting-aem-replication.md)
    + [Problemen met distributie van inhoud oplossen](gems2017/aem-troubleshooting-sling.md)
 + 2016 {#gems2016}
    + [DAM configureren voor bedrijven](gems2016/aem-configuring-dam-for-enterprise.md)
@@ -87,23 +88,23 @@ ht-degree: 0%
    + [Technische sneeuwwang](gems2016/aem-technical-sneak-peek.md)
    + [Gereedschappen voor het testen van Adobe Experience Manager-toepassingen](gems2016/aem-testing-tools-for-aem-apps.md)
    + [SAML gebruiken in Adobe Experience Manager-implementaties](gems2016/aem-utilizing-saml-in-aem-deployments.md)
-   + [AEM webprestaties](gems2016/aem-web-performance.md)
+   + [AEM-webprestaties](gems2016/aem-web-performance.md)
 + 2015 {#gems2015}
    + [AEM 6.1-vertaalintegratie en best practices](gems2015/aem-6-1-translation-integration-and-best-practices.md)
    + [Online gemeenschappen maken met AEM 6.1](gems2015/aem-creating-online-communities-with-aem-6-1.md)
    + [Dialoogvensters aanpassen in de interface van Touch](gems2015/aem-customizing-dialog-fields-in-touch-ui.md)
-   + [Diep duiken in AEM upgradeproces](gems2015/aem-deep-dive-into-aem-upgrade-process.md)
+   + [Dien diep in het AEM-upgradeproces](gems2015/aem-deep-dive-into-aem-upgrade-process.md)
    + [Dispatcher caching - Nieuwe functies en optimalisaties](gems2015/aem-dispatcher-caching-new-features-and-optimizations.md)
    + [AEM  [!DNL Forms]  eigenschappak 1 inleiding en technische steekproeven](gems2015/aem-forms-feature-pack-1-introduction-and-technical-samples.md)
    + [IBM WebSphere Commerce-integratie voor AEM](gems2015/aem-ibm-websphere-commerce-integration-for-aem.md)
    + [Binnen ACS AEM Commons &amp; hulpmiddelen](gems2015/aem-inside-acs-aem-commons-and-tools.md)
    + [Oak-module voor externe aanmelding](gems2015/aem-oak-external-login-module-authenticating-with-ldap-and-beyond.md)
    + [Sonar - Een belangrijk element om de productkwaliteit te verbeteren](gems2015/aem-sonar-a-key-element-to-improve-product-quality.md)
-   + [AEM Tech sneak-blik](gems2015/aem-tech-sneak-peek.md)
+   + [AEM Tech sneak peek](gems2015/aem-tech-sneak-peek.md)
    + [Tips en trucs voor  [!DNL AEM Sites]  Aanraakinterface](gems2015/aem-tips-and-tricks-for-aem-sites-touch-ui.md)
    + [Kwaliteitsmetingen bijhouden voor uw JavaScript-project](gems2015/aem-track-quality-metrics-of-your-javascript-project.md)
 + 2014 {#gems2014}
-   + [Adobe Analytics implementeren op een lokale AEM via de DTM-cloudservice](gems2014/aem-adobe-analytics-dynamic-tag-management.md)
+   + [Adobe Analytics implementeren op een lokale AEM-instantie via de DTM-cloudservice](gems2014/aem-adobe-analytics-dynamic-tag-management.md)
    + [Hoe u optimaal kunt profiteren van uw DAM-pakket met functies](gems2014/aem-dam-feature-pack.md)
    + [Beheerde inhoud leveren aan uw eigen apps](gems2014/aem-delivering-managed-content-to-your-native-apps.md)
    + [AEM 6.0 Developer Mode](gems2014/aem-developer-mode.md)
@@ -112,12 +113,12 @@ ht-degree: 0%
    + [Efficiënt herbruikbare onderdelen maken](gems2014/aem-efficiently-build-reusable-components.md)
    + [Inleiding tot HTL](gems2014/aem-introduction-to-htl.md)
    + [Machine Translation in AEM](gems2014/aem-machine-translation-in-aem.md)
-   + [AEM 6 Oak: MongoMK en Vragen](gems2014/aem-oak-mongomk-and-queries.md)
-   + [Functionaliteit van de OAuth-server in AEM](gems2014/aem-oauth-server-functionality-in-aem.md)
+   + [AEM 6 Oak: MongoMK en query&#39;s](gems2014/aem-oak-mongomk-and-queries.md)
+   + [Functionaliteit van OAuth-servers in AEM](gems2014/aem-oauth-server-functionality-in-aem.md)
    + [SharePoint Connector - Setup en configuratie](gems2014/aem-sharepoint-connector-setup-and-configuration.md)
-   + [Kader voor sociale component in AEM 6](gems2014/aem-social-component-framework-in-aem-6.md)
-   + [Technisch diep duik in het platform van AEM 6](gems2014/aem-technical-deep-dive-into-the-aem-6-platform.md)
-   + [Technisch overzicht van het platform AEM 6](gems2014/aem-technical-overview-of-the-aem-6-platform.md)
+   + [Framework voor sociale componenten in AEM 6](gems2014/aem-social-component-framework-in-aem-6.md)
+   + [Technische diepte in het AEM 6-platform](gems2014/aem-technical-deep-dive-into-the-aem-6-platform.md)
+   + [Technisch overzicht van het AEM 6-platform](gems2014/aem-technical-overview-of-the-aem-6-platform.md)
    + [Aanpassing gebruikersinterface voor AEM 6](gems2014/aem-user-interface-customization-for-aem6.md)
 + 2013 {#gems2013}
    + [Architectuur van het AEM 5.6-platform](gems2013/aem-architecture-of-the-aem-5-6-platform.md)
