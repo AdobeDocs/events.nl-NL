@@ -3,7 +3,7 @@ title: Technische Experience Cloud-sessies
 description: Verbeter uw Adobe Experience Cloud-vaardigheden met live en on-demand technische sessies onder leiding van Adobe-experts. Krijg op elk gewenst moment knopinfo en strategieën voor een naadloze leerervaring.
 exl-id: e368f1f8-5c3f-45a4-a9d5-2ed39b1c78ad
 duration: 53
-source-git-commit: 51dfbfe124b46f609fb0349dbcfa2add442a026d
+source-git-commit: 52e39cd07f1ccc8cea2fc6f628cce1c84161f491
 workflow-type: tm+mt
 source-wordcount: '1523'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Ontgrendel het volledige potentieel van Adobe Experience Cloud met live en on-demand technische sessies. Deze webinars zijn doordacht ontworpen om verder te gaan dan de traditionele ondersteuning. De sessies worden geleid door ervaren Adobe-experts en bieden waardevolle tips, trucs en strategieën om u te helpen met vertrouwen door technische oplossingen te navigeren en gemeenschappelijke valkuilen te voorkomen. Adobe-experts zijn technici voor technische ondersteuning die zich bezighouden met de belangrijkste punten van zorg en die zich actief bezighouden met dagelijkse zaken. Met zowel live als on-demand opties hebt u de flexibiliteit om toegang te krijgen tot de informatie wanneer u deze nodig hebt, zodat u een naadloze leerervaring hebt.
 
-## Vergaderingen 2054
+## 2025 Zittingen
 
 <!-- CARDS
 {cta = Watch}
