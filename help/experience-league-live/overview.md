@@ -8,9 +8,9 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 65bbb2d2658a343005abfc597bf13aa814b8cc82
+source-git-commit: 0ee7c933d4278a09b3c69373c4bbc21274279ec8
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '161'
 ht-degree: 1%
 
 ---
@@ -32,8 +32,6 @@ Experience League LIVE is een live streaming show die wordt gemaakt door het Exp
               <a href="episodes/exl-live-episode-07-31-25.md">
                 <strong> HoofdFrequentie het Capping &amp; Prioritization van het Conflict </strong>
               </a>
-              <br/><em> met Sandra Hausmann, Ariel Sultan, Aaron Forrest, en Keara Fausett </em>
-              <br/><em> 18 Juni, 2025 </em>
             </div>
         </td>
     </tr>
@@ -102,5 +100,5 @@ Experience League LIVE is een live streaming show die wordt gemaakt door het Exp
 
 >[!TIP]
 >
->Voor extra methodes om te leren, controleer onze vrije [ cursussen ](https://experienceleague.adobe.com/nl#dashboard/learning) evenals individuele [ leerprogramma&#39;s ](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=nl-NL).
+>Voor extra methodes om te leren, controleer onze vrije [ cursussen ](https://experienceleague.adobe.com/#dashboard/learning) evenals individuele [ leerprogramma&#39;s ](https://experienceleague.adobe.com/docs/home-tutorials.html).
 
