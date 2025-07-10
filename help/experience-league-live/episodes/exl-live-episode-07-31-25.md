@@ -36,4 +36,4 @@ Sandra Hausmann, Senior Technical Marketing Engineer, Digital Experience
 [ REGISTER NU!](https://engage.adobe.com/ExpLeagueLive-250731.html?sdid=QLD1P2NL&mv=other)
 
 
-[![ ](/help/experience-league-live/episodes/assets/WebBanner-31July2025.png) Banner van 0} Web](https://www.youtube.com/live/VUysRFpD40Q)
+[![ ](/help/experience-league-live/episodes/assets/WebBanner-31July2025.png) Banner van 0&rbrace; Web](https://www.youtube.com/live/VUysRFpD40Q)
