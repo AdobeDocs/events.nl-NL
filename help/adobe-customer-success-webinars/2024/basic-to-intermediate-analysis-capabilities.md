@@ -40,7 +40,7 @@ Leer hoe u snel aan de slag kunt met Adobe Analytics en Customer Journey Analyti
    * **Externe en Interne Strijdkrachten** beïnvloedend digitale analyses, met inbegrip van marktverschuivingen, privacy en bestuur, gegevensdemocratie, en gegevensingewikkeldheid.
    * **bouwend een Robuuste Analytische Strategie van de Metingen van de Stichting**, gegevensinzameling, insight en analyse, het leren, gegevensbeheer.
    * **Vestiging een Digitaal Team van Analytics** Rollen en verantwoordelijkheden, creërend een hybride team, en het beheren van analytische verzoeken efficiënt.
-   * **Experience League van de Opties van Enablement van 0} Adobe**, cursussen op bestelling, op trainer-gebaseerde klassen, communautaire steun.
+   * **Experience League van de Opties van Enablement van 0&rbrace; Adobe**, cursussen op bestelling, op trainer-gebaseerde klassen, communautaire steun.
 
 * **Vergelijking tussen Adobe Analytics en Customer Journey Analytics (CGA)**
    * Adobe Analytics is de basis voor digitale analyse.
@@ -50,13 +50,13 @@ Leer hoe u snel aan de slag kunt met Adobe Analytics en Customer Journey Analyti
 * **Types van Analytics**
    * **Beschrijvende Analytics** Realtime gegevensvisualisatie, omzettingstekens, eenvoudige attributie.
    * **Diagnostische Analyse** de analyse van de worteloorzaak, anomalieopsporing, complexe attributiemodellen.
-   * **Voorspelende Analytics van 0} {voorspellende, neiging het schatten, geavanceerde algoritmen voor besluitvorming.**
+   * **Voorspelende Analytics van 0&rbrace; &lbrace;voorspellende, neiging het schatten, geavanceerde algoritmen voor besluitvorming.**
 
 * **Eigenschappen en de Gevallen van het Gebruik**
-   * **de exploratie van Gegevens, visualisatie, geleide analyse, en de analyse van de tijdreeksen van de Omzetting en van het Aanraakpunt van 0}.**
-   * **modellen van de Attributie van de Attributie 1}, dwars-lusje attributieanalyse, en complexe attributie in CGA.**
-   * **de vergelijking van het Segment van de Segmentatie van 0} en van de Generatie van het publiek, publieksanalyse, en het publiceren publiek voor marketing activering.**
-   * **de analyse van het Cohort van de Preventie van het Knevel van 0} {, de analyse van het behoudstarief, en aandrijvingsscores.**
+   * **de exploratie van Gegevens, visualisatie, geleide analyse, en de analyse van de tijdreeksen van de Omzetting en van het Aanraakpunt van 0&rbrace;.**
+   * **modellen van de Attributie van de Attributie 1&rbrace;, dwars-lusje attributieanalyse, en complexe attributie in CGA.**
+   * **de vergelijking van het Segment van de Segmentatie van 0&rbrace; en van de Generatie van het publiek, publieksanalyse, en het publiceren publiek voor marketing activering.**
+   * **de analyse van het Cohort van de Preventie van het Knevel van 0&rbrace; &lbrace;, de analyse van het behoudstarief, en aandrijvingsscores.**
 
 * **Hoogtepunten Q&amp;A**
    * Uitleg van componenten en statische gegevensschema&#39;s.
