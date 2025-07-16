@@ -28,11 +28,11 @@ Ontdek hoe Adobe Experience Manager de levering van digitale beleving transforme
 
 ## Belangrijke punten
 
-* **de levering van Edge van het Overzicht van 0} Edge Delivery {is een moderne architectuur die wordt ontworpen om aan de digitale verwachtingen van vandaag te voldoen, prerendered, versioned HTML aan globale CDN voor snellere, gepersonaliseerde, en dynamische inhoudslevering aan te bieden.**
+* **de levering van Edge van het Overzicht van 0&rbrace; Edge Delivery &lbrace;is een moderne architectuur die wordt ontworpen om aan de digitale verwachtingen van vandaag te voldoen, prerendered, versioned HTML aan globale CDN voor snellere, gepersonaliseerde, en dynamische inhoudslevering aan te bieden.**
 
 * **de Flexibele Authoring Modellen** Adobe verstrekt drie belangrijkste auteursmodellen-Inhoud Redacteur van het Fragment voor gestructureerde inhoud, Universele Redacteur voor het uitgeven van WYSIWYG, en op document-Gebaseerde Authoring gebruikend hulpmiddelen zoals Google Docs of Microsoft Word - toestaand teams om zich te mengen en aan te passen gebaseerd op hun behoeften.
 
-* {de Verbeteringen van Prestaties 1} de levering van Edge wordt gebouwd als prestaties-eerste architectuur, richtend de Hoofdsteden van het Web van de Kern van Google zoals de Grootste Voorwaardelijke Verf (LCP). **** De voorbeelden uit de praktijk toonden dramatische verbeteringen in de scores van de Websnelheid, stuitende tarieven, en organisch verkeer.
+* {de Verbeteringen van Prestaties 1} de levering van Edge wordt gebouwd als prestaties-eerste architectuur, richtend de Hoofdsteden van het Web van de Kern van Google zoals de Grootste Voorwaardelijke Verf (LCP). **&#x200B;**&#x200B;De voorbeelden uit de praktijk toonden dramatische verbeteringen in de scores van de Websnelheid, stuitende tarieven, en organisch verkeer.
 
 * **Personalization bij Edge** Personalization wordt ingebed in het leveringsproces, leveraging Adobe Target en Adobe Journey Optimizer (AJO) voor publiekssegmentatie in real time, A/B het testen, en op maat gemaakte ervaringen zonder prestaties te compromitteren.
 
