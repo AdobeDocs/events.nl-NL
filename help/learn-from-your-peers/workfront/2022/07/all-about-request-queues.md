@@ -2,18 +2,19 @@
 title: Alles over aanvraagrijen webinar
 description: Leer van uw collega's over het maximaliseren van Workfront Request Queues. Ontdek verschillende toepassingen en beste praktijken van de Gele Toeslagen van Disney in ons webinar op bestelling.
 role: Admin
+solution: Workfront
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3611
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15814
-source-git-commit: 3685a942f3027d41a891ce8830afb085e328a97c
+exl-id: fa9b2c3b-62ac-4f4f-9aec-2e696be5ef48
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 0%
 
 ---
-
 
 # Alles over aanvraagrijen
 

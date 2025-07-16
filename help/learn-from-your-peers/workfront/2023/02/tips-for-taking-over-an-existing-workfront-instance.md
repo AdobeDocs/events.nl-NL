@@ -4,16 +4,17 @@ description: Leer van ervaren professionals over het overnemen van een Workfront
 role: Admin
 level: Beginner, Intermediate, Experienced
 doc-type: Event
+solution: Workfront
 duration: 3641
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15820
-source-git-commit: 3685a942f3027d41a891ce8830afb085e328a97c
+exl-id: 742737b9-4177-4a21-a883-ba6b67d67195
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '204'
 ht-degree: 0%
 
 ---
-
 
 # Tips voor het overnemen van een bestaand Workfront-exemplaar
 
@@ -25,6 +26,6 @@ In dit webinar op aanvraag, zal Jace Newbold, manager van Consulting bij Workfro
 * Wat elke beheerder vandaag moet doen om zijn toekomstige zelf (en toekomstige Admins) voor succes op te zetten
 * Een downloadbare controlelijst met vragen, bronnen en koppelingen om u te begeleiden bij het controleren en documenteren van uw exemplaar
 
-Zorg ervoor dat u ook de controlelijst voor overerfde instanties en de blauwdruk https://experienceleague.adobe.com/nl/docs/workfront-learn/tutorials-workfront/administration-and-setup/system-perfomance-and-maintenance/take-charge-of-an-existing-workfront-instance
+Zorg ervoor dat u ook de controlelijst voor overerfde instanties en de blauwdruk https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/system-perfomance-and-maintenance/take-charge-of-an-existing-workfront-instance
 
 >[!VIDEO](https://video.tv.adobe.com/v/3431014/?learn=on)

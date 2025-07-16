@@ -4,16 +4,17 @@ description: Leer van veranderingsbeheersdeskundigen over het navigeren van over
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
+solution: Workfront
 duration: 3634
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15819
-source-git-commit: 3685a942f3027d41a891ce8830afb085e328a97c
+exl-id: ed2935e2-007f-4b7b-96e6-2fe0856c32a8
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%
 
 ---
-
 
 # Navigeren door wijzigingsbeheer
 

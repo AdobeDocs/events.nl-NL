@@ -3,7 +3,8 @@ user-guide-title: Overzicht van Adobe Experience Manager as a Cloud Service-rele
 user-guide-breadcrumb: AEMCS Release Events
 user-guide-description: Bekijk een kort overzicht van de nieuwste functies op Adobe Experience Manager as a Cloud Service
 breadcrumb-title: AEM CS Release-updates
-source-git-commit: 51dfbfe124b46f609fb0349dbcfa2add442a026d
+solution: Experience Manager
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 4%

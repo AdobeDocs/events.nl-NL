@@ -4,16 +4,17 @@ description: Ontdek intercollegiale inzichten om de behoeften van gebruikers te 
 role: Admin
 level: Beginner, Intermediate, Experienced
 doc-type: Event
+solution: Workfront
 duration: 3640
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15811
-source-git-commit: 3685a942f3027d41a891ce8830afb085e328a97c
+exl-id: f7acb26b-528a-41fc-a38d-73ed078bfda6
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%
 
 ---
-
 
 # Een ideale gebruikerservaring ontwerpen
 

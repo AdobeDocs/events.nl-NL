@@ -1,19 +1,20 @@
 ---
 title: Communiceren met webinar voor eindgebruikers
-description: Ontdek verschillende strategieën voor het communiceren met Workfront-gebruikers in ons webinar op aanvraag. Leer van IDEXX, Adobe, en de deskundigen van Adobe Workfront over efficiënte kanalen, types van mededelingen, en het evolueren van uw strategie herhalend.
+description: Ontdek verschillende strategieën voor het communiceren met Workfront-gebruikers in ons webinar op aanvraag. Leer van deskundigen IDEXX, Adobe, en Adobe Workfront over efficiënte kanalen, types van mededelingen, en het evolueren van uw strategie herhalend.
 role: Admin, Leader
+solution: Workfront
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3649
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15825
-source-git-commit: 3685a942f3027d41a891ce8830afb085e328a97c
+exl-id: d1cec74c-aeca-4832-a7e7-be1e9cee112c
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 0%
 
 ---
-
 
 # Leer van Uw Peers Webinar: Communiceren met Eindgebruikers
 

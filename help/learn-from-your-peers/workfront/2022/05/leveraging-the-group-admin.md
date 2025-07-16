@@ -3,18 +3,19 @@ title: Hefboomwerking van groepsbeheerder webinar
 description: Leer van uw edelen over de evoluerende rollen van de Beheerders van het Systeem en van de Groep van Workfront. Verken rollen, beste praktijken, documentatie, en pleitbezorging in ons webinar op bestelling.
 topic: Administration
 role: Admin
+solution: Workfront
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3667
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15812
-source-git-commit: 3685a942f3027d41a891ce8830afb085e328a97c
+exl-id: 22a90abe-f339-4d18-8cfe-0822b86f570d
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 0%
 
 ---
-
 
 # Hefboomwerking van de groepsbeheerder
 

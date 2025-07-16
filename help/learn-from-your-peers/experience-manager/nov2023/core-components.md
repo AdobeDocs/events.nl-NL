@@ -1,8 +1,9 @@
 ---
-title: Uitmuntende ontwikkelaars in staat stellen AEM kerncomponenten te gebruiken
+title: Uitmuntende ontwikkelaars in staat stellen te werken met AEM Core-componenten
 description: De ontwikkeling van websites versnellen en de onderhoudskosten verlagen met Web Content Management (WCM) Core Components. Een live demonstratie die laat zien hoe u een lasercomponent kunt transformeren in een kaartstijlcomponent met meerdere ontwerpvariaties. Aanbevolen procedures voor het optimaliseren van uw stijlsystemen. Een geleidelijke demonstratie van het opstellen van veranderingen UI efficiënt gebruikend de front-end pijpleiding.
 feature-set: Experience Manager Sites
 feature: Core Components, Developing, Style System
+solution: Experience Manager
 topic: Development
 role: Developer
 level: Beginner, Intermediate
@@ -12,14 +13,14 @@ jira: KT-14590
 thumbnail: 3425841.jpeg
 exl-id: 5efcf8ea-8b80-40cb-a55f-bac4d5bdaf5e
 duration: 2826
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '146'
 ht-degree: 0%
 
 ---
 
-# Uitmuntende ontwikkelaars in staat stellen AEM kerncomponenten te gebruiken
+# Uitmuntende ontwikkelaars in staat stellen te werken met AEM Core-componenten
 
 Sluit u aan bij Kartik Sharma, Adobe Experience Manager Customer Champion, omdat hij waardevolle inzichten en best practices met betrekking tot Core Components importeert.
 

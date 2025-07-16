@@ -2,18 +2,19 @@
 title: Oprichting van een Workfront-webinar voor toponderzoek
 description: Leer van Mattel- en Adobe Workfront-experts over de oprichting van een Workfront Centre of Excellence (CoE) in ons webinar op aanvraag. Belangrijke componenten, mogelijkheden en incrementele stappen voor duurzaam en schaalbaar beheer ontdekken, gebruikerstoepassing verbeteren en productgebruik en gegevensintegriteit verbeteren.
 role: Admin, Leader
+solution: Workfront
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3715
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15824
-source-git-commit: 3685a942f3027d41a891ce8830afb085e328a97c
+exl-id: 02d88c39-f53c-4529-ab0e-aebf0f2dff42
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '200'
 ht-degree: 0%
 
 ---
-
 
 # Oprichting van een Workfront-expertisecentrum
 

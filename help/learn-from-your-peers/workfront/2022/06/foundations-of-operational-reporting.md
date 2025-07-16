@@ -3,18 +3,19 @@ title: Stichting voor operationele rapportage Webinar
 description: Leer van uw collega's welke Systeembeheerders in Workfront moeten meten. Ontdek belangrijke metriek, rapporteringsbehoeften, en steekproefdashboards in ons webinar op bestelling.
 feature: Reports and Dashboards
 role: Admin
+solution: Workfront
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3672
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15813
-source-git-commit: 3685a942f3027d41a891ce8830afb085e328a97c
+exl-id: 3f98a8e2-c288-4270-b6ea-b21d5751ae2b
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '145'
 ht-degree: 0%
 
 ---
-
 
 # Leer van je peers-webinar: Stichting van Operational Reporting
 

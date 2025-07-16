@@ -1,20 +1,21 @@
 ---
 title: De kaart van de Markteur - een uitvoerige Gids aan het Strategialiseren, het Bouwen en het Analyseren van de Campagnes van Marketo
-description: Leer efficiënte manieren om Marketo Engage-programma's te maken, zoals importeren, klonen en volledig opbouwen. Pas de sjablonen van Marketo's Engage aan om te voldoen aan de merkstandaarden en beheer de bedrijfsmiddelen en de kosten van de periode.
+description: Leer efficiënte manieren om Marketo Engage-programma's te maken, zoals importeren, klonen en volledig opbouwen. Pas Marketo Engage-sjablonen aan om aan de merkstandaarden te voldoen en beheer de middelen en de kosten voor de periode.
 feature: Smart Campaigns, Reporting
 role: Admin, Developer, User
 level: Intermediate, Experienced
 doc-type: Event
+solution: Marketo Engage
 duration: 2740
 last-substantial-update: 2024-08-05T00:00:00Z
 jira: KT-15890
-source-git-commit: d2954c2c4ed7b83ca6084395e3d414f76109acb9
+exl-id: 9fb78dbe-e2ab-4f4b-93fe-013426a30114
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 0%
 
 ---
-
 
 # De kaart van de Markteur: Een uitvoerige Gids aan het Strategialiseren, het Bouwen, en het Analyseren van de Campagnes van Marketo
 
