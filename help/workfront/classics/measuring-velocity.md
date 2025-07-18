@@ -27,7 +27,7 @@ Bespaar tijd door de berekeningen hieronder te kopiëren en te plakken.
 >[!NOTE]
 >
 >De syntaxis voor aangepaste veldberekeningen is gewijzigd sinds de presentatie in 2019 is gegeven, maar de concepten en andere instructies in de presentatie zijn nog steeds correct.
->>**De berekeningen hieronder zijn bijgewerkt om op de recentste syntaxisregels te wijzen.**
+>&#x200B;>**De berekeningen hieronder zijn bijgewerkt om op de recentste syntaxisregels te wijzen.**
 
 **eerste Vastlegt Datum**
 

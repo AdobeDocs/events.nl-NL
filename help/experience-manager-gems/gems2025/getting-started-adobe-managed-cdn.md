@@ -44,7 +44,7 @@ Heb je een vraag, misschien een opmerking?  Sluit me aan bij de bespreking in de
 * **de Transformaties van het Verzoek** wijzigen kopballen, herschrijven wegen, blokverkeer, en richten verzoeken opnieuw.
 * **Filters van het Verkeer** Blok of staat verkeer toe dat op specifieke regels wordt gebaseerd.
 * **Steun van de Authentificatie** voor randsleutel, ponssleutel, en basisauthentificatie.
-* **de verzoeken van de Volmacht van de Selecteurs van de Oorsprong van 0} aan verschillende oorsprong die op bepaalde regels wordt gebaseerd.**
+* **de verzoeken van de Volmacht van de Selecteurs van de Oorsprong van 0&rbrace; aan verschillende oorsprong die op bepaalde regels wordt gebaseerd.**
 * **Transformaties van de Reactie** wijzigt reactiekopballen en status.
 
 ### Implementatie en aanpassing

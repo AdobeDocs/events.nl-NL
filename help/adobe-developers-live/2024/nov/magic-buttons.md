@@ -37,6 +37,6 @@ Ga verder het gesprek in de Gemeenschap van Adobe Developers Live [ bespreking ]
 * **de Uitbreidingen van de Distributie** kunnen privé binnen een organisatie of openbaar via de markt van Adobe Exchange worden verdeeld.
 * **Extension Manager** Dit hulpmiddel staat gebruikers toe om te beheren hoe de uitbreidingen verschijnen en binnen de milieu&#39;s van AEM functioneren.
 * **Voordelen** uitbreidingen UI minimaliseren contextomschakeling, verbeteren efficiency, en staan voor naadloze integratie met andere ondernemingssystemen toe. Ze worden gehost door Adobe, maken gebruik van moderne technische stapels en kunnen onafhankelijk van AEM worden beheerd.
-* **Voorbeelden van de Gevallen van het gebruik van 0} omvatten werkschemaautomatisering, douane widgets, gegevenssynchronisatie, en douanedashboards.** Specifieke voorbeelden die worden genoemd zijn een Gen AI-inhoudsassistent, een lokalisatiehulpmiddel en een automodelkiezer.
+* **Voorbeelden van de Gevallen van het gebruik van 0&rbrace; omvatten werkschemaautomatisering, douane widgets, gegevenssynchronisatie, en douanedashboards.** Specifieke voorbeelden die worden genoemd zijn een Gen AI-inhoudsassistent, een lokalisatiehulpmiddel en een automodelkiezer.
 * **de Toekomstige Ontwikkelingen** Adobe breidt UI uitbreidbaarheid tot meer diensten, met inbegrip van Workfront, Content Hub, en de Studio van Gen uit.
-* **Documentatie van Middelen 0} en verdere het leren middelen zijn beschikbaar via verstrekte codes QR.**
+* **Documentatie van Middelen 0&rbrace; en verdere het leren middelen zijn beschikbaar via verstrekte codes QR.**

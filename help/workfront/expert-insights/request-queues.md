@@ -39,7 +39,7 @@ Zoals beloofd, zijn hier de middelen die wij samen met een paar extra verbinding
 
 * De webinaire presentatie van Lyndsy voor [ Hoofdzaak van Admin van het Systeem ](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/webinar-system-admin-essentials-communicating-with-end-users/td-p/606096): Het communiceren met Eind - Gebruikers (deze pagina omvat ook een verbinding aan het [ Eind - gebruikersbevelen Cookbook ](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/introducing-the-end-user-communications-cookbook/ba-p/607439))
 
-* De presentatiemiddelen van de Uitwisseling van de Vaardigheid van Lyndsy [ ](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-november-2024-skill-exchange-workfront-process/m-p/726841#M3642)
+* De presentatiemiddelen van de Uitwisseling van de Vaardigheid van Lyndsy [&#128279;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-november-2024-skill-exchange-workfront-process/m-p/726841#M3642)
 
 * En vergeet niet om [ Workfront AMA ](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-ama-ask-me-anything-about-workfront-proof/ev-p/748798) te controleren me ANYTHING over Workfront Proof waar Lyndsy samen met Monique Evans en Richard Carlson uw vragen over het Bewijzen beantwoordde!
 
