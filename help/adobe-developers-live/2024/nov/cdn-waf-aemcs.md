@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Ontgrendel het volledige potentieel van Adobe Beheerde CDN met klantgerichte Regels CDN, de bescherming van WAF, en de Pijpleiding Config. Marius Petria, Sr. Computer Scientist bij Adobe, Quentin Vecchio, Software Development Engineer bij Adobe, en Florian Froese, Software Development Engineer bij Adobe, delen strategieën om de prestaties en beveiliging van Adobe Experience Manager as a Cloud Service applicaties te verbeteren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3440401/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3440608/?learn=on&enablevpops&captions=dut)
 
 ## Communautaire discussie
 

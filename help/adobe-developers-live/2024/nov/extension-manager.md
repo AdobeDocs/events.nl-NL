@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Leer hoe u de Adobe Experience Manager-functionaliteit voor auteurs kunt uitbreiden voor bewerkingen zonder kop en de Universal Editor met Iryna Lagno, Sr. Software Engineer bij Adobe. Schakel de gebruikersinterface-extensies voor verschillende organisaties in en publiceer ze zelfs voor anderen om ze via de Extension Manager te gebruiken.
 
->[!VIDEO](https://video.tv.adobe.com/v/3440404/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3440434/?learn=on&enablevpops&captions=dut)
 
 ## Communautaire discussie
 
