@@ -1,23 +1,24 @@
 ---
-title: AEM GEMs - Aan de slag met Adobe Beheerde CDN
-description: Leer hoe te om Adobe Geleide CDN in AEM Cloud Service te vormen om prestaties en veiligheid met nieuwe CDN configuratiemogelijkheden te verbeteren.
+title: AEM GEM's - Aan de slag met door Adobe beheerde CDN
+description: Leer hoe u een door Adobe beheerde CDN configureert in AEM Cloud Service om de prestaties en beveiliging te verbeteren met nieuwe CDN-configuratiemogelijkheden.
 role: Developer, User
 level: Intermediate
+feature: Edge Delivery Services
 doc-type: Event
 duration: 3438
 last-substantial-update: 2025-01-30T00:00:00Z
 jira: KT-17227
-source-git-commit: 1cfa9cdb0e973e6d088b1faeaa63539b0a7fba36
+exl-id: 4cd0332f-95bf-45f4-a765-aba020c0d7b0
+source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
 workflow-type: tm+mt
 source-wordcount: '437'
 ht-degree: 0%
 
 ---
 
+# AEM GEM&#39;s - Aan de slag met door Adobe beheerde CDN
 
-# AEM GEMs - Aan de slag met Adobe Beheerde CDN
-
-Leer over de Adobe Beheerde CDN in AEM Cloud Service en hoe het kan worden gevormd. Sluit u aan bij ons om de nieuwe CDN-configuratiemogelijkheden te verkennen die kunnen worden gebruikt om de prestaties en de beveiliging van uw AEM as a Cloud Service-toepassingen te verbeteren. In deze sessie ontdekt u:
+Meer informatie over de door Adobe beheerde CDN in AEM Cloud Service en over de manier waarop deze kan worden geconfigureerd. Sluit u aan bij ons om de nieuwe CDN-configuratiemogelijkheden te verkennen die kunnen worden gebruikt om de prestaties en de beveiliging van uw AEM as a Cloud Service-toepassingen te verbeteren. In deze sessie ontdekt u:
 
 * Wat is de Adobe CDN
 * Relevante topologieën voor AEMaaCS en Edge Delivery Services
@@ -28,33 +29,33 @@ Leer over de Adobe Beheerde CDN in AEM Cloud Service en hoe het kan worden gevor
 
 *Opgenomen op 22 Januari, 2025*
 
-Heb je een vraag, misschien een opmerking?  Sluit me aan bij de bespreking in de [ Gemeenschappen van het Experience League ](https://adobe.ly/4haufPK)!
+Heb je een vraag, misschien een opmerking?  Sluit me aan bij de bespreking in de [ Gemeenschappen van Experience League ](https://adobe.ly/4haufPK)!
 
 ## Toetsen
 
-### Belangrijkste eigenschappen van Adobe Beheerde CDN
+### Belangrijke functies van door Adobe beheerde CDN
 
 * **de Domeinen en de Certificaten van de Douane** Essentieel voor het ontvangen van douanedomeinen en certificaten om veilige verbindingen te vestigen.
 * **Caching** die de reacties van HTTP van geheim voorgeheugen leveren is beduidend sneller (onder 10 milliseconden) vergeleken bij het halen van van de oorsprong (honderden milliseconden).
-* **uit-van-de-Doos en de Adobe van de Douane CDN** verstrekt een uit-van-de-doos beheerde CDN, maar de gebruikers kunnen hun eigen CDN ook brengen.
+* **uit-van-de-Doos en Eigen CDN** Adobe verstrekt een uit-van-de-doos beheerde CDN, maar de gebruikers kunnen hun eigen CDN ook brengen.
 
 ### Configuratieopties
 
 * **de Transformaties van het Verzoek** wijzigen kopballen, herschrijven wegen, blokverkeer, en richten verzoeken opnieuw.
 * **Filters van het Verkeer** Blok of staat verkeer toe dat op specifieke regels wordt gebaseerd.
 * **Steun van de Authentificatie** voor randsleutel, ponssleutel, en basisauthentificatie.
-* **de verzoeken van de Volmacht van de Selecteurs van de Oorsprong van 0&rbrace; aan verschillende oorsprong die op bepaalde regels wordt gebaseerd.**
+* **de verzoeken van de Volmacht van de Selecteurs van de Oorsprong van 0} aan verschillende oorsprong die op bepaalde regels wordt gebaseerd.**
 * **Transformaties van de Reactie** wijzigt reactiekopballen en status.
 
 ### Implementatie en aanpassing
 
 * **de Pijpleiding van de Configuratie** stelt dossiers YAML op om CDN regels te vormen.
 * **de regels van de de verkeersfilter van het Verkeer van de Bescherming van het Verkeer** om, verkeer te blokkeren, te registreren en te waarschuwen dat op patronen wordt gebaseerd.
-* **het Beperken van het Tarief** Protect tegen aanvallen DDoS door het aantal verzoeken per IP te beperken.
+* **het Beperken van het Tarief** beschermt tegen aanvallen DDoS door het aantal verzoeken per IP te beperken.
 
 ### Gereedschappen en analyse
 
-* **de Stapel van Kibana van de Elasticsearch** analyseert gebruik en verkeer met verstrekte dashboards.
+* **de Stapel van Elasticsearch Kibana** analyseert gebruik en verkeer met verstrekte dashboards.
 * **Logboek dat** door:sturen logboeken aan een instantie van de Splunk voor analyse.
 
 ### Hooglichten demo
