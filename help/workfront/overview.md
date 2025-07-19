@@ -112,7 +112,7 @@ Of u nu een Workfront-beheerder, projectmanager of alledaagse gebruiker bent, de
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="versus/groups-vs-teams.md" title="Volsus! - Groepen versus teams" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465273/?format=jpeg&nocache=1752859089086" alt="Volsus! - Groepen versus teams"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3467359/?format=jpeg&nocache=1752859089086&captions=dut" alt="Volsus! - Groepen versus teams"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
