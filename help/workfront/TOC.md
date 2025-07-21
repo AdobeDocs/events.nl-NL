@@ -3,9 +3,9 @@ user-guide-title: Workfront Events
 breadcrumb-title: Workfront Events
 user-guide-description: Workfront Events
 solution: Workfront
-source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
+source-git-commit: 6925343d683d029536f93cfedd93ec2290bea78d
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '161'
 ht-degree: 0%
 
 ---
@@ -13,14 +13,19 @@ ht-degree: 0%
 
 # Workfront Events {#workfront-recordings}
 
-+ [Workfront-gebruikersgroepen en -webinars](overview.md)
++ [Workfront Workshops op aanvraag](overview.md)
 
++ Webinars vrijgeven {#releases}
+   + [25.7 Release](releases/25-7-release-webinar.md)
+   + [25.4 Release](releases/25-4-release-webinar.md)
+   + [25.1 Release](releases/25-1-release-webinar.md)
+   + [24.1 Release](releases/24-1-release-webinar.md)
 + Boven 3 {#top3}
    + [Creative-benaderingen met blauwdrukken](top3/blueprints.md)
 + Volsus! {#versus}
    + [Groepen versus teams](versus/groups-vs-teams.md)
 + Expert Insights {#expert-insights}
-+[ Vragen van het Verzoek met Lyndsy ](expert-insights/request-queues.md)
+   + [Queuten aanvragen met Lyndsy](expert-insights/request-queues.md)
 + Workshop terugspoelen {#workshop-rewind}
    + Workflow {#workflow}
       + [Creative-methoden voor het beheer van bronnen](classics/creative-ways-of-managing-resources.md)
@@ -63,9 +68,5 @@ ht-degree: 0%
    + Wachtrijen en opname aanvragen {#request-queues-and-intake}
       + [Wachtrijen aanvragen en Forms innemen](user-groups/request-queues-and-intake-forms.md)
 
-+ Uitstoot {#releases}
-   + [25.7 Release](releases/25-7-release-webinar.md)
-   + [25.4 Release](releases/25-4-release-webinar.md)
-   + [25.1 Release](releases/25-1-release-webinar.md)
-   + [24.1 Release](releases/24-1-release-webinar.md)
+
 
