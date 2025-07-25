@@ -25,7 +25,7 @@ In onze openingssessie van de reeks onderzoeken we waarom een gedocumenteerde st
 
 ## Belangrijkste punten
 
-* **Inleiding van het Kader van de Realisatie van de Waarde van 0} aan het kader om waarde uit CJA af te leiden, die op strategische planning over kritieke pijlers concentreert om mislukking te vermijden.**
+* **Inleiding van het Kader van de Realisatie van de Waarde van 0&rbrace; aan het kader om waarde uit CJA af te leiden, die op strategische planning over kritieke pijlers concentreert om mislukking te vermijden.**
 
 * **Uitleg van het Geval van het gebruik Roadmap** van hoe te om een gebruikscase roadmap te bepalen en te bouwen om teams te richten, zich bij inspanningen te concentreren, en waarde van CJA te realiseren.
 
