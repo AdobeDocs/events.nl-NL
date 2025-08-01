@@ -26,7 +26,7 @@ Deze sessie gaat na hoe verouderde of gefragmenteerde systemen kunnen leiden tot
 
 * **NoordStar Architectuur (NSA) als Strategisch Hulpmiddel** NSA is een high-level architectuurdiagram dat bedrijfs en technische teams helpt richten door bedrijfsdoelstellingen, zeer belangrijke bedrijfsdoelstellingen (KBOs), en gebruiksgevallen in concrete technische vereisten te vertalen. Het dient als leidend kader voor strategische planning, uitvoering, en meting van technologieinitiatieven.
 
-* **NSAs van de Geval-Gedreven Benadering van het gebruik van 0} is bedoeld om door specifieke gebruiksgevallen worden gedreven, die ervoor zorgen dat elke implementatie een duidelijke waarde-gedreven reden heeft.** Deze benadering vermijdt het uitvoeren van eigenschappen of oplossingen zonder een strategisch doel en geeft voorrang aan zaken van het hoogwaardige gebruik.
+* **NSAs van de Geval-Gedreven Benadering van het gebruik van 0&rbrace; is bedoeld om door specifieke gebruiksgevallen worden gedreven, die ervoor zorgen dat elke implementatie een duidelijke waarde-gedreven reden heeft.** Deze benadering vermijdt het uitvoeren van eigenschappen of oplossingen zonder een strategisch doel en geeft voorrang aan zaken van het hoogwaardige gebruik.
 
 * **Aanpassing en de Afhankelijkheid van de Context** De stichting architectuur en NSA worden gemaakt aan de specifieke behoeften, de toppen, en de doelstellingen van elke organisatie. De voorbeelden van NSAs variëren in diepte en nadruk, afhankelijk van de vereisten van het bedrijf, het publiek, en gebruiksgevallen.
 
