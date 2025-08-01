@@ -2,10 +2,10 @@
 user-guide-title: '[!DNL Experience Makers Learn from your peers]'
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: Verzameling opnamen van  [!DNL Experience Makers Learn from your peers]
-source-git-commit: 97016d0d62c2eefca2fd305fedc093c814e3bcc9
+source-git-commit: 9f9bbcdcd56ba6736d86a6f272023db52e28fa7a
 workflow-type: tm+mt
-source-wordcount: '327'
-ht-degree: 10%
+source-wordcount: '334'
+ht-degree: 11%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 10%
    + 2023 {#2023}
       + november {#nov2023}
          + [Effectieve gegevensvisualisaties](analytics/nov2023/impactful-data-visualizations.md)
-      + augustus {#aug2023}
+      + Augustus {#aug2023}
          + [De kracht van verwerkingsregels in Adobe Analytics vrijmaken](analytics/aug2023/processing-rules.md)
       + februari {#feb2023}
          + [Een op gegevens gebaseerde cultuur maken](analytics/feb2023/data-driven-culture.md)
@@ -26,7 +26,7 @@ ht-degree: 10%
       + november {#nov2022}
          + [Tips en trucs](analytics/nov2022/tips-and-tricks.md)
          + [Opvolging vragen en antwoorden voor miniatuurtips en trucs](analytics/nov2022/tips-and-tricks-q-and-a.md)
-      + augustus {#aug2022}
+      + Augustus {#aug2022}
          + [Gegevenskwaliteit en adoptie](analytics/aug2022/data-quality.md)
       + juni {#jun2022}
          + [Documentatiemissie mogelijk](analytics/june2022/mission-possible.md)
@@ -40,7 +40,7 @@ ht-degree: 10%
       + [Voltooien van succes op schaal](experience-manager/july2024/global-digital-presence.md)
    + november {#nov2023}
       + [Uitmuntendheid voor ontwikkelaars met AEM Core-componenten](experience-manager/nov2023/core-components.md)
-   + september {#sept2023}
+   + September {#sept2023}
       + [Een diepe insteekmodule voor AEM Sites](experience-manager/sept2023/aem-sites-tools.md)
    + juli {#july2023}
       + [ Effectieve Strategieën van de Veiligheid in Cloud Service ](experience-manager/july2023/effective-security-strategies-in-cloud-service.md)
@@ -98,9 +98,9 @@ ht-degree: 10%
          + [Goedkeuring van eindgebruikers gelukt](workfront/2022/11/successful-end-user-adoption.md)
       + oktober {#october}
          + [Workflow en procesontwerp](workfront/2022/10/workflow-and-process-design.md)
-      + september {#september}
+      + September {#september}
          + [Aan de slag met resourcebeheer](workfront/2022/09/getting-started-with-resource-management.md)
-      + augustus {#august}
+      + Augustus {#august}
          + [Systeemonderhoud en -opschoning](workfront/2022/08/system-maintenance-and-cleanup.md)
       + juli {#july}
          + [Alles over aanvraagrijen](workfront/2022/07/all-about-request-queues.md)
@@ -114,4 +114,5 @@ ht-degree: 10%
          + [Wat is het bestuur van Workfront?](workfront/2022/03/what-is-workfront-governance.md)
       + februari {#february}
          + [Werken met gebruikersbeheer](workfront/2022/02/understanding-user-management.md)
++ [Adobe-gebruikersgroepen in Experience Cloud verkennen](./adobe-user-groups.md)
 + [Leer hoe u een Champion toepast en opvalt](./adobe-champion-application.md)
