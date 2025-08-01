@@ -228,7 +228,7 @@ Adobe Customer Success-geleide webinars die zijn ontworpen om u te helpen uw inv
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/ai-beyond-basics.md" title="AI Assistant - Buiten de basisbeginselen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463357/?format=jpeg&nocache=1754076650475" alt="AI Assistant - Buiten de basisbeginselen"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463364/?format=jpeg&nocache=1754076650475&captions=dut" alt="AI Assistant - Buiten de basisbeginselen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -481,7 +481,7 @@ Adobe Customer Success-geleide webinars die zijn ontworpen om u te helpen uw inv
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/gen-ai-experimentation.md" title="GenAI Experimentation in AJO en zijn relatie met Adobe Target" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444453/?format=jpeg&nocache=1754076650532" alt="GenAI Experimentation in AJO en zijn relatie met Adobe Target"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444465/?format=jpeg&nocache=1754076650532&captions=dut" alt="GenAI Experimentation in AJO en zijn relatie met Adobe Target"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -573,7 +573,7 @@ Adobe Customer Success-geleide webinars die zijn ontworpen om u te helpen uw inv
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/mastering-aem-sites.md" title="AEM Sites beheren - Sjablonen, Navigatie en SEO" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464298/?format=jpeg&nocache=1754076650581" alt="AEM Sites beheren - Sjablonen, Navigatie en SEO"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464321/?format=jpeg&nocache=1754076650581&captions=dut" alt="AEM Sites beheren - Sjablonen, Navigatie en SEO"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1081,7 +1081,7 @@ Adobe Customer Success-geleide webinars die zijn ontworpen om u te helpen uw inv
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/aep-marketo-integration.md" title="Grondbeginselen van de integratie van Real-Time Customer Data Platform en Marketo" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433222/?format=jpeg&nocache=1754076651827" alt="Grondbeginselen van de integratie van Real-Time Customer Data Platform en Marketo"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433674/?format=jpeg&nocache=1754076651827&captions=dut" alt="Grondbeginselen van de integratie van Real-Time Customer Data Platform en Marketo"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1242,7 +1242,7 @@ Adobe Customer Success-geleide webinars die zijn ontworpen om u te helpen uw inv
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/data-stream-prioritization.md" title="Prioriteit gegevensstroom" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427302/?format=jpeg&nocache=1754076651894" alt="Prioriteit gegevensstroom"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456811/?format=jpeg&nocache=1754076651894&captions=dut" alt="Prioriteit gegevensstroom"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1426,7 +1426,7 @@ Adobe Customer Success-geleide webinars die zijn ontworpen om u te helpen uw inv
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/hyperpersonalization.md" title="Personalization-rijpheid - Het pad naar hyperpersonalisatie" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429288/?format=jpeg&nocache=1754076651959" alt="Personalization-rijpheid - Het pad naar hyperpersonalisatie"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457351/?format=jpeg&nocache=1754076651959&captions=dut" alt="Personalization-rijpheid - Het pad naar hyperpersonalisatie"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1472,7 +1472,7 @@ Adobe Customer Success-geleide webinars die zijn ontworpen om u te helpen uw inv
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/lean-teams-cja.md" title="Efficiëntie maximaliseren - Lean Teams en Customer Journey Analytics" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432998/?format=jpeg&nocache=1754076651982" alt="Efficiëntie maximaliseren - Lean Teams en Customer Journey Analytics"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457014/?format=jpeg&nocache=1754076651982&captions=dut" alt="Efficiëntie maximaliseren - Lean Teams en Customer Journey Analytics"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1587,7 +1587,7 @@ Adobe Customer Success-geleide webinars die zijn ontworpen om u te helpen uw inv
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/strategic-leadership.md" title="Strategisch leiderschap" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427463/?format=jpeg&nocache=1754076652059" alt="Strategisch leiderschap"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456789/?format=jpeg&nocache=1754076652059&captions=dut" alt="Strategisch leiderschap"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1748,7 +1748,7 @@ Adobe Customer Success-geleide webinars die zijn ontworpen om u te helpen uw inv
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/workfront-lean-teams.md" title="Maximale efficiëntie met Adobe Workfront - Lean Teams Webinar" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429287/?format=jpeg&nocache=1754076652076" alt="Maximale efficiëntie met Adobe Workfront - Lean Teams Webinar"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456713/?format=jpeg&nocache=1754076652076&captions=dut" alt="Maximale efficiëntie met Adobe Workfront - Lean Teams Webinar"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
