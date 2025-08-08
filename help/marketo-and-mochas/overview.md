@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Marketo en Mochas
 
-Welkom bij de opnamen van Marketo en Mochas. Gebruikend deze middelen die met de documentatie van Adobe Marketo [&#128279;](https://experienceleague.adobe.com/docs/marketo-engage.html) en [ leerprogramma&#39;s ](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html) worden gecombineerd, zult u een beter inzicht krijgen hoe te om Adobe Marketo te gebruiken om uw zaken te steunen.
+Welkom bij de opnamen van Marketo en Mochas. Gebruikend deze middelen die met de documentatie van Adobe Marketo [&#128279;](https://experienceleague.adobe.com/docs/marketo-engage.html?lang=nl-NL) en [ leerprogramma&#39;s ](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=nl-NL) worden gecombineerd, zult u een beter inzicht krijgen hoe te om Adobe Marketo te gebruiken om uw zaken te steunen.
 
 ## 2025 Opnamen
 
