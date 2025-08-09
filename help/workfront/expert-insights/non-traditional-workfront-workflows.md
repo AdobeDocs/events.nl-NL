@@ -33,7 +33,7 @@ U zult verbaasd zijn over alle fantastische ideeën die zij deelt, zoals: 
 * Creative Brief-revisies starten om tegemoet te komen aan de behoeften van hun gebruikers en projecten. 
 * *BONUS!* Ze deelt ook een voorbeeld van een van haar favoriete Fusion use cases!
 
->[!VIDEO](https://video.tv.adobe.com/v/3469900/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3469945/?learn=on&enablevpops&captions=dut)
 
 ## Bronnen
 

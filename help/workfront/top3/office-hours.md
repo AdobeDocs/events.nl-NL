@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Nogmaals, ik ben uw &quot;On-Demand Workfront CSM&quot; Cynthia Boon en ik heb een onderwerp voor u dat de hele tijd tijdens gebeurtenissen aan de orde komt.  Als u nog maar net aan de slag bent met het vaststellen van kantooruren of als u deze alleen maar wilt opfrissen, bekijkt u de onderstaande video! 
 
->[!VIDEO](https://video.tv.adobe.com/v/3470053/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470148/?learn=on&enablevpops&captions=dut)
 
 Office Hours is slechts een belangrijk onderdeel van je algemene Workfront Communication Plan. Op zoek naar meer ideeën over het communiceren met uw gebruikers? Controle uit het [ Communicatie Cookbook van de Gebruiker van het Eind ](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/introducing-the-end-user-communications-cookbook/ba-p/607439)!
 
