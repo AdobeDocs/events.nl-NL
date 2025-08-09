@@ -36,4 +36,4 @@ Hier volgt een kort overzicht van de tips die in de chat werden gedeeld: 
 * Als gebruikers geen (e-mailberichten) ontvangen, kunt u zich altijd aanmelden zoals ze kunnen bevestigen dat de melding in hun profiel is ingeschakeld. Neem ook contact op met de klantenondersteuning als u vast komt te zitten!   
 * U kunt overwegen de e-mails die aan statuswijzigingen zijn gekoppeld, uit te schakelen. Veroorzaakt dit meer ruis dan informatieve actie?  
 
-We hopen u te zien in toekomstige workshops over succes bij de klant!  Ben zeker om de [ Gebeurtenissen van Workfront ](https://experienceleague.adobe.com/events/?filters=Workfront) op Experience League voor de volledige lijst te controleren en te registreren.
+We hopen u te zien in toekomstige workshops over succes bij de klant!  Ben zeker om de [ Gebeurtenissen van Workfront ](https://experienceleague.adobe.com/events/?lang=nl-NL&filters=Workfront) op Experience League voor de volledige lijst te controleren en te registreren.

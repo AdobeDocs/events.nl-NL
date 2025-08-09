@@ -29,8 +29,8 @@ Samen met de opnamen op aanvraag hebben we de schuifbalken en tips opgenomen die
 * [ Experience League Community Post ](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-the-workfront-fusion-fix-ericsson-s-smarter-way/td-p/759188)
 
 Ben je net aan de slag met Fusion? Ontdek deze bronnen! 
-* [ de Fusie van Workfront opleiding op Experience League ](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/fusion/welcome-to-workfront-fusion/workfront-fusion-overview)
-* [ Controle uit de lijst van beschikbare malplaatjes van de Fusie hier ](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/create-and-manage-templates/currently-available-fusion-templates) - een handvol nieuwe malplaatjes zijn onlangs gepubliceerd!  
+* [ de Fusie van Workfront opleiding op Experience League ](https://experienceleague.adobe.com/nl/docs/workfront-learn/tutorials-workfront/fusion/welcome-to-workfront-fusion/workfront-fusion-overview)
+* [ Controle uit de lijst van beschikbare malplaatjes van de Fusie hier ](https://experienceleague.adobe.com/nl/docs/workfront-fusion/using/create-and-manage-templates/currently-available-fusion-templates) - een handvol nieuwe malplaatjes zijn onlangs gepubliceerd!  
 * **Pro-uiteinde van klanten in het praatje** wanneer het leren van Fusie, begin klein met Workfront-aan-Workfront automatisering 
 
-We hopen u te zien in toekomstige workshops over succes bij de klant!  Ben zeker om de [ Gebeurtenissen van Workfront ](https://experienceleague.adobe.com/events/?filters=Workfront) op Experience League voor de volledige lijst te controleren en te registreren.
+We hopen u te zien in toekomstige workshops over succes bij de klant!  Ben zeker om de [ Gebeurtenissen van Workfront ](https://experienceleague.adobe.com/events/?lang=nl-NL&filters=Workfront) op Experience League voor de volledige lijst te controleren en te registreren.

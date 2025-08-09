@@ -36,9 +36,9 @@ Tijdens onze chat deelde Lyndsy
 
 Zoals beloofd, zijn hier de middelen die wij samen met een paar extra verbindingen voor de Queues van het Verzoek en de Onderwerpen van de Rij bespraken:
 
-* De middelen op hoe te om [ een Geërfte Ingeërfde Instantie ](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/system-perfomance-and-maintenance/take-charge-of-an-existing-workfront-instance) te beheren, omvat de verbinding aan webinar en details op het [ Leerprogramma van de Vervaging ](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/understand-request-queues)
+* De middelen op hoe te om [ een Geërfte Ingeërfde Instantie ](https://experienceleague.adobe.com/nl/docs/workfront-learn/tutorials-workfront/administration-and-setup/system-perfomance-and-maintenance/take-charge-of-an-existing-workfront-instance) te beheren, omvat de verbinding aan webinar en details op het [ Leerprogramma van de Vervaging ](https://experienceleague.adobe.com/nl/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/understand-request-queues)
 
-* Het begrip van de Documentatie van de Rijen van het Verzoek: [ creeer de Onderwerpen van de Rij ](https://experienceleague.adobe.com/en/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-queue-topics)
+* Het begrip van de Documentatie van de Rijen van het Verzoek: [ creeer de Onderwerpen van de Rij ](https://experienceleague.adobe.com/nl/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-queue-topics)
 
 * De webinaire presentatie van Lyndsy voor [ Hoofdzaak van Admin van het Systeem ](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/webinar-system-admin-essentials-communicating-with-end-users/td-p/606096): Het communiceren met Eind - Gebruikers (deze pagina omvat ook een verbinding aan het [ Eind - gebruikersbevelen Cookbook ](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/introducing-the-end-user-communications-cookbook/ba-p/607439))
 
