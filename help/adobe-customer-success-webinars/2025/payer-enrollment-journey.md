@@ -24,7 +24,7 @@ Ontdek hoe de hulp van AEM Forms de Lagen van begin tot eind het inschrijvingsre
 
 ## Innovaties in formulierontwerp
 
-* **AI-Aangedreven 1} creatie van de Vorm produceert vormen van kras of zet PDFs om gebruikend AI.**
+* **AI-Aangedreven 1&rbrace; creatie van de Vorm produceert vormen van kras of zet PDFs om gebruikend AI.**
 * **Dynamische Regels** tonen of verbergen gebieden die op gebruikersinput voor gepersonaliseerde ervaringen worden gebaseerd.
 * **Interactieve Mededelingen** creeer pixel-perfecte PDFs voor regelgevende naleving.
 * **Multimodale Forms** laat op conversatie en beeld-gebaseerde vorm het vullen toe.

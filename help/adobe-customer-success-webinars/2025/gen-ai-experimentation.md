@@ -40,4 +40,4 @@ Dit webinar verstrekt een dieper inzicht in hoe AI Assistant Content Accelerator
 
 * **de Gevallen en de Scenario&#39;s van het Gebruik** Adobe Journey Optimizer en Adobe Target kunnen samen voor diverse scenario&#39;s, met inbegrip van Web en mobiele verpersoonlijking, omni-kanaal orchestratie, en het combineren van off-line en online ervaringen worden gebruikt.
 
-* **De Toekomstige Ontwikkelingen van 0} {voor Adobe Target omvatten verbeterde AI mogelijkheden, zoals AI Medewerker voor het oplossen van problemen en het begrip rapporten, en de integratie van de Versneller van de Inhoud voor het produceren van en het testen van inhoudselementen efficiënt.**
+* **De Toekomstige Ontwikkelingen van 0&rbrace; &lbrace;voor Adobe Target omvatten verbeterde AI mogelijkheden, zoals AI Medewerker voor het oplossen van problemen en het begrip rapporten, en de integratie van de Versneller van de Inhoud voor het produceren van en het testen van inhoudselementen efficiënt.**

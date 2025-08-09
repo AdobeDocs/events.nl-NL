@@ -40,7 +40,7 @@ Dit webinar wordt ontworpen voor beroeps die met traditionele Dynamische Media v
 
 Deze integratiescenario&#39;s demonstreren de flexibiliteit en schaalbaarheid van Dynamic Media met OpenAPI voor verschillende bedrijfsbehoeften.
 
-* **Dynamische Media van de Integratie van 0} AEM Sites {met OpenAPI steunt naadloze integratie met AEM Sites, toestaand activa om direct van de leveringsrij zonder duplicatie worden gehaald.**
+* **Dynamische Media van de Integratie van 0&rbrace; AEM Sites &lbrace;met OpenAPI steunt naadloze integratie met AEM Sites, toestaand activa om direct van de leveringsrij zonder duplicatie worden gehaald.**
 * **CMS van de Derde** laat integratie met platforms zoals Salesforce en Drupal toe gebruikend APIs of micro front-end toepassingen.
 * **API-Gedreven Toegang** verstrekt APIs voor het zoeken, het terugwinnen, en het leveren van geoptimaliseerde vertoningen van activa.
 * **de Optimalisering van de Rij van de Levering** Assets wordt gediend snel, die snellere en efficiëntere levering verzekeren.

@@ -38,4 +38,4 @@ Aangezien de Marketers onder druk staan om activa te creëren en campagnes snell
 
 * **de Verschuiving van de Cultuur en het Beheer van de Verandering** Transitioning aan agile marketing vereist een significante culturele verschuiving, met inbegrip van het breken van silo&#39;s, het bevorderen van samenwerking, en het uitvoeren van de strategieën van het veranderingsbeheer. Het gaat ook om investeringen vooraf in opleiding en instrumenten.
 
-* **Succesvolle agile marketing van de Rollen en van de Structuur van 0} de Gelijke Verkoop impliceert specifieke rollen zoals uitvoerende sponsors, stuurcomités, en specifieke rumteams.** Het omvat ook het gebruik van flexibele marketingteams en expertisecentra om de strategie en uitvoering te stimuleren.
+* **Succesvolle agile marketing van de Rollen en van de Structuur van 0&rbrace; de Gelijke Verkoop impliceert specifieke rollen zoals uitvoerende sponsors, stuurcomités, en specifieke rumteams.** Het omvat ook het gebruik van flexibele marketingteams en expertisecentra om de strategie en uitvoering te stimuleren.

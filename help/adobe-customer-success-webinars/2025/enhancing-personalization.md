@@ -38,6 +38,6 @@ Leer hoe u de verpersoonlijkingsstrategie kunt verbeteren door Adobe Target krac
 
 * **Adobe Experience Manager (AEM) en de Integratie van Adobe Target** Deze integratie machtigt marketers om gepersonaliseerde, geautomatiseerde inhoudservaring foutloos te leveren door robuuste mogelijkheden van het inhoudsbeheer van AEM en de geavanceerde optimalisering en het testen hulpmiddelen van het Doel leveraging.
 
-* **Verbeterde Ervaring van Personalization en van het Kanaal 1} Gebruikend alle drie oplossingen (Adobe Target, CJA, en AEM) samen helpt gegeven-gedreven, naadloze, dwars-kanaalervaringen bij schaal leveren, die ervoor zorgen de gepersonaliseerde inhoud in echt-tijd over Web, mobiel, e-mail, en andere kanalen wordt geleverd.**
+* **Verbeterde Ervaring van Personalization en van het Kanaal 1&rbrace; Gebruikend alle drie oplossingen (Adobe Target, CJA, en AEM) samen helpt gegeven-gedreven, naadloze, dwars-kanaalervaringen bij schaal leveren, die ervoor zorgen de gepersonaliseerde inhoud in echt-tijd over Web, mobiel, e-mail, en andere kanalen wordt geleverd.**
 
 * **Schaalbaarheid en Automatisering** De gecombineerde mogelijkheden van het inhoudsbeheer van AEM, de AI-gedreven verpersoonlijking van het Doel, en CJA geavanceerde analyses maken het gemakkelijker om campagnes te schrapen en te automatiseren, behandelend grote volumes van gegevens en inhoud om gepersonaliseerde ervaringen bij schaal te leveren.
