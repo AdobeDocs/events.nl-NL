@@ -1,19 +1,20 @@
 ---
 title: Data Distiller 101
 description: De gegevens Distiller 101 webinar benadrukt zijn mogelijkheden in gegevenssegmentatie, verrijking, en integratie AI/ML, die scalable oplossingen voor gegevensarchitecten en marketing entiteiten aanbieden om gegeven-gedreven besluitvorming te verbeteren.
+solution: Experience Platform
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
 duration: 2659
 last-substantial-update: 2025-02-21T00:00:00Z
 jira: KT-17375
-source-git-commit: e7bf8b79ad4920b303fc3afbdfb4adee60614c88
+exl-id: 111724c4-a20b-4b18-b600-c285f54195a8
+source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
 workflow-type: tm+mt
 source-wordcount: '278'
 ht-degree: 0%
 
 ---
-
 
 # Data Distiller 101
 
@@ -39,7 +40,7 @@ Het webinar benadrukte vijf primaire gebruiksgevallen voor Data Distiller:
 
 * Het creëren van merkgerichte gegevensmodellen voor een Zuid-Amerikaanse detailhandelsonderneming.
 * Verrijking van de e-mails met de best mogelijke aanbieding met gepersonaliseerde gegevens voor een telecommunicatiebedrijf.
-* Gegevens optimaliseren voor rapportage- en attributiemodellering voor een luxe detailhandelaar.
+* Gegevens optimaliseren voor rapportage- en attributiemodellering voor een luxe retailer.
 * Inzichten aanpassen voor operationele dashboarding.
 * Hulpleidingen voor het gebruik van AI- en ML-functies voor training en scoring-modellen.
 

@@ -4,17 +4,20 @@ description: Tips voor Workfront-experts over het samenstellen van Help Desk Que
 feature: Requests
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
+speaker-name-1: Lyndsy Dent
+speaker-title-1: Marketing Training and Enablement Manager
+speaker-company-1: IDEXX
 doc-type: Event
 duration: 1228
 last-substantial-update: 2025-07-17T00:00:00Z
 jira: KT-18551
-source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
+exl-id: 370e6388-2dc3-4c12-8500-510dac32e867
+source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
 workflow-type: tm+mt
-source-wordcount: '363'
+source-wordcount: '364'
 ht-degree: 0%
 
 ---
-
 
 # Expert Insights - Request Queueuws met Lyndsy
 
@@ -33,17 +36,17 @@ Tijdens onze chat deelde Lyndsy
 
 Zoals beloofd, zijn hier de middelen die wij samen met een paar extra verbindingen voor de Queues van het Verzoek en de Onderwerpen van de Rij bespraken:
 
-* De middelen op hoe te om [ een Geërfte Ingeërfde Instantie ](https://experienceleague.adobe.com/nl/docs/workfront-learn/tutorials-workfront/administration-and-setup/system-perfomance-and-maintenance/take-charge-of-an-existing-workfront-instance) te beheren, omvat de verbinding aan webinar en details op het [ Leerprogramma van de Vervaging ](https://experienceleague.adobe.com/nl/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/understand-request-queues)
+* De middelen op hoe te om [ een Geërfte Ingeërfde Instantie ](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/system-perfomance-and-maintenance/take-charge-of-an-existing-workfront-instance) te beheren, omvat de verbinding aan webinar en details op het [ Leerprogramma van de Vervaging ](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/understand-request-queues)
 
-* Het begrip van de Documentatie van de Rijen van het Verzoek: [ creeer de Onderwerpen van de Rij ](https://experienceleague.adobe.com/nl/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-queue-topics)
+* Het begrip van de Documentatie van de Rijen van het Verzoek: [ creeer de Onderwerpen van de Rij ](https://experienceleague.adobe.com/en/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-queue-topics)
 
 * De webinaire presentatie van Lyndsy voor [ Hoofdzaak van Admin van het Systeem ](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/webinar-system-admin-essentials-communicating-with-end-users/td-p/606096): Het communiceren met Eind - Gebruikers (deze pagina omvat ook een verbinding aan het [ Eind - gebruikersbevelen Cookbook ](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/introducing-the-end-user-communications-cookbook/ba-p/607439))
 
-* De presentatiemiddelen van de Uitwisseling van de Vaardigheid van Lyndsy [&#128279;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-november-2024-skill-exchange-workfront-process/m-p/726841#M3642)
+* De presentatiemiddelen van de Uitwisseling van de Vaardigheid van Lyndsy [ ](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-november-2024-skill-exchange-workfront-process/m-p/726841#M3642)
 
 * En vergeet niet om [ Workfront AMA ](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-ama-ask-me-anything-about-workfront-proof/ev-p/748798) te controleren me ANYTHING over Workfront Proof waar Lyndsy samen met Monique Evans en Richard Carlson uw vragen over het Bewijzen beantwoordde!
 
-### Over Lyndsy
+## Over de spreker 
 
 Lyndsy is de Marketing Training and Enablement Manager bij IDEXX. Naast Workfront beheert ze haar DAM en leidt ze interne communicatie voor de marketingafdeling. Ze heeft een achtergrond in technisch schrijven, educatief ontwerp, hoger onderwijs, en het coachen van competitieve toespraak en debat op de middelbare school.
 
@@ -54,5 +57,3 @@ U weet nooit welke fantastische ideeën klanten tijdens gebeurtenissen zullen de
 ## Heb je iets te delen?
 
 Hebt u een geweldig verhaal om te delen, tijdens een gebeurtenis of in een video van Expert Insights? Gelieve te bereiken uit aan ons team in [ CSatScale@adobe.com ](mailto:CSatScale@adobe.com).
-
-

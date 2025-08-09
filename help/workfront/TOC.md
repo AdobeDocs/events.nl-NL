@@ -3,9 +3,9 @@ user-guide-title: Workfront Events
 breadcrumb-title: Workfront Events
 user-guide-description: Workfront Events
 solution: Workfront
-source-git-commit: 6925343d683d029536f93cfedd93ec2290bea78d
+source-git-commit: 1ea39689a5a29311da7930039b7d5fc308c296b0
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '204'
 ht-degree: 0%
 
 ---
@@ -22,13 +22,24 @@ ht-degree: 0%
    + [24.1 Release](releases/24-1-release-webinar.md)
 + Boven 3 {#top3}
    + [Creative-benaderingen met blauwdrukken](top3/blueprints.md)
+   + [Top 3 benaderingen voor kantooruren](top3/office-hours.md)
 + Volsus! {#versus}
    + [Groepen versus teams](versus/groups-vs-teams.md)
 + Expert Insights {#expert-insights}
+   + [Niet-traditionele Workfront-workflows](expert-insights/non-traditional-workfront-workflows.md)
    + [Queuten aanvragen met Lyndsy](expert-insights/request-queues.md)
+   + [SLA Reporting in Workfront](expert-insights/sla-reporting.md)
 + Workshop terugspoelen {#workshop-rewind}
+   + Integraties {#integrations}
+      + [Navigeren door wijzigingen voor velden met meerdere selecties en versnelling](workshop-rewind/integrations/mulit-select-fields.md)
+      + [Ware-gebeurteniskosten ontgrendelen](workshop-rewind/integrations/event-costs.md)
+   + Planning {#planning}
+      + [Succes op teamniveau met Workfront-planning](workshop-rewind/planning/team-success-workfront-planning.md)
    + Workflow {#workflow}
       + [Creative-methoden voor het beheer van bronnen](classics/creative-ways-of-managing-resources.md)
+      + [E-mailberichten beheren](workshop-rewind/workflow/email-notifications.md)
+      + [Projectsjablonen](workshop-rewind/workflow/project-templates.md)
+      + [De kracht van Workfront Data Connect ontgrendelen](workshop-rewind/workflow/data-connect.md)
 
 <!--  + Planning {#planning}
   + Integrations {#integrations}

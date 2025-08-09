@@ -1,0 +1,52 @@
+---
+title: Snel starten, Slim schalen - Succesvol op teamniveau activeren met Workfront-planning
+description: Leer hoe een team-eerste benadering van de Planning van Adobe Workfront goedkeuring versnelt, resistentie vermindert, en een scalable stichting voor ondernemingsbreed succes bouwt.
+feature: Workfront Planning
+role: Admin, Developer, Leader, User
+level: Beginner, Intermediate, Experienced
+doc-type: Event
+duration: 3470
+last-substantial-update: 2025-08-08T00:00:00Z
+jira: KT-18628
+source-git-commit: 6225f36c5d26ecca5ebc2aca24a2d592a3279570
+workflow-type: tm+mt
+source-wordcount: '260'
+ht-degree: 0%
+
+---
+
+
+# Snel starten, Smart schalen: succes op teamniveau activeren met Workfront-planning
+
+Deze workshop werd op 28 mei 2025 geregistreerd en omvatte ons Adobe Workfront Product Team waar ze hun expertise deelden voor de implementatie van Workfront Planning. 
+
+Als u nog maar net aan de slag gaat met de Workfront-planning, kunt u een teameerste aanpak overwegen in plaats van een implementatie op bedrijfsniveau om u te helpen bij de implementatie: 
+
+* **Federaal versus het Model van de Staat** Opstelling een governancestrategie waar de teams (staten) autonoom Workfront Planning binnen geleide parameters goedkeuren, eerder dan het wachten op volledige (federale) implementatie op bedrijfsniveau  
+* **Zeer belangrijke Voordelen van Team-Eerste Aanpak** Snellere goedkeuring, verminderde weerstand, ingebouwde evangelisten, lagere steunlast voor beheerders, en real-world terugkoppelen om onderneming-schaal ontwerpbesluiten te informeren 
+
+>[!VIDEO](https://video.tv.adobe.com/v/3469964/?learn=on&enablevpops)
+
+Naast de opname op bestelling, hebben wij het [ diafeck ](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/052825+-+Start+Fast,+Scale+Smart+Activating+Team-Level+Success+with+Workfront+Planning.pdf) van de beschikbare opname.
+
+## Aanvullende koppelingen
+
+Hier volgen enkele aanvullende snelkoppelingen naar bronnen om u te helpen aan de slag te gaan. 
+
+### Meer informatie
+
+* [ Grafiek Uw Cursus aan Succes met de Planning van Adobe Workfront ](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-learn-chart-your-course-to-success-with-adobe/td-p/743077)
+* [ Guidebook - Uw Workfront die GPS plant ](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Workfront+Planning+Guidebook.pdf)
+
+### Trainingsvideo&#39;s plannen
+
+* [ Toevoegend Planning aan uw instantie (de plannen van de Vergunning en dergelijke) ](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/workfront-planning/add-planning-to-your-instance)
+* [ Creërend een Workspace (Worden begonnen met de stichting voor Planning) ](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/workfront-planning/create-a-workspace)
+* [ creeer en beheer een Type van Verslag ](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/workfront-planning/create-and-manage-a-record-type)
+* [ creeer en beheer de Mening van de Lijst ](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/workfront-planning/create-and-manage-table-views)
+* [ Documentatie: Overzicht van de Planning van Adobe Workfront ](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-planning/adobe-workfront-planning-general-information/planning-overview)
+* [ de versieactiviteit van de Planning van Adobe Workfront ](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/planning-release-activity/planning-release-activity-article-index)
+
+Wij zullen meer gebeurtenissen hebben die binnenkort voor de Planning van Workfront komen, zodat ben zeker om de [ pagina van Gebeurtenissen op Experience League ](https://experienceleague.adobe.com/events/?filters=Workfront) regelmatig te controleren zodat u niet uit mist!
+
+

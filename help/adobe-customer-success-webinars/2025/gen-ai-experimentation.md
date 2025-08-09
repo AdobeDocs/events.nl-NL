@@ -1,6 +1,7 @@
 ---
 title: GenAI Experimentation in AJO en zijn relatie met Adobe Target
 description: Tijdens de vergadering werd gewezen op de mogelijkheden van AI Content Accelerator om tekst, afbeeldingen en HTML te genereren, content experimenteren via Adobe Journey Optimizer, integratie met Adobe Target voor optimalisatie en personalisatie, verschillende gebruiksscenario's voor gecombineerde gereedschappen en toekomstige ontwikkelingen, waaronder verbeterde AI-functies.
+solution: Journey Optimizer, Target
 feature: AI Assistant, Generative AI
 topic: Artificial Intelligence
 role: Admin, Developer, Leader, User
@@ -9,13 +10,13 @@ doc-type: Event
 duration: 2016
 last-substantial-update: 2025-02-21T00:00:00Z
 jira: KT-17374
-source-git-commit: e7bf8b79ad4920b303fc3afbdfb4adee60614c88
+exl-id: f085fe77-4025-4121-bd2a-24ec1436be93
+source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
 workflow-type: tm+mt
 source-wordcount: '303'
 ht-degree: 0%
 
 ---
-
 
 # GenAI Experimentation in AJO en zijn relatie met Adobe Target
 
@@ -27,7 +28,7 @@ Dit webinar verstrekt een dieper inzicht in hoe AI Assistant Content Accelerator
 * Inhoud experimenteren en optimaliseren
 * Generatieve AI
 
->[!VIDEO](https://video.tv.adobe.com/v/3444465/?learn=on&enablevpops&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3444453/?learn=on&enablevpops)
 
 ## Toetsen
 
@@ -39,4 +40,4 @@ Dit webinar verstrekt een dieper inzicht in hoe AI Assistant Content Accelerator
 
 * **de Gevallen en de Scenario&#39;s van het Gebruik** Adobe Journey Optimizer en Adobe Target kunnen samen voor diverse scenario&#39;s, met inbegrip van Web en mobiele verpersoonlijking, omni-kanaal orchestratie, en het combineren van off-line en online ervaringen worden gebruikt.
 
-* **De Toekomstige Ontwikkelingen van 0&rbrace; &lbrace;voor Adobe Target omvatten verbeterde AI mogelijkheden, zoals AI Medewerker voor het oplossen van problemen en het begrip rapporten, en de integratie van de Versneller van de Inhoud voor het produceren van en het testen van inhoudselementen efficiënt.**
+* **De Toekomstige Ontwikkelingen van 0} {voor Adobe Target omvatten verbeterde AI mogelijkheden, zoals AI Medewerker voor het oplossen van problemen en het begrip rapporten, en de integratie van de Versneller van de Inhoud voor het produceren van en het testen van inhoudselementen efficiënt.**

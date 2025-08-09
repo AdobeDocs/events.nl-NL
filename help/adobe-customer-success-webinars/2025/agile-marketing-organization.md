@@ -1,19 +1,20 @@
 ---
 title: Een Agile Marketing Organisation kweken
 description: Tijdens de vergadering over de verbouwing van een agile-marketingorganisatie werden de beginselen van flexibele marketing, de voordelen ervan, de uitdagingen met de traditionele watervalbenadering, de noodzaak van een cultureel verschuivings- en veranderingsmanagement en de rollen en structuur die essentieel zijn voor een succesvolle marketing van agile's benadrukt.
+solution: General
 role: Developer, Leader, User
 level: Intermediate
 doc-type: Event
 duration: 3333
 last-substantial-update: 2025-02-21T00:00:00Z
 jira: KT-17371
-source-git-commit: e7bf8b79ad4920b303fc3afbdfb4adee60614c88
+exl-id: c4cce472-9730-41d8-8292-663d5a2e03a5
+source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
 workflow-type: tm+mt
 source-wordcount: '286'
 ht-degree: 0%
 
 ---
-
 
 # Een Agile Marketing Organisation kweken
 
@@ -37,4 +38,4 @@ Aangezien de Marketers onder druk staan om activa te creëren en campagnes snell
 
 * **de Verschuiving van de Cultuur en het Beheer van de Verandering** Transitioning aan agile marketing vereist een significante culturele verschuiving, met inbegrip van het breken van silo&#39;s, het bevorderen van samenwerking, en het uitvoeren van de strategieën van het veranderingsbeheer. Het gaat ook om investeringen vooraf in opleiding en instrumenten.
 
-* **Succesvolle agile marketing van de Rollen en van de Structuur van 0&rbrace; de Gelijke Verkoop impliceert specifieke rollen zoals uitvoerende sponsors, stuurcomités, en specifieke rumteams.** Het omvat ook het gebruik van flexibele marketingteams en expertisecentra om de strategie en uitvoering te stimuleren.
+* **Succesvolle agile marketing van de Rollen en van de Structuur van 0} de Gelijke Verkoop impliceert specifieke rollen zoals uitvoerende sponsors, stuurcomités, en specifieke rumteams.** Het omvat ook het gebruik van flexibele marketingteams en expertisecentra om de strategie en uitvoering te stimuleren.
