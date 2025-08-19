@@ -1,7 +1,6 @@
 ---
 title: Adobe Campaign Classic-leveringsprestaties - Problemen oplossen
 description: Deze sessie betrof belangrijke strategieën om de prestaties van e-mail en SMS-berichten met Adobe Campaign te verbeteren. Het behandelde gemeenschappelijke uitdagingen zoals leveringsvertragingen, lage productie, en transactiesolerantie, het aanbieden van oplossingen zoals batchoptimalisering, SQL registreren, en de controle van serverprestaties. De beste praktijken van de leveringsbaarheid omvatten juiste e-mailauthentificatie (SPF, DKIM, DMARC), zwarte lijst controle, en spamcontroles. Voor betere prestaties adviseerden de deskundigen schone werkschema's, het vertragen regels, en het vermijden van gedeelde containers. Tips voor het leveren van SMS-berichten zijn gericht op de juiste installatie van externe accounts en de analyse van logbestanden. De sessie benadrukte ook het bijhouden van validatie, databaseonderhoud met behulp van blotrapporten en het toepassen van druk- en vermoeidheidsregels om de betrokkenheid te vergroten. Een opname van een sessie wordt via e-mail gedeeld en op de website van Adobe Experience geplaatst.
-version: Classic v7
 solution: Campaign Classic v7
 product: Adobe Campaign
 feature: SMS, Deliverability, Troubleshooting
@@ -11,13 +10,13 @@ doc-type: Event
 duration: 2257
 last-substantial-update: 2025-04-25T00:00:00Z
 jira: KT-17869
-source-git-commit: 373605f79b3122382e221252232a26535ff3109b
+exl-id: a7e1e198-b63b-4a2a-9ffc-7f72bf4c61c1
+source-git-commit: 3b54c46988da18248024d115997704d9881f5e68
 workflow-type: tm+mt
 source-wordcount: '442'
 ht-degree: 0%
 
 ---
-
 
 # Technische sessies: Adobe Campaign Classic-prestaties voor levering - Problemen oplossen
 

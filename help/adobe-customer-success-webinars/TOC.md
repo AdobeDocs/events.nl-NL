@@ -2,10 +2,10 @@
 user-guide-title: Adobe Customer Success Webinars
 breadcrumb-title: Adobe Customer Success Webinars
 user-guide-description: Adobe Customer Success geleide webinars die zijn ontworpen om u te helpen uw investering in Adobe Experience Cloud te optimaliseren. Vergroot waardevolle inzichten om de waarde te maximaliseren en de acceptatie van Adobe-oplossingen te vergroten.
-source-git-commit: 6225f36c5d26ecca5ebc2aca24a2d592a3279570
+source-git-commit: 2f118841f4332bcf105e519f31de34b6ac6c58dc
 workflow-type: tm+mt
-source-wordcount: '475'
-ht-degree: 4%
+source-wordcount: '484'
+ht-degree: 3%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 4%
    + Commerce {#commerce2025}
       + [B2B en B2B2C Commerce transformeren](2025/transforming-b2b-commerce.md)
    + Customer Journey Analytics {#cja2025}
+      + [Directie sponsoring opbouwen](2025/cja-success.md)
+      + [Beheerstrategieën wijzigen](2025/cja-adoption.md)
       + [Een besturingssysteem ontwerpen voor CJA Success](2025/cja-operating-model.md)
       + [Foundationarchitectuur](2025/cja-vision.md)
       + [Migreren naar CJA vanuit Adobe Analytics](2025/analytics-to-cja-migration.md)
@@ -35,6 +37,7 @@ ht-degree: 4%
       + [New Relic Essentials for AEM Cloud](2025/new-relic-essentials-aem-cloud.md)
       + [AEM-prestaties optimaliseren](2025/optimize-aem-performance.md)
       + [Digitale communicatie aanpassen](2025/personalize-digital-communications.md)
+      + [Overzicht van Universal Editor](2025/modern-aem-authoring.md)
    + Experience Platform {#aep2025}
       + [AI - Buiten de basisbeginselen](2025/ai-beyond-basics.md)
       + [Beste praktijken en Inzichten voor het Modelleren van Schema&#39;s XDM](2025/model-xdm-schemas.md)
