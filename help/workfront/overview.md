@@ -74,7 +74,7 @@ Op zoek naar snelle, activeerbare inzichten om je Adobe Workfront-game op een ho
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="top3/blueprints.md" title="Top 3 - Creative-benaderingen met blauwdrukken" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465271/?format=jpeg&nocache=1755644849276" alt="Top 3 - Creative-benaderingen met blauwdrukken"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465317/?format=jpeg&nocache=1755644849276&captions=dut" alt="Top 3 - Creative-benaderingen met blauwdrukken"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -97,7 +97,7 @@ Op zoek naar snelle, activeerbare inzichten om je Adobe Workfront-game op een ho
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="top3/office-hours.md" title="Top 3 benaderingen voor kantooruren" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470053/?format=jpeg&nocache=1755644849259" alt="Top 3 benaderingen voor kantooruren"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470148/?format=jpeg&nocache=1755644849259&captions=dut" alt="Top 3 benaderingen voor kantooruren"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -136,7 +136,7 @@ Of u nu een Workfront-beheerder, projectmanager of alledaagse gebruiker bent, de
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="versus/groups-vs-teams.md" title="Volsus! - Groepen versus teams" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465273/?format=jpeg&nocache=1755644849574" alt="Volsus! - Groepen versus teams"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3467359/?format=jpeg&nocache=1755644849574&captions=dut" alt="Volsus! - Groepen versus teams"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -178,7 +178,7 @@ Deze sessies zijn uitgerust met oplossingen uit de praktijk, voorbeelden van kla
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/content-supply-chain.md" title="Expert Insights - Content Supply Chain with Corre Kombol" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469899/?format=jpeg&nocache=1755644850018" alt="Expert Insights - Content Supply Chain with Corre Kombol"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470000/?format=jpeg&nocache=1755644850018&captions=dut" alt="Expert Insights - Content Supply Chain with Corre Kombol"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -201,7 +201,7 @@ Deze sessies zijn uitgerust met oplossingen uit de praktijk, voorbeelden van kla
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/non-traditional-workfront-workflows.md" title="Expert Insights - Niet-traditionele Workfront Workflows met Kiersten Kollins" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469900/?format=jpeg&nocache=1755644850008" alt="Expert Insights - Niet-traditionele Workfront Workflows met Kiersten Kollins"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469945/?format=jpeg&nocache=1755644850008&captions=dut" alt="Expert Insights - Niet-traditionele Workfront Workflows met Kiersten Kollins"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -247,7 +247,7 @@ Deze sessies zijn uitgerust met oplossingen uit de praktijk, voorbeelden van kla
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/sla-reporting.md" title="SLA Reporting in Workfront met Madalyn Destafney" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469901/?format=jpeg&nocache=1755644850045" alt="SLA Reporting in Workfront met Madalyn Destafney"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469984/?format=jpeg&nocache=1755644850045&captions=dut" alt="SLA Reporting in Workfront met Madalyn Destafney"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

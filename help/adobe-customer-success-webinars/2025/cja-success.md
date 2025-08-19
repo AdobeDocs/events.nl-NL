@@ -20,7 +20,7 @@ ht-degree: 0%
 
 In onze vierde zitting duiken we in hoe het gebrek aan sterke uitvoerende sponsoring de besluitvorming, de begrotingstoewijzing en het veranderingsbeheer zal vertragen. In dit webinar verkennen we de cruciale rol die uitvoerende leiders spelen bij het verdedigen van Adobe Customer Journey Analytics-programma&#39;s, het op één lijn brengen van interfunctionele teams en het aansturen van meetbare bedrijfsresultaten. Leer praktische strategieën om seniorbelanghebbenden bij de zaak te betrekken, op effectieve wijze waarde te communiceren en een cultuur van gegevensgestuurde besluitvorming op te bouwen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470853/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470860/?learn=on&enablevpops&captions=dut)
 
 ## Zakelijke zaken maken
 
