@@ -44,7 +44,7 @@ Deze gestructureerde aanpak helpt organisaties om effectief door overgangen te n
 
 Effectieve betrokkenheid van belanghebbenden is essentieel voor het stimuleren van afstemming en adoptie:
 
-* **Actieve participatie en visie-plaatsende van de Sponsoring van het leiderschap van 0}.**
+* **Actieve participatie en visie-plaatsende van de Sponsoring van het leiderschap van 0&rbrace;.**
 * **dwars-Functionele Collaboration** Bevorderend teamwerk over IT, marketing, wettig, en veiligheid.
 * **Roltoewijzing** die beïnvloede groepen en hun specifieke behoeften identificeren.
 * **het Mengen van het risico** vermijdend silo&#39;s en het verzekeren van duidelijke mededeling.

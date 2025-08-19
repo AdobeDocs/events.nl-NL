@@ -34,7 +34,7 @@ Ontdek hoe Adobe Experience Manager Universal Editor het ontwerpen van inhoud tr
 
 * **Capabilities van de Kern** steunt gealigneerde het uitgeven, op vorm-gebaseerde het uitgeven, en modale dialogen.
 * **de Integratie** werkt foutloos met de hulpmiddelen van AEM zoals werkschema&#39;s, vertaling, en multi-site beheer.
-* **de Uitbreidingspunten van de aanpassing** van de Aanpassing {voor de types van douanegegevensingang, lusjes, en modale dialogen.
+* **de Uitbreidingspunten van de aanpassing** van de Aanpassing &lbrace;voor de types van douanegegevensingang, lusjes, en modale dialogen.
 * **Flexibiliteit** Compatibel met veelvoudige inhoudstijden, met inbegrip van AEM JCR, GraphQL, en de diensten van de randlevering.
 
 Deze functies maken van de Universal Editor een veelzijdig hulpmiddel voor moderne behoeften op het gebied van inhoudsbeheer.
