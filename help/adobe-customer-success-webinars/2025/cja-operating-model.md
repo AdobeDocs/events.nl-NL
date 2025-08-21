@@ -37,8 +37,8 @@ De instelling van een gestructureerde bestuurscadentie zorgt voor soepele werkin
 * **jaarlijkse Vergaderingen van de Strategie** concentreert zich op het identificeren van waardebestuurders, het bijwerken van KPIs, en het herzien van roadmaps.
 * **Driemaandelijkse Revisies van Analytics** verfijnen roadmaps, beoordelen vooruitgang, en plan ondernemingsenablement.
 * **Maandelijkse Controle-ins van de LEIDING van de LEIDING** de escalaties van het Adres, overzichtsdoelstellingen, en spoor KPIs.
-* **Besprekingen van 0} biw-Weekly oplossen blokkeerders, aan taken voorrang geven, en risico&#39;s controleren.**
-* **De Activiteiten van het Team van het Dagelijkse Werk 1} behandelen de verrichtingen van dag tot dag en verzekeren vooruitgang.**
+* **Besprekingen van 0&rbrace; biw-Weekly oplossen blokkeerders, aan taken voorrang geven, en risico&#39;s controleren.**
+* **De Activiteiten van het Team van het Dagelijkse Werk 1&rbrace; behandelen de verrichtingen van dag tot dag en verzekeren vooruitgang.**
 
 Tilor deze ervaring aan de behoeften van uw organisatie groepering te handhaven en samenwerking over teams te bevorderen.
 
