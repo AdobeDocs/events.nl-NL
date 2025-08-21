@@ -38,8 +38,8 @@ Zoals Ewan in de video opmerkte, werkt hij aan een handleiding voor beste prakti
 
 ## Bronnen
 
-* [ Lijst van Beschikbare Malplaatjes van de Fusie ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/scenarios-in-fusion/fusion-scenario-templates/currently-available-fusion-templates.html?lang=en)
-* [ de videooverzichten van de Fusie van Adobe Workfront ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/get-started-with-workfront-fusion/fusion-basics-videos.html?lang=en)
+* [ Lijst van Beschikbare Malplaatjes van de Fusie ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/scenarios-in-fusion/fusion-scenario-templates/currently-available-fusion-templates.html?lang=nl-NL)
+* [ de videooverzichten van de Fusie van Adobe Workfront ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/get-started-with-workfront-fusion/fusion-basics-videos.html?lang=nl-NL)
 
 ## Over de spreker
 

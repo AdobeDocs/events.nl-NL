@@ -35,13 +35,13 @@ Op zoek naar manieren om uw gegevens beter te analyseren zodat u er klaar voor b
 
 Op zoek naar het verschil tussen de functie Resource Planner en de functie Workload Balancer? Hier volgen enkele korte video&#39;s:
 
-* [ wat is de Planner van het Middel?](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-resources/resource-planning/what-is-the-resource-planner.html?lang=en)
-* [ wijs het werk in de Balancer van de Werkbelasting toe ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-resources/workload-balancer/assign-work-in-the-workload-balancer.html?lang=en)
+* [ wat is de Planner van het Middel?](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-resources/resource-planning/what-is-the-resource-planner.html?lang=nl-NL)
+* [ wijs het werk in de Balancer van de Werkbelasting toe ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-resources/workload-balancer/assign-work-in-the-workload-balancer.html?lang=nl-NL)
 
 Aangezien de Planner van het Middel en de Balancer van de Werkbelasting twee verschillende hulpmiddelen binnen de eigenschap van het Beheer van het Middel zijn, is het begrijpen van het filtreren binnen allebei zeer belangrijk. Hier vindt u meer informatie:
 
-* [ informatie van de Filter in de Planner van het Middel ](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/resource-planning-in-adobe-workfront/filter-resource-planner.html?lang=en)
-* [ informatie van de Filter in de Balancer van de Werkbelasting ](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/filter-information-workload-balancer.html?lang=en)
+* [ informatie van de Filter in de Planner van het Middel ](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/resource-planning-in-adobe-workfront/filter-resource-planner.html?lang=nl-NL)
+* [ informatie van de Filter in de Balancer van de Werkbelasting ](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/filter-information-workload-balancer.html?lang=nl-NL)
 
 ## Over de spreker
 

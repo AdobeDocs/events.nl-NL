@@ -34,9 +34,9 @@ Natalie deelde haar favoriete Agile-bronnen tijdens het interview, zoals beloofd
 
 Op zoek naar eenvoudige manieren om aan de slag te gaan? Bekijk deze artikelen en korte videodemo&#39;s:
 
-* [ vroege eigenschapopt-in voor de Boden van Adobe Workfront ](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/boards-early-feature-opt-in.html?lang=en)
-* [ creeer of geef een raad uit - omvat beschrijvingen van elk malplaatje van Borden ](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/create-edit-board.html?lang=en)
-* [ Boards van Adobe Workfront - korte videodemonstraties ](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/boards-video-demonstrations.html?lang=en)
+* [ vroege eigenschapopt-in voor de Boden van Adobe Workfront ](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/boards-early-feature-opt-in.html?lang=nl-NL)
+* [ creeer of geef een raad uit - omvat beschrijvingen van elk malplaatje van Borden ](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/create-edit-board.html?lang=nl-NL)
+* [ Boards van Adobe Workfront - korte videodemonstraties ](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/boards-video-demonstrations.html?lang=nl-NL)
 
 ## Over de spreker
 
