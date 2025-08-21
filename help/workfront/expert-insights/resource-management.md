@@ -23,7 +23,7 @@ ht-degree: 0%
 
 Op zoek naar advies over Aan de slag met Resourcebeheer? Word lid van uw CSM voor on-demand Workfront voor een interview met onze in Adobe Workfront gevestigde expert op het gebied van hulpbronnenbeheer, Corinna Jevons, en verken de algemene vragen en beste benaderingen voor de implementatie van deze Workfront-functie.
 
->[!VIDEO](https://video.tv.adobe.com/v/3469890/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3469909/?learn=on&enablevpops&captions=dut)
 
 ## Bronnen
 

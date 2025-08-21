@@ -24,7 +24,7 @@ ht-degree: 0%
 
 Welkom terug bij een nieuw interview met Expert Insights, dit keer met advies over de beste werkwijzen om aan de slag te gaan met Agile in uw organisatie. Neem deel aan uw CSM voor on-demand Workfront voor een interview met onze ingezeten Adobe Workfront Agile-expert, Natalie Mitchell, en verken de gemeenschappelijke vragen en aanbevelingen voor de implementatie van de Agile-methodologie met uw teams.
 
->[!VIDEO](https://video.tv.adobe.com/v/3469891/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3469922/?learn=on&enablevpops&captions=dut)
 
 ## Bronnen
 
