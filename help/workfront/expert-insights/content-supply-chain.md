@@ -11,13 +11,13 @@ doc-type: Event
 duration: 801
 last-substantial-update: 2025-08-19T00:00:00Z
 jira: KT-18621
-source-git-commit: 2f118841f4332bcf105e519f31de34b6ac6c58dc
+exl-id: f8600288-a19b-440c-b60d-94078014353e
+source-git-commit: 2f10210e5c92e5c1bf77c886ed347cdc967f089e
 workflow-type: tm+mt
-source-wordcount: '359'
+source-wordcount: '357'
 ht-degree: 0%
 
 ---
-
 
 # Expert Insights - Content Supply Chain with Corre Kombol
 
@@ -31,7 +31,7 @@ Corre is een echt strategische CSM die het tempo voor ons plaatst op hoe te om d
 * Begin door uw punten van procesverf te identificeren en ga van daar weg. Laat de technologie de doelstelling niet overweldigen.
 * Verbind met andere klanten die op een gelijkaardige reis in de Gemeenschap of bij Gebeurtenissen zijn! 
 
->[!VIDEO](https://video.tv.adobe.com/v/3470000/?learn=on&enablevpops&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3469899/?learn=on&enablevpops)
 
 ## Bronnen
 
@@ -53,4 +53,4 @@ Zij is bekwaam in het identificeren van klantenbehoeften, het ontwikkelen van aa
 
 ## Heb je iets te delen?
 
-Hebt u een geweldig verhaal om te delen, tijdens een gebeurtenis of in een video van Expert Insights? Gelieve te bereiken uit aan ons team in [ CSatScale@adobe.com|mailto :CSatScale@adobe.com ].
+Hebt u een geweldig verhaal om te delen, tijdens een gebeurtenis of in een video van Expert Insights? Gelieve te bereiken uit aan ons team in [ CSatScale@adobe.com ](mailto:CSatScale@adobe.com).

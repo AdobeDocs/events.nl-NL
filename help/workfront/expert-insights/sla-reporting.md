@@ -11,19 +11,19 @@ doc-type: Event
 duration: 1616
 last-substantial-update: 2025-08-08T00:00:00Z
 jira: KT-18623
-source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
+exl-id: 0d870372-4605-4d42-b539-5de2943a2682
+source-git-commit: 2f10210e5c92e5c1bf77c886ed347cdc967f089e
 workflow-type: tm+mt
 source-wordcount: '294'
 ht-degree: 0%
 
 ---
 
-
 # Expert Insights: SLA Reporting in Workfront met Madalyn Destafney
 
 Welkom bij een andere tranche van Expert Insights!  Ik ben Cynthia Boon, uw &quot;On-Demand&quot; Workfront CSM en ik ben blij dat we de enige hebben, Madalyn Destafney, die een deel van haar uitgebreide ervaring deelt om klanten te helpen bij het implementeren en meten van Service Level Agreements (SLA&#39;s) met Workfront. 
 
->[!VIDEO](https://video.tv.adobe.com/v/3469984/?learn=on&enablevpops&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3469901/?learn=on&enablevpops)
 
 Zoals in de video wordt beloofd, is de presentatie van Madalyn gekoppeld aan haar stappen, berekende expressies en rapportvoorbeelden. 
 
@@ -33,11 +33,11 @@ Zoals in de video wordt beloofd, is de presentatie van Madalyn gekoppeld aan haa
 
 Tijdens de presentatie heeft Madalyn haar aangepaste formulieren en berekende velden gedeeld. Als u dus nog maar aan de slag gaat met deze functies, zijn er koppelingen waarmee u in de juiste richting kunt wijzen. 
 
-* De Playlist van het leerprogramma - [ creeer en deel Aangepaste Forms ](https://experienceleague.adobe.com/nl/playlists/workfront-create-and-manage-custom-forms)
+* De Playlist van het leerprogramma - [ creeer en deel Aangepaste Forms ](https://experienceleague.adobe.com/en/playlists/workfront-create-and-manage-custom-forms)
 
-* Artikel - [ wordt begonnen met berekende gebieden en uitdrukkingen ](https://experienceleague.adobe.com/nl/docs/workfront-learn/tutorials-workfront/custom-data/calculated-expressions/get-started-with-calculated-fields-and-expressions)
+* Artikel - [ wordt begonnen met berekende gebieden en uitdrukkingen ](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/custom-data/calculated-expressions/get-started-with-calculated-fields-and-expressions)
 
-* Tips &amp; trucs - [ Berekende Gebieden iedereen zou moeten kennen - en hoe te op hen te melden!](https://experienceleague.adobe.com/nl/docs/events/the-skill-exchange-recordings/workfront/apr2022/calculated-fields)
+* Tips &amp; trucs - [ Berekende Gebieden iedereen zou moeten kennen - en hoe te op hen te melden!](https://experienceleague.adobe.com/en/docs/events/the-skill-exchange-recordings/workfront/apr2022/calculated-fields)
 
 Wilt u meer tips van Madalyn? Bekijk haar hele serie tips en trucs in de Workfront Community! 
 

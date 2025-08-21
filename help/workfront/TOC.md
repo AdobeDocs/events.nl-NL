@@ -3,9 +3,9 @@ user-guide-title: Workfront Events
 breadcrumb-title: Workfront Events
 user-guide-description: Workfront Events
 solution: Workfront
-source-git-commit: 2f118841f4332bcf105e519f31de34b6ac6c58dc
+source-git-commit: 1df24f5fb68bbd4d37658b699e7ecb3fa1ef2444
 workflow-type: tm+mt
-source-wordcount: '210'
+source-wordcount: '220'
 ht-degree: 0%
 
 ---
@@ -26,8 +26,13 @@ ht-degree: 0%
 + Volsus! {#versus}
    + [Groepen versus teams](versus/groups-vs-teams.md)
 + Expert Insights {#expert-insights}
+   + [Goedkeuring](expert-insights/adoption.md)
+   + [Beoordelingsenquêtes](expert-insights/adoption-surveys.md)
    + [Inhoudstoeleveringsketen](expert-insights/content-supply-chain.md)
+   + [Fusion](expert-insights/fusion.md)
+   + [Governance &amp; Centers of Excellence](expert-insights/centers-of-excellence.md)
    + [Niet-traditionele Workfront-workflows](expert-insights/non-traditional-workfront-workflows.md)
+   + [Rapportagepraktijken](expert-insights/reporting-practices.md)
    + [Queuten aanvragen met Lyndsy](expert-insights/request-queues.md)
    + [SLA Reporting in Workfront](expert-insights/sla-reporting.md)
    + [Zakelijk werkbeheer](expert-insights/enterprise-work-management.md)

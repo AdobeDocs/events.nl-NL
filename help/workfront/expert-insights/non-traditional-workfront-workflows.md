@@ -11,13 +11,13 @@ doc-type: Event
 duration: 1129
 last-substantial-update: 2025-08-08T00:00:00Z
 jira: KT-18622
-source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
+exl-id: a67e7d79-fbfa-4268-9418-98fe977e13f3
+source-git-commit: 2f10210e5c92e5c1bf77c886ed347cdc967f089e
 workflow-type: tm+mt
-source-wordcount: '388'
+source-wordcount: '386'
 ht-degree: 0%
 
 ---
-
 
 # Expert Insights: Niet-traditionele Workfront Workflows met Kiersten Kollins
 
@@ -33,7 +33,7 @@ U zult verbaasd zijn over alle fantastische ideeën die zij deelt, zoals: 
 * Creative Brief-revisies starten om tegemoet te komen aan de behoeften van hun gebruikers en projecten. 
 * *BONUS!* Ze deelt ook een voorbeeld van een van haar favoriete Fusion use cases!
 
->[!VIDEO](https://video.tv.adobe.com/v/3469945/?learn=on&enablevpops&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3469900/?learn=on&enablevpops)
 
 ## Bronnen
 
@@ -49,6 +49,4 @@ Met meer dan tien jaar ervaring in het verhandelen van creatieve en operationele
 
 ## Heb je iets te delen?
 
-Hebt u een geweldig verhaal om te delen, tijdens een gebeurtenis of in een video van Expert Insights? Gelieve te bereiken uit aan ons team in [ CSatScale@adobe.com|mailto :CSatScale@adobe.com ].
-
-
+Hebt u een geweldig verhaal om te delen, tijdens een gebeurtenis of in een video van Expert Insights? Gelieve te bereiken uit aan ons team in [ CSatScale@adobe.com ](mailto:CSatScale@adobe.com).

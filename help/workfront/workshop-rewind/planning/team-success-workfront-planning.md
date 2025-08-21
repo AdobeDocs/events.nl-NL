@@ -8,13 +8,13 @@ doc-type: Event
 duration: 3470
 last-substantial-update: 2025-08-08T00:00:00Z
 jira: KT-18628
-source-git-commit: 6225f36c5d26ecca5ebc2aca24a2d592a3279570
+exl-id: 79a28ff0-7f89-4d71-80e4-6f9cd5c07380
+source-git-commit: 2f10210e5c92e5c1bf77c886ed347cdc967f089e
 workflow-type: tm+mt
 source-wordcount: '260'
 ht-degree: 0%
 
 ---
-
 
 # Snel starten, Smart schalen: succes op teamniveau activeren met Workfront-planning
 
@@ -40,13 +40,11 @@ Hier volgen enkele aanvullende snelkoppelingen naar bronnen om u te helpen aan d
 
 ### Trainingsvideo&#39;s plannen
 
-* [ Toevoegend Planning aan uw instantie (de plannen van de Vergunning en dergelijke) ](https://experienceleague.adobe.com/nl/docs/workfront-learn/tutorials-workfront/workfront-planning/add-planning-to-your-instance)
-* [ Creërend een Workspace (Worden begonnen met de stichting voor Planning) ](https://experienceleague.adobe.com/nl/docs/workfront-learn/tutorials-workfront/workfront-planning/create-a-workspace)
-* [ creeer en beheer een Type van Verslag ](https://experienceleague.adobe.com/nl/docs/workfront-learn/tutorials-workfront/workfront-planning/create-and-manage-a-record-type)
-* [ creeer en beheer de Mening van de Lijst ](https://experienceleague.adobe.com/nl/docs/workfront-learn/tutorials-workfront/workfront-planning/create-and-manage-table-views)
-* [ Documentatie: Overzicht van de Planning van Adobe Workfront ](https://experienceleague.adobe.com/nl/docs/workfront/using/adobe-workfront-planning/adobe-workfront-planning-general-information/planning-overview)
-* [ de versieactiviteit van de Planning van Adobe Workfront ](https://experienceleague.adobe.com/nl/docs/workfront/using/product-announcements/product-releases/planning-release-activity/planning-release-activity-article-index)
+* [ Toevoegend Planning aan uw instantie (de plannen van de Vergunning en dergelijke) ](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/workfront-planning/add-planning-to-your-instance)
+* [ Creërend een Workspace (Worden begonnen met de stichting voor Planning) ](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/workfront-planning/create-a-workspace)
+* [ creeer en beheer een Type van Verslag ](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/workfront-planning/create-and-manage-a-record-type)
+* [ creeer en beheer de Mening van de Lijst ](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/workfront-planning/create-and-manage-table-views)
+* [ Documentatie: Overzicht van de Planning van Adobe Workfront ](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-planning/adobe-workfront-planning-general-information/planning-overview)
+* [ de versieactiviteit van de Planning van Adobe Workfront ](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/planning-release-activity/planning-release-activity-article-index)
 
-Wij zullen meer gebeurtenissen hebben die binnenkort voor de Planning van Workfront komen, zodat ben zeker om de [ pagina van Gebeurtenissen op Experience League ](https://experienceleague.adobe.com/events/?lang=nl-NL&filters=Workfront) regelmatig te controleren zodat u niet uit mist!
-
-
+Wij zullen meer gebeurtenissen hebben die binnenkort voor de Planning van Workfront komen, zodat ben zeker om de [ pagina van Gebeurtenissen op Experience League ](https://experienceleague.adobe.com/events/?filters=Workfront) regelmatig te controleren zodat u niet uit mist!
