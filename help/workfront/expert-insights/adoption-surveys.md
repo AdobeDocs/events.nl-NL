@@ -25,7 +25,7 @@ ht-degree: 0%
 
 Hier is uw On-Demand Workfront CSM en ik ben terug met een nieuwe video!  Deze keer hebben we een presentatie van een van onze fantastische klanten, Jaime Davidson van Cognizant!  Ze bood haar tijd en haar expertise aan tijdens onze Connect-gebeurtenis in november en deelde haar ervaring en bronnen voor de implementatie van Workfront-adoptieenquêtes. *Bonus!* Danielle Johnston, onze eigen CSM van Workfront, deelt ook haar inzichten en aanbevelingen!
 
->[!VIDEO](https://video.tv.adobe.com/v/3469895/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3469956/?learn=on&enablevpops&captions=dut)
 
 ## Bronnen
 

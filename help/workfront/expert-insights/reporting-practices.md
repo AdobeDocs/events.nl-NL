@@ -27,7 +27,7 @@ Voor de goede orde is ze net zo ontzettend, intelligent en vrijgevig om mee te w
 
 Word lid van me, je On-Demand Workfront CSM, terwijl ik praat met Nichole over hoe ze onze Reporting Guru werd, haar favoriete functies en tips, en hoe we allemaal &#39;meer als Nichole&#39; kunnen zijn! 
 
->[!VIDEO](https://video.tv.adobe.com/v/3469894/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3469971/?learn=on&enablevpops&captions=dut)
 
 ## Tips
 

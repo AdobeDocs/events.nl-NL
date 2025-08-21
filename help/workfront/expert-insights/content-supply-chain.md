@@ -31,7 +31,7 @@ Corre is een echt strategische CSM die het tempo voor ons plaatst op hoe te om d
 * Begin door uw punten van procesverf te identificeren en ga van daar weg. Laat de technologie de doelstelling niet overweldigen.
 * Verbind met andere klanten die op een gelijkaardige reis in de Gemeenschap of bij Gebeurtenissen zijn! 
 
->[!VIDEO](https://video.tv.adobe.com/v/3469899/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470000/?learn=on&enablevpops&captions=dut)
 
 ## Bronnen
 

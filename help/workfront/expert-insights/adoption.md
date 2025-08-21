@@ -25,7 +25,7 @@ De adoptie is een onderwerp waar we regelmatig op terugkomen. In deze editie van
 
 Ik sluit me aan bij uw On-Demand Workfront CSM, omdat ik met Leslie praat over waarom adoptie zo&#39;n belangrijk onderwerp is, samen met een aantal van onze favoriete strategieën.
 
->[!VIDEO](https://video.tv.adobe.com/v/3469893/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3469933/?learn=on&enablevpops&captions=dut)
 
 ## Tips, advies en meer
 
