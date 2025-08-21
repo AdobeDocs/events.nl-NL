@@ -33,11 +33,11 @@ Zoals in de video wordt beloofd, is de presentatie van Madalyn gekoppeld aan haa
 
 Tijdens de presentatie heeft Madalyn haar aangepaste formulieren en berekende velden gedeeld. Als u dus nog maar aan de slag gaat met deze functies, zijn er koppelingen waarmee u in de juiste richting kunt wijzen. 
 
-* De Playlist van het leerprogramma - [ creeer en deel Aangepaste Forms ](https://experienceleague.adobe.com/en/playlists/workfront-create-and-manage-custom-forms)
+* De Playlist van het leerprogramma - [ creeer en deel Aangepaste Forms ](https://experienceleague.adobe.com/nl/playlists/workfront-create-and-manage-custom-forms)
 
-* Artikel - [ wordt begonnen met berekende gebieden en uitdrukkingen ](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/custom-data/calculated-expressions/get-started-with-calculated-fields-and-expressions)
+* Artikel - [ wordt begonnen met berekende gebieden en uitdrukkingen ](https://experienceleague.adobe.com/nl/docs/workfront-learn/tutorials-workfront/custom-data/calculated-expressions/get-started-with-calculated-fields-and-expressions)
 
-* Tips &amp; trucs - [ Berekende Gebieden iedereen zou moeten kennen - en hoe te op hen te melden!](https://experienceleague.adobe.com/en/docs/events/the-skill-exchange-recordings/workfront/apr2022/calculated-fields)
+* Tips &amp; trucs - [ Berekende Gebieden iedereen zou moeten kennen - en hoe te op hen te melden!](https://experienceleague.adobe.com/nl/docs/events/the-skill-exchange-recordings/workfront/apr2022/calculated-fields)
 
 Wilt u meer tips van Madalyn? Bekijk haar hele serie tips en trucs in de Workfront Community! 
 

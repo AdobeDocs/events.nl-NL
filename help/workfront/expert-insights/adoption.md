@@ -53,11 +53,11 @@ Ik sluit me aan bij uw On-Demand Workfront CSM, omdat ik met Leslie praat over w
 ## Bronnen
 
 * Op zoek naar meer voorbeeld? Controle uit het [ Communautaire Post van Experience League ](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-august-2023-workfront-expert-insights-adoption-with-leslie/td-p/613314) voor meer ideeën die in de commentaren worden gedeeld!
-* [ allen over Vervagen ](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/blueprints/blueprints.html?lang=en)
-* [ Laatste Rapport van de Nota ](https://experienceleague.adobe.com/docs/workfront/using/basics/update-work-items-view-updates/view-all-updates-in-a-report.html?lang=en)
-* [ voeg basis voorwaardelijke het formatteren aan een mening toe ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.html?lang=en)
-* [ Toevoegend Dashboards aan het Linkerpaneel van de Navigatie ](https://experienceleague.adobe.com/docs/workfront/using/basics/navigate/simplified-left-navigation.html?lang=en)
-* [ Malplaatjes van de Lay-out - het spinnen ](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/layout-templates/customize-pinned-pages.html?lang=en)
+* [ allen over Vervagen ](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/blueprints/blueprints.html?lang=nl-NL)
+* [ Laatste Rapport van de Nota ](https://experienceleague.adobe.com/docs/workfront/using/basics/update-work-items-view-updates/view-all-updates-in-a-report.html?lang=nl-NL)
+* [ voeg basis voorwaardelijke het formatteren aan een mening toe ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.html?lang=nl-NL)
+* [ Toevoegend Dashboards aan het Linkerpaneel van de Navigatie ](https://experienceleague.adobe.com/docs/workfront/using/basics/navigate/simplified-left-navigation.html?lang=nl-NL)
+* [ Malplaatjes van de Lay-out - het spinnen ](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/layout-templates/customize-pinned-pages.html?lang=nl-NL)
 
 ## Over de spreker
 

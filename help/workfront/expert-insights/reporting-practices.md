@@ -42,14 +42,14 @@ Word lid van me, je On-Demand Workfront CSM, terwijl ik praat met Nichole over h
 ## Bronnen
 
 * **Blog** - [ sparen Tijd Gebruikend Berekende Gebieden van de Douane ](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/save-time-using-calculated-fields-to-capture-dates-details-and/ba-p/518237)
-* **Artikel** - [ Berekende Uitdrukkingen van Gegevens ] (https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/calculated-custom-data/calculated-data-expressions.html?lang=en#:~ :text=U kan gegevensuitdrukkingen gebruiken, die een nieuw gebied produceren.&amp;text=Voor meer informatie over het maken, gegevens naar een aangepast formulier.)
+* **Artikel** - [ Berekende Uitdrukkingen van Gegevens ] (https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/calculated-custom-data/calculated-data-expressions.html?lang=nl-NL#:~ :text=U kan gegevensuitdrukkingen gebruiken, die een nieuw gebied produceren.&amp;text=Voor meer informatie over het maken, gegevens naar een aangepast formulier.)
 * **follow-up van de Gebeurtenis** - [ Berekende de Workshop van de Gebieden van de Douane ](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/follow-up-calculated-custom-fields-workshop/td-p/592725)
 * **Gemeenschap** - [ het Melden van Cookbook ](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/the-first-ever-adobe-workfront-customer-reporting-cookbook-is/m-p/478722#M1406)
 * **Blog** - [ de Blauwdrukken van Workfront van het Gebruik om Uw Milieu van het Beheer van het Werk te optimaliseren!](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/use-workfront-blueprints-to-optimize-your-work-management/ba-p/547147)
    * *Begonnen het Worden* - Dit blog is waar u meer informatie over het Dashboard van het Onderhoud van het Systeem en de bundels van het Dashboard van het Gebruik van rapporten kunt vinden. 
    * *Bonusuiteinde!* - Abonneer u op de blog voor meldingen wanneer nieuwe blauwdrukken worden uitgebracht. 
-* **Artikel** - [ de Variabelen van de Filter van de Jokerteken ](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/report-elements/understand-wildcard-filter-variables.html?lang=en)
-* **Artikel** - [ voeg basis voorwaardelijke het formatteren aan een mening toe ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.html?lang=en)
+* **Artikel** - [ de Variabelen van de Filter van de Jokerteken ](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/report-elements/understand-wildcard-filter-variables.html?lang=nl-NL)
+* **Artikel** - [ voeg basis voorwaardelijke het formatteren aan een mening toe ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.html?lang=nl-NL)
 
 ## Over de spreker
 
