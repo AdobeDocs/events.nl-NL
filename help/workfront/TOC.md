@@ -3,10 +3,10 @@ user-guide-title: Workfront Events
 breadcrumb-title: Workfront Events
 user-guide-description: Workfront Events
 solution: Workfront
-source-git-commit: 1df24f5fb68bbd4d37658b699e7ecb3fa1ef2444
+source-git-commit: d14aa66f5c09a280d56b9d857fcc64379e83677f
 workflow-type: tm+mt
-source-wordcount: '220'
-ht-degree: 0%
+source-wordcount: '227'
+ht-degree: 1%
 
 ---
 
@@ -26,13 +26,15 @@ ht-degree: 0%
 + Volsus! {#versus}
    + [Groepen versus teams](versus/groups-vs-teams.md)
 + Expert Insights {#expert-insights}
-   + [Goedkeuring](expert-insights/adoption.md)
+   + [Acceptatie](expert-insights/adoption.md)
    + [Beoordelingsenquêtes](expert-insights/adoption-surveys.md)
+   + [Agile](expert-insights/agile.md)
    + [Inhoudstoeleveringsketen](expert-insights/content-supply-chain.md)
    + [Fusion](expert-insights/fusion.md)
    + [Governance &amp; Centers of Excellence](expert-insights/centers-of-excellence.md)
    + [Niet-traditionele Workfront-workflows](expert-insights/non-traditional-workfront-workflows.md)
    + [Rapportagepraktijken](expert-insights/reporting-practices.md)
+   + [Bronbeheer](expert-insights/resource-management.md)
    + [Queuten aanvragen met Lyndsy](expert-insights/request-queues.md)
    + [SLA Reporting in Workfront](expert-insights/sla-reporting.md)
    + [Zakelijk werkbeheer](expert-insights/enterprise-work-management.md)
@@ -42,6 +44,7 @@ ht-degree: 0%
       + [Ware-gebeurteniskosten ontgrendelen](workshop-rewind/integrations/event-costs.md)
    + Planning {#planning}
       + [Succes op teamniveau met Workfront-planning](workshop-rewind/planning/team-success-workfront-planning.md)
+      + [Nieuwste in Workfront-planning](workshop-rewind/planning/workfront-planning.md)
    + Workflow {#workflow}
       + [Creative-methoden voor het beheer van bronnen](classics/creative-ways-of-managing-resources.md)
       + [E-mailberichten beheren](workshop-rewind/workflow/email-notifications.md)

@@ -7,25 +7,26 @@ speaker-company-1: Cognizant
 speaker-name-2: Danielle Johnston
 speaker-title-2: Customer Success Manager
 speaker-company-2: Adobe
+feature: Workfront Integrations and Apps
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 1910
 last-substantial-update: 2025-08-20T00:00:00Z
 jira: KT-18617
-source-git-commit: 2f10210e5c92e5c1bf77c886ed347cdc967f089e
+exl-id: 75153967-b82d-4221-b44b-73aabb74402f
+source-git-commit: d14aa66f5c09a280d56b9d857fcc64379e83677f
 workflow-type: tm+mt
 source-wordcount: '292'
 ht-degree: 0%
 
 ---
 
-
 # Expert Insights - adoptieonderzoeken met Jaime Davidson
 
 Hier is uw On-Demand Workfront CSM en ik ben terug met een nieuwe video!  Deze keer hebben we een presentatie van een van onze fantastische klanten, Jaime Davidson van Cognizant!  Ze bood haar tijd en haar expertise aan tijdens onze Connect-gebeurtenis in november en deelde haar ervaring en bronnen voor de implementatie van Workfront-adoptieenquêtes. *Bonus!* Danielle Johnston, onze eigen CSM van Workfront, deelt ook haar inzichten en aanbevelingen!
 
->[!VIDEO](https://video.tv.adobe.com/v/3469956/?learn=on&enablevpops&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3469895/?learn=on&enablevpops)
 
 ## Bronnen
 
@@ -46,4 +47,3 @@ Jaime is een ervaren marktleider op het gebied van automatisering en procesoptim
 ## Heb je iets te delen?
 
 Hebt u een geweldig verhaal om te delen, tijdens een gebeurtenis of in een video van Expert Insights? Gelieve te bereiken uit aan ons team in [ CSatScale@adobe.com ](mailto:CSatScale@adobe.com).
-
