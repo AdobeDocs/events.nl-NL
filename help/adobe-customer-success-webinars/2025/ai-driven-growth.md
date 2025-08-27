@@ -39,7 +39,7 @@ Deze Adobe Customer Success x Adobe Digital Insights-webinar behandelt de nieuws
 1. **de Analyses van de Opstelling van het Verkeer van het Spoor AI** om bezoeken van AI platforms (de segmenten van gebruiksLLM, UTMs) te identificeren.
 1. **optimaliseer de het productpagina&#39;s van de Inhoud** van de Structuur met duidelijke rubrieken en FAQs voor gemakkelijke AI die kruipt.
 1. **breid Bereik** productinfo van het Aandeel op sociale media, blogs, en overzichtsplaatsen uit om zicht op te voeren.
-1. **Partner van de Influencers van de hefboomwerking van 0} met sociale media creators voor partnercampagnes en user-generated inhoud.**
+1. **Partner van de Influencers van de hefboomwerking van 0&rbrace; met sociale media creators voor partnercampagnes en user-generated inhoud.**
 1. **verbeter Loyalty Programma&#39;s** de klantengegevens van het Gebruik om beloningen te personaliseren en herhaalde aankopen aan te moedigen.
 
 Met deze stappen kunnen winkeliers winkeliers winkeliers vastleggen en hun producten omzetten.
