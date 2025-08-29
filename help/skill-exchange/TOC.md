@@ -3,10 +3,10 @@ user-guide-title: De Uitwisseling van de Vaardigheid
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Inzameling opnamen van Ervaar de Uitwisseling van de Vaardigheid
 event-series: The Skill Exchange
-source-git-commit: 3df61129609f91640357ef9346f0e82fe0fff7b3
+source-git-commit: a633bfda2c2067c6eb34a8743665993dbceea660
 workflow-type: tm+mt
-source-wordcount: '663'
-ht-degree: 7%
+source-wordcount: '695'
+ht-degree: 8%
 
 ---
 
@@ -125,6 +125,13 @@ ht-degree: 7%
          + [De kracht van herbruikbaarheid](aem/aug2022/reusability.md)
          + [Zakelijke waarde verhogen met content personaliseren in AEM](aem/aug2022/personalization.md)
          + [Maximaliseer uw AEM-implementatie](aem/aug2022/implementation.md)
++ Adobe Experience Platform {#aep}
+   + Augustus 2025 {#aug2025}
+      + [Toetsenbord openen](aep-apps/2025/aug/opening-keynote.md)
+      + [Personalization, privacy en gegevensbeveiliging in evenwicht brengen](aep-apps/2025/aug/personalization-privacy-data-security.md)
+      + [Media-investeringen en Adobe Real-Time CDP Collaboration](aep-apps/2025/aug/real-time-cdp-collaboration.md)
+      + [Tips voor het aanpakken van complexe reizen in Adobe Journey Optimizer](aep-apps/2025/aug/tips-for-tackling-journeys.md)
+      + [Reizen na e-mail](aep-apps/2025/aug/journeys-beyond-email.md)
 + Marketo {#marketo}
    + Augustus 2024 {#aug2024}
       + [Toetsenbord openen](marketo/aug2024/keynote.md)
