@@ -24,9 +24,9 @@ ht-degree: 0%
 Ontdek hoe Adobe Experience Platform en de taalkundige AI de creatie van een digitale ervaring omvormen:
 
 * **AI-Aangedreven Werkschema&#39;s** de Agent AI versnelt campagneplanning, publiekssegmentatie, en inhoudsgeneratie, die tijd van concept aan uitvoering verminderen.
-* **Hulpmiddelen van de Extractie van het Signaal van 0} Gegevens {zoals Data Insights Agent helpen actionable inzichten van enorme consumentengegevens distilleren, die relevantie en het richten verbeteren.**
+* **Hulpmiddelen van de Extractie van het Signaal van 0&rbrace; Gegevens &lbrace;zoals Data Insights Agent helpen actionable inzichten van enorme consumentengegevens distilleren, die relevantie en het richten verbeteren.**
 * **Personalization bij Schaal** AI laat snelle verwezenlijking van inhoudvarianten en gepersonaliseerde reizen toe, die aan diverse consumentenbehoeften voldoen.
-* **Nadruk van de Empowerment van de Praktijk 1} op vaardigheidsontwikkeling, snelle techniek, en organisatorische bereidheid verzekert gebruikers vooruit in een snel evoluerend landschap blijven.**
+* **Nadruk van de Empowerment van de Praktijk 1&rbrace; op vaardigheidsontwikkeling, snelle techniek, en organisatorische bereidheid verzekert gebruikers vooruit in een snel evoluerend landschap blijven.**
 
 Gebruik deze inzichten om uw workflows te stroomlijnen, de personalisatie te verbeteren en uw expertise op het gebied van het beheer van digitale ervaringen in de toekomst te behouden.
 
