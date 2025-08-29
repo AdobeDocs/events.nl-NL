@@ -25,7 +25,7 @@ De reactie van de ketting - wanneer om Campagne aan te vragen en wanneer om Camp
 
 ## Aanvullende bronnen
 
-* [ Uitvoerbare campagnes ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/execute-campaign)
+* [ Uitvoerbare campagnes ](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/execute-campaign)
 * [ alles u over het nieuwe uitvoerbare campagneretype in Marketo Engage ](https://mugs.marketo.com/events/details/marketo-houston-mug-presents-everything-you-need-to-know-about-the-new-executable-campaign-type-in-marketo/) moet weten
 * [ Uitvoerbare Campagnes: Leer hoe uitvoerbare lijnen efficiency en effect kunnen drijven ](https://www.youtube.com/watch?v=QGC4Bhn5BpU)
 
@@ -35,6 +35,6 @@ De levenscyclusbetrokkenheid van meerdere kanalen volgen, en verder gaan dan e-m
 
 * [ Diep duik voorbij Emails: Meerkanaals Marketing met Toepassingsberichten, Dynamic Chat, en het Overseinen Apps ](https://mugs.marketo.com/events/details/marketo-adobe-deep-dive-mug-presents-beyond-emails-multi-channel-marketing-with-app-notifications-dynamic-chat-and-messaging-apps/)
 * [ Omnichannel Betrokkenheid ](https://business.adobe.com/sg/products/marketo/omnichannel-engagement.html)
-* [ hoe te om een bericht in-app ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-an-in-app-message) te creëren
-* [ hoe te om Push Meldingen ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/mobile-marketing/push-notifications/understanding-push-notifications) te creëren
+* [ hoe te om een bericht in-app ](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-an-in-app-message) te creëren
+* [ hoe te om Push Meldingen ](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/mobile-marketing/push-notifications/understanding-push-notifications) te creëren
 * [ hoe te om een malplaatje te creëren WhatsApp ](https://community.sinch.com/t5/Settings/Create-a-WhatsApp-message-template-new-experience/ta-p/11599)
