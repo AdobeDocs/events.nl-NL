@@ -28,7 +28,7 @@ Ontdek hoe u campagnedoelstellingen strategisch kunt transformeren in hooggekwal
 
 Alle Real-Time CDP Prime- en Ultimate-klanten hebben nu ingebouwde toegang tot Collaboration! Neem deel aan deze sessie om te leren hoe u waarde krijgt van de eenvoudige samenwerking op het gebied van gegevens en privacy-gerichte samenwerking van vandaag!
 
->[!VIDEO](https://video.tv.adobe.com/v/3471329/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471337/?learn=on&enablevpops&captions=dut)
 
 ## Collaboration-gegevens in vier stappen ontgrendelen
 

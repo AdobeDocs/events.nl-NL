@@ -304,7 +304,7 @@ Leer van Adobe-experts en peers hoe u optimaal kunt profiteren van uw Adobe-oplo
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/jan2024/person-scoring-mastery.md" title="Persoon die het Masterschap van Marketo Engage scoort - Gelokaliseerde Namen in een Globaal Kader" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3426914/?format=jpeg&nocache=1756413992875" alt="Persoon die het Masterschap van Marketo Engage scoort - Gelokaliseerde Namen in een Globaal Kader"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457445/?format=jpeg&nocache=1756413992875&captions=dut" alt="Persoon die het Masterschap van Marketo Engage scoort - Gelokaliseerde Namen in een Globaal Kader"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

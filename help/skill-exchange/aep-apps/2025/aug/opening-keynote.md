@@ -31,4 +31,4 @@ Ontdek hoe Adobe Experience Platform en de taalkundige AI de creatie van een dig
 Gebruik deze inzichten om uw workflows te stroomlijnen, de personalisatie te verbeteren en uw expertise op het gebied van het beheer van digitale ervaringen in de toekomst te behouden.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3471327/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471361/?learn=on&enablevpops&captions=dut)
