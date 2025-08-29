@@ -3,16 +3,16 @@ title: De Makers van de ervaring de Uitwisseling van de Vaardigheid
 description: De Makers van de ervaring de Uitwisseling van de Vaardigheid is een globale reeks virtuele klanten leergebeurtenissen, die zich op het divers in de oplossingen van Adobe Experience Cloud concentreren.
 exl-id: 6d0f26c7-d5d2-4993-b2a1-58d5880f8f96
 duration: 57
-source-git-commit: a633bfda2c2067c6eb34a8743665993dbceea660
+source-git-commit: b8f3c336420c4c56561539183e7542d9830eb1af
 workflow-type: tm+mt
-source-wordcount: '425'
+source-wordcount: '743'
 ht-degree: 0%
 
 ---
 
 # De Makers van de ervaring de Uitwisseling van de Vaardigheid {#overview}
 
-<img alt="De Makers van de ervaring de Uitwisseling van de Vaardigheid" src="https://cdn.experienceleague.adobe.com/thumb/the-skill-exchange.png?lang=nl-NL" />
+<img alt="De Makers van de ervaring de Uitwisseling van de Vaardigheid" src="https://cdn.experienceleague.adobe.com/thumb/the-skill-exchange.png" />
 
 De Makers van de ervaring de Uitwisseling van de Vaardigheid is een globale reeks virtuele klanten leergebeurtenissen, die zich op het divers in de oplossingen van Adobe Experience Cloud concentreren. Dit programma biedt de mogelijkheid om van Adobe-productdeskundigen en experts te leren door het delen van beste praktijken en tips en trucs.
 
@@ -50,7 +50,7 @@ De Makers van de ervaring de Uitwisseling van de Vaardigheid is een globale reek
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aep-apps/2025/aug/opening-keynote.md" title="Toetsenbord van de Uitwisseling van de Vaardigheid - de Toekomst van Ervaring Maken met AI, Adobe Experience Platform" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471361/?format=jpeg&nocache=1756421492411&captions=dut" alt="Toetsenbord van de Uitwisseling van de Vaardigheid - de Toekomst van Ervaring Maken met AI, Adobe Experience Platform"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471327/?format=jpeg&nocache=1756505537148" alt="Toetsenbord van de Uitwisseling van de Vaardigheid - de Toekomst van Ervaring Maken met AI, Adobe Experience Platform"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -73,7 +73,7 @@ De Makers van de ervaring de Uitwisseling van de Vaardigheid is een globale reek
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aep-apps/2025/aug/personalization-privacy-data-security.md" title="Navigeren door de nieuwe norm - Personalization, privacy en gegevensbeveiliging in evenwicht brengen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471328/?format=jpeg&nocache=1756421492452" alt="Navigeren door de nieuwe norm - Personalization, privacy en gegevensbeveiliging in evenwicht brengen"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471328/?format=jpeg&nocache=1756505537193" alt="Navigeren door de nieuwe norm - Personalization, privacy en gegevensbeveiliging in evenwicht brengen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -96,7 +96,7 @@ De Makers van de ervaring de Uitwisseling van de Vaardigheid is een globale reek
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aep-apps/2025/aug/real-time-cdp-collaboration.md" title="Haal alles uit je media-investeringen met Adobe Real-Time CDP Collaboration" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471337/?format=jpeg&nocache=1756421492441&captions=dut" alt="Haal alles uit je media-investeringen met Adobe Real-Time CDP Collaboration"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471329/?format=jpeg&nocache=1756505537172" alt="Haal alles uit je media-investeringen met Adobe Real-Time CDP Collaboration"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -119,7 +119,7 @@ De Makers van de ervaring de Uitwisseling van de Vaardigheid is een globale reek
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aep-apps/2025/aug/tips-for-tackling-journeys.md" title="Klantchaos berekenen - Tips voor het aanpakken van complexe reizen in Adobe Journey Optimizer" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471330/?format=jpeg&nocache=1756421492465" alt="Klantchaos berekenen - Tips voor het aanpakken van complexe reizen in Adobe Journey Optimizer"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471330/?format=jpeg&nocache=1756505537182" alt="Klantchaos berekenen - Tips voor het aanpakken van complexe reizen in Adobe Journey Optimizer"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -142,7 +142,7 @@ De Makers van de ervaring de Uitwisseling van de Vaardigheid is een globale reek
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aep-apps/2025/aug/journeys-beyond-email.md" title="Adobe-reizen buiten e-mail oplossen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471348/?format=jpeg&nocache=1756421492426&captions=dut" alt="Adobe-reizen buiten e-mail oplossen"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471331/?format=jpeg&nocache=1756505537161" alt="Adobe-reizen buiten e-mail oplossen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -162,3 +162,198 @@ De Makers van de ervaring de Uitwisseling van de Vaardigheid is een globale reek
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+
+## Marketo
+
+<!-- CARDS
+
+{cta  = Watch event}
+
+* marketo/2025/aug/data-categorization-with-ai.md
+* marketo/2025/aug/follow-ups-customer-lifecycle.md
+
+-->
+<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
+<div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Improving Data Categorization in Marketo Engage Using Fine-Tuned AI Models">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="marketo/2025/aug/data-categorization-with-ai.md" title="Gegevenscategorisering in Marketo Engage verbeteren met Fijne AI-modellen" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471388/?format=jpeg&nocache=1756505537499" alt="Gegevenscategorisering in Marketo Engage verbeteren met Fijne AI-modellen"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="marketo/2025/aug/data-categorization-with-ai.md" target="_blank" rel="referrer" title="Gegevenscategorisering in Marketo Engage verbeteren met Fijne AI-modellen"> het Verbeteren van de Indeling van Gegevens in Marketo Engage Gebruikend Fijne-Gerichte AI Modellen </a>
+                    </p>
+                    <p class="is-size-6">Ontdek hoe u geavanceerde AI-modellen in Marketo Engage kunt gebruiken voor het detecteren van spam, het aanpassen van taaktitels aan persona's en het categoriseren van open tekstvelden met websites.</p>
+                </div>
+                <a href="marketo/2025/aug/data-categorization-with-ai.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> gebeurtenis van het Controle </span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="undefined">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="marketo/2025/aug/follow-ups-customer-lifecycle.md" title="ongedefinieerd" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471390/?format=jpeg&nocache=1756505537513" alt="ongedefinieerd"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="marketo/2025/aug/follow-ups-customer-lifecycle.md" target="_blank" rel="referrer" title="ongedefinieerd"> niet gedefiniëerd </a>
+                    </p>
+                    <p class="is-size-6">ongedefinieerd</p>
+                </div>
+                <a href="marketo/2025/aug/follow-ups-customer-lifecycle.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> gebeurtenis van het Controle </span>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+
+## Workfront
+
+<!-- CARDS
+
+{cta  = Watch event}
+
+* workfront/2025/aug/keynote.md
+* workfront/2025/aug/advanced-text-mode.md
+* workfront/2025/aug/center-of-excellence.md
+* workfront/2025/aug/fusion-user-account-creation.md
+* workfront/2025/aug/workfront-ai-tools.md
+ 
+-->
+<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
+<div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Opening Keynote">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="workfront/2025/aug/keynote.md" title="Toetsenbord openen" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471499/?format=jpeg&nocache=1756505537827" alt="Toetsenbord openen"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="workfront/2025/aug/keynote.md" target="_blank" rel="referrer" title="Toetsenbord openen"> het Openen Keynote </a>
+                    </p>
+                    <p class="is-size-6">WORKFRONT met de AI-kracht - De toekomst van marketingsystemen - Adobe Workfront</p>
+                </div>
+                <a href="workfront/2025/aug/keynote.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> gebeurtenis van het Controle </span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Elevate Workfront Reporting with Advanced Text Mode">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="workfront/2025/aug/advanced-text-mode.md" title="Workfront-rapportage versnellen met geavanceerde tekstmodus" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471498/?format=jpeg&nocache=1756505537866" alt="Workfront-rapportage versnellen met geavanceerde tekstmodus"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="workfront/2025/aug/advanced-text-mode.md" target="_blank" rel="referrer" title="Workfront-rapportage versnellen met geavanceerde tekstmodus"> verhef Workfront die met de Geavanceerde Wijze van de Tekst </a> meldt
+                    </p>
+                    <p class="is-size-6">Leer hoe u de Adobe Workfront-tekstmodus onder de knie kunt krijgen om kolommen samen te voegen, expressies voor aangepaste waarden te maken en dynamische herinneringen voor een slimmere rapportage te maken.</p>
+                </div>
+                <a href="workfront/2025/aug/advanced-text-mode.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> gebeurtenis van het Controle </span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Preparing your Workfront organization for a center of excellence">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="workfront/2025/aug/center-of-excellence.md" title="Uw Workfront-organisatie voorbereiden op een expertisecentrum" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471495/?format=jpeg&nocache=1756505537856" alt="Uw Workfront-organisatie voorbereiden op een expertisecentrum"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="workfront/2025/aug/center-of-excellence.md" target="_blank" rel="referrer" title="Uw Workfront-organisatie voorbereiden op een expertisecentrum"> voorbereidend uw organisatie van Workfront voor een centrum van excellentie </a>
+                    </p>
+                    <p class="is-size-6">Leer hoe u een Workfront Center of Excellence kunt lanceren en schalen met beheerstrategieën, sponsoring door managers en best practices voor acceptatie.</p>
+                </div>
+                <a href="workfront/2025/aug/center-of-excellence.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> gebeurtenis van het Controle </span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Automate Workfront user account creation with Fusion">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="workfront/2025/aug/fusion-user-account-creation.md" title="Maken van Workfront-gebruikersaccounts automatiseren met Fusion" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471496/?format=jpeg&nocache=1756505537844" alt="Maken van Workfront-gebruikersaccounts automatiseren met Fusion"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="workfront/2025/aug/fusion-user-account-creation.md" target="_blank" rel="referrer" title="Maken van Workfront-gebruikersaccounts automatiseren met Fusion"> Automate de verwezenlijking van de gebruikersrekening van Workfront met Fusion </a>
+                    </p>
+                    <p class="is-size-6">Ontdek hoe u Adobe Workfront Fusion en API's kunt gebruiken om het maken van gebruikersaccounts te automatiseren, de installatietijd te verkorten van 22 minuten tot minder dan 60 seconden en de efficiëntie te verhogen.</p>
+                </div>
+                <a href="workfront/2025/aug/fusion-user-account-creation.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> gebeurtenis van het Controle </span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Maximize Efficiency with AI - Mastering Workfront's AI Tools">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="workfront/2025/aug/workfront-ai-tools.md" title="Efficiëntie maximaliseren met AI - Workfront AI-tools beheersen" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471393/?format=jpeg&nocache=1756505537875" alt="Efficiëntie maximaliseren met AI - Workfront AI-tools beheersen"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="workfront/2025/aug/workfront-ai-tools.md" target="_blank" rel="referrer" title="Efficiëntie maximaliseren met AI - Workfront AI-tools beheersen"> maximaliseer Efficiëntie met AI - het Beheersen van Workfront AI Hulpmiddelen </a>
+                    </p>
+                    <p class="is-size-6">Ontdek hoe Adobe Workfront AI-functies zoals Ophalen, Samenvatten en Formules genereren helpen taken te automatiseren, workflows te optimaliseren en productiviteit te verhogen.</p>
+                </div>
+                <a href="workfront/2025/aug/workfront-ai-tools.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> gebeurtenis van het Controle </span>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+

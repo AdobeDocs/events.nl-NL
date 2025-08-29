@@ -3,9 +3,9 @@ user-guide-title: De Uitwisseling van de Vaardigheid
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Inzameling opnamen van Ervaar de Uitwisseling van de Vaardigheid
 event-series: The Skill Exchange
-source-git-commit: a633bfda2c2067c6eb34a8743665993dbceea660
+source-git-commit: b8f3c336420c4c56561539183e7542d9830eb1af
 workflow-type: tm+mt
-source-wordcount: '695'
+source-wordcount: '722'
 ht-degree: 8%
 
 ---
@@ -133,6 +133,9 @@ ht-degree: 8%
       + [Tips voor het aanpakken van complexe reizen in Adobe Journey Optimizer](aep-apps/2025/aug/tips-for-tackling-journeys.md)
       + [Reizen na e-mail](aep-apps/2025/aug/journeys-beyond-email.md)
 + Marketo {#marketo}
+   + Augustus 2025 {#aug2025}
+      + [Gegevenscategorisering verbeteren](marketo/2025/aug/data-categorization-with-ai.md)
+      + [Vervolgstappen stroomlijnen](marketo/2025/aug/follow-ups-customer-lifecycle.md)
    + Augustus 2024 {#aug2024}
       + [Toetsenbord openen](marketo/aug2024/keynote.md)
       + [Geavanceerde toepassingen van Betrokkenheidsprogramma&#39;s](marketo/aug2024/advanced-applications-engagment-programs.md)
@@ -166,6 +169,12 @@ ht-degree: 8%
       + [Rapporteren binnen  [!DNL Marketo Engage]](marketo/feb2021/reporting-within-marketo.md)
       + [Ultimate Tips en trucs voor je Forms](marketo/feb2021/forms-tips-and-tricks.md)
 + Workfront {#workfront}
+   + Augustus 2025 {#aug2025}
+      + [Toetsenbord openen](workfront/2025/aug/keynote.md)
+      + [Geavanceerde tekstmodus](workfront/2025/aug/advanced-text-mode.md)
+      + [Maken van gebruikersaccounts automatiseren met Fusion](workfront/2025/aug/fusion-user-account-creation.md)
+      + [Excellentiecentrum](workfront/2025/aug/center-of-excellence.md)
+      + [Workfront AI-gereedschappen beheren](workfront/2025/aug/workfront-ai-tools.md)
    + Augustus 2024 {#aug2024}
       + [Toetsenbord openen](workfront/aug2024/keynote.md)
       + [De werklastbalans aanpassen](workfront/aug2024/workload-balancer.md)
