@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # De Makers van de ervaring de Uitwisseling van de Vaardigheid {#overview}
 
-<img alt="De Makers van de ervaring de Uitwisseling van de Vaardigheid" src="https://cdn.experienceleague.adobe.com/thumb/the-skill-exchange.png" />
+<img alt="De Makers van de ervaring de Uitwisseling van de Vaardigheid" src="https://cdn.experienceleague.adobe.com/thumb/the-skill-exchange.png?lang=nl-NL" />
 
 De Makers van de ervaring de Uitwisseling van de Vaardigheid is een globale reeks virtuele klanten leergebeurtenissen, die zich op het divers in de oplossingen van Adobe Experience Cloud concentreren. Dit programma biedt de mogelijkheid om van Adobe-productdeskundigen en experts te leren door het delen van beste praktijken en tips en trucs.
 
