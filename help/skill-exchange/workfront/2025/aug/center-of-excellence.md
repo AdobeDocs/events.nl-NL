@@ -27,7 +27,7 @@ De oprichting van een excellentiecentrum (CvE) is van cruciaal belang voor het s
 * **Onderzoek de kritieke aspecten van het bemannen van uw RvE door zeer belangrijke rollen en verantwoordelijkheden voor uw adminpraktijk te identificeren.** Begrijp hoe te om een team te bouwen dat uw initiatieven van CoE effectief kan steunen en drijven.
 * **Uiteinden en Tricks** krijgen praktische inzichten en beste praktijken voor het beheren van en het steunen van uw RvE. Ontdek strategieën voor het overwinnen van gemeenschappelijke uitdagingen, het bevorderen van samenwerking, en het verzekeren van voortdurende verbetering. Sluit u aan bij ons om uzelf uit te rusten met de kennis en instrumenten die nodig zijn om een bloeiend centre of Excellence te creëren binnen uw Workfront-organisatie.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471495/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471590/?learn=on&enablevpops&captions=dut)
 
 ## Belangrijke stappen om uw COE te starten
 

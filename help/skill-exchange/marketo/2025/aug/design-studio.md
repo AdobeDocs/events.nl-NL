@@ -29,7 +29,7 @@ Meer informatie over,
 * Door gebruik te maken van slimme coderingspraktijken in Design Studio kunt u in de toekomst uw marketingmedewerkers en de naleving van uw merk controleren.
 * Hoe de integratie van Adobe Experience Manager (AEM) de hiaat voor Design Studio vult om de macht van Marketo Engage uit te breiden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471389/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471429/?learn=on&enablevpops&captions=dut)
 
 ## Efficiënte Marketo-bewerkingen ontgrendelen
 

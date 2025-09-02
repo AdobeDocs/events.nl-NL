@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Hebt u genoeg van de feedbacklus voor e-mail wanneer u probeert goedkeuring te krijgen voor een middel? De evaluatie- en goedkeuringsfunctionaliteit van Workfront is een onschatbaar instrument om de cyclustijden te verkorten, de betrokkenen beter op elkaar af te stemmen en ervoor te zorgen dat aan de nalevingsnormen wordt voldaan. Leer hoe u aan de slag gaat met de nieuwe functie voor beoordeling en goedkeuring in Workfront. We nemen ook aanbevelingen voor het overschakelen van uw bestaande proefdrukproces naar de nieuwe functie voor beoordeling en goedkeuring.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471493/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471566/?learn=on&enablevpops&captions=dut)
 
 ## Herziening en goedkeuring transformeren met Workfront
 
