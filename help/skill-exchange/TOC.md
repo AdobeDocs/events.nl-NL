@@ -3,9 +3,9 @@ user-guide-title: De Uitwisseling van de Vaardigheid
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Inzameling opnamen van Ervaar de Uitwisseling van de Vaardigheid
 event-series: The Skill Exchange
-source-git-commit: b8f3c336420c4c56561539183e7542d9830eb1af
+source-git-commit: 91120ff6bfd81c7b3c9218fbbb6dbff9397b37e6
 workflow-type: tm+mt
-source-wordcount: '722'
+source-wordcount: '750'
 ht-degree: 8%
 
 ---
@@ -134,6 +134,9 @@ ht-degree: 8%
       + [Reizen na e-mail](aep-apps/2025/aug/journeys-beyond-email.md)
 + Marketo {#marketo}
    + Augustus 2025 {#aug2025}
+      + [Toetsenbord openen](marketo/2025/aug/opening-keynote.md)
+      + [AI-motor met levenscyclus](marketo/2025/aug/ai-lifecycle-engine.md)
+      + [Design Studio voor wereldwijde marketingactiviteiten](marketo/2025/aug/design-studio.md)
       + [Gegevenscategorisering verbeteren](marketo/2025/aug/data-categorization-with-ai.md)
       + [Vervolgstappen stroomlijnen](marketo/2025/aug/follow-ups-customer-lifecycle.md)
    + Augustus 2024 {#aug2024}
@@ -174,7 +177,10 @@ ht-degree: 8%
       + [Geavanceerde tekstmodus](workfront/2025/aug/advanced-text-mode.md)
       + [Maken van gebruikersaccounts automatiseren met Fusion](workfront/2025/aug/fusion-user-account-creation.md)
       + [Excellentiecentrum](workfront/2025/aug/center-of-excellence.md)
+      + [Gebruikers inschakelen voor nieuwe functies](workfront/2025/aug/enable-users-new-features.md)
+      + [Aan de slag met revisie en goedkeuring](workfront/2025/aug/review-approval.md)
       + [Workfront AI-gereedschappen beheren](workfront/2025/aug/workfront-ai-tools.md)
+      + [Creative-workflows stroomlijnen met Workfront + AEM](workfront/2025/aug/workflows-workfront-aem.md)
    + Augustus 2024 {#aug2024}
       + [Toetsenbord openen](workfront/aug2024/keynote.md)
       + [De werklastbalans aanpassen](workfront/aug2024/workload-balancer.md)

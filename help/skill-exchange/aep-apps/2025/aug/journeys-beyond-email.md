@@ -1,6 +1,7 @@
 ---
 title: Adobe-reizen buiten e-mail oplossen
 description: Leer om meerkanaalse reizen met Adobe Journey Optimizer te ontwerpen en te testen, met testprofielen, gebeurtenisgegevens en realistische scenario's voor optimale betrokkenheid.
+solution: Journey Optimizer
 feature: Email, Direct Mail, Journeys
 role: User
 level: Beginner, Intermediate, Experienced
@@ -8,13 +9,13 @@ doc-type: Event
 duration: 0
 last-substantial-update: 2025-08-28T00:00:00Z
 jira: KT-18850
-source-git-commit: a633bfda2c2067c6eb34a8743665993dbceea660
+exl-id: e611a377-0e3c-4ccd-ac9c-280638b6ea36
+source-git-commit: 91120ff6bfd81c7b3c9218fbbb6dbff9397b37e6
 workflow-type: tm+mt
 source-wordcount: '267'
 ht-degree: 0%
 
 ---
-
 
 # Adobe-reizen buiten e-mail oplossen
 
@@ -25,7 +26,7 @@ Deze sessie gaat in op het oplossen van echte uitdagingen in Adobe Journey Optim
 * Verdeel echte problemen door specifieke, cross-channel reiskaarten te gebruiken.
 * Er bestaan meerdere geldige oplossingen voor elk probleem. Flexibiliteit is essentieel.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471348/?learn=on&enablevpops&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3471331/?learn=on&enablevpops)
 
 ## Real-World Journey Scenarios toepassen
 

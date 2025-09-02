@@ -1,6 +1,7 @@
 ---
 title: Workfront-rapportage versnellen met geavanceerde tekstmodus
 description: Leer hoe u de Adobe Workfront-tekstmodus onder de knie kunt krijgen om kolommen samen te voegen, expressies voor aangepaste waarden te maken en dynamische herinneringen voor een slimmere rapportage te maken.
+solution: Workfront
 feature: Text Mode Reporting
 speaker-name-1: Nathan Johnson
 speaker-company-1: Adobe
@@ -10,13 +11,13 @@ doc-type: Event
 duration: 0
 last-substantial-update: 2025-08-29T00:00:00Z
 jira: KT-18878
-source-git-commit: b8f3c336420c4c56561539183e7542d9830eb1af
+exl-id: 22811352-8232-44b6-af8c-89483a729838
+source-git-commit: 91120ff6bfd81c7b3c9218fbbb6dbff9397b37e6
 workflow-type: tm+mt
 source-wordcount: '267'
 ht-degree: 0%
 
 ---
-
 
 # Workfront-rapportage versnellen met geavanceerde tekstmodus
 
@@ -33,7 +34,7 @@ Breng de Workfront-rapportage naar het volgende niveau met geavanceerde tekstmod
 
 Ontdek de kracht van Workfront-rapportering door technische expertise te combineren met verhalen vertellen.
 
-* **Geavanceerde Wijze van de Tekst &#x200B;** Laat flexibele, aangepaste rapporten toe die voorbij standaardbeperkingen UI gaan.
+* **Geavanceerde Wijze van de Tekst **Laat flexibele, aangepaste rapporten toe die voorbij standaardbeperkingen UI gaan.
 * **het samenvoegen van Kolommen** vermindert overzichtelijkheid en verbetert leesbaarheid, toestaand u om zeer belangrijke projectdetails in één enkele mening voor te stellen.
 * **Uitdrukkingen van de Waarde** verstrekken direct inzicht in real time, zoals projectstatus en programmaberekeningen, binnen uw rapporten.
 * **Eigen herinneringen van de Douane** machtigt gebruikers om met rapporten dynamisch te filtreren en in wisselwerking te staan, catering aan diverse teambehoeften.

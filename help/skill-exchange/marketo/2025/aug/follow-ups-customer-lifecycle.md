@@ -1,23 +1,26 @@
 ---
 title: Ervaar de Spotlight van Makers - stroomlijnende follow-ups in de levenscyclus van de Klant
 description: Leer hoe uitvoerbare bestanden en aanvraagcampagnes workflows stroomlijnen, de gegevensnauwkeurigheid verbeteren en de betrokkenheid met multi-kanaalstrategieën in real time verhogen.
+solution: Marketo Engage
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 0
 last-substantial-update: 2025-08-29T00:00:00Z
 jira: KT-18867
-source-git-commit: 843b352cca35bd0d319fffb3b0e7855c2fabe53a
+exl-id: 1659fd7b-c12d-4ea0-bba1-e3f583edf949
+source-git-commit: 91120ff6bfd81c7b3c9218fbbb6dbff9397b37e6
 workflow-type: tm+mt
-source-wordcount: '241'
+source-wordcount: '258'
 ht-degree: 1%
 
 ---
 
-
 # Experience Makers Spotlight: Follow-ups stroomlijnen in de levenscyclus van de klant
 
 >[!VIDEO](https://video.tv.adobe.com/v/3471390/?learn=on&enablevpops)
+
+## Kettingreactie - wanneer campagne wordt aangevraagd en wanneer campagne wordt uitgevoerd
 
 De kunst van efficiënte follow-up aan koesteren klanten door verzoekverzoek en Uitvoerbare Campagnes en verschillende marketing kanalen in Marketo Engage te gebruiken.
 
@@ -25,9 +28,11 @@ De reactie van de ketting - wanneer om Campagne aan te vragen en wanneer om Camp
 
 ## Aanvullende bronnen
 
-* [ Uitvoerbare campagnes ](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/execute-campaign)
+* [ Uitvoerbare campagnes ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/execute-campaign)
 * [ alles u over het nieuwe uitvoerbare campagneretype in Marketo Engage ](https://mugs.marketo.com/events/details/marketo-houston-mug-presents-everything-you-need-to-know-about-the-new-executable-campaign-type-in-marketo/) moet weten
 * [ Uitvoerbare Campagnes: Leer hoe uitvoerbare lijnen efficiency en effect kunnen drijven ](https://www.youtube.com/watch?v=QGC4Bhn5BpU)
+
+## Levenscyclusservice met meerdere kanalen uitvoeren, behalve via e-mail
 
 De levenscyclusbetrokkenheid van meerdere kanalen volgen, en verder gaan dan e-mail: Ontdek geavanceerde meerkanaals voedingsstrategieën die overdraagbaar zijn tussen eCommerce en B2B Marketing om onbenutte mogelijkheden in de levenscyclusmarketing te ontsluiten. Deze sessie deelt praktische toepassingen via meerdere kanalen, waaronder pre-bookings- en verlaten winkelwagentjes via de integratie van apps voor sociale berichten (WhatsApp/Viber) en in-app berichten met de integratie van mobiele apps.
 
@@ -35,6 +40,6 @@ De levenscyclusbetrokkenheid van meerdere kanalen volgen, en verder gaan dan e-m
 
 * [ Diep duik voorbij Emails: Meerkanaals Marketing met Toepassingsberichten, Dynamic Chat, en het Overseinen Apps ](https://mugs.marketo.com/events/details/marketo-adobe-deep-dive-mug-presents-beyond-emails-multi-channel-marketing-with-app-notifications-dynamic-chat-and-messaging-apps/)
 * [ Omnichannel Betrokkenheid ](https://business.adobe.com/sg/products/marketo/omnichannel-engagement.html)
-* [ hoe te om een bericht in-app ](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-an-in-app-message) te creëren
-* [ hoe te om Push Meldingen ](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/mobile-marketing/push-notifications/understanding-push-notifications) te creëren
+* [ hoe te om een bericht in-app ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-an-in-app-message) te creëren
+* [ hoe te om Push Meldingen ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/mobile-marketing/push-notifications/understanding-push-notifications) te creëren
 * [ hoe te om een malplaatje te creëren WhatsApp ](https://community.sinch.com/t5/Settings/Create-a-WhatsApp-message-template-new-experience/ta-p/11599)
