@@ -34,7 +34,7 @@ Breng de Workfront-rapportage naar het volgende niveau met geavanceerde tekstmod
 
 Ontdek de kracht van Workfront-rapportering door technische expertise te combineren met verhalen vertellen.
 
-* **Geavanceerde Wijze van de Tekst **Laat flexibele, aangepaste rapporten toe die voorbij standaardbeperkingen UI gaan.
+* **Geavanceerde Wijze van de Tekst &#x200B;** Laat flexibele, aangepaste rapporten toe die voorbij standaardbeperkingen UI gaan.
 * **het samenvoegen van Kolommen** vermindert overzichtelijkheid en verbetert leesbaarheid, toestaand u om zeer belangrijke projectdetails in één enkele mening voor te stellen.
 * **Uitdrukkingen van de Waarde** verstrekken direct inzicht in real time, zoals projectstatus en programmaberekeningen, binnen uw rapporten.
 * **Eigen herinneringen van de Douane** machtigt gebruikers om met rapporten dynamisch te filtreren en in wisselwerking te staan, catering aan diverse teambehoeften.

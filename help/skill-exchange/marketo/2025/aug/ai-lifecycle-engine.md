@@ -36,9 +36,9 @@ Meer informatie over,
 Ontdek hoe AI-agents de hoofdkwalificatie en het levenscyclusbeheer in Marketo revolutioneren.
 
 * **Holistische de agenten van de Evaluatie** AI beoordelen lood gebruikend demografische, firmografische, en gedragsgegevens voor slimmere besluiten.
-* **Beweging van de Auteur van 0} {{van de Automatisch voorbij statische regel-AI agenten reden, leert, en handelt autonoom, verbeterend nauwkeurigheid en snelheid.**
+* **Beweging van de Auteur van 0&rbrace; &lbrace;&lbrace;van de Automatisch voorbij statische regel-AI agenten reden, leert, en handelt autonoom, verbeterend nauwkeurigheid en snelheid.**
 * **Naadloze Integratie** verbindt gemakkelijk AI agenten met Marketo via slimme campagnes, webhooks, of horlogelijsten, toelatend acties in real time.
-* **Begin van het Toezicht van de mens 1} met persoon-in-de-lijn werkschema&#39;s voor vertrouwen en geleidelijke automatisering.**
+* **Begin van het Toezicht van de mens 1&rbrace; met persoon-in-de-lijn werkschema&#39;s voor vertrouwen en geleidelijke automatisering.**
 * **Schaalbare &amp; Transparante** Agenten verstrekken duidelijke verklaringen voor acties, die verkoopgroepering en vertrouwen verhogen.
 
 Het benutten van deze inzichten maakt een effectiever, aanpasbaar en transparant hoofdbeheer mogelijk, zodat teams zich kunnen richten op strategie en groei.
@@ -46,7 +46,7 @@ Het benutten van deze inzichten maakt een effectiever, aanpasbaar en transparant
 ## Uw AI-agent samenstellen: belangrijkste componenten
 
 * **de Instructies** bepalen duidelijk de logica van de loodkwalificatie en beslissingsstappen voor de agent.
-* **de Kennis van 0} {uploadt uw Ideale Profiel van de Klant (ICP), leiden categorieën, en voorbeelden voor context.**
+* **de Kennis van 0&rbrace; &lbrace;uploadt uw Ideale Profiel van de Klant (ICP), leiden categorieën, en voorbeelden voor context.**
 * **Hulpmiddelen** laten verrijking (b.v., LinkedIn, APIs), de acties van Marketo API, en slimme campagnetrekkers toe.
 * **Bak (Model)** kies een AI model (OpenAI, Gemini, Llama) geschikt voor classificatie, het redeneren, en samenvatting.
 * **Opstelling** Geen codering vereiste-gebruiksplatforms zoals Studio Copilot of Azure AI Foundry om documenten te uploaden en werkschema&#39;s te vormen.
