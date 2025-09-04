@@ -3,9 +3,9 @@ user-guide-title: De Uitwisseling van de Vaardigheid
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Inzameling opnamen van Ervaar de Uitwisseling van de Vaardigheid
 event-series: The Skill Exchange
-source-git-commit: 91120ff6bfd81c7b3c9218fbbb6dbff9397b37e6
+source-git-commit: 85cd991ce4cce6e25f31df39400b21702c2a43cf
 workflow-type: tm+mt
-source-wordcount: '750'
+source-wordcount: '760'
 ht-degree: 8%
 
 ---
@@ -94,6 +94,10 @@ ht-degree: 8%
       + [Marketingkanalen, gebruik verantwoord](analytics/jun2021/marketing-channels.md)
       + [Alles samenvoegen](analytics/jun2021/putting-all-together.md)
 + Experience Manager {#aem}
+   + Augustus 2025 {#aug2025}
+      + [Toetsenbord openen](aem/2025/aug/opening-keynote.md)
+      + [Future-Ready Content Framework](aem/2025/aug/content-framework.md)
+      + [Scalable Asset Management](aem/2025/aug/scalable-asset-management.md)
    + Augustus 2024 {#aug2024}
       + [Toetsenbord openen](aem/aug2024/keynote.md)
       + [AEM Sites met Universal Editor](aem/aug2024/universal-editor.md)
