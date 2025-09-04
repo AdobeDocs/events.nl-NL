@@ -35,10 +35,10 @@ Ontdek hoe u uw DAM (Digital Asset Management) kunt transformeren met Adobe Expe
 
 * **De organisaties van de Groei van de Snelle Inhoud** worden de organisaties geconfronteerd met exponentiële verhogingen van digitale activa, die ontdekkingsbaarheid en bestuur kritiek maken.
 
-* **Intuïtieve de omslagstructuren van 0} Strategische Organisatie {en robuuste taxonomie zijn essentieel voor scalable, toekomstbestendig activabeheer.**
+* **Intuïtieve de omslagstructuren van 0&rbrace; Strategische Organisatie &lbrace;en robuuste taxonomie zijn essentieel voor scalable, toekomstbestendig activabeheer.**
 
 * **Slimme Automatisering** Leveraging AI-Verdiende Slimme Markeringen en geautomatiseerde werkschema&#39;s vermindert handinspanning en verbetert consistentie.
 
-* **Duidelijk beleid van het beheer &amp; van de Naleving van 0} {, op rol-gebaseerde toestemmingen, en aan de gang zijnde optimalisering verzekeren merkconsistentie en wettelijke naleving.**
+* **Duidelijk beleid van het beheer &amp; van de Naleving van 0&rbrace; &lbrace;, op rol-gebaseerde toestemmingen, en aan de gang zijnde optimalisering verzekeren merkconsistentie en wettelijke naleving.**
 
 Door deze principes toe te passen, kunnen de teams productiviteit verhogen, een verenigd merk handhaven, en dure schoonmaakbeurten vermijden aangezien zij schrapen. Begin een strategie te bouwen DAM die ware waarde voor uw organisatie ontgrendelt.

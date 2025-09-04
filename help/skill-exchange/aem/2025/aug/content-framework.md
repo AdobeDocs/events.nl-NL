@@ -37,7 +37,7 @@ Het ontgrendelen van efficiënte inhoudsbewerkingen is van essentieel belang voo
 
 * **Gestructureerde Meta-gegevens en taxonomie van de Organisatie** zijn essentieel voor ontdekkingsbekwaamheid, bestuur, en het verminderen van duplicatie.
 * **Scalable Frameworks** Modulaire inhoudsfragmenten laten gecentraliseerde updates en omnichannel levering toe, die tijd besparen en consistentie verzekeren.
-* **de Slimme Automatisering van de Automatisering {** eigenschappen zoals het slimme etiketteren, deduplicatie, en de generatie van de variatie stroomlijnen herhalende taken en verhogen productiviteit.
+* **de Slimme Automatisering van de Automatisering &lbrace;** eigenschappen zoals het slimme etiketteren, deduplicatie, en de generatie van de variatie stroomlijnen herhalende taken en verhogen productiviteit.
 * **Praktische Inzichten** Echte demo&#39;s en Q&amp;A verduidelijken beste praktijken voor schemaontwerp, activabeheer, en globale inhoudsconsistentie.
 
 Door gebruik te maken van deze strategieën kunnen teams sneller, slimmer en met grotere impact werken, zodat uw contentbewerkingen in de toekomst klaar zijn.

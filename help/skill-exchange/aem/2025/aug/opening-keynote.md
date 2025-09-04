@@ -36,7 +36,7 @@ Sluit u aan bij Haresh Kumar, hoofd van Strategie en Product voor Adobe Experien
 
 Ontdek hoe Adobe Experience Manager de creatie en levering van content revolutioneert met behulp van AI-innovaties.
 
-* **Praktijken van de Werkschema&#39;s van 0} de Agentic {kunnen nu met AEM door herinneringen in wisselwerking staan, die pagina en activaverwezenlijking stroomlijnen.**
+* **Praktijken van de Werkschema&#39;s van 0&rbrace; de Agentic &lbrace;kunnen nu met AEM door herinneringen in wisselwerking staan, die pagina en activaverwezenlijking stroomlijnen.**
 * **Personalization bij Schaal** AI laat ware één-op-één overeenkomst toe, leverend de juiste inhoud op de juiste tijd.
 * **Activatie overal** Inhoud wordt dynamisch aangepast voor veelvoudige kanalen, apparaten, en geografische gebieden.
 * **Optimalisering voor de aanbevelingen in real time van de Betrokkenheid** en auto-plaatsingsaandrijving betere omzettingen en gebruikersaftrek.
