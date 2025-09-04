@@ -31,7 +31,7 @@ Kom hongerig naar inzichten-en ga met een volledig menu van CJA-klaar technieken
 
 Ontdek hoe Customer Journey Analytics (CJA) de workflows voor digitale analyse verandert:
 
-* **CJA van het Beheer van 10} Flexibele Gegevens staat in real time, retroactieve veranderingen in gegevenslogica toe, die rigide structuren en vertragingen van Adobe Analytics elimineren.**
+* **CJA van het Beheer van 10&rbrace; Flexibele Gegevens staat in real time, retroactieve veranderingen in gegevenslogica toe, die rigide structuren en vertragingen van Adobe Analytics elimineren.**
 * **Verbeterde de Opstelling van het Kanaal van de Marketing** werkt onmiddellijk bij, QA, en handhaaft de regels van het marketingkanaal met maximaal 200 klantgerichte regels en regex steun.
 * **Gestroomlijnde Classificaties &amp; de Variabelen van de Lijst** classificeren gemakkelijk, verdelen, en analyseren complexe gegevens gebruikend afgeleide gebieden, raadplegingen, en serie omzettingen-geen meer werkarounds of veranderlijke grenzen.
 * **Praktische Begeleiding** omvat het oplossen van problemenuiteinden, onboarding advies, en leveraging AI voor snellere inzichten.

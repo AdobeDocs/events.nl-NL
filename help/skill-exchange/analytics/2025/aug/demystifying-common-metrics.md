@@ -38,7 +38,7 @@ Ontdek hoe u de meest gebruikelijke meetgegevens voor webanalyse kunt begrijpen 
 * **Metrische Definities** leren het onderscheid tussen unieke bezoekers, bezoeken, paginameningen, paginagebeurtenissen, en voorkomen.
 * **de Inzichten van het Tarief van de Stuiting** begrijpen de subtiele verschillen tussen stuiters en enige paginabezoeken, en waarom de douane stuitert tarieven nauwkeuriger kunnen zijn.
 * **de Duidelijkheid van het Tarief van de Omzetting** zie hoe de omrekeningskoers, de orden per bezoek, en het ordersucces verschillen, en waarom het kiezen van juiste metrische kwesties.
-* **ontdekt de Bewustmaking van het Verkeer van 0} Bot {hoe de beide metriek u helpen niet-menselijk verkeer voor schonere rapportering identificeren en filtreren.**
+* **ontdekt de Bewustmaking van het Verkeer van 0&rbrace; Bot &lbrace;hoe de beide metriek u helpen niet-menselijk verkeer voor schonere rapportering identificeren en filtreren.**
 
 Door deze concepten te volgen kunt u de beste maatstaven voor uw behoeften selecteren en de waarde van uw analyserapportage maximaliseren.
 
