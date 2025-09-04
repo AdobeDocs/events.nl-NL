@@ -1,6 +1,7 @@
 ---
 title: Drie gameveranderende aanpassingen in Adobe Analytics Workspace
 description: Ontdek hoe u dashboards kunt markeren, unieke bezoeker-id's kunt instellen en beide verkeer in Adobe Analytics kunt bestrijden met inzichten van Champions Isha Gupta & Deb William.
+solution: Analytics
 feature: Analysis Workspace, Workspace Basics
 role: User
 level: Intermediate, Experienced
@@ -8,7 +9,7 @@ doc-type: Event
 duration: 2408
 last-substantial-update: 2025-09-04T00:00:00Z
 jira: KT-18827
-source-git-commit: 887622e17681c1e3bc44175667777b0f4e65cc65
+source-git-commit: 124b52203b98a80dd9202dab1b0dbe575475a52b
 workflow-type: tm+mt
 source-wordcount: '346'
 ht-degree: 0%

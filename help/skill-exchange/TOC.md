@@ -3,9 +3,9 @@ user-guide-title: De Uitwisseling van de Vaardigheid
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Inzameling opnamen van Ervaar de Uitwisseling van de Vaardigheid
 event-series: The Skill Exchange
-source-git-commit: d942871683ff1319d5f7b16e6f114c23825530b4
+source-git-commit: 124b52203b98a80dd9202dab1b0dbe575475a52b
 workflow-type: tm+mt
-source-wordcount: '797'
+source-wordcount: '837'
 ht-degree: 8%
 
 ---
@@ -31,8 +31,11 @@ ht-degree: 8%
       + [Reizen na e-mail](aep-apps/2025/aug/journeys-beyond-email.md)
 + Analytics {#analytics}
    + 20 aug. 25 {#aug2025}
+      + [Toetsenbord openen](analytics/2025/aug/opening-keynote.md)
       + [Aanpassingen in Adobe Analytics Workspace](analytics/2025/aug/analysis-workspace-customizations.md)
       + [Dashboards leveren geen inzichten](analytics/2025/aug/dashboards-insights.md)
+      + [Gegevensopslag met Analysis Workspace](analytics/2025/aug/data-storytelling.md)
+      + [Gegevens naar PowerPoint](analytics/2025/aug/data-to-powerpoint.md)
       + [Scalable Analytics Workflows](analytics/2025/aug/scalable-workflows.md)
       + [Segmentering en personalisatie](analytics/2025/aug/segmentation-personalization.md)
       + [Workspace-functies die u moet gebruiken](analytics/2025/aug/workspace-features.md)
@@ -107,9 +110,18 @@ ht-degree: 8%
       + [Aan de slag](analytics/jun2021/getting-started.md)
       + [Marketingkanalen, gebruik verantwoord](analytics/jun2021/marketing-channels.md)
       + [Alles samenvoegen](analytics/jun2021/putting-all-together.md)
++ Customer Journey Analytics {#cja}
+   + Augustus 2025 {#aug2025}
+      + [Toetsenbord openen](cja/2025/aug/opening-keynote.md)
+      + [Customer Journey Analytics Journey Canvas](cja/2025/aug/journey-canvas.md)
+      + [Customer Journey Analytics-gegevensmodel](cja/2025/aug/cja-data-model.md)
+      + [Modern neemt klassieke AA-recepten aan](cja/2025/aug/modern-takes-classic-aa.md)
+      + [Het artikel achter elke reis onthullen](cja/2025/aug/story-behind-journey.md)
 + Experience Manager {#aem}
    + Augustus 2025 {#aug2025}
       + [Toetsenbord openen](aem/2025/aug/opening-keynote.md)
+      + [Workflows voor bedrijfsmiddelen, machtigingen en integratie](aem/2025/aug/asset-workflows-permissions-integration.md)
+      + [Rapporten en ROI Metrics voor AEM Assets ontwikkelen](aem/2025/aug/reports-roi-metrics.md)
       + [Future-Ready Content Framework](aem/2025/aug/content-framework.md)
       + [Scalable Asset Management](aem/2025/aug/scalable-asset-management.md)
    + Augustus 2024 {#aug2024}
@@ -143,9 +155,6 @@ ht-degree: 8%
          + [De kracht van herbruikbaarheid](aem/aug2022/reusability.md)
          + [Zakelijke waarde verhogen met content personaliseren in AEM](aem/aug2022/personalization.md)
          + [Maximaliseer uw AEM-implementatie](aem/aug2022/implementation.md)
-+ Customer Journey Analytics {#cja}
-   + Augustus 2025 {#aug2025}
-      + [Modern neemt klassieke AA-recepten aan](cja/2025/aug/modern-takes-classic-aa.md)
 + Marketo {#marketo}
    + Augustus 2025 {#aug2025}
       + [Toetsenbord openen](marketo/2025/aug/opening-keynote.md)
