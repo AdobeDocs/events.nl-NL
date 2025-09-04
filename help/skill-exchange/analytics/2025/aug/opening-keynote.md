@@ -29,10 +29,10 @@ Technische competentie en Emotional Intelligence: bieden ondersteuning en oploss
 
 Ontdek hoe de analysemogelijkheden zich ontwikkelen in het tijdperk van AI, met een hernieuwde focus op menselijke creativiteit en empathie:
 
-* **Analytics van de 0} mens-Gecentreerde Benadering {voor Mensen benadrukt creativiteit, ervaring, en empathie als onvervangbaar door AI.**
+* **Analytics van de 0&rbrace; mens-Gecentreerde Benadering &lbrace;voor Mensen benadrukt creativiteit, ervaring, en empathie als onvervangbaar door AI.**
 * **AI als Hulpmiddel** AI versnelt gemiddelde resultaten maar het bereiken van uitmuntendheid vereist menselijke insight.
 * **vier Zeer belangrijke Gebieden** de inzameling van gegevens, bestuur, opleiding, en verhalen blijven fundamenteel mens-gedreven.
-* **Statistische geletterdheid, ethisch redeneren, het vertellen van verhalen, en emotionele inlichtingenreeks analisten van de Analyse van de Vaardigheden van de Analyst van 0} Unieke Analyst.**
+* **Statistische geletterdheid, ethisch redeneren, het vertellen van verhalen, en emotionele inlichtingenreeks analisten van de Analyse van de Vaardigheden van de Analyst van 0&rbrace; Unieke Analyst.**
 
 Als u deze beginselen begrijpt, kunnen organisaties gegevensgestuurde beslissingen nemen die echt op mensen zijn afgestemd en die een zinvolle verandering teweeg brengen.
 

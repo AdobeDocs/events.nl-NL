@@ -37,7 +37,7 @@ Ontdek hoe effectieve gegevensarchitectuur in Adobe Experience Platform (AEP) en
 
 * **het Ontwerp van het Schema van Kant** de keus tussen vlakke schema&#39;s, series, en series van voorwerpen beïnvloedt rechtstreeks analysemogelijkheden en het melden van flexibiliteit.
 * **Gegevens die van het Proces van de Transformatie** in AEP worden opgenomen moeten zorgvuldig gestructureerd zijn om naadloze transformatie en bruikbaarheid in CJA te verzekeren.
-* **Begrijpend gebeurtenis, zitting, en persoonniveaus van de Hiërarchie van 0} Container is cruciaal voor multi-level analyse en nauwkeurige rapportering.**
+* **Begrijpend gebeurtenis, zitting, en persoonniveaus van de Hiërarchie van 0&rbrace; Container is cruciaal voor multi-level analyse en nauwkeurige rapportering.**
 * **Praktische Strategieën** Voorste planning, schemabeheer, en het leveraging platformeigenschappen zijn zeer belangrijk aan scalable, toekomstbestendige implementaties.
 
 Het beheersen van deze concepten machtigt teams om hun analytische werkschema&#39;s te optimaliseren en diepere bedrijfsinzichten te ontsluiten.

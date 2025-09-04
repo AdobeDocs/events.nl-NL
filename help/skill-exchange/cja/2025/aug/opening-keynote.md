@@ -28,7 +28,7 @@ Ontdek de subtiele maar krachtige vaardigheden die grote analisten in Customer J
 * **Contextafhankelijke Fluency** integreert gebeurtenissen en bedrijfscontext in uw gegevensanalyse voor diepere inzichten.
 * **Comfort met dubbelzinnigheid** de onzekerheden en onvolledige gegevens van het Bevel, gebruikend timebox experimenten en flexibele planning om vooruitgang te drijven.
 * **Diplomatische Assertiveness** communiceert uitdagende inzichten met empathie, gebruikend technieken zoals &quot;ja en&quot;het ontwerpen en nieuwsgierigheid-gedreven gesprekken.
-* **Praktische 1} Uiteinden van de Toepassing {en oefeningen helpen analisten deze vaardigheden bouwen, die zowel persoonlijk effect als organisatorisch succes verbeteren.**
+* **Praktische 1&rbrace; Uiteinden van de Toepassing &lbrace;en oefeningen helpen analisten deze vaardigheden bouwen, die zowel persoonlijk effect als organisatorisch succes verbeteren.**
 
 Het beheersen van deze vaardigheden zal uw analyses actiever en relevant maken, die u en uw team helpen betere besluiten drijven.
 

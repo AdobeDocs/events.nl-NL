@@ -38,7 +38,7 @@ Deze benadering biedt slimmere beslissingen en betere resultaten voor de klant, 
 ## Gegevens voor naadloze reizen structureren
 
 * **XDM Schema** bepaalt gegevensstructuur, gebieden, en verhoudingen voor verenigde profielen.
-* **Precieze implementatie van de Opstelling van SDK van 0} Web {via markeringsmanager, gebeurtenis het volgen, en toestemmingsbeheer verzekert betrouwbare gegevensinzameling.**
+* **Precieze implementatie van de Opstelling van SDK van 0&rbrace; Web &lbrace;via markeringsmanager, gebeurtenis het volgen, en toestemmingsbeheer verzekert betrouwbare gegevensinzameling.**
 * **Privacy &amp; Governance** integreer toestemmingsbeheer en regelgevende naleving van het begin.
 * **het Testen &amp; Bevestiging** het zuiveren hulpmiddelen van het Gebruik en een test-en-leer benadering om gegevensnauwkeurigheid en scalability te verzekeren.
 * **verenigde stichting van Gegevens van de Activering** laat inzicht in real time en dwars-kanaalverpersoonlijking toe.

@@ -33,7 +33,7 @@ In deze sessie leren Admins en DAM Libraries efficiënt gebruik te maken van AEM
 Ontdek hoe u uw DAM-strategie (Digital Asset Management) kunt verhogen voor maximale efficiëntie en controle:
 
 * **de Centrale Hub van Activa** beheert volledige activa levenscyclus-van upload aan goedkeuring, levering, en archivering-in één verenigd platform.
-* **de Automatisering van het 0} Werkschema stroomlijnt herhalende taken, dwingt bedrijfsregels af, en vermindert tijd-aan-markt met klantgerichte werkschema&#39;s.**
+* **de Automatisering van het 0&rbrace; Werkschema stroomlijnt herhalende taken, dwingt bedrijfsregels af, en vermindert tijd-aan-markt met klantgerichte werkschema&#39;s.**
 * **granulaire de activa van de Controle van de Toegang** van de Veiligheid en verzekert naleving van robuuste toestemmingen en op groep-gebaseerde toegang.
 * **Naadloze Integraties** verbindt DAM met marketing, creatieve, en bedrijfssystemen voor groepering in real time en verrijkte meta-gegevens.
 

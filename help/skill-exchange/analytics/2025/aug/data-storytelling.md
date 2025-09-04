@@ -30,8 +30,8 @@ U leert hoe u opzettelijk visualisaties kunt gebruiken, betere vragen kunt stell
 
 Ontdek hoe u verder kunt gaan dan de traditionele rapportage en hoe u dashboards kunt maken die echte actie van belanghebbenden stimuleren.
 
-* **Belanghebbenden van de Actie van de Drijven van 0} Storyvertelling antwoorden aan insight, urgentie, en emotionele relevantie, niet alleen ruwe gegevens.**
-* **De opstelling, de spanning, en de resolutie van het Gebruik van de Menggrijsstructuren van 0} {{om gebruikers door uw dashboard te begeleiden, die efficiënte verhalen weerspiegelen.**
+* **Belanghebbenden van de Actie van de Drijven van 0&rbrace; Storyvertelling antwoorden aan insight, urgentie, en emotionele relevantie, niet alleen ruwe gegevens.**
+* **De opstelling, de spanning, en de resolutie van het Gebruik van de Menggrijsstructuren van 0&rbrace; &lbrace;&lbrace;om gebruikers door uw dashboard te begeleiden, die efficiënte verhalen weerspiegelen.**
 * **Visuals en Context** Geavanceerde visualisaties en contextafhankelijke teksthulpgebruikers concentreren zich op wat van belang is en bouwen emotionele overeenkomst.
 * **de Presentatie is Zeer belangrijk** de manier u uw gegevensverhaal presenteert kan zijn effect-persoonlijke levering maken of breken voegt emotie en duidelijkheid toe.
 
