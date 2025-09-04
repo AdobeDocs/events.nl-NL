@@ -29,7 +29,7 @@ Sluit u aan bij Haresh Kumar, hoofd van Strategie en Product voor Adobe Experien
 * Nieuwe optimalisatieprogramma&#39;s zoals Sites Optimizer en Content Advisor voor betere betrokkenheid en conversie.
 * Hoe te om één-op-één verpersoonlijking veilig en effectief te schrapen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471386/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471402/?learn=on&enablevpops&captions=dut)
 
 
 ## De toekomst van de ervaring met inhoud ontsluiten

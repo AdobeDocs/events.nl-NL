@@ -48,7 +48,7 @@ De Makers van de ervaring de Uitwisseling van de Vaardigheid is een globale reek
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aem/2025/aug/opening-keynote.md" title="Toetsenbord openen Adobe Experience Manager" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471386/?format=jpeg&nocache=1756943155218" alt="Toetsenbord openen Adobe Experience Manager"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471402/?format=jpeg&nocache=1756943155218&captions=dut" alt="Toetsenbord openen Adobe Experience Manager"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -135,7 +135,7 @@ De Makers van de ervaring de Uitwisseling van de Vaardigheid is een globale reek
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aep-apps/2025/aug/opening-keynote.md" title="Toetsenbord van de Uitwisseling van de Vaardigheid - de Toekomst van Ervaring Maken met AI, Adobe Experience Platform" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471327/?format=jpeg&nocache=1756943156021" alt="Toetsenbord van de Uitwisseling van de Vaardigheid - de Toekomst van Ervaring Maken met AI, Adobe Experience Platform"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471361/?format=jpeg&nocache=1756943156021&captions=dut" alt="Toetsenbord van de Uitwisseling van de Vaardigheid - de Toekomst van Ervaring Maken met AI, Adobe Experience Platform"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -181,7 +181,7 @@ De Makers van de ervaring de Uitwisseling van de Vaardigheid is een globale reek
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aep-apps/2025/aug/real-time-cdp-collaboration.md" title="Haal alles uit je media-investeringen met Adobe Real-Time CDP Collaboration" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471329/?format=jpeg&nocache=1756943155977" alt="Haal alles uit je media-investeringen met Adobe Real-Time CDP Collaboration"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471337/?format=jpeg&nocache=1756943155977&captions=dut" alt="Haal alles uit je media-investeringen met Adobe Real-Time CDP Collaboration"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -227,7 +227,7 @@ De Makers van de ervaring de Uitwisseling van de Vaardigheid is een globale reek
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aep-apps/2025/aug/journeys-beyond-email.md" title="Adobe-reizen buiten e-mail oplossen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471331/?format=jpeg&nocache=1756943156035" alt="Adobe-reizen buiten e-mail oplossen"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471348/?format=jpeg&nocache=1756943156035&captions=dut" alt="Adobe-reizen buiten e-mail oplossen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -268,7 +268,7 @@ De Makers van de ervaring de Uitwisseling van de Vaardigheid is een globale reek
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/2025/aug/opening-keynote.md" title="Toetsenbord openen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471392/?format=jpeg&nocache=1756943156421" alt="Toetsenbord openen"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471481/?format=jpeg&nocache=1756943156421&captions=dut" alt="Toetsenbord openen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -314,7 +314,7 @@ De Makers van de ervaring de Uitwisseling van de Vaardigheid is een globale reek
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/2025/aug/design-studio.md" title="De volledige Macht van de Studio van het Ontwerp voor Globale Verrichtingen van de Marketing ontsluiten" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471389/?format=jpeg&nocache=1756943156442" alt="De volledige Macht van de Studio van het Ontwerp voor Globale Verrichtingen van de Marketing ontsluiten"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471429/?format=jpeg&nocache=1756943156442&captions=dut" alt="De volledige Macht van de Studio van het Ontwerp voor Globale Verrichtingen van de Marketing ontsluiten"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -450,7 +450,7 @@ De Makers van de ervaring de Uitwisseling van de Vaardigheid is een globale reek
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/center-of-excellence.md" title="Uw Workfront-organisatie voorbereiden op een expertisecentrum" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471495/?format=jpeg&nocache=1756943157009" alt="Uw Workfront-organisatie voorbereiden op een expertisecentrum"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471590/?format=jpeg&nocache=1756943157009&captions=dut" alt="Uw Workfront-organisatie voorbereiden op een expertisecentrum"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -496,7 +496,7 @@ De Makers van de ervaring de Uitwisseling van de Vaardigheid is een globale reek
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/fusion-user-account-creation.md" title="Maken van Workfront-gebruikersaccounts automatiseren met Fusion" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471496/?format=jpeg&nocache=1756943157030" alt="Maken van Workfront-gebruikersaccounts automatiseren met Fusion"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471577/?format=jpeg&nocache=1756943157030&captions=dut" alt="Maken van Workfront-gebruikersaccounts automatiseren met Fusion"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -519,7 +519,7 @@ De Makers van de ervaring de Uitwisseling van de Vaardigheid is een globale reek
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/review-approval.md" title="Aan de slag met revisie en goedkeuring" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471493/?format=jpeg&nocache=1756943157047" alt="Aan de slag met revisie en goedkeuring"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471566/?format=jpeg&nocache=1756943157047&captions=dut" alt="Aan de slag met revisie en goedkeuring"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
