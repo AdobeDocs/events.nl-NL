@@ -3,9 +3,9 @@ user-guide-title: De Uitwisseling van de Vaardigheid
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Inzameling opnamen van Ervaar de Uitwisseling van de Vaardigheid
 event-series: The Skill Exchange
-source-git-commit: 85cd991ce4cce6e25f31df39400b21702c2a43cf
+source-git-commit: d942871683ff1319d5f7b16e6f114c23825530b4
 workflow-type: tm+mt
-source-wordcount: '760'
+source-wordcount: '797'
 ht-degree: 8%
 
 ---
@@ -21,7 +21,21 @@ ht-degree: 8%
       + [Effectieve uitbreidbaarheid](commerce/aug2024/extensibility.md)
       + [SEO maximaliseren gedurende migratiestromen](commerce/aug2024/seo-migration-workflows.md)
       + [De ervaring van de Klant aanpassen](commerce/aug2024/personalization.md)
++ Adobe Experience Platform {#aep}
+   + Augustus 2025 {#aug2025}
+      + [Toetsenbord openen](aep-apps/2025/aug/opening-keynote.md)
+      + [Personalization, privacy en gegevensbeveiliging in evenwicht brengen](aep-apps/2025/aug/personalization-privacy-data-security.md)
+      + [Veelgebruikte meetwaarden demonstreren](analytics/2025/aug/demystifying-common-metrics.md)
+      + [Media-investeringen en Adobe Real-Time CDP Collaboration](aep-apps/2025/aug/real-time-cdp-collaboration.md)
+      + [Tips voor het aanpakken van complexe reizen in Adobe Journey Optimizer](aep-apps/2025/aug/tips-for-tackling-journeys.md)
+      + [Reizen na e-mail](aep-apps/2025/aug/journeys-beyond-email.md)
 + Analytics {#analytics}
+   + 20 aug. 25 {#aug2025}
+      + [Aanpassingen in Adobe Analytics Workspace](analytics/2025/aug/analysis-workspace-customizations.md)
+      + [Dashboards leveren geen inzichten](analytics/2025/aug/dashboards-insights.md)
+      + [Scalable Analytics Workflows](analytics/2025/aug/scalable-workflows.md)
+      + [Segmentering en personalisatie](analytics/2025/aug/segmentation-personalization.md)
+      + [Workspace-functies die u moet gebruiken](analytics/2025/aug/workspace-features.md)
    + 20 aug. 24 {#aug2024}
       + [Toetsenbord openen](analytics/aug2024/keynote.md)
       + [Waarschuwingen en annotaties](analytics/aug2024/alerts-annotations.md)
@@ -129,13 +143,9 @@ ht-degree: 8%
          + [De kracht van herbruikbaarheid](aem/aug2022/reusability.md)
          + [Zakelijke waarde verhogen met content personaliseren in AEM](aem/aug2022/personalization.md)
          + [Maximaliseer uw AEM-implementatie](aem/aug2022/implementation.md)
-+ Adobe Experience Platform {#aep}
++ Customer Journey Analytics {#cja}
    + Augustus 2025 {#aug2025}
-      + [Toetsenbord openen](aep-apps/2025/aug/opening-keynote.md)
-      + [Personalization, privacy en gegevensbeveiliging in evenwicht brengen](aep-apps/2025/aug/personalization-privacy-data-security.md)
-      + [Media-investeringen en Adobe Real-Time CDP Collaboration](aep-apps/2025/aug/real-time-cdp-collaboration.md)
-      + [Tips voor het aanpakken van complexe reizen in Adobe Journey Optimizer](aep-apps/2025/aug/tips-for-tackling-journeys.md)
-      + [Reizen na e-mail](aep-apps/2025/aug/journeys-beyond-email.md)
+      + [Modern neemt klassieke AA-recepten aan](cja/2025/aug/modern-takes-classic-aa.md)
 + Marketo {#marketo}
    + Augustus 2025 {#aug2025}
       + [Toetsenbord openen](marketo/2025/aug/opening-keynote.md)

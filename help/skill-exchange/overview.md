@@ -3,16 +3,16 @@ title: De Makers van de ervaring de Uitwisseling van de Vaardigheid
 description: De Makers van de ervaring de Uitwisseling van de Vaardigheid is een globale reeks virtuele klanten leergebeurtenissen, die zich op het divers in de oplossingen van Adobe Experience Cloud concentreren.
 exl-id: 6d0f26c7-d5d2-4993-b2a1-58d5880f8f96
 duration: 57
-source-git-commit: 85cd991ce4cce6e25f31df39400b21702c2a43cf
+source-git-commit: 887622e17681c1e3bc44175667777b0f4e65cc65
 workflow-type: tm+mt
-source-wordcount: '1178'
+source-wordcount: '1643'
 ht-degree: 0%
 
 ---
 
 # De Makers van de ervaring de Uitwisseling van de Vaardigheid {#overview}
 
-<img alt="De Makers van de ervaring de Uitwisseling van de Vaardigheid" src="https://cdn.experienceleague.adobe.com/thumb/the-skill-exchange.png?lang=nl-NL" />
+<img alt="De Makers van de ervaring de Uitwisseling van de Vaardigheid" src="https://cdn.experienceleague.adobe.com/thumb/the-skill-exchange.png" />
 
 De Makers van de ervaring de Uitwisseling van de Vaardigheid is een globale reeks virtuele klanten leergebeurtenissen, die zich op het divers in de oplossingen van Adobe Experience Cloud concentreren. Dit programma biedt de mogelijkheid om van Adobe-productdeskundigen en experts te leren door het delen van beste praktijken en tips en trucs.
 
@@ -29,6 +29,188 @@ De Makers van de ervaring de Uitwisseling van de Vaardigheid is een globale reek
 </div>
 
 ## 2025 Gebeurtenissen
+
+### Analyse en Customer Journey Analytics
+
+<!-- CARDS
+
+{cta  = Watch event}
+
+* analytics/2025/aug/dashboards-insights.md
+* analytics/2025/aug/demystifying-common-metrics.md
+* cja/2025/aug/modern-takes-classic-aa.md
+* analytics/2025/aug/analysis-workspace-customizations.md
+* analytics/2025/aug/scalable-workflows.md
+* analytics/2025/aug/segmentation-personalization.md
+* analytics/2025/aug/workspace-features.md
+
+
+-->
+<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
+<div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Why Dashboards Don’t Deliver Insights (And What Actually Does)">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="analytics/2025/aug/dashboards-insights.md" title="Waarom dashboards geen inzichten leveren (en wat eigenlijk doet)" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471120/?format=jpeg&nocache=1757003827094" alt="Waarom dashboards geen inzichten leveren (en wat eigenlijk doet)"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="analytics/2025/aug/dashboards-insights.md" target="_blank" rel="referrer" title="Waarom dashboards geen inzichten leveren (en wat eigenlijk doet)"> waarom dashboards geen Inzichten (en wat eigenlijk) leveren </a>
+                    </p>
+                    <p class="is-size-6">Leer hoe u verder kunt gaan dan dashboards en een systeem voor inzichten kunt bouwen met verhalende rapporten, hypothesetests en actioneerbare analysestrategieën.</p>
+                </div>
+                <a href="analytics/2025/aug/dashboards-insights.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> gebeurtenis van het Controle </span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Demystifying Common Metrics">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="analytics/2025/aug/demystifying-common-metrics.md" title="Veelgebruikte meetwaarden demonstreren" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471114/?format=jpeg&nocache=1757003827064" alt="Veelgebruikte meetwaarden demonstreren"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="analytics/2025/aug/demystifying-common-metrics.md" target="_blank" rel="referrer" title="Veelgebruikte meetwaarden demonstreren"> demystifying Common Metrics </a>
+                    </p>
+                    <p class="is-size-6">Leer hoe u de meetgegevens van Adobe Analytics kunt interpreteren (bezoeken, bezoekers, paginaweergaven, stuitingen, conversietarieven en meer) om de nauwkeurigheid en inzichten van rapporten te verbeteren.</p>
+                </div>
+                <a href="analytics/2025/aug/demystifying-common-metrics.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> gebeurtenis van het Controle </span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Cooking with CJA - Modern Takes on Classic AA Recipes">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="cja/2025/aug/modern-takes-classic-aa.md" title="Koken met CJA - Modern neemt Classic AA Recipes aan" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471110/?format=jpeg&nocache=1757003827084" alt="Koken met CJA - Modern neemt Classic AA Recipes aan"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="cja/2025/aug/modern-takes-classic-aa.md" target="_blank" rel="referrer" title="Koken met CJA - Modern neemt Classic AA Recipes aan"> het Kooksen met CJA - de Modern neemt Klassieke Ontvangers van aa </a>
+                    </p>
+                    <p class="is-size-6">Ontdek hoe u afgeleide velden, classificaties en lijstdimensies in Customer Journey Analytics kunt gebruiken om flexibele, retroactieve inzichten te ontgrendelen.</p>
+                </div>
+                <a href="cja/2025/aug/modern-takes-classic-aa.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> gebeurtenis van het Controle </span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Three Game-Changing Customizations in Adobe Analytics Workspace">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="analytics/2025/aug/analysis-workspace-customizations.md" title="Drie gameveranderende aanpassingen in Adobe Analytics Workspace" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471123/?format=jpeg&nocache=1757003827039" alt="Drie gameveranderende aanpassingen in Adobe Analytics Workspace"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="analytics/2025/aug/analysis-workspace-customizations.md" target="_blank" rel="referrer" title="Drie gameveranderende aanpassingen in Adobe Analytics Workspace"> Drie Game-Veranderende Aanpassingen in Adobe Analytics Workspace </a>
+                    </p>
+                    <p class="is-size-6">Ontdek hoe u dashboards kunt markeren, unieke bezoeker-id's kunt instellen en beide verkeer in Adobe Analytics kunt bestrijden met inzichten van Champions Isha Gupta &amp; Deb William.</p>
+                </div>
+                <a href="analytics/2025/aug/analysis-workspace-customizations.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> gebeurtenis van het Controle </span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Data in Motion - Scalable Analytics Workflows for Insight-Driven Teams">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="analytics/2025/aug/scalable-workflows.md" title="Bewegingsgegevens - schaalbare analysemogelijkheden voor door Insight aangestuurde teams" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471118/?format=jpeg&nocache=1757003827053" alt="Bewegingsgegevens - schaalbare analysemogelijkheden voor door Insight aangestuurde teams"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="analytics/2025/aug/scalable-workflows.md" target="_blank" rel="referrer" title="Bewegingsgegevens - schaalbare analysemogelijkheden voor door Insight aangestuurde teams"> Gegevens in Motie - de Schaalbare Werkschema's van Analytics voor Insight-Gedreven Teams </a>
+                    </p>
+                    <p class="is-size-6">Leer hoe u Adobe Analytics-workflows stroomlijnt, het bestuur versterkt en teams informeert met inzichten die de activering, samenwerking en groei stimuleren.</p>
+                </div>
+                <a href="analytics/2025/aug/scalable-workflows.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> gebeurtenis van het Controle </span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Driving Impact with Segmentation & Personalization in Adobe Analytics">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="analytics/2025/aug/segmentation-personalization.md" title="Krachtige impact met segmentering en personalisatie in Adobe Analytics" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471113/?format=jpeg&nocache=1757003827103" alt="Krachtige impact met segmentering en personalisatie in Adobe Analytics"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="analytics/2025/aug/segmentation-personalization.md" target="_blank" rel="referrer" title="Krachtige impact met segmentering en personalisatie in Adobe Analytics"> Driving Effect met Segmentatie &amp; Personalisatie in Adobe Analytics </a>
+                    </p>
+                    <p class="is-size-6">Leer hoe u segmenten in Adobe Analytics kunt maken, beheren en activeren. Verken de Bouwer van het Segment, Segment IQ, en verpersoonlijkingsstrategieën die ROI drijven.</p>
+                </div>
+                <a href="analytics/2025/aug/segmentation-personalization.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> gebeurtenis van het Controle </span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Workspace Features that you Should be Using">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="analytics/2025/aug/workspace-features.md" title="Workspace-functies die u moet gebruiken" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471117/?format=jpeg&nocache=1757003827074" alt="Workspace-functies die u moet gebruiken"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="analytics/2025/aug/workspace-features.md" target="_blank" rel="referrer" title="Workspace-functies die u moet gebruiken"> de Eigenschappen van Workspace die u </a> zou moeten gebruiken
+                    </p>
+                    <p class="is-size-6">Ontdek de belangrijkste Adobe Analytics Workspace-functies (voorwaardelijke opmaak, dropdowns, attributiemodellen en berekende maatstaven) om diepgaande inzichten aan het licht te brengen.</p>
+                </div>
+                <a href="analytics/2025/aug/workspace-features.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> gebeurtenis van het Controle </span>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
 ### Experience Manager
 
@@ -48,7 +230,7 @@ De Makers van de ervaring de Uitwisseling van de Vaardigheid is een globale reek
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aem/2025/aug/opening-keynote.md" title="Toetsenbord openen Adobe Experience Manager" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471402/?format=jpeg&nocache=1756943155218&captions=dut" alt="Toetsenbord openen Adobe Experience Manager"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471386/?format=jpeg&nocache=1757003827758" alt="Toetsenbord openen Adobe Experience Manager"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -66,12 +248,12 @@ De Makers van de ervaring de Uitwisseling van de Vaardigheid is een globale reek
             </div>
         </div>
     </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="undefined">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Smart, Scalable, and Structured - Building a Future-Ready Content Framework">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="aem/2025/aug/content-framework.md" title="ongedefinieerd" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-cards/documentation.png" alt="ongedefinieerd"
+                    <a href="aem/2025/aug/content-framework.md" title="Slim, schaalbaar en gestructureerd - Een toekomstgericht contentframework ontwikkelen" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471382/?format=jpeg&nocache=1757003827742" alt="Slim, schaalbaar en gestructureerd - Een toekomstgericht contentframework ontwikkelen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -79,9 +261,9 @@ De Makers van de ervaring de Uitwisseling van de Vaardigheid is een globale reek
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="aem/2025/aug/content-framework.md" target="_blank" rel="referrer" title="ongedefinieerd"> niet gedefiniëerd </a>
+                        <a href="aem/2025/aug/content-framework.md" target="_blank" rel="referrer" title="Slim, schaalbaar en gestructureerd - Een toekomstgericht contentframework ontwikkelen"> Smart, Scalable, en Gestructureerd - Bouwend een toekomstig-Klaar Kader van de Inhoud </a>
                     </p>
-                    <p class="is-size-6">ongedefinieerd</p>
+                    <p class="is-size-6">Ontdek hoe AEM-metagegevens, taxonomie, inhoudsfragmenten en door AI aangedreven automatisering inhoud stroomlijnen, de ontdekkingsmogelijkheden verhogen en de levering schalen.</p>
                 </div>
                 <a href="aem/2025/aug/content-framework.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> gebeurtenis van het Controle </span>
@@ -89,12 +271,12 @@ De Makers van de ervaring de Uitwisseling van de Vaardigheid is een globale reek
             </div>
         </div>
     </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="undefined">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Taxonomy & Structure - AEM’s Secret to Scalable Asset Management">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="aem/2025/aug/scalable-asset-management.md" title="ongedefinieerd" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-cards/documentation.png" alt="ongedefinieerd"
+                    <a href="aem/2025/aug/scalable-asset-management.md" title="Taxonomie en structuur - AEM&apos;s geheim voor schaalbaar beheer van bedrijfsmiddelen" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471385/?format=jpeg&nocache=1757003827770" alt="Taxonomie en structuur - AEM&apos;s geheim voor schaalbaar beheer van bedrijfsmiddelen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -102,9 +284,9 @@ De Makers van de ervaring de Uitwisseling van de Vaardigheid is een globale reek
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="aem/2025/aug/scalable-asset-management.md" target="_blank" rel="referrer" title="ongedefinieerd"> niet gedefiniëerd </a>
+                        <a href="aem/2025/aug/scalable-asset-management.md" target="_blank" rel="referrer" title="Taxonomie en structuur - AEM&apos;s geheim voor schaalbaar beheer van bedrijfsmiddelen"> Taxonomy &amp; Structuur - Geheim aan Scalable Asset Management van AEM </a>
                     </p>
-                    <p class="is-size-6">ongedefinieerd</p>
+                    <p class="is-size-6">Leer hoe AEM taxonomie, mapstructuur, governance en Smart Tags efficiënt beheer van digitale middelen ontsluiten, de ontdekkingsmogelijkheden vergroten en de controle op merken garanderen.</p>
                 </div>
                 <a href="aem/2025/aug/scalable-asset-management.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> gebeurtenis van het Controle </span>
@@ -135,7 +317,7 @@ De Makers van de ervaring de Uitwisseling van de Vaardigheid is een globale reek
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aep-apps/2025/aug/opening-keynote.md" title="Toetsenbord van de Uitwisseling van de Vaardigheid - de Toekomst van Ervaring Maken met AI, Adobe Experience Platform" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471361/?format=jpeg&nocache=1756943156021&captions=dut" alt="Toetsenbord van de Uitwisseling van de Vaardigheid - de Toekomst van Ervaring Maken met AI, Adobe Experience Platform"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471327/?format=jpeg&nocache=1757003828090" alt="Toetsenbord van de Uitwisseling van de Vaardigheid - de Toekomst van Ervaring Maken met AI, Adobe Experience Platform"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -158,7 +340,7 @@ De Makers van de ervaring de Uitwisseling van de Vaardigheid is een globale reek
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aep-apps/2025/aug/personalization-privacy-data-security.md" title="Navigeren door de nieuwe norm - Personalization, privacy en gegevensbeveiliging in evenwicht brengen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471328/?format=jpeg&nocache=1756943155992" alt="Navigeren door de nieuwe norm - Personalization, privacy en gegevensbeveiliging in evenwicht brengen"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471328/?format=jpeg&nocache=1757003828063" alt="Navigeren door de nieuwe norm - Personalization, privacy en gegevensbeveiliging in evenwicht brengen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -181,7 +363,7 @@ De Makers van de ervaring de Uitwisseling van de Vaardigheid is een globale reek
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aep-apps/2025/aug/real-time-cdp-collaboration.md" title="Haal alles uit je media-investeringen met Adobe Real-Time CDP Collaboration" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471337/?format=jpeg&nocache=1756943155977&captions=dut" alt="Haal alles uit je media-investeringen met Adobe Real-Time CDP Collaboration"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471329/?format=jpeg&nocache=1757003828079" alt="Haal alles uit je media-investeringen met Adobe Real-Time CDP Collaboration"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -204,7 +386,7 @@ De Makers van de ervaring de Uitwisseling van de Vaardigheid is een globale reek
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aep-apps/2025/aug/tips-for-tackling-journeys.md" title="Klantchaos berekenen - Tips voor het aanpakken van complexe reizen in Adobe Journey Optimizer" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471330/?format=jpeg&nocache=1756943156007" alt="Klantchaos berekenen - Tips voor het aanpakken van complexe reizen in Adobe Journey Optimizer"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471330/?format=jpeg&nocache=1757003828102" alt="Klantchaos berekenen - Tips voor het aanpakken van complexe reizen in Adobe Journey Optimizer"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -227,7 +409,7 @@ De Makers van de ervaring de Uitwisseling van de Vaardigheid is een globale reek
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aep-apps/2025/aug/journeys-beyond-email.md" title="Adobe-reizen buiten e-mail oplossen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471348/?format=jpeg&nocache=1756943156035&captions=dut" alt="Adobe-reizen buiten e-mail oplossen"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471331/?format=jpeg&nocache=1757003828112" alt="Adobe-reizen buiten e-mail oplossen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -268,7 +450,7 @@ De Makers van de ervaring de Uitwisseling van de Vaardigheid is een globale reek
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/2025/aug/opening-keynote.md" title="Toetsenbord openen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471481/?format=jpeg&nocache=1756943156421&captions=dut" alt="Toetsenbord openen"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471392/?format=jpeg&nocache=1757003828494" alt="Toetsenbord openen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -291,7 +473,7 @@ De Makers van de ervaring de Uitwisseling van de Vaardigheid is een globale reek
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/2025/aug/ai-lifecycle-engine.md" title="Van MQL tot AIQL - Een levenscyclusmotor met AI-voeding maken in Marketo Engage" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471387/?format=jpeg&nocache=1756943156412" alt="Van MQL tot AIQL - Een levenscyclusmotor met AI-voeding maken in Marketo Engage"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471387/?format=jpeg&nocache=1757003828462" alt="Van MQL tot AIQL - Een levenscyclusmotor met AI-voeding maken in Marketo Engage"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -314,7 +496,7 @@ De Makers van de ervaring de Uitwisseling van de Vaardigheid is een globale reek
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/2025/aug/design-studio.md" title="De volledige Macht van de Studio van het Ontwerp voor Globale Verrichtingen van de Marketing ontsluiten" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471429/?format=jpeg&nocache=1756943156442&captions=dut" alt="De volledige Macht van de Studio van het Ontwerp voor Globale Verrichtingen van de Marketing ontsluiten"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471389/?format=jpeg&nocache=1757003828474" alt="De volledige Macht van de Studio van het Ontwerp voor Globale Verrichtingen van de Marketing ontsluiten"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -337,7 +519,7 @@ De Makers van de ervaring de Uitwisseling van de Vaardigheid is een globale reek
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/2025/aug/data-categorization-with-ai.md" title="Gegevenscategorisering in Marketo Engage verbeteren met Fijne AI-modellen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471388/?format=jpeg&nocache=1756943156451" alt="Gegevenscategorisering in Marketo Engage verbeteren met Fijne AI-modellen"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471388/?format=jpeg&nocache=1757003828484" alt="Gegevenscategorisering in Marketo Engage verbeteren met Fijne AI-modellen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -360,7 +542,7 @@ De Makers van de ervaring de Uitwisseling van de Vaardigheid is een globale reek
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/2025/aug/follow-ups-customer-lifecycle.md" title="Ervaar de Spotlight van Makers - stroomlijnende follow-ups in de levenscyclus van de Klant" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471390/?format=jpeg&nocache=1756943156433" alt="Ervaar de Spotlight van Makers - stroomlijnende follow-ups in de levenscyclus van de Klant"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471390/?format=jpeg&nocache=1757003828446" alt="Ervaar de Spotlight van Makers - stroomlijnende follow-ups in de levenscyclus van de Klant"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -404,7 +586,7 @@ De Makers van de ervaring de Uitwisseling van de Vaardigheid is een globale reek
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/keynote.md" title="Toetsenbord openen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471499/?format=jpeg&nocache=1756943157000" alt="Toetsenbord openen"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471499/?format=jpeg&nocache=1757003828856" alt="Toetsenbord openen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -427,7 +609,7 @@ De Makers van de ervaring de Uitwisseling van de Vaardigheid is een globale reek
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/advanced-text-mode.md" title="Workfront-rapportage versnellen met geavanceerde tekstmodus" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471498/?format=jpeg&nocache=1756943157019" alt="Workfront-rapportage versnellen met geavanceerde tekstmodus"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471498/?format=jpeg&nocache=1757003828871" alt="Workfront-rapportage versnellen met geavanceerde tekstmodus"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -450,7 +632,7 @@ De Makers van de ervaring de Uitwisseling van de Vaardigheid is een globale reek
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/center-of-excellence.md" title="Uw Workfront-organisatie voorbereiden op een expertisecentrum" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471590/?format=jpeg&nocache=1756943157009&captions=dut" alt="Uw Workfront-organisatie voorbereiden op een expertisecentrum"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471495/?format=jpeg&nocache=1757003828883" alt="Uw Workfront-organisatie voorbereiden op een expertisecentrum"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -473,7 +655,7 @@ De Makers van de ervaring de Uitwisseling van de Vaardigheid is een globale reek
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/enable-users-new-features.md" title="Gebruikers inschakelen voor nieuwe functies - Agitatie is het leven" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471494/?format=jpeg&nocache=1756943157057" alt="Gebruikers inschakelen voor nieuwe functies - Agitatie is het leven"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471494/?format=jpeg&nocache=1757003828924" alt="Gebruikers inschakelen voor nieuwe functies - Agitatie is het leven"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -496,7 +678,7 @@ De Makers van de ervaring de Uitwisseling van de Vaardigheid is een globale reek
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/fusion-user-account-creation.md" title="Maken van Workfront-gebruikersaccounts automatiseren met Fusion" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471577/?format=jpeg&nocache=1756943157030&captions=dut" alt="Maken van Workfront-gebruikersaccounts automatiseren met Fusion"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471496/?format=jpeg&nocache=1757003828895" alt="Maken van Workfront-gebruikersaccounts automatiseren met Fusion"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -519,7 +701,7 @@ De Makers van de ervaring de Uitwisseling van de Vaardigheid is een globale reek
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/review-approval.md" title="Aan de slag met revisie en goedkeuring" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471566/?format=jpeg&nocache=1756943157047&captions=dut" alt="Aan de slag met revisie en goedkeuring"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471493/?format=jpeg&nocache=1757003828916" alt="Aan de slag met revisie en goedkeuring"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -542,7 +724,7 @@ De Makers van de ervaring de Uitwisseling van de Vaardigheid is een globale reek
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/workfront-ai-tools.md" title="Efficiëntie maximaliseren met AI - Workfront AI-tools beheersen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471393/?format=jpeg&nocache=1756943157038" alt="Efficiëntie maximaliseren met AI - Workfront AI-tools beheersen"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471393/?format=jpeg&nocache=1757003828904" alt="Efficiëntie maximaliseren met AI - Workfront AI-tools beheersen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -565,7 +747,7 @@ De Makers van de ervaring de Uitwisseling van de Vaardigheid is een globale reek
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/workflows-workfront-aem.md" title="Creative-workflows stroomlijnen met Workfront + Adobe Experience Manager" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471497/?format=jpeg&nocache=1756943157065" alt="Creative-workflows stroomlijnen met Workfront + Adobe Experience Manager"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471497/?format=jpeg&nocache=1757003828932" alt="Creative-workflows stroomlijnen met Workfront + Adobe Experience Manager"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
