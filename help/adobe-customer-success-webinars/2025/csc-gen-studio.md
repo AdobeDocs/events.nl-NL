@@ -39,7 +39,7 @@ Als u deze aanpak begrijpt, kunnen teams betere inhoud leveren, die sneller en e
 ## De belangrijkste uitdagingen in de Moderne Ketens van de Levering van Inhoud
 
 * {het 1} Volume van de Verhoging van de Verhoging van de Verhoging van de Vraag van de Inhoud **om 5x in twee jaar te groeien, die bestaande processen overdrijven.**
-* **Snelheid &amp; de 1} Marketers van Personalization {moeten snellere, meer op maat gemaakte campagnes leveren om aan klantenverwachtingen te voldoen.**
+* **Snelheid &amp; de 1&rbrace; Marketers van Personalization &lbrace;moeten snellere, meer op maat gemaakte campagnes leveren om aan klantenverwachtingen te voldoen.**
 * **ontkoppelde Teams &amp; Hulpmiddelen** De stille werkschema&#39;s leiden tot knelpunten, die het moeilijk maken om te schrapen en aan te passen.
 * {de Kwesties van het Beheer van activa 0} **Gebrekkige het etiketteren en meta-gegevens leiden tot verloren activa en verspilde tijd.**
 * **de Complexe cycli van de Goedkeuring** Veelvoudige overzichten en onduidelijke eigendom vertragen levering.

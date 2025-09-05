@@ -43,7 +43,7 @@ Het beheersen van deze processen zorgt ervoor dat uw campagnes veilig zijn, kunn
 ## Delegatiemethoden** Volledig vs. CNAME
 
 * **Volledige Delegatie** Adobe beheert alle DNS verslagen voor subdomain, die optimale leverbaarheid en veiligheid verzekeren. Aanbevolen voor de meeste gebruikers.
-* **Klant van de Delegatie van de NAAM van 0} en Adobe delen DNS verantwoordelijkheden.** De klant maakt CNAME-records die verwijzen naar door Adobe beheerde bronnen.
+* **Klant van de Delegatie van de NAAM van 0&rbrace; en Adobe delen DNS verantwoordelijkheden.** De klant maakt CNAME-records die verwijzen naar door Adobe beheerde bronnen.
 * **Belangrijke verschillen:
 * **Volledige** Adobe heeft volledig gezag; minder klantenonderhoud.
 * **CNAME** Gedeelde verantwoordelijkheid; meer handstappen voor klant.
