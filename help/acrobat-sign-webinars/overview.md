@@ -40,7 +40,7 @@ Leer van Adobe-experts hoe u de nieuwe workflows voor e-handtekeningen in Acroba
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="skill-builders/advanced-reporting.md" title="Geavanceerde rapportage voor Acrobat Sign" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428191/?format=jpeg&nocache=1757082643934" alt="Geavanceerde rapportage voor Acrobat Sign"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3454411/?format=jpeg&nocache=1757082643934&captions=dut" alt="Geavanceerde rapportage voor Acrobat Sign"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -86,7 +86,7 @@ Leer van Adobe-experts hoe u de nieuwe workflows voor e-handtekeningen in Acroba
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="skill-builders/advanced-sending-documents-signature.md" title="Geavanceerde tips voor het verzenden van documenten ter ondertekening" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428186/?format=jpeg&nocache=1757082643929" alt="Geavanceerde tips voor het verzenden van documenten ter ondertekening"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3454886/?format=jpeg&nocache=1757082643929&captions=dut" alt="Geavanceerde tips voor het verzenden van documenten ter ondertekening"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -109,7 +109,7 @@ Leer van Adobe-experts hoe u de nieuwe workflows voor e-handtekeningen in Acroba
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="skill-builders/agreement-status.md" title="Overeenkomsten beheren - Real-Time zichtbaarheid in overeenkomststatus krijgen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428190/?format=jpeg&nocache=1757082643906" alt="Overeenkomsten beheren - Real-Time zichtbaarheid in overeenkomststatus krijgen"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3455007/?format=jpeg&nocache=1757082643906&captions=dut" alt="Overeenkomsten beheren - Real-Time zichtbaarheid in overeenkomststatus krijgen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -132,7 +132,7 @@ Leer van Adobe-experts hoe u de nieuwe workflows voor e-handtekeningen in Acroba
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="skill-builders/authoring-environment.md" title="Geavanceerde training voor ontwerpomgeving" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428189/?format=jpeg&nocache=1757082643912" alt="Geavanceerde training voor ontwerpomgeving"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3455908/?format=jpeg&nocache=1757082643912&captions=dut" alt="Geavanceerde training voor ontwerpomgeving"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -155,7 +155,7 @@ Leer van Adobe-experts hoe u de nieuwe workflows voor e-handtekeningen in Acroba
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="skill-builders/collect-signatures.md" title="Vele handtekeningen verzamelen met één klik" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428188/?format=jpeg&nocache=1757082643917" alt="Vele handtekeningen verzamelen met één klik"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3454897/?format=jpeg&nocache=1757082643917&captions=dut" alt="Vele handtekeningen verzamelen met één klik"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -178,7 +178,7 @@ Leer van Adobe-experts hoe u de nieuwe workflows voor e-handtekeningen in Acroba
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="skill-builders/create-use-workflows.md" title="Workflows maken en gebruiken van begin tot eind" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428192/?format=jpeg&nocache=1757082643940" alt="Workflows maken en gebruiken van begin tot eind"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3454908/?format=jpeg&nocache=1757082643940&captions=dut" alt="Workflows maken en gebruiken van begin tot eind"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -201,7 +201,7 @@ Leer van Adobe-experts hoe u de nieuwe workflows voor e-handtekeningen in Acroba
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="skill-builders/document-builder.md" title="Document Builder voor Adobe Acrobat Sign" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428193/?format=jpeg&nocache=1757082643924" alt="Document Builder voor Adobe Acrobat Sign"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3454919/?format=jpeg&nocache=1757082643924&captions=dut" alt="Document Builder voor Adobe Acrobat Sign"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -224,7 +224,7 @@ Leer van Adobe-experts hoe u de nieuwe workflows voor e-handtekeningen in Acroba
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="skill-builders/e-signature-microsoft.md" title="Werken met e-handtekeningen in uw Microsoft-toepassingen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428185/?format=jpeg&nocache=1757082643952" alt="Werken met e-handtekeningen in uw Microsoft-toepassingen"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3455056/?format=jpeg&nocache=1757082643952&captions=dut" alt="Werken met e-handtekeningen in uw Microsoft-toepassingen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -247,7 +247,7 @@ Leer van Adobe-experts hoe u de nieuwe workflows voor e-handtekeningen in Acroba
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="skill-builders/e-signature-setup.md" title="Uw overeenkomsten voorbereiden voor elektronische ondertekening" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428184/?format=jpeg&nocache=1757082643958" alt="Uw overeenkomsten voorbereiden voor elektronische ondertekening"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3455952/?format=jpeg&nocache=1757082643958&captions=dut" alt="Uw overeenkomsten voorbereiden voor elektronische ondertekening"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -270,7 +270,7 @@ Leer van Adobe-experts hoe u de nieuwe workflows voor e-handtekeningen in Acroba
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="skill-builders/fillable-signable-web-form.md" title="Een invulbaar, elektronisch webformulier verzenden" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428187/?format=jpeg&nocache=1757082643946" alt="Een invulbaar, elektronisch webformulier verzenden"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3455453/?format=jpeg&nocache=1757082643946&captions=dut" alt="Een invulbaar, elektronisch webformulier verzenden"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -293,7 +293,7 @@ Leer van Adobe-experts hoe u de nieuwe workflows voor e-handtekeningen in Acroba
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="skill-builders/getting-started.md" title="Acrobat Sign 101 - Aan de slag" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428183/?format=jpeg&nocache=1757082643968" alt="Acrobat Sign 101 - Aan de slag"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3455471/?format=jpeg&nocache=1757082643968&captions=dut" alt="Acrobat Sign 101 - Aan de slag"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -316,7 +316,7 @@ Leer van Adobe-experts hoe u de nieuwe workflows voor e-handtekeningen in Acroba
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="skill-builders/notarize.md" title="Notarisintegratie" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428195/?format=jpeg&nocache=1757082643963" alt="Notarisintegratie"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3454378/?format=jpeg&nocache=1757082643963&captions=dut" alt="Notarisintegratie"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -339,7 +339,7 @@ Leer van Adobe-experts hoe u de nieuwe workflows voor e-handtekeningen in Acroba
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="skill-builders/workflow-automations.md" title="Workflow Automated met Microsoft Power Automate" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428194/?format=jpeg&nocache=1757082643971" alt="Workflow Automated met Microsoft Power Automate"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3454930/?format=jpeg&nocache=1757082643971&captions=dut" alt="Workflow Automated met Microsoft Power Automate"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

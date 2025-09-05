@@ -23,7 +23,7 @@ ht-degree: 0%
 
 Dit webinar verstrekt een overzicht op hoog niveau van de moderne leveringsketen van inhoud, die toont hoe de organisaties kunnen versnellen, vereenvoudigen, en de verwezenlijking en levering van inhoud over elk kanaal en publiek controleren. Viewers zullen meer leren over de geïntegreerde kracht van Adobe GenStudio als productsuite, met AEM Sites, AEM Assets, Workfront en Creative Cloud, om realtime samenwerking te ontgrendelen, workflows te automatiseren en schaalbare creatieve on-brand uitvoering mogelijk te maken. De sessie is ontworpen om bedrijfs- en IT-leiders te informeren over hoe een uniform platform voor de toeleveringsketen van inhoud de marketingflexibiliteit, creatieve impact en meetbare bedrijfsgroei kan stimuleren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3472978/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3472985/?learn=on&enablevpops&captions=dut)
 
 ## Naadloze inhoud maken met Adobe
 
