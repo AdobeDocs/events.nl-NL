@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Ontdek krachtige, maar vaak over het hoofd gezien functies in Adobe Analytics Workspace die uw analyse kunnen verhogen en een echte impact kunnen hebben. In deze zitting, zullen wij praktische gebruiksgevallen en eenvoudige technieken onderzoeken die alledaagse hulpmiddelen in motor van insight-helpen ontdekken wat werkelijk voor uw zaken belangrijk is. Of u nu een doorgewinterde analist bent of gewoon aan de slag gaat, u gaat met hanteerbare ideeën om de waarde van uw gegevens te maximaliseren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471117/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471257/?learn=on&enablevpops&captions=dut)
 
 ## Geavanceerde analysetechnieken ontgrendelen
 

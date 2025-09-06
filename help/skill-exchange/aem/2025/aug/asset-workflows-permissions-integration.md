@@ -26,7 +26,7 @@ In deze sessie leren Admins en DAM Libraries efficiënt gebruik te maken van AEM
 * Rechten en toegangsbeheer binnen DAM begrijpen en toepassen
 * Mogelijkheden van DAM, Beste praktijken, en de Strategieën van de Integratie met DAM
 
->[!VIDEO](https://video.tv.adobe.com/v/3471383/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471458/?learn=on&enablevpops&captions=dut)
 
 ## Efficiënt beheer van digitale middelen ontgrendelen
 

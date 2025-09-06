@@ -24,7 +24,7 @@ De aanwezigen zullen leren hoe te om reis-vlakke analyse te gebruiken om actiemo
 
 Tot slot duiken we in strategieën voor het schalen van deze inzichten in de hele organisatie door de bevindingen van Journey Canvas aan te sluiten op granulaire dashboards, waardoor continue optimalisatie op elk aanraakpunt mogelijk is. Of u nu nieuw bent in CJA of een ervaren expert, deze sessie zal u voorzien van een duidelijke methodologie voor het gebruik van Journey Canvas om uw CX-programma&#39;s te verhogen en tastbare resultaten te behalen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471112/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471220/?learn=on&enablevpops&captions=dut)
 
 ## Reis canvas: van analyse tot activering
 

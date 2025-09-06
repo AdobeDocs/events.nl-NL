@@ -19,7 +19,7 @@ ht-degree: 0%
 
 Toetsenbord openen
 
->[!VIDEO](https://video.tv.adobe.com/v/3471108/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471130/?learn=on&enablevpops&captions=dut)
 
 ## Uitmuntende analist ontgrendelen: essentiële vaardigheden
 

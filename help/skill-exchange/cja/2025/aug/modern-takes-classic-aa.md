@@ -25,7 +25,7 @@ Bent u klaar om uw oude Adobe Analytics-platform op te hangen en een moderne keu
 Of u nu uw verwerkingsregels mist of probeert de perfecte pan (gegevensweergave) te vinden voor uw volgende analyse, deze sessie begeleidt u stapsgewijs door de keuken met moderne analysemogelijkheden.
 Kom hongerig naar inzichten-en ga met een volledig menu van CJA-klaar technieken weg
 
->[!VIDEO](https://video.tv.adobe.com/v/3471110/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471246/?learn=on&enablevpops&captions=dut)
 
 ## Analyse transformeren met CJA: Key Takeaways
 
