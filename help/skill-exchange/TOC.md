@@ -3,7 +3,7 @@ user-guide-title: De Uitwisseling van de Vaardigheid
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Inzameling opnamen van Ervaar de Uitwisseling van de Vaardigheid
 event-series: The Skill Exchange
-source-git-commit: 124b52203b98a80dd9202dab1b0dbe575475a52b
+source-git-commit: b28e983603f63980fa53b9311d54244c0ee5228a
 workflow-type: tm+mt
 source-wordcount: '837'
 ht-degree: 8%
@@ -25,7 +25,6 @@ ht-degree: 8%
    + Augustus 2025 {#aug2025}
       + [Toetsenbord openen](aep-apps/2025/aug/opening-keynote.md)
       + [Personalization, privacy en gegevensbeveiliging in evenwicht brengen](aep-apps/2025/aug/personalization-privacy-data-security.md)
-      + [Veelgebruikte meetwaarden demonstreren](analytics/2025/aug/demystifying-common-metrics.md)
       + [Media-investeringen en Adobe Real-Time CDP Collaboration](aep-apps/2025/aug/real-time-cdp-collaboration.md)
       + [Tips voor het aanpakken van complexe reizen in Adobe Journey Optimizer](aep-apps/2025/aug/tips-for-tackling-journeys.md)
       + [Reizen na e-mail](aep-apps/2025/aug/journeys-beyond-email.md)
@@ -36,6 +35,7 @@ ht-degree: 8%
       + [Dashboards leveren geen inzichten](analytics/2025/aug/dashboards-insights.md)
       + [Gegevensopslag met Analysis Workspace](analytics/2025/aug/data-storytelling.md)
       + [Gegevens naar PowerPoint](analytics/2025/aug/data-to-powerpoint.md)
+      + [Veelgebruikte meetwaarden demonstreren](analytics/2025/aug/demystifying-common-metrics.md)
       + [Scalable Analytics Workflows](analytics/2025/aug/scalable-workflows.md)
       + [Segmentering en personalisatie](analytics/2025/aug/segmentation-personalization.md)
       + [Workspace-functies die u moet gebruiken](analytics/2025/aug/workspace-features.md)
