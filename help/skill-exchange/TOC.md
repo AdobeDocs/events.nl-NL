@@ -3,9 +3,9 @@ user-guide-title: De Uitwisseling van de Vaardigheid
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Inzameling opnamen van Ervaar de Uitwisseling van de Vaardigheid
 event-series: The Skill Exchange
-source-git-commit: b28e983603f63980fa53b9311d54244c0ee5228a
+source-git-commit: 6c9493a52200986d77efba0737b03d15db539845
 workflow-type: tm+mt
-source-wordcount: '837'
+source-wordcount: '843'
 ht-degree: 8%
 
 ---
@@ -203,6 +203,7 @@ ht-degree: 8%
       + [Gebruikers inschakelen voor nieuwe functies](workfront/2025/aug/enable-users-new-features.md)
       + [Aan de slag met revisie en goedkeuring](workfront/2025/aug/review-approval.md)
       + [Workfront AI-gereedschappen beheren](workfront/2025/aug/workfront-ai-tools.md)
+      + [Pro Tips voor gebruikersbeheer en licenties](workfront/2025/aug/user-management-licensing.md)
       + [Creative-workflows stroomlijnen met Workfront + AEM](workfront/2025/aug/workflows-workfront-aem.md)
    + Augustus 2024 {#aug2024}
       + [Toetsenbord openen](workfront/aug2024/keynote.md)
