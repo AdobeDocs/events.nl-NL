@@ -28,9 +28,9 @@ De Adobe Experience Makers: De Skill Exchange (Marketo Engage track)-gebeurtenis
 Ontdek hoe B2B marketing een nieuw tijdperk ingaat aangedreven door AI agenten en menselijke creativiteit.
 
 * **B2B 3.0 de agenten van de Transformatie** AI omvormen klantenreizen, die zich voorbij loodbeheer aan dynamische, gepersonaliseerde ervaringen bewegen.
-* **Marketers van de Synergie van 0} de mens-AI blijven centraal, met AI die strategisch en creatief potentieel versterken eerder dan rollen vervangen.**
+* **Marketers van de Synergie van 0&rbrace; de mens-AI blijven centraal, met AI die strategisch en creatief potentieel versterken eerder dan rollen vervangen.**
 * **Organisatorische Aanpassing** Succes vereist upskilling, culturele verschuivingen, en verantwoord toezicht op AI-gedreven processen.
-* **de Snelle techniek van de Vaardigheden van 0} Praktische {, gegevensvloed, en agentenconfiguratie zijn essentieel voor het bloeien in dit landschap.**
+* **de Snelle techniek van de Vaardigheden van 0&rbrace; Praktische &lbrace;, gegevensvloed, en agentenconfiguratie zijn essentieel voor het bloeien in dit landschap.**
 
 Als u deze wijzigingen begrijpt, kunnen marketingteams vooruit blijven en hun eigen toekomst in de zich ontwikkelende B2B-omgeving ordenen.
 
