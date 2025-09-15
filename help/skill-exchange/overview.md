@@ -412,7 +412,7 @@ De Makers van de ervaring de Uitwisseling van de Vaardigheid is een globale reek
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aem/2025/aug/opening-keynote.md" title="Toetsenbord openen Adobe Experience Manager" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471386/?format=jpeg&nocache=1757465010566" alt="Toetsenbord openen Adobe Experience Manager"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471402/?format=jpeg&nocache=1757465010566&captions=dut" alt="Toetsenbord openen Adobe Experience Manager"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -976,7 +976,7 @@ De Makers van de ervaring de Uitwisseling van de Vaardigheid is een globale reek
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/user-management-licensing.md" title="Maximaliseer uw Workfront-licentie - Pro Tips voor gebruikersbeheer en licenties" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3473945/?format=jpeg&nocache=1757465013296" alt="Maximaliseer uw Workfront-licentie - Pro Tips voor gebruikersbeheer en licenties"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3473964/?format=jpeg&nocache=1757465013296&captions=dut" alt="Maximaliseer uw Workfront-licentie - Pro Tips voor gebruikersbeheer en licenties"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

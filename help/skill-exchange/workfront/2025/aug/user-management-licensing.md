@@ -22,4 +22,4 @@ Werken je Workfront-licenties net zo hard als jij? Sluit u aan bij Monique Evans
 
 Leer hoe Monique ervoor zorgt dat de juiste mensen de juiste toegang hebben - door rollen, groepen, teams en aangepaste formulieren te gebruiken om de schaal te vereenvoudigen en de overheadkosten voor beheerders te verminderen. Deze sessie laat u praktische manieren over om uw exemplaar op te schonen, het beheer te verbeteren en uw Workfront-instellingen te optimaliseren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3473945/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3473964/?learn=on&enablevpops&captions=dut)
