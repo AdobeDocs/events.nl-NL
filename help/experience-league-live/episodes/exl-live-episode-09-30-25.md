@@ -7,9 +7,10 @@ feature: Fragments, Integrations, Email Design, Personalization
 event-cta-url-live: https://www.youtube.com/live/Pf5O5b0Ehig
 event-start-time: 2025-09-30 09:00-7
 event-guests: Sandra Hausmann, Travis Jordan, Nikhil Sharma
-source-git-commit: 24f1471b0e60eb0e507dbae796048aba2e933eac
+exl-id: 963b69d7-8ffa-4bb4-9b1b-980d6d94821f
+source-git-commit: d403b748907dcc941a9877028f472bdab452bf02
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '149'
 ht-degree: 0%
 
 ---
@@ -22,6 +23,4 @@ Leer hoe u rijke, gepersonaliseerde mobiele ervaringen kunt leveren die verder g
 
 > ![ toon banner ](../assets/30Sept2025_WebBanner.png)
 
-[ plaats een herinnering voor de show!](https://www.youtube.com/live/Pf5O5b0Ehig)
-
-
+[ Register nu!](https://engage.adobe.com/ExpLeagueLive-250930.html)
