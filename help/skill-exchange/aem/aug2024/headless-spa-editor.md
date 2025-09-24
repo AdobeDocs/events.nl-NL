@@ -1,6 +1,6 @@
 ---
 title: Ontgrendel de Macht van Moderne SPAs in AEM - Hoofd en de Redactie van het KUUROORD
-description: Begrijpen van de grondbeginselen van de Toepassingen van de Enige Pagina die headless AEM onderzoeken en zijn integratie met front-end kaders Gebruikend de Redacteur van AEM SPA voor een gestroomlijnd ontwikkelingsproces Beste praktijken voor de bouw van, het opstellen van, en het beheren van SPAs in AEMDon missen deze kans om inzicht van een deskundige te krijgen en uw digitale strategie met moderne technieken van SPA in AEM op te tillen."
+description: Begrijpen van de grondbeginselen van de Toepassingen van de Enige Pagina die headless AEM onderzoeken en zijn integratie met front-end kaders Gebruikend de Redacteur van AEM SPA voor een gestroomlijnd ontwikkelingsproces Beste praktijken voor de bouw van, het opstellen van, en het beheren van SPAs in AEMDon missen deze kans om inzicht van een deskundige te krijgen en uw digitale strategie met moderne technieken van SPA in AEM op te tillen.
 solution: Experience Manager
 role: Developer, User
 level: Intermediate, Experienced
@@ -10,7 +10,7 @@ last-substantial-update: 2024-08-29T00:00:00Z
 jira: KT-16095
 exl-id: 7c9fbc23-b458-4d9c-ab38-0c9b032eb704
 hidefromtoc: true
-source-git-commit: b846c1d38ce66dd6d4223d44964eebf1ccc7144c
+source-git-commit: 0c85d049a1d9771dc6d69ee6682c628e8dec12cf
 workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 0%
@@ -28,6 +28,6 @@ Naarmate de vraag naar dynamische en responsieve digitale ervaringen toeneemt, i
 * De AEM SPA Editor gebruiken voor een gestroomlijnd ontwikkelingsproces
 * Beste praktijken voor de bouw van, het opstellen van, en het leiden van SPAs in AEM
 
-Mis deze kans niet om inzichten van een expert te winnen en uw digitale strategie op te tillen met moderne SPA-technieken in AEM.&quot;
+Mis deze kans niet om inzichten van een expert te winnen en uw digitale strategie te verhogen met moderne SPA-technieken in AEM.&quot;
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433168/?learn=on)
