@@ -39,7 +39,7 @@ Deze geïntegreerde aanpak stelt teams in staat efficiënt samen te werken, herg
 
 ## Integratievoordelen
 
-* **Onderzoek van de Toegang van het Middel van 0} Gecentraliseerde {direct de activa van AEM binnen de projecten en de taken van Workfront verbinden en beheren.**
+* **Onderzoek van de Toegang van het Middel van 0&rbrace; Gecentraliseerde &lbrace;direct de activa van AEM binnen de projecten en de taken van Workfront verbinden en beheren.**
 * **de Synchronisatie van Meta-gegevens** kaart en synchroniseer meta-gegevensgebieden tussen Workfront en AEM, die consistentie en verantwoordingsplicht verzekeren.
 * **Geautomatiseerde Levering** duw activa van Workfront aan AEM met geautomatiseerde omslag het verbinden en het publiceren opties.
 * **de veelvoudige Steun van de Instantie** verbindt verscheidene instanties van Workfront en van AEM voor complexe organisatorische behoeften.

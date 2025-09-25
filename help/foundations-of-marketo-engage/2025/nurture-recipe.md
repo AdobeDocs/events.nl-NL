@@ -39,7 +39,7 @@ Deze zitting had betrekking op de belangrijkste punten en daarna,
 * **Programma&#39;s van de Betrokkenheid** ontdekken hoe te om betrokkenheidsprogramma&#39;s te structureren en te automatiseren die verenigbare interactie drijven.
 * **Overwegingen van de Leverbaarheid** Begrijp de belangrijkste factoren die e-maillevering beïnvloeden en hoe te voor inbox succes te optimaliseren.
 * **Dynamische Inhoud &amp; Fragmenten** ontdekken hoe te om de stromen van de boomkwekerij te personaliseren gebruikend dynamische inhoud en fragmenten om relevantie en betrokkenheid te verhogen.
-* **de Inzichten van de Meting van de Prestaties van 0} Versterking in hoe te, de prestaties van uw boomgaarcampagnes te volgen analyseren en te optimaliseren.**
+* **de Inzichten van de Meting van de Prestaties van 0&rbrace; Versterking in hoe te, de prestaties van uw boomgaarcampagnes te volgen analyseren en te optimaliseren.**
 
 Deze sessie is ideaal voor marketers die een stevige basis willen leggen in Marketo en meetbare resultaten willen aansturen door slimmer te zorgen voor verpleging.
 
