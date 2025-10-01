@@ -2,10 +2,10 @@
 user-guide-title: '[!DNL Experience Makers Learn from your peers]'
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: Verzameling opnamen van  [!DNL Experience Makers Learn from your peers]
-source-git-commit: 2e57d6ee984b1537172fe5c6652ff110d9e3416b
+source-git-commit: 513f1b0d3fee0d3db6db9104a5153a42d354b446
 workflow-type: tm+mt
-source-wordcount: '355'
-ht-degree: 12%
+source-wordcount: '348'
+ht-degree: 11%
 
 ---
 
@@ -45,15 +45,12 @@ ht-degree: 12%
    + September {#sept2023}
       + [Een diepe insteekmodule voor AEM Sites](experience-manager/sept2023/aem-sites-tools.md)
    + juli {#july2023}
-      + [&#x200B; Effectieve Strategieën van de Veiligheid in Cloud Service &#x200B;](experience-manager/july2023/effective-security-strategies-in-cloud-service.md)
+      + [ Effectieve Strategieën van de Veiligheid in Cloud Service ](experience-manager/july2023/effective-security-strategies-in-cloud-service.md)
    + mei {#may2023}
       + [Inhoud- en ervaringsfragmenten maken](experience-manager/may2023/mastering-content-and-experience-fragments.md)
 + GenAI {#genai}
    + September 2025 {#sept2025}
       + [AI-adoptie schalen - Een afspeelboek voor goedkeuringen](genai/sept2025/scale-ai-adoption-a-playbook-for-approvals.md)
-+ Experience Platform {#experience-platform}
-   + 2025 {#2025}
-      + [AI-agents in AEP](platform/ai-agents.md)
 + Marketo {#marketo}
    + Mei 2025 {#may2025}
       + [Ontdek de impact van interactieve webinars](marketo/may2025/interactive-webinars.md)

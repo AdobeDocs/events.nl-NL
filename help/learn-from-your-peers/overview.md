@@ -3,9 +3,9 @@ title: '[!DNL Experience Makers - Learn from your peers]'
 description: Leer van Adobe-experts en peers hoe u optimaal kunt profiteren van uw Adobe-oplossingen. [!DNL Experience Makers - Learn from your peers]  is een globale reeks virtuele klant het leren gebeurtenissen, die zich op het duiken dieper in  [!DNL Adobe Experience Cloud]  oplossingen concentreren.
 exl-id: 006da2ec-77f0-43fb-a653-1b5f4942d692
 duration: 20
-source-git-commit: 2e57d6ee984b1537172fe5c6652ff110d9e3416b
+source-git-commit: 513f1b0d3fee0d3db6db9104a5153a42d354b446
 workflow-type: tm+mt
-source-wordcount: '1126'
+source-wordcount: '1073'
 ht-degree: 0%
 
 ---
@@ -204,45 +204,6 @@ Leer van Adobe-experts en peers hoe u optimaal kunt profiteren van uw Adobe-oplo
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-## Experience Platform
-
-<!-- CARDS
-
-{cta  = Watch event}
-
-* platform/ai-agents.md
- 
--->
-<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
-<div class="columns">
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="AI Agents in AEP - An Overview">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="platform/ai-agents.md" title="AI-agents in AEP - Een overzicht" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475315/?format=jpeg&nocache=1759344548123" alt="AI-agents in AEP - Een overzicht"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="platform/ai-agents.md" target="_blank" rel="referrer" title="AI-agents in AEP - Een overzicht"> AI Agenten in AEP - een Overzicht </a>
-                    </p>
-                    <p class="is-size-6">Leer hoe AI-agents in Adobe Experience Platform de efficiëntie verhogen, echte gebruiksproblemen ondersteunen en toegevoegde waarde bieden. Ontdek visie, routekaart en hoe u begint.</p>
-                </div>
-                <a href="platform/ai-agents.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> gebeurtenis van het Controle </span>
-                </a>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
-
-
-
 ## Marketo
 
 <!-- CARDS
@@ -378,7 +339,7 @@ Leer van Adobe-experts en peers hoe u optimaal kunt profiteren van uw Adobe-oplo
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/jan2024/person-scoring-mastery.md" title="Persoon die het Masterschap van Marketo Engage scoort - Gelokaliseerde Namen in een Globaal Kader" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457445/?format=jpeg&nocache=1759344548614&captions=dut" alt="Persoon die het Masterschap van Marketo Engage scoort - Gelokaliseerde Namen in een Globaal Kader"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3426914/?format=jpeg&nocache=1759344548614" alt="Persoon die het Masterschap van Marketo Engage scoort - Gelokaliseerde Namen in een Globaal Kader"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

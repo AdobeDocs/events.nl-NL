@@ -2,9 +2,9 @@
 user-guide-title: Adobe Customer Success Webinars
 breadcrumb-title: Adobe Customer Success Webinars
 user-guide-description: Adobe Customer Success geleide webinars die zijn ontworpen om u te helpen uw investering in Adobe Experience Cloud te optimaliseren. Vergroot waardevolle inzichten om de waarde te maximaliseren en de acceptatie van Adobe-oplossingen te vergroten.
-source-git-commit: bb85c1402450f8136b98d63425b743580ffa96f7
+source-git-commit: 513f1b0d3fee0d3db6db9104a5153a42d354b446
 workflow-type: tm+mt
-source-wordcount: '502'
+source-wordcount: '511'
 ht-degree: 3%
 
 ---
@@ -15,6 +15,7 @@ ht-degree: 3%
 + [Adobe Customer Success Webinars](overview.md)
 + 2025 {#2025}
    + Commerce {#commerce2025}
+      + [Adobe Commerce verrijken met Adobe Experience Platform](2025/enriching-adobe-commerce.md)
       + [B2B en B2B2C Commerce transformeren](2025/transforming-b2b-commerce.md)
    + Customer Journey Analytics {#cja2025}
       + [Directie sponsoring opbouwen](2025/cja-success.md)
@@ -39,6 +40,7 @@ ht-degree: 3%
       + [Digitale communicatie aanpassen](2025/personalize-digital-communications.md)
       + [Overzicht van Universal Editor](2025/modern-aem-authoring.md)
    + Experience Platform {#aep2025}
+      + [AI-agents](2025/ai-agents.md)
       + [AI - Buiten de basisbeginselen](2025/ai-beyond-basics.md)
       + [Beste praktijken en Inzichten voor het Modelleren van Schema&#39;s XDM](2025/model-xdm-schemas.md)
       + [Data Distiller 101](2025/data-distiller-101.md)
