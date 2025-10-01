@@ -45,7 +45,7 @@ ht-degree: 12%
    + September {#sept2023}
       + [Een diepe insteekmodule voor AEM Sites](experience-manager/sept2023/aem-sites-tools.md)
    + juli {#july2023}
-      + [ Effectieve Strategieën van de Veiligheid in Cloud Service ](experience-manager/july2023/effective-security-strategies-in-cloud-service.md)
+      + [&#x200B; Effectieve Strategieën van de Veiligheid in Cloud Service &#x200B;](experience-manager/july2023/effective-security-strategies-in-cloud-service.md)
    + mei {#may2023}
       + [Inhoud- en ervaringsfragmenten maken](experience-manager/may2023/mastering-content-and-experience-fragments.md)
 + GenAI {#genai}
