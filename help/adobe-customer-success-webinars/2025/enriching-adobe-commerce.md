@@ -35,7 +35,7 @@ Met Adobe Commerce en Adobe Experience Platform kunnen bedrijven op alle kanalen
 
 * **Verenigde Profielen van de Klant** Real-Time CDP aggregeert gegevens van veelvoudige bronnen, die tot een 360 graadmening van elke klant leiden.
 * **Personalization bij de Segmentatie van de Schaal** en de AI-Verkenningen drijven gerichte aanbiedingen, inhoud, en reizen.
-* **Journey Optimizer en Customer Journey Analytics van de Betrokkenheid van 0} Omni-Kanaal organiseren en analyseren interacties over Web, e-mail, en in-store.**
+* **Journey Optimizer en Customer Journey Analytics van de Betrokkenheid van 0&rbrace; Omni-Kanaal organiseren en analyseren interacties over Web, e-mail, en in-store.**
 * **Integratie van de BedrijfsWaarde** versnelt tijd-aan-waarde, bevordert overeenkomst, en steunt strategische groei.
 
 Door deze mogelijkheden te begrijpen kunnen organisaties het volledige potentieel van hun Adobe-oplossingen benutten en meetbare bedrijfsresultaten stimuleren.
