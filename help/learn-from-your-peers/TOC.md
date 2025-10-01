@@ -2,10 +2,10 @@
 user-guide-title: '[!DNL Experience Makers Learn from your peers]'
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: Verzameling opnamen van  [!DNL Experience Makers Learn from your peers]
-source-git-commit: 536ac9f64cea12c8f4b15c6e8d2f8a14fa11f022
+source-git-commit: 2e57d6ee984b1537172fe5c6652ff110d9e3416b
 workflow-type: tm+mt
-source-wordcount: '348'
-ht-degree: 11%
+source-wordcount: '355'
+ht-degree: 12%
 
 ---
 
@@ -51,6 +51,9 @@ ht-degree: 11%
 + GenAI {#genai}
    + September 2025 {#sept2025}
       + [AI-adoptie schalen - Een afspeelboek voor goedkeuringen](genai/sept2025/scale-ai-adoption-a-playbook-for-approvals.md)
++ Experience Platform {#experience-platform}
+   + 2025 {#2025}
+      + [AI-agents in AEP](platform/ai-agents.md)
 + Marketo {#marketo}
    + Mei 2025 {#may2025}
       + [Ontdek de impact van interactieve webinars](marketo/may2025/interactive-webinars.md)
