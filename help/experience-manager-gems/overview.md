@@ -296,11 +296,11 @@ De webinars worden regelmatig uitgevoerd.  Belangrijke tips,
 
 ## Blijf op de hoogte
 
-Wil je weten wanneer de volgende AEM GEM&#39;s zullen zijn?  Registreer met [ Adobe AEM Gebruikersgroep ](https://aem-augs.adobe.com/) om op de hoogte te worden gebracht.
+Wil je weten wanneer de volgende AEM GEM&#39;s zullen zijn?  Registreer met [&#x200B; Adobe AEM Gebruikersgroep &#x200B;](https://aem-augs.adobe.com/) om op de hoogte te worden gebracht.
 
 ## Doorgaan met discussie
 
-Onze [ Gemeenschap van Experience Manager ](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community) is waar u met andere ontwikkelaars kunt verbinden en de besprekingen van AEM gaande houden.  U kunt met edelen en de werknemers van Adobe voor begeleiding en beste praktijken van implementatie aan het uitbreiden van productgebruik voorzien.  Ontvang snel antwoorden op je vragen en geef Adobe je productideeën en waardevolle feedback.
+Onze [&#x200B; Gemeenschap van Experience Manager &#x200B;](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community) is waar u met andere ontwikkelaars kunt verbinden en de besprekingen van AEM gaande houden.  U kunt met edelen en de werknemers van Adobe voor begeleiding en beste praktijken van implementatie aan het uitbreiden van productgebruik voorzien.  Ontvang snel antwoorden op je vragen en geef Adobe je productideeën en waardevolle feedback.
 
 <!--  ## Upcoming AEM GEMs webinar - AEM Sites: Master the Content Management APIs
 

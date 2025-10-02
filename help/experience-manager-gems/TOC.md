@@ -25,7 +25,7 @@ ht-degree: 1%
    + [Integratie van particuliere GitHub-opslagplaatsen in AEM Cloud Manager](gems2024/private-github-for-aem-cloud-manager.md)
    + [De ontwikkelaarservaring voor AEM Assets verbeteren met onze nieuwe API&#39;s en gebeurtenissen](gems2024/improving-dev-experience-for-aem-assets-with-new-apis-and-events.md)
    + [Aan de slag met Edge Delivery Services voor AEM Forms](gems2024/edge-delivery-for-aem-forms.md)
-   + [ Begonnen het worden met de Authoring van AEM en Edge Delivery Services ](/help/experience-manager-gems/gems2024/aem-authoring-and-edge-delivery.md)
+   + [&#x200B; Begonnen het worden met de Authoring van AEM en Edge Delivery Services &#x200B;](/help/experience-manager-gems/gems2024/aem-authoring-and-edge-delivery.md)
    + [Winfronten bouwen op Edge Delivery Services op Adobe Commerce](/help/experience-manager-gems/gems2024/storefronts-on-edge-delivery-with-adobe-commerce.md)
 + 2023 {#gems2023}
    + [New Relic APM voor AEM as a Cloud Service](gems2023/newrelic-apm-for-aem-cloud-service.md)
