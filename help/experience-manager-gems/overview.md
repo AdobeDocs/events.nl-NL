@@ -12,7 +12,7 @@ type: Event
 user-guide-description: AEM GEM-sessies
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 51dfbfe124b46f609fb0349dbcfa2add442a026d
+source-git-commit: f0179cfd595c2d1ced94c230141428430ed9abfb
 workflow-type: tm+mt
 source-wordcount: '923'
 ht-degree: 0%
@@ -36,6 +36,7 @@ De webinars worden regelmatig uitgevoerd.  Belangrijke tips,
 
 <!-- CARDS
 
+* gems2025/mastering-cache-efficiency-for-optimal-page-performance.md
 * gems2025/maximize-impact-with-sites-optimizer.md
 * gems2025/getting-started-adobe-managed-cdn.md
 
@@ -329,7 +330,7 @@ If interested to join, please register [**here**](https://adobe.ly/4g6TYck).
 
 Our latest AEM GEMs webinar on **Unlocking the Power of AEM Sites - Master the Content Management APIs** has been conducted on *October 9th, 2024*.
 The **recording** can be viewed here:
-[Unlocking the Power of AEM Sites - Master the Content Management APIs](* https://experienceleague.adobe.com/nl/docs/events/experience-manager-gems-recordings/gems2024/content-management-apis.md)
+[Unlocking the Power of AEM Sites - Master the Content Management APIs](* https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/content-management-apis.md)
 
 >[!NOTE]
 >
