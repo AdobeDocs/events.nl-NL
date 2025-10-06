@@ -8,7 +8,7 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: d0059bf86d27b492e8a5eef175977d3be49738d0
+source-git-commit: a3f2daa37a2fb1896ed4e3b1d640b82715319178
 workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 0%
@@ -51,7 +51,7 @@ Experience League LIVE is een live streaming show die wordt gemaakt door het Exp
               <img alt="Experience League LIVE 30 oktober 2025" src="assets/exl-live-episode-10-30-25-web-banner.png">
             </a>
             <div>
-              <a href="episodes/exl-live-episode-10-22-25.md">
+              <a href="episodes/exl-live-episode-10-30-25.md">
                 <strong> het Volgende tijdperk van Experimentatie: Hoe de Agentische AI het Smarter Testen en de Groei van de Brandstof is </strong>
               </a>
               <br/><em> met Sandra Hausmann, Brent Kostak, Justin Grover en David Arbor </em>
@@ -124,5 +124,5 @@ Experience League LIVE is een live streaming show die wordt gemaakt door het Exp
 
 >[!TIP]
 >
->Voor extra methodes om te leren, controleer onze vrije [&#x200B; cursussen &#x200B;](https://experienceleague.adobe.com/nl#dashboard/learning) evenals individuele [&#x200B; leerprogramma&#39;s &#x200B;](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=nl-NL).
+>Voor extra methodes om te leren, controleer onze vrije [ cursussen ](https://experienceleague.adobe.com/#dashboard/learning) evenals individuele [ leerprogramma&#39;s ](https://experienceleague.adobe.com/docs/home-tutorials.html).
 
