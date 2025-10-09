@@ -23,6 +23,6 @@ In deze hands-on Experience League Live-sessie krijgt u toegang tot een live dem
 
 Of u nu op het optimaliseren van de ervaringen van klanten, het uitbreiden van uw verkooppijplijn of het aansturen van een meetbare groei tijdens de reis van de koper bent, deze sessie zal u van de hulpmiddelen en strategieën voorzien om gegevens voor uw bedrijf moeilijker te maken.
 
-[![ ExL LIVE okt 16 2025 ](../assets/exl-live-episode-10-16-25-web-banner.png) ](https://engage.adobe.com/ExpLeagueLive-251016.html)
+[![&#x200B; ExL LIVE okt 16 2025 &#x200B;](../assets/exl-live-episode-10-16-25-web-banner.png) &#x200B;](https://engage.adobe.com/ExpLeagueLive-251016.html)
 
-[ REGISTER NU!](https://engage.adobe.com/ExpLeagueLive-251016.html)
+[&#x200B; REGISTER NU!](https://engage.adobe.com/ExpLeagueLive-251016.html)
