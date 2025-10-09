@@ -7,7 +7,8 @@ feature: Basics
 event-cta-url-live: https://youtube.com/live/kiJfaedHSVw
 event-start-time: 2025-10-16 09:00-7
 event-guests: Doug Moore, Kari Olson, Caitlin Baunach
-source-git-commit: a536d27a3c3a57bc51ca768ded7d05e8b1eb44f4
+exl-id: 7d497f07-0dfd-4501-8fc2-bbac213603ec
+source-git-commit: 048b2cbe3ed5e6027217e56a2b2369bcb7920bb2
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 0%
@@ -22,8 +23,6 @@ In deze hands-on Experience League Live-sessie krijgt u toegang tot een live dem
 
 Of u nu op het optimaliseren van de ervaringen van klanten, het uitbreiden van uw verkooppijplijn of het aansturen van een meetbare groei tijdens de reis van de koper bent, deze sessie zal u van de hulpmiddelen en strategieën voorzien om gegevens voor uw bedrijf moeilijker te maken.
 
-> ![ toon banner ](../assets/exl-live-episode-10-16-25-web-banner.png)
+[![ ExL LIVE okt 16 2025 ](../assets/exl-live-episode-10-16-25-web-banner.png) ](https://engage.adobe.com/ExpLeagueLive-251016.html)
 
-[ plaats een herinnering voor de show!](https://youtube.com/live/kiJfaedHSVw)
-
-
+[ REGISTER NU!](https://engage.adobe.com/ExpLeagueLive-251016.html)
