@@ -24,6 +24,6 @@ Neem in deze sessie deel aan het productteam achter Experience Platform Agent Or
 * Hoe Agent Orchestrator deskundige agenten organiseert om meetbare resultaten te leveren en gebruiksgevallen van begin tot eind te steunen
 * Hoe Agent Orchestrator het vertrouwen, de transparantie, de veiligheid, en de gidsen verstrekt die de merken vereisen om de oplossingen van AI met vertrouwen goed te keuren
 
-> ![ toon banner ](assets/WebBanner-v2-Oct22-2025.jpg)
+> ![&#x200B; toon banner &#x200B;](assets/WebBanner-v2-Oct22-2025.jpg)
 
-[ plaats een herinnering voor de show!](https://youtube.com/live/WS_DzRmYNzw)
+[&#x200B; plaats een herinnering voor de show!](https://youtube.com/live/WS_DzRmYNzw)
