@@ -23,6 +23,6 @@ ht-degree: 0%
 
 Sluit u aan bij Fahd Siddiqui in deze verhelderende sessie van Adobe Developers Live, die op 6 november 2023 is opgenomen, omdat hij afglijdt naar hoe de innovatieve Catalogus- en Prijsindexeringsdiensten van Adobe Commerce de digitale B2B-handel omvormen. Meer informatie over de uitdagingen van het beheer van groeiende productassortiment en de oplossingen die Adobe Commerce biedt voor snelle, efficiënte winkelervaringen. Deze sessie is van cruciaal belang voor ontwikkelaars die hun expertise in de dynamische wereld van B2B-handelstechnologie willen vergroten.
 
-Ga het gesprek in [ Gemeenschappen van het Experience League ](https://adobe.ly/3rJfZcN) voort.
+Ga het gesprek in [&#x200B; Gemeenschappen van het Experience League &#x200B;](https://adobe.ly/3rJfZcN) voort.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425623/?learn=on)

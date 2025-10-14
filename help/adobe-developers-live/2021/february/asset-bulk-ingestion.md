@@ -25,7 +25,7 @@ ht-degree: 0%
 
 Deze sessie introduceert de nieuwe functie van bulkopname van middelen in de cloudservice en de schaalbaarheid en prestaties ervan.
 
-Ga het gesprek in **[Gemeenschappen van Experience League ](https://adobe.ly/36Yd3v6)** voort.
+Ga het gesprek in **[Gemeenschappen van Experience League &#x200B;](https://adobe.ly/36Yd3v6)** voort.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331769/?quality=12&learn=on&hidetitle=true)
 

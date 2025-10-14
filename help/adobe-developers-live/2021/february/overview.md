@@ -19,7 +19,7 @@ Op 8-9 februari 2021, Adobe Developers Live: Content bracht ontwikkelaars en erv
 
 Deze tweedaagse conferentie bevatte belangrijke Adobe Experience Manager-updates voor ontwikkelaars, zoals Headless en GraphQL, Adobe Experience Manager as a Cloud Service, technische sessies en mogelijkheden voor gemeenschapsnetwerken.
 
-Verbind met mededevs en sluit zich aan bij de zittingsgesprekken in **[Gemeenschappen van het Experience League ](https://adobe.ly/36Yd3v6)**.
+Verbind met mededevs en sluit zich aan bij de zittingsgesprekken in **[Gemeenschappen van het Experience League &#x200B;](https://adobe.ly/36Yd3v6)**.
 
 ## Hooglichten
 
@@ -74,12 +74,12 @@ Verbind met mededevs en sluit zich aan bij de zittingsgesprekken in **[Gemeensch
 
 ## Aanvullende bronnen
 
-* [ Experience League - onderzoek AEM ](https://experienceleague.adobe.com/nl#recommended/solutions/experience-manager)
-* [ de Authoring Documentatie van AEM Sites ](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html?lang=nl-NL)
-* [ AEM Sites het Ontwikkelen Documentatie ](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html?lang=nl-NL)
-* [ AEM Sites die Documentatie beheren ](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html?lang=nl-NL)
-* [ AEM Sites die Documentatie opstelt ](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=nl-NL)
-* [ Tutorials van AEM as a Cloud Service ](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html?lang=nl-NL)
-* [ Tutorials van AEM Assets ](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html?lang=nl-NL)
-* [ Tutorials van AEM Forms ](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/overview.html?lang=nl-NL)
-* [ AEM de Tutorials van de Stichting ](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html?lang=nl-NL)
+* [&#x200B; Experience League - onderzoek AEM &#x200B;](https://experienceleague.adobe.com/nl#recommended/solutions/experience-manager)
+* [&#x200B; de Authoring Documentatie van AEM Sites &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html?lang=nl-NL)
+* [&#x200B; AEM Sites het Ontwikkelen Documentatie &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html?lang=nl-NL)
+* [&#x200B; AEM Sites die Documentatie beheren &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html?lang=nl-NL)
+* [&#x200B; AEM Sites die Documentatie opstelt &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=nl-NL)
+* [&#x200B; Tutorials van AEM as a Cloud Service &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html?lang=nl-NL)
+* [&#x200B; Tutorials van AEM Assets &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html?lang=nl-NL)
+* [&#x200B; Tutorials van AEM Forms &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/overview.html?lang=nl-NL)
+* [&#x200B; AEM de Tutorials van de Stichting &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html?lang=nl-NL)

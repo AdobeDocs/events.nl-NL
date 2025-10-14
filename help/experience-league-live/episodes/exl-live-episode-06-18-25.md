@@ -24,12 +24,12 @@ Deze sessie is ideaal voor marketers, operatieteams en reisbeheerders die de Jou
 
 >[!VIDEO](https://video.tv.adobe.com/v/3464052/?quality=12&learn=on)
 
-Sluit me aan bij ons voor de [ Gemeenschap van Adobe Journey Optimizer Vraag me om het even wat ](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/ask-me-anything-june-[...]with-trip-optimizer-product-experts/ev-p/757473), op Woensdag, 25 juni van 8am - 9am PT, om het gesprek voort te zetten.
+Sluit me aan bij ons voor de [&#x200B; Gemeenschap van Adobe Journey Optimizer Vraag me om het even wat &#x200B;](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/ask-me-anything-june-[...]with-trip-optimizer-product-experts/ev-p/757473), op Woensdag, 25 juni van 8am - 9am PT, om het gesprek voort te zetten.
 
 ## Meer informatie?
 
 Bekijk deze zelfstudies:
 
-* [ identificeer potentiële conflicten ](https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/conflict-management/identify-potential-conflicts)
-* [ wijs prioritaire scores aan binnenkomende acties toe ](https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/conflict-management/assign-priority-score)
-* *[ de frequentietoewijzing en rangschikking van de Reis ](https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/conflict-management/journey-frequency-capping-and-prioritization)
+* [&#x200B; identificeer potentiële conflicten &#x200B;](https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/conflict-management/identify-potential-conflicts)
+* [&#x200B; wijs prioritaire scores aan binnenkomende acties toe &#x200B;](https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/conflict-management/assign-priority-score)
+* *[&#x200B; de frequentietoewijzing en rangschikking van de Reis &#x200B;](https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/conflict-management/journey-frequency-capping-and-prioritization)

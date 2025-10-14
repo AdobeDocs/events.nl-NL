@@ -21,9 +21,9 @@ Deze workshop werd op 20 mei 2025 opgenomen en bevatte Rick Christensen van de W
 Door innovatieve benaderingen en praktische oplossingen te gebruiken, konden zij buiten de doos denken en kernfunctionaliteit zoals de Teams van het Huis, grafieken, projectmalplaatjes, en douanegebieden samenbrengen om gebruiker of teamcapaciteit proactief te begrijpen en te volgen.
 Als u de live sessie hebt gemist, wordt de opname hier geplaatst en ziet u de link naar de diasecks samen met de communitypost van Experience League hieronder:
 
-* [ Workfront Slide Deck PDF ](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Creative+Ways+of+Managing+Resources+in+Adobe+Workfront+052025.pdf)
-* [ het Deck van de Dia van de Universiteit van Gouverneurs van het Westen ](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Rick+C.s+Presentation+for+Workfront+Event_+Creative+Ways+of+Managing+Resources.pdf)
-* [ DSW Designer Shoe Warehouse Slide Deck ](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/DSW+SLIDES+FINAL+V2+-+Creative+Ways+of+Managing+Resources+in+Workfront+.pdf)
-* [ Communautaire post van Experience League met extra middelen ](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-creative-ways-of-managing-resources-in-adobe/td-p/755145)
+* [&#x200B; Workfront Slide Deck PDF &#x200B;](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Creative+Ways+of+Managing+Resources+in+Adobe+Workfront+052025.pdf)
+* [&#x200B; het Deck van de Dia van de Universiteit van Gouverneurs van het Westen &#x200B;](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Rick+C.s+Presentation+for+Workfront+Event_+Creative+Ways+of+Managing+Resources.pdf)
+* [&#x200B; DSW Designer Shoe Warehouse Slide Deck &#x200B;](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/DSW+SLIDES+FINAL+V2+-+Creative+Ways+of+Managing+Resources+in+Workfront+.pdf)
+* [&#x200B; Communautaire post van Experience League met extra middelen &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-creative-ways-of-managing-resources-in-adobe/td-p/755145)
 
 >[!VIDEO](https://video.tv.adobe.com/v/3464296/?learn=on&enablevpops)

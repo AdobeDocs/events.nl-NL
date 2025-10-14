@@ -22,12 +22,12 @@ ht-degree: 1%
 
 Er zijn veel manieren om Adobe Experience Manager Cloud Service te integreren met Aangepaste gebeurtenissen van Adobe I/O. Ontdek welke verschillende opties beschikbaar zijn en hoe deze het beste passen bij uw specifieke gebruikscase.
 
-Ga het gesprek in **[Gemeenschappen van Experience League ](https://adobe.ly/3ij0O1W)** voort.
+Ga het gesprek in **[Gemeenschappen van Experience League &#x200B;](https://adobe.ly/3ij0O1W)** voort.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337529/?quality=12&learn=on&hidetitle=true)
 
 ## Aanvullende bronnen
 
-- [ Documentatie van Adobe Experience Manager ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=nl-NL)
-- [ Adobe Experience Manager Cloud Service Overzicht ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html?lang=nl-NL)
-- [ Zelfstudies van Adobe Experience Manager ](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html?lang=nl-NL)
+- [&#x200B; Documentatie van Adobe Experience Manager &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=nl-NL)
+- [&#x200B; Adobe Experience Manager Cloud Service Overzicht &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html?lang=nl-NL)
+- [&#x200B; Zelfstudies van Adobe Experience Manager &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html?lang=nl-NL)

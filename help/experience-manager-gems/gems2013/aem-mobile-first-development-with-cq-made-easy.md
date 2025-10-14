@@ -26,4 +26,4 @@ Bruce Lefebvre, Computer Scientist, Adobe
 
 ## Verwante koppelingen {#related-links}
 
-[ de dia&#39;s en Middelen van de Presentator ](https://brucelefebvre.com/blog/2013/09/18/cq-gems-mobile-first-development/)
+[&#x200B; de dia&#39;s en Middelen van de Presentator &#x200B;](https://brucelefebvre.com/blog/2013/09/18/cq-gems-mobile-first-development/)

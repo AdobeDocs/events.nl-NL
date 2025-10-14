@@ -22,12 +22,12 @@ ht-degree: 1%
 
 Meld u aan voor een sessie met Loni Stark, VP Experience Manager en Michael Marth, Senior Director AEM Sites en Screens voor meer informatie over de &#39;cloud-native&#39; uitbreidingsstrategie van Adobe voor Experience Cloud en wat er in zit voor ontwikkelaars. Bekijk live demo&#39;s over gebruiksscenario&#39;s voor uitbreidbaarheid, die zijn gebouwd met het Adobe&#39;s cloud-native ontwikkelaarsframework &#39;Adobe Developer App Builder&#39;, dat nieuwe mogelijkheden voor integratie met en uitbreiding van Adobe Experience Manager omvat.
 
-Ga het gesprek in **[Gemeenschappen van Experience League ](https://adobe.ly/2XTk7aX)** voort.
+Ga het gesprek in **[Gemeenschappen van Experience League &#x200B;](https://adobe.ly/2XTk7aX)** voort.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337491/?quality=12&learn=on&hidetitle=true)
 
 ## Aanvullende bronnen
 
-- [ Documentatie van Adobe Experience Manager ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=nl-NL)
-- [ Adobe Experience Manager Cloud Service Overzicht ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html?lang=nl-NL)
-- [ Zelfstudies van Adobe Experience Manager ](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html?lang=nl-NL)
+- [&#x200B; Documentatie van Adobe Experience Manager &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=nl-NL)
+- [&#x200B; Adobe Experience Manager Cloud Service Overzicht &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html?lang=nl-NL)
+- [&#x200B; Zelfstudies van Adobe Experience Manager &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html?lang=nl-NL)

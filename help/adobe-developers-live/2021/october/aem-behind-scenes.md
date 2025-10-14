@@ -22,12 +22,12 @@ ht-degree: 1%
 
 Een panel met Joerg Hoh, Peter Acsai en Tom Blackford, leden van onze Site Reliability Engineers schuldig, werken achter de schermen om &quot;de treinen op tijd te houden&quot; voor AEM as a Cloud Service. Wij zullen over de vaardigheden leren en de houding die worden vereist om efficiënte SRE te zijn, hun meningen over het maken van systemen robuust en veerkrachtig, en het soort metriek en alarm dat zij gebruiken om stroomonderbrekingen te verhinderen.
 
-Ga het gesprek in **[Gemeenschappen van Experience League ](https://adobe.ly/2WoCVOU)** voort.
+Ga het gesprek in **[Gemeenschappen van Experience League &#x200B;](https://adobe.ly/2WoCVOU)** voort.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337527/?quality=12&learn=on&hidetitle=true)
 
 ## Aanvullende bronnen
 
-- [ Documentatie van Adobe Experience Manager ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=nl-NL)
-- [ Adobe Experience Manager Cloud Service Overzicht ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html?lang=nl-NL)
-- [ Zelfstudies van Adobe Experience Manager ](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html?lang=nl-NL)
+- [&#x200B; Documentatie van Adobe Experience Manager &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=nl-NL)
+- [&#x200B; Adobe Experience Manager Cloud Service Overzicht &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html?lang=nl-NL)
+- [&#x200B; Zelfstudies van Adobe Experience Manager &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html?lang=nl-NL)

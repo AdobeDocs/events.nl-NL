@@ -25,6 +25,6 @@ Word lid van ons voor een overzicht van ons API-aanbod voor de Creative Cloud-ap
 
 ## Aanvullende bronnen
 
-- [ Documentatie van Adobe Experience Platform ](https://experienceleague.adobe.com/docs/experience-platform.html?lang=nl-NL)
-- [ het Overzicht van Adobe Experience Platform ](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=nl-NL)
+- [&#x200B; Documentatie van Adobe Experience Platform &#x200B;](https://experienceleague.adobe.com/docs/experience-platform.html?lang=nl-NL)
+- [&#x200B; het Overzicht van Adobe Experience Platform &#x200B;](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=nl-NL)
 - [Tutorials voor Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=nl)

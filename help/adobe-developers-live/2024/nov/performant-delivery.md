@@ -26,7 +26,7 @@ Sluit u aan bij Riya Midha, Sr. Product Manager op Adobe en ontdek de beste werk
 
 ## Communautaire discussie
 
-Ga verder het gesprek in de Gemeenschap van Adobe Developers Live [ bespreking ](https://adobe.ly/3YGedpb).
+Ga verder het gesprek in de Gemeenschap van Adobe Developers Live [&#x200B; bespreking &#x200B;](https://adobe.ly/3YGedpb).
 
 ## Toetsen
 

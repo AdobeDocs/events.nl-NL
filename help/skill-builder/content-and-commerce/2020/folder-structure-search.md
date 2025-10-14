@@ -31,13 +31,13 @@ De basisbeginselen van het instellen en gebruiken van uw DAM.
 
 ## Bronnen
 
-* [ de Gids van de Gebruiker van AEM Assets ](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html?lang=nl-NL)
-* [ Vestiging uw de omslagstructuur van AEM Assets ](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/baseline-folders.html?lang=nl-NL)
-* [ de omslagtoestemmingen van AEM Assets van de opstelling ](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/baseline-permissions.html?lang=nl-NL)
-* [ inzamelingen van het Gebruik om activa te organiseren en te delen ](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/collections.html?lang=nl-NL)
-* [ vind visueel gelijkaardige activa met machine het leren ](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/search.html?lang=nl-NL)
-* [ krijgt nauwkeurige en nauwkeurige onderzoeksresultaten met dynamische onderzoeksfacetten ](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/search.html?lang=nl-NL)
-* [ Geavanceerde full-text onderzoekssyntaxis ](https://experienceleague.adobe.com/docs/experience-manager-64/assets/using/gql-search.html?lang=nl-NL#using)
+* [&#x200B; de Gids van de Gebruiker van AEM Assets &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html?lang=nl-NL)
+* [&#x200B; Vestiging uw de omslagstructuur van AEM Assets &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/baseline-folders.html?lang=nl-NL)
+* [&#x200B; de omslagtoestemmingen van AEM Assets van de opstelling &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/baseline-permissions.html?lang=nl-NL)
+* [&#x200B; inzamelingen van het Gebruik om activa te organiseren en te delen &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/collections.html?lang=nl-NL)
+* [&#x200B; vind visueel gelijkaardige activa met machine het leren &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/search.html?lang=nl-NL)
+* [&#x200B; krijgt nauwkeurige en nauwkeurige onderzoeksresultaten met dynamische onderzoeksfacetten &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/search.html?lang=nl-NL)
+* [&#x200B; Geavanceerde full-text onderzoekssyntaxis &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-64/assets/using/gql-search.html?lang=nl-NL#using)
 
 ## Reeksopnamen
 

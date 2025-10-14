@@ -25,7 +25,7 @@ Lid worden van Lars Trieloff, Opdrachtgever bij Adobe, zoals hij weerspiegelt in
 
 ## Communautaire discussie
 
-Ga verder het gesprek in de Gemeenschap van Adobe Developers Live [ bespreking ](https://adobe.ly/3NTU0qS).
+Ga verder het gesprek in de Gemeenschap van Adobe Developers Live [&#x200B; bespreking &#x200B;](https://adobe.ly/3NTU0qS).
 
 ## Toetsen
 

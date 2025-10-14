@@ -26,7 +26,7 @@ Neem deel aan deze live sessie van het Experience League, waar Adobe Campaign-pr
 
 >[!BEGINSHADEBOX  &quot;Heb vragen?&quot;]
 
-Ga de bespreking over dit onderwerp over Adobe Experience League [ Communautaire post ](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/experience-league-live-post-session-discussion-leaping-ahead/m-p/656893#M2671){target="_blank"}  voort.
+Ga de bespreking over dit onderwerp over Adobe Experience League [&#x200B; Communautaire post &#x200B;](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/experience-league-live-post-session-discussion-leaping-ahead/m-p/656893#M2671){target="_blank"}  voort.
 
 >[!ENDSHADEBOX]
 
@@ -46,9 +46,9 @@ De nieuwe gebruikersinterface van het Web van de Campagne is belangrijk omdat he
 
 ## Aanvullende bronnen
 
-* **[Gebruikersinterface van het Web van de Campagne - Zeer belangrijke mogelijkheden ](https://experienceleague.adobe.com/docs/campaign-web/v8/whats-new.html?lang=nl-NL){target="_blank"}**
+* **[Gebruikersinterface van het Web van de Campagne - Zeer belangrijke mogelijkheden &#x200B;](https://experienceleague.adobe.com/docs/campaign-web/v8/whats-new.html?lang=nl-NL){target="_blank"}**
   *Gedetailleerde documentatie over wat momenteel beschikbaar in het gebruikersinterface van het Web van Adobe Campaign is.*
 
-* **[het Gebruikersinterface van het Web van Adobe Campaign - Tutorials ](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html?lang=nl-NL){target="_blank"}**
+* **[het Gebruikersinterface van het Web van Adobe Campaign - Tutorials &#x200B;](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html?lang=nl-NL){target="_blank"}**
   *hoe te video&#39;s en leerprogramma&#39;s op de eigenschappen en de mogelijkheden van het Gebruikersinterface van het Web van Adobe Campaign.*
 

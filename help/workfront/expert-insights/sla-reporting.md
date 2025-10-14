@@ -27,21 +27,21 @@ Welkom bij een andere tranche van Expert Insights!  Ik ben Cynthia Boon, uw &qu
 
 Zoals in de video wordt beloofd, is de presentatie van Madalyn gekoppeld aan haar stappen, berekende expressies en rapportvoorbeelden. 
 
-* [ Madalyn&#39;s Schuifdek PDF ](https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/SLA+Reporting.pdf)
+* [&#x200B; Madalyn&#39;s Schuifdek PDF &#x200B;](https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/SLA+Reporting.pdf)
 
 ## Bronnen
 
 Tijdens de presentatie heeft Madalyn haar aangepaste formulieren en berekende velden gedeeld. Als u dus nog maar aan de slag gaat met deze functies, zijn er koppelingen waarmee u in de juiste richting kunt wijzen. 
 
-* De Playlist van het leerprogramma - [ creeer en deel Aangepaste Forms ](https://experienceleague.adobe.com/nl/playlists/workfront-create-and-manage-custom-forms)
+* De Playlist van het leerprogramma - [&#x200B; creeer en deel Aangepaste Forms &#x200B;](https://experienceleague.adobe.com/nl/playlists/workfront-create-and-manage-custom-forms)
 
-* Artikel - [ wordt begonnen met berekende gebieden en uitdrukkingen ](https://experienceleague.adobe.com/nl/docs/workfront-learn/tutorials-workfront/custom-data/calculated-expressions/get-started-with-calculated-fields-and-expressions)
+* Artikel - [&#x200B; wordt begonnen met berekende gebieden en uitdrukkingen &#x200B;](https://experienceleague.adobe.com/nl/docs/workfront-learn/tutorials-workfront/custom-data/calculated-expressions/get-started-with-calculated-fields-and-expressions)
 
-* Tips &amp; trucs - [ Berekende Gebieden iedereen zou moeten kennen - en hoe te op hen te melden!](https://experienceleague.adobe.com/nl/docs/events/the-skill-exchange-recordings/workfront/apr2022/calculated-fields)
+* Tips &amp; trucs - [&#x200B; Berekende Gebieden iedereen zou moeten kennen - en hoe te op hen te melden!](https://experienceleague.adobe.com/nl/docs/events/the-skill-exchange-recordings/workfront/apr2022/calculated-fields)
 
 Wilt u meer tips van Madalyn? Bekijk haar hele serie tips en trucs in de Workfront Community! 
 
-* [ De Bytes van de Tech van Dinsdag ](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/tuesday-tech-bytes/m-p/625812#M2742)
+* [&#x200B; De Bytes van de Tech van Dinsdag &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/tuesday-tech-bytes/m-p/625812#M2742)
 
 ## Over de spreker 
 
@@ -49,4 +49,4 @@ Madalyn is al meer dan tien jaar een fervent Workfront-gebruiker en heeft meerde
 
 ## Heb je iets te delen?
 
-Hebt u een geweldig verhaal om te delen, tijdens een gebeurtenis of in een video van Expert Insights? Gelieve te bereiken uit aan ons team in [ CSatScale@adobe.com ](mailto:CSatScale@adobe.com).
+Hebt u een geweldig verhaal om te delen, tijdens een gebeurtenis of in een video van Expert Insights? Gelieve te bereiken uit aan ons team in [&#x200B; CSatScale@adobe.com &#x200B;](mailto:CSatScale@adobe.com).

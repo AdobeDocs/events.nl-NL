@@ -24,12 +24,12 @@ In deze sessie worden de beste praktijken benadrukt voor het beveiligen van gege
 
 We zullen ook een voorvertoning van een aantal integraties op onze routekaart opnemen, zoals de integratie van Microsoft PowerAutomate en Teams met Adobe Experience Manager Forms.
 
-Ga het gesprek in **[Gemeenschappen van Experience League ](https://adobe.ly/3CQjKgg)** voort.
+Ga het gesprek in **[Gemeenschappen van Experience League &#x200B;](https://adobe.ly/3CQjKgg)** voort.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337887/?quality=12&learn=on&hidetitle=true)
 
 ## Aanvullende bronnen
 
-- [ Documentatie van Adobe Experience Platform ](https://experienceleague.adobe.com/docs/experience-platform.html?lang=nl-NL)
-- [ het Overzicht van Adobe Experience Platform ](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=nl-NL)
+- [&#x200B; Documentatie van Adobe Experience Platform &#x200B;](https://experienceleague.adobe.com/docs/experience-platform.html?lang=nl-NL)
+- [&#x200B; het Overzicht van Adobe Experience Platform &#x200B;](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=nl-NL)
 - [Tutorials voor Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=nl)

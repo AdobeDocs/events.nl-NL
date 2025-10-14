@@ -80,7 +80,7 @@ Overweegt u het migreren van uw implementatie aan de nieuwe SDK van het Web van 
 
 **Antwoord:** De Verbindingen RTCDP (Gebeurtenis door:sturen) verstrekt de capaciteit om meer controle te hebben alvorens u het naar niet-adobe bestemmingen verzendt.
 
-**Antwoord:** Controle uit sommige van onze andere Levende video&#39;s ExL om nog meer over dit (als [ te leren dit ](exl-live-episode-06-23-22.md)).
+**Antwoord:** Controle uit sommige van onze andere Levende video&#39;s ExL om nog meer over dit (als [&#x200B; te leren dit &#x200B;](exl-live-episode-06-23-22.md)).
 
 <br> 
 
@@ -96,7 +96,7 @@ Overweegt u het migreren van uw implementatie aan de nieuwe SDK van het Web van 
 
 <br> 
 
-Ga de bespreking over dit onderwerp in de [ Communautaire bespreking van het Experience League ](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-useful-extensions/m-p/542620#M240) voort.
+Ga de bespreking over dit onderwerp in de [&#x200B; Communautaire bespreking van het Experience League &#x200B;](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-useful-extensions/m-p/542620#M240) voort.
 <br> 
 
 ## Extra LIVE-sessies van Experience League uit deze gegevensverzamelingsreeks

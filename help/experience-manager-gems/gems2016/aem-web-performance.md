@@ -32,32 +32,32 @@ Het is lastig om snel complexe webervaringen te maken. In deze talk zal Joel lic
 
 >[!WARNING]
 >
->AEM versies 6.4 en ouder zijn End of Life en worden niet meer door de Adobe verkocht.  De Adobe adviseert bevordering aan de recentste versie - [ Adobe Experience Manager as a Cloud Service ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=nl-NL).  De gearchiveerde versies van de documentatie kunnen van deze [ pagina ](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=nl-NL) worden betreden.
+>AEM versies 6.4 en ouder zijn End of Life en worden niet meer door de Adobe verkocht.  De Adobe adviseert bevordering aan de recentste versie - [&#x200B; Adobe Experience Manager as a Cloud Service &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=nl-NL).  De gearchiveerde versies van de documentatie kunnen van deze [&#x200B; pagina &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=nl-NL) worden betreden.
 
 Apache:\
-[ https://httpd.apache.org/docs/trunk/mod/mod_http2.html](https://httpd.apache.org/docs/trunk/mod/mod_http2.html)
+[&#x200B; https://httpd.apache.org/docs/trunk/mod/mod_http2.html](https://httpd.apache.org/docs/trunk/mod/mod_http2.html)
 
 Webstandaarden:\
-[ https://www.w3.org/TR/preload/](https://www.w3.org/TR/preload/)\
-[ https://www.w3.org/TR/resource-hints/](https://www.w3.org/TR/resource-hints/)
+[&#x200B; https://www.w3.org/TR/preload/](https://www.w3.org/TR/preload/)\
+[&#x200B; https://www.w3.org/TR/resource-hints/](https://www.w3.org/TR/resource-hints/)
 
 AEM:\
-[ https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/configuring-performance.html?lang=nl-NL](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/configuring-performance.html?lang=nl-NL)
+[&#x200B; https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/configuring-performance.html?lang=nl-NL](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/configuring-performance.html?lang=nl-NL)
 
 Componenten AEM:\
-[ https://github.com/Adobe-Marketing-Cloud/aem-core-wcm-components](https://github.com/Adobe-Marketing-Cloud/aem-core-wcm-components)\
-[ https://adobe-consulting-services.github.io/acs-aem-commons/features/named-image-transform.html](https://adobe-consulting-services.github.io/acs-aem-commons/features/named-image-transform.html)
+[&#x200B; https://github.com/Adobe-Marketing-Cloud/aem-core-wcm-components](https://github.com/Adobe-Marketing-Cloud/aem-core-wcm-components)\
+[&#x200B; https://adobe-consulting-services.github.io/acs-aem-commons/features/named-image-transform.html](https://adobe-consulting-services.github.io/acs-aem-commons/features/named-image-transform.html)
 
 Derden:\
-[ https://www.ampproject.org/docs/reference/amp-img.html](https://www.ampproject.org/docs/reference/amp-img.html)\
-[ https://www.appelsiini.net/projects/lazyload](https://www.appelsiini.net/projects/lazyload)
+[&#x200B; https://www.ampproject.org/docs/reference/amp-img.html](https://www.ampproject.org/docs/reference/amp-img.html)\
+[&#x200B; https://www.appelsiini.net/projects/lazyload](https://www.appelsiini.net/projects/lazyload)
 
 JavaScript-prestaties:\
-[ https://gist.github.com/paulirish/5d52fb081b3570c81e3a](https://gist.github.com/paulirish/5d52fb081b3570c81e3a)\
-[ https://developers.google.com/web/tools/chrome-devtools/?hl=en](https://developers.google.com/web/tools/chrome-devtools/?hl=en)
+[&#x200B; https://gist.github.com/paulirish/5d52fb081b3570c81e3a](https://gist.github.com/paulirish/5d52fb081b3570c81e3a)\
+[&#x200B; https://developers.google.com/web/tools/chrome-devtools/?hl=en](https://developers.google.com/web/tools/chrome-devtools/?hl=en)
 
 Profiel:\
-[ https://visualvm.java.net/](https://docs.oracle.com/javase/8/docs/technotes/guides/visualvm/intro.html)
+[&#x200B; https://visualvm.java.net/](https://docs.oracle.com/javase/8/docs/technotes/guides/visualvm/intro.html)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/nl/experience-manager/kt/eseminars/gems/aem-index.html)

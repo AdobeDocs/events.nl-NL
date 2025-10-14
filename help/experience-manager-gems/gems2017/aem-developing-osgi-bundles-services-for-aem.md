@@ -35,5 +35,5 @@ David Bosschaert, Senior Software Engineer, Adobe
 
 ## Verwante koppelingen {#related-links}
 
-* [ OSGi in Actie (pdf) ](https://manning-content.s3.amazonaws.com/download/9/86fba2b-2ea2-48cc-855d-39e06df49ceb/OSGIiAsamplech1.pdf)
-* [ componenten OSGi ](https://blog.osoco.de/2015/08/osgi-components-simply-simple-part-i/)
+* [&#x200B; OSGi in Actie (pdf) &#x200B;](https://manning-content.s3.amazonaws.com/download/9/86fba2b-2ea2-48cc-855d-39e06df49ceb/OSGIiAsamplech1.pdf)
+* [&#x200B; componenten OSGi &#x200B;](https://blog.osoco.de/2015/08/osgi-components-simply-simple-part-i/)

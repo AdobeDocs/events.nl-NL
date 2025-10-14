@@ -26,7 +26,7 @@ Zie hoe Adobe Experience Manager Sites AI integreert met &#39;Variaties generere
 
 ## Communautaire discussie
 
-Ga verder het gesprek in de Gemeenschap van Adobe Developers Live [ bespreking ](https://adobe.ly/40y5tUG).
+Ga verder het gesprek in de Gemeenschap van Adobe Developers Live [&#x200B; bespreking &#x200B;](https://adobe.ly/40y5tUG).
 
 ## Toetsen
 

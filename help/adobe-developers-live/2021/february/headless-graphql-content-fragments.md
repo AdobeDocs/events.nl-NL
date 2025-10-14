@@ -24,7 +24,7 @@ ht-degree: 0%
 
 Leer meer over de nieuwe mogelijkheden zonder koppen dankzij de meest recente verbeteringen in Content Fragment. Deze sessie richt zich op de GraphQL API voor Adobe Experience Manager Cloud Service.
 
-Ga het gesprek in **[Gemeenschappen van Experience League ](https://adobe.ly/36Yd3v6)** voort.
+Ga het gesprek in **[Gemeenschappen van Experience League &#x200B;](https://adobe.ly/36Yd3v6)** voort.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331280/?quality=12&learn=on&hidetitle=true)
 

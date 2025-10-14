@@ -33,6 +33,6 @@ Mathias Siegel, Sr Product Manager, [!DNL AEM Sites], Adobe
 
 >[!WARNING]
 >
->AEM versies 6.4 en ouder zijn End of Life en worden niet meer door de Adobe verkocht.  De Adobe adviseert bevordering aan de recentste versie - [ Adobe Experience Manager as a Cloud Service ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=nl-NL).  De gearchiveerde versies van de documentatie kunnen van deze [ pagina ](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=nl-NL) worden betreden.
+>AEM versies 6.4 en ouder zijn End of Life en worden niet meer door de Adobe verkocht.  De Adobe adviseert bevordering aan de recentste versie - [&#x200B; Adobe Experience Manager as a Cloud Service &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=nl-NL).  De gearchiveerde versies van de documentatie kunnen van deze [&#x200B; pagina &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=nl-NL) worden betreden.
 >
 >Aangezien het op deze zitting betrekking heeft gelieve te zien {de Vertaaldocumenten van 0} AEM Sites *,* de Documentatie van de Beste praktijken van de Vertaling *en* het Leiden Meertalige Assets *in de AEM 6.3 documentatie.*

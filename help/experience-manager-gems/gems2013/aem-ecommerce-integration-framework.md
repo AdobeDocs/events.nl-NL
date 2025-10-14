@@ -26,8 +26,8 @@ Paolo Mottadelli, Sr. Technical Marketing Mgr.
 
 ## Verwante koppelingen {#related-links}
 
-[ de dia&#39;s van de Presentator ](https://www.slideshare.net/paolomoz/aem-cq-ecommerce-framework)
+[&#x200B; de dia&#39;s van de Presentator &#x200B;](https://www.slideshare.net/paolomoz/aem-cq-ecommerce-framework)
 
-[ Opname van de Manifestatie ](https://vimeo.com/62251523)
+[&#x200B; Opname van de Manifestatie &#x200B;](https://vimeo.com/62251523)
 
-[ GitHub met de Code van de Steekproef ](https://github.com/paolomoz/cq-commerce-impl-sample)
+[&#x200B; GitHub met de Code van de Steekproef &#x200B;](https://github.com/paolomoz/cq-commerce-impl-sample)

@@ -31,10 +31,10 @@ Automatiseer de uitvoer van elementen voor alle kanalen en schermen met Dynamisc
 
 ## Bronnen
 
-*[ Dynamische Video&#39;s van Media ](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/dynamic-media/dynamic-media-overview-feature-video-use.html?lang=nl-NL#dynamic-media)
-*[ Rich Media Strategy Kickstart Guide ](https://www.adobe.com/content/dam/www/us/en/experience-manager/pdfs/dynamic-media-kickstart-guide-2019.pdf)
-*[ Rich Media Strategy Image Preset Guide ](https://www.adobe.com/content/dam/www/us/en/experience-manager/pdfs/dynamic-media-image-preset-guide.pdf)
-*[ Beeld is de Reeks van Blog van alles ](https://business.adobe.com/blog/basics/image-is-everything-part-1-has-your-rich-media-strategy-expired)
+*[&#x200B; Dynamische Video&#39;s van Media &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/dynamic-media/dynamic-media-overview-feature-video-use.html?lang=nl-NL#dynamic-media)
+*[&#x200B; Rich Media Strategy Kickstart Guide &#x200B;](https://www.adobe.com/content/dam/www/us/en/experience-manager/pdfs/dynamic-media-kickstart-guide-2019.pdf)
+*[&#x200B; Rich Media Strategy Image Preset Guide &#x200B;](https://www.adobe.com/content/dam/www/us/en/experience-manager/pdfs/dynamic-media-image-preset-guide.pdf)
+*[&#x200B; Beeld is de Reeks van Blog van alles &#x200B;](https://business.adobe.com/blog/basics/image-is-everything-part-1-has-your-rich-media-strategy-expired)
 
 ## Reeksopnamen
 

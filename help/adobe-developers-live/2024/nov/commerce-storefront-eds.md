@@ -26,7 +26,7 @@ Wat is het nodig om uitzonderlijke handelspolitiek te creëren? Surya Lamech, Se
 
 ## Communautaire discussie
 
-Ga verder het gesprek in de Gemeenschap van Adobe Developers Live [ bespreking ](https://adobe.ly/3Ccxkja).
+Ga verder het gesprek in de Gemeenschap van Adobe Developers Live [&#x200B; bespreking &#x200B;](https://adobe.ly/3Ccxkja).
 
 ## Toetsen
 

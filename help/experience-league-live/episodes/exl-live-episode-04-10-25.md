@@ -27,8 +27,8 @@ In deze sessie hebben we het volgende onderzocht:
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457557/?quality=12&learn=on)
 
-**zet de bespreking op Experience League [ Communautaire Post voort.](https://experienceleaguecommunities.adobe.com/t5/real-time-customer-data-platform/experience-le[...]Live-post-session-cussion-don-t-wait/td-p/748173){target="_blank"}**
+**zet de bespreking op Experience League [&#x200B; Communautaire Post voort.](https://experienceleaguecommunities.adobe.com/t5/real-time-customer-data-platform/experience-le[...]Live-post-session-cussion-don-t-wait/td-p/748173){target="_blank"}**
 
 ## Aanvullende bronnen
 
-[ de video&#39;s van Real-Time CDP Collaboration ](https://experienceleague.adobe.com/nl/docs/platform-learn/tutorials/collaboration/real-time-cdp-collaboration-overview)
+[&#x200B; de video&#39;s van Real-Time CDP Collaboration &#x200B;](https://experienceleague.adobe.com/nl/docs/platform-learn/tutorials/collaboration/real-time-cdp-collaboration-overview)

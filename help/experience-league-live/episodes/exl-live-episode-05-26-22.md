@@ -21,7 +21,7 @@ In dit eerste van drie livestreamzittingen betreffende gegevensinzameling voor A
 
 >[!VIDEO](https://video.tv.adobe.com/v/343335/?quality=12&learn=on)
 
-**zet de bespreking** in de [ Gemeenschap van het Experience League ](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-launch/experience-league-live-post-session-discussion-the-basics-of-web/m-p/454159#M283){target="_blank"}  voort!
+**zet de bespreking** in de [&#x200B; Gemeenschap van het Experience League &#x200B;](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-launch/experience-league-live-post-session-discussion-the-basics-of-web/m-p/454159#M283){target="_blank"}  voort!
 
 ## Extra LIVE-sessies van Experience League uit deze gegevensverzamelingsreeks
 
@@ -30,11 +30,11 @@ In dit eerste van drie livestreamzittingen betreffende gegevensinzameling voor A
 
 ### Enkele handige koppelingen
 
-* [ Leerprogramma: Voer Adobe Experience Cloud met Web SDK uit ](https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html?lang=nl-NL){target="_blank"} 
-* [ automatisch verzamelde informatie in het Web SDK ](https://experienceleague.adobe.com/docs/experience-platform/edge/data-collection/automatic-information.html?lang=nl-NL){target="_blank"} 
-* [ Vrije levering van SDK van het Web ](https://adobe.ly/websdkaccess){target="_blank"} 
-* [ Info op Eerste Apparaat IDs van de Partij in het Web SDK ](https://experienceleague.adobe.com/docs/experience-platform/edge/identity/first-party-device-ids.html?lang=nl-NL){target="_blank"} 
-* [ overzicht van het Adobe Experience Platform Debugger en download ](https://experienceleague.adobe.com/docs/platform-learn/data-collection/debugger/overview.html?lang=nl-NL){target="_blank"} 
-* [ Mobiele Dokken van SDK ](https://developer.adobe.com/client-sdks/documentation/){target="_blank"} 
-* [ Hybride informatie van de toepassingsinzameling ](https://experienceleague.adobe.com/docs/mobile-services/ios/sdk-reference-ios/hybrid-app.html?lang=nl-NL){target="_blank"} 
+* [&#x200B; Leerprogramma: Voer Adobe Experience Cloud met Web SDK uit &#x200B;](https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html?lang=nl-NL){target="_blank"} 
+* [&#x200B; automatisch verzamelde informatie in het Web SDK &#x200B;](https://experienceleague.adobe.com/docs/experience-platform/edge/data-collection/automatic-information.html?lang=nl-NL){target="_blank"} 
+* [&#x200B; Vrije levering van SDK van het Web &#x200B;](https://adobe.ly/websdkaccess){target="_blank"} 
+* [&#x200B; Info op Eerste Apparaat IDs van de Partij in het Web SDK &#x200B;](https://experienceleague.adobe.com/docs/experience-platform/edge/identity/first-party-device-ids.html?lang=nl-NL){target="_blank"} 
+* [&#x200B; overzicht van het Adobe Experience Platform Debugger en download &#x200B;](https://experienceleague.adobe.com/docs/platform-learn/data-collection/debugger/overview.html?lang=nl-NL){target="_blank"} 
+* [&#x200B; Mobiele Dokken van SDK &#x200B;](https://developer.adobe.com/client-sdks/documentation/){target="_blank"} 
+* [&#x200B; Hybride informatie van de toepassingsinzameling &#x200B;](https://experienceleague.adobe.com/docs/mobile-services/ios/sdk-reference-ios/hybrid-app.html?lang=nl-NL){target="_blank"} 
 

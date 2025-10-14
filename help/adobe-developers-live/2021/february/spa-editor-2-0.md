@@ -25,7 +25,7 @@ ht-degree: 0%
 
 Laad uw bestaande React of Angular SPA in de Redacteur van de Pagina en, met minimale interventie, laat auteurs toe om inhoud op te nemen die zij in-context uitgeven.
 
-Ga het gesprek in **[Gemeenschappen van Experience League ](https://adobe.ly/36Yd3v6)** voort.
+Ga het gesprek in **[Gemeenschappen van Experience League &#x200B;](https://adobe.ly/36Yd3v6)** voort.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331743/?quality=12&learn=on&hidetitle=true)
 

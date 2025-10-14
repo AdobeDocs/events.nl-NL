@@ -35,8 +35,8 @@ Datum: 18-07-2018
 
 >[!MORELIKETHIS]
 >
->* [ Adobe I/O Gebeurtenissen - de Trekkers van Analytics ](aem-analytics-triggers.md)
->* [ ontgrendelend krachtigere activa Analytics met AEM 6.4 ](https://helpx.adobe.com/experience-manager/kt/eseminars/experience-insider/exp-asset-analytics-64.html)
+>* [&#x200B; Adobe I/O Gebeurtenissen - de Trekkers van Analytics &#x200B;](aem-analytics-triggers.md)
+>* [&#x200B; ontgrendelend krachtigere activa Analytics met AEM 6.4 &#x200B;](https://helpx.adobe.com/experience-manager/kt/eseminars/experience-insider/exp-asset-analytics-64.html)
 
 <!-- wrong link, needs to be replaced. removed for now:
 >* [Getting the most out of digital interactions with AEM and Analytics](https://helpx.adobe.com/experience-manager/kt/eseminars/ask-the-expert/aem-getting-the-most-out-of-digital-interactions-with-aem-and-analytics.html) 

@@ -25,7 +25,7 @@ ht-degree: 0%
 
 Leer hoe u uw code in productie met vertrouwen kunt implementeren dankzij aangepaste functionele tests. De kwaliteit zou niet hard moeten zijn, zelfs niet op een drukke vrijdagmiddag.
 
-Ga het gesprek in **[Gemeenschappen van Experience League ](https://adobe.ly/36Yd3v6)** voort.
+Ga het gesprek in **[Gemeenschappen van Experience League &#x200B;](https://adobe.ly/36Yd3v6)** voort.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332309/?quality=12&learn=on&hidetitle=true)
 

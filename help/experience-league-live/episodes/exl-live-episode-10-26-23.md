@@ -27,5 +27,5 @@ De volledig vernieuwde Workfront Home-pagina is een motor van productiviteit gew
 
 In deze live sessie van Experience League zal productexpert Ben Robbins u door de nieuwe Home-ervaring laten lopen, inclusief nieuwe besturingselementen voor de lay-out van beheerders en spannende verbeteringen die in 2024 worden geïntroduceerd. En Workfront-klant Jamie Smith zal inzichten delen over hoe de nieuwe Home-ervaring de productiviteit bij AT&amp;T verhoogt.
 
-**om de bespreking voort te zetten, gelieve te bezoeken [ Gemeenschap Post van het Experience League!](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/10-26-webinar-q-amp-a-thread-workfront-release-deep-dive-new/td-p/627470){target="_blank"}**
+**om de bespreking voort te zetten, gelieve te bezoeken [&#x200B; Gemeenschap Post van het Experience League!](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/10-26-webinar-q-amp-a-thread-workfront-release-deep-dive-new/td-p/627470){target="_blank"}**
 

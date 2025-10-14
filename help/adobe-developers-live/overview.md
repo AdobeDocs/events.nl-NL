@@ -21,7 +21,7 @@ Adobe productteams in heel Adobe Experience Cloud, Document Cloud en Creative Cl
 
 ## Blijf op de hoogte
 
-**[Register ](https://developerevents.adobe.com/)** voor toekomstige gebeurtenissen.
+**[Register &#x200B;](https://developerevents.adobe.com/)** voor toekomstige gebeurtenissen.
 
 ## Vergaderingen van november 2024
 

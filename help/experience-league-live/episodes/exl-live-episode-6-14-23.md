@@ -21,4 +21,4 @@ Het nieuwe Webkanaal laat marketers toe om Webcampagnes met een visuele ontwerpe
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420129/?learn=on)
 
-Heb je daar vragen over? Ga verder de bespreking over dit onderwerp op de Adobe Experience League [ Communautaire post ](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-explore-the/m-p/599366#M121).
+Heb je daar vragen over? Ga verder de bespreking over dit onderwerp op de Adobe Experience League [&#x200B; Communautaire post &#x200B;](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-explore-the/m-p/599366#M121).

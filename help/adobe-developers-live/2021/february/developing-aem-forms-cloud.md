@@ -24,7 +24,7 @@ ht-degree: 0%
 
 Deze sessie helpt ontwikkelaars om op Adobe Experience Manager as a Cloud Service aan de slag te gaan met Forms - vanaf de lokale installatie van Adobe Experience Manager Forms tot de aanpassing.
 
-Ga het gesprek in **[Gemeenschappen van Experience League ](https://adobe.ly/36Yd3v6)** voort.
+Ga het gesprek in **[Gemeenschappen van Experience League &#x200B;](https://adobe.ly/36Yd3v6)** voort.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332306/?quality=12&learn=on&hidetitle=true)
 

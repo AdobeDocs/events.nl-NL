@@ -24,6 +24,6 @@ ht-degree: 0%
 
 Iryna Lagno en Valerii Naida presenteren een vernieuwende aanpak van contentbeheer in Adobe Experience Manager tijdens deze vergadering die live werd opgenomen op 6 november 2023. Leer hoe u externe gegevensbronnen, zoals de Google Places API, kunt integreren in inhoudsfragmenten en de Canvasgegevens-API en aangepaste UI-elementen kunt ontdekken. Deze sessie biedt praktische kennis voor ontwikkelaars en inhoudsbeheerders die workflows willen stroomlijnen en gegevensgestuurde elementen willen opnemen in hun inhoudsstrategieën.
 
-Ga het gesprek in [ Gemeenschappen van het Experience League ](https://adobe.ly/48Rl57B) voort.
+Ga het gesprek in [&#x200B; Gemeenschappen van het Experience League &#x200B;](https://adobe.ly/48Rl57B) voort.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425626/?learn=on)

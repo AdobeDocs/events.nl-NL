@@ -24,7 +24,7 @@ ht-degree: 0%
 
 Adobe Experience Manager as a Cloud Service heeft een krachtige vooraf geconfigureerde architectuur voor de levering van inhoud. Toon hoe te om het beste van geoptimaliseerde configuraties van de inhoudslevering te maken.
 
-Ga het gesprek in **[Gemeenschappen van Experience League ](https://adobe.ly/36Yd3v6)** voort.
+Ga het gesprek in **[Gemeenschappen van Experience League &#x200B;](https://adobe.ly/36Yd3v6)** voort.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332022/?quality=12&learn=on&hidetitle=true)
 

@@ -30,6 +30,6 @@ Peter Klassen, productmanager, Adobe
 
 ## Verwante koppelingen {#related-links}
 
-* [ AEM 6.0 de Nota&#39;s van de Versie ](https://docs.adobe.com/content/docs/en/aem/6-0/release-notes.html)
-* [ het Leiden AEM 6.0 ](https://docs.adobe.com/docs/en/aem/6-0/manage.html)
-* [ plannend uw verbetering aan AEM 6.0 ](https://docs.adobe.com/content/docs/en/aem/6-0/deploy/upgrade/planning.html)
+* [&#x200B; AEM 6.0 de Nota&#39;s van de Versie &#x200B;](https://docs.adobe.com/content/docs/en/aem/6-0/release-notes.html)
+* [&#x200B; het Leiden AEM 6.0 &#x200B;](https://docs.adobe.com/docs/en/aem/6-0/manage.html)
+* [&#x200B; plannend uw verbetering aan AEM 6.0 &#x200B;](https://docs.adobe.com/content/docs/en/aem/6-0/deploy/upgrade/planning.html)

@@ -24,5 +24,5 @@ Met de nieuwe Journey Optimizer-functionaliteit Campagnes kunt u eenmalige gepla
 
 In dit Experience League Live-aflevering, oorspronkelijk gehouden op 22 september 2022, zie gastheer Sandra Hausmann en productdeskundigen Bridgette Darling en Frederic Mary bij het bespreken van de gebruiksgevallen waarop deze nieuwe functie betrekking heeft en hoe een campagne in Journey Optimizer eenvoudig kan worden opgezet en uitgevoerd. Leer over hoe u zowel Campagnes als Schavens zult gebruiken om dwingende gepersonaliseerde klantenervaringen te leveren en hoe het nieuwe in-line overseinenwerkschema in elk van deze twee canvases wordt gebruikt.
 
-Ga de bespreking over dit onderwerp in het [ Communautaire post van de Experience League ](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-execute-your/m-p/547896#M52) voort. Wij hopen van u te horen!
+Ga de bespreking over dit onderwerp in het [&#x200B; Communautaire post van de Experience League &#x200B;](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-execute-your/m-p/547896#M52) voort. Wij hopen van u te horen!
 

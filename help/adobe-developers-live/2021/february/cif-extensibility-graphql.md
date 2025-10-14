@@ -25,7 +25,7 @@ ht-degree: 0%
 
 Leer hoe u Commerce-kerncomponenten uitbreidt met GraphQL.
 
-Ga het gesprek in **[Gemeenschappen van Experience League ](https://adobe.ly/36Yd3v6)** voort.
+Ga het gesprek in **[Gemeenschappen van Experience League &#x200B;](https://adobe.ly/36Yd3v6)** voort.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331850/?quality=12&learn=on&hidetitle=true)
 

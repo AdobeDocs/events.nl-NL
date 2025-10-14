@@ -21,7 +21,7 @@ ht-degree: 1%
 
 # Dynamische media beheren met open API
 
-Dit webinar wordt ontworpen voor beroeps die met traditionele Dynamische Media vertrouwd zijn en [ Dynamische Media Ultimate ](https://experienceleague.adobe.com/nl/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dm-prime-ultimate) met Open API proberen te begrijpen en uit te voeren.  We zullen de werking op hoog niveau van Dynamic Media Ultimate met Open API onderzoeken en vergelijken met de traditionele Dynamic Media. Ons doel is een uitgebreid inzicht te verschaffen in de verschillen tussen deze twee benaderingen, zodat deelnemers die vertrouwd zijn met Dynamic Media zich gemakkelijk kunnen aanpassen aan het open API-model.
+Dit webinar wordt ontworpen voor beroeps die met traditionele Dynamische Media vertrouwd zijn en [&#x200B; Dynamische Media Ultimate &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dm-prime-ultimate) met Open API proberen te begrijpen en uit te voeren.  We zullen de werking op hoog niveau van Dynamic Media Ultimate met Open API onderzoeken en vergelijken met de traditionele Dynamic Media. Ons doel is een uitgebreid inzicht te verschaffen in de verschillen tussen deze twee benaderingen, zodat deelnemers die vertrouwd zijn met Dynamic Media zich gemakkelijk kunnen aanpassen aan het open API-model.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3470620/?learn=on&enablevpops)
 

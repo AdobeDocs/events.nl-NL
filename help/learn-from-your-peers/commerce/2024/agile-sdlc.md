@@ -30,6 +30,6 @@ In dit webinar leert u,
 * Uitmuntendheid testen - tips voor testprocedures die in verschillende fasen van toepassing zijn, zodat robuuste en betrouwbare websites voor e-handel kunnen worden ontwikkeld.
 * Belanghebbenden en teamcommunicatie - Tips voor het bevorderen van effectieve communicatie. De nadruk leggen op transparantie en verantwoordingsplicht als belangrijke drijvende krachten voor een succesvolle uitvoering van projecten.
 
-U kunt tot de dia&#39;s [ hier ](../../assets/commerce/agile-sldc-slides.pdf){target="_blank"} toegang hebben.
+U kunt tot de dia&#39;s [&#x200B; hier &#x200B;](../../assets/commerce/agile-sldc-slides.pdf){target="_blank"} toegang hebben.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427501/?learn=on)

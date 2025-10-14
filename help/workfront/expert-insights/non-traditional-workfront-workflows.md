@@ -37,7 +37,7 @@ U zult verbaasd zijn over alle fantastische ideeën die zij deelt, zoals: 
 
 ## Bronnen
 
-Tijdens de gebeurtenis, vermeldde Kiersten twee middelen die wij aan [ Communautaire Post van Experience League ](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-august-2024-workfront-expert-insights-non-traditional/td-p/694315) hebben vastgemaakt.
+Tijdens de gebeurtenis, vermeldde Kiersten twee middelen die wij aan [&#x200B; Communautaire Post van Experience League &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-august-2024-workfront-expert-insights-non-traditional/td-p/694315) hebben vastgemaakt.
 * **Rapport van het Voorbeeld** - Taak die na BedrijfsUren meldt 
 * **de Terugkoppeling die van DSW Guardrails** verplettert is dit een fantastisch voorbeeld van hoe te om uw gebruikers te leren hoe te om updates in Workfront te verstrekken! 
 
@@ -49,4 +49,4 @@ Met meer dan tien jaar ervaring in het verhandelen van creatieve en operationele
 
 ## Heb je iets te delen?
 
-Hebt u een geweldig verhaal om te delen, tijdens een gebeurtenis of in een video van Expert Insights? Gelieve te bereiken uit aan ons team in [ CSatScale@adobe.com ](mailto:CSatScale@adobe.com).
+Hebt u een geweldig verhaal om te delen, tijdens een gebeurtenis of in een video van Expert Insights? Gelieve te bereiken uit aan ons team in [&#x200B; CSatScale@adobe.com &#x200B;](mailto:CSatScale@adobe.com).

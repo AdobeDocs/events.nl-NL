@@ -28,12 +28,12 @@ In deze zitting, zullen wij tonen hoe wij de insteekmodule kunnen gebruiken aio-
 
 Wij hopen om mensen te helpen de beste praktijken begrijpen rond het gebruiken van de hulpmiddelen van het coderefactoring, door de uitvoering van de hulpmiddelen op echte de klantencodebasis van Adobe Experience Manager te tonen.
 
-Ga het gesprek in **[Gemeenschappen van Experience League ](https://adobe.ly/3ETr7FI)** voort.
+Ga het gesprek in **[Gemeenschappen van Experience League &#x200B;](https://adobe.ly/3ETr7FI)** voort.
 
 >[!VIDEO](https://video.tv.adobe.com/v/338036/?quality=12&learn=on&hidetitle=true)
 
 ## Aanvullende bronnen
 
-- [ Documentatie van Adobe Experience Manager ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=nl-NL)
-- [ Adobe Experience Manager Cloud Service Overzicht ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html?lang=nl-NL)
-- [ Zelfstudies van Adobe Experience Manager ](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html?lang=nl-NL)
+- [&#x200B; Documentatie van Adobe Experience Manager &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=nl-NL)
+- [&#x200B; Adobe Experience Manager Cloud Service Overzicht &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html?lang=nl-NL)
+- [&#x200B; Zelfstudies van Adobe Experience Manager &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html?lang=nl-NL)

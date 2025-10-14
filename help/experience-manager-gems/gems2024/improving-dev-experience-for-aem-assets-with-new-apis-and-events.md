@@ -40,6 +40,6 @@ AEM-ontwikkelaars hebben de mogelijkheid om de nieuwe Assets Open API&#39;s en c
 
 >[!NOTE]
 > 
->* Voor zitting specifieke communautaire interactie over dit webinar op Experience League gelieve te bezoeken de respectieve [ Contextuele Draad ](https://adobe.ly/3UQXwFO).
+>* Voor zitting specifieke communautaire interactie over dit webinar op Experience League gelieve te bezoeken de respectieve [&#x200B; Contextuele Draad &#x200B;](https://adobe.ly/3UQXwFO).
 >
->* Om berichten over onze aanstaande webinars te ontvangen, gelieve te registreren bij [ Adobe de Groep van de Gebruiker van AEM ](https://aem-augs.adobe.com/).
+>* Om berichten over onze aanstaande webinars te ontvangen, gelieve te registreren bij [&#x200B; Adobe de Groep van de Gebruiker van AEM &#x200B;](https://aem-augs.adobe.com/).

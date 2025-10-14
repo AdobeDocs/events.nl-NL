@@ -22,12 +22,12 @@ ht-degree: 8%
 
 Meer informatie over App Builder terwijl we door de toepassingsarchitectuur van App Builder-apps lopen die Adobe Experience Manager uitbreiden.
 
-Ga het gesprek in **[Gemeenschappen van Experience League ](https://adobe.ly/3uragoI)** voort.
+Ga het gesprek in **[Gemeenschappen van Experience League &#x200B;](https://adobe.ly/3uragoI)** voort.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337709/?quality=12&learn=on&hidetitle=true)
 
 ## Aanvullende bronnen
 
-- [ Documentatie van Adobe Experience Platform ](https://experienceleague.adobe.com/docs/experience-platform.html?lang=nl-NL)
-- [ het Overzicht van Adobe Experience Platform ](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=nl-NL)
+- [&#x200B; Documentatie van Adobe Experience Platform &#x200B;](https://experienceleague.adobe.com/docs/experience-platform.html?lang=nl-NL)
+- [&#x200B; het Overzicht van Adobe Experience Platform &#x200B;](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=nl-NL)
 - [Tutorials voor Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=nl)

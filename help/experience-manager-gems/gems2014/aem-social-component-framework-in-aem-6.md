@@ -30,5 +30,5 @@ Siddharth Palaniswami, Sr. Software Engineering Lead, Adobe
 
 ## Verwante koppelingen {#related-links}
 
-* [ Github verbinding voor codesteekproef ](https://github.com/Adobe-Marketing-Cloud/aem-scf-sample-components-extension)
-* [ Sociaal Kader van de Component ](https://docs.adobe.com/content/docs/en/aem/6-0/develop/social-communities/scf.html)
+* [&#x200B; Github verbinding voor codesteekproef &#x200B;](https://github.com/Adobe-Marketing-Cloud/aem-scf-sample-components-extension)
+* [&#x200B; Sociaal Kader van de Component &#x200B;](https://docs.adobe.com/content/docs/en/aem/6-0/develop/social-communities/scf.html)

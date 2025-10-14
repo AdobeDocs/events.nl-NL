@@ -27,11 +27,11 @@ In deze sessie hebben we het volgende onderzocht:
 
 >[!VIDEO](https://video.tv.adobe.com/v/3448635/?quality=12&learn=on)
 
-**zet de bespreking op Experience League [ Communautaire Post voort.](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/adobe-experience-league-live-unlocking-operational-insights-with/td-p/738208){target=“_blank”}**
+**zet de bespreking op Experience League [&#x200B; Communautaire Post voort.](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/adobe-experience-league-live-unlocking-operational-insights-with/td-p/738208){target=“_blank”}**
 
 ## Aanvullende bronnen
 
-[ AI HulpOverzicht ](https://experienceleague.adobe.com/nl/docs/platform-learn/tutorials/ai-assistant/overview)
+[&#x200B; AI HulpOverzicht &#x200B;](https://experienceleague.adobe.com/nl/docs/platform-learn/tutorials/ai-assistant/overview)
 
-[ AI Hulp het Werkblad van de Veiligheid ](https://www.adobe.com/content/dam/cc/en/trust-center/ungated/whitepapers/experience-cloud/adobe-ai-assistant-in-aep-security-fact-sheet.pdf)
+[&#x200B; AI Hulp het Werkblad van de Veiligheid &#x200B;](https://www.adobe.com/content/dam/cc/en/trust-center/ungated/whitepapers/experience-cloud/adobe-ai-assistant-in-aep-security-fact-sheet.pdf)
 

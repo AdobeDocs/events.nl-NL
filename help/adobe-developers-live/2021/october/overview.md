@@ -20,8 +20,8 @@ Op 4-5 oktober 2021 heeft Adobe Developers Live ontwikkelaars en ontwikkelaars v
 Adobe productteams in heel Adobe Experience Cloud, Document Cloud en Creative Cloud lieten de nieuwste technologische vooruitgang zien en ontwikkelaarsgereedschappen die design, het creëren van content, documentservices en het beheer van klantervaringen in alle bedrijfstakken mogelijk maken.
 
 Verbind met collega devs en sluit zich aan bij de zittingsgesprekken in de Gemeenschappen van de Experience League.
-* [ de Volledige lijst van de Zitting van Adobe Developer App Builder ](https://experienceleaguecommunities.adobe.com/t5/project-firefly-discussions/adobe-developers-live-october-2021-project-firefly-s-complete/td-p/425779)
-* [ AEM Volledige lijst van de Zitting ](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/adobe-developers-live-october-2021-complete-session-list/m-p/423041#M120517)
+* [&#x200B; de Volledige lijst van de Zitting van Adobe Developer App Builder &#x200B;](https://experienceleaguecommunities.adobe.com/t5/project-firefly-discussions/adobe-developers-live-october-2021-project-firefly-s-complete/td-p/425779)
+* [&#x200B; AEM Volledige lijst van de Zitting &#x200B;](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/adobe-developers-live-october-2021-complete-session-list/m-p/423041#M120517)
 
 ## Hooglichten
 
@@ -78,24 +78,24 @@ Verbind met collega devs en sluit zich aan bij de zittingsgesprekken in de Gemee
 
 ### AEM
 
-* [ Experience League - onderzoek AEM ](https://experienceleague.adobe.com/nl#recommended/solutions/experience-manager)
-* [ de Authoring Documentatie van AEM Sites ](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html?lang=nl-NL)
-* [ AEM Sites het Ontwikkelen Documentatie ](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html?lang=nl-NL)
-* [ AEM Sites die Documentatie beheren ](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html?lang=nl-NL)
-* [ AEM Sites die Documentatie opstelt ](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=nl-NL)
-* [ Tutorials van AEM as a Cloud Service ](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html?lang=nl-NL)
-* [ Tutorials van AEM Assets ](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html?lang=nl-NL)
-* [ Tutorials van AEM Forms ](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/overview.html?lang=nl-NL)
-* [ AEM de Tutorials van de Stichting ](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html?lang=nl-NL)
+* [&#x200B; Experience League - onderzoek AEM &#x200B;](https://experienceleague.adobe.com/nl#recommended/solutions/experience-manager)
+* [&#x200B; de Authoring Documentatie van AEM Sites &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html?lang=nl-NL)
+* [&#x200B; AEM Sites het Ontwikkelen Documentatie &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html?lang=nl-NL)
+* [&#x200B; AEM Sites die Documentatie beheren &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html?lang=nl-NL)
+* [&#x200B; AEM Sites die Documentatie opstelt &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=nl-NL)
+* [&#x200B; Tutorials van AEM as a Cloud Service &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html?lang=nl-NL)
+* [&#x200B; Tutorials van AEM Assets &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html?lang=nl-NL)
+* [&#x200B; Tutorials van AEM Forms &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/overview.html?lang=nl-NL)
+* [&#x200B; AEM de Tutorials van de Stichting &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html?lang=nl-NL)
 
 ### Adobe Experience Platform
 
-* [ Documentatie van Adobe Experience Platform ](https://experienceleague.adobe.com/docs/experience-platform.html?lang=nl-NL)
-* [ het Overzicht van Adobe Experience Platform ](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=nl-NL)
+* [&#x200B; Documentatie van Adobe Experience Platform &#x200B;](https://experienceleague.adobe.com/docs/experience-platform.html?lang=nl-NL)
+* [&#x200B; het Overzicht van Adobe Experience Platform &#x200B;](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=nl-NL)
 * [Tutorials voor Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=nl)
 
 ### App Builder
 
-* [ het Overzicht van App Builder ](https://adobe.ly/aem-appbuilder)
-* [ de Gids van de Ontwikkelaar van App Builder ](https://adobe.ly/appbuilder)
-* [ het programma van het Proefprogramma van App Builder ondertekenen omhoog ](https://adobe.ly/appbuilder-trial)
+* [&#x200B; het Overzicht van App Builder &#x200B;](https://adobe.ly/aem-appbuilder)
+* [&#x200B; de Gids van de Ontwikkelaar van App Builder &#x200B;](https://adobe.ly/appbuilder)
+* [&#x200B; het programma van het Proefprogramma van App Builder ondertekenen omhoog &#x200B;](https://adobe.ly/appbuilder-trial)

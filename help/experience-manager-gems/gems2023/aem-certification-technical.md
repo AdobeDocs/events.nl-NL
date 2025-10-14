@@ -45,6 +45,6 @@ Haal vandaag nog uw vlek op en maak een reis naar nieuwe hoogten met Experience 
 
 >[!NOTE]
 >
->* Voor zitting specifieke communautaire interactie over Experience League, gelieve dit [ Contextuele Draad ](https://adobe.ly/3p2CmbA) te bezoeken
+>* Voor zitting specifieke communautaire interactie over Experience League, gelieve dit [&#x200B; Contextuele Draad &#x200B;](https://adobe.ly/3p2CmbA) te bezoeken
 >
->* Om berichten betreffende onze aanstaande webinars te ontvangen, gelieve te registreren bij [ Adobe de Gebruikersgroep van AEM ](https://aem-augs.adobe.com/).
+>* Om berichten betreffende onze aanstaande webinars te ontvangen, gelieve te registreren bij [&#x200B; Adobe de Gebruikersgroep van AEM &#x200B;](https://aem-augs.adobe.com/).

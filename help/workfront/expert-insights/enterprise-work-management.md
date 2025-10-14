@@ -36,7 +36,7 @@ Hij deelde zoveel beste praktijken tijdens ons Workfront Collective-evenement, m
 
 ## Bronnen
 
-* Daniel Clarke, Beheer van het Werk van de Onderneming 031124 - [ het Deck van de Presentatie ](https://nam04.safelinks.protection.outlook.com/?url=https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/Adobe+Workfront+Collective+-+Daniel+Clarke+-+March+2024.pdf&data=05|02|csatscale@adobe.com|4308ae2a6beb4130dc6f08dc4926eafc|fa7b1b5a7b34438794aed2c178decee1|0|638 465678712329711|Onbekend|TWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTi6I1haWwiLCJXVCI6Mn0=|0||&sdata=y14IXCdSk8laYXyfuLcjBDeDjwZZu33nFJmxbx4E=&reserved=0) 
+* Daniel Clarke, Beheer van het Werk van de Onderneming 031124 - [&#x200B; het Deck van de Presentatie &#x200B;](https://nam04.safelinks.protection.outlook.com/?url=https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/Adobe+Workfront+Collective+-+Daniel+Clarke+-+March+2024.pdf&data=05|02|csatscale@adobe.com|4308ae2a6beb4130dc6f08dc4926eafc|fa7b1b5a7b34438794aed2c178decee1|0|638 465678712329711|Onbekend|TWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTi6I1haWwiLCJXVCI6Mn0=|0||&sdata=y14IXCdSk8laYXyfuLcjBDeDjwZZu33nFJmxbx4E=&reserved=0) 
 
 ## Over de spreker
 
@@ -44,4 +44,4 @@ Ik heb het genoegen om een team van ontwerpers, consultants en analisten bij Sys
 
 ## Heb je iets te delen?
 
-Hebt u een geweldig verhaal om te delen, tijdens een gebeurtenis of in een video van Expert Insights? Gelieve te bereiken uit aan ons team in [ CSatScale@adobe.com ](mailto:CSatScale@adobe.com).
+Hebt u een geweldig verhaal om te delen, tijdens een gebeurtenis of in een video van Expert Insights? Gelieve te bereiken uit aan ons team in [&#x200B; CSatScale@adobe.com &#x200B;](mailto:CSatScale@adobe.com).

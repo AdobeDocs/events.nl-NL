@@ -40,5 +40,5 @@ Gebruik uw eCommerce-gegevens voor succes tijdens het feestseizoen. In dit webin
 
 ## Nuttige bronnen
 
-[ de Gids van de Gebruiker van Commerce Intelligence ](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=nl)
-[ Steun van Commerce Intelligence ](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html?lang=nl-NL)
+[&#x200B; de Gids van de Gebruiker van Commerce Intelligence &#x200B;](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=nl)
+[&#x200B; Steun van Commerce Intelligence &#x200B;](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html?lang=nl-NL)

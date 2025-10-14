@@ -26,6 +26,6 @@ ht-degree: 0%
 
 Doe mee aan Markus Haack in deze praktische sessie, live opgenomen in Adobe Developers Live. Leer hoe u een website maakt met Adobe Experience Manager-Edge Delivery Services. Deze zitting behandelt alles van vestiging een bewaarplaats GitHub, het beheer van de documentbibliotheek, het publiceren van uw eerste inhoud, aan plaats het stileren en douaneblokverwezenlijking. Deze handleiding is ideaal voor nieuwe ontwikkelaars van Adobe Experience Manager en biedt een uitgebreide kijk op efficiënte webontwikkeling met behulp van AEM geoptimaliseerde tools.
 
-Ga het gesprek in [ Gemeenschappen van het Experience League ](https://adobe.ly/3Q82EUF) voort.
+Ga het gesprek in [&#x200B; Gemeenschappen van het Experience League &#x200B;](https://adobe.ly/3Q82EUF) voort.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425629/?learn=on)

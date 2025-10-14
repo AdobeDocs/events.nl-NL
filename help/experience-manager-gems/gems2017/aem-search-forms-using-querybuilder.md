@@ -30,13 +30,13 @@ De meeste ontwikkelaars zijn tegen de AEM querybuilder gekomen als high-level vr
 
 Demo
 
-* [ AEM Querybuilder ](https://www.youtube.com/watch?v=yR9mcp9_MtY&amp;list=PLHMjqSjX2bE7zaDKZ7KD-tuqVXooiKave), geleverd door Alexander Klimetschek
+* [&#x200B; AEM Querybuilder &#x200B;](https://www.youtube.com/watch?v=yR9mcp9_MtY&list=PLHMjqSjX2bE7zaDKZ7KD-tuqVXooiKave), geleverd door Alexander Klimetschek
 
 Documentatie AEM
 
 >[!WARNING]
 >
->AEM versies 6.4 en ouder zijn End of Life en worden niet meer door de Adobe verkocht.  De Adobe adviseert bevordering aan de recentste versie - [ Adobe Experience Manager as a Cloud Service ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=nl-NL).  De gearchiveerde versies van de documentatie kunnen van deze [ pagina ](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=nl-NL) worden betreden.
+>AEM versies 6.4 en ouder zijn End of Life en worden niet meer door de Adobe verkocht.  De Adobe adviseert bevordering aan de recentste versie - [&#x200B; Adobe Experience Manager as a Cloud Service &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=nl-NL).  De gearchiveerde versies van de documentatie kunnen van deze [&#x200B; pagina &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=nl-NL) worden betreden.
 >
 >Aangezien het op deze zitting betrekking heeft gelieve te zien *Querybuilder API* in de documentatie van de AEM.
 

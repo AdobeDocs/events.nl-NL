@@ -26,7 +26,7 @@ Sluit u aan bij Lamont Crook, de belangrijkste consultant voor Oplossingen in Ad
 
 ## Communautaire discussie
 
-Ga verder het gesprek in de Gemeenschap van Adobe Developers Live [ bespreking ](https://adobe.ly/4hBDxp9).
+Ga verder het gesprek in de Gemeenschap van Adobe Developers Live [&#x200B; bespreking &#x200B;](https://adobe.ly/4hBDxp9).
 
 ## Toetsen
 

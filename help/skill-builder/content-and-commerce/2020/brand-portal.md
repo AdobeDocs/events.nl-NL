@@ -31,9 +31,9 @@ Met Brand Portal kunt u eenvoudig middelen delen met interne en externe teams.
 
 ## Bronnen
 
-* [ Overzicht van Brand Portal ](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal.html?lang=nl-NL)
-* [ de Video&#39;s van Brand Portal ](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/sharing/brand-portal/brand-portal.html?lang=nl-NL)
-* [ Middelen die ](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-asset-sourcing.html?lang=nl-NL)
+* [&#x200B; Overzicht van Brand Portal &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal.html?lang=nl-NL)
+* [&#x200B; de Video&#39;s van Brand Portal &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/sharing/brand-portal/brand-portal.html?lang=nl-NL)
+* [&#x200B; Middelen die &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-asset-sourcing.html?lang=nl-NL)
 
 ## Reeksopnamen
 

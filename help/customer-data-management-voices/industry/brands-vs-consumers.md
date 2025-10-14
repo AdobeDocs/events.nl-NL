@@ -24,6 +24,6 @@ Tegenwoordig zijn marketers in de wirwar van informatie die gewijd is aan identi
 
 >[!VIDEO](https://video.tv.adobe.com/v/332060/?quality=12&learn=on)
 
-Om deze video aan te vullen, kunt u ook [ een whitepaper ](./../assets/whitepaper-a-tale-of-two-perceptions.pdf) downloaden
+Om deze video aan te vullen, kunt u ook [&#x200B; een whitepaper &#x200B;](./../assets/whitepaper-a-tale-of-two-perceptions.pdf) downloaden
 
 *Één jaar later: Bijgewerkte inzichten op*<a href="https://business.adobe.com/blog/perspectives/a-tale-of-two-perceptions-readiness-for-a-cookieless-future"> business.adobe.com </a>*.*

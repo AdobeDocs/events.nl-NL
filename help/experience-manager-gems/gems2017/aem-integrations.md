@@ -30,7 +30,7 @@ Jan Exner, Mgr. Beheerconsultant, Adobe
 
 ## Verwante koppelingen {#related-links}
 
-[ Analytics van het Web voor Ontwikkelaars ](https://webanalyticsfordevelopers.com/)
+[&#x200B; Analytics van het Web voor Ontwikkelaars &#x200B;](https://webanalyticsfordevelopers.com/)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/nl/experience-manager/kt/eseminars/gems/aem-index.html)

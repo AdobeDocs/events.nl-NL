@@ -74,5 +74,5 @@ De onderwerpen worden herhaald af en toe om het even welke nieuwe vragen aan te 
 
 ## Nuttige bronnen
 
-- [ Commerce Intelligence video&#39;s en leerprogramma&#39;s ](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/filter-sets.html?lang=nl-NL)
-- [ de Gids van de Gebruiker van Commerce Intelligence ](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=nl)
+- [&#x200B; Commerce Intelligence video&#39;s en leerprogramma&#39;s &#x200B;](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/filter-sets.html?lang=nl-NL)
+- [&#x200B; de Gids van de Gebruiker van Commerce Intelligence &#x200B;](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=nl)

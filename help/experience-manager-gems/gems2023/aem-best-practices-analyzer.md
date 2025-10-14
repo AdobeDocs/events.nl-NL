@@ -42,5 +42,5 @@ De AEM Best Practices Analyzer is niet van toepassing op AEM as a Cloud Service-
 
 >[!NOTE]
 >
->* Voor zitting specifieke communautaire interactie over Experience League, gelieve dit [ Contextuele Draad ](https://bit.ly/3Z6AyM1) te bezoeken
->* Om automatische berichten betreffende webinars te ontvangen, gelieve te registreren bij [ Adobe de Groep van de Gebruiker van AEM ](https://aem-augs.adobe.com/).
+>* Voor zitting specifieke communautaire interactie over Experience League, gelieve dit [&#x200B; Contextuele Draad &#x200B;](https://bit.ly/3Z6AyM1) te bezoeken
+>* Om automatische berichten betreffende webinars te ontvangen, gelieve te registreren bij [&#x200B; Adobe de Groep van de Gebruiker van AEM &#x200B;](https://aem-augs.adobe.com/).

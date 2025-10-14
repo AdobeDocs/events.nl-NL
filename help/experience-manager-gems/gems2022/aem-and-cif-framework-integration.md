@@ -28,9 +28,9 @@ Dit webinar werd uitgevoerd op 27 april 2022 en gepresenteerd door Kunal Gaba en
 
 >[!MORELIKETHIS]
 >
->* [ Overeenkomende pagina van de Gebeurtenis van de Gebruikersgroep van Adobe Experience Manager ](https://adobe.ly/3O0uXl5/)
->* [ Overeenkomende contextuele draad ](https://adobe.ly/3jorz5r)
->* Gelieve te registreren bij [ Adobe de Gebruikersgroep van AEM ](https://aem-augs.adobe.com/) om over aanstaande webinars op de hoogte te worden gebracht.
+>* [&#x200B; Overeenkomende pagina van de Gebeurtenis van de Gebruikersgroep van Adobe Experience Manager &#x200B;](https://adobe.ly/3O0uXl5/)
+>* [&#x200B; Overeenkomende contextuele draad &#x200B;](https://adobe.ly/3jorz5r)
+>* Gelieve te registreren bij [&#x200B; Adobe de Gebruikersgroep van AEM &#x200B;](https://aem-augs.adobe.com/) om over aanstaande webinars op de hoogte te worden gebracht.
 
 **Agenda op hoog niveau:**
 

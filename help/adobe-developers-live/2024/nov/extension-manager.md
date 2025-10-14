@@ -26,7 +26,7 @@ Leer hoe u de Adobe Experience Manager-functionaliteit voor auteurs kunt uitbrei
 
 ## Communautaire discussie
 
-Ga verder het gesprek in de Gemeenschap van Adobe Developers Live [ bespreking ](https://adobe.ly/48N59Uj).
+Ga verder het gesprek in de Gemeenschap van Adobe Developers Live [&#x200B; bespreking &#x200B;](https://adobe.ly/48N59Uj).
 
 ## Belangrijkste onderwerpen
 

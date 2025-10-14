@@ -37,13 +37,13 @@ Corre is een echt strategische CSM die het tempo voor ons plaatst op hoe te om d
 
 ### Topsessies
 
-* [ hoe Adobe zijn Keten van de Levering van de Inhoud optimaliseerde - S316 ](https://business.adobe.com/summit/2024/sessions/how-adobe-optimized-its-content-supply-chain-s316.html): Onderzoek de benadering van Adobe om zijn Keten van de Levering van de Inhoud over zijn eigen marketing org op te stellen 
-* [ Revolutionerende Productie van Inhoud met Adobe - S305 ](https://business.adobe.com/summit/2024/sessions/revolutionizing-content-production-with-adobe-s305.html) : Ontdek hoe Adobe uw leveringsketen van de inhoudslevering kan maximaliseren en uw creatieve werkschema kan versnellen 
+* [&#x200B; hoe Adobe zijn Keten van de Levering van de Inhoud optimaliseerde - S316 &#x200B;](https://business.adobe.com/summit/2024/sessions/how-adobe-optimized-its-content-supply-chain-s316.html): Onderzoek de benadering van Adobe om zijn Keten van de Levering van de Inhoud over zijn eigen marketing org op te stellen 
+* [&#x200B; Revolutionerende Productie van Inhoud met Adobe - S305 &#x200B;](https://business.adobe.com/summit/2024/sessions/revolutionizing-content-production-with-adobe-s305.html) : Ontdek hoe Adobe uw leveringsketen van de inhoudslevering kan maximaliseren en uw creatieve werkschema kan versnellen 
 
 ### Productdemo&#39;s
 
-* [ Workfront ](https://business.adobe.com/product-demos/workfront/interactive-tour.html) - omdat een interactieve [ productdemo ] nodig is om het werkingsgebied van te illustreren wat binnen onze oplossing van het ondernemingswerkbeheer kan bestaan.  
-* [ GenStudio ](https://business.adobe.com/resources/sdk/getting-started-with-adobe-genstudio.html) - ik hou van hoe uitgebreid dit voor onze klanten is beginnen hun behoeften aan oplossingen te binden die vandaag bij Adobe bestaan.
+* [&#x200B; Workfront &#x200B;](https://business.adobe.com/product-demos/workfront/interactive-tour.html) - omdat een interactieve [ productdemo ] nodig is om het werkingsgebied van te illustreren wat binnen onze oplossing van het ondernemingswerkbeheer kan bestaan.  
+* [&#x200B; GenStudio &#x200B;](https://business.adobe.com/resources/sdk/getting-started-with-adobe-genstudio.html) - ik hou van hoe uitgebreid dit voor onze klanten is beginnen hun behoeften aan oplossingen te binden die vandaag bij Adobe bestaan.
 
 ## Over de spreker 
 
@@ -53,4 +53,4 @@ Zij is bekwaam in het identificeren van klantenbehoeften, het ontwikkelen van aa
 
 ## Heb je iets te delen?
 
-Hebt u een geweldig verhaal om te delen, tijdens een gebeurtenis of in een video van Expert Insights? Gelieve te bereiken uit aan ons team in [ CSatScale@adobe.com ](mailto:CSatScale@adobe.com).
+Hebt u een geweldig verhaal om te delen, tijdens een gebeurtenis of in een video van Expert Insights? Gelieve te bereiken uit aan ons team in [&#x200B; CSatScale@adobe.com &#x200B;](mailto:CSatScale@adobe.com).

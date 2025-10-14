@@ -160,7 +160,7 @@ Of u nu een Workfront-beheerder, projectmanager of alledaagse gebruiker bent, de
 
 ### Workshop terugspoelen
 
-Ontdek de nieuwste gebeurtenissen van je Adobe Workfront-community via onze gekrulde selectie van aanbevolen gebeurtenissen. Elke maand, ontvangen wij vrije levende zittingen die een verscheidenheid van onderwerpen behandelen om u te helpen het beste uit Workfront krijgen. Een livegebeurtenis gemist? Geen probleem! Vang omhoog met opnamen op bestelling die klantenverhalen, bewezen beste praktijken, en waardevolle geleerde lessen tonen. Wilt u in real-time verbinding maken? U kunt deelnemen aan komende live gebeurtenissen om vragen te stellen, inzichten te delen en met anderen samen te werken. Bezoek regelmatig de [ pagina van de Gebeurtenissen van Experience League Workfront ](../workfront/overview.md) om te zien wat volgende omhoog komt!
+Ontdek de nieuwste gebeurtenissen van je Adobe Workfront-community via onze gekrulde selectie van aanbevolen gebeurtenissen. Elke maand, ontvangen wij vrije levende zittingen die een verscheidenheid van onderwerpen behandelen om u te helpen het beste uit Workfront krijgen. Een livegebeurtenis gemist? Geen probleem! Vang omhoog met opnamen op bestelling die klantenverhalen, bewezen beste praktijken, en waardevolle geleerde lessen tonen. Wilt u in real-time verbinding maken? U kunt deelnemen aan komende live gebeurtenissen om vragen te stellen, inzichten te delen en met anderen samen te werken. Bezoek regelmatig de [&#x200B; pagina van de Gebeurtenissen van Experience League Workfront &#x200B;](../workfront/overview.md) om te zien wat volgende omhoog komt!
 
 <!-- CARDS 
 

@@ -28,5 +28,5 @@ https://www.youtube.com/live/VUysRFpD40Q
 * [Vraag het de experts - De basisbeginselen van Web SDK](exl-live-episode-05-26-22.md)
 * [Vraag het de experts - RTCDP Connections](exl-live-episode-06-23-22.md)
 
-Voor verdere bespreking over dit onderwerp, gelieve de Experience League [ communautaire post ](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/aep-community-qna-coffee-break-7-21-22-10-30am-pt-adobe/td-p/461503) te bezoeken.
+Voor verdere bespreking over dit onderwerp, gelieve de Experience League [&#x200B; communautaire post &#x200B;](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/aep-community-qna-coffee-break-7-21-22-10-30am-pt-adobe/td-p/461503) te bezoeken.
 

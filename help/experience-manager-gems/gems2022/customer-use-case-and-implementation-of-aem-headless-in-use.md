@@ -54,5 +54,5 @@ Dit elimineert het vereiste voor API om vele eindpunten te verstrekken die diver
 
 >[!NOTE]
 >
->* Voor zitting specifieke communautaire interactie over Experience League, gelieve dit [ Contextuele Draad ](https://adobe.ly/3r6P4nr) te bezoeken
->* Om automatische berichten betreffende webinars te ontvangen, gelieve te registreren bij [ Adobe de Groep van de Gebruiker van AEM ](https://aem-augs.adobe.com/).
+>* Voor zitting specifieke communautaire interactie over Experience League, gelieve dit [&#x200B; Contextuele Draad &#x200B;](https://adobe.ly/3r6P4nr) te bezoeken
+>* Om automatische berichten betreffende webinars te ontvangen, gelieve te registreren bij [&#x200B; Adobe de Groep van de Gebruiker van AEM &#x200B;](https://aem-augs.adobe.com/).

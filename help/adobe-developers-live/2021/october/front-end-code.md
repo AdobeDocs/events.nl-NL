@@ -22,12 +22,12 @@ ht-degree: 3%
 
 Leer hoe u de nieuwe Front-end codepijplijn gebruikt die onlangs in Cloud Manager is geïntroduceerd
 
-Ga het gesprek in **[Gemeenschappen van Experience League ](https://adobe.ly/2XVcBg8)** voort.
+Ga het gesprek in **[Gemeenschappen van Experience League &#x200B;](https://adobe.ly/2XVcBg8)** voort.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337886/?quality=12&learn=on&hidetitle=true)
 
 ## Aanvullende bronnen
 
-- [ Documentatie van Adobe Experience Manager ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=nl-NL)
-- [ Adobe Experience Manager Cloud Service Overzicht ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html?lang=nl-NL)
-- [ Zelfstudies van Adobe Experience Manager ](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html?lang=nl-NL)
+- [&#x200B; Documentatie van Adobe Experience Manager &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=nl-NL)
+- [&#x200B; Adobe Experience Manager Cloud Service Overzicht &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html?lang=nl-NL)
+- [&#x200B; Zelfstudies van Adobe Experience Manager &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html?lang=nl-NL)

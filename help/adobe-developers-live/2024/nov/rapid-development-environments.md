@@ -27,7 +27,7 @@ Ontdek best practices voor Rapid Development Environment (RDE) en de bijgewerkte
 
 ## Communautaire discussie
 
-Ga verder het gesprek in de Gemeenschap van Adobe Developers Live [ bespreking ](https://adobe.ly/3UJluDo).
+Ga verder het gesprek in de Gemeenschap van Adobe Developers Live [&#x200B; bespreking &#x200B;](https://adobe.ly/3UJluDo).
 
 ## Toetsen
 

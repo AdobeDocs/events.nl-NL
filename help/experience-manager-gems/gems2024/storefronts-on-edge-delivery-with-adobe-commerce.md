@@ -40,6 +40,6 @@ Deze AEM GEM&#39;s webinar zal u leren hoe u een krachtige winkel op Edge Delive
 
 >[!NOTE]
 > 
->* Voor zitting specifieke communautaire interactie over Experience League gelieve onze [ contextuele draad ](https://adobe.ly/48m4dEm) te bezoeken.
+>* Voor zitting specifieke communautaire interactie over Experience League gelieve onze [&#x200B; contextuele draad &#x200B;](https://adobe.ly/48m4dEm) te bezoeken.
 >
->* Om berichten over onze aanstaande webinars te ontvangen, gelieve te registreren bij [ Adobe de Groep van de Gebruiker van AEM ](https://aem-augs.adobe.com/).
+>* Om berichten over onze aanstaande webinars te ontvangen, gelieve te registreren bij [&#x200B; Adobe de Groep van de Gebruiker van AEM &#x200B;](https://aem-augs.adobe.com/).

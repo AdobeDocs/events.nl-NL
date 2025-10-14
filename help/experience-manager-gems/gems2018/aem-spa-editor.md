@@ -30,7 +30,7 @@ Gabriel Walt, productmanager, Adobe
 
 ## Bronnen {#resources}
 
-[ Documentatie: AEM SPA Redacteur ](https://experienceleague.adobe.com/docs/experience-manager-64/developing/headless/spas/spa-overview.html?lang=nl-NL)
+[&#x200B; Documentatie: AEM SPA Redacteur &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-64/developing/headless/spas/spa-overview.html?lang=nl-NL)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/nl/experience-manager/kt/eseminars/gems/aem-index.html)

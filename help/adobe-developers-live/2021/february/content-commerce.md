@@ -25,7 +25,7 @@ ht-degree: 0%
 
 Deze sessie helpt ontwikkelaars om op Adobe Experience Manager as a Cloud Service aan de slag te gaan met Commerce - van de lokale installatie van Adobe Experience Manager SDK + Commerce integration framework tot Adobe Experience Manager en Magento in de cloud.
 
-Ga het gesprek in **[Gemeenschappen van Experience League ](https://adobe.ly/36Yd3v6)** voort.
+Ga het gesprek in **[Gemeenschappen van Experience League &#x200B;](https://adobe.ly/36Yd3v6)** voort.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3454400/?quality=12&learn=on&hidetitle=true&captions=dut)
 

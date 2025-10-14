@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Wilt u de oplossingen van de Adobe uitbreiden gebruikend een moderne architectuur die voor veelvoudige oplossingen werkt? We denken dat je Adobe Developer App Builder een poging moet doen.
 
-Ga het gesprek in **[Gemeenschappen van het Experience League ](https://adobe.ly/36Yd3v6)** voort.
+Ga het gesprek in **[Gemeenschappen van het Experience League &#x200B;](https://adobe.ly/36Yd3v6)** voort.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331852/?quality=12&learn=on&hidetitle=true)
 

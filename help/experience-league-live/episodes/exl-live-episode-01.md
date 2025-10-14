@@ -21,5 +21,5 @@ Je hebt hem op het podium gezien op de top. Je hebt hem deskundig advies horen g
 
 >[!VIDEO](https://video.tv.adobe.com/v/335921/?quality=12&learn=on)
 
-Om deze zitting te bespreken, gelieve de [ bespreking in de Gemeenschap van het Experience League ](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/questions-and-discussion-for-experience-league-live-ep-1-my/td-p/419498){target="_blank"} te bezoeken .
+Om deze zitting te bespreken, gelieve de [&#x200B; bespreking in de Gemeenschap van het Experience League &#x200B;](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/questions-and-discussion-for-experience-league-live-ep-1-my/td-p/419498){target="_blank"} te bezoeken .
 

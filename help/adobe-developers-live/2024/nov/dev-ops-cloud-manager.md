@@ -26,7 +26,7 @@ Efficiënte DevOps-praktijken zijn van essentieel belang voor het bieden van erv
 
 ## Communautaire discussie
 
-Ga verder het gesprek in de Gemeenschap van Adobe Developers Live [ bespreking ](https://adobe.ly/3Ywf7Vm).
+Ga verder het gesprek in de Gemeenschap van Adobe Developers Live [&#x200B; bespreking &#x200B;](https://adobe.ly/3Ywf7Vm).
 
 ## Toetsen
 

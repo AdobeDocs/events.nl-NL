@@ -21,12 +21,12 @@ ht-degree: 0%
 
 Afbeeldingen kunnen meer dan 60% van de totale bandbreedte in uw digitale beleving in beslag nemen. Voor media-rijke, afbeeldingsbelevenissen kan dit oplopen tot 85%. Om de gebruikers de beste ervaring te bieden, is het belangrijk dat u de afbeeldingen die worden aangeboden, optimaliseert. Leer hoe Adobe Experience Manager Dynamic Media een betere gebruikerservaring en verbeterde conversiesnelheden kan bieden dankzij de toonaangevende Smart Imaging-functionaliteit en de vele andere functies voor dynamische beeldbewerking. Deze sessie helpt technische mensen de beste werkwijzen te begrijpen voor het gebruik van dynamische media-URL&#39;s en modifiers, een soort one stop shop, zonder dat ze een functie voor het optimaliseren van afbeeldingen hoeven te gebruiken via vallen en opstaan.
 
-Ga het gesprek in **[Gemeenschappen van Experience League ](https://adobe.ly/3F58miP)** voort.
+Ga het gesprek in **[Gemeenschappen van Experience League &#x200B;](https://adobe.ly/3F58miP)** voort.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337847/?quality=12&learn=on&hidetitle=true)
 
 ## Aanvullende bronnen
 
-- [ Documentatie van Adobe Experience Manager ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=nl-NL)
-- [ Adobe Experience Manager Cloud Service Overzicht ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html?lang=nl-NL)
-- [ Zelfstudies van Adobe Experience Manager ](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html?lang=nl-NL)
+- [&#x200B; Documentatie van Adobe Experience Manager &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=nl-NL)
+- [&#x200B; Adobe Experience Manager Cloud Service Overzicht &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html?lang=nl-NL)
+- [&#x200B; Zelfstudies van Adobe Experience Manager &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html?lang=nl-NL)

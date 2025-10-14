@@ -24,7 +24,7 @@ Sluit zich aan bij Raymond Camden, Sr. Ontwikkelaarsgoeroe bij Adobe, om de gron
 
 ## Communautaire discussie
 
-Ga verder het gesprek in de Gemeenschap van Adobe Developers Live [ bespreking ](https://adobe.ly/48PRE63).
+Ga verder het gesprek in de Gemeenschap van Adobe Developers Live [&#x200B; bespreking &#x200B;](https://adobe.ly/48PRE63).
 
 ## Key Takeaways
 

@@ -22,12 +22,12 @@ ht-degree: 1%
 
 Adobe Experience Manager as a Cloud Service is ontworpen om inhoud efficiënt en effectief te leveren. Een essentieel element voor deze efficiëntie is dat een project een goed ontworpen strategie voor het in cache plaatsen en invalideren heeft. In deze zitting zullen wij enkele vallen behandelen die wij projecten zien die vallen binnen, en uiteinden op hoe te om uw Verhouding van het Actief van het Geheime voorgeheugen, en Cachedekking met voorbeeld van echte wereldscenario&#39;s te verbeteren.
 
-Ga het gesprek in **[Gemeenschappen van Experience League ](https://adobe.ly/3CUkzoB)** voort.
+Ga het gesprek in **[Gemeenschappen van Experience League &#x200B;](https://adobe.ly/3CUkzoB)** voort.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337846/?quality=12&learn=on&hidetitle=true)
 
 ## Aanvullende bronnen
 
-- [ Documentatie van Adobe Experience Manager ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=nl-NL)
-- [ Adobe Experience Manager Cloud Service Overzicht ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html?lang=nl-NL)
-- [ Zelfstudies van Adobe Experience Manager ](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html?lang=nl-NL)
+- [&#x200B; Documentatie van Adobe Experience Manager &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=nl-NL)
+- [&#x200B; Adobe Experience Manager Cloud Service Overzicht &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html?lang=nl-NL)
+- [&#x200B; Zelfstudies van Adobe Experience Manager &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html?lang=nl-NL)

@@ -26,7 +26,7 @@ Ontgrendel het volledige potentieel van Adobe Beheerde CDN met klantgerichte Reg
 
 ## Communautaire discussie
 
-Ga verder het gesprek in de Gemeenschap van Adobe Developers Live [ bespreking ](https://adobe.ly/3O0TyYa).
+Ga verder het gesprek in de Gemeenschap van Adobe Developers Live [&#x200B; bespreking &#x200B;](https://adobe.ly/3O0TyYa).
 
 ## Belangrijkste punten
 

@@ -27,7 +27,7 @@ Integraties met ERP&#39;s, CRM&#39;s en PIM&#39;s zijn essentieel voor operation
 
 ## Communautaire discussie
 
-Ga verder het gesprek in de Gemeenschap van Adobe Developers Live [ bespreking ](https://adobe.ly/40DgGmR).
+Ga verder het gesprek in de Gemeenschap van Adobe Developers Live [&#x200B; bespreking &#x200B;](https://adobe.ly/40DgGmR).
 
 ## Belangrijkste punten
 

@@ -42,11 +42,11 @@ Datum: 17-10-2018
 
 ## Verwante koppelingen {#related-links}
 
-[ Blog OSGi Alliance ](https://blog.osgi.org/2018/09/osgi-r7-highlights-blog-series.html)
+[&#x200B; Blog OSGi Alliance &#x200B;](https://blog.osgi.org/2018/09/osgi-r7-highlights-blog-series.html)
 
-[ Vergunning OSGi van de Specificatie, Versie 2.0 ](https://osgi.org/specification/osgi.core/7.0.0/index.html)
+[&#x200B; Vergunning OSGi van de Specificatie, Versie 2.0 &#x200B;](https://osgi.org/specification/osgi.core/7.0.0/index.html)
 
-[ CompendiumRelease 7 van OSGi ](https://osgi.org/specification/osgi.cmpn/7.0.0/index.html)
+[&#x200B; CompendiumRelease 7 van OSGi &#x200B;](https://osgi.org/specification/osgi.cmpn/7.0.0/index.html)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/nl/experience-manager/kt/eseminars/gems/aem-index.html)

@@ -26,7 +26,7 @@ Sluit u aan bij Achim Koch, de belangrijkste technische architect bij de Adobe, 
 
 ## Communautaire discussie
 
-Ga verder het gesprek in de Gemeenschap van Adobe Developers Live [ bespreking ](https://adobe.ly/4hKHpnF).
+Ga verder het gesprek in de Gemeenschap van Adobe Developers Live [&#x200B; bespreking &#x200B;](https://adobe.ly/4hKHpnF).
 
 ## Toetsen
 

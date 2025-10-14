@@ -43,6 +43,6 @@ Tijdens dit webinar van AEM GEMs, zullen wij tonen hoe u het meeste uit het toev
 
 >[!NOTE]
 >
->* Voor webinar/onderwerp specifieke communautaire interactie over dit webinar op Experience League gelieve te bezoeken gelieve de respectieve [ Contextuele Draad ](https://adobe.ly/4f1jhMo).
+>* Voor webinar/onderwerp specifieke communautaire interactie over dit webinar op Experience League gelieve te bezoeken gelieve de respectieve [&#x200B; Contextuele Draad &#x200B;](https://adobe.ly/4f1jhMo).
 >
->* Om berichten over onze aanstaande webinars te ontvangen, gelieve te registreren bij [ Adobe de Groep van de Gebruiker van AEM ](https://aem-augs.adobe.com/).
+>* Om berichten over onze aanstaande webinars te ontvangen, gelieve te registreren bij [&#x200B; Adobe de Groep van de Gebruiker van AEM &#x200B;](https://aem-augs.adobe.com/).

@@ -36,15 +36,15 @@ Tijdens onze chat deelde Lyndsy
 
 Zoals beloofd, zijn hier de middelen die wij samen met een paar extra verbindingen voor de Queues van het Verzoek en de Onderwerpen van de Rij bespraken:
 
-* De middelen op hoe te om [ een Geërfte Ingeërfde Instantie ](https://experienceleague.adobe.com/nl/docs/workfront-learn/tutorials-workfront/administration-and-setup/system-perfomance-and-maintenance/take-charge-of-an-existing-workfront-instance) te beheren, omvat de verbinding aan webinar en details op het [ Leerprogramma van de Vervaging ](https://experienceleague.adobe.com/nl/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/understand-request-queues)
+* De middelen op hoe te om [&#x200B; een Geërfte Ingeërfde Instantie &#x200B;](https://experienceleague.adobe.com/nl/docs/workfront-learn/tutorials-workfront/administration-and-setup/system-perfomance-and-maintenance/take-charge-of-an-existing-workfront-instance) te beheren, omvat de verbinding aan webinar en details op het [&#x200B; Leerprogramma van de Vervaging &#x200B;](https://experienceleague.adobe.com/nl/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/understand-request-queues)
 
-* Het begrip van de Documentatie van de Rijen van het Verzoek: [ creeer de Onderwerpen van de Rij ](https://experienceleague.adobe.com/nl/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-queue-topics)
+* Het begrip van de Documentatie van de Rijen van het Verzoek: [&#x200B; creeer de Onderwerpen van de Rij &#x200B;](https://experienceleague.adobe.com/nl/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-queue-topics)
 
-* De webinaire presentatie van Lyndsy voor [ Hoofdzaak van Admin van het Systeem ](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/webinar-system-admin-essentials-communicating-with-end-users/td-p/606096): Het communiceren met Eind - Gebruikers (deze pagina omvat ook een verbinding aan het [ Eind - gebruikersbevelen Cookbook ](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/introducing-the-end-user-communications-cookbook/ba-p/607439))
+* De webinaire presentatie van Lyndsy voor [&#x200B; Hoofdzaak van Admin van het Systeem &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/webinar-system-admin-essentials-communicating-with-end-users/td-p/606096): Het communiceren met Eind - Gebruikers (deze pagina omvat ook een verbinding aan het [&#x200B; Eind - gebruikersbevelen Cookbook &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/introducing-the-end-user-communications-cookbook/ba-p/607439))
 
 * De presentatiemiddelen van de Uitwisseling van de Vaardigheid van Lyndsy [&#128279;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-november-2024-skill-exchange-workfront-process/m-p/726841#M3642)
 
-* En vergeet niet om [ Workfront AMA ](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-ama-ask-me-anything-about-workfront-proof/ev-p/748798) te controleren me ANYTHING over Workfront Proof waar Lyndsy samen met Monique Evans en Richard Carlson uw vragen over het Bewijzen beantwoordde!
+* En vergeet niet om [&#x200B; Workfront AMA &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-ama-ask-me-anything-about-workfront-proof/ev-p/748798) te controleren me ANYTHING over Workfront Proof waar Lyndsy samen met Monique Evans en Richard Carlson uw vragen over het Bewijzen beantwoordde!
 
 ## Over de spreker 
 
@@ -56,4 +56,4 @@ U weet nooit welke fantastische ideeën klanten tijdens gebeurtenissen zullen de
 
 ## Heb je iets te delen?
 
-Hebt u een geweldig verhaal om te delen, tijdens een gebeurtenis of in een video van Expert Insights? Gelieve te bereiken uit aan ons team in [ CSatScale@adobe.com ](mailto:CSatScale@adobe.com).
+Hebt u een geweldig verhaal om te delen, tijdens een gebeurtenis of in een video van Expert Insights? Gelieve te bereiken uit aan ons team in [&#x200B; CSatScale@adobe.com &#x200B;](mailto:CSatScale@adobe.com).

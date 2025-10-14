@@ -41,7 +41,7 @@ In dit educatieve webinar, onderzoeken Adobe Champions Melanie Bartlett en Deepa
 
 Of u nu een auteur bent die de zoekbaarheid, een ontwikkelaar die inhoud synchroniseert of een DAM-bibliotheekschalingsbewerking wil verbeteren, deze sessie zal u van actioneerbare inzichten en praktijkvoorbeelden voorzien om uw strategie voor bedrijfsmiddelen te verhogen.
 
-U kunt tot de presentatiedia&#39;s [ hier toegang hebben ](../../assets/experience-manager/aug2025/2025-08-28-Adobe-Smart-Tags-Champions-webinar_FINALCOPY.pdf)
+U kunt tot de presentatiedia&#39;s [&#x200B; hier toegang hebben &#x200B;](../../assets/experience-manager/aug2025/2025-08-28-Adobe-Smart-Tags-Champions-webinar_FINALCOPY.pdf)
 
 ## Efficiënte herkenning van bedrijfsmiddelen ontgrendelen met AI
 

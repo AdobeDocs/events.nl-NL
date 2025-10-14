@@ -24,8 +24,8 @@ Deze workshop werd op 8 april 2025 opgenomen en bevatte Ross Barton en Lindsay L
 
 Samen met de opnamen op aanvraag hebben we de diapresentatie en de tips die in de chat zijn gedeeld, opgenomen:  
 
-* [ Deck PDF van de Schuifregelaar ](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/040825+-+Crowdsource+Challenge+with+Project+Templates.pdf)
-* [ Experience League Community Post ](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-workfront-crowdsource-challenge-project/td-p/747512)
+* [&#x200B; Deck PDF van de Schuifregelaar &#x200B;](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/040825+-+Crowdsource+Challenge+with+Project+Templates.pdf)
+* [&#x200B; Experience League Community Post &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-workfront-crowdsource-challenge-project/td-p/747512)
 
 ## Tips
 
@@ -39,4 +39,4 @@ Samen met de opnamen op aanvraag hebben we de diapresentatie en de tips die in d
 
 Een van de grootste thema&#39;s die we tijdens de chat zagen, was de uitdaging om projectsjablonen eenvoudig te houden, maar tegelijkertijd de inspanningen te volgen en ervoor te zorgen dat teams alle stappen uitvoeren die nodig zijn om het project te voltooien.  
 
- We hopen u te zien in toekomstige workshops over succes bij de klant!  Ben zeker om de [ Gebeurtenissen van Workfront ](https://experienceleague.adobe.com/events/?lang=nl-NL&filters=Workfront) op Experience League voor de volledige lijst te controleren en te registreren.
+ We hopen u te zien in toekomstige workshops over succes bij de klant!  Ben zeker om de [&#x200B; Gebeurtenissen van Workfront &#x200B;](https://experienceleague.adobe.com/events/?lang=nl-NL&filters=Workfront) op Experience League voor de volledige lijst te controleren en te registreren.

@@ -27,5 +27,5 @@ Gegevensverzameling is van groot belang voor de Adobe! U moet de gegevens kunnen
 
 Bekijk de video hierboven om deze live streamgebeurtenis te bekijken, waar experts op het gebied van gegevensverzameling Adoben een overzicht gaven van belangrijke recente updates en een glimp opnamen van komende roadmap-items.
 
-Heb je daar vragen over? Ga verder de bespreking over dit onderwerp op de Adobe Experience League [ Communautaire post ](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-launch/experience-league-live-post-session-discussion-data-collection/m-p/569923#M316).
+Heb je daar vragen over? Ga verder de bespreking over dit onderwerp op de Adobe Experience League [&#x200B; Communautaire post &#x200B;](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-launch/experience-league-live-post-session-discussion-data-collection/m-p/569923#M316).
 

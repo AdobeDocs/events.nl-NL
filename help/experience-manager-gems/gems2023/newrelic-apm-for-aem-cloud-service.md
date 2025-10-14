@@ -50,6 +50,6 @@ Ontdek het proces voor toegang tot New Relic, een functie die standaard bij AEM 
 
 >[!NOTE]
 >
->* Voor zitting specifieke communautaire interactie over Experience League gelieve onze [ contextuele draad ](https://adobe.ly/3sV67N5) te bezoeken.
+>* Voor zitting specifieke communautaire interactie over Experience League gelieve onze [&#x200B; contextuele draad &#x200B;](https://adobe.ly/3sV67N5) te bezoeken.
 >
->* Om berichten betreffende onze aanstaande webinars te ontvangen, gelieve te registreren bij [ Adobe de Gebruikersgroep van AEM ](https://aem-augs.adobe.com/).
+>* Om berichten betreffende onze aanstaande webinars te ontvangen, gelieve te registreren bij [&#x200B; Adobe de Gebruikersgroep van AEM &#x200B;](https://aem-augs.adobe.com/).

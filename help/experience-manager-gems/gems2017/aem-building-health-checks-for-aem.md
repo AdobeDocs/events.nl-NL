@@ -28,8 +28,8 @@ Het is niet eenvoudig om te bepalen of een AEM-instantie gezond is. Deze sessie 
 
 >[!WARNING]
 >
->AEM versies 6.4 en ouder zijn End of Life en worden niet meer door de Adobe verkocht.  De Adobe adviseert bevordering aan de recentste versie - [ Adobe Experience Manager as a Cloud Service ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=nl-NL).  De gearchiveerde versies van de documentatie kunnen van deze [ pagina ](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=nl-NL) worden betreden.
+>AEM versies 6.4 en ouder zijn End of Life en worden niet meer door de Adobe verkocht.  De Adobe adviseert bevordering aan de recentste versie - [&#x200B; Adobe Experience Manager as a Cloud Service &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=nl-NL).  De gearchiveerde versies van de documentatie kunnen van deze [&#x200B; pagina &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=nl-NL) worden betreden.
 
 ## Verwante koppelingen {#related-links}
 
-* [ het Verdelen Documentatie ](https://sling.apache.org/documentation/bundles/sling-health-check-tool.html)
+* [&#x200B; het Verdelen Documentatie &#x200B;](https://sling.apache.org/documentation/bundles/sling-health-check-tool.html)

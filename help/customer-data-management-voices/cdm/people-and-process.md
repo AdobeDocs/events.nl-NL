@@ -25,5 +25,5 @@ Leer hoe u optimaal kunt profiteren van uw CDP door te investeren in de mensen e
 ## Aanvullende informatie
 
 * [Stroomlijnen van uw eerste module voor gegevensbeheer](first-mile.md)
-* [ die de Rol van de Markering als Gegevens verheft ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/elevating-the-marketers-role-as-a-data-steward.html?lang=nl-NL)
-* [ 10 overwegingen voor het Verantwoordelijke Beheer van de Gegevens van de Klant ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html?lang=nl-NL)
+* [&#x200B; die de Rol van de Markering als Gegevens verheft &#x200B;](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/elevating-the-marketers-role-as-a-data-steward.html?lang=nl-NL)
+* [&#x200B; 10 overwegingen voor het Verantwoordelijke Beheer van de Gegevens van de Klant &#x200B;](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html?lang=nl-NL)

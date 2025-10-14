@@ -29,7 +29,7 @@ Meer informatie over de door Adobe beheerde CDN in AEM Cloud Service en over de 
 
 *Opgenomen op 22 Januari, 2025*
 
-Heb je een vraag, misschien een opmerking?  Sluit me aan bij de bespreking in de [ Gemeenschappen van Experience League ](https://adobe.ly/4haufPK)!
+Heb je een vraag, misschien een opmerking?  Sluit me aan bij de bespreking in de [&#x200B; Gemeenschappen van Experience League &#x200B;](https://adobe.ly/4haufPK)!
 
 ## Toetsen
 

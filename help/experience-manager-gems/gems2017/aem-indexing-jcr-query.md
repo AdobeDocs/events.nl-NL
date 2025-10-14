@@ -35,13 +35,13 @@ Documentatie AEM
 
 >[!WARNING]
 >
->AEM versies 6.4 en ouder zijn End of Life en worden niet meer door de Adobe verkocht.  De Adobe adviseert bevordering aan de recentste versie - [ Adobe Experience Manager as a Cloud Service ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=nl-NL).  De gearchiveerde versies van de documentatie kunnen van deze [ pagina ](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=nl-NL) worden betreden.
+>AEM versies 6.4 en ouder zijn End of Life en worden niet meer door de Adobe verkocht.  De Adobe adviseert bevordering aan de recentste versie - [&#x200B; Adobe Experience Manager as a Cloud Service &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=nl-NL).  De gearchiveerde versies van de documentatie kunnen van deze [&#x200B; pagina &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=nl-NL) worden betreden.
 >
 >Aangezien het op deze zitting betrekking heeft gelieve te zien {de Vragen van Oak van 0} en het Indexeren *en* Beste praktijken voor Vragen en het Indexeren *in AEM 6.3 documentatie.*
 
 Oak-documentatie
 
-* [ Vraag en Indexen van Oak ](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/deploying/queries-and-indexing.html?lang=nl-NL)
+* [&#x200B; Vraag en Indexen van Oak &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/deploying/queries-and-indexing.html?lang=nl-NL)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/nl/experience-manager/kt/eseminars/gems/aem-index.html)
@@ -49,9 +49,9 @@ Oak-documentatie
 
 >[!MORELIKETHIS]
 >
->* [ AEM het Indexeren en Vraag JCR ](aem-indexing-jcr-query.md)
->* [ het Oplossen van problemen AEM Replicatie ](aem-troubleshooting-aem-replication.md)
->* [ het Oplossen van problemen die de Distributie van de Inhoud plaatsen ](aem-troubleshooting-sling.md)
+>* [&#x200B; AEM het Indexeren en Vraag JCR &#x200B;](aem-indexing-jcr-query.md)
+>* [&#x200B; het Oplossen van problemen AEM Replicatie &#x200B;](aem-troubleshooting-aem-replication.md)
+>* [&#x200B; het Oplossen van problemen die de Distributie van de Inhoud plaatsen &#x200B;](aem-troubleshooting-sling.md)
 <!-- 
 >* linking to helpx, removed for now [Adobe Experience Manager: AEM 6.x Maintenance Tasks](https://helpx.adobe.com/experience-manager/kt/eseminars/ccoo-aem-Aug-register.html)
 -->

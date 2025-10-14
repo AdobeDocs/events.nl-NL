@@ -51,7 +51,7 @@ _vraag een Deskundige_ uit twee zittingen wordt samengesteld:
 
 >[!TIP]
 >
->Als u aan Commerce Intelligence nieuw bent, [ Begonnen het krijgen videoreeks ](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/introduction/1-overview.html?lang=nl-NL) verstrekt een volledig overzicht voor het drijven van betere bedrijfsinzichten en resultaten door gegevenssamenvoeging, analyse, en visualisatie.
+>Als u aan Commerce Intelligence nieuw bent, [&#x200B; Begonnen het krijgen videoreeks &#x200B;](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/introduction/1-overview.html?lang=nl-NL) verstrekt een volledig overzicht voor het drijven van betere bedrijfsinzichten en resultaten door gegevenssamenvoeging, analyse, en visualisatie.
 
-- [ Inleiding van Commerce Intelligence ](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/getting-started.html?lang=nl-NL)
-- [ de Steun van Commerce Intelligence ](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html?lang=nl-NL)
+- [&#x200B; Inleiding van Commerce Intelligence &#x200B;](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/getting-started.html?lang=nl-NL)
+- [&#x200B; de Steun van Commerce Intelligence &#x200B;](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html?lang=nl-NL)

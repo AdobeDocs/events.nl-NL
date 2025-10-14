@@ -35,8 +35,8 @@ Sarah Xu, Ontwikkelgoeroe, Adobe
 
 >[!MORELIKETHIS]
 >
->* [ Solr als index van Oak voor AEM ](solr-as-an-oak-index-for-aem.md)
->* [ ontgrendelend krachtigere activa Analytics met AEM 6.4 ](https://helpx.adobe.com/experience-manager/kt/eseminars/experience-insider/exp-asset-analytics-64.html)
+>* [&#x200B; Solr als index van Oak voor AEM &#x200B;](solr-as-an-oak-index-for-aem.md)
+>* [&#x200B; ontgrendelend krachtigere activa Analytics met AEM 6.4 &#x200B;](https://helpx.adobe.com/experience-manager/kt/eseminars/experience-insider/exp-asset-analytics-64.html)
 
 <!-- this link is broken: >* [Getting the most out of digital interactions with AEM and Analytics](https://helpx.adobe.com/experience-manager/kt/eseminars/ask-the-expert/aem-getting-the-most-out-of-digital-interactions-with-aem-and-analytics.html) 
 -->

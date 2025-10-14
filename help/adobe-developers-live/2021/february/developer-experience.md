@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Sluit u aan bij Jonathan Roeder, Director of Developer Experience for Experience Cloud, voor meer informatie over de nieuwste updates voor ontwikkelaars in Adobe Experience Cloud.
 
-Ga het gesprek in **[Gemeenschappen van het Experience League ](https://adobe.ly/36Yd3v6)** voort.
+Ga het gesprek in **[Gemeenschappen van het Experience League &#x200B;](https://adobe.ly/36Yd3v6)** voort.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331770/?quality=12&learn=on&hidetitle=true)
 

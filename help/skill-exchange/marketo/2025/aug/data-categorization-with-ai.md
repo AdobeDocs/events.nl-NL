@@ -41,7 +41,7 @@ U leert over,
 
 ## Aanvullende bronnen
 
-* [ Fijne AI modellen voor Marketo Engage ](https://nation.marketo.com/t5/champion-program-blogs/fine-tuned-ai-models-for-marketo/ba-p/357019)
-* [ Gids van het Begin van het Snel Begin van de Webhaak ](https://nation.marketo.com/t5/champion-program-blogs/webhook-quick-start-guide/ba-p/345717#M2640)
-* [ Integrating ChatGPT met Marketo Engage ](https://nation.marketo.com/t5/champion-program-blogs/integrating-chatgpt-with-marketo/ba-p/346886)
-* [ Zelfbediening Gids van de Stappen van de Stroom ](https://nation.marketo.com/t5/champion-program-blogs/self-service-flow-steps-guide/ba-p/357008)
+* [&#x200B; Fijne AI modellen voor Marketo Engage &#x200B;](https://nation.marketo.com/t5/champion-program-blogs/fine-tuned-ai-models-for-marketo/ba-p/357019)
+* [&#x200B; Gids van het Begin van het Snel Begin van de Webhaak &#x200B;](https://nation.marketo.com/t5/champion-program-blogs/webhook-quick-start-guide/ba-p/345717#M2640)
+* [&#x200B; Integrating ChatGPT met Marketo Engage &#x200B;](https://nation.marketo.com/t5/champion-program-blogs/integrating-chatgpt-with-marketo/ba-p/346886)
+* [&#x200B; Zelfbediening Gids van de Stappen van de Stroom &#x200B;](https://nation.marketo.com/t5/champion-program-blogs/self-service-flow-steps-guide/ba-p/357008)

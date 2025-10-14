@@ -31,6 +31,6 @@ Dit webinar werd uitgevoerd op 25 januari 2022 en gepresenteerd door Bertrand de
 
 >[!MORELIKETHIS]
 >
->* [ Overeenkomende pagina van de Gebeurtenis van de Gebruikersgroep van Adobe Experience Manager ](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager-blogs/aem-gems-adobe-experience-manager-aem-as-a-cloud-service-2021/ba-p/437266)
->* [ Overeenkomende contextuele draad ](https://adobe.ly/3rqbSOz)
->* Gelieve te registreren bij [ Adobe de Gebruikersgroep van AEM ](https://aem-augs.adobe.com/) om over aanstaande webinars op de hoogte te worden gebracht.
+>* [&#x200B; Overeenkomende pagina van de Gebeurtenis van de Gebruikersgroep van Adobe Experience Manager &#x200B;](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager-blogs/aem-gems-adobe-experience-manager-aem-as-a-cloud-service-2021/ba-p/437266)
+>* [&#x200B; Overeenkomende contextuele draad &#x200B;](https://adobe.ly/3rqbSOz)
+>* Gelieve te registreren bij [&#x200B; Adobe de Gebruikersgroep van AEM &#x200B;](https://aem-augs.adobe.com/) om over aanstaande webinars op de hoogte te worden gebracht.

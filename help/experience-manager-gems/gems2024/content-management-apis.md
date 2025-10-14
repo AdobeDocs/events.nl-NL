@@ -38,7 +38,7 @@ In deze sessie ontdekt u:
 
 >[!VIDEO](https://video.tv.adobe.com/v/3435036/?learn=on)
 
-Heb je een vraag, misschien een opmerking?  Sluit me aan bij de bespreking in de [ Gemeenschappen van Experience League ](https://adobe.ly/4e34grR)!
+Heb je een vraag, misschien een opmerking?  Sluit me aan bij de bespreking in de [&#x200B; Gemeenschappen van Experience League &#x200B;](https://adobe.ly/4e34grR)!
 
 ## Toetsen
 
@@ -64,4 +64,4 @@ Heb je een vraag, misschien een opmerking?  Sluit me aan bij de bespreking in de
 
 ## Blijf op de hoogte!
 
-Om berichten over onze aanstaande webinars te ontvangen, gelieve te registreren bij [ Adobe de Groep van de Gebruiker van AEM ](https://aem-augs.adobe.com/).
+Om berichten over onze aanstaande webinars te ontvangen, gelieve te registreren bij [&#x200B; Adobe de Groep van de Gebruiker van AEM &#x200B;](https://aem-augs.adobe.com/).

@@ -22,12 +22,12 @@ ht-degree: 6%
 
 De Adobe Developer Console is de gateway naar Adobe API&#39;s, Events, Runtime en App Builder. Sluit u aan bij ons voor een overzicht van de beschikbare diensten en instrumenten in het kader van het ecosysteem van Adobe Developer.
 
-Ga het gesprek in **[Gemeenschappen van Experience League ](https://adobe.ly/2Y2DDld)** voort.
+Ga het gesprek in **[Gemeenschappen van Experience League &#x200B;](https://adobe.ly/2Y2DDld)** voort.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337771/?quality=12&learn=on&hidetitle=true)
 
 ## Aanvullende bronnen
 
-- [ Documentatie van Adobe Experience Platform ](https://experienceleague.adobe.com/docs/experience-platform.html?lang=nl-NL)
-- [ het Overzicht van Adobe Experience Platform ](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=nl-NL)
+- [&#x200B; Documentatie van Adobe Experience Platform &#x200B;](https://experienceleague.adobe.com/docs/experience-platform.html?lang=nl-NL)
+- [&#x200B; het Overzicht van Adobe Experience Platform &#x200B;](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=nl-NL)
 - [Tutorials voor Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=nl)

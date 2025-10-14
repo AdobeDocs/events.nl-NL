@@ -41,6 +41,6 @@ RDEs staat ontwikkelaars toe om veranderingen snel op te stellen en te herzien, 
 
 >[!NOTE]
 >
->* Voor zitting specifieke communautaire interactie over Experience League gelieve te bezoeken de respectieve [ Contextuele Draad ](https://adobe.ly/3M8MFTE).
+>* Voor zitting specifieke communautaire interactie over Experience League gelieve te bezoeken de respectieve [&#x200B; Contextuele Draad &#x200B;](https://adobe.ly/3M8MFTE).
 >
->* Om berichten over onze aanstaande webinars te ontvangen, gelieve te registreren bij [ Adobe de Groep van de Gebruiker van AEM ](https://aem-augs.adobe.com/).
+>* Om berichten over onze aanstaande webinars te ontvangen, gelieve te registreren bij [&#x200B; Adobe de Groep van de Gebruiker van AEM &#x200B;](https://aem-augs.adobe.com/).

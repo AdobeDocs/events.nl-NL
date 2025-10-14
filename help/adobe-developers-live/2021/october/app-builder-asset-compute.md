@@ -22,12 +22,12 @@ ht-degree: 0%
 
 Adobe Experience Manager als Asset Compute-microservices van Cloud Service ondersteunen de ontwikkeling en implementatie van aangepaste workers die aangepaste asset-uitvoeringen genereren. Naast het benutten van de &#39;out-of-the-box&#39;-inhoudsautomatisering voor de productie van bedrijfsmiddelen op schaal, kunnen ontwikkelaars ook hun eigen &#39;asset compute workers&#39; maken met behulp van Photoshop API&#39;s voor meer aangepaste gebruiksgevallen. In deze sessie zullen we alle stappen doorlopen om een worker voor middelenverwerking te ontwikkelen met App Builder SDK&#39;s en Photoshop API&#39;s om aangepaste uitvoeringen van middelen te automatiseren.
 
-Ga het gesprek in **[Gemeenschappen van Experience League ](https://adobe.ly/3F6f5sG)** voort.
+Ga het gesprek in **[Gemeenschappen van Experience League &#x200B;](https://adobe.ly/3F6f5sG)** voort.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337769/?quality=12&learn=on&hidetitle=true)
 
 ## Aanvullende bronnen
 
-- [ Documentatie van Adobe Experience Manager ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=nl-NL)
-- [ Adobe Experience Manager Cloud Service Overzicht ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html?lang=nl-NL)
-- [ Zelfstudies van Adobe Experience Manager ](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html?lang=nl-NL)
+- [&#x200B; Documentatie van Adobe Experience Manager &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=nl-NL)
+- [&#x200B; Adobe Experience Manager Cloud Service Overzicht &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html?lang=nl-NL)
+- [&#x200B; Zelfstudies van Adobe Experience Manager &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html?lang=nl-NL)

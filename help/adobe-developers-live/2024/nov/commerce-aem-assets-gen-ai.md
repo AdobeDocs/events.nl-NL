@@ -26,7 +26,7 @@ Ontdek hoe Ankush Malhotra, Sr. Computer Scientist bij Adobe, en Pablo Moreno, S
 
 ## Communautaire discussie
 
-Ga verder het gesprek in de Gemeenschap van Adobe Developers Live [ bespreking ](https://adobe.ly/40CS6CP).
+Ga verder het gesprek in de Gemeenschap van Adobe Developers Live [&#x200B; bespreking &#x200B;](https://adobe.ly/40CS6CP).
 
 ## Toetsen
 

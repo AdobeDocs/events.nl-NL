@@ -30,11 +30,11 @@ Dominique Pfister, Senior Computer Scientist, Adobe
 
 ## Bronnen {#resources}
 
-[ Meer op het Geheime voorgeheugen van Dispatcher ](https://github.com/cqsupport/webinar-dispatchercache)
+[&#x200B; Meer op het Geheime voorgeheugen van Dispatcher &#x200B;](https://github.com/cqsupport/webinar-dispatchercache)
 
-[ het Vermijden JSONP met Flash Rosetta ](https://miki.it/blog/2014/7/8/abusing-jsonp-with-rosetta-flash/)
+[&#x200B; het Vermijden JSONP met Flash Rosetta &#x200B;](https://miki.it/blog/2014/7/8/abusing-jsonp-with-rosetta-flash/)
 
-[ Meer Info ](https://adobe-consulting-services.github.io/acs-aem-commons/features/dispatcher-ttl/index.html)
+[&#x200B; Meer Info &#x200B;](https://adobe-consulting-services.github.io/acs-aem-commons/features/dispatcher-ttl/index.html)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/nl/experience-manager/kt/eseminars/gems/aem-index.html)

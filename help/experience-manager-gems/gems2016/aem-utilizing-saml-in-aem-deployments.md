@@ -31,8 +31,8 @@ Sluit zich aan bij Sham Hassan Chikkegowda, CS Engineer, en Timothe Maret, Senio
 
 ## Verwante koppelingen {#related-links}
 
-* [ SAML 2.0 de Handler van de Authentificatie ](https://docs.adobe.com/docs/en/aem/6-2/administer/security/saml-2-0-authenticationhandler.html)
-* [[SAMLProf] Profielen voor SAML V2.0 (OASIS Security Assertion Markup Language) ](https://docs.oasis-open.org/security/saml/v2.0/saml-profiles-2.0-os.pdf)
-* [[SAMLBind] Bindingen voor de Taal van de Prijsverhoging van de Veiligheid van de Veiligheid van OASIS (SAML) V2.0 ](https://docs.oasis-open.org/security/saml/v2.0/saml-bindings-2.0-os.pdf)
-* [ [SAMLTech] de Taal van de Prijsverhoging van de Veiligheid (SAML) V2.0 Technisch Overzicht ](https://www.oasis-open.org/committees/download.php/27819/sstc-saml-tech-overview-2.0-cd-02.pdf)
-* [ SAML V2.0 Uitvoerend Overzicht ](https://www.oasis-open.org/committees/download.php/13525/sstc-saml-exec-overview-2.0-cd-01-2col.pdf)
+* [&#x200B; SAML 2.0 de Handler van de Authentificatie &#x200B;](https://docs.adobe.com/docs/en/aem/6-2/administer/security/saml-2-0-authenticationhandler.html)
+* [[SAMLProf] Profielen voor SAML V2.0 (OASIS Security Assertion Markup Language) &#x200B;](https://docs.oasis-open.org/security/saml/v2.0/saml-profiles-2.0-os.pdf)
+* [[SAMLBind] Bindingen voor de Taal van de Prijsverhoging van de Veiligheid van de Veiligheid van OASIS (SAML) V2.0 &#x200B;](https://docs.oasis-open.org/security/saml/v2.0/saml-bindings-2.0-os.pdf)
+* [&#x200B; [SAMLTech] de Taal van de Prijsverhoging van de Veiligheid (SAML) V2.0 Technisch Overzicht &#x200B;](https://www.oasis-open.org/committees/download.php/27819/sstc-saml-tech-overview-2.0-cd-02.pdf)
+* [&#x200B; SAML V2.0 Uitvoerend Overzicht &#x200B;](https://www.oasis-open.org/committees/download.php/13525/sstc-saml-exec-overview-2.0-cd-01-2col.pdf)

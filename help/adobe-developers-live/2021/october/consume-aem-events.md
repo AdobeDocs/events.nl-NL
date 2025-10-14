@@ -22,12 +22,12 @@ ht-degree: 3%
 
 Leer WAAROM het een goed idee is om gebeurtenis-gedreven toepassingen te bouwen en hoe wij hen met gemak kunnen bouwen gebruikend App Builder. Deze sessie heeft betrekking op: alles wat u moet weten om gebeurtenisgestuurde toepassingen te maken die reageren op gebeurtenissen van Adobe Products. Live demo over het maken van een App Builder-toepassing die reageert op Adobe Experience Manager Events. Inleiding tot App Builder-componenten - Adobe I/O Events en I/O-runtime. Laten we klaar zijn om een aantrekkelijke klantervaring te leveren!
 
-Ga het gesprek in **[Gemeenschappen van Experience League ](https://adobe.ly/3ipjs8p)** voort.
+Ga het gesprek in **[Gemeenschappen van Experience League &#x200B;](https://adobe.ly/3ipjs8p)** voort.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337566/?quality=12&learn=on&hidetitle=true)
 
 ## Aanvullende bronnen
 
-- [ Documentatie van Adobe Experience Platform ](https://experienceleague.adobe.com/docs/experience-platform.html?lang=nl-NL)
-- [ het Overzicht van Adobe Experience Platform ](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=nl-NL)
+- [&#x200B; Documentatie van Adobe Experience Platform &#x200B;](https://experienceleague.adobe.com/docs/experience-platform.html?lang=nl-NL)
+- [&#x200B; het Overzicht van Adobe Experience Platform &#x200B;](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=nl-NL)
 - [Tutorials voor Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=nl)

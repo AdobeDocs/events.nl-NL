@@ -33,8 +33,8 @@ Welkom terug bij Expert Insights!  Ik ben Cynthia Boon, uw &quot;On-Demand&quo
 
 ## Bronnen
 
-* [ Hoogste Gevallen van het Gebruik van de Klant ](https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/Top+Customer+Use+Cases.png) 
-* [ die de Looptijd van de Praktijken van het Beheer van het Werk ](https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/Assessing+the+Maturity+of+Work+Management+Practices.png) beoordelen 
+* [&#x200B; Hoogste Gevallen van het Gebruik van de Klant &#x200B;](https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/Top+Customer+Use+Cases.png) 
+* [&#x200B; die de Looptijd van de Praktijken van het Beheer van het Werk &#x200B;](https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/Assessing+the+Maturity+of+Work+Management+Practices.png) beoordelen 
 
 ## Over de spreker
 
@@ -42,5 +42,5 @@ Danielle is een Manager van het Succes van de Klant die veelvoudige klanten heef
 
 ## Heb je iets te delen?
 
-Hebt u een geweldig verhaal om te delen, tijdens een gebeurtenis of in een video van Expert Insights? Gelieve te bereiken uit aan ons team in [ CSatScale@adobe.com ](mailto:CSatScale@adobe.com).
+Hebt u een geweldig verhaal om te delen, tijdens een gebeurtenis of in een video van Expert Insights? Gelieve te bereiken uit aan ons team in [&#x200B; CSatScale@adobe.com &#x200B;](mailto:CSatScale@adobe.com).
 

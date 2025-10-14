@@ -25,6 +25,6 @@ ht-degree: 0%
 
 Amol Anand en Darin Kuntze verkennen in deze diepe duik sessie van Adobe Developers Live de innovatieve Edge Delivery Services in Adobe Experience Manager (AEM) en de nieuwste in Document-based Authoring. Opgenomen op 6 november 2023 bespreken ze hoe deze tools het maken van content revolutionair maken, het sneller en eenvoudiger maken, en hoe ze betrokkenheid en conversie kunnen stimuleren met continue optimalisatie. Deze sessie is ideaal voor ontwikkelaars die hun webontwikkelingsstrategieën willen verbeteren met behulp van AEM GraphQL API en andere flexibele tools.
 
-Ga het gesprek in [ Gemeenschappen van het Experience League ](https://adobe.ly/46KMTsh) voort.
+Ga het gesprek in [&#x200B; Gemeenschappen van het Experience League &#x200B;](https://adobe.ly/46KMTsh) voort.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425622/?learn=on)

@@ -24,8 +24,8 @@ Deze interactieve workshop van 1 uur werd op 7 mei 2025 vastgelegd en bevatte ee
 
 Samen met de opnamen op aanvraag hebben we de diapresentatie en de tips die in de chat zijn gedeeld, opgenomen: 
 
-* [ Deck PDF van de Schuifregelaar ](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Mastering+Email+Notifications+in+Adobe+Workfront+050725.pdf)
-* [ Experience League Community Post ](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-mastering-email-notifications-in-adobe-workfront/td-p/752745)
+* [&#x200B; Deck PDF van de Schuifregelaar &#x200B;](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Mastering+Email+Notifications+in+Adobe+Workfront+050725.pdf)
+* [&#x200B; Experience League Community Post &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-mastering-email-notifications-in-adobe-workfront/td-p/752745)
 
 Hier volgt een kort overzicht van de tips die in de chat werden gedeeld: 
 
@@ -36,4 +36,4 @@ Hier volgt een kort overzicht van de tips die in de chat werden gedeeld: 
 * Als gebruikers geen (e-mailberichten) ontvangen, kunt u zich altijd aanmelden zoals ze kunnen bevestigen dat de melding in hun profiel is ingeschakeld. Neem ook contact op met de klantenondersteuning als u vast komt te zitten!   
 * U kunt overwegen de e-mails die aan statuswijzigingen zijn gekoppeld, uit te schakelen. Veroorzaakt dit meer ruis dan informatieve actie?  
 
-We hopen u te zien in toekomstige workshops over succes bij de klant!  Ben zeker om de [ Gebeurtenissen van Workfront ](https://experienceleague.adobe.com/events/?lang=nl-NL&filters=Workfront) op Experience League voor de volledige lijst te controleren en te registreren.
+We hopen u te zien in toekomstige workshops over succes bij de klant!  Ben zeker om de [&#x200B; Gebeurtenissen van Workfront &#x200B;](https://experienceleague.adobe.com/events/?lang=nl-NL&filters=Workfront) op Experience League voor de volledige lijst te controleren en te registreren.

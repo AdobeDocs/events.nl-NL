@@ -27,7 +27,7 @@ Leer hoe het cloud-native gebeurtenissysteem van Adobe Experience Manager workfl
 
 ## Communautaire discussie
 
-Ga verder het gesprek in de Gemeenschap van Adobe Developers Live [ bespreking ](https://adobe.ly/3YMhKU9).
+Ga verder het gesprek in de Gemeenschap van Adobe Developers Live [&#x200B; bespreking &#x200B;](https://adobe.ly/3YMhKU9).
 
 ## Toetsen
 

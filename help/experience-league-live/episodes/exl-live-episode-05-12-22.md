@@ -22,9 +22,9 @@ Met pushberichten bereikt u op elk gewenst moment gebruikers van uw mobiele app,
 
 >[!VIDEO](https://video.tv.adobe.com/v/342810/?quality=12&learn=on)
 
-[ Download iOS AEPSampleAPP ](https://github.com/adobe/aepsdk-sample-app-ios)
+[&#x200B; Download iOS AEPSampleAPP &#x200B;](https://github.com/adobe/aepsdk-sample-app-ios)
 
-[ Download Android AEPSampleAPP ](https://github.com/adobe/aepsdk-sample-app-android)
+[&#x200B; Download Android AEPSampleAPP &#x200B;](https://github.com/adobe/aepsdk-sample-app-android)
 
-Om het gesprek over deze zitting voort te zetten, gelieve de [ communautaire post van het Experience League ](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-push/td-p/451869) te bezoeken.
+Om het gesprek over deze zitting voort te zetten, gelieve de [&#x200B; communautaire post van het Experience League &#x200B;](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-push/td-p/451869) te bezoeken.
 

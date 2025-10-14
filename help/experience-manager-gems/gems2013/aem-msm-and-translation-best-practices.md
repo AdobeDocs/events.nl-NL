@@ -29,6 +29,6 @@ De oorspronkelijke inhoud van deze GEM-zitting vanaf 2013 is vervangen. De infor
 
 Lees in plaats daarvan meer over Best Practices in de documentatie van Adobe Experience Manager:
 
-* [ Multisite Beste praktijken van het Beheer ](https://docs.adobe.com/docs/en/aem/6-1/administer/sites/msm/msm-bp.html)
+* [&#x200B; Multisite Beste praktijken van het Beheer &#x200B;](https://docs.adobe.com/docs/en/aem/6-1/administer/sites/msm/msm-bp.html)
 * [&#128279;](https://docs.adobe.com/docs/en/aem/6-1/administer/sites/translation/tc-bp.html) Beste praktijken van de Vertaling 0&rbrace;
-* [ krijg terug naar het Overzicht ](https://helpx.adobe.com/nl/experience-manager/kt/eseminars/gems/aem-index.html)
+* [&#x200B; krijg terug naar het Overzicht &#x200B;](https://helpx.adobe.com/nl/experience-manager/kt/eseminars/gems/aem-index.html)

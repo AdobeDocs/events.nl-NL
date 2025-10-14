@@ -27,19 +27,19 @@ Welkom terug bij Expert Insights!  Ik ben Cynthia Boon, uw &quot;On-Demand&quot;
 
 ## Heb je hulp nodig!
 
-Zoals Ewan in de video opmerkte, werkt hij aan een handleiding voor beste praktijken voor Fusion, en hij zou graag van u horen!  Als u Fusion gebruikt om uw processen te steunen, gelieve uw advies, aanbevelingen, en uiteinden in de [ Communautaire Post van Experience League ](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-february-2024-workfront-expert-insights-fusion-with-ewan/td-p/657114) te delen, en hij zal proberen om zoveel mogelijk te omvatten!
+Zoals Ewan in de video opmerkte, werkt hij aan een handleiding voor beste praktijken voor Fusion, en hij zou graag van u horen!  Als u Fusion gebruikt om uw processen te steunen, gelieve uw advies, aanbevelingen, en uiteinden in de [&#x200B; Communautaire Post van Experience League &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-february-2024-workfront-expert-insights-fusion-with-ewan/td-p/657114) te delen, en hij zal proberen om zoveel mogelijk te omvatten!
 
 ## Advies
 
 * Fusie is een visuele weergave van uw processen. Documentatie is uw vriend! Bespreek documentatie, sparen de details van hoe u uw processen bouwt.  Nog beter, video zelf loopt er doorheen!
 * Meet de inspanning en de uren van uw herhaalde werk
-* De calculator van Adobe Workfront ROI die Ewan vermeldde is in bijlage aan [ Communautaire Post van Experience League ](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-february-2024-workfront-expert-insights-fusion-with-ewan/td-p/657114).
+* De calculator van Adobe Workfront ROI die Ewan vermeldde is in bijlage aan [&#x200B; Communautaire Post van Experience League &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-february-2024-workfront-expert-insights-fusion-with-ewan/td-p/657114).
 * Met Fusion kunt u uw interfunctionele uitdagingen oplossen, tijd (en geld) besparen en fouten voorkomen.
 
 ## Bronnen
 
-* [ Lijst van Beschikbare Malplaatjes van de Fusie ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/scenarios-in-fusion/fusion-scenario-templates/currently-available-fusion-templates.html?lang=nl-NL)
-* [ de videooverzichten van de Fusie van Adobe Workfront ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/get-started-with-workfront-fusion/fusion-basics-videos.html?lang=nl-NL)
+* [&#x200B; Lijst van Beschikbare Malplaatjes van de Fusie &#x200B;](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/scenarios-in-fusion/fusion-scenario-templates/currently-available-fusion-templates.html?lang=nl-NL)
+* [&#x200B; de videooverzichten van de Fusie van Adobe Workfront &#x200B;](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/get-started-with-workfront-fusion/fusion-basics-videos.html?lang=nl-NL)
 
 ## Over de spreker
 
@@ -47,4 +47,4 @@ Ewan is een Senior Customer Success Architect die elk jaar met 100 klanten van A
 
 ## Heb je iets te delen?
 
-Hebt u een geweldig verhaal om te delen, tijdens een gebeurtenis of in een video van Expert Insights? Gelieve te bereiken uit aan ons team in [ CSatScale@adobe.com ](mailto:CSatScale@adobe.com).
+Hebt u een geweldig verhaal om te delen, tijdens een gebeurtenis of in een video van Expert Insights? Gelieve te bereiken uit aan ons team in [&#x200B; CSatScale@adobe.com &#x200B;](mailto:CSatScale@adobe.com).

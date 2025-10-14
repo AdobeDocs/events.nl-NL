@@ -26,7 +26,7 @@ Met meer dan 200 projecten van Edge Delivery Services voltooid, delen Kiran Muru
 
 ## Communautaire discussie
 
-Ga verder het gesprek in de Gemeenschap van Adobe Developers Live [ bespreking ](https://adobe.ly/4fwWvvi).
+Ga verder het gesprek in de Gemeenschap van Adobe Developers Live [&#x200B; bespreking &#x200B;](https://adobe.ly/4fwWvvi).
 
 ## Toetsen
 

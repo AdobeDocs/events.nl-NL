@@ -33,14 +33,14 @@ Timoth Maret, Senior Developer, Adobe
 
 >[!WARNING]
 >
->AEM versies 6.4 en ouder zijn End of Life en worden niet meer door de Adobe verkocht.  De Adobe adviseert bevordering aan de recentste versie - [ Adobe Experience Manager as a Cloud Service ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=nl-NL).  De gearchiveerde versies van de documentatie kunnen van deze [ pagina ](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=nl-NL) worden betreden.
+>AEM versies 6.4 en ouder zijn End of Life en worden niet meer door de Adobe verkocht.  De Adobe adviseert bevordering aan de recentste versie - [&#x200B; Adobe Experience Manager as a Cloud Service &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=nl-NL).  De gearchiveerde versies van de documentatie kunnen van deze [&#x200B; pagina &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=nl-NL) worden betreden.
 >
 >Aangezien het op deze zitting betrekking heeft gelieve te zien *Synchronisatie van de Gebruiker* in de documentatie van de AEM.
 
-* [ Apache het Verdelen van Inhoud Distributie ](https://sling.apache.org/documentation/bundles/content-distribution.html)
-* [ krijg terug naar het Overzicht ](https://helpx.adobe.com/nl/experience-manager/kt/eseminars/gems/aem-index.html)
+* [&#x200B; Apache het Verdelen van Inhoud Distributie &#x200B;](https://sling.apache.org/documentation/bundles/content-distribution.html)
+* [&#x200B; krijg terug naar het Overzicht &#x200B;](https://helpx.adobe.com/nl/experience-manager/kt/eseminars/gems/aem-index.html)
 
 >[!MORELIKETHIS]
 >
->* [ AEM het Indexeren en Vraag JCR ](aem-indexing-jcr-query.md)
->* [ het Oplossen van problemen die de Distributie van de Inhoud plaatsen ](aem-troubleshooting-sling.md)
+>* [&#x200B; AEM het Indexeren en Vraag JCR &#x200B;](aem-indexing-jcr-query.md)
+>* [&#x200B; het Oplossen van problemen die de Distributie van de Inhoud plaatsen &#x200B;](aem-troubleshooting-sling.md)

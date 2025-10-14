@@ -36,6 +36,6 @@ Presenter-dia&#39;s - Deel 2
 
 ## Verwante koppelingen {#related-links}
 
-* [ Apache die Gebeurtenis en Jobhandling ](https://sling.apache.org/documentation/bundles/apache-sling-eventing-and-job-handling.html)
-* [ Ontdekking API en zijn implementaties ](https://sling.apache.org/documentation/bundles/discovery-api-and-impl.html)
-* [ het Offloaden van Banen ](https://docs.adobe.com/docs/en/cq/current/deploying/offloading.html)
+* [&#x200B; Apache die Gebeurtenis en Jobhandling &#x200B;](https://sling.apache.org/documentation/bundles/apache-sling-eventing-and-job-handling.html)
+* [&#x200B; Ontdekking API en zijn implementaties &#x200B;](https://sling.apache.org/documentation/bundles/discovery-api-and-impl.html)
+* [&#x200B; het Offloaden van Banen &#x200B;](https://docs.adobe.com/docs/en/cq/current/deploying/offloading.html)

@@ -26,7 +26,7 @@ Ontdek basisarchitectuur om personalisatie en AI in Adobe Experience Manager Edg
 
 ## Communautaire discussie
 
-Ga verder het gesprek in de Gemeenschap van Adobe Developers Live [ bespreking ](https://adobe.ly/3Z0PtJF).
+Ga verder het gesprek in de Gemeenschap van Adobe Developers Live [&#x200B; bespreking &#x200B;](https://adobe.ly/3Z0PtJF).
 
 ## Key Takeaways
 

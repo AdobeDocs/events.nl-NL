@@ -31,7 +31,7 @@ De zitting begeleidt u door manieren om AEM gebruikersinterface uit te breiden 6
 
 ## Verwante koppelingen {#related-links}
 
-* [ Aanraakgevoelige Concepten UI ](https://docs.adobe.com/docs/en/aem/6-0/develop/the-basics/touch-ui-concepts.html)
-* [ Structuur ](https://docs.adobe.com/docs/en/aem/6-0/develop/the-basics/touch-ui-structure.html)
-* [ het Aanpassen van de Consoles (aanraking-geoptimaliseerde UI) ](https://docs.adobe.com/docs/en/aem/6-0/develop/extending/customizing-consoles-touch.html)
-* [ het Aanpassen van de Authoring van de Pagina (aanraking-geoptimaliseerde UI) ](https://docs.adobe.com/docs/en/aem/6-0/develop/extending/customizing-page-authoring-touch.html)
+* [&#x200B; Aanraakgevoelige Concepten UI &#x200B;](https://docs.adobe.com/docs/en/aem/6-0/develop/the-basics/touch-ui-concepts.html)
+* [&#x200B; Structuur &#x200B;](https://docs.adobe.com/docs/en/aem/6-0/develop/the-basics/touch-ui-structure.html)
+* [&#x200B; het Aanpassen van de Consoles (aanraking-geoptimaliseerde UI) &#x200B;](https://docs.adobe.com/docs/en/aem/6-0/develop/extending/customizing-consoles-touch.html)
+* [&#x200B; het Aanpassen van de Authoring van de Pagina (aanraking-geoptimaliseerde UI) &#x200B;](https://docs.adobe.com/docs/en/aem/6-0/develop/extending/customizing-page-authoring-touch.html)

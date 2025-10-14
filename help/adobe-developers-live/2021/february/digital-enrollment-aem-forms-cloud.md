@@ -24,7 +24,7 @@ ht-degree: 0%
 
 Deze sessie richt zich op de reis van Forms van on-premise naar cloud. Het zal ook de mogelijkheid van het gebruik van digitale inschrijvingen door middel van demo&#39;s omvatten.
 
-Ga het gesprek in **[Gemeenschappen van Experience League ](https://adobe.ly/36Yd3v6)** voort.
+Ga het gesprek in **[Gemeenschappen van Experience League &#x200B;](https://adobe.ly/36Yd3v6)** voort.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332305/?quality=12&learn=on&hidetitle=true)
 

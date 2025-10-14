@@ -27,5 +27,5 @@ Als u de moderne hulpmiddelen van de gegevensinzameling van Adobe nieuw bent en 
 
 Start de bovenstaande video om een replay van deze live streamgebeurtenis weer te geven.
 
-Heb je daar vragen over? Ga verder de bespreking over dit onderwerp op de Adobe Experience League [ Communautaire post ](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-data/experience-league-live-post-session-discussion-get-data/m-p/589754#M476).
+Heb je daar vragen over? Ga verder de bespreking over dit onderwerp op de Adobe Experience League [&#x200B; Communautaire post &#x200B;](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-data/experience-league-live-post-session-discussion-get-data/m-p/589754#M476).
 

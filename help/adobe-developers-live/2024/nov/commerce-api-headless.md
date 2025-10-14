@@ -26,7 +26,7 @@ Leer hoe Revanth Kumar, software engineer bij Adobe, API Mesh gebruikt om API&#3
 
 ## Communautaire discussie
 
-Ga verder het gesprek in de Gemeenschap van Adobe Developers Live [ bespreking ](https://adobe.ly/40IDxO9).
+Ga verder het gesprek in de Gemeenschap van Adobe Developers Live [&#x200B; bespreking &#x200B;](https://adobe.ly/40IDxO9).
 
 ## Key Takeaways
 

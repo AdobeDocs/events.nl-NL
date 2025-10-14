@@ -29,14 +29,14 @@ Welkom terug bij een nieuw interview met Expert Insights, dit keer met advies ov
 ## Bronnen
 
 Natalie deelde haar favoriete Agile-bronnen tijdens het interview, zoals beloofd, en we hebben enkele korte links naar de onderstaande boeken weergegeven:
-* [ Lean Product Playbook ](https://leanproductplaybook.com/)
-* [ het Beheersen van de Marketingbehendigheid ](https://masteringmarketingagility.com/)
+* [&#x200B; Lean Product Playbook &#x200B;](https://leanproductplaybook.com/)
+* [&#x200B; het Beheersen van de Marketingbehendigheid &#x200B;](https://masteringmarketingagility.com/)
 
 Op zoek naar eenvoudige manieren om aan de slag te gaan? Bekijk deze artikelen en korte videodemo&#39;s:
 
-* [ vroege eigenschapopt-in voor de Boden van Adobe Workfront ](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/boards-early-feature-opt-in.html?lang=nl-NL)
-* [ creeer of geef een raad uit - omvat beschrijvingen van elk malplaatje van Borden ](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/create-edit-board.html?lang=nl-NL)
-* [ Boards van Adobe Workfront - korte videodemonstraties ](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/boards-video-demonstrations.html?lang=nl-NL)
+* [&#x200B; vroege eigenschapopt-in voor de Boden van Adobe Workfront &#x200B;](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/boards-early-feature-opt-in.html?lang=nl-NL)
+* [&#x200B; creeer of geef een raad uit - omvat beschrijvingen van elk malplaatje van Borden &#x200B;](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/create-edit-board.html?lang=nl-NL)
+* [&#x200B; Boards van Adobe Workfront - korte videodemonstraties &#x200B;](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/boards-video-demonstrations.html?lang=nl-NL)
 
 ## Over de spreker
 
@@ -44,4 +44,4 @@ Natalie Mitchell is Group Product Manager met Adobe Workfront. Ze is het afgelo
 
 ## Heb je iets te delen?
 
-Hebt u een geweldig verhaal om te delen, tijdens een gebeurtenis of in een video van Expert Insights? Gelieve te bereiken uit aan ons team in [ CSatScale@adobe.com ](mailto:CSatScale@adobe.com).
+Hebt u een geweldig verhaal om te delen, tijdens een gebeurtenis of in een video van Expert Insights? Gelieve te bereiken uit aan ons team in [&#x200B; CSatScale@adobe.com &#x200B;](mailto:CSatScale@adobe.com).

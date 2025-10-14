@@ -24,7 +24,7 @@ ht-degree: 0%
 
 Hoe nieuwe mechanismen in de Adobe Experience Manager Dev Console authentificatie aan instanties van Adobe Experience Manager in de Cloud, zowel als ontwikkelaar als van derdetoepassingen toestaan.
 
-Ga het gesprek in **[Gemeenschappen van Experience League ](https://adobe.ly/36Yd3v6)** voort.
+Ga het gesprek in **[Gemeenschappen van Experience League &#x200B;](https://adobe.ly/36Yd3v6)** voort.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331768/?quality=12&learn=on&hidetitle=true)
 

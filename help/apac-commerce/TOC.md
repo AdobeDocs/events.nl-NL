@@ -37,11 +37,11 @@ ht-degree: 4%
    + [7 manieren om een eCommerce-bedrijf organisch te kweken](2024/grow-ecommerce-business.md)
 + 2023 {#2023}
    + [PERSONALIZATION met AI-mogelijkheden](2023/ai-personalisation.md)
-   + [ Adobe Commerce de Wolk van de PAGAS ](2023/adobes-paas-cloud-commerce.md)
+   + [&#x200B; Adobe Commerce de Wolk van de PAGAS &#x200B;](2023/adobes-paas-cloud-commerce.md)
    + [De omzettingen van de elektronische handel bevorderen](2023/ecommerce-conversions.md)
    + [Samengestelde handelsstrategieën](2023/composable-commerce.md)
    + [Marktplaatsen als een groeifactor](2023/marketplaces.md)
-   + [ de Voorbereiding van de Seizoen van het Hoogtepunt ](2023/peak-season-prep.md)
+   + [&#x200B; de Voorbereiding van de Seizoen van het Hoogtepunt &#x200B;](2023/peak-season-prep.md)
 + 2022 {#2022}
    + [Gereedheid van feestdagen 2022](2022/holiday.md)
    + [New Relic Masterclass](2022/new-relic.md)

@@ -31,6 +31,6 @@ Duiken voorbereiden in,
 * Aanbevolen werkwijzen voor het optimaliseren van uw stijlsystemen
 *Een geleidelijke demonstratie van het opstellen van veranderingen UI efficiënt gebruikend de front-end pijpleiding
 
-U kunt tot de presentatiedia&#39;s [ hier ](/help/learn-from-your-peers/assets/experience-manager/sept2023/aem-core-components.pdf) toegang hebben.
+U kunt tot de presentatiedia&#39;s [&#x200B; hier &#x200B;](/help/learn-from-your-peers/assets/experience-manager/sept2023/aem-core-components.pdf) toegang hebben.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425841/?learn=on)

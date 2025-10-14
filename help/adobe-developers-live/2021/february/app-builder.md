@@ -23,7 +23,7 @@ ht-degree: 0%
 
 Wil je meer Adobe Developer App Builder-ontwikkelaars horen? Doe mee en zie App Builder in actie: code, beveiliging, headfull en headless apps, CI/CD en meer.
 
-Ga het gesprek in **[Gemeenschappen van Experience League ](https://adobe.ly/36Yd3v6)** voort.
+Ga het gesprek in **[Gemeenschappen van Experience League &#x200B;](https://adobe.ly/36Yd3v6)** voort.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331741/?quality=12&learn=on&hidetitle=true)
 

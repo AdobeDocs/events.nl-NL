@@ -25,7 +25,7 @@ ht-degree: 0%
 
 Begrijp de gebeurtenisgestuurde API van ACDL. Een voorbeeld van Commerce zal tonen hoe de Componenten van de Kern het en de uitbreiding van de Lancering met AA en AT hydrateren.
 
-Ga het gesprek in **[Gemeenschappen van Experience League ](https://adobe.ly/36Yd3v6)** voort.
+Ga het gesprek in **[Gemeenschappen van Experience League &#x200B;](https://adobe.ly/36Yd3v6)** voort.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331733/?quality=12&learn=on&hidetitle=true)
 

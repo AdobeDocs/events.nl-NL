@@ -22,12 +22,12 @@ ht-degree: 0%
 
 Adobe Experience Manager Content &amp; Commerce die de Commerce integration framework (CIF) gebruikt, bieden een flexibele architectuur om Adobe Experience Manager te verbinden met Adobe Commerce of een andere handelsoplossing - commercieel versus thuisontwikkeld. App Builder en GraphQL spelen een essentiële rol voor Adobe Experience Manager Content &amp; Commerce en de CIF. In deze talk worden de integratie- en uitbreidingspatronen van Adobe Experience Manager Commerce met App Builder besproken. Het benadrukt de verschillende integratiepatronen waar App Builder als middleware kan dienen en uw handelsoplossing met Adobe Experience Manager verbinden. We zullen laten zien hoe App Builder kan worden gebruikt om handelsgegevens en -transacties aan Adobe Experience Manager Commerce te leveren.
 
-Ga het gesprek in **[Gemeenschappen van Experience League ](https://adobe.ly/3om4942)** voort.
+Ga het gesprek in **[Gemeenschappen van Experience League &#x200B;](https://adobe.ly/3om4942)** voort.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337567/?quality=12&learn=on&hidetitle=true)
 
 ## Aanvullende bronnen
 
-- [ Documentatie van Adobe Experience Manager ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=nl-NL)
-- [ Adobe Experience Manager Cloud Service Overzicht ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html?lang=nl-NL)
-- [ Zelfstudies van Adobe Experience Manager ](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html?lang=nl-NL)
+- [&#x200B; Documentatie van Adobe Experience Manager &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=nl-NL)
+- [&#x200B; Adobe Experience Manager Cloud Service Overzicht &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html?lang=nl-NL)
+- [&#x200B; Zelfstudies van Adobe Experience Manager &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html?lang=nl-NL)
