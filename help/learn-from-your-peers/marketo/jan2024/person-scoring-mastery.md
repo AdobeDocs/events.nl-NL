@@ -38,5 +38,5 @@ In dit webinar leert u:
 * Persoon/Lood die met Lokale Uitoefeningen van de Invloed scoort - [&#x200B; aantekenvel van de Download &#x200B;](../../assets/marketo/build-scoring-model-and-local-flexibility-scoring-worksheet.docx){target="_blank"}
 * De Grote Lijst van het Schrappen van Lood Regels - [&#x200B; aantekenvel van de Mening &#x200B;](https://go.marketo.com/rs/561-HYG-937/images/Marketo-Lead-Scoring.pdf){target="_blank"}
 * De Bibliotheek van de Invoer van het Programma van Marketo Engage - [&#x200B; Documentatie &#x200B;](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.html?lang=nl-NL){target="_blank"}
-* Lood die alles om over het Proces vóór, tijdens, en na - [&#x200B; op bestelling Webinar &#x200B;](https://business.adobe.com/summit/2020/all-about-the-before-during-and-after-of-lead-scoring.html){target="_blank"} noteren
+* Lood die alles om over het Proces vóór, tijdens, en na - [&#x200B; op bestelling Webinar &#x200B;](https://business.adobe.com/nl/summit/2020/all-about-the-before-during-and-after-of-lead-scoring.html){target="_blank"} noteren
 * Het nemen van Champion op lood het scoren - [&#x200B; Blog &#x200B;](https://nation.marketo.com/t5/product-blogs/marketo-success-series-lead-scoring/ba-p/309849){target="_blank"}
