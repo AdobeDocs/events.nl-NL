@@ -30,6 +30,6 @@ Of je nu een groeimarkator, productmanager of optimalisatiestrategen bent, kijk 
 
 *Adobe Journey Optimizer Experimentation Accelerator integreert naadloos met Adobe Target en Journey Optimizer.*
 
-[![ ExL LIVE Jan 17 2024 ](/help/experience-league-live/assets/exl-live-episode-10-30-25-web-banner-v2.png) ](https://engage.adobe.com/ExpLeagueLive-251030.html)
+[![&#x200B; ExL LIVE Jan 17 2024 &#x200B;](/help/experience-league-live/assets/exl-live-episode-10-30-25-web-banner-v2.png) &#x200B;](https://engage.adobe.com/ExpLeagueLive-251030.html)
 
-[ Register nu!](https://engage.adobe.com/ExpLeagueLive-251030.html)
+[&#x200B; Register nu!](https://engage.adobe.com/ExpLeagueLive-251030.html)
