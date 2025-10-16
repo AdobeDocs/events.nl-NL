@@ -24,6 +24,6 @@ Neem in deze sessie deel aan het productteam achter Experience Platform Agent Or
 * Hoe Agent Orchestrator deskundige agenten organiseert om meetbare resultaten te leveren en gebruiksgevallen van begin tot eind te steunen
 * Hoe Agent Orchestrator het vertrouwen, de transparantie, de veiligheid, en de gidsen verstrekt die de merken vereisen om de oplossingen van AI met vertrouwen goed te keuren
 
-[![ ExL LIVE Jan 17 2024 ](assets/WebBanner-v2-Oct22-2025.jpg) ](https://engage.adobe.com/ExpLeagueLive-251022.html)
+[![&#x200B; ExL LIVE Jan 17 2024 &#x200B;](assets/WebBanner-v2-Oct22-2025.jpg) &#x200B;](https://engage.adobe.com/ExpLeagueLive-251022.html)
 
-[ Register nu!](https://engage.adobe.com/ExpLeagueLive-251022.html)
+[&#x200B; Register nu!](https://engage.adobe.com/ExpLeagueLive-251022.html)
