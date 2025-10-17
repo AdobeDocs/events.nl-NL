@@ -25,7 +25,7 @@ Of u nu op het optimaliseren van de ervaringen van klanten, het uitbreiden van u
 
 >[!TIP]
 >
-> Probeer het zelf - [ Teken omhoog om tot een demomilieu ](https://business.adobe.com/resources/customer-journey-analytics-b2b-edition-sandbox.html) toegang te hebben.
-> > U kunt het gesprek voortzetten en de de deskundigenvragen van Adobe in het **[communautaire forum ](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-unlock-the-power-of-customer-journey/td-p/780513#) stellen**.
+> Probeer het zelf - [&#x200B; Teken omhoog om tot een demomilieu &#x200B;](https://business.adobe.com/resources/customer-journey-analytics-b2b-edition-sandbox.html) toegang te hebben.
+> &#x200B;> U kunt het gesprek voortzetten en de de deskundigenvragen van Adobe in het **[communautaire forum &#x200B;](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-unlock-the-power-of-customer-journey/td-p/780513#) stellen**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3476010/?learn=on&enablevpops)
