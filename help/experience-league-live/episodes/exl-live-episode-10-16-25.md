@@ -8,9 +8,9 @@ event-cta-url-live: https://youtube.com/live/kiJfaedHSVw
 event-start-time: 2025-10-16 09:00-7
 event-guests: Doug Moore, Kari Olson, Caitlin Baunach
 exl-id: 7d497f07-0dfd-4501-8fc2-bbac213603ec
-source-git-commit: 048b2cbe3ed5e6027217e56a2b2369bcb7920bb2
+source-git-commit: 07ee9ab45d67312420d19800611e3a183b0a144c
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '188'
 ht-degree: 0%
 
 ---
@@ -23,6 +23,9 @@ In deze hands-on Experience League Live-sessie krijgt u toegang tot een live dem
 
 Of u nu op het optimaliseren van de ervaringen van klanten, het uitbreiden van uw verkooppijplijn of het aansturen van een meetbare groei tijdens de reis van de koper bent, deze sessie zal u van de hulpmiddelen en strategieën voorzien om gegevens voor uw bedrijf moeilijker te maken.
 
-[![&#x200B; ExL LIVE okt 16 2025 &#x200B;](../assets/exl-live-episode-10-16-25-web-banner.png) &#x200B;](https://engage.adobe.com/ExpLeagueLive-251016.html)
+>[!TIP]
+>
+> Probeer het zelf - [ Teken omhoog om tot een demomilieu ](https://business.adobe.com/resources/customer-journey-analytics-b2b-edition-sandbox.html) toegang te hebben.
+> > U kunt het gesprek voortzetten en de de deskundigenvragen van Adobe in het **[communautaire forum ](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-unlock-the-power-of-customer-journey/td-p/780513#) stellen**.
 
-[&#x200B; REGISTER NU!](https://engage.adobe.com/ExpLeagueLive-251016.html)
+>[!VIDEO](https://video.tv.adobe.com/v/3476010/?learn=on&enablevpops)
