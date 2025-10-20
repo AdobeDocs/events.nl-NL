@@ -36,7 +36,7 @@ Ontdek hoe toonaangevende teams hun bronnenplanning stroomlijnen door gebruik te
 * **Automatisering in de Handmatige processen van de Actie** voor het volgen van PTO en middeltoewijzing leidt vaak tot fouten en inefficiënties. Automatisering zorgt voor een brug tussen deze tussenruimten.
 * **Zeer belangrijke Uitdagingen** de Teams kregen kwesties met PTO zicht, goedkeuringswerkschema&#39;s, en onjuist overtroffen middeltoewijzing, die deadlines en teamsaldo beïnvloeden.
 * **de rijen van het verzoek van de Vernieuwende Oplossingen** de rijen, de geautomatiseerde berichten, en de gebieden van de douanetoewijzing werden uitgevoerd om toezicht en flexibiliteit te verbeteren.
-* **Collaboration van de Betrokkenheid van 0} Stakeholder en creatief probleem-oplossen waren cruciaal voor het maken van oplossingen aan teambehoeften.**
+* **Collaboration van de Betrokkenheid van 0&rbrace; Stakeholder en creatief probleem-oplossen waren cruciaal voor het maken van oplossingen aan teambehoeften.**
 
 Door automatisering in te bouwen, worden niet alleen de handmatige inspanningen verminderd, maar kunnen teams ook middelen effectiever beheren en zich aanpassen aan de veranderende projectbehoeften.
 
