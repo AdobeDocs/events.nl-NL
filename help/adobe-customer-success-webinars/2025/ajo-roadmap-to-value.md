@@ -27,9 +27,9 @@ In onze openingssessie van de reeks onderzoeken we waarom een strategie om gebru
 Voor de implementatie van Adobe Journey Optimizer (AJO) is een gedisciplineerd, op samenwerking gericht proces vereist:
 
 * **Verzamel van de 30** Ideatie  interfunctionele teams aan brainstorm moet-hebben en inspirerende gebruiksgevallen, die hen in kaart brengen aan werknemer en klantenreizen.
-* **Gebruik het zes-vraag kader van het Kader van het 1} Gebruik Adobe om elk gebruik te kwalificeren case-definiërend doelstellingen, persona&#39;s, werkschema&#39;s, technologie, en KPIs.**
+* **Gebruik het zes-vraag kader van het Kader van het 1&rbrace; Gebruik Adobe om elk gebruik te kwalificeren case-definiërend doelstellingen, persona&#39;s, werkschema&#39;s, technologie, en KPIs.**
 * **Prioritization** Rang gebruiksgevallen door waarde en inspanning, die zich eerst op hoog-effect, laag-inspanningswins concentreren.
-* **de Afbeelding van de Capaciteit 1} richt rollout met beschikbare en noodzakelijke mogelijkheden AGO, die evenwichtige ontwikkeling verzekeren.**
+* **de Afbeelding van de Capaciteit 1&rbrace; richt rollout met beschikbare en noodzakelijke mogelijkheden AGO, die evenwichtige ontwikkeling verzekeren.**
 * **Ononderbroken Verbetering** Monitor, optimaliseer, en pas gebruiksgevallen aan die op resultaten en terugkoppelen worden gebaseerd.
 
 Deze stappen zorgen ervoor dat elk initiatief tastbare bedrijfswaarde oplevert en het succes op lange termijn ondersteunt.
