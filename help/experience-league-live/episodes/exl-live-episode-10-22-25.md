@@ -7,9 +7,9 @@ feature: AI Assistant
 event-cta-url-live: https://youtube.com/live/WS_DzRmYNzw
 event-start-time: 2025-10-22 08:30-7
 event-guests: Daniel Wright, Namita Krishnan, Huong Vu, Cole Connelly
-source-git-commit: 3caa917efc2e6e093ba4550e2d41794df9347144
+source-git-commit: 452ea2a3b351af2ecfcd6f78a7d524cb3b00dcef
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '186'
 ht-degree: 7%
 
 ---
@@ -18,12 +18,10 @@ ht-degree: 7%
 
 Adobe Experience Platform Agent Orchestrator is de nieuwe laag op agentbasis in Adobe Experience Platform. Experience Platform Agent Orchestrator is ontworpen om de rijke gegevens en de kennis van klanten van het platform te benutten, en maakt de intelligentie en redenering achter speciaal opgebouwde Adobe Experience Platform Agents in staat om complexe besluitvormings- en probleemoplossende taken op snelheid en schaal uit te voeren - allemaal met menselijk toezicht. Via een conversatie-interface zoals AI Assistant kunnen gebruikers deze agents en andere AI-componenten gebruiken om grotere productiviteits- en efficiëntiewinsten te realiseren.
 
-Neem in deze sessie deel aan het productteam achter Experience Platform Agent Orchestrator terwijl we op zoek zijn naar:
+In deze sessie verkent het productteam achter Experience Platform Agent Orchestrator:
 
 * Een overzicht van Agent Orchestrator en de meest recente updates
 * Hoe Agent Orchestrator deskundige agenten organiseert om meetbare resultaten te leveren en gebruiksgevallen van begin tot eind te steunen
 * Hoe Agent Orchestrator het vertrouwen, de transparantie, de veiligheid, en de gidsen verstrekt die de merken vereisen om de oplossingen van AI met vertrouwen goed te keuren
 
-[![&#x200B; ExL LIVE Jan 17 2024 &#x200B;](assets/WebBanner-v2-Oct22-2025.jpg) &#x200B;](https://engage.adobe.com/ExpLeagueLive-251022.html)
-
-[&#x200B; Register nu!](https://engage.adobe.com/ExpLeagueLive-251022.html)
+>[!VIDEO](https://video.tv.adobe.com/v/3476153/?learn=on&enablevpops)
