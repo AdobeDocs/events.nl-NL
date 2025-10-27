@@ -7,10 +7,10 @@ feature: AI Assistant
 event-cta-url-live: https://youtube.com/live/WS_DzRmYNzw
 event-start-time: 2025-10-22 08:30-7
 event-guests: Daniel Wright, Namita Krishnan, Huong Vu, Cole Connelly
-source-git-commit: 452ea2a3b351af2ecfcd6f78a7d524cb3b00dcef
+source-git-commit: f88fa329951a93f53cbbf47e55d51f02d1fc5877
 workflow-type: tm+mt
-source-wordcount: '186'
-ht-degree: 7%
+source-wordcount: '274'
+ht-degree: 5%
 
 ---
 
@@ -25,3 +25,7 @@ In deze sessie verkent het productteam achter Experience Platform Agent Orchestr
 * Hoe Agent Orchestrator het vertrouwen, de transparantie, de veiligheid, en de gidsen verstrekt die de merken vereisen om de oplossingen van AI met vertrouwen goed te keuren
 
 >[!VIDEO](https://video.tv.adobe.com/v/3476153/?learn=on&enablevpops)
+
+Word lid van ons voor de [ Gemeenschap van Adobe Journey Optimizer vraagt me om het even wat!](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/ask-me-anything-november-12th-with-journey-optimizer-product/ev-p/783252) op woensdag 12 november van 8.00 - 9.00 uur PT. We worden bijgestaan door Adobe Journey Optimizer-experts: Cole Connelly (@coleconnelly) - Sr Product Manager, Huong Vu (@HuongVu) - Product Marketing Manager, Namita Krishnan (@Namita_Krishnan) - Product Manager, Brent Kostak (@bkostak) - Sr Product Marketing Manager, David Arbor (@user0347 4) - Sr Research Scientist, Justin Grover (@justin_grover) - Principal Product Manager, Sandra Hausmann (@SHausmann) - Sr Technical Marketing Engineer en Daniel Wright (@dwright) - Sr Technical Marketing Engineer.
+
+We beantwoorden je vragen tijdens deze live chat.
