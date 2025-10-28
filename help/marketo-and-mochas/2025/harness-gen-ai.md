@@ -38,7 +38,7 @@ AI is de snelle omvorming van B2B marketing, die een verschuiving naar slimmere,
 * **Urgentie voor Verandering** de tellers onder druk staan om meer campagnes te leveren, sneller, met grotere verpersoonlijking en efficiency.
 * **Evolutie van Technologie** De industrie beweegt zich van CRM digitalisering (B2B 1.0) en lood automatisering (B2B 2.0) aan volledige levenscyclusdigitalisering en AI-gedreven orkest (B2B 3.0).
 * **Verantwoordelijke AI** Adobe benadrukt ethisch gebruik AI, met transparantie, verantwoordingsplicht, en een specifieke overzichtsraad.
-* **Nieuwe agentische mogelijkheden van AI van 0} {in Adobe Experience Platform en Marketo Engage automatiseren taken, verwijderen knelpunten, en laten in real time, intent-gedreven interactie toe.**
+* **Nieuwe agentische mogelijkheden van AI van 0&rbrace; &lbrace;in Adobe Experience Platform en Marketo Engage automatiseren taken, verwijderen knelpunten, en laten in real time, intent-gedreven interactie toe.**
 
 Als u deze trends begrijpt, kunnen organisaties hun concurrentiepositie behouden en het volledige potentieel van AI bij het op de markt brengen ontsluiten.
 

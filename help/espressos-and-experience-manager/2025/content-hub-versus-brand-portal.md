@@ -33,7 +33,7 @@ DAM (Digital Asset Management) evolueert en Adobe Content Hub biedt een gestroom
 
 * **Gecentraliseerde &amp; Scalable** Content Hub verstrekt één enkele bron van waarheid voor activa, eliminerend duplicaten en het steunen van groei.
 * **AI-Aangedreven &amp; Verbonden** Geautomatiseerde meta-gegevens, geavanceerd onderzoek, en integratie met andere systemen verbeteren productiviteit.
-* **de Flexibele toestemmingen van 0} Beheer &amp; van de Toegang verzekeren de juiste gebruikers aangewezen toegang hebben, ondersteunend diverse teams.**
+* **de Flexibele toestemmingen van 0&rbrace; Beheer &amp; van de Toegang verzekeren de juiste gebruikers aangewezen toegang hebben, ondersteunend diverse teams.**
 * **Migratie Gemaakt Eenvoudige** Transitioning van Brand Portal is ongecompliceerd, met technische steun en nieuwe eigenschappen zoals op attribuut-gebaseerde toegangsbeheer en het verbeterde delen.
 
 Met een goed begrip van deze mogelijkheden kunnen teams de distributie en samenwerking van bedrijfsmiddelen optimaliseren, waardoor de weg wordt vrijgemaakt voor snellere activering van inhoud en een beter investeringsrendement.
