@@ -3,9 +3,9 @@ title: Commerce en koffie
 description: De Adobe Commerce- en Coffee-reeks richt zich op Commerce-strategieën en -tactieken, ondersteund door statistieken die het gebeurtenisonderwerp weerspiegelen.
 exl-id: fba820f3-55cf-4cf5-bb0f-6b19870264db
 duration: 81
-source-git-commit: a6dc33c7c991f949fd72539525e64af57520778f
+source-git-commit: 52bd6d5a06799c79ac84b9e4827011f89c6471df
 workflow-type: tm+mt
-source-wordcount: '786'
+source-wordcount: '833'
 ht-degree: 0%
 
 ---
@@ -18,17 +18,41 @@ De Commerce &amp; Coffee-reeks is bedoeld voor bestaande Adobe Commerce-klanten 
 ## 2025 Gebeurtenissen
 
 <!-- CARDS
+* 2025/peak-season.md
 * 2025/seo-growth.md
 * 2025/self-service-b2b.md
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Commerce & Coffee - Preparing for Peak Season">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="2025/peak-season.md" title="Commerce en koffie - Voorbereiden op piekseizoen" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476272/?format=jpeg&nocache=1761686864871" alt="Commerce en koffie - Voorbereiden op piekseizoen"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="2025/peak-season.md" target="_blank" rel="referrer" title="Commerce en koffie - Voorbereiden op piekseizoen"> Commerce &amp; Koffie - Voorbereidend voor de Zak van de Hoogte </a>
+                    </p>
+                    <p class="is-size-6">Ontdek strategieën om uw handelservaring met Adobe Commerce te schalen, aan te passen en te optimaliseren — met B2B-, SaaS-gereedschappen, zoek- en postpiekanalysemogelijkheden.</p>
+                </div>
+                <a href="2025/peak-season.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Leer meer </span>
+                </a>
+            </div>
+        </div>
+    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Commerce & Coffee - Driving Growth with SEO">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/seo-growth.md" title="Commerce en koffie - Groei stimuleren met SEO" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3459039/?format=jpeg&nocache=1749738512514" alt="Commerce en koffie - Groei stimuleren met SEO"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3459039/?format=jpeg&nocache=1761686864897" alt="Commerce en koffie - Groei stimuleren met SEO"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -38,7 +62,7 @@ De Commerce &amp; Coffee-reeks is bedoeld voor bestaande Adobe Commerce-klanten 
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="2025/seo-growth.md" target="_blank" rel="referrer" title="Commerce en koffie - Groei stimuleren met SEO"> Commerce &amp; Koffie - drijvende Groei met SEO </a>
                     </p>
-                    <p class="is-size-6">In deze sessie verkennen Corey Gelato en Agbi Bajrushi SEO-typen, belangrijke beginselen en Adobe Commerce-gereedschappen, zoals Meta Fields, Page Builder en de beste werkwijzen van de media voor eCommerce.</p>
+                    <p class="is-size-6">In deze sessie verkennen Corey Gelato en Agbi Bajrushi SEO-typen, belangrijke beginselen en Adobe Commerce-gereedschappen, zoals Meta Fields, Page Builder en de beste praktijken voor eCommerce in de media.</p>
                 </div>
                 <a href="2025/seo-growth.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Leer meer </span>
@@ -51,7 +75,7 @@ De Commerce &amp; Coffee-reeks is bedoeld voor bestaande Adobe Commerce-klanten 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/self-service-b2b.md" title="Commerce &amp; Koffie - De verhoging van Zelfbediening in B2B" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3451619/?format=jpeg&nocache=1749738512499" alt="Commerce &amp; Koffie - De verhoging van Zelfbediening in B2B"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3451619/?format=jpeg&nocache=1761686864885" alt="Commerce &amp; Koffie - De verhoging van Zelfbediening in B2B"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -88,7 +112,7 @@ De Commerce &amp; Coffee-reeks is bedoeld voor bestaande Adobe Commerce-klanten 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/ask-me-anything.md" title="Mij vragen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3437034/?format=jpeg&nocache=1749738513506" alt="Mij vragen"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3437034/?format=jpeg&nocache=1761686865599" alt="Mij vragen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -111,7 +135,7 @@ De Commerce &amp; Coffee-reeks is bedoeld voor bestaande Adobe Commerce-klanten 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/commerce-and-coffee-strategies-for-b2b-ecommerce.md" title="Commerce- en Coffee-strategieën voor eCommerce via B2B" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432604/?format=jpeg&nocache=1749738513489" alt="Commerce- en Coffee-strategieën voor eCommerce via B2B"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432604/?format=jpeg&nocache=1761686865588" alt="Commerce- en Coffee-strategieën voor eCommerce via B2B"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -134,7 +158,7 @@ De Commerce &amp; Coffee-reeks is bedoeld voor bestaande Adobe Commerce-klanten 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/ecommerce-essentials.md" title="Commerce &amp; koffie - Mastering Ecommerce Essentials" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429437/?format=jpeg&nocache=1749738513520" alt="Commerce &amp; koffie - Mastering Ecommerce Essentials"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429437/?format=jpeg&nocache=1761686865591" alt="Commerce &amp; koffie - Mastering Ecommerce Essentials"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -157,7 +181,7 @@ De Commerce &amp; Coffee-reeks is bedoeld voor bestaande Adobe Commerce-klanten 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/peak-season-prep.md" title="Commerce en koffie - Voorbereiding van piekseizoen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434700/?format=jpeg&nocache=1749738513544" alt="Commerce en koffie - Voorbereiding van piekseizoen"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434700/?format=jpeg&nocache=1761686865609" alt="Commerce en koffie - Voorbereiding van piekseizoen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -180,7 +204,7 @@ De Commerce &amp; Coffee-reeks is bedoeld voor bestaande Adobe Commerce-klanten 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/personalize-ecommerce.md" title="Commerce en koffie - Ervaringen op het gebied van e-commerce personaliseren met AI" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427493/?format=jpeg&nocache=1749738513533" alt="Commerce en koffie - Ervaringen op het gebied van e-commerce personaliseren met AI"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427493/?format=jpeg&nocache=1761686865595" alt="Commerce en koffie - Ervaringen op het gebied van e-commerce personaliseren met AI"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -217,7 +241,7 @@ De Commerce &amp; Coffee-reeks is bedoeld voor bestaande Adobe Commerce-klanten 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2023/ask-me-anything.md" title="Mij vragen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3425651/?format=jpeg&nocache=1749738513895" alt="Mij vragen"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3425651/?format=jpeg&nocache=1761686866222" alt="Mij vragen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -240,7 +264,7 @@ De Commerce &amp; Coffee-reeks is bedoeld voor bestaande Adobe Commerce-klanten 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2023/b2b.md" title="B2B-succes inschakelen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3421687/?format=jpeg&nocache=1749738513923" alt="B2B-succes inschakelen"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3421687/?format=jpeg&nocache=1761686866226" alt="B2B-succes inschakelen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -263,7 +287,7 @@ De Commerce &amp; Coffee-reeks is bedoeld voor bestaande Adobe Commerce-klanten 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2023/loyalty-retention.md" title="7 Manieren om klantenservice en -retentie te bouwen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3419686/?format=jpeg&nocache=1749738513949" alt="7 Manieren om klantenservice en -retentie te bouwen"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3419686/?format=jpeg&nocache=1761686866234" alt="7 Manieren om klantenservice en -retentie te bouwen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -286,7 +310,7 @@ De Commerce &amp; Coffee-reeks is bedoeld voor bestaande Adobe Commerce-klanten 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2023/organic-growth.md" title="Commerce en koffie - Organische groei" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3416128/?format=jpeg&nocache=1749738513935" alt="Commerce en koffie - Organische groei"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3416128/?format=jpeg&nocache=1761686866237" alt="Commerce en koffie - Organische groei"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -309,7 +333,7 @@ De Commerce &amp; Coffee-reeks is bedoeld voor bestaande Adobe Commerce-klanten 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2023/peak-season-prep.md" title="Voorbereiding piek seizoen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3424390/?format=jpeg&nocache=1749738513909" alt="Voorbereiding piek seizoen"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3424390/?format=jpeg&nocache=1761686866230" alt="Voorbereiding piek seizoen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -336,11 +360,11 @@ De Commerce &amp; Coffee-reeks is bedoeld voor bestaande Adobe Commerce-klanten 
 <table>
 <tr>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/analysis-tool.html?lang=nl-NL">
+    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/analysis-tool.html">
       <img alt="Adobe Commerce Site Wide Analysis Tool" src="./assets/analysis-tool.png" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/analysis-tool.html?lang=nl-NL">
+      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/analysis-tool.html">
         <strong>Adobe Commerce Site Wide Analysis Tool</strong>
       </a>
     </div>
@@ -349,11 +373,11 @@ De Commerce &amp; Coffee-reeks is bedoeld voor bestaande Adobe Commerce-klanten 
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/new-relic.html?lang=nl-NL">
+    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/new-relic.html">
       <img alt="New Relic Masterclass" src="./assets/new-relic.png" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/new-relic.html?lang=nl-NL">
+      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/new-relic.html">
         <strong>New Relic Masterclass</strong>
       </a>
     </div>
@@ -362,11 +386,11 @@ De Commerce &amp; Coffee-reeks is bedoeld voor bestaande Adobe Commerce-klanten 
     <p>
   </td>  
   <td>
-    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/upgrade.html?lang=nl-NL">
+    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/upgrade.html">
       <img alt="Benefits of upgrading to Adobe Commerce 2.4.4" src="./assets/upgrade.png" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/upgrade.html?lang=nl-NL">
+      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/upgrade.html">
         <strong>Benefits of upgrading to Adobe Commerce 2.4.4</strong>
       </a>
     </div>

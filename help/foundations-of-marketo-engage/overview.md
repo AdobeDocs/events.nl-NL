@@ -2,9 +2,9 @@
 title: Stichting van Marketo Engage
 description: Word lid van de Marketo-gebruikersgroep voor de stichting om vertrouwen en kernvaardigheden in Adobe Marketo Engage op te bouwen via beginnervriendelijke, ondersteunende sessies.
 exl-id: 0f4ac207-0828-4f35-915b-8ba5715af780
-source-git-commit: bb85c1402450f8136b98d63425b743580ffa96f7
+source-git-commit: 52bd6d5a06799c79ac84b9e4827011f89c6471df
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: '299'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,7 @@ De Foundational Marketo User Group is speciaal ontworpen voor individuen die nog
 
 * 2025/campaigns-with-marketo-personalization.md
 * 2025/nurture-recipe.md
+* 2025/professional-exam-preparation.md
 * 2025/programs-campaigns.md
 * 2025/scoring.md
 
@@ -34,7 +35,7 @@ De Foundational Marketo User Group is speciaal ontworpen voor individuen die nog
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/campaigns-with-marketo-personalization.md" title="Campagnes ontwikkelen met Marketo Personalization" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464791/?format=jpeg&nocache=1758746095385" alt="Campagnes ontwikkelen met Marketo Personalization"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464791/?format=jpeg&nocache=1761688732004" alt="Campagnes ontwikkelen met Marketo Personalization"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -57,7 +58,7 @@ De Foundational Marketo User Group is speciaal ontworpen voor individuen die nog
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/nurture-recipe.md" title="UW Nurtuurrecept maken" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475224/?format=jpeg&nocache=1758746095385" alt="UW Nurtuurrecept maken"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475224/?format=jpeg&nocache=1761688731994" alt="UW Nurtuurrecept maken"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -75,12 +76,35 @@ De Foundational Marketo User Group is speciaal ontworpen voor individuen die nog
             </div>
         </div>
     </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Foundational Marketo User Group - Professional Exam Preparation">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="2025/professional-exam-preparation.md" title="Foundational Marketo User Group - Professional Exam Preparation" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476232/?format=jpeg&nocache=1761688731972" alt="Foundational Marketo User Group - Professional Exam Preparation"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="2025/professional-exam-preparation.md" target="_blank" rel="referrer" title="Foundational Marketo User Group - Professional Exam Preparation"> Foundational Marketo User Group - de Professionele Voorbereiding van het Examen </a>
+                    </p>
+                    <p class="is-size-6">Krijg deskundige begeleiding, studietips, en op AI-Gebaseerde het leren steun om uw Marketo Engage Professional Examen met vertrouwen in deze gerichte prep zitting te krijgen.</p>
+                </div>
+                <a href="2025/professional-exam-preparation.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Controle </span>
+                </a>
+            </div>
+        </div>
+    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Programs, Campaigns & Beyond">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/programs-campaigns.md" title="Programma&apos;s, campagnes en verder" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464499/?format=jpeg&nocache=1758746095396" alt="Programma&apos;s, campagnes en verder"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464499/?format=jpeg&nocache=1761688732014" alt="Programma&apos;s, campagnes en verder"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -103,7 +127,7 @@ De Foundational Marketo User Group is speciaal ontworpen voor individuen die nog
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/scoring.md" title="Score slimmer, niet harder" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3474961/?format=jpeg&nocache=1758746095373" alt="Score slimmer, niet harder"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3474961/?format=jpeg&nocache=1761688731985" alt="Score slimmer, niet harder"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
