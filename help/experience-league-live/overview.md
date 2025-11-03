@@ -8,9 +8,9 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: f88fa329951a93f53cbbf47e55d51f02d1fc5877
+source-git-commit: 7f05dd98e19fd3e88ca3af32bfbef89fda2d4b39
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '146'
 ht-degree: 1%
 
 ---
@@ -19,29 +19,30 @@ ht-degree: 1%
 
 Experience League LIVE is een live streaming show die wordt gemaakt door het Experience League-team.  Het is een kans om verbinding te maken met Adobe-productexperts en actiepunten, trucs en strategieën te leren die u kunt toepassen met de Adobe Experience Cloud-toepassingen.
 
+<!--
 <div id="upcoming-events">
 
-## Experience League LIVE-gebeurtenissen
+## Upcoming Experience League LIVE events
 
 <table>
     <tr>
          <td style="vertical-align: top;"><a href="episodes/exl-live-episode-10-30-25.md">
-              <img alt="Experience League LIVE 30 oktober 2025" src="assets/exl-live-episode-10-30-25-web-banner-v2.png">
+              <img alt="Experience League LIVE 30 October 2025" src="assets/exl-live-episode-10-30-25-web-banner-v2.png">
             </a>
             <div>
               <a href="episodes/exl-live-episode-10-30-25.md">
-                <strong> het Volgende tijdperk van Experimentatie: Hoe de Agentische AI het Smarter Testen en de Groei van de Brandstof is </strong>
+                <strong>The Next Era of Experimentation: How Agentic AI is Fueling Smarter Testing and Growth</strong>
               </a>
-              <br/><em> met Sandra Hausmann, Brent Kostak, Justin Grover en David Arbor </em>
-              <br/><em> 30 okt, 2025 </em>
+              <br/><em>with Sandra Hausmann, Brent Kostak, Justin Grover and David Arbour</em>
+              <br/><em>Oct 30, 2025</em>
             </div>
         </td>
     </tr>
-
-</table>
-
+    
+</table>    
+  
 </div>
-
+-->
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -102,5 +103,5 @@ Experience League LIVE is een live streaming show die wordt gemaakt door het Exp
 
 >[!TIP]
 >
->Voor extra methodes om te leren, controleer onze vrije [&#x200B; cursussen &#x200B;](https://experienceleague.adobe.com/nl#dashboard/learning) evenals individuele [&#x200B; leerprogramma&#39;s &#x200B;](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=nl-NL).
+>Voor extra methodes om te leren, controleer onze vrije [ cursussen ](https://experienceleague.adobe.com/#dashboard/learning) evenals individuele [ leerprogramma&#39;s ](https://experienceleague.adobe.com/docs/home-tutorials.html).
 
