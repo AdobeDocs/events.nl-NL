@@ -7,9 +7,9 @@ feature: AI Assistant, Experimentation
 event-cta-url-live: https://youtube.com/live/w8eWsKuwyzI
 event-start-time: 2025-10-30 08:30-8
 event-guests: Sandra Hausmann, Brent Kostak, Justin Grover, David Arbour
-source-git-commit: ab402c86aadd5c2b22f632c31d085e90e05f96c7
+source-git-commit: c4c2753455d476d08ab1a5c76a08ed296397705d
 workflow-type: tm+mt
-source-wordcount: '286'
+source-wordcount: '295'
 ht-degree: 0%
 
 ---
@@ -32,6 +32,11 @@ Of je nu een groeimarkator, productmanager of optimalisatiestrategen bent, kijk 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3476426/?learn=on&enablevpops)
 
-Word lid van ons voor de [&#x200B; Gemeenschap van Adobe Journey Optimizer vraagt me om het even wat!](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/ask-me-anything-november-12th-with-journey-optimizer-product/ev-p/783252) op woensdag 12 november van 8.00 - 9.00 uur PT. We worden bijgestaan door Adobe Journey Optimizer-experts: Cole Connelly (@coleconnelly) - Sr Product Manager, Huong Vu (@HuongVu) - Product Marketing Manager, Namita Krishnan (@Namita_Krishnan) - Product Manager, Brent Kostak (@bkostak) - Sr Product Marketing Manager, David Arbor (@user0347 4) - Sr Research Scientist, Justin Grover (@justin_grover) - Principal Product Manager, Sandra Hausmann (@SHausmann) - Sr Technical Marketing Engineer en Daniel Wright (@dwright) - Sr Technical Marketing Engineer.
+Word lid van ons voor de [ Gemeenschap van Adobe Journey Optimizer vraagt me om het even wat!](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/ask-me-anything-november-12th-with-journey-optimizer-product/ev-p/783252) op woensdag 12 november van 8.00 - 9.00 uur PT. We worden bijgestaan door Adobe Journey Optimizer-experts: Cole Connelly (@coleconnelly) - Sr Product Manager, Huong Vu (@HuongVu) - Product Marketing Manager, Namita Krishnan (@Namita_Krishnan) - Product Manager, Brent Kostak (@bkostak) - Sr Product Marketing Manager, David Arbor (@user0347 4) - Sr Research Scientist, Justin Grover (@justin_grover) - Principal Product Manager, Sandra Hausmann (@SHausmann) - Sr Technical Marketing Engineer en Daniel Wright (@dwright) - Sr Technical Marketing Engineer.
 
 We beantwoorden je vragen tijdens deze live chat.
+
+## Aanvullende bronnen
+
+* [ Binnen de experimenteerversneller van AI van Adobe - Podcast ](https://conversion.com/podcast/the-conversion-podcast-adobe-ai/)
+
