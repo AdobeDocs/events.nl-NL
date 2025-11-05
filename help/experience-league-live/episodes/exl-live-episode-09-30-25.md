@@ -23,6 +23,6 @@ Ze laten zien hoe u rijke, gepersonaliseerde mobiele ervaringen kunt bieden die 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3475370/?quality=12&learn=on)
 
-Word lid van ons voor de [ Gemeenschap van Adobe Journey Optimizer vraagt me om het even wat!](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/ask-me-anything-october-15th-with-journey-optimizer-product/ec-p/778477) op **Woensdag, 15de oktober van 8am - 9am PT** Wij zullen worden aangesloten bij door de deskundigen van Adobe Journey Optimizer: Nikhil Sharma (@snikhil) - Sr. Ingenieurs, Travis Jordan (@Travis_Jordan) - Hoofd Manager van het Product, en Sandra Hausmann (@SHausmann) - Sr Technisch Marketing Engineer.
+Word lid van ons voor de [&#x200B; Gemeenschap van Adobe Journey Optimizer vraagt me om het even wat!](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/ask-me-anything-october-15th-with-journey-optimizer-product/ec-p/778477) op **Woensdag, 15de oktober van 8am - 9am PT** Wij zullen worden aangesloten bij door de deskundigen van Adobe Journey Optimizer: Nikhil Sharma (@snikhil) - Sr. Ingenieurs, Travis Jordan (@Travis_Jordan) - Hoofd Manager van het Product, en Sandra Hausmann (@SHausmann) - Sr Technisch Marketing Engineer.
 
 We beantwoorden je vragen tijdens deze live chat.
