@@ -2,10 +2,10 @@
 user-guide-title: Adobe Customer Success Webinars
 breadcrumb-title: Adobe Customer Success Webinars
 user-guide-description: Adobe Customer Success geleide webinars die zijn ontworpen om u te helpen uw investering in Adobe Experience Cloud te optimaliseren. Vergroot waardevolle inzichten om de waarde te maximaliseren en de acceptatie van Adobe-oplossingen te vergroten.
-source-git-commit: 52bd6d5a06799c79ac84b9e4827011f89c6471df
+source-git-commit: 84c9a126769fa94b0197d12ca594137e13edc510
 workflow-type: tm+mt
-source-wordcount: '522'
-ht-degree: 3%
+source-wordcount: '547'
+ht-degree: 4%
 
 ---
 
@@ -27,8 +27,10 @@ ht-degree: 3%
       + [Smarter Marketing begint hier - Google en Adobe integreren](2025/smarter-marketing-starts-here-integrating-google-and-adobe.md)
    + Experience Manager {#aem2025}
       + [AEM opkomende technologie](2025/personalized-experiences-aem.md)
+      + [Essentiële tips en aanbevolen procedures voor AEM Lucene Search](2025/aem-lucene-search.md)
       + [AEM met GenAI](2025/aem-genai.md)
       + [Integratie van AEM en Workfront](2025/aem-workfront-integration.md)
+      + [AI-assistent in AEM](2025/ai-assistant-in-aem.md)
       + [Effectieve webpagina&#39;s maken](2025/build-effective-web-pages.md)
       + [Aansturen van klantenservice](2025/driving-customer-engagement.md)
       + [Inschrijvingsreis met AEM Forms](2025/payer-enrollment-journey.md)
@@ -50,6 +52,9 @@ ht-degree: 3%
       + [Inhoudstoeleveringsketen en Adobe GenStudio](2025/csc-gen-studio.md)
       + [GenStudio for Performance Marketing-besturingssysteem](2025/genstudio-for-performance-marketing-operating-model.md)
    + Journey Optimizer {#ajo2025}
+      + [Directie sponsoring opbouwen](2025/build-executive-sponsorship-ajo.md)
+      + [Wijzigingsbeheerstrategieën voor adoptie](2025/change-management-strategies.md)
+      + [Een besturingssysteem ontwerpen](2025/design-an-operating-model-ajo.md)
       + [Journey Optimizer Essentials](2025/journey-optimizer-essentials.md)
       + [Een NoordStar-architectuur gebruiken](2025/northstar-architecture-enable-adobe-journey-optimzier.md)
       + [Routekaart naar waarde met Adobe Journey Optimizer](2025/ajo-roadmap-to-value.md)

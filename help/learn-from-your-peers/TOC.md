@@ -2,9 +2,9 @@
 user-guide-title: '[!DNL Experience Makers Learn from your peers]'
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: Verzameling opnamen van  [!DNL Experience Makers Learn from your peers]
-source-git-commit: 52bd6d5a06799c79ac84b9e4827011f89c6471df
+source-git-commit: 84c9a126769fa94b0197d12ca594137e13edc510
 workflow-type: tm+mt
-source-wordcount: '361'
+source-wordcount: '371'
 ht-degree: 11%
 
 ---
@@ -33,7 +33,8 @@ ht-degree: 11%
       + maart {#mar2022}
          + [Impliciete artikelen met gegevens verkopen](analytics/mar2022/stories-with-data.md)
 + Commerce {#commerce}
-   + februari {#feb2024}
+   + 2025 {#2025}
+      + [Adobe Commerce en App Builder Essentials - Van basiskennis tot impact](commerce/2025/commerce-and-app-builder.md)
       + [Communicatie, vereisten en tests in Agile SDLC](commerce/2024/agile-sdlc.md)
 + Experience Manager {#experience-manager}
    + Augustus {#aug2025}
@@ -45,7 +46,7 @@ ht-degree: 11%
    + September {#sept2023}
       + [Een diepe insteekmodule voor AEM Sites](experience-manager/sept2023/aem-sites-tools.md)
    + juli {#july2023}
-      + [&#x200B; Effectieve Strategieën van de Veiligheid in Cloud Service &#x200B;](experience-manager/july2023/effective-security-strategies-in-cloud-service.md)
+      + [ Effectieve Strategieën van de Veiligheid in Cloud Service ](experience-manager/july2023/effective-security-strategies-in-cloud-service.md)
    + mei {#may2023}
       + [Inhoud- en ervaringsfragmenten maken](experience-manager/may2023/mastering-content-and-experience-fragments.md)
 + GenAI {#genai}
