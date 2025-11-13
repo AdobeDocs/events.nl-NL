@@ -29,7 +29,7 @@ Adobe Experience Manager (AEM) maakt gebruik van Lucene-zoekopdrachten voor snel
 
 * **het Onderzoek van Lucene is overal** Bevoegdheden onderzoek in de auteur, de uitgever, en portals van AEM, behandelend auto-suggesties, filters, facetten, en paginering.
 * **de Prestaties van de Aandrijving van de Definities van de Index** Het aanpassen van de indexdefinities van Oak is essentieel voor efficiënt, gericht onderzoek.
-* **Kopieer bestaande indexdefinities van de Aanpak van de Praktijken van 0} {, grens geïndexeerde eigenschappen, en gebruik de juiste vlaggen voor full-text en bezitsonderzoeken.**
+* **Kopieer bestaande indexdefinities van de Aanpak van de Praktijken van 0&rbrace; &lbrace;, grens geïndexeerde eigenschappen, en gebruik de juiste vlaggen voor full-text en bezitsonderzoeken.**
 * **de Geavanceerde Eigenschappen verbeteren UX** Gezichten, auto-suggereert, spellingcontrole, het opvoeren, en het stammen kunnen voor rijkere onderzoekservaringen worden toegelaten.
 
 Als u deze beginselen begrijpt, kunt u zorgen voor stabiele zoekmogelijkheden van hoge kwaliteit in AEM, waarmee u zowel technische als zakelijke doelstellingen ondersteunt.

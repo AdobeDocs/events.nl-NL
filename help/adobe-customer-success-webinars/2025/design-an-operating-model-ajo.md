@@ -33,7 +33,7 @@ Leer in de derde sessie van onze AJO VRA-reeks waarom het opzetten van een samen
 AJO-operatiemodellen zijn van essentieel belang voor de omzetting van strategische visie in effectieve, op waarde gebaseerde operaties. Organisaties worden geconfronteerd met gemeenschappelijke belemmeringen, zoals onduidelijke rollen, gefragmenteerde processen en een gebrek aan bestuur, die een belemmering kunnen vormen voor personalisatie en efficiënt gebruik van hulpbronnen.
 
 * **Strategische Planning** Gebrek van planning leidt tot gefragmenteerde implementaties en nalevingshiaten.
-* **Gedefinieerde verantwoordelijkheden van de Helderheid van de Rol 1} en de dwars-functionele samenwerking zijn essentieel voor naadloze uitvoering.**
+* **Gedefinieerde verantwoordelijkheden van de Helderheid van de Rol 1&rbrace; en de dwars-functionele samenwerking zijn essentieel voor naadloze uitvoering.**
 * **Gestructureerde werkschema&#39;s van het beheer** en vergaderingskadenties drijven verantwoordingsplicht en ononderbroken verbetering.
 * **Centrum van Uitmuntendheid** gecentraliseerde kaders versnelt volwassenheid, normaliseert beste praktijken, en bevordert innovatie.
 
@@ -43,8 +43,8 @@ Als u deze pijlers begrijpt, kunnen organisaties het platformpotentieel maximali
 
 Robuust bestuur en evoluerende teamstructuren zijn essentieel voor operationele excellentie:
 
-* **de jaarlijkse de strategieworkshops van de Kaart van het Bestuur 1}, driemaandelijkse roadmavaluaties, maandelijkse leiderschapcontroles, wekelijkse vooruitgangsupdates, en dagelijkse teamactiviteiten verzekeren groepering en verantwoordingsplicht.**
-* **Stappen van het Werkschema van 0} de Campagne {omvatten campagneverzoek, bevestiging, prioritering, bouw, QA, uitvoering, en rapportering, in kaart gebracht aan rollen gebruikend het kader RACI.**
+* **de jaarlijkse de strategieworkshops van de Kaart van het Bestuur 1&rbrace;, driemaandelijkse roadmavaluaties, maandelijkse leiderschapcontroles, wekelijkse vooruitgangsupdates, en dagelijkse teamactiviteiten verzekeren groepering en verantwoordingsplicht.**
+* **Stappen van het Werkschema van 0&rbrace; de Campagne &lbrace;omvatten campagneverzoek, bevestiging, prioritering, bouw, QA, uitvoering, en rapportering, in kaart gebracht aan rollen gebruikend het kader RACI.**
 * **Teamevolutie:
    * **incubeer** 2-3 breed-werkingsgebiedleden, beperkte scalability.
    * **Schaal** 5-10 specifieke leden, gematigde scalability, gestructureerde opleiding.

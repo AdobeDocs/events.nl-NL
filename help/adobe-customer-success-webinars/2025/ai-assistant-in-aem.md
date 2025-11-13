@@ -33,7 +33,7 @@ Verken de mogelijkheden van de AI Assistant in AEM, inclusief configuratie en ee
 
 Ontdek hoe de AEM AI Assistant productkennis en -ondersteuning stroomlijnt in Adobe Experience Manager (AEM):
 
-* **Ingebed direct in AEM van de Omroepende Bedrijf 0} {, verstrekt de Medewerker AI onmiddellijke antwoorden aan product en steunvragen.**
+* **Ingebed direct in AEM van de Omroepende Bedrijf 0&rbrace; &lbrace;, verstrekt de Medewerker AI onmiddellijke antwoorden aan product en steunvragen.**
 * **Dubbele Agenten** omvat een product kennisagent voor eigenschapinformatie en een steunagent voor kaartbeheer.
 * **Ondersteunde Oplossingen** behandelt de Diensten van de Levering van Experience Cloud, AEM Sites, Assets, Forms, Dynamische Media, en Cloud Manager.
 * **Efficiëntiewinst** vermindert tijd aan waarde en steunlading door in-context hulp en kaartverwezenlijking toe te laten.
