@@ -8,9 +8,9 @@ doc-type: Event
 duration: 3555
 last-substantial-update: 2025-11-13T00:00:00Z
 jira: KT-19684
-source-git-commit: 84c9a126769fa94b0197d12ca594137e13edc510
+source-git-commit: cea4b75d089d99068b2657ca9656687ba66ad830
 workflow-type: tm+mt
-source-wordcount: '226'
+source-wordcount: '240'
 ht-degree: 0%
 
 ---
@@ -32,3 +32,7 @@ Join Adobe Commerce Champion Alex Lyzun voor een educatieve sessie waarin de toe
 
 Of u nu gewoon begint met App Builder of de strategische waarde van uitbreidbaarheid wilt begrijpen, dit webinar is ontworpen om u een duidelijke, toegankelijke basis te bieden om u te helpen nieuwe mogelijkheden te ontsluiten met Adobe Commerce!
 
+## Aanvullende bronnen
+
+* [ Post-Webinar de Uren van het Bureau ](https://commerce-augs.adobe.com/events/details/adobe-commerce-adobe-commerce-champion-office-hours-presents-adobe-commerce-amp-app-builder-essentials-from-basics-to-impact-webinar-office-hours/) met Alex Lyzun
+* [ de Gebruikersgroepen van Adobe Commerce ](https://commerce-augs.adobe.com/)
