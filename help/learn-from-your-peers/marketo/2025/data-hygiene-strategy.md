@@ -34,6 +34,6 @@ Hoort van Adobe Marketo Engage Champion, Miray Vu, om de kritieke rol van gegeve
 ## Aanvullende bronnen
 
 * Sluit me aan bij de [&#x200B; bespreking &#x200B;](https://nation.marketo.com/t5/product-blogs/learn-from-your-peers-webinar-building-a-data-hygiene-strategy/ba-p/358425) op de Gemeenschap van de Natie van de Marketing, waar Q&amp;A&#39;s worden gepost.
-* [&#x200B; de gegevenshygiëne van Marketo Engage die Uitvoerbare Campagnes gebruiken &#x200B;](https://business.adobe.com/summit/2025/sessions/marketo-engage-data-hygiene-strategies-s212.html)
-* [&#x200B; het Beheersen van gegevenshygiëne voor de synchronisatie van Salesforce CRM met Marketo Engage &#x200B;](https://experienceleague.adobe.com/en/perspectives/mastering-data-hygiene-for-salesforce-crm-sync-with-marketo-engage)
+* [&#x200B; de gegevenshygiëne van Marketo Engage die Uitvoerbare Campagnes gebruiken &#x200B;](https://business.adobe.com/nl/summit/2025/sessions/marketo-engage-data-hygiene-strategies-s212.html)
+* [&#x200B; het Beheersen van gegevenshygiëne voor de synchronisatie van Salesforce CRM met Marketo Engage &#x200B;](https://experienceleague.adobe.com/nl/perspectives/mastering-data-hygiene-for-salesforce-crm-sync-with-marketo-engage)
 * [&#x200B; hoe te om deduplicatie uit te voeren gebruikend Marketo Engage REST API &#x200B;](https://www.revenuepulse.com/blog/how-to-perform-deduplication-using-the-marketo-api/)
