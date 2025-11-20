@@ -71,10 +71,10 @@ In dit webinar zult u leren over,
 
 ## Aanvullende bronnen
 
-* [ de Dia&#39;s van de Presentatie ](https://engage.adobe.com/rs/360-KCI-804/images/AME_Learn%20From%20your%20peers%20Webinar_Advanced%20segmentation%20Audits.pdf?version=0){target="_blank"}
-* Sluit zich aan bij de bespreking [ draad ](https://nation.marketo.com/t5/product-discussions/register-now-learn-from-your-peers-advanced-segmentation-audits/td-p/353460){target="_blank"} op de Gemeenschap van de Natie van de Marketing
-* [ creeer een Segmentatie ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation){target="_blank"}
-* [ geef een Segmentatie ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/edit-a-segmentation){target="_blank"} uit
-* De Reeksen van het Succes van Marketo Engage - [ Segmentatie ](https://nation.marketo.com/t5/product-blogs/marketo-success-series-segmentation/ba-p/304969){target="_blank"}
-* {de Updates van de Controle van de Gezondheid van de segmentatie van 0} [ - Tips en Tricks voor het houden van uw Segmentatie Bijgewerkt](https://nation.marketo.com/t5/product-blogs/segmentation-health-check-updates-tips-and-tricks-for-keeping/ba-p/241963){target="_blank"}
-* [ Rapport van de Prestaties E-mail ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-data/email-performance-report){target="_blank"}
+* [&#x200B; de Dia&#39;s van de Presentatie &#x200B;](https://engage.adobe.com/rs/360-KCI-804/images/AME_Learn%20From%20your%20peers%20Webinar_Advanced%20segmentation%20Audits.pdf?version=0){target="_blank"}
+* Sluit zich aan bij de bespreking [&#x200B; draad &#x200B;](https://nation.marketo.com/t5/product-discussions/register-now-learn-from-your-peers-advanced-segmentation-audits/td-p/353460){target="_blank"} op de Gemeenschap van de Natie van de Marketing
+* [&#x200B; creeer een Segmentatie &#x200B;](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation){target="_blank"}
+* [&#x200B; geef een Segmentatie &#x200B;](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/edit-a-segmentation){target="_blank"} uit
+* De Reeksen van het Succes van Marketo Engage - [&#x200B; Segmentatie &#x200B;](https://nation.marketo.com/t5/product-blogs/marketo-success-series-segmentation/ba-p/304969){target="_blank"}
+* {de Updates van de Controle van de Gezondheid van de segmentatie van 0} [&#x200B; - Tips en Tricks voor het houden van uw Segmentatie Bijgewerkt](https://nation.marketo.com/t5/product-blogs/segmentation-health-check-updates-tips-and-tricks-for-keeping/ba-p/241963){target="_blank"}
+* [&#x200B; Rapport van de Prestaties E-mail &#x200B;](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-data/email-performance-report){target="_blank"}

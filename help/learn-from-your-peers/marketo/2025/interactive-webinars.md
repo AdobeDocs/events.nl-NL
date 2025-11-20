@@ -37,7 +37,7 @@ Adobe Marketo Engage Champion Maria Cruz heeft gebruik gemaakt van interactieve 
 
 ## Aanvullende bronnen
 
-* Sluit me aan bij de [ besprekingsdraad ](https://nation.marketo.com/t5/product-blogs/on-demand-learn-from-your-peers-revolutionizing-your-webinar/ba-p/356260) op de Gemeenschap van de Natie van de Marketing, waar Q&amp;A&#39;s worden gepost.
-* [ leer meer over eigenschappen GenAI in Interactieve Webinars ](https://nation.marketo.com/t5/latest-product-innovations/discover-how-genai-can-elevate-your-upcoming-webinars/ba-p/355055)
-* [ verken Interactieve Grondbeginselen van Webinars ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview)
-* [ leren om Interactieve Woordenboeken (Opiniepeilingen, Q&amp;A, CTAs) te gebruiken ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/best-practices-for-interactive-webinars)
+* Sluit me aan bij de [&#x200B; besprekingsdraad &#x200B;](https://nation.marketo.com/t5/product-blogs/on-demand-learn-from-your-peers-revolutionizing-your-webinar/ba-p/356260) op de Gemeenschap van de Natie van de Marketing, waar Q&amp;A&#39;s worden gepost.
+* [&#x200B; leer meer over eigenschappen GenAI in Interactieve Webinars &#x200B;](https://nation.marketo.com/t5/latest-product-innovations/discover-how-genai-can-elevate-your-upcoming-webinars/ba-p/355055)
+* [&#x200B; verken Interactieve Grondbeginselen van Webinars &#x200B;](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview)
+* [&#x200B; leren om Interactieve Woordenboeken (Opiniepeilingen, Q&amp;A, CTAs) te gebruiken &#x200B;](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/best-practices-for-interactive-webinars)

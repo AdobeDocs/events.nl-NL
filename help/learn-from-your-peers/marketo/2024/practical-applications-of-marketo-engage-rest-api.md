@@ -30,4 +30,4 @@ In dit webinar zult u:
 >[!VIDEO](https://video.tv.adobe.com/v/3428435/?learn=on)
 
 
-Sluit me aan bij het gesprek op de [ Communautaire Webinar van de Aanbiedingsgemeenschap van de Aanbod ](https://nation.marketo.com/t5/product-discussions/webinar-april-17th-8am-pst-unlocking-powerful-workflow/td-p/346330){target="_blank"}.
+Sluit me aan bij het gesprek op de [&#x200B; Communautaire Webinar van de Aanbiedingsgemeenschap van de Aanbod &#x200B;](https://nation.marketo.com/t5/product-discussions/webinar-april-17th-8am-pst-unlocking-powerful-workflow/td-p/346330){target="_blank"}.

@@ -39,7 +39,7 @@ ht-degree: 6%
    + 2023 {#2023}
       + [Uitmuntendheid voor ontwikkelaars met AEM Core-componenten](experience-manager/2023/core-components.md)
       + [Een diepe insteekmodule voor AEM Sites](experience-manager/2023/aem-sites-tools.md)
-      + [ Effectieve Strategieën van de Veiligheid in Cloud Service ](experience-manager/2023/effective-security-strategies-in-cloud-service.md)
+      + [&#x200B; Effectieve Strategieën van de Veiligheid in Cloud Service &#x200B;](experience-manager/2023/effective-security-strategies-in-cloud-service.md)
       + [Inhoud- en ervaringsfragmenten maken](experience-manager/2023/mastering-content-and-experience-fragments.md)
 + GenAI {#genai}
    + 2025 {#2025}
