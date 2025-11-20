@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Tijdens de [!DNL Adobe Analytics] Building a Data Driven Culture Webinar, hebben [!DNL Adobe Analytics] -gebruikers over de hele wereld meer dan 35 vragen gesteld. Omdat onze [!DNL Adobe Analytics] Kampioen niet al deze vragen kon beantwoorden tijdens de live vragen en antwoorden, hebben we ze teruggebracht en een vervolgvraag en een antwoordsessie georganiseerd om UW vragen te beantwoorden en nog meer kennis van experts te delen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3415614/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455129/?captions=dut&quality=12&learn=on)
