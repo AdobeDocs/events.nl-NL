@@ -1,13 +1,13 @@
 ---
 title: Vereenvoudig het oplossen van problemen en steun gevallenbeheer met de Agent van de Steun van het Product
 description: De Product Support Agent wordt door Adobe Experience Platform Agent Orchestrator aangestuurd en is ontworpen voor deze teams in hun Adobe Experience Platform-toepassingen door een interactieve manier te bieden voor het oplossen van problemen, het opsporen van diagnoses en het doorverwijzen van problemen, waardoor snellere oplossingen en een hogere operationele efficiëntie mogelijk worden.
-kt: KT-18493
-solution: Journey Optimizer, Target
-feature: AI Assistant, Experimentation
-event-cta-url-live: https://youtube.com/live/w8eWsKuwyzI
-event-start-time: 2025-10-30 08:30-8
-event-guests: Sandra Hausmann, Brent Kostak, Justin Grover, David Arbour
-source-git-commit: 304550e7c5eef8956dccef1ca9951d3091092e8d
+kt: KT-19794
+solution: Experience Platform
+feature: AI Assistant
+event-cta-url-live: https://www.youtube.com/live/MW2Ba7HJNbA
+event-start-time: 2025-12-16 09:00-8
+event-guests: Daniel Wright, Huong Vu, Shreya Anantha Raman
+source-git-commit: 9f35248b235fbc25b964ba70daa1f14eb4bbecef
 workflow-type: tm+mt
 source-wordcount: '250'
 ht-degree: 0%
@@ -26,6 +26,6 @@ Neem deel aan deze live sessie waarbij het productteam achter de Product Support
 * Hoe de Agent van de Steun van het Product gebruikers met pro-actieve en zelfbediening steun en geautomatiseerde gevallenverwezenlijking en het volgen van toelaat
 * Innovaties en capaciteiten in de horizon om het supportbeheer voor gebruikers verder te stroomlijnen
 
-[![&#x200B; ExL LIVE Jan 17 2024 &#x200B;](assets/WebBanner_Dec16_2025.jpg) &#x200B;](https://www.youtube.com/live/MW2Ba7HJNbA)
+[![ ExL LIVE Jan 17 2024 ](assets/WebBanner_Dec16_2025.jpg) ](https://www.youtube.com/live/MW2Ba7HJNbA)
 
-[&#x200B; klik om een herinnering op YouTube te plaatsen!](https://www.youtube.com/live/MW2Ba7HJNbA)
+[ klik om een herinnering op YouTube te plaatsen!](https://www.youtube.com/live/MW2Ba7HJNbA)
