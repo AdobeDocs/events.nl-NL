@@ -1,0 +1,31 @@
+---
+title: Vereenvoudig het oplossen van problemen en steun gevallenbeheer met de Agent van de Steun van het Product
+description: De Product Support Agent wordt door Adobe Experience Platform Agent Orchestrator aangestuurd en is ontworpen voor deze teams in hun Adobe Experience Platform-toepassingen door een interactieve manier te bieden voor het oplossen van problemen, het opsporen van diagnoses en het doorverwijzen van problemen, waardoor snellere oplossingen en een hogere operationele efficiëntie mogelijk worden.
+kt: KT-18493
+solution: Journey Optimizer, Target
+feature: AI Assistant, Experimentation
+event-cta-url-live: https://youtube.com/live/w8eWsKuwyzI
+event-start-time: 2025-10-30 08:30-8
+event-guests: Sandra Hausmann, Brent Kostak, Justin Grover, David Arbour
+source-git-commit: 304550e7c5eef8956dccef1ca9951d3091092e8d
+workflow-type: tm+mt
+source-wordcount: '250'
+ht-degree: 0%
+
+---
+
+
+# Vereenvoudig het oplossen van problemen en steun gevallenbeheer met de Agent van de Steun van het Product
+
+Deze sessie maakt deel uit van een serie die Adobe Experience Platform Agent Orchestrator en speciaal gebouwde Adobe Experience Platform Agents belicht. Elke episode biedt een diepe duik in hoe agentic AI marketing werkschema&#39;s, het stroomlijnen van verrichtingen, en het leveren van slimmere klantenervaringen transformeert.
+
+Marketing- en klantenervaringsteams staan onder zware druk om zeer gepersonaliseerde, multi-kanaalcampagnes met minder middelen en strakkere tijdlijnen te leveren. Nog vaker dan niet, worden hun tijd gedraineerde operationele lasten zoals het oplossen van problemen en steunbeheer, die hen verhinderen zich op strategisch, high-impact het werk van de klantenervaring te concentreren. De Product Support Agent wordt door Adobe Experience Platform Agent Orchestrator aangestuurd en is ontworpen voor deze teams in hun Adobe Experience Platform-toepassingen door een interactieve manier te bieden voor het oplossen van problemen, het opsporen van diagnoses en het doorverwijzen van problemen, waardoor snellere oplossingen en een hogere operationele efficiëntie mogelijk worden.
+
+Neem deel aan deze live sessie waarbij het productteam achter de Product Support Agent de volgende zaken verkent:
+* Een overzicht van de Product Support Agent
+* Hoe de Agent van de Steun van het Product gebruikers met pro-actieve en zelfbediening steun en geautomatiseerde gevallenverwezenlijking en het volgen van toelaat
+* Innovaties en capaciteiten in de horizon om het supportbeheer voor gebruikers verder te stroomlijnen
+
+[![ ExL LIVE Jan 17 2024 ](assets/WebBanner_Dec16_2025.jpg) ](https://www.youtube.com/live/MW2Ba7HJNbA)
+
+[ klik om een herinnering op YouTube te plaatsen!](https://www.youtube.com/live/MW2Ba7HJNbA)
