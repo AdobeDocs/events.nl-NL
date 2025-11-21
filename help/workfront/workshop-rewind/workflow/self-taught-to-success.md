@@ -29,4 +29,4 @@ Als u interesse hebt in het delen van uw verhaal of het gebruik van hoofdletters
 
 Hebt u ideeën om vervolgvragen van de gebeurtenis te delen of te hebben? Voel vrij om hen in de commentaren op de [&#x200B; post van de Gemeenschap van Experience League &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-from-self-taught-to-success-how-kyndryl-scaled/td-p/785174) te laten vallen!
 
-De nieuwe gebeurtenissen worden toegevoegd elke maand, zodat zorg ervoor om de [&#x200B; pagina van de Gebeurtenissen van Experience League &#x200B;](https://experienceleague.adobe.com/en/events) voor de recentste zittingen uit te checken.
+De nieuwe gebeurtenissen worden toegevoegd elke maand, zodat zorg ervoor om de [&#x200B; pagina van de Gebeurtenissen van Experience League &#x200B;](https://experienceleague.adobe.com/nl/events) voor de recentste zittingen uit te checken.

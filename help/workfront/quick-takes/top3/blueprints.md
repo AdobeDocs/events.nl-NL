@@ -18,16 +18,16 @@ ht-degree: 0%
 
 # Top 3 - Creative-benaderingen met blauwdrukken
 
-Hee iedereen! Ik ben het, je &#39;On-Demand Workfront CSM&#39; en ik ben terug met een andere Top 3 Video!  Deze tijd laten wij over [&#x200B; Vervagen &#x200B;](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/blueprints/blueprints-overview) spreken. U hebt me waarschijnlijk horen zeggen dat Blueprints de sneltoets zijn voor uw &quot;Workfront-werk&quot;, maar wat zijn de andere manieren om Blueprints te gebruiken om uw bedrijfsbehoeften snel bij te houden?
+Hee iedereen! Ik ben het, je &#39;On-Demand Workfront CSM&#39; en ik ben terug met een andere Top 3 Video!  Deze tijd laten wij over [&#x200B; Vervagen &#x200B;](https://experienceleague.adobe.com/nl/docs/workfront/using/administration-and-setup/blueprints/blueprints-overview) spreken. U hebt me waarschijnlijk horen zeggen dat Blueprints de sneltoets zijn voor uw &quot;Workfront-werk&quot;, maar wat zijn de andere manieren om Blueprints te gebruiken om uw bedrijfsbehoeften snel bij te houden?
 
 >[!VIDEO](https://video.tv.adobe.com/v/3465271/?learn=on&enablevpops)
 
-Als u eerst wilt experimenteren voordat u iets in Production installeert, hoeft u zich geen zorgen te maken!  Enkel spel rond met hen in uw [&#x200B; milieu van de Voorproef Sandbox &#x200B;](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/set-up-wf/testing-environments/wf-preview-sandbox-environment) eerst.
+Als u eerst wilt experimenteren voordat u iets in Production installeert, hoeft u zich geen zorgen te maken!  Enkel spel rond met hen in uw [&#x200B; milieu van de Voorproef Sandbox &#x200B;](https://experienceleague.adobe.com/nl/docs/workfront/using/administration-and-setup/set-up-wf/testing-environments/wf-preview-sandbox-environment) eerst.
 
 Geïnteresseerd in de nieuwste blauwdrukken?
 
 * [&#x200B; vrijgegeven Vervaagd Vervagingsontwerp: De Opleiding van Workfront voor Nieuwe Gebruikers &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/blueprint-released-workfront-training-for-new-users/ba-p/739734)
 * [&#x200B; vrijgegeven Vervaagd Vervagen: Het Dashboard van de Manager van Mensen &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/blueprint-released-people-manager-dashboard/m-p/687545#M3247)
-* [&#x200B; Volledige lijst van beschikbare Blauwdrukken &#x200B;](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/blueprints/list-of-available-blueprints)
+* [&#x200B; Volledige lijst van beschikbare Blauwdrukken &#x200B;](https://experienceleague.adobe.com/nl/docs/workfront/using/administration-and-setup/blueprints/list-of-available-blueprints)
 
-Als u van het leren over nieuwe ideeën en creatieve benaderingen houdt, dan vergeet niet om voor onze aanstaande workshops onze [&#x200B; pagina van de Gebeurtenissen van Experience League &#x200B;](https://experienceleague.adobe.com/en/events?filters=Workfront) te registreren. Wij hopen u spoedig te zien!
+Als u van het leren over nieuwe ideeën en creatieve benaderingen houdt, dan vergeet niet om voor onze aanstaande workshops onze [&#x200B; pagina van de Gebeurtenissen van Experience League &#x200B;](https://experienceleague.adobe.com/nl/events?filters=Workfront) te registreren. Wij hopen u spoedig te zien!
