@@ -8,9 +8,9 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 021cc00ce8c98b238c75254332f518bc5eb51c2c
+source-git-commit: 45be7126bdcf2ae97d812dc3aa708efa7c173c98
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '179'
 ht-degree: 1%
 
 ---
@@ -19,30 +19,28 @@ ht-degree: 1%
 
 Experience League LIVE is een live streaming show die wordt gemaakt door het Experience League-team.  Het is een kans om verbinding te maken met Adobe-productexperts en actiepunten, trucs en strategieën te leren die u kunt toepassen met de Adobe Experience Cloud-toepassingen.
 
-<!--
-<div id="upcoming-events">
 
-## Upcoming Experience League LIVE events
+
+## Experience League LIVE-gebeurtenissen
 
 <table>
     <tr>
          <td style="vertical-align: top;"><a href="episodes/exl-live-episode-12-16-25.md">
-              <img alt="Experience League LIVE 16 December 2025" src="episodes/assets/WebBanner_Dec16_2025.jpg">
+              <img alt="Experience League LIVE 16 december 2025" src="episodes/assets/WebBanner_Dec16_2025.jpg">
             </a>
             <div>
               <a href="episodes/exl-live-episode-12-16-25.md">
-                <strong>Simplify troubleshooting and support case management with Product Support Agent</strong>
+                <strong> vereenvoudig het oplossen van problemen en steun gevalbeheer met de Agent van de Steun van het Product </strong>
               </a>
-              <br/><em>with Daniel Wright, Huong Vu, and Shreya Anantha Raman</em>
-              <br/><em>Dec 16, 2025</em>
+              <br/><em> met Daniel Wright, Huong Vu, en Shreya Anantha Raman </em>
+              <br/><em> dec 16, 2025 </em>
             </div>
         </td>
     </tr>
-    
-</table>    
-  
-</div>
--->
+
+</table>
+
+
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -103,5 +101,5 @@ Experience League LIVE is een live streaming show die wordt gemaakt door het Exp
 
 >[!TIP]
 >
->Voor extra methodes om te leren, controleer onze vrije [&#x200B; cursussen &#x200B;](https://experienceleague.adobe.com/nl#dashboard/learning) evenals individuele [&#x200B; leerprogramma&#39;s &#x200B;](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=nl-NL).
+>Voor extra methodes om te leren, controleer onze vrije [ cursussen ](https://experienceleague.adobe.com/#dashboard/learning) evenals individuele [ leerprogramma&#39;s ](https://experienceleague.adobe.com/docs/home-tutorials.html).
 
