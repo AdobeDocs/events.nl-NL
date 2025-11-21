@@ -21,12 +21,12 @@ In samenwerking met Rachel Small en Bill McCandless van Kyndryl gaf deze sessie 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477160/?learn=on&enablevpops)
 
-[ Kyndryl de Dekking PDF ](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Abobe-Kyndryl-Webinar.pdf)
+[&#x200B; Kyndryl de Dekking PDF &#x200B;](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Abobe-Kyndryl-Webinar.pdf)
 
 Op basis van wat ze van andere Workfront-klanten hebben geleerd, is dit een geweldig verhaal over hoe machtig (en genereus) de Workfront-gemeenschap is.
 
 Als u interesse hebt in het delen van uw verhaal of het gebruik van hoofdletters en kleine letters, stuurt u ons een e-mail op csatscale@adobe.com.
 
-Hebt u ideeën om vervolgvragen van de gebeurtenis te delen of te hebben? Voel vrij om hen in de commentaren op de [ post van de Gemeenschap van Experience League ](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-from-self-taught-to-success-how-kyndryl-scaled/td-p/785174) te laten vallen!
+Hebt u ideeën om vervolgvragen van de gebeurtenis te delen of te hebben? Voel vrij om hen in de commentaren op de [&#x200B; post van de Gemeenschap van Experience League &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-from-self-taught-to-success-how-kyndryl-scaled/td-p/785174) te laten vallen!
 
-De nieuwe gebeurtenissen worden toegevoegd elke maand, zodat zorg ervoor om de [ pagina van de Gebeurtenissen van Experience League ](https://experienceleague.adobe.com/en/events) voor de recentste zittingen uit te checken.
+De nieuwe gebeurtenissen worden toegevoegd elke maand, zodat zorg ervoor om de [&#x200B; pagina van de Gebeurtenissen van Experience League &#x200B;](https://experienceleague.adobe.com/en/events) voor de recentste zittingen uit te checken.

@@ -25,11 +25,11 @@ Zie hoe de nieuwe eigenschappen worden ontworpen om het gemakkelijker te maken o
 
 ## Bronnen
 
-- [ Deck PDF van de Schuifregelaar ](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/111025+-+From+Vision+to+Value-Workfront+Planning+Release+%26+Roadmap.pdf)
-- [ overzicht van de Planning van Adobe Workfront ](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-planning/adobe-workfront-planning-general-information/planning-overview)
-- [ Workfront Planning API Overzicht ](https://developer.adobe.com/wf-planning/api/v1/)
-- [ de Verkenner van de Werkstroom van Workfront API ](https://developer.adobe.com/workfront/api-explorer/)
-- Hebt u ideeën om vervolgvragen van de gebeurtenis te delen of te hebben? Voel vrij om hen in de commentaren op het [ communautaire post van Experience League ](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-from-vision-to-value-workfront-planning-release/td-p/785666!) Nieuwe gebeurtenissen te laten vallen elke maand worden toegevoegd, zodat zorg ervoor om de pagina van de Gebeurtenissen van Experience League voor de recentste zittingen uit te checken.
+- [&#x200B; Deck PDF van de Schuifregelaar &#x200B;](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/111025+-+From+Vision+to+Value-Workfront+Planning+Release+%26+Roadmap.pdf)
+- [&#x200B; overzicht van de Planning van Adobe Workfront &#x200B;](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-planning/adobe-workfront-planning-general-information/planning-overview)
+- [&#x200B; Workfront Planning API Overzicht &#x200B;](https://developer.adobe.com/wf-planning/api/v1/)
+- [&#x200B; de Verkenner van de Werkstroom van Workfront API &#x200B;](https://developer.adobe.com/workfront/api-explorer/)
+- Hebt u ideeën om vervolgvragen van de gebeurtenis te delen of te hebben? Voel vrij om hen in de commentaren op het [&#x200B; communautaire post van Experience League &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-from-vision-to-value-workfront-planning-release/td-p/785666!) Nieuwe gebeurtenissen te laten vallen elke maand worden toegevoegd, zodat zorg ervoor om de pagina van de Gebeurtenissen van Experience League voor de recentste zittingen uit te checken.
 
 
 

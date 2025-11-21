@@ -39,7 +39,7 @@ ht-degree: 6%
    + 2023 {#2023}
       + [Uitmuntendheid voor ontwikkelaars met AEM Core-componenten](experience-manager/2023/core-components.md)
       + [Een diepe insteekmodule voor AEM Sites](experience-manager/2023/aem-sites-tools.md)
-      + [ Effectieve Strategieën van de Veiligheid in Cloud Service ](experience-manager/2023/effective-security-strategies-in-cloud-service.md)
+      + [&#x200B; Effectieve Strategieën van de Veiligheid in Cloud Service &#x200B;](experience-manager/2023/effective-security-strategies-in-cloud-service.md)
       + [Inhoud- en ervaringsfragmenten maken](experience-manager/2023/mastering-content-and-experience-fragments.md)
 + GenAI {#genai}
    + 2025 {#2025}
@@ -62,7 +62,7 @@ ht-degree: 6%
       + [Hoe te om Uw  [!DNL Adobe Marketo Engage]  Inhoud Schaalbaar te maken](marketo/2023/templates-tokens-teamwork.md)
 + Workfront {#workfront}
    + 2025 {#2025}
-      + [ Metagegevens Mayhem ](https://experienceleague.adobe.com/en/docs/events/learn-from-your-peers-recordings/experience-manager/2025/metadata-mayhem)
+      + [&#x200B; Metagegevens Mayhem &#x200B;](https://experienceleague.adobe.com/en/docs/events/learn-from-your-peers-recordings/experience-manager/2025/metadata-mayhem)
       + [Het articuleren Effect - hoe te om de Waarde van Workfront te meten en te delen](workfront/2025/how-to-measure-and-share-workfront-value.md)
       + [Bronnen plannen vereenvoudigen met automatisering](workfront/2025/simplify-resource-planning-with-automation.md)
    + 2024 {#2024}
