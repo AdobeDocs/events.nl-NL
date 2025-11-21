@@ -155,7 +155,7 @@ Of u nu Workfront-beheerder, projectmanager of alledaagse gebruiker bent, deze s
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="quick-takes/top3/blueprints.md" title="Top 3 - Creative-benaderingen met blauwdrukken" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465271/?format=jpeg&nocache=1763675712911" alt="Top 3 - Creative-benaderingen met blauwdrukken"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465317/?captions=dut&format=jpeg&nocache=1763675712911" alt="Top 3 - Creative-benaderingen met blauwdrukken"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -178,7 +178,7 @@ Of u nu Workfront-beheerder, projectmanager of alledaagse gebruiker bent, deze s
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="quick-takes/versus/groups-vs-teams.md" title="Volsus! - Groepen versus teams" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465273/?format=jpeg&nocache=1763675712903" alt="Volsus! - Groepen versus teams"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3467359/?captions=dut&format=jpeg&nocache=1763675712903" alt="Volsus! - Groepen versus teams"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -219,7 +219,7 @@ Deze sessies zijn uitgerust met oplossingen uit de praktijk, voorbeelden van kla
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/adoption.md" title="Expert Insights - adoptie met Leslie Spier" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469893/?format=jpeg&nocache=1763675713371" alt="Expert Insights - adoptie met Leslie Spier"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469933/?captions=dut&format=jpeg&nocache=1763675713371" alt="Expert Insights - adoptie met Leslie Spier"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -242,7 +242,7 @@ Deze sessies zijn uitgerust met oplossingen uit de praktijk, voorbeelden van kla
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/adoption-surveys.md" title="Expert Insights - adoptieonderzoeken met Jaime Davidson" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469895/?format=jpeg&nocache=1763675713377" alt="Expert Insights - adoptieonderzoeken met Jaime Davidson"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469956/?captions=dut&format=jpeg&nocache=1763675713377" alt="Expert Insights - adoptieonderzoeken met Jaime Davidson"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -265,7 +265,7 @@ Deze sessies zijn uitgerust met oplossingen uit de praktijk, voorbeelden van kla
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/agile.md" title="Expert Insights - Agile met Natalie Mitchell" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469891/?format=jpeg&nocache=1763675713389" alt="Expert Insights - Agile met Natalie Mitchell"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469922/?captions=dut&format=jpeg&nocache=1763675713389" alt="Expert Insights - Agile met Natalie Mitchell"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

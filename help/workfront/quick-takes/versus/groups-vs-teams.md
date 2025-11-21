@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Hé Workfronters, het is uw &quot;On-Demand Workfront CSM&quot;! In deze versie! Aflevering, deel ik sommige ideeën en aanbevelingen voor het gebruiken van Groepen vs. Teams.
 
->[!VIDEO](https://video.tv.adobe.com/v/3465273/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3467359/?captions=dut&learn=on&enablevpops)
 
 Wilt u meer weten over Groepen en Teams?
 
