@@ -3,10 +3,10 @@ user-guide-title: Workfront Events
 breadcrumb-title: Workfront Events
 user-guide-description: Workfront Events
 solution: Workfront
-source-git-commit: 7d95beac5ae2af5f520f7e3a47b16403c9374b5b
+source-git-commit: 42c0401d1ef307fd4e4d93245f472f75259d6d21
 workflow-type: tm+mt
-source-wordcount: '229'
-ht-degree: 1%
+source-wordcount: '239'
+ht-degree: 0%
 
 ---
 
@@ -20,17 +20,32 @@ ht-degree: 1%
    + [25.4 Release](releases/25-4-release-webinar.md)
    + [25.1 Release](releases/25-1-release-webinar.md)
    + [24.1 Release](releases/24-1-release-webinar.md)
++ Workshop terugspoelen {#workshop-rewind}
+   + Fusion {#fusion}
+      + [Naamgevingsconventies automatiseren](workshop-rewind/fusion/automating-naming-conventions.md)
+      + [Navigeren door wijzigingen voor velden met meerdere selecties en versnelling](workshop-rewind/fusion/mulit-select-fields.md)
+      + [Ware-gebeurteniskosten ontgrendelen](workshop-rewind/fusion/event-costs.md)
+   + Planning {#planning}
+      + [Nieuwste in Workfront-planning](workshop-rewind/planning/workfront-planning.md)
+      + [Succes op teamniveau met Workfront-planning](workshop-rewind/planning/team-success-workfront-planning.md)
+      + [Workfront Planning Release &amp; Roadmap](workshop-rewind/planning/planning-release-roadmap.md)
+   + Workflow {#workflow}
+      + [Creative-methoden voor het beheer van bronnen](classics/creative-ways-of-managing-resources.md)
+      + [E-mailberichten beheren](workshop-rewind/workflow/email-notifications.md)
+      + [Projectsjablonen](workshop-rewind/workflow/project-templates.md)
+      + [Zelfstudie naar succes](workshop-rewind/workflow/self-taught-to-success.md)
+      + [De kracht van Workfront Data Connect ontgrendelen](workshop-rewind/workflow/data-connect.md)
 + Snel neemt {#quicktakes}
    + Boven 3 {#top3}
-      + [Creative-benaderingen met blauwdrukken](top3/blueprints.md)
-      + [Top 3 benaderingen voor kantooruren](top3/office-hours.md)
+      + [Creative-benaderingen met blauwdrukken](quick-takes/top3/blueprints.md)
+      + [Top 3 benaderingen voor kantooruren](quick-takes/top3/office-hours.md)
    + Volsus! {#versus}
-      + [Groepen versus teams](versus/groups-vs-teams.md)
+      + [Groepen versus teams](quick-takes/versus/groups-vs-teams.md)
 + Expert Insights {#expert-insights}
    + [Acceptatie](expert-insights/adoption.md)
    + [Beoordelingsenquêtes](expert-insights/adoption-surveys.md)
    + [Agile](expert-insights/agile.md)
-   + [Inhoudstoeleveringsketen](expert-insights/content-supply-chain.md)
+   + [Content Supply chain](expert-insights/content-supply-chain.md)
    + [Fusion](expert-insights/fusion.md)
    + [Governance &amp; Centers of Excellence](expert-insights/centers-of-excellence.md)
    + [Niet-traditionele Workfront-workflows](expert-insights/non-traditional-workfront-workflows.md)
@@ -39,19 +54,6 @@ ht-degree: 1%
    + [Queuten aanvragen met Lyndsy](expert-insights/request-queues.md)
    + [SLA Reporting in Workfront](expert-insights/sla-reporting.md)
    + [Zakelijk werkbeheer](expert-insights/enterprise-work-management.md)
-+ Workshop terugspoelen {#workshop-rewind}
-   + Integraties {#integrations}
-      + [Navigeren door wijzigingen voor velden met meerdere selecties en versnelling](workshop-rewind/integrations/mulit-select-fields.md)
-      + [Ware-gebeurteniskosten ontgrendelen](workshop-rewind/integrations/event-costs.md)
-   + Planning {#planning}
-      + [Succes op teamniveau met Workfront-planning](workshop-rewind/planning/team-success-workfront-planning.md)
-      + [Nieuwste in Workfront-planning](workshop-rewind/planning/workfront-planning.md)
-   + Workflow {#workflow}
-      + [Creative-methoden voor het beheer van bronnen](classics/creative-ways-of-managing-resources.md)
-      + [E-mailberichten beheren](workshop-rewind/workflow/email-notifications.md)
-      + [Projectsjablonen](workshop-rewind/workflow/project-templates.md)
-      + [De kracht van Workfront Data Connect ontgrendelen](workshop-rewind/workflow/data-connect.md)
-
 + Klassieke {#classics}
    + Beheer {#administration}
       + [Audittrails en compatibiliteit](user-groups/audit-trails-and-compliance.md)
