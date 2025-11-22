@@ -24,22 +24,22 @@ Blijf in de lus op exclusieve evenementen en webinars om uw leermogelijkheden ui
 * https://experienceleague.adobe.com/docs/events/workfront-recordings/overview.html?lang=nl-NL
   {title = Adobe Workfront}  
   {description = A library of recorded Workfront events where experts and peers share thoughts on how to use Workfront.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-workfront.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-workfront.png?lang=nl-NL}
   {cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/acrobat-sign-webinars/overview.html?lang=nl-NL
   {title = Acrobat Sign Webinars}
   {description = Learn from Adobe experts how to master new e-signature workflows in Acrobat Sign.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-acrobat-sign-webinars.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-acrobat-sign-webinars.png?lang=nl-NL}
   {cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/adobe-commerce-product-update-recordings/overview.html?lang=nl-NL
   {title = Adobe Commerce Product Updates}
   {description = The latest product innovations in Adobe Commerce, presented by the Adobe Commerce product team.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-commerce-product-updates.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-commerce-product-updates.png?lang=nl-NL}
   {cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html?lang=nl-NL
   {title = Adobe Developers Live}
   {description = Adobe Developers Live brings together Adobe developers and experience builders with diverse backgrounds and a singular purpose - to create incredible end-to-end experiences.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-developers-live.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-developers-live.png?lang=nl-NL}
   {cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/overview.html?lang=nl-NL
   {title = APAC Adobe Commerce Webinars}
@@ -64,7 +64,7 @@ Blijf in de lus op exclusieve evenementen en webinars om uw leermogelijkheden ui
 * https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/overview.html?lang=nl-NL
   {title = Customer Data Management Voices}
   {description = Your destination as a customer data management technical and marketing practice leader and specialist. A one stop shop to hear from your peers, get inspired and learn about developments in martech.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-customer-data-management-voices.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-customer-data-management-voices.png?lang=nl-NL}
   {cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/data-drip-recordings/overview.html?lang=nl-NL
   {title = Data Drip}
@@ -150,7 +150,7 @@ Blijf in de lus op exclusieve evenementen en webinars om uw leermogelijkheden ui
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/workfront-recordings/overview.html?lang=nl-NL" title="Adobe Workfront" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-workfront.png" alt="Adobe Workfront"
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-workfront.png?lang=nl-NL" alt="Adobe Workfront"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -173,7 +173,7 @@ Blijf in de lus op exclusieve evenementen en webinars om uw leermogelijkheden ui
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/acrobat-sign-webinars/overview.html?lang=nl-NL" title="Acrobat Sign Webinars" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-acrobat-sign-webinars.png" alt="Acrobat Sign Webinars"
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-acrobat-sign-webinars.png?lang=nl-NL" alt="Acrobat Sign Webinars"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -196,7 +196,7 @@ Blijf in de lus op exclusieve evenementen en webinars om uw leermogelijkheden ui
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/adobe-commerce-product-update-recordings/overview.html?lang=nl-NL" title="Adobe Commerce-productupdates" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-commerce-product-updates.png" alt="Adobe Commerce-productupdates"
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-commerce-product-updates.png?lang=nl-NL" alt="Adobe Commerce-productupdates"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -219,7 +219,7 @@ Blijf in de lus op exclusieve evenementen en webinars om uw leermogelijkheden ui
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html?lang=nl-NL" title="Adobe Developers Live" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-developers-live.png" alt="Adobe Developers Live"
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-developers-live.png?lang=nl-NL" alt="Adobe Developers Live"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -334,7 +334,7 @@ Blijf in de lus op exclusieve evenementen en webinars om uw leermogelijkheden ui
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/overview.html?lang=nl-NL" title="Klantengegevensbeheerstemmen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-customer-data-management-voices.png" alt="Klantengegevensbeheerstemmen"
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-customer-data-management-voices.png?lang=nl-NL" alt="Klantengegevensbeheerstemmen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
