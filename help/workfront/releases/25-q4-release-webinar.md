@@ -22,11 +22,11 @@ De vierde release van Workfront van het kwartaal werd op 16 oktober 2025 ingezet
 
 Als u de live sessie niet kon bijwonen - geen zorgen! Herzie het [&#x200B; diafeck &#x200B;](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/100925+-+Fourth+Quarter+Release+Webinar.pdf) en bekijk de opname op bestelling om langs te volgen.
 
-Ook, zorg ervoor om de [&#x200B; versienota&#39;s &#x200B;](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-25-q4/25-q4-release-overview) op Experience League te herzien, aangezien niet alle eigenschappen in webinar werden behandeld.
+Ook, zorg ervoor om de [&#x200B; versienota&#39;s &#x200B;](https://experienceleague.adobe.com/nl/docs/workfront/using/product-announcements/product-releases/release-25-q4/25-q4-release-overview) op Experience League te herzien, aangezien niet alle eigenschappen in webinar werden behandeld.
 
 Op zoek naar de vragen en antwoorden en de transcripties van de sessie? Controle uit de [&#x200B; Communautaire post van Experience League &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-adobe-workfront-fourth-quarter-2025-release/td-p/780946)!
 
-De nieuwe gebeurtenissen worden toegevoegd elke maand, zodat zorg ervoor om de [&#x200B; pagina van de Gebeurtenissen van Experience League &#x200B;](https://experienceleague.adobe.com/en/events) voor de recentste zittingen uit te checken.
+De nieuwe gebeurtenissen worden toegevoegd elke maand, zodat zorg ervoor om de [&#x200B; pagina van de Gebeurtenissen van Experience League &#x200B;](https://experienceleague.adobe.com/nl/events) voor de recentste zittingen uit te checken.
 
 
 

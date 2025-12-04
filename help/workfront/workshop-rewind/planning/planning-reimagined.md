@@ -24,11 +24,11 @@ Sluit u aan bij Heather MacDonald, Associate Vice President, Marketing Operation
 Als u de levende zitting miste, herzie {de dia&#39;s van SNHU van 0} HMac [&#x200B; en letten op de opname op bestelling om langs te volgen.](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/SNHU_Adobe+Planning_0825.pdf)
 * (Opmerking: alle projecten op het dek zijn slechts voorbeelden)
 
-Voor meer informatie over wat volgende voor de Planning van Workfront komt, ben zeker om de [&#x200B; pagina van de Activiteit van de Versie van de Planning van Adobe Workfront te merken &#x200B;](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/planning-release-activity/planning-release-activity-article-index) op Experience League.
+Voor meer informatie over wat volgende voor de Planning van Workfront komt, ben zeker om de [&#x200B; pagina van de Activiteit van de Versie van de Planning van Adobe Workfront te merken &#x200B;](https://experienceleague.adobe.com/nl/docs/workfront/using/product-announcements/product-releases/planning-release-activity/planning-release-activity-article-index) op Experience League.
 
 Hebt u ideeën om vervolgvragen van de gebeurtenis te delen of te hebben? Voel vrij om hen in de commentaren op de [&#x200B; post van de Gemeenschap van Experience League &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-workfront-planning-reimagined-snhu-s-creative/td-p/771019) te laten vallen!
 
-De nieuwe gebeurtenissen worden toegevoegd elke maand, zodat zorg ervoor om de [&#x200B; pagina van de Gebeurtenissen van Experience League &#x200B;](https://experienceleague.adobe.com/en/events) voor de recentste zittingen uit te checken.
+De nieuwe gebeurtenissen worden toegevoegd elke maand, zodat zorg ervoor om de [&#x200B; pagina van de Gebeurtenissen van Experience League &#x200B;](https://experienceleague.adobe.com/nl/events) voor de recentste zittingen uit te checken.
 
 
 

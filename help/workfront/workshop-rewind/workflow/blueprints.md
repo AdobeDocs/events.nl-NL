@@ -17,9 +17,9 @@ ht-degree: 0%
 
 # Snel en functioneel: blauwdrukken in Adobe Workfront
 
-De [&#x200B; bibliotheek van de Vervaging &#x200B;](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/blueprints/list-of-available-blueprints) in Adobe Workfront groeit constant met nieuwe, gebruiksklare malplaatjes en dashboards. Met een snel installatieproces kunt u minder tijd besteden aan het instellen en meer tijd besteden aan het uitvoeren van het werk.
+De [&#x200B; bibliotheek van de Vervaging &#x200B;](https://experienceleague.adobe.com/nl/docs/workfront/using/administration-and-setup/blueprints/list-of-available-blueprints) in Adobe Workfront groeit constant met nieuwe, gebruiksklare malplaatjes en dashboards. Met een snel installatieproces kunt u minder tijd besteden aan het instellen en meer tijd besteden aan het uitvoeren van het werk.
 
-Het team van het Succes van de Klant van Workfront deelde alles u over [&#x200B; Vervagingen &#x200B;](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/blueprints/blueprints-overview) moet weten - wat zij zijn, hoe zij werken, en hoe u kunt beginnen hen vandaag te gebruiken om waarde over uw organisatie te maximaliseren.
+Het team van het Succes van de Klant van Workfront deelde alles u over [&#x200B; Vervagingen &#x200B;](https://experienceleague.adobe.com/nl/docs/workfront/using/administration-and-setup/blueprints/blueprints-overview) moet weten - wat zij zijn, hoe zij werken, en hoe u kunt beginnen hen vandaag te gebruiken om waarde over uw organisatie te maximaliseren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477130/?learn=on&enablevpops)
 
@@ -27,6 +27,6 @@ Herzie [&#x200B; de dia&#39;s &#x200B;](https://workfront-experience.s3.us-west-
 
 Hebt u ideeën om vervolgvragen van de gebeurtenis te delen of te hebben? Voel vrij om hen in de commentaren op de [&#x200B; post van de Gemeenschap van Experience League &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-fast-and-functional-blueprints-in-adobe/td-p/777939) te laten vallen!
 
-De nieuwe gebeurtenissen worden toegevoegd elke maand, zodat zorg ervoor om de [&#x200B; pagina van de Gebeurtenissen van Experience League &#x200B;](https://experienceleague.adobe.com/en/events) voor de recentste zittingen uit te checken.
+De nieuwe gebeurtenissen worden toegevoegd elke maand, zodat zorg ervoor om de [&#x200B; pagina van de Gebeurtenissen van Experience League &#x200B;](https://experienceleague.adobe.com/nl/events) voor de recentste zittingen uit te checken.
 
 
