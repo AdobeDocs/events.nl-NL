@@ -23,10 +23,10 @@ Tijdens de workshop hebben we door dia&#39;s heen gewerkt om een aanpasbaar pakk
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477131/?learn=on&enablevpops)
 
-Herzie het [ diafeck van de presentatiedia ](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/093025+-+Pitch+Perfect+-+Defining+%26+Communicating+Workfront+Value.pdf) en bekijk de opname op bestelling om langs te volgen.
+Herzie het [&#x200B; diafeck van de presentatiedia &#x200B;](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/093025+-+Pitch+Perfect+-+Defining+%26+Communicating+Workfront+Value.pdf) en bekijk de opname op bestelling om langs te volgen.
 
-Wilt u een aanpasbaar diakader, met nota&#39;s en beste praktijken die tijdens de zitting worden gedeeld?  Controle uit de [ Communautaire post van Experience League ](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-pitch-perfect-defining-amp-communicating/td-p/779706) voor meer middelen!
+Wilt u een aanpasbaar diakader, met nota&#39;s en beste praktijken die tijdens de zitting worden gedeeld?  Controle uit de [&#x200B; Communautaire post van Experience League &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-pitch-perfect-defining-amp-communicating/td-p/779706) voor meer middelen!
 
-De nieuwe gebeurtenissen worden toegevoegd elke maand, zodat zorg ervoor om de [ pagina van de Gebeurtenissen van Experience League ](https://experienceleague.adobe.com/en/events) voor de recentste zittingen uit te checken.
+De nieuwe gebeurtenissen worden toegevoegd elke maand, zodat zorg ervoor om de [&#x200B; pagina van de Gebeurtenissen van Experience League &#x200B;](https://experienceleague.adobe.com/en/events) voor de recentste zittingen uit te checken.
 
 

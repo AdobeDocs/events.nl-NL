@@ -23,9 +23,9 @@ Daarnaast werden drie echte voorbeelden behandeld, van het zoeken en filteren va
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477129/?learn=on&enablevpops)
 
-Als u niet levende, geen zorgen kon bijwonen - herzie het [ diakeck ](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Slide+Deck+-+JSONata+Fusion+Event+-+September+17%2C+2025.pdf) en bekijk de opname op bestelling om langs te volgen.
+Als u niet levende, geen zorgen kon bijwonen - herzie het [&#x200B; diakeck &#x200B;](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Slide+Deck+-+JSONata+Fusion+Event+-+September+17%2C+2025.pdf) en bekijk de opname op bestelling om langs te volgen.
 
-Controle uit het [ Communautaire post van Experience League ](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-making-json-sing-with-workfront-fusion-jsonata/td-p/776029) voor downloadbaar, volg langs zip dossier van opleidingsmaterialen!
+Controle uit het [&#x200B; Communautaire post van Experience League &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-making-json-sing-with-workfront-fusion-jsonata/td-p/776029) voor downloadbaar, volg langs zip dossier van opleidingsmaterialen!
 
-De nieuwe gebeurtenissen worden toegevoegd elke maand, zodat zorg ervoor om de [ pagina van de Gebeurtenissen van Experience League ](https://experienceleague.adobe.com/en/events) voor de recentste zittingen uit te checken.
+De nieuwe gebeurtenissen worden toegevoegd elke maand, zodat zorg ervoor om de [&#x200B; pagina van de Gebeurtenissen van Experience League &#x200B;](https://experienceleague.adobe.com/en/events) voor de recentste zittingen uit te checken.
 

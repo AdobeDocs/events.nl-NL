@@ -21,9 +21,9 @@ In samenwerking met Brian Haight van Adobe Professional Services werd deze sessi
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477127/?learn=on&enablevpops)
 
-Het overzicht [ het diafeck ](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Slide+Deck+Template+-+Fusion+Event.pdf) en bekijkt de opname op bestelling om langs te volgen.
+Het overzicht [&#x200B; het diafeck &#x200B;](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Slide+Deck+Template+-+Fusion+Event.pdf) en bekijkt de opname op bestelling om langs te volgen.
 
-Controle uit de [ Communautaire post van Experience League ](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-fast-track-efficiency-data-imports-with/td-p/769522) voor downloadbare CSV dossiervoorbeelden en de Bundel van de Fusie CSV!
+Controle uit de [&#x200B; Communautaire post van Experience League &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-fast-track-efficiency-data-imports-with/td-p/769522) voor downloadbare CSV dossiervoorbeelden en de Bundel van de Fusie CSV!
 
-De nieuwe gebeurtenissen worden toegevoegd elke maand, zodat zorg ervoor om de [ pagina van de Gebeurtenissen van Experience League ](https://experienceleague.adobe.com/en/events) voor de recentste zittingen uit te checken.
+De nieuwe gebeurtenissen worden toegevoegd elke maand, zodat zorg ervoor om de [&#x200B; pagina van de Gebeurtenissen van Experience League &#x200B;](https://experienceleague.adobe.com/en/events) voor de recentste zittingen uit te checken.
 
