@@ -2,9 +2,9 @@
 user-guide-title: Adobe Customer Success Webinars
 breadcrumb-title: Adobe Customer Success Webinars
 user-guide-description: Adobe Customer Success geleide webinars die zijn ontworpen om u te helpen uw investering in Adobe Experience Cloud te optimaliseren. Vergroot waardevolle inzichten om de waarde te maximaliseren en de acceptatie van Adobe-oplossingen te vergroten.
-source-git-commit: 1db369887a1c09c774ef07d73ece2d890f36d98f
+source-git-commit: 76919cb28c46b76ad2aace48fbc4fc95ec3fa750
 workflow-type: tm+mt
-source-wordcount: '551'
+source-wordcount: '556'
 ht-degree: 4%
 
 ---
@@ -73,6 +73,7 @@ ht-degree: 4%
       + [2024 vakantieresultaten en trends in 2025](2025/adobe-digital-insights.md)
       + [Opstellen van strategieën voor een effectieve meting](2025/impactful-insights.md)
       + [Een Agile Marketing Organisation kweken](2025/agile-marketing-organization.md)
+      + [Praktische B2B-gebruiksscenario&#39;s ontwikkelen](2025/practical-business-use-cases.md)
       + [Digitale trends en voorbereiding op de toekomst](2025/digital-trends-preparing-future.md)
       + [Northstar Architecture](2025/northstar-architecture.md)
       + [AI-gestuurde groei en topprestaties](2025/ai-driven-growth.md)

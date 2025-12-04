@@ -3,10 +3,10 @@ user-guide-title: Workfront Events
 breadcrumb-title: Workfront Events
 user-guide-description: Workfront Events
 solution: Workfront
-source-git-commit: 42c0401d1ef307fd4e4d93245f472f75259d6d21
+source-git-commit: 2a5336b19f61bb0e1c48311b36c76c4a0967c410
 workflow-type: tm+mt
-source-wordcount: '239'
-ht-degree: 0%
+source-wordcount: '280'
+ht-degree: 1%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 0%
 + [Workfront Workshops op aanvraag](overview.md)
 
 + Webinars vrijgeven {#releases}
+   + [Vierde kwartaal 2025, vrijgave webinar](releases/25-q4-release-webinar.md)
    + [25.7 Release](releases/25-7-release-webinar.md)
    + [25.4 Release](releases/25-4-release-webinar.md)
    + [25.1 Release](releases/25-1-release-webinar.md)
@@ -23,18 +24,28 @@ ht-degree: 0%
 + Workshop terugspoelen {#workshop-rewind}
    + Fusion {#fusion}
       + [Naamgevingsconventies automatiseren](workshop-rewind/fusion/automating-naming-conventions.md)
+      + [Invoer van gegevens](workshop-rewind/fusion/data-imports.md)
+      + [Fusie gedecodeerd](workshop-rewind/fusion/fusion-decoded.md)
+      + [Hoe helpt Workfront Fusion de Mensen](workshop-rewind/fusion/inside-mayo-clinic.md)
       + [Navigeren door wijzigingen voor velden met meerdere selecties en versnelling](workshop-rewind/fusion/mulit-select-fields.md)
       + [Ware-gebeurteniskosten ontgrendelen](workshop-rewind/fusion/event-costs.md)
+      + [Workfront Fusion + JSONata](workshop-rewind/fusion/jsonata.md)
    + Planning {#planning}
       + [Nieuwste in Workfront-planning](workshop-rewind/planning/workfront-planning.md)
+      + [CREATIVE Use-cases van SNHU](workshop-rewind/planning/planning-reimagined.md)
       + [Succes op teamniveau met Workfront-planning](workshop-rewind/planning/team-success-workfront-planning.md)
       + [Workfront Planning Release &amp; Roadmap](workshop-rewind/planning/planning-release-roadmap.md)
    + Workflow {#workflow}
-      + [Creative-methoden voor het beheer van bronnen](classics/creative-ways-of-managing-resources.md)
+      + [Blauwdrukken](workshop-rewind/workflow/blueprints.md)
+      + [Workfront-waarde definiëren en communiceren](workshop-rewind/workflow/workfront-value.md)
+      + [Tips voor bestuur, uitvoering en adoptie](workshop-rewind/workflow/governance-execution-adoption.md)
       + [E-mailberichten beheren](workshop-rewind/workflow/email-notifications.md)
+      + [Bezig met beheersen van EXISTS-instructies](workshop-rewind/workflow/master-exists-statements.md)
+      + [Power Templates](workshop-rewind/workflow/power-templates.md)
       + [Projectsjablonen](workshop-rewind/workflow/project-templates.md)
       + [Zelfstudie naar succes](workshop-rewind/workflow/self-taught-to-success.md)
       + [De kracht van Workfront Data Connect ontgrendelen](workshop-rewind/workflow/data-connect.md)
+      + [Native integratie voor Workfront en AEM](workshop-rewind/workflow/aem-native-integration.md)
 + Snel neemt {#quicktakes}
    + Boven 3 {#top3}
       + [Creative-benaderingen met blauwdrukken](quick-takes/top3/blueprints.md)
@@ -73,6 +84,7 @@ ht-degree: 0%
       + [Basisrapportage van tekstmodus superladen met de API Explorer](classics/supercharge-basic-text-mode-reporting-using-the-api-explorer.md)
       + [Combinatie en capaciteit](classics/understanding-mix-and-capacity.md)
    + Bronbeheer {#resource-management}
+      + [Creative-methoden voor het beheer van bronnen](classics/creative-ways-of-managing-resources.md)
       + [Planning van bronnen en capaciteit](user-groups/resource-and-capacity-planning.md)
       + [Bronbeheer](user-groups/resource-management.md)
    + Werk controleren en goedkeuren {#review-and-approve-work}
@@ -87,10 +99,3 @@ ht-degree: 0%
       + [Workfront Proof gebruiken](user-groups/leveraging-workfront-proof.md)
    + Wachtrijen en opname aanvragen {#request-queues-and-intake}
       + [Wachtrijen aanvragen en Forms innemen](user-groups/request-queues-and-intake-forms.md)
-
-
-
-
-<!--  + Planning {#planning}
-  + Integrations {#integrations}
--->
