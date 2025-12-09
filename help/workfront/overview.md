@@ -51,7 +51,7 @@ Deze lopende videoreeks biedt een duidelijk en beknopt overzicht van elke driema
 
 ## Workshop terugspoelen
 
-Ontdek de nieuwste gebeurtenissen van je Adobe Workfront-community via onze gekrulde selectie van aanbevolen gebeurtenissen. Elke maand, ontvangen wij vrije levende zittingen die een verscheidenheid van onderwerpen behandelen om u te helpen het beste uit Workfront krijgen. Een livegebeurtenis gemist? Geen probleem! Vang omhoog met opnamen op bestelling die klantenverhalen, bewezen beste praktijken, en waardevolle geleerde lessen tonen. Wilt u in real-time verbinding maken? U kunt deelnemen aan komende live gebeurtenissen om vragen te stellen, inzichten te delen en met anderen samen te werken. Bezoek de [&#x200B; pagina van de Gebeurtenissen van Workfront van Experience League &#x200B;](https://experienceleague.adobe.com/en/events?filters=Workfront) regelmatig om te zien wat volgende omhoog komt!
+Ontdek de nieuwste gebeurtenissen van je Adobe Workfront-community via onze gekrulde selectie van aanbevolen gebeurtenissen. Elke maand, ontvangen wij vrije levende zittingen die een verscheidenheid van onderwerpen behandelen om u te helpen het beste uit Workfront krijgen. Een livegebeurtenis gemist? Geen probleem! Vang omhoog met opnamen op bestelling die klantenverhalen, bewezen beste praktijken, en waardevolle geleerde lessen tonen. Wilt u in real-time verbinding maken? U kunt deelnemen aan komende live gebeurtenissen om vragen te stellen, inzichten te delen en met anderen samen te werken. Bezoek de [&#x200B; pagina van de Gebeurtenissen van Workfront van Experience League &#x200B;](https://experienceleague.adobe.com/nl/events?filters=Workfront) regelmatig om te zien wat volgende omhoog komt!
 
 <!-- CARDS 
 
