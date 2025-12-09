@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Met Adobe Customer Journey Analytics kunt u inzichten op verschillende platforms met elkaar verbinden, zodat marketers gesegmenteerde soorten publiek kunnen maken op basis van gedragsgegevens. Leer hoe u gedeelde doelgroepen kunt gebruiken voor alominchannel personalisatie, campagnes kunt stroomlijnen en klantinzichten kunt maximaliseren met Adobe Real-Time Customer Data Platform en Adobe Journey Optimizer.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477449/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477465/?captions=dut&learn=on&enablevpops)
