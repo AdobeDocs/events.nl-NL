@@ -3,9 +3,9 @@ title: Adobe Workfront Workshops op aanvraag
 description: Workfront Events is een videobibliotheek waar experts en collega's hun gedachten en ideeën hebben gedeeld over hoe ze Workfront kunnen gebruiken om het werk dat voor hun organisaties wordt gedaan, te verbeteren.
 exl-id: bf38329c-65f1-48f0-b106-8b7d226aa894
 duration: 39
-source-git-commit: 48d93e64b075db84d164a743db97fa0202b3e26c
+source-git-commit: 8762eada888ea3ed55ddefe70d587c76ae6bfa16
 workflow-type: tm+mt
-source-wordcount: '874'
+source-wordcount: '860'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ Deze lopende videoreeks biedt een duidelijk en beknopt overzicht van elke driema
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="releases/25-7-release-webinar.md" title="Adobe Workfront 25.7-release webinar" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464843/?format=jpeg&nocache=1763675711841" alt="Adobe Workfront 25.7-release webinar"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464843/?format=jpeg&nocache=1765315875998" alt="Adobe Workfront 25.7-release webinar"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -51,13 +51,13 @@ Deze lopende videoreeks biedt een duidelijk en beknopt overzicht van elke driema
 
 ## Workshop terugspoelen
 
-Ontdek de nieuwste gebeurtenissen van je Adobe Workfront-community via onze gekrulde selectie van aanbevolen gebeurtenissen. Elke maand, ontvangen wij vrije levende zittingen die een verscheidenheid van onderwerpen behandelen om u te helpen het beste uit Workfront krijgen. Een livegebeurtenis gemist? Geen probleem! Vang omhoog met opnamen op bestelling die klantenverhalen, bewezen beste praktijken, en waardevolle geleerde lessen tonen. Wilt u in real-time verbinding maken? U kunt deelnemen aan komende live gebeurtenissen om vragen te stellen, inzichten te delen en met anderen samen te werken. Bezoek de [&#x200B; pagina van de Gebeurtenissen van Workfront van Experience League &#x200B;](https://experienceleague.adobe.com/nl/events?filters=Workfront) regelmatig om te zien wat volgende omhoog komt!
+Ontdek de nieuwste gebeurtenissen van je Adobe Workfront-community via onze gekrulde selectie van aanbevolen gebeurtenissen. Elke maand, ontvangen wij vrije levende zittingen die een verscheidenheid van onderwerpen behandelen om u te helpen het beste uit Workfront krijgen. Een livegebeurtenis gemist? Geen probleem! Vang omhoog met opnamen op bestelling die klantenverhalen, bewezen beste praktijken, en waardevolle geleerde lessen tonen. Wilt u in real-time verbinding maken? U kunt deelnemen aan komende live gebeurtenissen om vragen te stellen, inzichten te delen en met anderen samen te werken. Bezoek de [ pagina van de Gebeurtenissen van Workfront van Experience League ](https://experienceleague.adobe.com/en/events?filters=Workfront) regelmatig om te zien wat volgende omhoog komt!
 
 <!-- CARDS 
 
 * workshop-rewind/planning/team-success-workfront-planning.md
 * workshop-rewind/fusion/event-costs.md
-* workshop-rewind/workflow/data-connect.md
+* workshop-rewind/workflow/creative-briefs.md
  
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
@@ -67,7 +67,7 @@ Ontdek de nieuwste gebeurtenissen van je Adobe Workfront-community via onze gekr
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workshop-rewind/planning/team-success-workfront-planning.md" title="Snel starten, Slim schalen - Succesvol op teamniveau activeren met Workfront-planning" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469964/?format=jpeg&nocache=1763675712244" alt="Snel starten, Slim schalen - Succesvol op teamniveau activeren met Workfront-planning"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469964/?format=jpeg&nocache=1765315876609" alt="Snel starten, Slim schalen - Succesvol op teamniveau activeren met Workfront-planning"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -90,7 +90,7 @@ Ontdek de nieuwste gebeurtenissen van je Adobe Workfront-community via onze gekr
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workshop-rewind/fusion/event-costs.md" title="Workfront Fusion Fix - Ericsson&apos;s slimmere manier om werkelijke gebeurteniskosten te ontgrendelen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469977/?format=jpeg&nocache=1763675712238" alt="Workfront Fusion Fix - Ericsson&apos;s slimmere manier om werkelijke gebeurteniskosten te ontgrendelen"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469977/?format=jpeg&nocache=1765315876620" alt="Workfront Fusion Fix - Ericsson&apos;s slimmere manier om werkelijke gebeurteniskosten te ontgrendelen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -108,12 +108,12 @@ Ontdek de nieuwste gebeurtenissen van je Adobe Workfront-community via onze gekr
             </div>
         </div>
     </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Unlock the Power of Workfront Data Connect">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Reimagining Creative Briefs in Workfront">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="workshop-rewind/workflow/data-connect.md" title="De kracht van Workfront Data Connect ontgrendelen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469965/?format=jpeg&nocache=1763675712257" alt="De kracht van Workfront Data Connect ontgrendelen"
+                    <a href="workshop-rewind/workflow/creative-briefs.md" title="Creative Briefs in Workfront opnieuw voorstellen" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477114/?format=jpeg&nocache=1765315876590" alt="Creative Briefs in Workfront opnieuw voorstellen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -121,11 +121,11 @@ Ontdek de nieuwste gebeurtenissen van je Adobe Workfront-community via onze gekr
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="workshop-rewind/workflow/data-connect.md" target="_blank" rel="referrer" title="De kracht van Workfront Data Connect ontgrendelen"> ontgrendel de Macht van de Gegevens van Workfront verbinden </a>
+                        <a href="workshop-rewind/workflow/creative-briefs.md" target="_blank" rel="referrer" title="Creative Briefs in Workfront opnieuw voorstellen"> die de Brief van Creative in Workfront </a> opnieuw voorstellen
                     </p>
-                    <p class="is-size-6">Ontdek hoe Adobe Workfront Data Connect integreert met BI-tools om inzicht te krijgen, prestaties te volgen en slimmere zakelijke beslissingen te nemen.</p>
+                    <p class="is-size-6">Ontdek hoe Kohler creatieve instructies transformeerde met Workfront om processen te stroomlijnen en de efficiëntie te verbeteren.</p>
                 </div>
-                <a href="workshop-rewind/workflow/data-connect.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="workshop-rewind/workflow/creative-briefs.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Leer meer </span>
                 </a>
             </div>
@@ -155,7 +155,7 @@ Of u nu Workfront-beheerder, projectmanager of alledaagse gebruiker bent, deze s
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="quick-takes/top3/blueprints.md" title="Top 3 - Creative-benaderingen met blauwdrukken" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465317/?captions=dut&format=jpeg&nocache=1763675712911" alt="Top 3 - Creative-benaderingen met blauwdrukken"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465271/?format=jpeg&nocache=1765315877555" alt="Top 3 - Creative-benaderingen met blauwdrukken"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -178,7 +178,7 @@ Of u nu Workfront-beheerder, projectmanager of alledaagse gebruiker bent, deze s
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="quick-takes/versus/groups-vs-teams.md" title="Volsus! - Groepen versus teams" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3467359/?captions=dut&format=jpeg&nocache=1763675712903" alt="Volsus! - Groepen versus teams"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465273/?format=jpeg&nocache=1765315877551" alt="Volsus! - Groepen versus teams"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -219,7 +219,7 @@ Deze sessies zijn uitgerust met oplossingen uit de praktijk, voorbeelden van kla
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/adoption.md" title="Expert Insights - adoptie met Leslie Spier" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469933/?captions=dut&format=jpeg&nocache=1763675713371" alt="Expert Insights - adoptie met Leslie Spier"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469893/?format=jpeg&nocache=1765315878072" alt="Expert Insights - adoptie met Leslie Spier"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -242,7 +242,7 @@ Deze sessies zijn uitgerust met oplossingen uit de praktijk, voorbeelden van kla
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/adoption-surveys.md" title="Expert Insights - adoptieonderzoeken met Jaime Davidson" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469956/?captions=dut&format=jpeg&nocache=1763675713377" alt="Expert Insights - adoptieonderzoeken met Jaime Davidson"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469895/?format=jpeg&nocache=1765315878064" alt="Expert Insights - adoptieonderzoeken met Jaime Davidson"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -265,7 +265,7 @@ Deze sessies zijn uitgerust met oplossingen uit de praktijk, voorbeelden van kla
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/agile.md" title="Expert Insights - Agile met Natalie Mitchell" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469922/?captions=dut&format=jpeg&nocache=1763675713389" alt="Expert Insights - Agile met Natalie Mitchell"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469891/?format=jpeg&nocache=1765315878067" alt="Expert Insights - Agile met Natalie Mitchell"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
