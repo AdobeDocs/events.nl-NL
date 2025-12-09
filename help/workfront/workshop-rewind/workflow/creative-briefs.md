@@ -25,8 +25,8 @@ Ontdek hoe Kohler zijn creatieve briefjes met Workfront heeft vernieuwd om de pr
 
 ## Bronnen
 
-* Kom ons live bij onze gebeurtenissen zien [ tekst ](https://experienceleague.adobe.com/fr/events)
-* Kom ons live bij onze gebeurtenissen zien [ tekst ](https://experienceleague.adobe.com/fr/events)
+* Kom ons live bij onze gebeurtenissen zien [&#x200B; tekst &#x200B;](https://experienceleague.adobe.com/fr/events)
+* Kom ons live bij onze gebeurtenissen zien [&#x200B; tekst &#x200B;](https://experienceleague.adobe.com/fr/events)
 
 
 
