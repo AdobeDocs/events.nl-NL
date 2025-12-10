@@ -23,6 +23,6 @@ Deze keer deel ik mijn favoriete manieren om het meeste van het Plannen van Rapp
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477040/?learn=on&enablevpops)
 
-Voor meer middelen controleer uit de [ Communautaire post van Experience League ](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-ways-to-get-the-most-from-report-scheduling/td-p/609285)!
+Voor meer middelen controleer uit de [&#x200B; Communautaire post van Experience League &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-ways-to-get-the-most-from-report-scheduling/td-p/609285)!
 
-Als u van het leren over nieuwe ideeën en creatieve benaderingen houdt, dan vergeet niet om voor komende workshops op de [ pagina van de Gebeurtenissen van Experience League ](https://experienceleague.adobe.com/en/events) te registreren.
+Als u van het leren over nieuwe ideeën en creatieve benaderingen houdt, dan vergeet niet om voor komende workshops op de [&#x200B; pagina van de Gebeurtenissen van Experience League &#x200B;](https://experienceleague.adobe.com/en/events) te registreren.
