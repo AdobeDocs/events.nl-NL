@@ -26,6 +26,6 @@ Neem deel aan deze live sessie waarbij het productteam achter de Product Support
 * Hoe de Agent van de Steun van het Product gebruikers met pro-actieve en zelfbediening steun en geautomatiseerde gevallenverwezenlijking en het volgen van toelaat
 * Innovaties en capaciteiten in de horizon om het supportbeheer voor gebruikers verder te stroomlijnen
 
-[![ ExL LIVE Jan 17 2024 ](assets/WebBanner_Dec16_2025.jpg) ](https://engage.adobe.com/ExpLeagueLive-251216.html?sdid=LH4XT4PX&mv=other){target="_blank"}
+[![&#x200B; ExL LIVE Jan 17 2024 &#x200B;](assets/WebBanner_Dec16_2025.jpg) &#x200B;](https://engage.adobe.com/ExpLeagueLive-251216.html?sdid=LH4XT4PX&mv=other){target="_blank"}
 
-[ Register nu voor deze gebeurtenis!](https://engage.adobe.com/ExpLeagueLive-251216.html?sdid=LH4XT4PX&mv=other){target="_blank"}
+[&#x200B; Register nu voor deze gebeurtenis!](https://engage.adobe.com/ExpLeagueLive-251216.html?sdid=LH4XT4PX&mv=other){target="_blank"}
