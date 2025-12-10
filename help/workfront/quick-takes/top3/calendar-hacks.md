@@ -24,7 +24,7 @@ Het is weer uw &quot;On-Demand Workfront CSM&quot; met voorbeelden van mijn pers
 * Verzoeken die rechtstreeks op een Kalender tonen (het Nieuwe Voorbeeld van de Werknemer Onboarding)
 * En een bonusuiteinde!
 
->[!VIDEO](https://video.tv.adobe.com/v/3477039/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477069/?captions=dut&learn=on&enablevpops)
 
 Voor meer middelen controleer uit de [&#x200B; Communautaire post van Experience League &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-fave-calendar-hacks/td-p/591047)!
 

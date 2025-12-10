@@ -21,7 +21,7 @@ Ik ben het weer, je &quot;On-Demand Workfront CSM&quot; Cynthia Boon met nog een
 
 Deze keer deel ik mijn favoriete manieren om het meeste van het Plannen van Rapporten te krijgen. In de video laat ik voorbeelden zien van hoe u deze functie kunt gebruiken om nog meer te halen uit alle fantastische rapporten die u maakt.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477040/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477080/?captions=dut&learn=on&enablevpops)
 
 Voor meer middelen controleer uit de [&#x200B; Communautaire post van Experience League &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-ways-to-get-the-most-from-report-scheduling/td-p/609285)!
 

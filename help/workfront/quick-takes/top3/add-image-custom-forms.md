@@ -21,7 +21,7 @@ Bekijk deze Top 3 video waarin u de redenen voor het opnemen van afbeeldingen, v
 
 Dit omvat zowel leuke als functionele tips om de communicatie te verbeteren en het invullen van verzoeken interessanter te maken voor uw eindgebruikers.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477027/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477058/?captions=dut&learn=on&enablevpops)
 
 Voor meer middelen controleer uit de [&#x200B; Communautaire post van Experience League &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-to-add-an-image-to-custom-forms/m-p/576903#M374)!
 

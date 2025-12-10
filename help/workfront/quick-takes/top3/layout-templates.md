@@ -19,7 +19,7 @@ ht-degree: 0%
 
 Het is geen verrassing, lay-outmalplaatjes maken uw instanties van Adobe Workfront meer die aan uw specifieke behoeften als Admin van het Systeem worden aangepast, zodat controleer mijn top 3 redenen waarom u lay-outmalplaatjes zou moeten gebruiken!
 
->[!VIDEO](https://video.tv.adobe.com/v/3477026/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477046/?captions=dut&learn=on&enablevpops)
 
 Voor meer middelen controleer uit de [&#x200B; Communautaire post van Experience League &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-to-use-layout-templates-in-adobe-workfront/m-p/575531#M313)!
 

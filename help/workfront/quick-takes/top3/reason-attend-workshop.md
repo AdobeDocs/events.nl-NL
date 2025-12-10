@@ -19,7 +19,7 @@ ht-degree: 0%
 
 Adobe Workfront Workshops zijn een uitstekende manier om vertrouwd te raken met ons product. Bekijk een korte video over de drie belangrijkste redenen waarom u onze workshops zou moeten bijwonen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477025/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477033/?captions=dut&learn=on&enablevpops)
 
 Zodra u wordt gedaan, ga over aan de [&#x200B; pagina van de Gebeurtenissen van Experience League &#x200B;](https://experienceleague.adobe.com/nl/events?filters=Workfront) om zich voor toekomstige workshops aan te melden.
 
