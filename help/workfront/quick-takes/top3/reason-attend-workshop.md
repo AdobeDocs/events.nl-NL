@@ -21,5 +21,5 @@ Adobe Workfront Workshops zijn een uitstekende manier om vertrouwd te raken met 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477025/?learn=on&enablevpops)
 
-Zodra u wordt gedaan, ga over aan de [&#x200B; pagina van de Gebeurtenissen van Experience League &#x200B;](https://experienceleague.adobe.com/en/events?filters=Workfront) om zich voor toekomstige workshops aan te melden.
+Zodra u wordt gedaan, ga over aan de [&#x200B; pagina van de Gebeurtenissen van Experience League &#x200B;](https://experienceleague.adobe.com/nl/events?filters=Workfront) om zich voor toekomstige workshops aan te melden.
 

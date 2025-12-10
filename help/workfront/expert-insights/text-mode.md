@@ -36,10 +36,10 @@ De tekstmodus kan een uitdaging zijn, maar de beloningen zijn verbazingwekkend. 
 
 Op zoek naar extra middelen? We hebben ze!
 * [&#x200B; het Comité van de Klant: Lessen die van Veteran Workfront Admins &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-customer-panel-lessons-learned-from-veteran/m-p/714861#M3487) worden geleerd - Katherine deelde meer inzichten!
-* [&#x200B; inzamelingen van de Verwijzing in een rapport &#x200B;](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/text-mode/reference-collections-report)
-* [API Explorer](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-api/api-general-information/api-explorer)
+* [&#x200B; inzamelingen van de Verwijzing in een rapport &#x200B;](https://experienceleague.adobe.com/nl/docs/workfront/using/reporting/reports/text-mode/reference-collections-report)
+* [API Explorer](https://experienceleague.adobe.com/nl/docs/workfront/using/adobe-workfront-api/api-general-information/api-explorer)
 * [&#x200B; Meldend Cookbook &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/the-first-ever-adobe-workfront-customer-reporting-cookbook-is/m-p/478722#M1406)
-* En als u gloednieuw aan het Melden bent, begin met het artikel van het Perspectief van Nichole, [&#x200B; 8 stappen om eenvoudige, efficiënte rapporten in Adobe Workfront &#x200B;](https://experienceleague.adobe.com/en/perspectives/8-steps-to-create-simple-effective-reports-in-adobe-workfront) tot stand te brengen.
+* En als u gloednieuw aan het Melden bent, begin met het artikel van het Perspectief van Nichole, [&#x200B; 8 stappen om eenvoudige, efficiënte rapporten in Adobe Workfront &#x200B;](https://experienceleague.adobe.com/nl/perspectives/8-steps-to-create-simple-effective-reports-in-adobe-workfront) tot stand te brengen.
 
 Voor meer middelen, met inbegrip van de Wijze van de Tekst van de exemplaar/deeg, controleer de [&#x200B; Communautaire post van Experience League &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-october-2025-workfront-expert-insights-text-mode-with/m-p/779717#M4848)!
 
@@ -57,4 +57,4 @@ Ze woont in het zuidwesten van Ohio met haar onbedoelde echtgenoot, haar hond &#
 
 Hebt u een geweldig verhaal om te delen, tijdens een gebeurtenis of in een video van Expert Insights? Gelieve te bereiken uit aan ons team in [&#x200B; CSatScale@adobe.com &#x200B;](mailto:CSatScale@adobe.com).
 
-En als u van het leren over nieuwe ideeën en creatieve benaderingen houdt, dan vergeet niet om voor komende workshops op de [&#x200B; pagina van de Gebeurtenissen van Experience League &#x200B;](https://experienceleague.adobe.com/en/events) te registreren.
+En als u van het leren over nieuwe ideeën en creatieve benaderingen houdt, dan vergeet niet om voor komende workshops op de [&#x200B; pagina van de Gebeurtenissen van Experience League &#x200B;](https://experienceleague.adobe.com/nl/events) te registreren.
