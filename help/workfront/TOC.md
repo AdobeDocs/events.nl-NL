@@ -3,10 +3,10 @@ user-guide-title: Workfront Events
 breadcrumb-title: Workfront Events
 user-guide-description: Workfront Events
 solution: Workfront
-source-git-commit: 8762eada888ea3ed55ddefe70d587c76ae6bfa16
+source-git-commit: df552b4f2b2fa1d8e4e8941aa9d58acecc60dd2b
 workflow-type: tm+mt
-source-wordcount: '283'
-ht-degree: 1%
+source-wordcount: '312'
+ht-degree: 0%
 
 ---
 
@@ -51,6 +51,11 @@ ht-degree: 1%
    + Boven 3 {#top3}
       + [Creative-benaderingen met blauwdrukken](quick-takes/top3/blueprints.md)
       + [Top 3 benaderingen voor kantooruren](quick-takes/top3/office-hours.md)
+      + [Top 3 van agenda-hacks](quick-takes/top3/calendar-hacks.md)
+      + [Afbeeldingen gebruiken in Aangepaste Forms](quick-takes/top3/add-image-custom-forms.md)
+      + [Belangrijkste redenen voor het gebruik van lay-outsjablonen](quick-takes/top3/layout-templates.md)
+      + [Belangrijkste redenen om Workfront Workshops bij te wonen](quick-takes/top3/reason-attend-workshop.md)
+      + [Rapportplanning maximaliseren in Workfront](quick-takes/top3/report-scheduling.md)
    + Volsus! {#versus}
       + [Groepen versus teams](quick-takes/versus/groups-vs-teams.md)
 + Expert Insights {#expert-insights}
@@ -60,6 +65,7 @@ ht-degree: 1%
    + [Content Supply chain](expert-insights/content-supply-chain.md)
    + [Fusion](expert-insights/fusion.md)
    + [Governance &amp; Centers of Excellence](expert-insights/centers-of-excellence.md)
+   + [Hoofdtekstmodus](expert-insights/text-mode.md)
    + [Niet-traditionele Workfront-workflows](expert-insights/non-traditional-workfront-workflows.md)
    + [Rapportagepraktijken](expert-insights/reporting-practices.md)
    + [Bronbeheer](expert-insights/resource-management.md)
