@@ -7,9 +7,9 @@ feature: AI Assistant
 event-cta-url-live: https://www.youtube.com/live/MW2Ba7HJNbA
 event-start-time: 2025-12-16 09:00-8
 event-guests: Daniel Wright, Huong Vu, Shreya Anantha Raman
-source-git-commit: b875b460b7226e625b65e11588cd9e01d11cac7f
+source-git-commit: b818f0896871c9ea771e5a4694ec8b496cb06abd
 workflow-type: tm+mt
-source-wordcount: '250'
+source-wordcount: '248'
 ht-degree: 0%
 
 ---
@@ -26,6 +26,6 @@ Neem deel aan deze live sessie waarbij het productteam achter de Product Support
 * Hoe de Agent van de Steun van het Product gebruikers met pro-actieve en zelfbediening steun en geautomatiseerde gevallenverwezenlijking en het volgen van toelaat
 * Innovaties en capaciteiten in de horizon om het supportbeheer voor gebruikers verder te stroomlijnen
 
-[![&#x200B; ExL LIVE Jan 17 2024 &#x200B;](assets/WebBanner_Dec16_2025.jpg) &#x200B;](https://www.youtube.com/live/MW2Ba7HJNbA){target="_blank"}
+[![ ExL LIVE Jan 17 2024 ](assets/WebBanner_Dec16_2025.jpg) ](https://engage.adobe.com/ExpLeagueLive-251216.html?sdid=LH4XT4PX&mv=other){target="_blank"}
 
-[&#x200B; klik om een herinnering op YouTube te plaatsen!](https://www.youtube.com/live/MW2Ba7HJNbA){target="_blank"}
+[ Register nu voor deze gebeurtenis!](https://engage.adobe.com/ExpLeagueLive-251216.html?sdid=LH4XT4PX&mv=other){target="_blank"}
