@@ -23,6 +23,6 @@ Ontdek hoe AI de digitale ervaringen in deze sleutelnotitie van Adobe Developers
 
 ## Volgende stappen
 
-* Ga op [ Experience League ](https://adobe.ly/47ss08A) verder
-* Ontdek [ aanstaande gebeurtenissen ](https://developerevents.adobe.com)
+* Ga op [&#x200B; Experience League &#x200B;](https://adobe.ly/47ss08A) verder
+* Ontdek [&#x200B; aanstaande gebeurtenissen &#x200B;](https://developerevents.adobe.com)
 
