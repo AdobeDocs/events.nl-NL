@@ -2,9 +2,9 @@
 user-guide-title: Adobe Developers Live Events
 user-guide-breadcrumb: Developers Live Events
 user-guide-description: Opnamen verzamelen van de Adobe Developer Live Content-gebeurtenis
-source-git-commit: c069bbf422ed534b7459bf740c3c4df5f1f8cc3a
+source-git-commit: ea82ddf49a9cddc4292b46a1070200083135ca3d
 workflow-type: tm+mt
-source-wordcount: '906'
+source-wordcount: '929'
 ht-degree: 3%
 
 ---
@@ -13,6 +13,12 @@ ht-degree: 3%
 # Adobe Developers Live Events {#adobe-developers-live-recordings}
 
 + [Overzicht](overview.md)
++ 2025 {#2025}
+   + [Keynote - het Bouwen van het Authoritic Web Keynote](2025/keynote.md)
+   + [Agentische evolutie van AEM](2025/agentic-evolution-aem.md)
+   + [AI in Adobe-projecten](2025/ai-in-projects.md)
+   + [AI Codeweergave](2025/coding-agent.md)
+   + [Adobe Experience Manager-agents verkennen](2025/aem-agents.md)
 + 2024 {#2024}
    + november {#nov2024}
       + [Toetsenbord](2024/nov/keynote.md)
