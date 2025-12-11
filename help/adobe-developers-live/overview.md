@@ -85,7 +85,7 @@ Adobe-productteams in Adobe Experience Cloud, Document Cloud en Creative Cloud z
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/ai-in-projects.md" title="AI in Adobe-projecten - Praktische artikelen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477606/?format=jpeg&nocache=1765410870539" alt="AI in Adobe-projecten - Praktische artikelen"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477631/?captions=dut&format=jpeg&nocache=1765410870539" alt="AI in Adobe-projecten - Praktische artikelen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -131,7 +131,7 @@ Adobe-productteams in Adobe Experience Cloud, Document Cloud en Creative Cloud z
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/aem-agents.md" title="Adobe Experience Manager-agents verkennen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477620/?format=jpeg&nocache=1765410870551" alt="Adobe Experience Manager-agents verkennen"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477666/?captions=dut&format=jpeg&nocache=1765410870551" alt="Adobe Experience Manager-agents verkennen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

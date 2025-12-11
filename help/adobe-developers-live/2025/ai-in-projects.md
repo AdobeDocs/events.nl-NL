@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Ontdek hoe AI digitale ervaringen in Adobe-projecten transformeert via echte toepassingen. Leer hoe AI het creëren van inhoud, plaatsbevestiging, en projectplanning verbetert, die efficiency drijft en kosten drukt. Kies in verhalen die het innovatieve gebruik van AI-gereedschappen in Adobe Experience Manager, Adobe Commerce en Edge Delivery Services laten zien.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477606/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477631/?captions=dut&learn=on&enablevpops)
