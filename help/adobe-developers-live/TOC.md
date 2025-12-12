@@ -2,9 +2,9 @@
 user-guide-title: Adobe Developers Live Events
 user-guide-breadcrumb: Developers Live Events
 user-guide-description: Opnamen verzamelen van de Adobe Developer Live Content-gebeurtenis
-source-git-commit: ea82ddf49a9cddc4292b46a1070200083135ca3d
+source-git-commit: 76b4e64093ebad269534b65c41c4bda1a6bb468f
 workflow-type: tm+mt
-source-wordcount: '929'
+source-wordcount: '984'
 ht-degree: 3%
 
 ---
@@ -16,9 +16,22 @@ ht-degree: 3%
 + 2025 {#2025}
    + [Keynote - het Bouwen van het Authoritic Web Keynote](2025/keynote.md)
    + [Agentische evolutie van AEM](2025/agentic-evolution-aem.md)
+   + [AI-agents met LLM Optimizer](2025/llm-optimizer.md)
    + [AI in Adobe-projecten](2025/ai-in-projects.md)
    + [AI Codeweergave](2025/coding-agent.md)
+   + [Innovaties voor ontwikkeling van AI Commerce](2025/app-builder-extensions.md)
+   + [AI Content Discovery met AEM](2025/ai-content-discovery.md)
+   + [Brand Concierge](2025/brand-concierge.md)
+   + [Inhoud AI in AEM](2025/content-ai.md)
+   + [Document ontwerpen op schaal](2025/document-authoring-at-scale.md)
+   + [Dynamische publicatie](2025/dynamic-publishing.md)
    + [Adobe Experience Manager-agents verkennen](2025/aem-agents.md)
+   + [Ervaringen migreren en moderniseren](2025/modernize-experiences.md)
+   + [Qantas moderniseren met Edge Delivery Services](2025/modernizing-qantas.md)
+   + [Code optimaliseren met AEM Sites Optimizer](2025/code-optimization.md)
+   + [Snapshot voor snelle ontwikkelomgeving](2025/rapid-development-snapshots.md)
+   + [Services voor de overheid stroomlijnen met AI](2025/government-digital-services.md)
+   + [AI ontgrendelen in AEM](2025/transform-aem-with-agents.md)
 + 2024 {#2024}
    + november {#nov2024}
       + [Toetsenbord](2024/nov/keynote.md)
