@@ -19,7 +19,7 @@ ht-degree: 0%
 
 Ontdek hoe AI digitale ervaringen in Adobe-projecten transformeert via echte toepassingen. Leer hoe AI het creëren van inhoud, plaatsbevestiging, en projectplanning verbetert, die efficiency drijft en kosten drukt. Kies in verhalen die het innovatieve gebruik van AI-gereedschappen in Adobe Experience Manager, Adobe Commerce en Edge Delivery Services laten zien.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477606/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477631/?captions=dut&learn=on&enablevpops)
 
 Deze sessie — Liefde eigenlijk: Drie praktische verhalen over het gebruik van AI in Adobe-projecten — functies van Mark McConnell (Ensemble) die drie real-world toepassingen deelt: prototypen en Content Supply chain versnellen met Generative AI Services, een door AI aangedreven migratievalidator voor AEM Edge Delivery Services, en een agentische benadering van geautomatiseerde siteevaluatie en -rapportage. Opgenomen live uit San Jose.
 
