@@ -19,7 +19,7 @@ ht-degree: 0%
 
 Ontdek hoe Adobe Experience Manager Sites Optimizer ontwikkelaars helpt de kwaliteit van code te verbeteren door redundante scripts en zware DOM-structuren te detecteren. Deze sessie laat zien hoe u het gereedschap kunt gebruiken om de kernwaarden van het web te verbeteren, de technische schuld te verminderen en de prestaties te verbeteren. Leer om aanbevelingen naadloos binnen uw werkschema toe te passen voor snellere moeilijke situaties, sterkere ZOO, en vlottere gebruikerservaring.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477676/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477723/?captions=dut&learn=on&enablevpops)
 
 Deze sessie — In de engine: Codeoptimalisatie met Adobe Experience Manager Sites Optimizer — biedt Deck Reyes waarmee wordt getoond hoe Sites Optimizer front-end en back-end implementaties analyseert om redundante scripts, zware DOM-structuren en knelpunten in Core Web Vital te detecteren. Leer hoe u de aanbevelingen van AEM kunt toepassen om de technische schulden te verminderen en de prestaties direct in te verbeteren. Opgenomen live uit San Jose.
 

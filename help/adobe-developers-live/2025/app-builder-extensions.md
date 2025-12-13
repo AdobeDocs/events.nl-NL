@@ -19,7 +19,7 @@ ht-degree: 0%
 
 Ontdek hoe Adobe Commerce AI gebruikt om de ontwikkeling van apps te transformeren en aanpassingen te stroomlijnen. Leer over geautomatiseerde codeanalyse, intelligente migratierapporten, en natuurlijk-taalherinneringen die snel de code van JavaScript produceren. Deze zitting vestigt de aandacht op de innovaties op het gebied van het instrumenteren van het ecosysteem van Adobe Commerce, die teams helpen verouderde systemen efficiënt te moderniseren en technische schulden te verminderen. Neem deel aan het gesprek en verken komende gebeurtenissen om up-to-date te blijven met de nieuwste ontwikkelingen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477672/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477687/?captions=dut&learn=on&enablevpops)
 
 Deze sessie — AI-Powered Development for Adobe App Builder Extensions in Commerce — is voorzien van Matt Johnson, Senior Product Manager voor Commerce Cloud, die laat zien hoe Adobe Commerce een door AI aangedreven tooling ecosysteem bouwt om teams te helpen verouderde aanpassingen sneller te identificeren en te moderniseren. Ontdek hoe geautomatiseerde codeanalyse, intelligente migratierapporten, en natuurlijk-taalherinneringen App Builder-compatibele code van JavaScript in notulen produceren om modernisering te stroomlijnen en technische schuld te verminderen. Opgenomen live uit San Jose.
 

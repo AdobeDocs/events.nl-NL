@@ -19,7 +19,7 @@ ht-degree: 0%
 
 Ontdek hoe Adobe Experience Manager ondernemingswebsites transformeert voor het AI-tijdperk. Leer hoe AI-agents sitemigratie automatiseren, inhoud verrijken en de ontdekkingsmogelijkheden verbeteren, waardoor de tijd voor introductie wordt verkort. Verbeter inzicht in het integreren van conversationele interfaces, het creëren van nieuwe pagina&#39;s, en het verbeteren van ontwerp voor betere gebruikersbetrokkenheid.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477717/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477792/?captions=dut&learn=on&enablevpops)
 
 Deze sessie — Migreer en moderniseer ervaringen met Adobe Experience Manager for User Engagement en AI-native Discovery — heeft de functies Giorgia Fiscaletti, Cloud Reliability Engineer in Adobe en Paolo Mottadelli, Director of Engineering in Adobe. Deze presentatie, die live uit Basel is opgenomen, laat zien hoe Adobe Experience Manager Agents bedrijfswebsites moderniseren voor het AI-tijdperk. Leer hoe AI-agents automatisch inhoud migreren, verrijken en standaardiseren voor generatieve detectie, de implementatie van blokken en het genereren van ontwerpen afhandelen om de tijd die nodig is om inhoud te lanceren te verminderen en de ontdekkingsmogelijkheden van inhoud te verbeteren.
 

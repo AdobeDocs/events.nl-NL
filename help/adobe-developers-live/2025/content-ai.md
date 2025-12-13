@@ -19,7 +19,7 @@ ht-degree: 0%
 
 Adobe Experience Manager Content AI transformeert digitale ervaringen door bestaande inhoud te gebruiken voor semantische zoekopdrachten, generatieve detectie en automatische inhoudvariaties. Leer hoe de architectuur en verrijkingsleidingen van Content AI intelligente digitale ervaringen opleveren. Ontdek zijn mogelijkheden om inhoud efficiënt te beheren en AI kansen te ontgrendelen, waardoor de digitale transformatie van uw bedrijf wordt verbeterd.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477729/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477825/?captions=dut&learn=on&enablevpops)
 
 Deze sessie — Intelligente informatie over inhoud in Adobe Experience Manager met Content AI — is uitgerust met Fabrizio Fortino, Senior Cloud Software Engineer en Julia Daurer, Manager voor softwareontwikkeling in Adobe. In deze presentatie, die live is opgenomen vanuit Basel, wordt uitgelegd hoe Adobe Experience Manager Content AI bestaande inhoud van klanten gebruikt voor semantische zoekopdrachten, generatieve detectie en automatische inhoudsvariaties via agentische workflows. Leer meer over de architectuur van Content AI, verrijkingspijpleidingen, en A/B testende mogelijkheden die worden ontworpen om intelligente digitale ervaringen te leveren.
 

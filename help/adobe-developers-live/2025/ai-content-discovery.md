@@ -19,7 +19,7 @@ ht-degree: 0%
 
 Ontdek hoe AI inhoud detecteren transformeert met Adobe Experience Manager. Leer om de Adviseur van de Inhoud voor semantische onderzoek en AI-Aanbevolen activa te gebruiken. Deze sessie gaat over kortstondige detectie van campagnes en snelle toegang tot dynamische media-uitvoeringen, waardoor hergebruik en levering van inhoud wordt vereenvoudigd via een OpenAPI-stapel.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477673/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477746/?captions=dut&learn=on&enablevpops)
 
 Deze sessie — AI Driven Content Discovery met Channel Ready Renditions — bevat Matt Briscoe, Deepa Gupta en Mathias Siegel die laten zien hoe ontwikkelaars Content Advisor kunnen gebruiken om elementen en inhoudsfragmenten te ontdekken met semantische zoekopdrachten en aanbevelingen van AI-kracht. Leer hoe de campagne op korte basis ontdekking en snelle toegang tot Dynamische vertoningen van Media over Scene7 en DM het hergebruik en levering van inhoud door een OpenAPI stapel vereenvoudigen. Opgenomen live uit San Jose.
 
