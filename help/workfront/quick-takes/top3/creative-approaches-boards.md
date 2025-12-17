@@ -19,7 +19,7 @@ ht-degree: 0%
 
 Nogmaals, mijn &quot;On-Demand Workfront CSM&quot; Cynthia Boon en ik hoop jullie te inspireren met creatieve ideeën voor het gebruik van Workfront Boards.  Nu vermeld ik het in de video, maar voor het geval, hier is een korte herinnering dat je niet aan een flexibel team moet werken om de functie van Boards te gebruiken.  Als de Lijst van de Taak van het Project niet voor uw team werkt, geef Boards een poging!  
 
->[!VIDEO](https://video.tv.adobe.com/v/3470068/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470171/?captions=dut&learn=on&enablevpops)
 
 Op zoek naar een voorbeeld van hoe een klant Borden gebruikt? Kijk maar eens naar de presentatie van de Boards van het Mattel-team in de Adobe Summit van 2024!  
 

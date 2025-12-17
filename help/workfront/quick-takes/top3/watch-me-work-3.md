@@ -17,7 +17,7 @@ ht-degree: 0%
 
 # Top 3 Special Edition! Kijk me werk - 3 manieren [ 3de Video ]
 
->[!VIDEO](https://video.tv.adobe.com/v/3470074/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470208/?captions=dut&learn=on&enablevpops)
 
 Ontdek de drie belangrijkste functies die workers en aanvragers helpen hun workflow in Workfront te optimaliseren. Leer hoe conceptaanvragen, aangepaste formulierweergaven en borden de productiviteit kunnen verhogen en processen kunnen stroomlijnen. Deze hulpmiddelen zijn essentieel voor het efficiënt beheren van taken, het samenwerken visueel, en het volgen van doelstellingen binnen grote projecten. Ontdek hoe deze functies uw werk kunnen ondersteunen en uw ervaring in Workfront kunnen verbeteren.
 

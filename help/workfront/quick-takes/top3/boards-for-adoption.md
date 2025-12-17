@@ -23,7 +23,7 @@ Laten we het hebben over adoptie! We zijn allemaal op zoek naar nieuwe ideeën o
 
 Als je nog geen kans hebt gehad om te experimenteren met de functie van de raad van bestuur, maakt u zich geen zorgen! In de video deel ik hoe u uw gebruikers toegang kunt geven en hoe ze snel aan de slag kunnen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470075/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470104/?captions=dut&learn=on&enablevpops)
 
 ## Aanvullende bronnen
 

@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Ontdek essentiële strategieën en instrumenten voor een effectief beheer van hulpbronnen in Adobe Workfront. Begrijp hoe te om middelplanning en werklastverdeling te optimaliseren om uw bedrijfsdoelstellingen te ontmoeten. Deze presentatie begeleidt u door de opstelling en de voorbereiding nodig om nauwkeurige gegevens te verzekeren, u helpen middelbehoeften voorspellen en teamcapaciteit efficiënt beheren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477110/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477151/?captions=dut&learn=on&enablevpops)

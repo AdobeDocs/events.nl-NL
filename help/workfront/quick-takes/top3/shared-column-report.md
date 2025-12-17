@@ -23,7 +23,7 @@ Op zoek naar nieuwe, efficiënte manieren om uw informatie in een rapport te pre
 
 We krijgen veel vragen over hoe u de tekstmodus kunt gebruiken om informatie in een rapport te combineren. We hebben dus een stapsgewijze video en enkele bronnen hieronder om u aan de slag te krijgen. 
 
->[!VIDEO](https://video.tv.adobe.com/v/3470076/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470126/?captions=dut&learn=on&enablevpops)
 
 Op zoek naar meer? Wij hebben **Drie Uiteinden van de Bonus** op het [&#x200B; communautaire post van Experience League &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-to-create-a-shared-column-report/td-p/613641)!
 

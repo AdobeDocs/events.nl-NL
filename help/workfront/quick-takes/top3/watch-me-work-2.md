@@ -17,6 +17,6 @@ ht-degree: 0%
 
 # Top 3 Special Edition! Kijk me werk - 3 Manieren [ 2de Video ]
 
->[!VIDEO](https://video.tv.adobe.com/v/3470073/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470194/?captions=dut&learn=on&enablevpops)
 
 Ontdek de belangrijkste functies die projectmanagers in Adobe Workfront gebruiken. Leer hoe tabbladen, samenvattingsdeelvensters en snelle filters uw workflow en efficiëntie kunnen verbeteren. Verbeter inzicht in het effectief beheren van veelvoudige taken en projecten, die vlotte verrichtingen en betere productiviteit verzekeren. Bekijk de video om deze functies in actie te zien en uw vaardigheden op het gebied van projectbeheer te verbeteren.

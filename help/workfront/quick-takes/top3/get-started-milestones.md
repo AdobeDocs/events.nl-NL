@@ -23,7 +23,7 @@ Dit is een geweldig rapport voor uw leiderschap op hoger niveau en zelfs uw aanv
 
 Het opnemen van een milestone-rapport op het projectdashboard of het delen van dit rapport (nog beter, automatisch plannen voor regelmatige levering) is een goede manier om belanghebbenden - zelfs niet-Workfront-gebruikers - betrokken te houden bij de voortgang van projecten.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470066/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470160/?captions=dut&learn=on&enablevpops)
 
 ## Aanvullende bronnen
 

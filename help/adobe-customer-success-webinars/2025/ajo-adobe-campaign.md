@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Ontdek hoe Adobe Journey Optimizer en Adobe Campaign samenwerken om de uitvoering van de campagne te transformeren. Deze sessie toont de synergie aan van het combineren van Journey Optimizer-mogelijkheden voor realtime betrokkenheid met het robuuste beheer van Campagne. Verkrijg praktische strategieën om werkschema&#39;s te stroomlijnen, behendigheid te verhogen, en diepgaande klanteninzichten te ontsluiten, die zinvolle interactie verzekeren. Leer om deze hulpmiddelen voor naadloze, dwars-kanaalervaringen te harmoniseren, die verpersoonlijking en timing voor elke klanteninteractie verbeteren. Deze integratie helpt u sneller en nauwkeuriger indrukwekkende campagnes te voeren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477880/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477899/?captions=dut&learn=on&enablevpops)
 
 ## Key Takeaways
 

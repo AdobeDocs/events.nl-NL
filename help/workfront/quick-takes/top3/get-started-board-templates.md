@@ -19,7 +19,7 @@ ht-degree: 0%
 
 Hallo van uw &quot;On-Demand Workfront CSM&quot; Cynthia Boon! Interessant in het gebruik van Workfront Boards, maar weet niet zeker waar te beginnen? De eenvoudigste manier om te beginnen is met vooraf gebouwde sjablonen!
 
->[!VIDEO](https://video.tv.adobe.com/v/3470067/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470137/?captions=dut&learn=on&enablevpops)
 
 Hier is een artikel dat stapsgewijze instructies geeft.
 

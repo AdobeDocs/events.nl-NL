@@ -23,7 +23,7 @@ Ik ben het weer, je &#39;On-Demand Workfront CSM&#39; Cynthia Boon met een speci
 * Projectmanager/Planner
 * Worker/aanvrager
 
->[!VIDEO](https://video.tv.adobe.com/v/3470072/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470182/?captions=dut&learn=on&enablevpops)
 
 ## Aanvullende bronnen
 
