@@ -2,9 +2,9 @@
 user-guide-title: Adobe Customer Success Webinars
 breadcrumb-title: Adobe Customer Success Webinars
 user-guide-description: Adobe Customer Success geleide webinars die zijn ontworpen om u te helpen uw investering in Adobe Experience Cloud te optimaliseren. Vergroot waardevolle inzichten om de waarde te maximaliseren en de acceptatie van Adobe-oplossingen te vergroten.
-source-git-commit: d17c517cdcdeddb2ba8d7db4c244f16d678bab96
+source-git-commit: fa067dfc5293d58cbd73c5d1a87be0ccf82b8f3e
 workflow-type: tm+mt
-source-wordcount: '563'
+source-wordcount: '569'
 ht-degree: 4%
 
 ---
@@ -59,7 +59,10 @@ ht-degree: 4%
       + [Een besturingssysteem ontwerpen](2025/design-an-operating-model-ajo.md)
       + [Journey Optimizer Essentials](2025/journey-optimizer-essentials.md)
       + [Een NoordStar-architectuur gebruiken](2025/northstar-architecture-enable-adobe-journey-optimzier.md)
+      + [Campagnes moderniseren](2025/ajo-adobe-campaign.md)
       + [Routekaart naar waarde met Adobe Journey Optimizer](2025/ajo-roadmap-to-value.md)
+   + Marketo {#marketo2025}
+      + [Nieuwe e-maileditor](2025/marketo-new-email-editor.md)
    + Meerdere oplossingen {#multisolution2025}
       + [Grondbeginselen van de inhoudsvoorzieningsketen](2025/content-supply-chain-basics.md)
       + [Digital Experience Optimization met AI Insights](2025/accelerating-digital-experience-optimization.md)
