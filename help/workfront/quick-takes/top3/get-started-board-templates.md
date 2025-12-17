@@ -23,7 +23,7 @@ Hallo van uw &quot;On-Demand Workfront CSM&quot; Cynthia Boon! Interessant in he
 
 Hier is een artikel dat stapsgewijze instructies geeft.
 
-[&#x200B; creeer een Nieuwe Raad met een Malplaatje &#x200B;](https://experienceleague.adobe.com/en/docs/workfront/using/agile/boards-in-workfront/create-edit-board#create-a-new-board) 
+[&#x200B; creeer een Nieuwe Raad met een Malplaatje &#x200B;](https://experienceleague.adobe.com/nl/docs/workfront/using/agile/boards-in-workfront/create-edit-board#create-a-new-board) 
 
 Hebt u ideeën om vragen over de video te delen of te hebben? Voel vrij om hen in de commentaren op de [&#x200B; post van de Gemeenschap van Experience League &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-getting-started-with-boards-templates/td-p/694307) te laten vallen!
 

@@ -29,7 +29,7 @@ Aan de slag met bronnenpools? Ten eerste: wat zijn ze?
 
 ## Aanvullende bronnen
 
-* Voor meer info, controleer uit het [&#x200B; artikel van het het overzichtsartikel van de Groepen van het Middel &#x200B;](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/resource-planning-in-adobe-workfront/resource-pools/work-with-resource-pools).
+* Voor meer info, controleer uit het [&#x200B; artikel van het het overzichtsartikel van de Groepen van het Middel &#x200B;](https://experienceleague.adobe.com/nl/docs/workfront/using/manage-resources/resource-planning-in-adobe-workfront/resource-pools/work-with-resource-pools).
 * Op zoek naar meer? Controle uit de [&#x200B; Communautaire post van Experience League &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-for-resource-pools/td-p/663866)!
 
 
