@@ -27,4 +27,4 @@ Ik ben het weer, je &#39;On-Demand Workfront CSM&#39; Cynthia Boon met een speci
 
 ## Aanvullende bronnen
 
-Op zoek naar meer? Controle uit de [ Communautaire post van Experience League ](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-special-edition-watch-me-work-3-ways/td-p/656910)!
+Op zoek naar meer? Controle uit de [&#x200B; Communautaire post van Experience League &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-special-edition-watch-me-work-3-ways/td-p/656910)!

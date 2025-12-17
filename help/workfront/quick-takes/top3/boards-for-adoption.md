@@ -29,9 +29,9 @@ Als je nog geen kans hebt gehad om te experimenteren met de functie van de raad 
 
 Zoals beloofd in de video, hebben wij ladingen middelen te delen, met inbegrip van artikelen en korte videodemo&#39;s:
 
-* [ worden begonnen met raden in Adobe Workfront ](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/get-started-with-boards.html?lang=en)
-* [ vroege eigenschapopt-in voor de Boden van Adobe Workfront ](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/boards-early-feature-opt-in.html?lang=en)
-* [ creeer of geef een raad uit - omvat beschrijvingen van elk malplaatje van Borden ](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/create-edit-board.html?lang=en)
-* [ Boards van Adobe Workfront - korte videodemonstraties ](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/boards-video-demonstrations.html?lang=en)
+* [&#x200B; worden begonnen met raden in Adobe Workfront &#x200B;](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/get-started-with-boards.html?lang=en)
+* [&#x200B; vroege eigenschapopt-in voor de Boden van Adobe Workfront &#x200B;](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/boards-early-feature-opt-in.html?lang=en)
+* [&#x200B; creeer of geef een raad uit - omvat beschrijvingen van elk malplaatje van Borden &#x200B;](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/create-edit-board.html?lang=en)
+* [&#x200B; Boards van Adobe Workfront - korte videodemonstraties &#x200B;](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/boards-video-demonstrations.html?lang=en)
 
 

@@ -25,6 +25,6 @@ We krijgen veel vragen over hoe u de tekstmodus kunt gebruiken om informatie in 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3470076/?learn=on&enablevpops)
 
-Op zoek naar meer? Wij hebben **Drie Uiteinden van de Bonus** op het [ communautaire post van Experience League ](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-to-create-a-shared-column-report/td-p/613641)!
+Op zoek naar meer? Wij hebben **Drie Uiteinden van de Bonus** op het [&#x200B; communautaire post van Experience League &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-to-create-a-shared-column-report/td-p/613641)!
 
 

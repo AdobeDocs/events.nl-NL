@@ -36,8 +36,8 @@ Of u nu nieuw bent in Acrobat Sign of dat u het potentieel ervan wilt maximalise
 
 * **BasisHandtekeningen** E-mail, wachtwoord, of telefoonauthentificatie; geschikt voor standaardovereenkomsten.
 * **geverifieerde Handtekeningen** Identiteitscontroles via paspoort, KBA (VS), of elektronische IDs (b.v., BankID); hogere verzekering voor gereglementeerde industrieën.
-* **Vertrouwde dienstverlener van 0} Digitale Handtekeningen geeft een digitaal certificaat uit; vereist voor gekwalificeerde handtekeningen (b.v., EU, Duitsland).**
-* **Kies de Flexibiliteit van de Authentificatie van 0} methodes die op gebied, industrie, en documentgevoeligheid worden gebaseerd.** Beheerders kunnen opties per gebruikersgroep in- en uitschakelen.
+* **Vertrouwde dienstverlener van 0&rbrace; Digitale Handtekeningen geeft een digitaal certificaat uit; vereist voor gekwalificeerde handtekeningen (b.v., EU, Duitsland).**
+* **Kies de Flexibiliteit van de Authentificatie van 0&rbrace; methodes die op gebied, industrie, en documentgevoeligheid worden gebaseerd.** Beheerders kunnen opties per gebruikersgroep in- en uitschakelen.
 * **Zeer belangrijke Takeaway** de handtekeningentype en authentificatie van de Gelijke aan uw nalevingsbehoeften voor optimale veiligheid en gebruikerservaring.
 
 ## De kracht van Acrobat Sign-innovaties ontsluiten
