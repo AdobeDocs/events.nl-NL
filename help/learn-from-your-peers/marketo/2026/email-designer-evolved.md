@@ -8,9 +8,9 @@ doc-type: Event
 duration: 2515
 last-substantial-update: 2026-01-09T00:00:00Z
 jira: KT-20063
-source-git-commit: ca4fbba56990285c87dd1dfc9b2c30b35ab99561
+source-git-commit: f04cc6261536cb98fdbbc78f31463e2daf8e0e65
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '224'
 ht-degree: 2%
 
 ---
@@ -33,11 +33,12 @@ Word lid van ons voor een geaarde, echte blik op hoe E-mail Designer heeft gerij
 
 ## Aanvullende bronnen
 
-* [&#x200B; E-mailDesigner Overzicht &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/email-marketing/email-designer/overview)
-* [&#x200B; AI Medewerker &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/email-marketing/email-designer/ai-assistant)
-* [&#x200B; Aanpasbare fragmenten &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/email-marketing/email-designer/customizable-fragments)
-* [Voorwaardelijke content](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/email-marketing/email-designer/conditional-content)
-* [&#x200B; Merk thema&#39;s &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/email-marketing/email-designer/brand-themes)
-* [&#x200B; Vergelijking oude van de Eigenschap tegenover nieuwe E-mail Designer &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/email-marketing/email-designer/feature-comparison#_blank)
-* [Aanvullende informatie](https://experienceleague.adobe.com/nl/docs/marketo/using/release-notes/current)
-* [&#x200B; Diep Duik van de Champion: Ontdek nieuwe E-mail Designer in Marketo Engage &#x200B;](https://experienceleague.adobe.com/nl/docs/events/deep-dives-recordings/deep-dives-marketo/email-designer)
+* [ E-mailDesigner Overzicht ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/overview)
+* [ AI Medewerker ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/ai-assistant)
+* [ Aanpasbare fragmenten ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/customizable-fragments)
+* [Voorwaardelijke content](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/conditional-content)
+* [ Merk thema&#39;s ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/brand-themes)
+* [ Vergelijking oude van de Eigenschap tegenover nieuwe E-mail Designer ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/feature-comparison#_blank)
+* [Aanvullende informatie](https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/current)
+* [ Diep Duik van de Champion: Ontdek nieuwe E-mail Designer in Marketo Engage ](https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/email-designer)
+* [ sluit zich aan bij het gesprek op Gemeenschap met Q&amp;A ](https://nation.marketo.com/t5/product-blogs/watch-on-demand-learn-from-your-peers-webinar-beyond-the-launch/ba-p/359083)
