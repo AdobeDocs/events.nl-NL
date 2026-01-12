@@ -97,5 +97,5 @@ Experience League LIVE is een live streaming show die wordt gemaakt door het Exp
 
 >[!TIP]
 >
->Voor extra methodes om te leren, controleer onze vrije [ cursussen ](https://experienceleague.adobe.com/#dashboard/learning) evenals individuele [ leerprogramma&#39;s ](https://experienceleague.adobe.com/docs/home-tutorials.html).
+>Voor extra methodes om te leren, controleer onze vrije [&#x200B; cursussen &#x200B;](https://experienceleague.adobe.com/#dashboard/learning) evenals individuele [&#x200B; leerprogramma&#39;s &#x200B;](https://experienceleague.adobe.com/docs/home-tutorials.html).
 

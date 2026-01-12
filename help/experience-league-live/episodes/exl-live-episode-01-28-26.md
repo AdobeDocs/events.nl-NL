@@ -23,4 +23,4 @@ Zie Audience Agent om inzicht te krijgen in het publiek en gebruiksklare doelgro
 
 <img alt="Experience League LIVE jan 28 2026" src="./assets/WebBanner-1-28-26.jpg">
 
-[ plaats een herinnering voor show ](https://www.youtube.com/live/V7n2KuhrhqQ){target="_blank"}
+[&#x200B; plaats een herinnering voor show &#x200B;](https://www.youtube.com/live/V7n2KuhrhqQ){target="_blank"}
