@@ -8,9 +8,9 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 04cd7f4e1881d75f6fde97c48e2fb7a4f587a9ee
+source-git-commit: df3b95c0f462a8cd72318e7b33c9b1827d3ea8ed
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '185'
 ht-degree: 1%
 
 ---
@@ -24,15 +24,19 @@ Experience League LIVE is een live streaming show die wordt gemaakt door het Exp
 ## Experience League LIVE-gebeurtenissen
 
 <table>
-    <tr>
-         <td style="vertical-align: top;">
-            Binnenkort verschijnen er nieuwe shows. Ga terug naar deze pagina om de beschikbare shows te bekijken.
-        </td>
-    </tr>
-
+<tr>
+    <td style="vertical-align: top;"><a href="episodes/exl-live-episode-01-28-26.md">
+      <img alt="Experience League LIVE jan 28 2026" src="episodes/assets/WebBanner-1-28-26.jpg">
+    </a>
+    <div>
+      <a href="episodes/exl-live-episode-01-28-26.md"><strong> zie Audience Agent publieksinzichten ontdekken en klaar-aan-gebruikpubliek in notulen creëren. </strong></a>
+      <br/><em> met Shelby Mansuri, Keara Fausett, en Alyssa Espiritu </em>
+      <br/><em> Januari 28, 2026 bij 8:30 PT </em>
+      <br/><br/><a href="https://www.youtube.com/live/V7n2KuhrhqQ"> plaats een herinnering </a>
+    </div>
+  </td>
+</tr>
 </table>
-
-
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -93,5 +97,5 @@ Experience League LIVE is een live streaming show die wordt gemaakt door het Exp
 
 >[!TIP]
 >
->Voor extra methodes om te leren, controleer onze vrije [&#x200B; cursussen &#x200B;](https://experienceleague.adobe.com/nl#dashboard/learning) evenals individuele [&#x200B; leerprogramma&#39;s &#x200B;](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=nl-NL).
+>Voor extra methodes om te leren, controleer onze vrije [ cursussen ](https://experienceleague.adobe.com/#dashboard/learning) evenals individuele [ leerprogramma&#39;s ](https://experienceleague.adobe.com/docs/home-tutorials.html).
 

@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 304550e7c5eef8956dccef1ca9951d3091092e8d
+source-git-commit: df3b95c0f462a8cd72318e7b33c9b1827d3ea8ed
 workflow-type: tm+mt
-source-wordcount: '613'
+source-wordcount: '624'
 ht-degree: 1%
 
 ---
@@ -21,6 +21,7 @@ ht-degree: 1%
 
 + [Overzicht](overview.md)
 + Episodes {#episodes}
+   + [EP. 55: Arbeidsbemiddeling: publiek en reizen creëren en activeren](episodes/exl-live-episode-01-28-26.md)
    + [EP. 54: Vereenvoudig het oplossen van problemen en steun gevallenbeheer met de Agent van de Steun van het Product](episodes/exl-live-episode-12-16-25.md)
    + [EP. 53: Het volgende tijdperk van experimenten: Hoe AI door middel van een agentschap slimmere tests en groei aanmoedigt](episodes/exl-live-episode-10-30-25.md)
    + [EP. 52: Adobe Experience Platform Agent Orchestrator](episodes/exl-live-episode-10-22-25.md)
