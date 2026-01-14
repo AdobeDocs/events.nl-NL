@@ -23,4 +23,4 @@ Zie Audience Agent om inzicht te krijgen in het publiek en gebruiksklare doelgro
 
 <img alt="Experience League LIVE jan 28 2026" src="./assets/WebBanner-1-28-26.jpg">
 
-[ Register vandaag!](https://engage.adobe.com/ExpLeagueLive-260128.html?sdid=XFWLH5NW&mv=other){target="_blank"}
+[&#x200B; Register vandaag!](https://engage.adobe.com/ExpLeagueLive-260128.html?sdid=XFWLH5NW&mv=other){target="_blank"}
