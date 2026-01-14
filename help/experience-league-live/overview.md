@@ -8,9 +8,9 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: df3b95c0f462a8cd72318e7b33c9b1827d3ea8ed
+source-git-commit: b1ad886252f26bc473459e6867b84b2e3a8eb395
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '184'
 ht-degree: 1%
 
 ---
@@ -32,7 +32,7 @@ Experience League LIVE is een live streaming show die wordt gemaakt door het Exp
       <a href="episodes/exl-live-episode-01-28-26.md"><strong> zie Audience Agent publieksinzichten ontdekken en klaar-aan-gebruikpubliek in notulen creëren. </strong></a>
       <br/><em> met Shelby Mansuri, Keara Fausett, en Alyssa Espiritu </em>
       <br/><em> Januari 28, 2026 bij 8:30 PT </em>
-      <br/><br/><a href="https://www.youtube.com/live/V7n2KuhrhqQ"> plaats een herinnering </a>
+      <br/><br/><b><a href="https://engage.adobe.com/ExpLeagueLive-260128.html?sdid=XFWLH5NW&amp;mv=other"> Register vandaag!</a></b>
     </div>
   </td>
 </tr>
@@ -97,5 +97,5 @@ Experience League LIVE is een live streaming show die wordt gemaakt door het Exp
 
 >[!TIP]
 >
->Voor extra methodes om te leren, controleer onze vrije [&#x200B; cursussen &#x200B;](https://experienceleague.adobe.com/nl#dashboard/learning) evenals individuele [&#x200B; leerprogramma&#39;s &#x200B;](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=nl-NL).
+>Voor extra methodes om te leren, controleer onze vrije [ cursussen ](https://experienceleague.adobe.com/#dashboard/learning) evenals individuele [ leerprogramma&#39;s ](https://experienceleague.adobe.com/docs/home-tutorials.html).
 
