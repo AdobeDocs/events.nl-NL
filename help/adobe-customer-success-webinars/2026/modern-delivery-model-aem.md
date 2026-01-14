@@ -19,4 +19,4 @@ ht-degree: 0%
 
 In de digitale wereld van vandaag is het van cruciaal belang dat we uitstekende ervaringen bieden langs verschillende kanalen en regio&#39;s. Ontdek waarom organisaties moderne leveringsmodellen gebruiken om snelheid en flexibiliteit te verbeteren. Leer hoe groot de verschillen zijn tussen services voor koploze, koploze, hybride en randlevering. Ontdek hoe kerncomponenten en lokalisatiekaders multibrand en multi-regio strategieën steunen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3478775/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478781/?captions=dut&learn=on&enablevpops)
