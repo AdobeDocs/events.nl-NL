@@ -32,7 +32,7 @@ Experience League LIVE is een live streaming show die wordt gemaakt door het Exp
       <a href="episodes/exl-live-episode-01-28-26.md"><strong> zie Audience Agent publieksinzichten ontdekken en klaar-aan-gebruikpubliek in notulen creëren. </strong></a>
       <br/><em> met Shelby Mansuri, Keara Fausett, en Alyssa Espiritu </em>
       <br/><em> Januari 28, 2026 bij 8:30 PT </em>
-      <br/><br/><b><a href="https://engage.adobe.com/ExpLeagueLive-260128.html?sdid=XFWLH5NW&amp;mv=other"> Register vandaag!</a></b>
+      <br/><br/><b><a href="https://engage.adobe.com/ExpLeagueLive-260128.html?sdid=XFWLH5NW&mv=other"> Register vandaag!</a></b>
     </div>
   </td>
 </tr>
@@ -87,5 +87,5 @@ Experience League LIVE is een live streaming show die wordt gemaakt door het Exp
 
 >[!TIP]
 >
->Voor extra methodes om te leren, controleer onze vrije [ cursussen ](https://experienceleague.adobe.com/#dashboard/learning) evenals individuele [ leerprogramma&#39;s ](https://experienceleague.adobe.com/docs/home-tutorials.html).
+>Voor extra methodes om te leren, controleer onze vrije [&#x200B; cursussen &#x200B;](https://experienceleague.adobe.com/#dashboard/learning) evenals individuele [&#x200B; leerprogramma&#39;s &#x200B;](https://experienceleague.adobe.com/docs/home-tutorials.html).
 
