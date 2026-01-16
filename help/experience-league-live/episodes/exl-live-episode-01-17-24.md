@@ -25,7 +25,7 @@ Doe mee met Bryan, Eric en Doug terwijl ze bespreken hoe ze snel in beweging kun
 
 >[!BEGINSHADEBOX  &quot;Heb vragen?&quot;]
 
-Ga verder met de discussie over de [ bespreking van het Forum van de Gemeenschap van Experience League ](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-post-session-discussion-bringing-your/m-p/646093#M3582).
+Ga verder met de discussie over de [&#x200B; bespreking van het Forum van de Gemeenschap van Experience League &#x200B;](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-post-session-discussion-bringing-your/m-p/646093#M3582).
 
 >[!ENDSHADEBOX]
 
