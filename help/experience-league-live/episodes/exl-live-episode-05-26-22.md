@@ -23,9 +23,9 @@ In deze zitting, kom over de &quot;toekomst is nu&quot;van de gegevensinzameling
 
 ## Enkele handige koppelingen
 
-* [&#x200B; Leerprogramma: Implementeer Adobe Experience Cloud met Web SDK &#x200B;](https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html){target="_blank"}
-* [&#x200B; automatisch verzamelde informatie in het Web SDK &#x200B;](https://experienceleague.adobe.com/docs/experience-platform/edge/data-collection/automatic-information.html?lang=en){target="_blank"}
+* [&#x200B; Leerprogramma: Implementeer Adobe Experience Cloud met Web SDK &#x200B;](https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html?lang=nl-NL){target="_blank"}
+* [&#x200B; automatisch verzamelde informatie in het Web SDK &#x200B;](https://experienceleague.adobe.com/docs/experience-platform/edge/data-collection/automatic-information.html?lang=nl-NL){target="_blank"}
 * [&#x200B; Vrije levering van SDK van het Web &#x200B;](https://adobe.ly/websdkaccess){target="_blank"}
-* [&#x200B; Info op Eerste identiteitskaart van het Apparaat van de Partij in het Web SDK &#x200B;](https://experienceleague.adobe.com/docs/experience-platform/edge/identity/first-party-device-ids.html){target="_blank"}
-* [&#x200B; overzicht van Adobe Experience Platform Debugger en download &#x200B;](https://experienceleague.adobe.com/docs/platform-learn/data-collection/debugger/overview.html?lang=en){target="_blank"}
+* [&#x200B; Info op Eerste identiteitskaart van het Apparaat van de Partij in het Web SDK &#x200B;](https://experienceleague.adobe.com/docs/experience-platform/edge/identity/first-party-device-ids.html?lang=nl-NL){target="_blank"}
+* [&#x200B; overzicht van Adobe Experience Platform Debugger en download &#x200B;](https://experienceleague.adobe.com/docs/platform-learn/data-collection/debugger/overview.html?lang=nl-NL){target="_blank"}
 * [&#x200B; Mobiele Dokken van SDK &#x200B;](https://developer.adobe.com/client-sdks/documentation/){target="_blank"}
