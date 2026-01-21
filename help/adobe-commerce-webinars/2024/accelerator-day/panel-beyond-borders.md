@@ -28,6 +28,6 @@ Luidsprekers:
 + Carolina de Figuerido - Krispy Kreme
 + Hussein Moustafa
 
->[!VIDEO](https://video.tv.adobe.com/v/3429265/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457236/?captions=dut&learn=on)
 
 [&lt; Terug naar Adobe Commerce Accelerator Day](./overview.md)

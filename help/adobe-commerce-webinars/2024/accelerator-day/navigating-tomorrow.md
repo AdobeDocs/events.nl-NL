@@ -24,6 +24,6 @@ Een overzicht van de Adobe Commerce-bijeenkomsten op topconferentie 2024, een aa
 
 + Gepresenteerd door Scott Rigby, Adobe Commerce Product Manager JAPAC
 
->[!VIDEO](https://video.tv.adobe.com/v/3429264/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454565/?captions=dut&learn=on)
 
 [&lt; Terug naar Adobe Commerce Accelerator Day](./overview.md)

@@ -24,6 +24,6 @@ Toon van levende klantenvoorbeelden op Adobe Commerce, die de speerpunt van wat 
 
 + Gepresenteerd door Carl Screwvala, Senior Solutions Engineer - Adobe
 
->[!VIDEO](https://video.tv.adobe.com/v/3429274/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455494/?captions=dut&learn=on)
 
 [&lt; Terug naar Adobe Commerce Accelerator Day](./overview.md)
