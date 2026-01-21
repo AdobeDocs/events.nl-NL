@@ -2,9 +2,9 @@
 user-guide-title: '[!DNL Experience Makers Learn from your peers]'
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: Verzameling opnamen van  [!DNL Experience Makers Learn from your peers]
-source-git-commit: ca4fbba56990285c87dd1dfc9b2c30b35ab99561
+source-git-commit: 8bcf45a53f15844f4aa101e0267b63dff0858ac8
 workflow-type: tm+mt
-source-wordcount: '334'
+source-wordcount: '326'
 ht-degree: 6%
 
 ---
@@ -39,7 +39,7 @@ ht-degree: 6%
    + 2023 {#2023}
       + [Uitmuntendheid voor ontwikkelaars met AEM Core-componenten](experience-manager/2023/core-components.md)
       + [Een diepe insteekmodule voor AEM Sites](experience-manager/2023/aem-sites-tools.md)
-      + [&#x200B; Effectieve Strategieën van de Veiligheid in Cloud Service &#x200B;](experience-manager/2023/effective-security-strategies-in-cloud-service.md)
+      + [ Effectieve Strategieën van de Veiligheid in Cloud Service ](experience-manager/2023/effective-security-strategies-in-cloud-service.md)
       + [Inhoud- en ervaringsfragmenten maken](experience-manager/2023/mastering-content-and-experience-fragments.md)
 + GenAI {#genai}
    + 2025 {#2025}
@@ -64,7 +64,7 @@ ht-degree: 6%
       + [Hoe te om Uw  [!DNL Adobe Marketo Engage]  Inhoud Schaalbaar te maken](marketo/2023/templates-tokens-teamwork.md)
 + Workfront {#workfront}
    + 2025 {#2025}
-      + [&#x200B; Metagegevens Mayhem &#x200B;](https://experienceleague.adobe.com/nl/docs/events/learn-from-your-peers-recordings/experience-manager/2025/metadata-mayhem)
+      + [ Metagegevens Mayhem ](https://experienceleague.adobe.com/en/docs/events/learn-from-your-peers-recordings/experience-manager/2025/metadata-mayhem)
       + [Het articuleren Effect - hoe te om de Waarde van Workfront te meten en te delen](workfront/2025/how-to-measure-and-share-workfront-value.md)
       + [Bronnen plannen vereenvoudigen met automatisering](workfront/2025/simplify-resource-planning-with-automation.md)
    + 2024 {#2024}
@@ -86,8 +86,6 @@ ht-degree: 6%
       + [Alles over aanvraagrijen](workfront/2022/all-about-request-queues.md)
       + [Gronden voor de operationele rapportage](workfront/2022/foundations-of-operational-reporting.md)
       + [Hefboomwerking van de groepsbeheerder](workfront/2022/leveraging-the-group-admin.md)
-      + [Een ideale gebruikerservaring ontwerpen](workfront/2022/designing-an-ideal-user-experience.md)
       + [Wat is het bestuur van Workfront?](workfront/2022/what-is-workfront-governance.md)
-      + [Werken met gebruikersbeheer](workfront/2022/understanding-user-management.md)
 + [Adobe-gebruikersgroepen in Experience Cloud verkennen](./adobe-user-groups.md)
 + [Leer hoe u een Champion toepast en opvalt](./adobe-champion-application.md)

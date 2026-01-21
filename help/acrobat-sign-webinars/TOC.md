@@ -1,9 +1,9 @@
 ---
 user-guide-title: Acrobat Sign-webinars
 user-guide-description: Leer van Adobe-experts hoe u de nieuwe workflows voor e-handtekeningen in Acrobat Sign kunt beheren.
-source-git-commit: 9f3e518295eaf64776880ba0442eb8a1b8d645e4
+source-git-commit: 8bcf45a53f15844f4aa101e0267b63dff0858ac8
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '103'
 ht-degree: 4%
 
 ---
@@ -31,6 +31,5 @@ ht-degree: 4%
    + [Geavanceerde tips voor het verzenden van documenten ter ondertekening](./skill-builders/advanced-sending-documents-signature.md)
    + [Vele handtekeningen verzamelen met één klik](./skill-builders/collect-signatures.md)
    + [Document Builder](./skill-builders/document-builder.md)
-   + [Notarisintegratie](./skill-builders/notarize.md)
    + [Een invulbaar, elektronisch webformulier verzenden](./skill-builders/fillable-signable-web-form.md)
    + [Workflowautomatisering](./skill-builders/workflow-automations.md)
