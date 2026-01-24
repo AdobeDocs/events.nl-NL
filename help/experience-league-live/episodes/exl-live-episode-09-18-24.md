@@ -22,7 +22,7 @@ Leer hoe u de Edge Bridge-extensie kunt gebruiken om de migratiekloof te overbru
 
 >[!VIDEO](https://video.tv.adobe.com/v/3434575/?quality=12&learn=on)
 
-**om de bespreking voort te zetten, gelieve de [&#x200B; bespreking over de Gemeenschap van het Experience League &#x200B;](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-are-you-ready-to/m-p/704990#M550){target="_blank"} te bezoeken .**
+**om de bespreking voort te zetten, gelieve de [&#x200B; bespreking over de Gemeenschap van het Experience League &#x200B;](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-are-you-ready-to/m-p/704990?profile.language=nl#M550){target="_blank"} te bezoeken .**
 
 
 **toon Details**:

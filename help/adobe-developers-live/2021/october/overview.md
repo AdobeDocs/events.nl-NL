@@ -20,8 +20,8 @@ Op 4-5 oktober 2021 heeft Adobe Developers Live ontwikkelaars en ontwikkelaars v
 Adobe productteams in heel Adobe Experience Cloud, Document Cloud en Creative Cloud lieten de nieuwste technologische vooruitgang zien en ontwikkelaarsgereedschappen die design, het creëren van content, documentservices en het beheer van klantervaringen in alle bedrijfstakken mogelijk maken.
 
 Verbind met collega devs en sluit zich aan bij de zittingsgesprekken in de Gemeenschappen van de Experience League.
-* [&#x200B; de Volledige lijst van de Zitting van Adobe Developer App Builder &#x200B;](https://experienceleaguecommunities.adobe.com/t5/project-firefly-discussions/adobe-developers-live-october-2021-project-firefly-s-complete/td-p/425779)
-* [&#x200B; AEM Volledige lijst van de Zitting &#x200B;](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/adobe-developers-live-october-2021-complete-session-list/m-p/423041#M120517)
+* [&#x200B; de Volledige lijst van de Zitting van Adobe Developer App Builder &#x200B;](https://experienceleaguecommunities.adobe.com/t5/project-firefly-discussions/adobe-developers-live-october-2021-project-firefly-s-complete/td-p/425779?profile.language=nl)
+* [&#x200B; AEM Volledige lijst van de Zitting &#x200B;](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/adobe-developers-live-october-2021-complete-session-list/m-p/423041?profile.language=nl#M120517)
 
 ## Hooglichten
 

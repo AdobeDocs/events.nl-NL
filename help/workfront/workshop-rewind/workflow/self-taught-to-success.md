@@ -27,6 +27,6 @@ Op basis van wat ze van andere Workfront-klanten hebben geleerd, is dit een gewe
 
 Als u interesse hebt in het delen van uw verhaal of het gebruik van hoofdletters en kleine letters, stuurt u ons een e-mail op csatscale@adobe.com.
 
-Hebt u ideeën om vervolgvragen van de gebeurtenis te delen of te hebben? Voel vrij om hen in de commentaren op de [&#x200B; post van de Gemeenschap van Experience League &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-from-self-taught-to-success-how-kyndryl-scaled/td-p/785174) te laten vallen!
+Hebt u ideeën om vervolgvragen van de gebeurtenis te delen of te hebben? Voel vrij om hen in de commentaren op de [&#x200B; post van de Gemeenschap van Experience League &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-from-self-taught-to-success-how-kyndryl-scaled/td-p/785174?profile.language=nl) te laten vallen!
 
 De nieuwe gebeurtenissen worden toegevoegd elke maand, zodat zorg ervoor om de [&#x200B; pagina van de Gebeurtenissen van Experience League &#x200B;](https://experienceleague.adobe.com/nl/events) voor de recentste zittingen uit te checken.

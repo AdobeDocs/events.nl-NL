@@ -35,7 +35,7 @@ Hier volgen enkele aanvullende snelkoppelingen naar bronnen om u te helpen aan d
 
 ### Meer informatie
 
-* [&#x200B; Grafiek Uw Cursus aan Succes met de Planning van Adobe Workfront &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-learn-chart-your-course-to-success-with-adobe/td-p/743077)
+* [&#x200B; Grafiek Uw Cursus aan Succes met de Planning van Adobe Workfront &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-learn-chart-your-course-to-success-with-adobe/td-p/743077?profile.language=nl)
 * [&#x200B; Guidebook - Uw Workfront die GPS plant &#x200B;](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Workfront+Planning+Guidebook.pdf)
 
 ### Trainingsvideo&#39;s plannen

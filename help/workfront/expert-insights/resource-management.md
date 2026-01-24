@@ -27,11 +27,11 @@ Op zoek naar advies over Aan de slag met Resourcebeheer? Word lid van uw CSM voo
 
 ## Bronnen
 
-Functiewaarschuwing!  Controle uit de details op [&#x200B; het nieuwe Gebied van de Tijd van het Werk &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/the-new-work-time-field-now-you-can-adjust-user-capacity-and/m-p/582855#M519): Nu kunt u gebruikerscapaciteit aanpassen EN beschikbaarheid berekenen die op het Programma van de Gebruiker wordt gebaseerd.
+Functiewaarschuwing!  Controle uit de details op [&#x200B; het nieuwe Gebied van de Tijd van het Werk &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/the-new-work-time-field-now-you-can-adjust-user-capacity-and/m-p/582855?profile.language=nl#M519): Nu kunt u gebruikerscapaciteit aanpassen EN beschikbaarheid berekenen die op het Programma van de Gebruiker wordt gebaseerd.
 
 Op zoek naar manieren om uw gegevens beter te analyseren zodat u er klaar voor bent? Bekijk de catalogus met Blueprints die klaar zijn voor installatie!
 
-[&#x200B; Vervaging van Workfront van het Gebruik om Uw Milieu van het Beheer van het Werk te optimaliseren!](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/use-workfront-blueprints-to-optimize-your-work-management/ba-p/547147)
+[&#x200B; Vervaging van Workfront van het Gebruik om Uw Milieu van het Beheer van het Werk te optimaliseren!](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/use-workfront-blueprints-to-optimize-your-work-management/ba-p/547147?profile.language=nl)
 
 Op zoek naar het verschil tussen de functie Resource Planner en de functie Workload Balancer? Hier volgen enkele korte video&#39;s:
 

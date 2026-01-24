@@ -29,7 +29,7 @@ Zie hoe de nieuwe eigenschappen worden ontworpen om het gemakkelijker te maken o
 - [&#x200B; overzicht van de Planning van Adobe Workfront &#x200B;](https://experienceleague.adobe.com/nl/docs/workfront/using/adobe-workfront-planning/adobe-workfront-planning-general-information/planning-overview)
 - [&#x200B; Workfront Planning API Overzicht &#x200B;](https://developer.adobe.com/wf-planning/api/v1/)
 - [&#x200B; de Verkenner van de Werkstroom van Workfront API &#x200B;](https://developer.adobe.com/workfront/api-explorer/)
-- Hebt u ideeën om vervolgvragen van de gebeurtenis te delen of te hebben? Voel vrij om hen in de commentaren op het [&#x200B; communautaire post van Experience League &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-from-vision-to-value-workfront-planning-release/td-p/785666!) Nieuwe gebeurtenissen te laten vallen elke maand worden toegevoegd, zodat zorg ervoor om de pagina van de Gebeurtenissen van Experience League voor de recentste zittingen uit te checken.
+- Hebt u ideeën om vervolgvragen van de gebeurtenis te delen of te hebben? Voel vrij om hen in de commentaren op het [&#x200B; communautaire post van Experience League &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-from-vision-to-value-workfront-planning-release/td-p/785666!?profile.language=nl) Nieuwe gebeurtenissen te laten vallen elke maand worden toegevoegd, zodat zorg ervoor om de pagina van de Gebeurtenissen van Experience League voor de recentste zittingen uit te checken.
 
 
 

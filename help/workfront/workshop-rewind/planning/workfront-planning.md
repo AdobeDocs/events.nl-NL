@@ -25,7 +25,7 @@ Deze workshop werd op 26 juni 2025 opgenomen en bevatte ons Adobe Workfront Prod
 Als u onze zitting gemist hebt, hebben wij verbindingen met de diashok en de post van de Gemeenschap van Experience League met extra middelen.
 
 * [&#x200B; Deck PDF van de Schuifregelaar &#x200B;](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/062625+Summoning+Success+-+Unlocking+the+Latest+in+Workfront+Planning.pdf)
-* [&#x200B; Experience League Community Post &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-summoning-success-unlocking-the-latest-in/td-p/761676)
+* [&#x200B; Experience League Community Post &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-summoning-success-unlocking-the-latest-in/td-p/761676?profile.language=nl)
 
 Ben je nog maar aan de slag?  Controle uit de [&#x200B; Gids - Uw GPS van de Planning van Workfront!](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Workfront+Planning+Guidebook.pdf)
 

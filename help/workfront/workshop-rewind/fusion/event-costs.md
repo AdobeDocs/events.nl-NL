@@ -26,7 +26,7 @@ Deze workshop werd geregistreerd op 12 juni 2025 en bevatte Lucas Brito, Marketi
 Samen met de opnamen op aanvraag hebben we de schuifbalken en tips opgenomen die in de chat zijn gedeeld:  
 * [&#x200B; de dia&#39;s van Workfront met middelen &#x200B;](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/061225+-+The+Workfront+Fusion+Fix+-+Ericsson+Slim+Way+to+Unlocking+True+Event+Costs.pdf)
 * [&#x200B; Lucas&#39; de presentatiedia&#39;s van de Fusie &#x200B;](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Ericsson+Event+Slides-+Expense+Reporting+with+Fusion.pdf)
-* [&#x200B; Experience League Community Post &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-the-workfront-fusion-fix-ericsson-s-smarter-way/td-p/759188)
+* [&#x200B; Experience League Community Post &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-the-workfront-fusion-fix-ericsson-s-smarter-way/td-p/759188?profile.language=nl)
 
 Ben je net aan de slag met Fusion? Ontdek deze bronnen! 
 * [&#x200B; de Fusie van Workfront opleiding op Experience League &#x200B;](https://experienceleague.adobe.com/nl/docs/workfront-learn/tutorials-workfront/fusion/welcome-to-workfront-fusion/workfront-fusion-overview)

@@ -300,7 +300,7 @@ Wil je weten wanneer de volgende AEM GEM&#39;s zullen zijn?  Registreer met [&#x
 
 ## Doorgaan met discussie
 
-Onze [&#x200B; Gemeenschap van Experience Manager &#x200B;](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community) is waar u met andere ontwikkelaars kunt verbinden en de besprekingen van AEM gaande houden.  U kunt met edelen en de werknemers van Adobe voor begeleiding en beste praktijken van implementatie aan het uitbreiden van productgebruik voorzien.  Ontvang snel antwoorden op je vragen en geef Adobe je productideeën en waardevolle feedback.
+Onze [&#x200B; Gemeenschap van Experience Manager &#x200B;](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community?profile.language=nl) is waar u met andere ontwikkelaars kunt verbinden en de besprekingen van AEM gaande houden.  U kunt met edelen en de werknemers van Adobe voor begeleiding en beste praktijken van implementatie aan het uitbreiden van productgebruik voorzien.  Ontvang snel antwoorden op je vragen en geef Adobe je productideeën en waardevolle feedback.
 
 <!--  ## Upcoming AEM GEMs webinar - AEM Sites: Master the Content Management APIs
 
@@ -349,7 +349,7 @@ The webinars will be conducted regularly, including the following:
 
 ## Experience League Community
 
-Our [Experience Manager Community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community) play a critical role in supporting product adoption and customer success.
+Our [Experience Manager Community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community?profile.language=nl) play a critical role in supporting product adoption and customer success.
 
 * Connection: Network with peers and Adobe personnel for guidance and best practices from implementation to expanding product use
 * Quick Answers: Extensive pool of real-world use case answers to support successful active use of Adobe solutions

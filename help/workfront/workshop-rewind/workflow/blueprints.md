@@ -25,7 +25,7 @@ Het team van het Succes van de Klant van Workfront deelde alles u over [&#x200B;
 
 Herzie [&#x200B; de dia&#39;s &#x200B;](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Slide+Deck+Template+-+Blueprints.pdf) en bekijk de opname op bestelling om langs te volgen.
 
-Hebt u ideeën om vervolgvragen van de gebeurtenis te delen of te hebben? Voel vrij om hen in de commentaren op de [&#x200B; post van de Gemeenschap van Experience League &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-fast-and-functional-blueprints-in-adobe/td-p/777939) te laten vallen!
+Hebt u ideeën om vervolgvragen van de gebeurtenis te delen of te hebben? Voel vrij om hen in de commentaren op de [&#x200B; post van de Gemeenschap van Experience League &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-fast-and-functional-blueprints-in-adobe/td-p/777939?profile.language=nl) te laten vallen!
 
 De nieuwe gebeurtenissen worden toegevoegd elke maand, zodat zorg ervoor om de [&#x200B; pagina van de Gebeurtenissen van Experience League &#x200B;](https://experienceleague.adobe.com/nl/events) voor de recentste zittingen uit te checken.
 

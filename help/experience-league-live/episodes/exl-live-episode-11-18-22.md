@@ -27,5 +27,5 @@ Met zoveel eisen aan uw tijd en aandacht, moet u bedrijfsinzichten in om het eve
 
 Bekijk de video hierboven om deze live streamgebeurtenis te bekijken. Adobe [!DNL Analytics] -experts gaven tips over het aanpassen van en het openen van inzichten in Analysis Workspace en de app Dashboards van [!DNL Analytics] .
 
-Heb je daar vragen over? Ga verder de bespreking over dit onderwerp op de Adobe Experience League [&#x200B; Communautaire post &#x200B;](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-post-session-discussion-analytics-in-the/m-p/558787#M3037).
+Heb je daar vragen over? Ga verder de bespreking over dit onderwerp op de Adobe Experience League [&#x200B; Communautaire post &#x200B;](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-post-session-discussion-analytics-in-the/m-p/558787?profile.language=nl#M3037).
 

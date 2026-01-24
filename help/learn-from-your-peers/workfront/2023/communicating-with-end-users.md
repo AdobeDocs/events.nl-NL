@@ -26,6 +26,6 @@ In dit on-demand-project zal Lyndsy, RachbinMarketing Training en Enablement Man
 * Tips om te bepalen welke kanalen voor uw communicatie moeten worden gebruikt
 * Hoe te om op een iteratieve manier van uw communicatie strategie te denken, die van waar begint u en rijpend aangezien u gaat
 
-U kunt ook de &quot;Communications Cookbook&quot; downloaden met ideeën en voorbeelden van echte communicatie die uw collega&#39;s hier met hun gebruikers delen: https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/introducing-the-end-user-communications-cookbook/bc-p/608144
+U kunt ook de &quot;Communications Cookbook&quot; downloaden met ideeën en voorbeelden van echte communicatie die uw collega&#39;s hier met hun gebruikers delen: https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/introducing-the-end-user-communications-cookbook/bc-p/608144?profile.language=nl
 
 >[!VIDEO](https://video.tv.adobe.com/v/3431019/?learn=on)

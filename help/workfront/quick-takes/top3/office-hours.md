@@ -22,14 +22,14 @@ Nogmaals, ik ben uw &quot;On-Demand Workfront CSM&quot; Cynthia Boon en ik heb e
 
 >[!VIDEO](https://video.tv.adobe.com/v/3470148/?captions=dut&learn=on&enablevpops)
 
-Office Hours is slechts een belangrijk onderdeel van je algemene Workfront Communication Plan. Op zoek naar meer ideeën over het communiceren met uw gebruikers? Controle uit het [&#x200B; Communicatie Cookbook van de Gebruiker van het Eind &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/introducing-the-end-user-communications-cookbook/ba-p/607439)!
+Office Hours is slechts een belangrijk onderdeel van je algemene Workfront Communication Plan. Op zoek naar meer ideeën over het communiceren met uw gebruikers? Controle uit het [&#x200B; Communicatie Cookbook van de Gebruiker van het Eind &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/introducing-the-end-user-communications-cookbook/ba-p/607439?profile.language=nl)!
 
 En zoals beloofd, hier is de link naar Expert Insights, waar we enkele ideeën bespraken over hoe we Workfront-adoptie leuk kunnen maken. 
 
-[&#x200B; de ExpertInzichten van Workfront - Goedkeuring met Leslie Spier &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-august-2023-workfront-expert-insights-adoption-with-leslie/m-p/613314#M2588)
+[&#x200B; de ExpertInzichten van Workfront - Goedkeuring met Leslie Spier &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-august-2023-workfront-expert-insights-adoption-with-leslie/m-p/613314?profile.language=nl#M2588)
 
 Bonusbron! We hielden een Community Coffee Break waar veel fantastische klanten hun favoriete tips over adoptie deelden! 
 
-[&#x200B; Communicatie van de Break van de Koffie van Workfront Methoden voor Goedkeuring &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-coffee-break-10-26-8-30am-9-30am-pdt-communication/ev-p/621879)
+[&#x200B; Communicatie van de Break van de Koffie van Workfront Methoden voor Goedkeuring &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-coffee-break-10-26-8-30am-9-30am-pdt-communication/ev-p/621879?profile.language=nl)
 
-Heb je voorbeelden van hoe je je Workfront Office-uren benadert? Gelieve te delen uw beste praktijken in dit [&#x200B; Communautaire Post van Experience League &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-approaches-to-office-hours/td-p/713391)!
+Heb je voorbeelden van hoe je je Workfront Office-uren benadert? Gelieve te delen uw beste praktijken in dit [&#x200B; Communautaire Post van Experience League &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-approaches-to-office-hours/td-p/713391?profile.language=nl)!

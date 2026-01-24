@@ -26,7 +26,7 @@ Neem deel aan deze live sessie van het Experience League, waar Adobe Campaign-pr
 
 >[!BEGINSHADEBOX  &quot;Heb vragen?&quot;]
 
-Ga de bespreking over dit onderwerp over Adobe Experience League [&#x200B; Communautaire post &#x200B;](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/experience-league-live-post-session-discussion-leaping-ahead/m-p/656893#M2671){target="_blank"}  voort.
+Ga de bespreking over dit onderwerp over Adobe Experience League [&#x200B; Communautaire post &#x200B;](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/experience-league-live-post-session-discussion-leaping-ahead/m-p/656893?profile.language=nl#M2671){target="_blank"}  voort.
 
 >[!ENDSHADEBOX]
 

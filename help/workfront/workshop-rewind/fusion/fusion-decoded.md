@@ -27,6 +27,6 @@ en bekijk de opname op aanvraag om mee te gaan, zoals Jen een overzicht geeft va
 
 Controle uit de momenteel beschikbare malplaatjes van de Fusie van Adobe Workfront [&#x200B; &#x200B;](https://experienceleague.adobe.com/nl/docs/workfront-fusion/using/create-and-manage-templates/currently-available-fusion-templates).
 
-Meer middelverbindingen zijn beschikbaar op de [&#x200B; Communautaire post van Experience League &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-fusion-decoded-what-it-is-and-why-every-org-can/td-p/784958)!
+Meer middelverbindingen zijn beschikbaar op de [&#x200B; Communautaire post van Experience League &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-fusion-decoded-what-it-is-and-why-every-org-can/td-p/784958?profile.language=nl)!
 
 De nieuwe gebeurtenissen worden toegevoegd elke maand, zodat zorg ervoor om de [&#x200B; pagina van de Gebeurtenissen van Experience League &#x200B;](https://experienceleague.adobe.com/nl/events) voor de recentste zittingen uit te checken.

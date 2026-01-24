@@ -36,7 +36,7 @@ Tijdens de presentatie bespraken Jaime en Danielle enkele aanvullende bronnen, d
 * [&#x200B; Admin Chat van Workfront - Cognizant &#x200B;](https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/Workfront+-+Admin+Chat+20231113+final+GBC)
 * [&#x200B; Workfront-gebruikersacceptatieonderzoek &#x200B;](https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/Workfront+User+Adoption+Survey+2022+final_Admin+chat)
 
-Wilt u meer informatie over adoptie en algemene onboarding? Bekijk onze blog! - [&#x200B; Nieuwe klanten van Workfront! Welkom bij de Adobe Workfront Customer Success on boarding Blog!](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/new-workfront-customers-welcome-to-the-adobe-workfront-customer/ba-p/635927)
+Wilt u meer informatie over adoptie en algemene onboarding? Bekijk onze blog! - [&#x200B; Nieuwe klanten van Workfront! Welkom bij de Adobe Workfront Customer Success on boarding Blog!](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/new-workfront-customers-welcome-to-the-adobe-workfront-customer/ba-p/635927?profile.language=nl)
 
 ## Over de spreker
 

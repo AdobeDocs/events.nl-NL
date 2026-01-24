@@ -41,7 +41,7 @@ Tijdens de presentatie heeft Madalyn haar aangepaste formulieren en berekende ve
 
 Wilt u meer tips van Madalyn? Bekijk haar hele serie tips en trucs in de Workfront Community! 
 
-* [&#x200B; De Bytes van de Tech van Dinsdag &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/tuesday-tech-bytes/m-p/625812#M2742)
+* [&#x200B; De Bytes van de Tech van Dinsdag &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/tuesday-tech-bytes/m-p/625812?profile.language=nl#M2742)
 
 ## Over de spreker 
 

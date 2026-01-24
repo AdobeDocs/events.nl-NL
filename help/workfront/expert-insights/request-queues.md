@@ -21,7 +21,7 @@ ht-degree: 0%
 
 # Expert Insights - Request Queueuws met Lyndsy
 
-Welkom bij Expert Insights!  Ik ben Cynthia Boon, uw &#39;On-Demand&#39; Workfront CSM en voor deze episode hebben we Workfront Celebrity, [@Lyndsy-DUNF](https://experienceleaguecommunities.adobe.com/t5/user/viewprofilepage/user-id/17573167) ! We bespreken het Workfront Story van Lyndsy en vervolgens een diepe duik in haar Help Desk Request Queue.
+Welkom bij Expert Insights!  Ik ben Cynthia Boon, uw &#39;On-Demand&#39; Workfront CSM en voor deze episode hebben we Workfront Celebrity, [@Lyndsy-DUNF](https://experienceleaguecommunities.adobe.com/t5/user/viewprofilepage/user-id/17573167?profile.language=nl) ! We bespreken het Workfront Story van Lyndsy en vervolgens een diepe duik in haar Help Desk Request Queue.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3465272/?learn=on&enablevpops)
 
@@ -40,11 +40,11 @@ Zoals beloofd, zijn hier de middelen die wij samen met een paar extra verbinding
 
 * Het begrip van de Documentatie van de Rijen van het Verzoek: [&#x200B; creeer de Onderwerpen van de Rij &#x200B;](https://experienceleague.adobe.com/nl/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-queue-topics)
 
-* De webinaire presentatie van Lyndsy voor [&#x200B; Hoofdzaak van Admin van het Systeem &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/webinar-system-admin-essentials-communicating-with-end-users/td-p/606096): Het communiceren met Eind - Gebruikers (deze pagina omvat ook een verbinding aan het [&#x200B; Eind - gebruikersbevelen Cookbook &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/introducing-the-end-user-communications-cookbook/ba-p/607439))
+* De webinaire presentatie van Lyndsy voor [&#x200B; Hoofdzaak van Admin van het Systeem &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/webinar-system-admin-essentials-communicating-with-end-users/td-p/606096?profile.language=nl): Het communiceren met Eind - Gebruikers (deze pagina omvat ook een verbinding aan het [&#x200B; Eind - gebruikersbevelen Cookbook &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/introducing-the-end-user-communications-cookbook/ba-p/607439?profile.language=nl))
 
-* De presentatiemiddelen van de Uitwisseling van de Vaardigheid van Lyndsy [&#128279;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-november-2024-skill-exchange-workfront-process/m-p/726841#M3642)
+* De presentatiemiddelen van de Uitwisseling van de Vaardigheid van Lyndsy [&#128279;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-november-2024-skill-exchange-workfront-process/m-p/726841?profile.language=nl#M3642)
 
-* En vergeet niet om [&#x200B; Workfront AMA &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-ama-ask-me-anything-about-workfront-proof/ev-p/748798) te controleren me ANYTHING over Workfront Proof waar Lyndsy samen met Monique Evans en Richard Carlson uw vragen over het Bewijzen beantwoordde!
+* En vergeet niet om [&#x200B; Workfront AMA &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-ama-ask-me-anything-about-workfront-proof/ev-p/748798?profile.language=nl) te controleren me ANYTHING over Workfront Proof waar Lyndsy samen met Monique Evans en Richard Carlson uw vragen over het Bewijzen beantwoordde!
 
 ## Over de spreker 
 

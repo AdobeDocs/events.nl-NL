@@ -28,4 +28,4 @@ Bekijk deze live sessie waarbij het productteam achter de Product Support Agent 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477984/?learn=on)
 
-[&#x200B; houd de bespreking die in de communautaire bespreking gaat!](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-simplify/m-p/790172#M1909){target="_blank"}
+[&#x200B; houd de bespreking die in de communautaire bespreking gaat!](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-simplify/m-p/790172?profile.language=nl#M1909){target="_blank"}

@@ -25,7 +25,7 @@ Deze workshop werd op 8 april 2025 opgenomen en bevatte Ross Barton en Lindsay L
 Samen met de opnamen op aanvraag hebben we de diapresentatie en de tips die in de chat zijn gedeeld, opgenomen:  
 
 * [&#x200B; Deck PDF van de Schuifregelaar &#x200B;](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/040825+-+Crowdsource+Challenge+with+Project+Templates.pdf)
-* [&#x200B; Experience League Community Post &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-workfront-crowdsource-challenge-project/td-p/747512)
+* [&#x200B; Experience League Community Post &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-workfront-crowdsource-challenge-project/td-p/747512?profile.language=nl)
 
 ## Tips
 

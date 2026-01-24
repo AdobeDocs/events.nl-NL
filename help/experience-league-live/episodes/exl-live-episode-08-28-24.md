@@ -30,4 +30,4 @@ Ontdek hoe u met experimenteren op reis uw klantinteracties kunt verfijnen voor 
 
 Deze zomertijdgebeurtenis zal uw omni-channel marketing strategieën verbeteren en zal de mogelijkheden van de overeenkomst van het seizoen optimaal maken. Mis deze kans niet voorbij om uw klantentreiingen en campagnes op te voeren om succes met Adobe Journey Optimizer te drijven.
 
-**zet de bespreking bij de [&#x200B; Gemeenschap van Adobe Journey Optimizer Q&amp;A de Break van de Koffie &#x200B;](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-leagu[...]ugust-28th-8-30-am-pt-superloading-your/td-p/697931) in het Communautaire Forum van Journey Optimizer voort.**
+**zet de bespreking bij de [&#x200B; Gemeenschap van Adobe Journey Optimizer Q&amp;A de Break van de Koffie &#x200B;](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-leagu?profile.language=nl[...]ugust-28th-8-30-am-pt-superloading-your/td-p/697931) in het Communautaire Forum van Journey Optimizer voort.**

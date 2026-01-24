@@ -25,7 +25,7 @@ Met de nadruk op bestuur (denk noemende overeenkomsten), uitvoering (processen &
 
 Als je niet in staat was om live te gaan, maakt u zich geen zorgen. Herzie het [&#x200B; diafeck &#x200B;](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Workfront+Pro+Tips+for+Governance%2C+Execution+and+Adoption+-+October+8%2C+2025.pdf) en bekijk de opname op bestelling om langs te volgen.
 
-Op zoek naar een overzicht van de gebeurtenis en de bronnen van de chat? Controle uit de [&#x200B; Communautaire post van Experience League &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-workfront-pro-tips-for-governance-execution-and/td-p/780766)!
+Op zoek naar een overzicht van de gebeurtenis en de bronnen van de chat? Controle uit de [&#x200B; Communautaire post van Experience League &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-workfront-pro-tips-for-governance-execution-and/td-p/780766?profile.language=nl)!
 
 De nieuwe gebeurtenissen worden toegevoegd elke maand, zodat zorg ervoor om de [&#x200B; pagina van de Gebeurtenissen van Experience League &#x200B;](https://experienceleague.adobe.com/nl/events) voor de recentste zittingen uit te checken.
 

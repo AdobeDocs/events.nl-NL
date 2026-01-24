@@ -27,13 +27,13 @@ Welkom terug bij Expert Insights!  Ik ben Cynthia Boon, uw &quot;On-Demand&quot;
 
 ## Heb je hulp nodig!
 
-Zoals Ewan in de video opmerkte, werkt hij aan een handleiding voor beste praktijken voor Fusion, en hij zou graag van u horen!  Als u Fusion gebruikt om uw processen te steunen, gelieve uw advies, aanbevelingen, en uiteinden in de [&#x200B; Communautaire Post van Experience League &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-february-2024-workfront-expert-insights-fusion-with-ewan/td-p/657114) te delen, en hij zal proberen om zoveel mogelijk te omvatten!
+Zoals Ewan in de video opmerkte, werkt hij aan een handleiding voor beste praktijken voor Fusion, en hij zou graag van u horen!  Als u Fusion gebruikt om uw processen te steunen, gelieve uw advies, aanbevelingen, en uiteinden in de [&#x200B; Communautaire Post van Experience League &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-february-2024-workfront-expert-insights-fusion-with-ewan/td-p/657114?profile.language=nl) te delen, en hij zal proberen om zoveel mogelijk te omvatten!
 
 ## Advies
 
 * Fusie is een visuele weergave van uw processen. Documentatie is uw vriend! Bespreek documentatie, sparen de details van hoe u uw processen bouwt.  Nog beter, video zelf loopt er doorheen!
 * Meet de inspanning en de uren van uw herhaalde werk
-* De calculator van Adobe Workfront ROI die Ewan vermeldde is in bijlage aan [&#x200B; Communautaire Post van Experience League &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-february-2024-workfront-expert-insights-fusion-with-ewan/td-p/657114).
+* De calculator van Adobe Workfront ROI die Ewan vermeldde is in bijlage aan [&#x200B; Communautaire Post van Experience League &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-february-2024-workfront-expert-insights-fusion-with-ewan/td-p/657114?profile.language=nl).
 * Met Fusion kunt u uw interfunctionele uitdagingen oplossen, tijd (en geld) besparen en fouten voorkomen.
 
 ## Bronnen

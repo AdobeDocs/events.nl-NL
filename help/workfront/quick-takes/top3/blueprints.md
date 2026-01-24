@@ -26,8 +26,8 @@ Als u eerst wilt experimenteren voordat u iets in Production installeert, hoeft 
 
 Geïnteresseerd in de nieuwste blauwdrukken?
 
-* [&#x200B; vrijgegeven Vervaagd Vervagingsontwerp: De Opleiding van Workfront voor Nieuwe Gebruikers &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/blueprint-released-workfront-training-for-new-users/ba-p/739734)
-* [&#x200B; vrijgegeven Vervaagd Vervagen: Het Dashboard van de Manager van Mensen &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/blueprint-released-people-manager-dashboard/m-p/687545#M3247)
+* [&#x200B; vrijgegeven Vervaagd Vervagingsontwerp: De Opleiding van Workfront voor Nieuwe Gebruikers &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/blueprint-released-workfront-training-for-new-users/ba-p/739734?profile.language=nl)
+* [&#x200B; vrijgegeven Vervaagd Vervagen: Het Dashboard van de Manager van Mensen &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/blueprint-released-people-manager-dashboard/m-p/687545?profile.language=nl#M3247)
 * [&#x200B; Volledige lijst van beschikbare Blauwdrukken &#x200B;](https://experienceleague.adobe.com/nl/docs/workfront/using/administration-and-setup/blueprints/list-of-available-blueprints)
 
 Als u van het leren over nieuwe ideeën en creatieve benaderingen houdt, dan vergeet niet om voor onze aanstaande workshops onze [&#x200B; pagina van de Gebeurtenissen van Experience League &#x200B;](https://experienceleague.adobe.com/nl/events?filters=Workfront) te registreren. Wij hopen u spoedig te zien!
