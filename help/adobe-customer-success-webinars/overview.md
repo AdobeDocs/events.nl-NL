@@ -34,7 +34,7 @@ Adobe Customer Success geleide webinars die zijn ontworpen om u te helpen uw inv
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2026/value-with-content-supply-chain.md" title="Inhoud maximaliseren - Toevoerketens" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479086/?format=jpeg&nocache=1768599457924" alt="Inhoud maximaliseren - Toevoerketens"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479092/?captions=dut&format=jpeg&nocache=1768599457924" alt="Inhoud maximaliseren - Toevoerketens"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

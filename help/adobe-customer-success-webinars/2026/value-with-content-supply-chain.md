@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Ontdek een praktische routekaart voor het optimaliseren van de ketens van de inhoudslevering. Leer hoe de integratie van Workflow en planning, ontwerp en productie, beheer van bedrijfsmiddelen, levering en activering en rapportage en inzichten meetbare resultaten oplevert. Ontdek gemeenschappelijke industriepatronen, wijs doelstellingen aan de oplossingen van Adobe toe, en gebruik de roadmap om uw volgende stappen te begeleiden en effect te meten.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479086/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479092/?captions=dut&learn=on&enablevpops)
