@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: a004d7aa2c01ccd1d4d65749c4aa0440290f8023
+source-git-commit: 2ee0d38018d33911249523445375809c82567b59
 workflow-type: tm+mt
-source-wordcount: '331'
+source-wordcount: '343'
 ht-degree: 2%
 
 ---
@@ -21,6 +21,7 @@ ht-degree: 2%
 
 + [Overzicht](overview.md)
 + Episodes {#episodes}
+   + [Adobe Experience Platform Agents voor verbeterde marketingefficiëntie en betere bedrijfsresultaten](episodes/exl-live-episode-03-03-26.md)
    + [Medewerkers op het werk: publiek en reizen maken en activeren](episodes/exl-live-episode-01-28-26.md)
    + [Vereenvoudig het oplossen van problemen en steun gevallenbeheer met de Agent van de Steun van het Product](episodes/exl-live-episode-12-16-25.md)
    + [Het volgende tijdperk van experimenten: Hoe AI door middel van een &#39;Smooter Testen en Groei&#39; wordt bevorderd](episodes/exl-live-episode-10-30-25.md)

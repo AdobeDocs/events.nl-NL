@@ -8,9 +8,9 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 31397e559777e599a86445841e6b5a134659151f
+source-git-commit: 2ee0d38018d33911249523445375809c82567b59
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '175'
 ht-degree: 1%
 
 ---
@@ -25,14 +25,14 @@ Experience League LIVE is een live streaming show die wordt gemaakt door het Exp
 
 <table>
 <tr>
-    <td style="vertical-align: top;"><a href="episodes/exl-live-episode-01-28-26.md">
-      <img alt="Experience League LIVE jan 28 2026" src="episodes/assets/WebBanner-1-28-26.jpg">
+    <td style="vertical-align: top;"><a href="episodes/exl-live-episode-03-03-26.md">
+      <img alt="Experience League LIVE 3 mrt. 2026" src="episodes/assets/WebBannerExlLive-Mar03-2026.jpg">
     </a>
     <div>
-      <a href="episodes/exl-live-episode-01-28-26.md"><strong> zie Audience Agent publieksinzichten ontdekken en klaar-aan-gebruikpubliek in notulen creëren. </strong></a>
-      <br/><em> met Shelby Mansuri, Keara Fausett, en Alyssa Espiritu </em>
-      <br/><em> Januari 28, 2026 bij 8:30 PT </em>
-      <br/><br/><b><a href="https://engage.adobe.com/ExpLeagueLive-260128.html?sdid=XFWLH5NW&mv=other"> Register vandaag!</a></b>
+      <a href="episodes/exl-live-episode-03-03-26.md"><strong> sluit zich aan bij een inzichtelijke zitting Q&amp;A met Anjul Bhambhri, Sr. VP van Adobe Experience Cloud, om over Adobe te leren vette visie voor innovatieve mogelijkheden van AI.</strong></a>
+      <br/><em> met Anjul Bhambhri en Daniel Wright </em>
+      <br/><em> Maart 3, 2026 bij 9:00 PT </em>
+      <br/><br/><b><a href="episodes/exl-live-episode-03-03-26.md"> Leer meer over deze zitting!</a></b>
     </div>
   </td>
 </tr>
@@ -87,5 +87,5 @@ Experience League LIVE is een live streaming show die wordt gemaakt door het Exp
 
 >[!TIP]
 >
->Voor extra methodes om te leren, controleer onze vrije [&#x200B; cursussen &#x200B;](https://experienceleague.adobe.com/nl#dashboard/learning) evenals individuele [&#x200B; leerprogramma&#39;s &#x200B;](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=nl-NL).
+>Voor extra methodes om te leren, controleer onze vrije [ cursussen ](https://experienceleague.adobe.com/#dashboard/learning) evenals individuele [ leerprogramma&#39;s ](https://experienceleague.adobe.com/docs/home-tutorials.html).
 
