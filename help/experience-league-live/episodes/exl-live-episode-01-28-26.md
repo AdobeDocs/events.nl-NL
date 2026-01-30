@@ -23,4 +23,4 @@ Zie Audience Agent om inzicht te krijgen in het publiek en gebruiksklare doelgro
 
 >[!VIDEO](https://video.tv.adobe.com/v/3479512/?quality=12&learn=on)
 
-Zijn er vragen over deze show? Ga de bespreking in de [ Gesprek van Experience League voort.](https://experienceleaguecommunities.adobe.com/adobe-experience-platform-18/experience-league-live-agents-at-work-creating-and-activating-audiences-and-journeys-aep-247707?postid=745171#post745171){target="_blank"}
+Zijn er vragen over deze show? Ga de bespreking in de [&#x200B; Gesprek van Experience League voort.](https://experienceleaguecommunities.adobe.com/adobe-experience-platform-18/experience-league-live-agents-at-work-creating-and-activating-audiences-and-journeys-aep-247707?postid=745171#post745171){target="_blank"}
