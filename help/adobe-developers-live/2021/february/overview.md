@@ -23,12 +23,12 @@ Verbind met mededevs en sluit zich aan bij de zittingsgesprekken in **[Gemeensch
 
 ## Aanvullende bronnen
 
-* [&#x200B; Experience League - verken AEM &#x200B;](https://experienceleague.adobe.com/#recommended/solutions/experience-manager)
+* [&#x200B; Experience League - verken AEM &#x200B;](https://experienceleague.adobe.com/nl#recommended/solutions/experience-manager)
 * [&#x200B; de Authoring Documentatie van AEM Sites &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html)
-* [&#x200B; AEM Sites het Ontwikkelen Documentatie &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html)
-* [&#x200B; AEM Sites die Documentatie beheren &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html)
-* [&#x200B; AEM Sites die Documentatie opstelt &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html)
-* [&#x200B; Zelfstudies van AEM as a Cloud Service &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html)
-* [&#x200B; Zelfstudies van AEM Assets &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html)
-* [&#x200B; Zelfstudies van AEM Forms &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/overview.html)
-* [&#x200B; Zelfstudies van de Stichting van AEM &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html)
+* [&#x200B; AEM Sites het Ontwikkelen Documentatie &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html?lang=nl-NL)
+* [&#x200B; AEM Sites die Documentatie beheren &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html?lang=nl-NL)
+* [&#x200B; AEM Sites die Documentatie opstelt &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=nl-NL)
+* [&#x200B; Zelfstudies van AEM as a Cloud Service &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html?lang=nl-NL)
+* [&#x200B; Zelfstudies van AEM Assets &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html?lang=nl-NL)
+* [&#x200B; Zelfstudies van AEM Forms &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/overview.html?lang=nl-NL)
+* [&#x200B; Zelfstudies van de Stichting van AEM &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html?lang=nl-NL)
