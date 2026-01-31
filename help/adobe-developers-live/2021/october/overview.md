@@ -28,7 +28,7 @@ Maak contact met collega-devs en sluit zich aan bij de sessiegesprekken in Exper
 ### AEM
 
 * [&#x200B; Experience League - verken AEM &#x200B;](https://experienceleague.adobe.com/nl#recommended/solutions/experience-manager)
-* [&#x200B; de Authoring Documentatie van AEM Sites &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html)
+* [&#x200B; de Authoring Documentatie van AEM Sites &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html?lang=nl-NL)
 * [&#x200B; AEM Sites het Ontwikkelen Documentatie &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html?lang=nl-NL)
 * [&#x200B; AEM Sites die Documentatie beheren &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html?lang=nl-NL)
 * [&#x200B; AEM Sites die Documentatie opstelt &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=nl-NL)
