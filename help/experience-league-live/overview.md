@@ -8,10 +8,10 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 2ee0d38018d33911249523445375809c82567b59
+source-git-commit: 220b114c82508f2c97b239c64b33a4e66feb03a7
 workflow-type: tm+mt
-source-wordcount: '175'
-ht-degree: 1%
+source-wordcount: '218'
+ht-degree: 0%
 
 ---
 
@@ -33,6 +33,21 @@ Experience League LIVE is een live streaming show die wordt gemaakt door het Exp
       <br/><em> met Anjul Bhambhri en Daniel Wright </em>
       <br/><em> Maart 3, 2026 bij 9:00 PT </em>
       <br/><br/><b><a href="episodes/exl-live-episode-03-03-26.md"> Leer meer over deze zitting!</a></b>
+    </div>
+  </td>
+</tr>
+</table>
+
+<table>
+<tr>
+    <td style="vertical-align: top;"><a href="episodes/exl-live-episode-03-12-26.md">
+      <img alt="Experience League LIVE 3 mrt. 2026" src="episodes/assets/WebBannerExlLive-Mar12-2026.jpg">
+    </a>
+    <div>
+      <a href="episodes/exl-live-episode-03-12-26.md"><strong> zie hoe de Orchestratie van de Campagne in Journey Optimizer uw grote, één-aan-vele multi-kanaal marketing programma-van publieksverwezenlijking aan lancering beheert.</strong></a>
+      <br/><em> met Sandra Hausmann, Bridgette Darling, Chakravarthy Kalva en Lee Henderson </em>
+      <br/><em> Maart 12, 2026 bij 8:30 PT </em>
+      <br/><br/><b><a href="episodes/exl-live-episode-03-12-26.md"> Leer meer over deze zitting!</a></b>
     </div>
   </td>
 </tr>
@@ -87,5 +102,5 @@ Experience League LIVE is een live streaming show die wordt gemaakt door het Exp
 
 >[!TIP]
 >
->Voor extra methodes om te leren, controleer onze vrije [&#x200B; cursussen &#x200B;](https://experienceleague.adobe.com/nl#dashboard/learning) evenals individuele [&#x200B; leerprogramma&#39;s &#x200B;](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=nl-NL).
+>Voor extra methodes om te leren, controleer onze vrije [ cursussen ](https://experienceleague.adobe.com/#dashboard/learning) evenals individuele [ leerprogramma&#39;s ](https://experienceleague.adobe.com/docs/home-tutorials.html).
 

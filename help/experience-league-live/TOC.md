@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 2ee0d38018d33911249523445375809c82567b59
+source-git-commit: 220b114c82508f2c97b239c64b33a4e66feb03a7
 workflow-type: tm+mt
-source-wordcount: '343'
+source-wordcount: '352'
 ht-degree: 2%
 
 ---
@@ -21,6 +21,7 @@ ht-degree: 2%
 
 + [Overzicht](overview.md)
 + Episodes {#episodes}
+   + [Ga naar de Know Campaign Orchestration in Adobe Journey Optimizer](episodes/exl-live-episode-03-12-26.md)
    + [Adobe Experience Platform Agents voor verbeterde marketingefficiëntie en betere bedrijfsresultaten](episodes/exl-live-episode-03-03-26.md)
    + [Medewerkers op het werk: publiek en reizen maken en activeren](episodes/exl-live-episode-01-28-26.md)
    + [Vereenvoudig het oplossen van problemen en steun gevallenbeheer met de Agent van de Steun van het Product](episodes/exl-live-episode-12-16-25.md)
