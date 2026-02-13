@@ -23,4 +23,4 @@ Wij zullen het canvas van de campagneorchestratie en relationele schema&#39;s de
 
 <img alt="Experience League LIVE 3 mrt. 2026" src="./assets/WebBannerExlLive-Mar12-2026.jpg">
 
-[ Register vandaag!](https://engage.adobe.com/ExpLeagueLive-260312.html){target="_blank"}
+[&#x200B; Register vandaag!](https://engage.adobe.com/ExpLeagueLive-260312.html){target="_blank"}

@@ -23,4 +23,4 @@ Deze exclusieve sessie heeft een inzichtelijke vraag- en antwoordsessie met Anju
 
 <img alt="Experience League LIVE 3 mrt. 2026" src="./assets/WebBannerExlLive-Mar03-2026.jpg">
 
-[ Register nu!](https://engage.adobe.com/ExpLeagueLive-260303.html){target="_blank"}
+[&#x200B; Register nu!](https://engage.adobe.com/ExpLeagueLive-260303.html){target="_blank"}
