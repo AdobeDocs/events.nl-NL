@@ -43,7 +43,7 @@ Corre is een echt strategische CSM die het tempo voor ons plaatst op hoe te om d
 ### Productdemo&#39;s
 
 * [&#x200B; Workfront &#x200B;](https://business.adobe.com/nl/product-demos/workfront/interactive-tour.html) - omdat een interactieve [ productdemo ] nodig is om het werkingsgebied van te illustreren wat binnen onze oplossing van het ondernemingswerkbeheer kan bestaan.  
-* [&#x200B; GenStudio &#x200B;](https://business.adobe.com/resources/sdk/getting-started-with-adobe-genstudio.html) - ik hou van hoe uitgebreid dit voor onze klanten is beginnen hun behoeften aan oplossingen te binden die vandaag bij Adobe bestaan.
+* [&#x200B; GenStudio &#x200B;](https://business.adobe.com/nl/resources/sdk/getting-started-with-adobe-genstudio.html) - ik hou van hoe uitgebreid dit voor onze klanten is beginnen hun behoeften aan oplossingen te binden die vandaag bij Adobe bestaan.
 
 ## Over de spreker 
 
