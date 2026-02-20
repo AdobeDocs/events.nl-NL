@@ -3,9 +3,9 @@ user-guide-title: Acrobat Sign-webinars
 user-guide-description: Leer van Adobe-experts hoe u de nieuwe workflows voor e-handtekeningen in Acrobat Sign kunt beheren.
 cloud: Document Cloud
 solution: Document Cloud
-source-git-commit: 149f4c2e962eaecd657d2a17a5938e972464dcac
+source-git-commit: a9eddbd6554ae26c3ed54c29e6894c9e2d1a63a0
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '106'
 ht-degree: 4%
 
 ---
@@ -28,6 +28,7 @@ ht-degree: 4%
    + [Workflows maken en gebruiken](./skill-builders/create-use-workflows.md)
 + 101 - Aan de slag voor beheerders {#getstartedadmins}
    + [Ervaar Acrobat Sign Admin](./skill-builders/acrobat-sign-admin-experience.md)
+   + [Beheerders op ETLA](./skill-builders/acrobat-sign-admin-etla.md)
    + [Geavanceerde rapportage](./skill-builders/advanced-reporting.md)
 + 102 - Geavanceerde taken {#advancedtasks}
    + [Geavanceerde tips voor het verzenden van documenten ter ondertekening](./skill-builders/advanced-sending-documents-signature.md)
