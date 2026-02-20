@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Ontdek hoe u uw organisatie kunt leiden tot een gegevensgestuurde Content Supply chain met behulp van een bewezen wijzigingsbeheerlens. Deze zitting zal tonen hoe te om leiders op één lijn te brengen, teams uit te rusten, en hard-draad nieuwe manieren om zo teams, automatisering, en gedeelde gegevens in feite vertalen in snellere tijd-aan-markt, hoger activahergebruik, en sterker bestuur.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479816/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479823/?captions=dut&learn=on&enablevpops)
 
 * **Lood de Verschuiving, niet enkel de Hulpmiddelen** leren hoe te om de beweging aan een geautomatiseerde Inhoud Supply chain in bedrijfstermen te voorzien die echte koop-binnen-het verduidelijken &quot;waarom nu,&quot;het richten van managers, en het veranderen van vroege piloten in momentum voor de bredere organisatie bouwen.
 
