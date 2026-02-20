@@ -2,9 +2,9 @@
 user-guide-title: Adobe Customer Success Webinars
 breadcrumb-title: Adobe Customer Success Webinars
 user-guide-description: Adobe Customer Success geleide webinars die zijn ontworpen om u te helpen uw investering in Adobe Experience Cloud te optimaliseren. Vergroot waardevolle inzichten om de waarde te maximaliseren en de acceptatie van Adobe-oplossingen te vergroten.
-source-git-commit: d158d7a10bd2651a11d54822908bb63315da0a94
+source-git-commit: fbfcb7835f5a51aea9a295fa1adb63b61585adb2
 workflow-type: tm+mt
-source-wordcount: '615'
+source-wordcount: '632'
 ht-degree: 5%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 5%
    + Customer Journey Analytics {#cja2026}
       + [BRD-SDR. Bestanden maken voor Customer Journey Analytics](2026/brd-sdr-file-best-practices.md)
    + Experience Manager {#aem2026}
+      + [Authoring in Edge Delivery Services](2026/authoring-eds.md)
       + [Inhoud maximaliseren - Toevoerketens](2026/value-with-content-supply-chain.md)
       + [Moderne leveringsmodellen voor AEM Sites](2026/modern-delivery-model-aem.md)
       + [Strategische voordelen van AEM Cloud Service](2026/moving-to-aemcs.md)
@@ -24,7 +25,9 @@ ht-degree: 5%
       + [Ingesloten inlichtingenverschuiving](2026/embedded-intelligence.md)
    + Algemeen {#general2026}
       + [AI-strategieën voor succes van vakantie](2026/2025-holiday-results.md)
+      + [Supply chain-beheerstrategieën voor wijzigingen in inhoud](2026/csc-change-management.md)
       + [Foundational Architecture for Content Supply chain](2026/csc-architecture.md)
+      + [Besturingsmodel voor inhoud Supply chain](2026/csc-operating-model.md)
 + 2025 {#2025}
    + Commerce {#commerce2025}
       + [Adobe Commerce verrijken met Adobe Experience Platform](2025/enriching-adobe-commerce.md)
