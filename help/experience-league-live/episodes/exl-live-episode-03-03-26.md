@@ -23,4 +23,4 @@ Deze exclusieve sessie heeft een inzichtelijke Q&amp;A-sessie met Anjul Bhambhri
 
 <img alt="Experience League LIVE 3 mrt. 2026" src="./assets/WebBanner_Mar03_2026-v2.jpg">
 
-[ Register nu!](https://engage.adobe.com/ExpLeagueLive-260303.html){target="_blank"}
+[&#x200B; Register nu!](https://engage.adobe.com/ExpLeagueLive-260303.html){target="_blank"}
