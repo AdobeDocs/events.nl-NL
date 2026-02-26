@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Deze sessie gaat na hoe Customer Journey Analytics (CJA) verenigde klantinzichten ontgrendelt door gegevenssilo&#39;s te splitsen en identiteitsstitching mogelijk te maken via kanalen en apparaten. Aanbevolen voor iedereen die praktische strategieën probeert te begrijpen voor het verbinden van klantengegevens, het verbeteren van attributienauwkeurigheid, en het drijven van slimmere bedrijfsbesluiten.
 
->[!VIDEO](https://video.tv.adobe.com/v/3480150/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3480158/?captions=dut&learn=on&enablevpops)
 
 ## Toetsen
 
