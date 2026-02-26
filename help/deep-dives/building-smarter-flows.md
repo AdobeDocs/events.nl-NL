@@ -52,9 +52,9 @@ Het hoogtepunt zal een reeks real-world gebruiksgevallen zijn, culminerend in ee
 
 ## Doelpubliek
 
-* **Beroeps van de Gebruikers van Marketo van 0} gebruiken of overwegen reeds Marketo die hun marketing mogelijkheden willen uitbreiden.**
+* **Beroeps van de Gebruikers van Marketo van 0&rbrace; gebruiken of overwegen reeds Marketo die hun marketing mogelijkheden willen uitbreiden.**
 * **de Beroeps van de Verrichtingen van de Marketing** MOPs teams verantwoordelijk voor het beleid van Marketo en gegevenskwaliteit
 * **de Beheerders van Marketo** die gegevensbestandarchitectuur, integratie, en technische infrastructuur beheren
-* **Organisaties van de Goedkeuring van 0} AI/van de Automatisering {{die hun instantie van Marketo voor AI-Bewuste mogelijkheden voorbereiden**
-* **Teams van de 10} Gegevens-Begrijpende Marketers {die de gegevenskwaliteit, rapporteringsnauwkeurigheid, en campagnedoeltreffendheid willen verbeteren**
+* **Organisaties van de Goedkeuring van 0&rbrace; AI/van de Automatisering &lbrace;&lbrace;die hun instantie van Marketo voor AI-Bewuste mogelijkheden voorbereiden**
+* **Teams van de 10&rbrace; Gegevens-Begrijpende Marketers &lbrace;die de gegevenskwaliteit, rapporteringsnauwkeurigheid, en campagnedoeltreffendheid willen verbeteren**
 
