@@ -23,7 +23,7 @@ Deze exclusieve sessie heeft een inzichtelijke Q&amp;A-sessie met Anjul Bhambhri
 
 >[!VIDEO](https://video.tv.adobe.com/v/3480449/?quality=12&learn=on)
 
-Om de bespreking over dit show/onderwerp voort te zetten, gelieve de [ de communautaire bespreking van Experience League te bezoeken.](https://experienceleaguecommunities.adobe.com/adobe-experience-platform-18/experience-league-live-post-session-discussion-adobe-experience-platform-agents-for-improved-marketing-efficiency-and-better-business-outcomes-248926){target="_blank"}
+Om de bespreking over dit show/onderwerp voort te zetten, gelieve de [&#x200B; de communautaire bespreking van Experience League te bezoeken.](https://experienceleaguecommunities.adobe.com/adobe-experience-platform-18/experience-league-live-post-session-discussion-adobe-experience-platform-agents-for-improved-marketing-efficiency-and-better-business-outcomes-248926){target="_blank"}
 
 ## Vragen van de show
 
