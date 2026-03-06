@@ -120,4 +120,4 @@ ht-degree: 0%
       + [Word wakker met Workfront](https://experienceleague.adobe.com/docs/events/wake-up-with-workfront-recordings/overview.html)
       + [Workfront](https://experienceleague.adobe.com/docs/events/workfront-recordings/overview.html)
    + Verborgen {#hidden}
-      + [ Adobe Pass REST API v2 ](../single-events/adobe-pass-rest-api-v2.md)
+      + [&#x200B; Adobe Pass REST API v2 &#x200B;](../single-events/adobe-pass-rest-api-v2.md)
