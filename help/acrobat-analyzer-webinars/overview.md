@@ -1,7 +1,7 @@
 ---
 title: Webinars voor Acrobat Analyzer
 description: Ontdek de Adobe Acrobat Analyzer-webinars om te zien hoe Generative AI-extracten gestructureerde, controleerbare inzichten uit documenten hebben om workflows te automatiseren, risico's te verminderen en de besluitvorming op bedrijfsniveau te versnellen.
-source-git-commit: 7f12b01387d93419193a45625633231e1ab6214b
+source-git-commit: 679892dcd193ed2a9529f32a3d4cf2b90c054854
 workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 0%
@@ -26,7 +26,7 @@ Ontdek hoe Adobe Acrobat Analyzer Generative AI gebruikt om gestructureerde, con
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./intro-acrobat-analyzer.md" title="Introductie van Acrobat Analyzer" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-cards/documentation.png" alt="Introductie van Acrobat Analyzer"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3480894/?format=jpeg&nocache=1772823134422" alt="Introductie van Acrobat Analyzer"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
