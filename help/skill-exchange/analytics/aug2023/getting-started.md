@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Het &quot;Begonnen&quot;segment van de Uitwisseling van de Vaardigheid is voorgenomen voor hen die enkel met Adobe Analytics beginnen. Tegen het einde van de sessie zouden de kijkers een beter inzicht moeten hebben in de Adobe Analytics-terminologie en -instrumenten, en een inleiding op beginnersniveau op de belangrijkste functies van Analysis Workspace.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425985/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3480568/?captions=dut&learn=on)
