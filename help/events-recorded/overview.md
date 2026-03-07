@@ -26,25 +26,25 @@ Blijf in de lus op exclusieve evenementen en webinars om uw leermogelijkheden ui
   {description = A library of recorded Workfront events where experts and peers share thoughts on how to use Workfront.}
   {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-workfront.png?lang=nl-NL}
   {cta  = View recordings}
-* https://experienceleague.adobe.com/docs/events/acrobat-analyzer-webinars/overview.html
+* https://experienceleague.adobe.com/docs/events/acrobat-analyzer-webinars/overview.html?lang=nl-NL
   {title = Acrobat Analyzer Webinars}
   {description = Join Adobe Acrobat Analyzer webinars to learn how Generative AI turns documents into structured insights that automate workflows and accelerate decision-making.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-acrobat-analyzer-webinars.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-acrobat-analyzer-webinars.png?lang=nl-NL}
   {cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/acrobat-sign-webinars/overview.html?lang=nl-NL
   {title = Acrobat Sign Webinars}
   {description = Learn from Adobe experts how to master new e-signature workflows in Acrobat Sign.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-acrobat-sign-webinars.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-acrobat-sign-webinars.png?lang=nl-NL}
   {cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html?lang=nl-NL
   {title = Adobe Developers Live}
   {description = Adobe Developers Live brings together Adobe developers and experience builders with diverse backgrounds and a singular purpose - to create incredible end-to-end experiences.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-developers-live.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-developers-live.png?lang=nl-NL}
   {cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/adobe-commerce-webinars/overview.html?lang=nl-NL
   {title = Adobe Commerce Webinars}
   {description = The Adobe Commerce Webinar Series is a monthly cadence of workshops for Adobe Commerce customers that covers a wide range of topics from best practices to product roadmap and industry trends.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-commerce-webinars.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-commerce-webinars.png?lang=nl-NL}
   {cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/adobe-customer-success-webinar-recordings/overview.html?lang=nl-NL
   {title = Adobe Customer Success Webinars}
@@ -54,7 +54,7 @@ Blijf in de lus op exclusieve evenementen en webinars om uw leermogelijkheden ui
 * https://experienceleague.adobe.com/docs/events/behind-the-brew-recordings/overview.html?lang=nl-NL
   {title = Behind the Brew}
   {description = Behind the Brew, the companion series to Commerce & Coffee, is tailored for technically inclined customers seeking to master back-end best practices, integrations, and advanced functionalities to enhance their eCommerce experiences.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-behind-the-brew.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-behind-the-brew.png?lang=nl-NL}
   {cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html?lang=nl-NL
   {title = Commerce and Coffee}
@@ -69,12 +69,12 @@ Blijf in de lus op exclusieve evenementen en webinars om uw leermogelijkheden ui
 * https://experienceleague.adobe.com/docs/events/data-drip-recordings/overview.html?lang=nl-NL
   {title = Data Drip}
   {description = Join Adobe experts in the Data Drip series to explore the latest features and best practices in Adobe Analytics & Target, with live demonstrations ensuring customers maximize product potential and stay competitive.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-data-drip.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-data-drip.png?lang=nl-NL}
   {cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html?lang=nl-NL 
   {title = Marketo Deep Dives}
   {description = Marketo Deep Dive on-demand events recordings help you gain a better understanding how to use Adobe Marketo to support your business.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-deep-dives.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-deep-dives.png?lang=nl-NL}
   {cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html?lang=nl-NL
   {title = Experience League LIVE}
@@ -99,7 +99,7 @@ Blijf in de lus op exclusieve evenementen en webinars om uw leermogelijkheden ui
 * https://experienceleague.adobe.com/docs/events/marketo-and-mochas-recordings/overview.html?lang=nl-NL
   {title = Marketo and Mochas}  
   {description = Marketo and Mochas will help you to gain a better understanding how to use Adobe Marketo to support your business.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-marketo-and-mochas.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-marketo-and-mochas.png?lang=nl-NL}
   {cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/espressos-and-experience-manager-recordings/overview.html?lang=nl-NL
   {title = Espressos and Experience Manager}  
@@ -109,12 +109,12 @@ Blijf in de lus op exclusieve evenementen en webinars om uw leermogelijkheden ui
 * https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html?lang=nl-NL
   {title = Experience Cloud Tech Sessions}  
   {description = Unlock Adobe Experience Cloud with Adobe expert-led Tech Sessions, available live and on-demand for seamless learning.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-experience-cloud-tech-sessions.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-experience-cloud-tech-sessions.png?lang=nl-NL}
   {cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/overview.html?lang=nl-NL
   {title = Adobe Commerce Intelligence}  
   {description = The Adobe Commerce Intelligence (aka MBI) webinar series is a periodic event for Adobe Commerce Intelligence customers. The webinars cover a wide range of topics and best practices for using Adobe Commerce Intelligence to its fullest potential.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-commerce-intelligence-webinars.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-commerce-intelligence-webinars.png?lang=nl-NL}
   {cta  = View recordings}
 * https://experienceleague.adobe.com/nl/docs/events/the-perfect-blend/overview
   {title = The Perfect Blend}  
@@ -167,8 +167,8 @@ Blijf in de lus op exclusieve evenementen en webinars om uw leermogelijkheden ui
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/docs/events/acrobat-analyzer-webinars/overview.html" title="Acrobat Analyzer Webinars" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-acrobat-analyzer-webinars.png" alt="Acrobat Analyzer Webinars"
+                    <a href="https://experienceleague.adobe.com/docs/events/acrobat-analyzer-webinars/overview.html?lang=nl-NL" title="Acrobat Analyzer Webinars" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-acrobat-analyzer-webinars.png?lang=nl-NL" alt="Acrobat Analyzer Webinars"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -176,11 +176,11 @@ Blijf in de lus op exclusieve evenementen en webinars om uw leermogelijkheden ui
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/docs/events/acrobat-analyzer-webinars/overview.html" target="_blank" rel="referrer" title="Acrobat Analyzer Webinars"> Webinars van de Analysator van Acrobat </a>
+                        <a href="https://experienceleague.adobe.com/docs/events/acrobat-analyzer-webinars/overview.html?lang=nl-NL" target="_blank" rel="referrer" title="Acrobat Analyzer Webinars"> Webinars van de Analysator van Acrobat </a>
                     </p>
                     <p class="is-size-6">Word Adobe Acrobat Analyzer-webinars om te leren hoe Generative AI documenten omzet in gestructureerde inzichten die workflows automatiseren en de besluitvorming versnellen.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/docs/events/acrobat-analyzer-webinars/overview.html" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/docs/events/acrobat-analyzer-webinars/overview.html?lang=nl-NL" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Opnamen van de Mening </span>
                 </a>
             </div>
@@ -191,7 +191,7 @@ Blijf in de lus op exclusieve evenementen en webinars om uw leermogelijkheden ui
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/acrobat-sign-webinars/overview.html?lang=nl-NL" title="Acrobat Sign Webinars" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-acrobat-sign-webinars.png" alt="Acrobat Sign Webinars"
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-acrobat-sign-webinars.png?lang=nl-NL" alt="Acrobat Sign Webinars"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -214,7 +214,7 @@ Blijf in de lus op exclusieve evenementen en webinars om uw leermogelijkheden ui
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html?lang=nl-NL" title="Adobe Developers Live" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-developers-live.png" alt="Adobe Developers Live"
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-developers-live.png?lang=nl-NL" alt="Adobe Developers Live"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -237,7 +237,7 @@ Blijf in de lus op exclusieve evenementen en webinars om uw leermogelijkheden ui
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/adobe-commerce-webinars/overview.html?lang=nl-NL" title="Adobe Commerce Webinars" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-commerce-webinars.png" alt="Adobe Commerce Webinars"
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-commerce-webinars.png?lang=nl-NL" alt="Adobe Commerce Webinars"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -283,7 +283,7 @@ Blijf in de lus op exclusieve evenementen en webinars om uw leermogelijkheden ui
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/behind-the-brew-recordings/overview.html?lang=nl-NL" title="Achter het brein" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-behind-the-brew.png" alt="Achter het brein"
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-behind-the-brew.png?lang=nl-NL" alt="Achter het brein"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -352,7 +352,7 @@ Blijf in de lus op exclusieve evenementen en webinars om uw leermogelijkheden ui
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/data-drip-recordings/overview.html?lang=nl-NL" title="Gegevensstrook" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-data-drip.png" alt="Gegevensstrook"
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-data-drip.png?lang=nl-NL" alt="Gegevensstrook"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -375,7 +375,7 @@ Blijf in de lus op exclusieve evenementen en webinars om uw leermogelijkheden ui
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html?lang=nl-NL" title="Marketo Deep Dives" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-deep-dives.png" alt="Marketo Deep Dives"
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-deep-dives.png?lang=nl-NL" alt="Marketo Deep Dives"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -490,7 +490,7 @@ Blijf in de lus op exclusieve evenementen en webinars om uw leermogelijkheden ui
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/marketo-and-mochas-recordings/overview.html?lang=nl-NL" title="Marketo en Mochas" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-marketo-and-mochas.png" alt="Marketo en Mochas"
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-marketo-and-mochas.png?lang=nl-NL" alt="Marketo en Mochas"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -536,7 +536,7 @@ Blijf in de lus op exclusieve evenementen en webinars om uw leermogelijkheden ui
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html?lang=nl-NL" title="Technische Experience Cloud-sessies" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-experience-cloud-tech-sessions.png" alt="Technische Experience Cloud-sessies"
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-experience-cloud-tech-sessions.png?lang=nl-NL" alt="Technische Experience Cloud-sessies"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -559,7 +559,7 @@ Blijf in de lus op exclusieve evenementen en webinars om uw leermogelijkheden ui
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/overview.html?lang=nl-NL" title="Adobe Commerce Intelligence" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-commerce-intelligence-webinars.png" alt="Adobe Commerce Intelligence"
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-commerce-intelligence-webinars.png?lang=nl-NL" alt="Adobe Commerce Intelligence"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
