@@ -7,13 +7,13 @@ doc-type: Event
 duration: 3633
 last-substantial-update: 2026-03-12T00:00:00Z
 jira: KT-20526
-source-git-commit: 92da52440ae10b82194a9e695e56fd7904d47905
+exl-id: bb3a9675-562a-4614-80bd-c2d164b47968
+source-git-commit: 8b3d3016e819e6833851307f0b0b60ef34eb13e7
 workflow-type: tm+mt
 source-wordcount: '245'
 ht-degree: 0%
 
 ---
-
 
 # Leer van je collega&#39;s: Adobe Commerce-productaanbevelingen - van Setup tot Strategische Groei
 
@@ -25,15 +25,15 @@ Michael en Manav, erkend als toonaangevende beoefenaars die innovatie in het hel
 
 ## Wat u gaat leren
 
-+ Strategische aanbevelingen voor Drive: aanbevelingen op echte KPI&#39;s afstemmen (klaring, AOV, retentie)
-+ Duidelijke inventaris: hoe te om blootstelling en dwars-verkopen langzaam-bewegende voorraad te verhogen
-+ Verhoog AOV: paar &quot;vaak samen gekocht&quot; met een interface-tweak om de bevestigingspercentages te verhogen
-+ Verbeter klantenbehoud: personaliseer modules met gedragsgegevens om terugkerende klanten in dienst te nemen
-+ Overvloeien van AI met strategie van de mens: hefboomwerking handmatige productrelatieregels voor lanceringen en merkcampagnes
-+ Ga van opstelling naar optimalisering: begrijp opstellingsgrondbeginselen (configuratie, inbegrepen/uitsluitingen, en plaatsing CMS/Page Builder), vermijd gemeenschappelijke valkuilen, en gebruik admin controles en analyses om onophoudelijk te verbeteren.
+* Strategische aanbevelingen voor de aandrijving: richt aanbeveling type op echte KPIs (klaring, AOV, behoud)
+* Duidelijke inventaris: hoe te om blootstelling en dwars-verkopen langzaam-bewegende voorraad te verhogen
+* AOV verhogen: paar &quot;vaak samen gekocht&quot; met een interface-tweak om de bevestigingspercentages te verhogen
+* Verbeter klantenbehoud: personaliseer modules met gedragsgegevens om terugkerende klanten in dienst te nemen
+* Overvloeien van AI met strategie voor mensen: handmatige regels voor productrelaties voor lanceringen en campagnes met branding
+* Ga van opstelling naar optimalisering: begrijp opstellingsgrondbeginselen (configuratie, inbegrepen/uitsluitingen, en plaatsing CMS/Page Builder), vermijd gemeenschappelijke valkuilen, en gebruik admin controles en analyses om onophoudelijk te verbeteren.
 
 Of u nu aan de slag gaat of wilt optimaliseren met de AI-native mogelijkheden, deze sessie is ontworpen om u concrete, praktische begeleiding te bieden om tastbare resultaten aan te sturen op omzet en klantervaring die u direct kunt toepassen.
 
 ## Aanvullende bronnen
 
-+ [&#x200B; dia&#39;s van de Presentatie &#x200B;](../../assets/commerce/Adobe-Commerce-Product-Recommendations-Slides.pdf).
+* [Presentatiedia&#39;s](../../assets/commerce/Adobe-Commerce-Product-Recommendations-Slides.pdf)
