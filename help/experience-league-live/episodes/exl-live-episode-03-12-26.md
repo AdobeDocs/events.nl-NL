@@ -8,9 +8,9 @@ event-cta-url-live: https://www.youtube.com/live/mPVvZIbkJq8
 event-start-time: 2026-03-03 08:30-8
 event-guests: Sandra Hausmann, Bridgette Darling, Chakravarthy Kalva, Lee Henderson
 exl-id: 5ad4e649-d00a-4934-bfee-13d358fdad11
-source-git-commit: 832697fb6afc563e89041cec13ea2649eaac49e7
+source-git-commit: b91477fce8357e25653647ca54e086d5808b7344
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '145'
 ht-degree: 0%
 
 ---
@@ -19,8 +19,8 @@ ht-degree: 0%
 
 Zie hoe uw grote, één-op-veel marketingprogramma&#39;s met meerdere kanalen worden beheerd door campagneorchestratie in Journey Optimizer, van het creëren van een publiek tot het starten van de campagne.
 
-Wij zullen het canvas van de campagneorchestratie en relationele schema&#39;s de stichting voor het beheren van complexe campagnes en klantenverhoudingen, multi-entiteitssegmentatie behandelen om het juiste publiek over complexe gegevens te richten, op bestelling publieksverfijning &amp; pre-verzendt tellingen voor nauwkeurigheid, en hoe dit naadloos binnen Journey Optimizer vandaag werkt.
+We hebben de campagne-orkestcanvas en relationele schema&#39;s behandeld als de basis voor het beheren van complexe campagnes en relaties met klanten, segmentering van meerdere entiteiten om het juiste publiek te richten op complexe gegevens, verfijning van het publiek op aanvraag en het vooraf verzenden van tellingen voor nauwkeurigheid, en hoe dit nu naadloos werkt in Journey Optimizer.
 
-<img alt="Experience League LIVE 3 mrt. 2026" src="./assets/WebBannerExlLive-Mar12-2026.jpg">
+>[!VIDEO](https://video.tv.adobe.com/v/3481409/?quality=12&learn=on)
 
-[&#x200B; Register vandaag!](https://engage.adobe.com/ExpLeagueLive-260312.html){target="_blank"}
+Om het gesprek over dit onderwerp voort te zetten, gelieve de [ communautaire bespreking van Experience League te bezoeken.](https://experienceleaguecommunities.adobe.com/adobe-journey-optimizer-15/post-session-discussion-experience-league-live-get-to-know-campaign-orchestration-in-adobe-journey-optimizer-249161){target="_blank"}

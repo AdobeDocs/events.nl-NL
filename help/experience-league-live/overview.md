@@ -1,6 +1,6 @@
 ---
-title: Experience League LIVE-gebeurtenissen
-description: Een verzameling koppelingen naar vorige Experience League LIVE-gebeurtenissen
+title: Experience League LIVE Events
+description: A collection of links to previous Experience League LIVE events
 solution: Experience Platform,Real-Time Customer Data Platform,Journey Optimizer,Experience Manager,Target,Audience Manager,Analytics
 feature: Use Cases
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
@@ -8,32 +8,25 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: e9b4e1e5bc05103856aab261638fcf0e739b5d7f
+source-git-commit: b91477fce8357e25653647ca54e086d5808b7344
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '154'
 ht-degree: 0%
 
 ---
 
-# EXPERIENCE LEAGUE LIVE
+# Experience League LIVE
 
-Experience League LIVE is een live streaming show die wordt gemaakt door het Experience League-team.  Het is een kans om verbinding te maken met Adobe-productexperts en actiepunten, trucs en strategieën te leren die u kunt toepassen met de Adobe Experience Cloud-toepassingen.
+Experience League LIVE is a live streaming show produced by the Experience League team.  It&#39;s a chance to connect with Adobe product experts and learn actionable tips, tricks, and strategies you can apply with the Adobe Experience Cloud applications.
 
 
 
-## Experience League LIVE-gebeurtenissen
+## Upcoming Experience League LIVE events
 
 <table>
 <tr>
-    <td style="vertical-align: top;"><a href="episodes/exl-live-episode-03-12-26.md">
-      <img alt="Experience League LIVE 3 mrt. 2026" src="episodes/assets/WebBannerExlLive-Mar12-2026.jpg">
-    </a>
-    <div>
-      <a href="episodes/exl-live-episode-03-12-26.md"><strong> zie hoe de Orchestratie van de Campagne in Journey Optimizer uw grote, één-aan-vele multi-kanaalmarketing programma-van publieksverwezenlijking aan lancering beheert.</strong></a>
-      <br/><em> met Sandra Hausmann, Bridgette Darling, Chakravarthy Kalva en Lee Henderson </em>
-      <br/><em> Maart 12, 2026 bij 8:30 PT </em>
-      <br/><br/><b><a href="episodes/exl-live-episode-03-12-26.md"> Leer meer over deze zitting!</a></b>
-    </div>
+    <td style="vertical-align: top;">
+      Come back to this page soon for upcoming Experience League LIVE shows!
   </td>
 </tr>
 </table>
@@ -50,34 +43,34 @@ Experience League LIVE is een live streaming show die wordt gemaakt door het Exp
 
 </div>
 
-## Personeelspikkels
+## Staff Picks
 
 <table style="max-width: 1214px;">
 
 <tr>
   <td style="vertical-align: top;"><a href="episodes/exl-live-episode-06-26-24.md">
-      <img alt="Experience League LIVE apr 21" src="episodes/assets/WebBanner-June26-2024.jpg">
+      <img alt="Experience League LIVE Apr 21" src="episodes/assets/WebBanner-June26-2024.jpg">
     </a>
     <div>
       <a href="episodes/exl-live-episode-06-26-24.md">
-        <strong> hoe de recentste versies van Adobe Real-Time CDP de naald voor uw zaken kunnen bewegen </strong>
+        <strong>How the latest Adobe Real-Time CDP releases can move the needle for your business</strong>
       </a>
-      <br/><em> met Nina Caruso, Rudi Shumpert, en Doug Moore </em>
-      <br/><em> 26 juni, 2024 </em>
+      <br/><em>with Nina Caruso, Rudi Shumpert, and Doug Moore</em>
+      <br/><em>June 26, 2024</em>
     </div>
   </td>
 
 
 <td style="vertical-align: top;">
     <a href="episodes/exl-live-episode-05-26-22.md">
-      <img alt="Experience League LIVE 26 mei" src="episodes/assets/WebBanner-Apr24-2024.jpg">
+      <img alt="Experience League LIVE May 26" src="episodes/assets/WebBanner-Apr24-2024.jpg">
     </a>
     <div>
       <a href="episodes/exl-live-episode-04-24-24.md">
-        <strong> Nieuw code-Gebaseerd Kanaal van de Ervaring in Journey Optimizer </strong>
+        <strong>New Code-Based Experience Channel in Journey Optimizer</strong>
       </a>
-      <br/><em> met Sandra Hausmann, Robert Calangiu, en Brent Kostak </em>
-      <br/><em> 24 April, 2024 </em>
+      <br/><em>with Sandra Hausmann, Robert Calangiu, and Brent Kostak</em>
+      <br/><em>April 24, 2024</em>
     </div>
   </td>
   </tr>
@@ -87,5 +80,5 @@ Experience League LIVE is een live streaming show die wordt gemaakt door het Exp
 
 >[!TIP]
 >
->Voor extra methodes om te leren, controleer onze vrije [&#x200B; cursussen &#x200B;](https://experienceleague.adobe.com/nl#dashboard/learning) evenals individuele [&#x200B; leerprogramma&#39;s &#x200B;](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=nl-NL).
+>For additional methods of learning, check out our free [courses](https://experienceleague.adobe.com/#dashboard/learning) as well as individual [tutorials](https://experienceleague.adobe.com/docs/home-tutorials.html).
 
