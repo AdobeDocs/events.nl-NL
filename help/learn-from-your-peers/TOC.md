@@ -2,10 +2,10 @@
 user-guide-title: '[!DNL Experience Makers Learn from your peers]'
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: Verzameling opnamen van  [!DNL Experience Makers Learn from your peers]
-source-git-commit: 8bcf45a53f15844f4aa101e0267b63dff0858ac8
+source-git-commit: 92da52440ae10b82194a9e695e56fd7904d47905
 workflow-type: tm+mt
-source-wordcount: '326'
-ht-degree: 6%
+source-wordcount: '354'
+ht-degree: 5%
 
 ---
 
@@ -13,7 +13,7 @@ ht-degree: 6%
 # [!DNL Experience Makers - Learn from your peers] {#learn-from-your-peers-recordings}
 
 + [Experience Makers](overview.md)
-+ Analytics {#analytics}
++ Analyse {#analytics}
    + 2023 {#2023}
       + [Effectieve gegevensvisualisaties](analytics/2023/impactful-data-visualizations.md)
       + [De kracht van verwerkingsregels in Adobe Analytics vrijmaken](analytics/2023/processing-rules.md)
@@ -26,6 +26,8 @@ ht-degree: 6%
       + [Documentatiemissie mogelijk](analytics/2022/mission-possible.md)
       + [Impliciete artikelen met gegevens verkopen](analytics/2022/stories-with-data.md)
 + Commerce {#commerce}
+   + 2026 {#2026}
+      + [Adobe Commerce-productaanbevelingen - van installatie tot strategische groei](commerce/2026/product-recommendations-from-setup-to-strategic-growth.md)
    + 2025 {#2025}
       + [Adobe Commerce en App Builder Essentials - Van basiskennis tot impact](commerce/2025/commerce-and-app-builder.md)
    + 2024 {#2024}
@@ -39,7 +41,7 @@ ht-degree: 6%
    + 2023 {#2023}
       + [Uitmuntendheid voor ontwikkelaars met AEM Core-componenten](experience-manager/2023/core-components.md)
       + [Een diepe insteekmodule voor AEM Sites](experience-manager/2023/aem-sites-tools.md)
-      + [&#x200B; Effectieve Strategieën van de Veiligheid in Cloud Service &#x200B;](experience-manager/2023/effective-security-strategies-in-cloud-service.md)
+      + [ Effectieve Strategieën van de Veiligheid in Cloud Service ](experience-manager/2023/effective-security-strategies-in-cloud-service.md)
       + [Inhoud- en ervaringsfragmenten maken](experience-manager/2023/mastering-content-and-experience-fragments.md)
 + GenAI {#genai}
    + 2025 {#2025}
@@ -64,7 +66,7 @@ ht-degree: 6%
       + [Hoe te om Uw  [!DNL Adobe Marketo Engage]  Inhoud Schaalbaar te maken](marketo/2023/templates-tokens-teamwork.md)
 + Workfront {#workfront}
    + 2025 {#2025}
-      + [&#x200B; Metagegevens Mayhem &#x200B;](https://experienceleague.adobe.com/nl/docs/events/learn-from-your-peers-recordings/experience-manager/2025/metadata-mayhem)
+      + [Metadata Mayhem](https://experienceleague.adobe.com/en/docs/events/learn-from-your-peers-recordings/experience-manager/2025/metadata-mayhem)
       + [Het articuleren Effect - hoe te om de Waarde van Workfront te meten en te delen](workfront/2025/how-to-measure-and-share-workfront-value.md)
       + [Bronnen plannen vereenvoudigen met automatisering](workfront/2025/simplify-resource-planning-with-automation.md)
    + 2024 {#2024}
