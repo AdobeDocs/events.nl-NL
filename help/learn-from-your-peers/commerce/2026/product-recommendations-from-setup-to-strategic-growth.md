@@ -36,4 +36,4 @@ Of u nu aan de slag gaat of wilt optimaliseren met de AI-native mogelijkheden, d
 
 ## Aanvullende bronnen
 
-+ [ dia&#39;s van de Presentatie ](../../assets/commerce/Adobe-Commerce-Product-Recommendations-Slides.pdf).
++ [&#x200B; dia&#39;s van de Presentatie &#x200B;](../../assets/commerce/Adobe-Commerce-Product-Recommendations-Slides.pdf).
