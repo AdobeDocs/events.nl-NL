@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ## Met Experience League is leren een gebeurtenis.
 
-Blijf in de lus op exclusieve evenementen en webinars om uw leermogelijkheden uit te breiden. Bezoek deze ruimte vaak om opnamen van eerdere gebeurtenissen zoals Experience League LIVE, Skill Builder, Developers Live en meer weer te geven. Als u voor een aanstaande gebeurtenis wilt registreren, neem een blik bij de [ aanstaande gebeurtenissen ](https://%65xperienceleague.adobe.com/events/?lang=en) op Experience League.
+Blijf in de lus op exclusieve evenementen en webinars om uw leermogelijkheden uit te breiden. Bezoek deze ruimte vaak om opnamen van eerdere gebeurtenissen zoals Experience League LIVE, Skill Builder, Developers Live en meer weer te geven. Als u voor een aanstaande gebeurtenis wilt registreren, neem een blik bij de [&#x200B; aanstaande gebeurtenissen &#x200B;](https://%65xperienceleague.adobe.com/events/?lang=en) op Experience League.
 
 ## Gebeurtenisreeks
 
