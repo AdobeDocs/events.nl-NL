@@ -68,7 +68,7 @@ ht-degree: 5%
       + [Hoe te om Uw  [!DNL Adobe Marketo Engage]  Inhoud Schaalbaar te maken](marketo/2023/templates-tokens-teamwork.md)
 + Workfront {#workfront}
    + 2025 {#2025}
-      + [Metadata Mayhem](https://experienceleague.adobe.com/en/docs/events/learn-from-your-peers-recordings/experience-manager/2025/metadata-mayhem)
+      + [Metadata Mayhem](https://experienceleague.adobe.com/nl/docs/events/learn-from-your-peers-recordings/experience-manager/2025/metadata-mayhem)
       + [Het articuleren Effect - hoe te om de Waarde van Workfront te meten en te delen](workfront/2025/how-to-measure-and-share-workfront-value.md)
       + [Bronnen plannen vereenvoudigen met automatisering](workfront/2025/simplify-resource-planning-with-automation.md)
    + 2024 {#2024}
