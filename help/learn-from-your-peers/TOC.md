@@ -2,9 +2,9 @@
 user-guide-title: '[!DNL Experience Makers Learn from your peers]'
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: Verzameling opnamen van  [!DNL Experience Makers Learn from your peers]
-source-git-commit: 92da52440ae10b82194a9e695e56fd7904d47905
+source-git-commit: 986f7ff44677a9654a0285290ff9c26eeef04a51
 workflow-type: tm+mt
-source-wordcount: '354'
+source-wordcount: '361'
 ht-degree: 5%
 
 ---
@@ -33,6 +33,8 @@ ht-degree: 5%
    + 2024 {#2024}
       + [Communicatie, vereisten en tests in Agile SDLC](commerce/2024/agile-sdlc.md)
 + Experience Manager {#experience-manager}
+   + 2026 {#2026}
+      + [Omnichannel-ervaringen schalen met dynamische media](experience-manager/2026/omnichannel-dynamic-media.md)
    + 2025 {#2025}
       + [Metadata Mayhem to Mastery](experience-manager/2025/metadata-mayhem.md)
       + [Slimme AEM-tags](experience-manager/2025/smart-tags.md)
@@ -41,7 +43,7 @@ ht-degree: 5%
    + 2023 {#2023}
       + [Uitmuntendheid voor ontwikkelaars met AEM Core-componenten](experience-manager/2023/core-components.md)
       + [Een diepe insteekmodule voor AEM Sites](experience-manager/2023/aem-sites-tools.md)
-      + [&#x200B; Effectieve Strategieën van de Veiligheid in Cloud Service &#x200B;](experience-manager/2023/effective-security-strategies-in-cloud-service.md)
+      + [ Effectieve Strategieën van de Veiligheid in Cloud Service ](experience-manager/2023/effective-security-strategies-in-cloud-service.md)
       + [Inhoud- en ervaringsfragmenten maken](experience-manager/2023/mastering-content-and-experience-fragments.md)
 + GenAI {#genai}
    + 2025 {#2025}
@@ -66,7 +68,7 @@ ht-degree: 5%
       + [Hoe te om Uw  [!DNL Adobe Marketo Engage]  Inhoud Schaalbaar te maken](marketo/2023/templates-tokens-teamwork.md)
 + Workfront {#workfront}
    + 2025 {#2025}
-      + [Metadata Mayhem](https://experienceleague.adobe.com/nl/docs/events/learn-from-your-peers-recordings/experience-manager/2025/metadata-mayhem)
+      + [Metadata Mayhem](https://experienceleague.adobe.com/en/docs/events/learn-from-your-peers-recordings/experience-manager/2025/metadata-mayhem)
       + [Het articuleren Effect - hoe te om de Waarde van Workfront te meten en te delen](workfront/2025/how-to-measure-and-share-workfront-value.md)
       + [Bronnen plannen vereenvoudigen met automatisering](workfront/2025/simplify-resource-planning-with-automation.md)
    + 2024 {#2024}
