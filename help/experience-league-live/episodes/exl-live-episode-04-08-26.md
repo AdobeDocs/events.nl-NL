@@ -20,10 +20,10 @@ Ontdek nieuwe oppervlakken en gebruik gevallen voor de betrokkenheid van klanten
 <br>
 </br>
 
-[![ April 8 Banner van de Gebeurtenis ExL Levende ](assets/April-8-2026-WebBanner.jpg) ](https://youtube.com/live/hLVIIul_2_g){target=“_blank”}
+[![&#x200B; April 8 Banner van de Gebeurtenis ExL Levende &#x200B;](assets/April-8-2026-WebBanner.jpg) &#x200B;](https://youtube.com/live/hLVIIul_2_g){target=“_blank”}
 <br>
 </br>
-<b>[ plaats een herinnering voor de show!](https://youtube.com/live/hLVIIul_2_g) </b>
+<b>[&#x200B; plaats een herinnering voor de show!](https://youtube.com/live/hLVIIul_2_g) </b>
 
 <br>
 </br>
