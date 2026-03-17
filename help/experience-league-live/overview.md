@@ -1,6 +1,6 @@
 ---
-title: Experience League LIVE Events
-description: A collection of links to previous Experience League LIVE events
+title: Experience League LIVE-gebeurtenissen
+description: Een verzameling koppelingen naar vorige Experience League LIVE-gebeurtenissen
 solution: Experience Platform,Real-Time Customer Data Platform,Journey Optimizer,Experience Manager,Target,Audience Manager,Analytics
 feature: Use Cases
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
@@ -8,25 +8,33 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: b91477fce8357e25653647ca54e086d5808b7344
+source-git-commit: 906af81ca9bfea0d33221278bd41136ecad48069
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '171'
 ht-degree: 0%
 
 ---
 
-# Experience League LIVE
+# EXPERIENCE LEAGUE LIVE
 
-Experience League LIVE is a live streaming show produced by the Experience League team.  It&#39;s a chance to connect with Adobe product experts and learn actionable tips, tricks, and strategies you can apply with the Adobe Experience Cloud applications.
+Experience League LIVE is een live streaming show die wordt gemaakt door het Experience League-team.  Het is een kans om verbinding te maken met Adobe-productexperts en actiepunten, trucs en strategieën te leren die u kunt toepassen met de Adobe Experience Cloud-toepassingen.
 
 
 
-## Upcoming Experience League LIVE events
+## Experience League LIVE-gebeurtenissen
 
 <table>
 <tr>
-    <td style="vertical-align: top;">
-      Come back to this page soon for upcoming Experience League LIVE shows!
+    <td style="vertical-align: top;"><a href="episodes/exl-live-episode-04-08-26.md">
+      <img alt="Experience League LIVE apr 21" src="episodes/assets/April-8-2026-WebBanner.jpg">
+    </a>
+    <div>
+      <a href="episodes/exl-live-episode-06-26-24.md">
+        <strong> Nieuwe Gevallen van het Gebruik voor de Betrokkenheid van de Klant: Live Activiteiten van iOS, de Duw van het Web, en het Aanhoudende Overseinen </strong>
+      </a>
+      <br/><em> met Don Huynh, Robert Calangiu, Brent Kostak </em>
+      <br/><em> 8 April, 2026 </em>
+    </div>
   </td>
 </tr>
 </table>
@@ -43,34 +51,34 @@ Experience League LIVE is a live streaming show produced by the Experience Leagu
 
 </div>
 
-## Staff Picks
+## Personeelspikkels
 
 <table style="max-width: 1214px;">
 
 <tr>
   <td style="vertical-align: top;"><a href="episodes/exl-live-episode-06-26-24.md">
-      <img alt="Experience League LIVE Apr 21" src="episodes/assets/WebBanner-June26-2024.jpg">
+      <img alt="Experience League LIVE apr 21" src="episodes/assets/WebBanner-June26-2024.jpg">
     </a>
     <div>
       <a href="episodes/exl-live-episode-06-26-24.md">
-        <strong>How the latest Adobe Real-Time CDP releases can move the needle for your business</strong>
+        <strong> hoe de recentste versies van Adobe Real-Time CDP de naald voor uw zaken kunnen bewegen </strong>
       </a>
-      <br/><em>with Nina Caruso, Rudi Shumpert, and Doug Moore</em>
-      <br/><em>June 26, 2024</em>
+      <br/><em> met Nina Caruso, Rudi Shumpert, en Doug Moore </em>
+      <br/><em> 26 juni, 2024 </em>
     </div>
   </td>
 
 
 <td style="vertical-align: top;">
     <a href="episodes/exl-live-episode-05-26-22.md">
-      <img alt="Experience League LIVE May 26" src="episodes/assets/WebBanner-Apr24-2024.jpg">
+      <img alt="Experience League LIVE 26 mei" src="episodes/assets/WebBanner-Apr24-2024.jpg">
     </a>
     <div>
       <a href="episodes/exl-live-episode-04-24-24.md">
-        <strong>New Code-Based Experience Channel in Journey Optimizer</strong>
+        <strong> Nieuw code-Gebaseerd Kanaal van de Ervaring in Journey Optimizer </strong>
       </a>
-      <br/><em>with Sandra Hausmann, Robert Calangiu, and Brent Kostak</em>
-      <br/><em>April 24, 2024</em>
+      <br/><em> met Sandra Hausmann, Robert Calangiu, en Brent Kostak </em>
+      <br/><em> 24 April, 2024 </em>
     </div>
   </td>
   </tr>
@@ -80,5 +88,5 @@ Experience League LIVE is a live streaming show produced by the Experience Leagu
 
 >[!TIP]
 >
->For additional methods of learning, check out our free [courses](https://experienceleague.adobe.com/nl#dashboard/learning) as well as individual [tutorials](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=nl-NL).
+>Voor extra methodes om te leren, controleer onze vrije [ cursussen ](https://experienceleague.adobe.com/#dashboard/learning) evenals individuele [ leerprogramma&#39;s ](https://experienceleague.adobe.com/docs/home-tutorials.html).
 

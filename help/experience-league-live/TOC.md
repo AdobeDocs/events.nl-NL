@@ -1,5 +1,5 @@
 ---
-user-guide-title: Live gebeurtenissen in Experience League
+user-guide-title: Experience League Live Events
 user-guide-breadcrumb: Experience League Live Events
 user-guide-description: Een lijst met Experience League Live Events
 type: Event
@@ -9,18 +9,19 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 220b114c82508f2c97b239c64b33a4e66feb03a7
+source-git-commit: 906af81ca9bfea0d33221278bd41136ecad48069
 workflow-type: tm+mt
-source-wordcount: '352'
-ht-degree: 2%
+source-wordcount: '371'
+ht-degree: 0%
 
 ---
 
 
-# Live gebeurtenissen in Experience League {#experience-league-live-recordings}
+# Experience League Live Events {#experience-league-live-recordings}
 
 + [Overzicht](overview.md)
 + Episodes {#episodes}
+   + [Nieuwe gebruiksscenario&#39;s voor betrokkenheid van klanten: iOS Live-activiteiten, Web Push en Persistent Messaging](episodes/exl-live-episode-04-08-26.md)
    + [Ga naar de Know Campaign Orchestration in Adobe Journey Optimizer](episodes/exl-live-episode-03-12-26.md)
    + [Adobe Experience Platform Agents voor verbeterde marketingefficiëntie en betere bedrijfsresultaten](episodes/exl-live-episode-03-03-26.md)
    + [Medewerkers op het werk: publiek en reizen maken en activeren](episodes/exl-live-episode-01-28-26.md)
