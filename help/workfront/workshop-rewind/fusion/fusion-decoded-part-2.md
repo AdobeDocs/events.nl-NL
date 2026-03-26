@@ -20,7 +20,7 @@ ht-degree: 3%
 
 Duik in Fusion Decode Deel 2 om grondbouwstrategieën voor de werkschema&#39;s en de systemen van de Fusie te begrijpen. Deze sessie is bedoeld voor beheerders, ontwikkelaars en leiders die hun kennis willen verbeteren en hun Fusion-implementaties willen verbeteren. Kijk hoe de workshop terugspoelt om actioneerbare inzichten en technieken te krijgen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481833/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3481844/?captions=dut&learn=on&enablevpops)
 
 De nieuwe gebeurtenissen worden toegevoegd elke maand, zodat zorg ervoor om de [&#x200B; pagina van de Gebeurtenissen van Experience League &#x200B;](https://experienceleague.adobe.com/nl/events) voor de recentste zittingen uit te checken.
 
