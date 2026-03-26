@@ -21,8 +21,8 @@ Succesvolle organisaties behandelen planning, uitvoering en rapportage niet als 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481830/?learn=on&enablevpops)
 
-Op zoek naar meer bronnen van de gebeurtenis, inclusief het diapakket dat tijdens de sessie wordt gedeeld? Controle uit de [&#x200B; Communautaire post van Experience League &#x200B;](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-workfront-s-power-trio-connecting-planning-workflow-and-canvas-dashboards-march-12-2026-249160)!
+Op zoek naar meer bronnen van de gebeurtenis, inclusief het diapakket dat tijdens de sessie wordt gedeeld? Controle uit de [&#x200B; Communautaire post van Experience League &#x200B;](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-workfront-s-power-trio-connecting-planning-workflow-and-canvas-dashboards-march-12-2026-249160?profile.language=nl)!
 
-De nieuwe gebeurtenissen worden toegevoegd elke maand, zodat zorg ervoor om de [&#x200B; pagina van de Gebeurtenissen van Experience League &#x200B;](https://experienceleague.adobe.com/en/events) voor de recentste zittingen uit te checken.
+De nieuwe gebeurtenissen worden toegevoegd elke maand, zodat zorg ervoor om de [&#x200B; pagina van de Gebeurtenissen van Experience League &#x200B;](https://experienceleague.adobe.com/nl/events) voor de recentste zittingen uit te checken.
 
 

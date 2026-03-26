@@ -17,13 +17,13 @@ ht-degree: 1%
 
 # Workfront Planning Smart Start - Uw Base-implementatie maken
 
-Word lid van ons Adobe-team voor productbeheer en deel zo de beste praktijken voor het starten van uw Workfront-planningimplementatie.  Voor meer informatie over wat volgende voor de Planning van Workfront komt, ben zeker om de [&#x200B; pagina van de Activiteit van de Versie van de Planning van Adobe Workfront van de Planning &#x200B;](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/planning-release-activity/planning-release-activity-article-index) op Experience League te merken.
+Word lid van ons Adobe-team voor productbeheer en deel zo de beste praktijken voor het starten van uw Workfront-planningimplementatie.  Voor meer informatie over wat volgende voor de Planning van Workfront komt, ben zeker om de [&#x200B; pagina van de Activiteit van de Versie van de Planning van Adobe Workfront van de Planning &#x200B;](https://experienceleague.adobe.com/nl/docs/workfront/using/product-announcements/product-releases/planning-release-activity/planning-release-activity-article-index) op Experience League te merken.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477113/?learn=on&enablevpops)
 
 Als u de sessie hebt gemist, hoeft u zich geen zorgen te maken! Herzie het [&#x200B; diafeck &#x200B;](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/073125+The+Smart+Start+%E2%80%94+Building+Your+Base+Implementation.pdf) en bekijk de opname op bestelling om langs te volgen.
 
-Hebt u ideeën om vervolgvragen van de gebeurtenis te delen of te hebben? Voel vrij om hen in de commentaren op de [&#x200B; post van de Gemeenschap van Experience League &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-workfront-planning-the-smart-start-building-your/td-p/767049) te laten vallen!
+Hebt u ideeën om vervolgvragen van de gebeurtenis te delen of te hebben? Voel vrij om hen in de commentaren op de [&#x200B; post van de Gemeenschap van Experience League &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-workfront-planning-the-smart-start-building-your/td-p/767049?profile.language=nl) te laten vallen!
 
-De nieuwe gebeurtenissen worden toegevoegd elke maand, zodat zorg ervoor om de [&#x200B; pagina van de Gebeurtenissen van Experience League &#x200B;](https://experienceleague.adobe.com/en/events) voor de recentste zittingen uit te checken.
+De nieuwe gebeurtenissen worden toegevoegd elke maand, zodat zorg ervoor om de [&#x200B; pagina van de Gebeurtenissen van Experience League &#x200B;](https://experienceleague.adobe.com/nl/events) voor de recentste zittingen uit te checken.
 

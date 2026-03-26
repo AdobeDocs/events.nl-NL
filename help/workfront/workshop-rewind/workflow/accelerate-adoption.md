@@ -25,8 +25,8 @@ Leer hoe u Experience League en de Experience League-gemeenschap kunt gebruiken 
 
 Als u de sessie hebt gemist, hoeft u zich geen zorgen te maken! Herzie het [&#x200B; diafeck &#x200B;](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Workfront+Success+Toolkit+Slide+Deck+021226.pdf) en bekijk de opname op bestelling om langs te volgen.
 
-Op zoek naar meer bronnen van de gebeurtenis? Controle uit de [&#x200B; Communautaire post van Experience League &#x200B;](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-your-workfront-success-toolkit-resources-to-accelerate-adoption-february-12-2026-248480)!
+Op zoek naar meer bronnen van de gebeurtenis? Controle uit de [&#x200B; Communautaire post van Experience League &#x200B;](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-your-workfront-success-toolkit-resources-to-accelerate-adoption-february-12-2026-248480?profile.language=nl)!
 
-De nieuwe gebeurtenissen worden toegevoegd elke maand, zodat zorg ervoor om de [&#x200B; pagina van de Gebeurtenissen van Experience League &#x200B;](https://experienceleague.adobe.com/en/events) voor de recentste zittingen uit te checken.
+De nieuwe gebeurtenissen worden toegevoegd elke maand, zodat zorg ervoor om de [&#x200B; pagina van de Gebeurtenissen van Experience League &#x200B;](https://experienceleague.adobe.com/nl/events) voor de recentste zittingen uit te checken.
 
 
