@@ -22,5 +22,5 @@ Duik in Fusion Decode Deel 2 om grondbouwstrategieën voor de werkschema&#39;s e
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481833/?learn=on&enablevpops)
 
-De nieuwe gebeurtenissen worden toegevoegd elke maand, zodat zorg ervoor om de [ pagina van de Gebeurtenissen van Experience League ](https://experienceleague.adobe.com/en/events) voor de recentste zittingen uit te checken.
+De nieuwe gebeurtenissen worden toegevoegd elke maand, zodat zorg ervoor om de [&#x200B; pagina van de Gebeurtenissen van Experience League &#x200B;](https://experienceleague.adobe.com/en/events) voor de recentste zittingen uit te checken.
 

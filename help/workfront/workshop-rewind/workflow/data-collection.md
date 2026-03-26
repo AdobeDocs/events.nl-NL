@@ -21,9 +21,9 @@ Ontvangen in partnerschap met Steve Teitelbaum, Enterprise Architect Content Sup
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481821/?learn=on&enablevpops)
 
-Deze zitting breidt op de bespreking van een vorige workshop, [ ProTips van Workfront voor Bestuur, Uitvoering, en Goedkeuring ](https://experienceleague.adobe.com/en/docs/events/workfront-recordings/workshop-rewind/workflow/governance-execution-adoption) uit.
+Deze zitting breidt op de bespreking van een vorige workshop, [&#x200B; ProTips van Workfront voor Bestuur, Uitvoering, en Goedkeuring &#x200B;](https://experienceleague.adobe.com/en/docs/events/workfront-recordings/workshop-rewind/workflow/governance-execution-adoption) uit.
 
-Als u de sessie hebt gemist, hoeft u zich geen zorgen te maken! Herzie het [ diafeck ](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Workfront+Pro+Tips+Part+2_Dec2025.pdf) en bekijk de opname op bestelling om langs te volgen.
+Als u de sessie hebt gemist, hoeft u zich geen zorgen te maken! Herzie het [&#x200B; diafeck &#x200B;](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Workfront+Pro+Tips+Part+2_Dec2025.pdf) en bekijk de opname op bestelling om langs te volgen.
 
-De nieuwe gebeurtenissen worden toegevoegd elke maand, zodat zorg ervoor om de [ pagina van de Gebeurtenissen van Experience League ](https://experienceleague.adobe.com/en/events) voor de recentste zittingen uit te checken.
+De nieuwe gebeurtenissen worden toegevoegd elke maand, zodat zorg ervoor om de [&#x200B; pagina van de Gebeurtenissen van Experience League &#x200B;](https://experienceleague.adobe.com/en/events) voor de recentste zittingen uit te checken.
 
