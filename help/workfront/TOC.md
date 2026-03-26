@@ -3,9 +3,9 @@ user-guide-title: Workfront Events
 breadcrumb-title: Workfront Events
 user-guide-description: Workfront Events
 solution: Workfront
-source-git-commit: 9f3e518295eaf64776880ba0442eb8a1b8d645e4
+source-git-commit: c350251d880f9e1ea4de6de51e1139894c9a3b47
 workflow-type: tm+mt
-source-wordcount: '460'
+source-wordcount: '534'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,8 @@ ht-degree: 0%
 + [Workfront Workshops op aanvraag](overview.md)
 
 + Webinars vrijgeven {#releases}
+   + [Webinar release tweede kwartaal 2026](releases/26-q2-release-webinar.md)
+   + [Eerste kwartaal webinar release 2026](releases/26-q1-release-webinar.md)
    + [Vierde kwartaal 2025, vrijgave webinar](releases/25-q4-release-webinar.md)
    + [25.7 Release](releases/25-7-release-webinar.md)
    + [25.4 Release](releases/25-4-release-webinar.md)
@@ -23,22 +25,29 @@ ht-degree: 0%
    + [24.1 Release](releases/24-1-release-webinar.md)
 + Workshop terugspoelen {#workshop-rewind}
    + Fusion {#fusion}
+      + [PDF&#39;s met branding automatiseren met Workfront Fusion](workshop-rewind/fusion/automating-branded-pdfs.md)
       + [Naamgevingsconventies automatiseren](workshop-rewind/fusion/automating-naming-conventions.md)
       + [Werkprocessen automatiseren](workshop-rewind/fusion/automate-work-processes.md)
       + [Voordelen en beste praktijken van de fusie](workshop-rewind/fusion/benefits-best-practices.md)
       + [Invoer van gegevens](workshop-rewind/fusion/data-imports.md)
       + [Fusievoordelen en gebruiksscenario&#39;s](workshop-rewind/fusion/case-for-fusion.md)
       + [Fusie gedecodeerd](workshop-rewind/fusion/fusion-decoded.md)
+      + [Fusie gedecodeerd Deel 2 - Begin gebouw](workshop-rewind/fusion/fusion-decoded-part-2.md)
       + [Hoe helpt Workfront Fusion de Mensen](workshop-rewind/fusion/inside-mayo-clinic.md)
       + [Navigeren door wijzigingen voor velden met meerdere selecties en versnelling](workshop-rewind/fusion/mulit-select-fields.md)
       + [Proactieve uitzonderingsafhandeling](workshop-rewind/fusion/proactive-exception-handling.md)
+      + [Workfront-efficiëntie voor Schneider Electric Drives](workshop-rewind/fusion/schneider-electric-efficiency.md)
       + [Workflows stroomlijnen](workshop-rewind/fusion/automate-workflows.md)
+      + [Tips, trucs en releasemarkeringen](workshop-rewind/fusion/tips-tricks-release-highlights.md)
       + [Ware-gebeurteniskosten ontgrendelen](workshop-rewind/fusion/event-costs.md)
       + [Upgrade naar Event-abonnementen V2](workshop-rewind/fusion/event-subscriptions-v2.md)
       + [Workfront Fusion + JSONata](workshop-rewind/fusion/jsonata.md)
    + Planning {#planning}
       + [Nieuwste in Workfront-planning](workshop-rewind/planning/workfront-planning.md)
       + [Adobe Workfront Planning Demo](workshop-rewind/planning/planning-demo.md)
+      + [De basisimplementatie samenstellen](workshop-rewind/planning/base-implementation.md)
+      + [Connecting Planning, Workflow en Canvas-dashboards](workshop-rewind/planning/planning-workflow-canvas.md)
+      + [Hoe Syracuse planning gebruikt](workshop-rewind/planning/syracuse-planning.md)
       + [CREATIVE Use-cases van SNHU](workshop-rewind/planning/planning-reimagined.md)
       + [Succes op teamniveau met Workfront-planning](workshop-rewind/planning/team-success-workfront-planning.md)
       + [Workfront Planning Release &amp; Roadmap](workshop-rewind/planning/planning-release-roadmap.md)
@@ -47,6 +56,7 @@ ht-degree: 0%
       + [Efficiëntie verhogen](workshop-rewind/workflow/cognizant-project-excellence.md)
       + [Wijzigingsbeheer in Workfront](workshop-rewind/workflow/change-management.md)
       + [Supply chain-integratie van content](workshop-rewind/workflow/content-supply-chain.md)
+      + [Dataverzameling](workshop-rewind/workflow/data-collection.md)
       + [Workfront-waarde definiëren en communiceren](workshop-rewind/workflow/workfront-value.md)
       + [Effectieve communicatie tips in Workfront](workshop-rewind/workflow/communication-tips.md)
       + [Tips voor bestuur, uitvoering en adoptie](workshop-rewind/workflow/governance-execution-adoption.md)
@@ -60,13 +70,18 @@ ht-degree: 0%
       + [Projectsjablonen](workshop-rewind/workflow/project-templates.md)
       + [Creative Brief verbeeldt](workshop-rewind/workflow/creative-briefs.md)
       + [Grondbeginselen van beheer van bronnen](workshop-rewind/workflow/resource-management.md)
+      + [Middelen om goedkeuring en waarde te versnellen](workshop-rewind/workflow/accelerate-adoption.md)
+      + [Bronbeheer opnieuw overdenken](workshop-rewind/workflow/rethink-resource-management.md)
       + [Secure Executive Sponsorship](workshop-rewind/workflow/secure-executive-sponsorship.md)
       + [Zelfstudie naar succes](workshop-rewind/workflow/self-taught-to-success.md)
       + [Voorjaar opschonen met Workfront-rapporten](workshop-rewind/workflow/workfront-reports-cleanup.md)
+      + [10 Communicatietips](workshop-rewind/workflow/10-communication-tips.md)
       + [Tips voor tekstmodus](workshop-rewind/workflow/text-mode-tips.md)
       + [10 Meer tips over tekstmodus](workshop-rewind/workflow/10-more-text-mode-tips.md)
       + [De verwarring van de Gebruiker in Vertrouwen omzetten](workshop-rewind/workflow/avalara-user-transformation.md)
       + [Problemen met berekende Workfront-velden oplossen](workshop-rewind/workflow/troubleshoot-calculated-expressions.md)
+      + [Blauwdrukken omzetten in trainingsprogramma&#39;s](workshop-rewind/workflow/blueprints-to-planning.md)
+      + [Het begrip verenigde goedkeuringen](workshop-rewind/workflow/unified-approvals.md)
       + [Workfront Boards ontgrendelen](workshop-rewind/workflow/unlock-boards.md)
       + [De kracht van Workfront Data Connect ontgrendelen](workshop-rewind/workflow/data-connect.md)
       + [Workfront gebruiken voor effectieve reorganisaties](workshop-rewind/workflow/effective-reorgs.md)
@@ -95,7 +110,7 @@ ht-degree: 0%
    + Volsus! {#versus}
       + [Groepen versus teams](quick-takes/versus/groups-vs-teams.md)
 + Expert Insights {#expert-insights}
-   + [Acceptatie](expert-insights/adoption.md)
+   + [Goedkeuring](expert-insights/adoption.md)
    + [Beoordelingsenquêtes](expert-insights/adoption-surveys.md)
    + [Agile](expert-insights/agile.md)
    + [Content Supply chain](expert-insights/content-supply-chain.md)
@@ -109,7 +124,7 @@ ht-degree: 0%
    + [SLA Reporting in Workfront](expert-insights/sla-reporting.md)
    + [Zakelijk werkbeheer](expert-insights/enterprise-work-management.md)
 + Klassieke {#classics}
-   + Beheer {#administration}
+   + Administratie {#administration}
       + [Audittrails en compatibiliteit](user-groups/audit-trails-and-compliance.md)
       + [Workflows automatiseren met Workfront Fusion](user-groups/automating-workflows-with-workfront-fusion.md)
       + [Creative Agencies: workflow en verwerking](user-groups/creative-agencies-workflows-and-process.md)
