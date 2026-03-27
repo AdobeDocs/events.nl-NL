@@ -7,18 +7,23 @@ doc-type: Event
 duration: 13
 last-substantial-update: 2026-03-26T00:00:00Z
 jira: KT-20612
-source-git-commit: c350251d880f9e1ea4de6de51e1139894c9a3b47
+exl-id: 4eaa0277-5f45-4a6e-a552-cf46691cafe4
+source-git-commit: 64c30b21539d44723f6451a02714638923b60bc2
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 4%
+source-wordcount: '177'
+ht-degree: 2%
 
 ---
 
 
 # Begrijpend Verenigde Goedkeuringen - Richting, Rapportering, en wat daarna is
 
-Ontdek de belangrijkste aspecten van verenigde goedkeuringen, met inbegrip van richting, rapportering, en aanstaande eigenschappen. Deze terugspoeling biedt waardevolle inzichten om u te helpen op de hoogte te blijven en uw workflow te optimaliseren.
+De verenigde goedkeuringen vertegenwoordigen de toekomst van goedkeuringen in Workfront. Word lid van ons Adobe-team voor productbeheer voor een informatieve sessie aangezien deze de productrichting voor goedkeuringen in Workfront delen, hoe deze afwijkt van vandaag de proefdrukken en hoe de overgang er na verloop van tijd uitziet.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481834/?learn=on&enablevpops)
 
-De nieuwe gebeurtenissen worden toegevoegd elke maand, zodat zorg ervoor om de [&#x200B; pagina van de Gebeurtenissen van Experience League &#x200B;](https://experienceleague.adobe.com/nl/events) voor de recentste zittingen uit te checken.
+Als u de sessie hebt gemist, hoeft u zich geen zorgen te maken! Herzie het [ diafeck ](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/032626+-Understanding+Unified+Approvals.pdf) en bekijk de opname op bestelling om langs te volgen.
+
+Op zoek naar meer bronnen of de Vragen en antwoorden van de gebeurtenis? Controle uit de [ Communautaire post van Experience League ](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-understanding-unified-approvals-direction-reporting-and-what-s-next-3-26-26-249480)!
+
+De nieuwe gebeurtenissen worden toegevoegd elke maand, zodat zorg ervoor om de [ pagina van de Gebeurtenissen van Experience League ](https://experienceleague.adobe.com/en/events) voor de recentste zittingen uit te checken.
