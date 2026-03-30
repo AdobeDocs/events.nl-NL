@@ -3,10 +3,10 @@ user-guide-title: Acrobat Sign-webinars
 user-guide-description: Leer van Adobe-experts hoe u de nieuwe workflows voor e-handtekeningen in Acrobat Sign kunt beheren.
 cloud: Document Cloud
 solution: Document Cloud
-source-git-commit: 3a45db92bac5030331e3db33fc83c628ae7cfc39
+source-git-commit: c7127e3ce7b0215d208bdd53db3d881e9bfb83d1
 workflow-type: tm+mt
-source-wordcount: '108'
-ht-degree: 6%
+source-wordcount: '116'
+ht-degree: 2%
 
 ---
 
@@ -15,10 +15,11 @@ ht-degree: 6%
 
 + [Overzicht](overview.md)
 + Webinars vrijgeven {#releases}
-   + [Februari 2026](skill-builders/acrobat-sign-february-2026-release.md)
+   + [februari 2026](skill-builders/acrobat-sign-february-2026-release.md)
    + [Oktober 2025](skill-builders/acrobat-sign-october-2025-release.md)
-   + [Juli 2025](skill-builders/acrobat-july-release.md)
+   + [juli 2025](skill-builders/acrobat-july-release.md)
 + Innovatie - nieuwe kenmerken {#newfeatures}
+   + [Identiteitsverificatie en beveiliging](./skill-builders/identity-verification-security.md)
    + [Mobiele e-handtekening optimaliseren](./skill-builders/mobile-e-signing.md)
 + 101 - Aan de slag voor gebruikers {#getstartedusers}
    + [Acrobat Sign 101](./skill-builders/getting-started.md)
