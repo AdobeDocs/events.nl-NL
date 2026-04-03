@@ -25,10 +25,10 @@ en bekijk de opname op aanvraag om mee te gaan, zoals Jen een overzicht geeft va
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477159/?learn=on&enablevpops)
 
-Heb je van deze sessie gehouden en meer willen leren van Jen? Zorg ervoor om op de tweede zitting in de reeks te letten, [&#x200B; Fusie Decodeerde Deel 2 - de Bouw van het Begin &#x200B;](https://experienceleague.adobe.com/en/docs/events/workfront-recordings/workshop-rewind/fusion/fusion-decoded-part-2)!
+Heb je van deze sessie gehouden en meer willen leren van Jen? Zorg ervoor om op de tweede zitting in de reeks te letten, [&#x200B; Fusie Decodeerde Deel 2 - de Bouw van het Begin &#x200B;](https://experienceleague.adobe.com/nl/docs/events/workfront-recordings/workshop-rewind/fusion/fusion-decoded-part-2)!
 
-En vergeet niet om de lijst van momenteel beschikbare Adobe Workfront [&#x200B; malplaatjes van de Fusie &#x200B;](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/create-and-manage-templates/currently-available-fusion-templates) te herzien.
+En vergeet niet om de lijst van momenteel beschikbare Adobe Workfront [&#x200B; malplaatjes van de Fusie &#x200B;](https://experienceleague.adobe.com/nl/docs/workfront-fusion/using/create-and-manage-templates/currently-available-fusion-templates) te herzien.
 
-Meer middelverbindingen zijn beschikbaar op de [&#x200B; Communautaire post van Experience League &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-fusion-decoded-what-it-is-and-why-every-org-can/td-p/784958)!
+Meer middelverbindingen zijn beschikbaar op de [&#x200B; Communautaire post van Experience League &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-fusion-decoded-what-it-is-and-why-every-org-can/td-p/784958?profile.language=nl)!
 
-De nieuwe gebeurtenissen worden toegevoegd elke maand, zodat zorg ervoor om de [&#x200B; pagina van de Gebeurtenissen van Experience League &#x200B;](https://experienceleague.adobe.com/en/events) voor de recentste zittingen uit te checken.
+De nieuwe gebeurtenissen worden toegevoegd elke maand, zodat zorg ervoor om de [&#x200B; pagina van de Gebeurtenissen van Experience League &#x200B;](https://experienceleague.adobe.com/nl/events) voor de recentste zittingen uit te checken.
