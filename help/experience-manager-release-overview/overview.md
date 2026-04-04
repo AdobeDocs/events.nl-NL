@@ -30,7 +30,7 @@ Bekijk een kort overzicht van de nieuwste functies op Adobe Experience Manager a
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2026/2026-3-0.md" title="2026.03.0 AEM Release-video" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3483060/?format=jpeg&nocache=1775063376142" alt="2026.03.0 AEM Release-video"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3483066/?captions=dut&format=jpeg&nocache=1775063376142" alt="2026.03.0 AEM Release-video"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
