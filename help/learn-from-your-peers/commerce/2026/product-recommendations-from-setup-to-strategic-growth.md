@@ -8,7 +8,7 @@ duration: 3633
 last-substantial-update: 2026-03-12T00:00:00Z
 jira: KT-20526
 exl-id: bb3a9675-562a-4614-80bd-c2d164b47968
-source-git-commit: 0f5c158625fe1ed3f7762754788d280fb8527196
+source-git-commit: a74b16144c63581e387e590ff4aa98f9a218ec84
 workflow-type: tm+mt
 source-wordcount: '308'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 # Leer van je collega&#39;s: Adobe Commerce-productaanbevelingen - van Setup tot Strategische Groei
 
-Sluit u aan bij Adobe Commerce Champions Manav Padhariya en Michael Schenck voor een trainingssessie over het transformeren van Adobe Commerce-productaanbevelingen van een basisfunctie naar een krachtige AI-native strategische drijfveer voor bedrijfsgroei.
+Sluit u aan bij Adobe Commerce Champions Manav Padhariya en Michael Schenck voor een trainingssessie over het omzetten van Adobe Commerce-productaanbevelingen van een basisfunctie in een krachtige AI-native strategische drijfveer voor bedrijfsgroei.
 
 Michael en Manav, erkend als toonaangevende beoefenaars die innovatie in het hele handels-ecosysteem stimuleren, tonen aan hoe de strategische organisatie van productaanbevelingen door hen aan bedrijfsdoelstellingen aan te passen direct voorraadverkoop door, AOV, en klantenbehoud kan verbeteren.
 
