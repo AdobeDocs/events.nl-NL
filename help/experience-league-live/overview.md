@@ -8,9 +8,9 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 906af81ca9bfea0d33221278bd41136ecad48069
+source-git-commit: 85c30a3089b44ab1067f602d01de6d8d2a1efce4
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '168'
 ht-degree: 0%
 
 ---
@@ -25,16 +25,7 @@ Experience League LIVE is een live streaming show die wordt gemaakt door het Exp
 
 <table>
 <tr>
-    <td style="vertical-align: top;"><a href="episodes/exl-live-episode-04-08-26.md">
-      <img alt="Experience League LIVE apr 21" src="episodes/assets/April-8-2026-WebBanner.jpg">
-    </a>
-    <div>
-      <a href="episodes/exl-live-episode-06-26-24.md">
-        <strong> Nieuwe Gevallen van het Gebruik voor de Betrokkenheid van de Klant: Live Activiteiten van iOS, de Duw van het Web, en het Aanhoudende Overseinen </strong>
-      </a>
-      <br/><em> met Don Huynh, Robert Calangiu, Brent Kostak </em>
-      <br/><em> 8 April, 2026 </em>
-    </div>
+    <td style="vertical-align: top;">Binnenkort komen er meer programma's! Kom vaak terug naar deze pagina, waar u de komende shows en de vorige shows kunt zien.
   </td>
 </tr>
 </table>
@@ -64,7 +55,7 @@ Experience League LIVE is een live streaming show die wordt gemaakt door het Exp
         <strong> hoe de recentste versies van Adobe Real-Time CDP de naald voor uw zaken kunnen bewegen </strong>
       </a>
       <br/><em> met Nina Caruso, Rudi Shumpert, en Doug Moore </em>
-      <br/><em> 26 juni, 2024 </em>
+      <br/><em> Juni 26, 2024 </em>
     </div>
   </td>
 
@@ -88,5 +79,5 @@ Experience League LIVE is een live streaming show die wordt gemaakt door het Exp
 
 >[!TIP]
 >
->Voor extra methodes om te leren, controleer onze vrije [&#x200B; cursussen &#x200B;](https://experienceleague.adobe.com/nl#dashboard/learning) evenals individuele [&#x200B; leerprogramma&#39;s &#x200B;](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=nl-NL).
+>Voor extra methodes om te leren, controleer onze vrije [ cursussen ](https://experienceleague.adobe.com/#dashboard/learning) evenals individuele [ leerprogramma&#39;s ](https://experienceleague.adobe.com/docs/home-tutorials.html).
 
