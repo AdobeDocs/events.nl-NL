@@ -21,7 +21,7 @@ Ontdek nieuwe oppervlakken en gebruik gevallen voor de betrokkenheid van klanten
 
 >[!VIDEO](https://video.tv.adobe.com/v/3483389/?quality=12&learn=on)
 
-Ga verder de bespreking over de show in [&#x200B; Communautaire Post van Experience League.](https://experienceleaguecommunities.adobe.com/adobe-journey-optimizer-15/experience-league-live-new-use-cases-for-customer-engagement-ios-live-activities-web-push-and-persistent-messaging-249581){target="_blank"}
+Ga verder de bespreking over de show in [&#x200B; Communautaire Post van Experience League.](https://experienceleaguecommunities.adobe.com/adobe-journey-optimizer-15/experience-league-live-new-use-cases-for-customer-engagement-ios-live-activities-web-push-and-persistent-messaging-249581?profile.language=nl){target="_blank"}
 
 <br>
 </br>
