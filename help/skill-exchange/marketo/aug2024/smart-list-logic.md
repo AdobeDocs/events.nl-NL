@@ -2,6 +2,8 @@
 title: Verover Slimme List Logic om uw campagnepubliek te bereiken
 description: Een overzicht van Slimme Campagnes en hoe zij in de algemene architectuur van Marketo Engage passen A diep duik in de vier niveaus van logica om uw publiekTricks te vormen en aan te passen om uw logica problemen op te lossen en te verifiëren dat u correct uw bedoeld publiek hebt gericht
 solution: Marketo Engage
+feature: Smart Lists
+topic: Artificial Intelligence, Personalization
 role: User
 level: Beginner
 doc-type: Event
@@ -9,7 +11,7 @@ duration: 2250
 last-substantial-update: 2024-08-30T00:00:00Z
 jira: KT-16000
 exl-id: f9ebb3f5-6389-42af-995b-a33eb9024bbe
-source-git-commit: 3f2a8375249858c4905d9058570dffcd4dcd8622
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '171'
 ht-degree: 0%
@@ -26,4 +28,4 @@ Slimme campagnes zijn de krachtige motoren die de automatiseringsmagie van Marke
 * Een diep duik in de vier niveaus van logica om uw publiek te vormen en aan te passen
 * De trucs om uw logica problemen op te lossen en te verifiëren dat u correct uw voorgenomen publiek hebt gericht
 
->[!VIDEO](https://video.tv.adobe.com/v/3457304/?learn=on&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3432943/?learn=on)

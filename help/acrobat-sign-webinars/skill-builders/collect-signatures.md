@@ -2,6 +2,7 @@
 title: Vele handtekeningen verzamelen met één klik
 description: Leer hoe u tijd kunt besparen met de functie Verzenden in bulk in Acrobat Sign.
 feature: Sign
+topic: Personalization
 role: User
 level: Beginner
 doc-type: Event
@@ -9,9 +10,9 @@ duration: 1108
 last-substantial-update: 2024-04-30T00:00:00Z
 jira: KT-15297
 exl-id: c1774a2e-478b-4bec-be9f-69db9e0ef615
-source-git-commit: a9055b8c455e5a28cc47f350644a7ae1a428d9bc
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '195'
 ht-degree: 0%
 
 ---
@@ -20,7 +21,7 @@ ht-degree: 0%
 
 Leer hoe u tijd kunt besparen met de functie Verzenden in bulk in Acrobat Sign. Als u veelvoudige individuen nodig hebt om unieke exemplaren van een beleidsupdate voor het hele bedrijf te ondertekenen, staat een NDA of een ander document, verzendt in Bulk u toe om het dossier eens voor te bereiden, naar veelvoudige ondertekenaars met één klik te verzenden en gemakkelijk reacties te volgen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3454897/?learn=on&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3428188/?learn=on)
 
 ## Belangrijkste punten
 

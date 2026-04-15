@@ -2,19 +2,21 @@
 title: Uitmuntendheid van hulpbronnen - De werklastbalans aanpassen
 description: Wanneer u één hulpmiddel over een andere (de Balancer van de Werkbelasting of de Planner van het Middel) zou kunnen kiezen, of situaties waarin u zowel zou kunnen gebruiken hoe te filters en meningen aanpassen om precies de gegevens te zien u in het melden vraagt waarom het ingaan van tijd voor nauwkeurige capaciteitsplanning essentieel is Hoe het gebruiken van de hulpmiddelen van het middelbeheer van Workfront Steve en zijn team heeft toegestaan om middelcapaciteit en toekomstige middelplanning voor de komende drie maanden te bepalen
 solution: Workfront
+feature: Resource Management, Reports and Dashboards, Strategic Planning
+topic: Administration, Integrations
 role: User
 level: Intermediate, Experienced
 doc-type: Event
 duration: 2623
 last-substantial-update: 2024-08-29T00:00:00Z
 jira: KT-16102
-source-git-commit: 34eef234c654a62ad30929b99dcb4d09af48c29d
+exl-id: 16622bad-db10-4deb-9182-753d0abdcd55
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '235'
 ht-degree: 0%
 
 ---
-
 
 # Uitmuntendheid van middelen: de werklastbalans aanpassen
 

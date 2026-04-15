@@ -2,6 +2,8 @@
 title: Adobe Digital Insights - Ontwikkende vakantieresultaten van 2024 en trends van begin 2025
 description: Sluit u aan bij het webinar van Adobe om inzicht te krijgen in de trends van 2024 vakantiewinkelen en de marktprognoses begin 2025, verken productcategorieën met een hoge groei en leer beste praktijken voor het creëren van gepersonaliseerde winkelervaringen met behulp van AI en geavanceerde technologieën.
 solution: General
+feature: Generative AI, Personalization
+topic: Artificial Intelligence, Personalization, Performance
 role: Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -9,9 +11,9 @@ duration: 3049
 last-substantial-update: 2025-02-20T00:00:00Z
 jira: KT-17395
 exl-id: bf20e43a-efc6-4d54-af79-15f89d4fd02b
-source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '363'
+source-wordcount: '373'
 ht-degree: 0%
 
 ---

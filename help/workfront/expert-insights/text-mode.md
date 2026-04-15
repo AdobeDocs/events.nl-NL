@@ -1,19 +1,21 @@
 ---
 title: Hoofdtekstmodus met Katherine Lanning
 description: Ontdek de kracht van de tekstmodus in Workfront met deskundige inzichten van Katherine Lanning.
+feature: Reports and Dashboards, System Setup and Administration, Work Management
+topic: Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 1892
 last-substantial-update: 2025-12-10T00:00:00Z
 jira: KT-19738
-source-git-commit: df552b4f2b2fa1d8e4e8941aa9d58acecc60dd2b
+exl-id: 42008579-3f8d-4b10-bfdd-96fb77b1d48e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '467'
+source-wordcount: '562'
 ht-degree: 0%
 
 ---
-
 
 # Workfront Expert Insights: Tekstmodus met Katherine Lanning
 
@@ -35,13 +37,13 @@ De tekstmodus kan een uitdaging zijn, maar de beloningen zijn verbazingwekkend. 
 ## Bronnen
 
 Op zoek naar extra middelen? We hebben ze!
-* [&#x200B; het Comité van de Klant: Lessen die van Veteran Workfront Admins &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-customer-panel-lessons-learned-from-veteran/m-p/714861?profile.language=nl#M3487) worden geleerd - Katherine deelde meer inzichten!
-* [&#x200B; inzamelingen van de Verwijzing in een rapport &#x200B;](https://experienceleague.adobe.com/nl/docs/workfront/using/reporting/reports/text-mode/reference-collections-report)
-* [API Explorer](https://experienceleague.adobe.com/nl/docs/workfront/using/adobe-workfront-api/api-general-information/api-explorer)
-* [&#x200B; Meldend Cookbook &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/the-first-ever-adobe-workfront-customer-reporting-cookbook-is/m-p/478722?profile.language=nl#M1406)
-* En als u gloednieuw aan het Melden bent, begin met het artikel van het Perspectief van Nichole, [&#x200B; 8 stappen om eenvoudige, efficiënte rapporten in Adobe Workfront &#x200B;](https://experienceleague.adobe.com/nl/perspectives/8-steps-to-create-simple-effective-reports-in-adobe-workfront) tot stand te brengen.
+* [ het Comité van de Klant: Lessen die van Veteran Workfront Admins ](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-customer-panel-lessons-learned-from-veteran/m-p/714861#M3487) worden geleerd - Katherine deelde meer inzichten!
+* [Referentieverzamelingen in een rapport](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/text-mode/reference-collections-report)
+* [API Explorer](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-api/api-general-information/api-explorer)
+* [Cookbook rapporteren](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/the-first-ever-adobe-workfront-customer-reporting-cookbook-is/m-p/478722#M1406)
+* En als u gloednieuw aan het Melden bent, begin met het artikel van het Perspectief van Nichole, [ 8 stappen om eenvoudige, efficiënte rapporten in Adobe Workfront ](https://experienceleague.adobe.com/en/perspectives/8-steps-to-create-simple-effective-reports-in-adobe-workfront) tot stand te brengen.
 
-Voor meer middelen, met inbegrip van de Wijze van de Tekst van de exemplaar/deeg, controleer de [&#x200B; Communautaire post van Experience League &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-october-2025-workfront-expert-insights-text-mode-with/m-p/779717?profile.language=nl#M4848)!
+Voor meer middelen, met inbegrip van de Wijze van de Tekst van de exemplaar/deeg, controleer de [ Communautaire post van Experience League ](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-october-2025-workfront-expert-insights-text-mode-with/m-p/779717#M4848)!
 
 
 ## Over de spreker
@@ -55,6 +57,6 @@ Ze woont in het zuidwesten van Ohio met haar onbedoelde echtgenoot, haar hond &#
 
 ## Heb je iets te delen?
 
-Hebt u een geweldig verhaal om te delen, tijdens een gebeurtenis of in een video van Expert Insights? Gelieve te bereiken uit aan ons team in [&#x200B; CSatScale@adobe.com &#x200B;](mailto:CSatScale@adobe.com).
+Hebt u een geweldig verhaal om te delen, tijdens een gebeurtenis of in een video van Expert Insights? Gelieve te bereiken uit aan ons team in [ CSatScale@adobe.com ](mailto:CSatScale@adobe.com).
 
-En als u van het leren over nieuwe ideeën en creatieve benaderingen houdt, dan vergeet niet om voor komende workshops op de [&#x200B; pagina van de Gebeurtenissen van Experience League &#x200B;](https://experienceleague.adobe.com/nl/events) te registreren.
+En als u van het leren over nieuwe ideeën en creatieve benaderingen houdt, dan vergeet niet om voor komende workshops op de [ pagina van de Gebeurtenissen van Experience League ](https://experienceleague.adobe.com/en/events) te registreren.

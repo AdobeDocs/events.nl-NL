@@ -1,6 +1,7 @@
 ---
 title: Auteur, alles met Universal Editor
-description: Schrijver alles met de Universal EditorBegrijp hoe uw eigen bestaande headless-apps de UE eenvoudig kunnen afstellen om in de context weinig wrijving te brengen bij het bewerken naar de vingertop van uw auteurs. De Universele Redacteur is de volgende generatie van AEM in-context paginaredacteur en het lost de huidige beperkingen van de AEM Redacteur van de Pagina of SPA op. Het staat los van raamwerken, renderingengines en gegevensbronnen - en biedt dus alle vrijheid die de ontwikkelaars zoeken en maakt het echt universeel. Het enige wat het vereist is is een teruggegeven HTML met de vereiste instrumentatie, maar staat toe dat de implementatie nog volledig van AEM wordt losgemaakt. In deze sessie wordt u geïntroduceerd in de nieuwe Universal Editor, de momenteel beschikbare functies worden besproken en in een demo wordt getoond hoe een eenvoudige app bewerkbaar kan worden gemaakt in de Universal Editor.
+description: Schrijver alles met de Universal EditorBegrijp hoe uw eigen bestaande headless-apps de UE eenvoudig kunnen afstellen om in de context weinig wrijving te brengen bij het bewerken naar de vingertop van uw auteurs. De Universele Redacteur is de volgende generatie van AEM in-context paginaredacteur en het lost de huidige beperkingen van de Redacteur van de Pagina of van het KUUROORD van AEM op. Het staat los van raamwerken, renderingengines en gegevensbronnen - en biedt dus alle vrijheid die de ontwikkelaars zoeken en maakt het echt universeel. Het enige wat het vereist is, is een gerenderde HTML met de vereiste instrumentatie, maar staat toe dat de implementatie nog volledig van AEM wordt losgemaakt. In deze sessie wordt u geïntroduceerd in de nieuwe Universal Editor, de momenteel beschikbare functies worden besproken en in een demo wordt getoond hoe een eenvoudige app bewerkbaar kan worden gemaakt in de Universal Editor.
+feature: Authoring
 product: experience manager
 sub-product: sites
 topic: Development
@@ -12,9 +13,9 @@ jira: KT-13357
 thumbnail: 3419942.jpeg
 exl-id: 23b7f06f-e544-4bc5-8583-1333de27cc17
 duration: 1758
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '286'
+source-wordcount: '294'
 ht-degree: 0%
 
 ---
@@ -23,6 +24,6 @@ ht-degree: 0%
 
 Auteur, alles met Universal Editor
 
-Begrijp hoe uw eigen toepassingen zonder kop de UE eenvoudig kunnen instrumenteren om in de context weinig wrijving te brengen bij het bewerken van de bestanden binnen de vingertop van uw auteurs. De Universele Redacteur is de volgende generatie van AEM in-context paginaredacteur en het lost de huidige beperkingen van de AEM Redacteur van de Pagina of SPA op. Het staat los van raamwerken, renderingengines en gegevensbronnen - en biedt dus alle vrijheid die de ontwikkelaars zoeken en maakt het echt universeel. Het enige wat het vereist is is een teruggegeven HTML met de vereiste instrumentatie, maar staat toe dat de implementatie nog volledig van AEM wordt losgemaakt. In deze sessie wordt u geïntroduceerd in de nieuwe Universal Editor, de momenteel beschikbare functies worden besproken en in een demo wordt getoond hoe een eenvoudige app bewerkbaar kan worden gemaakt in de Universal Editor. → Ga verder met het gesprek op: https://adobe.ly/3njEDyy
+Begrijp hoe uw eigen toepassingen zonder kop de UE eenvoudig kunnen instrumenteren om in de context weinig wrijving te brengen bij het bewerken van de bestanden binnen de vingertop van uw auteurs. De Universele Redacteur is de volgende generatie van AEM in-context paginaredacteur en het lost de huidige beperkingen van de Redacteur van de Pagina of van het KUUROORD van AEM op. Het staat los van raamwerken, renderingengines en gegevensbronnen - en biedt dus alle vrijheid die de ontwikkelaars zoeken en maakt het echt universeel. Het enige wat het vereist is, is een gerenderde HTML met de vereiste instrumentatie, maar staat toe dat de implementatie nog volledig van AEM wordt losgemaakt. In deze sessie wordt u geïntroduceerd in de nieuwe Universal Editor, de momenteel beschikbare functies worden besproken en in een demo wordt getoond hoe een eenvoudige app bewerkbaar kan worden gemaakt in de Universal Editor. → Ga verder met het gesprek op: https://adobe.ly/3njEDyy
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419942/?learn=on)

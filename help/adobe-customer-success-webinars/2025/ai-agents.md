@@ -3,19 +3,20 @@ title: AI-agents in AEP - Een overzicht
 description: Leer hoe AI-agents in Adobe Experience Platform de efficiëntie verhogen, echte gebruiksproblemen ondersteunen en toegevoegde waarde bieden. Ontdek visie, routekaart en hoe u begint.
 topic: Artificial Intelligence
 solution: Experience Platform
+feature: AI Assistant, Agentic AI, Audiences
 role: Admin, Developer, Leader, User
 level: Beginner
 doc-type: Feature Video
 duration: 2559
 last-substantial-update: 2025-10-01T00:00:00Z
 jira: KT-19310
-source-git-commit: 513f1b0d3fee0d3db6db9104a5153a42d354b446
+exl-id: 2658c383-7957-4db6-807c-664a6bcd69fc
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '219'
 ht-degree: 0%
 
 ---
-
 
 # AI-agents in AEP: een overzicht
 
@@ -33,4 +34,3 @@ Adobe Experience Platform beschikt over verschillende gespecialiseerde agents di
 * **Stroomlijnt het oplossen van problemen, de verwezenlijking van kaartjes, en status het volgen, trekkend uit zowel documentatie als levende gegevens.**
 
 De agenten worden betreden via AI Medewerker, die taken coördineert en naadloze integratie over de oplossingen van AEP verzekert. Deze hulpmiddelen drijven efficiency, verminderen handinspanning, en steunen slimmere marketing besluiten.
-

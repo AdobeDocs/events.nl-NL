@@ -3,6 +3,7 @@ title: Een besturingssysteem ontwerpen voor CJA Success
 description: Leer hoe u een schaalbaar, interfunctioneel besturingssysteem maakt dat uw CJA-meetprogramma aanpast aan strategische doelen en de efficiëntie en impact op lange termijn aanstuurt.
 solution: Customer Journey Analytics
 feature: Basics
+topic: Performance, Administration, Development
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate
 doc-type: Event
@@ -10,9 +11,9 @@ duration: 3590
 last-substantial-update: 2025-08-08T00:00:00Z
 jira: KT-18694
 exl-id: 70a11781-ad10-4e3b-94f3-f1a5a98d725c
-source-git-commit: 2f10210e5c92e5c1bf77c886ed347cdc967f089e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '450'
+source-wordcount: '458'
 ht-degree: 0%
 
 ---
@@ -37,8 +38,8 @@ De instelling van een gestructureerde bestuurscadentie zorgt voor soepele werkin
 * **jaarlijkse Vergaderingen van de Strategie** concentreert zich op het identificeren van waardebestuurders, het bijwerken van KPIs, en het herzien van roadmaps.
 * **Driemaandelijkse Revisies van Analytics** verfijnen roadmaps, beoordelen vooruitgang, en plan ondernemingsenablement.
 * **Maandelijkse Controle-ins van de LEIDING van de LEIDING** de escalaties van het Adres, overzichtsdoelstellingen, en spoor KPIs.
-* **Besprekingen van 0&rbrace; biw-Weekly oplossen blokkeerders, aan taken voorrang geven, en risico&#39;s controleren.**
-* **De Activiteiten van het Team van het Dagelijkse Werk 1&rbrace; behandelen de verrichtingen van dag tot dag en verzekeren vooruitgang.**
+* **Besprekingen van 0} biw-Weekly oplossen blokkeerders, aan taken voorrang geven, en risico&#39;s controleren.**
+* **De Activiteiten van het Team van het Dagelijkse Werk 1} behandelen de verrichtingen van dag tot dag en verzekeren vooruitgang.**
 
 Tilor deze ervaring aan de behoeften van uw organisatie groepering te handhaven en samenwerking over teams te bevorderen.
 

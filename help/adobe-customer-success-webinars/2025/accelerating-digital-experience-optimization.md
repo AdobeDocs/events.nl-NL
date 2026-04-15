@@ -1,19 +1,21 @@
 ---
 title: De Optimalisering van de Digitale Ervaring versnellen met AI-Aangedreven Inzichten
 description: Bekijk hoe AI in Adobe Analytics, Target en CJA de insight-snelheid, personalisatie en optimalisatie voor meerdere kanalen verhoogt voor slimmere en snellere marketingbeslissingen.
+feature: Basics, Use Cases
+topic: Personalization
 role: Developer, Leader, User
 level: Intermediate
 doc-type: Event
 duration: 2970
 last-substantial-update: 2025-06-12T00:00:00Z
 jira: KT-18243
-source-git-commit: a6dc33c7c991f949fd72539525e64af57520778f
+exl-id: fcf25ec0-1e23-4efe-a869-9e108456380c
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '118'
+source-wordcount: '125'
 ht-degree: 0%
 
 ---
-
 
 # De Optimalisering van de Digitale Ervaring versnellen met AI-Aangedreven Inzichten
 

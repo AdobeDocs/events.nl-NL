@@ -2,19 +2,21 @@
 title: Een besturingssysteem ontwerpen voor AJO Success
 description: Leer hoe een samenhangend bedrijfsmodel de efficiëntie verhoogt, het gebruik van bronnen voorkomt en uw marketingprogramma schaalt voor succes op de lange termijn.
 solution: Journey Optimizer
+feature: Email Design
+topic: Personalization, Performance, Administration
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3581
 last-substantial-update: 2025-11-13T00:00:00Z
 jira: KT-19551
-source-git-commit: 84c9a126769fa94b0197d12ca594137e13edc510
+exl-id: 7c10159b-9ae3-447d-8cfa-e46802e63ea8
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '322'
+source-wordcount: '329'
 ht-degree: 0%
 
 ---
-
 
 # Een besturingssysteem ontwerpen voor AJO Success
 
@@ -33,7 +35,7 @@ Leer in de derde sessie van onze AJO VRA-reeks waarom het opzetten van een samen
 AJO-operatiemodellen zijn van essentieel belang voor de omzetting van strategische visie in effectieve, op waarde gebaseerde operaties. Organisaties worden geconfronteerd met gemeenschappelijke belemmeringen, zoals onduidelijke rollen, gefragmenteerde processen en een gebrek aan bestuur, die een belemmering kunnen vormen voor personalisatie en efficiënt gebruik van hulpbronnen.
 
 * **Strategische Planning** Gebrek van planning leidt tot gefragmenteerde implementaties en nalevingshiaten.
-* **Gedefinieerde verantwoordelijkheden van de Helderheid van de Rol 1&rbrace; en de dwars-functionele samenwerking zijn essentieel voor naadloze uitvoering.**
+* **Gedefinieerde verantwoordelijkheden van de Helderheid van de Rol 1} en de dwars-functionele samenwerking zijn essentieel voor naadloze uitvoering.**
 * **Gestructureerde werkschema&#39;s van het beheer** en vergaderingskadenties drijven verantwoordingsplicht en ononderbroken verbetering.
 * **Centrum van Uitmuntendheid** gecentraliseerde kaders versnelt volwassenheid, normaliseert beste praktijken, en bevordert innovatie.
 
@@ -43,12 +45,11 @@ Als u deze pijlers begrijpt, kunnen organisaties het platformpotentieel maximali
 
 Robuust bestuur en evoluerende teamstructuren zijn essentieel voor operationele excellentie:
 
-* **de jaarlijkse de strategieworkshops van de Kaart van het Bestuur 1&rbrace;, driemaandelijkse roadmavaluaties, maandelijkse leiderschapcontroles, wekelijkse vooruitgangsupdates, en dagelijkse teamactiviteiten verzekeren groepering en verantwoordingsplicht.**
-* **Stappen van het Werkschema van 0&rbrace; de Campagne &lbrace;omvatten campagneverzoek, bevestiging, prioritering, bouw, QA, uitvoering, en rapportering, in kaart gebracht aan rollen gebruikend het kader RACI.**
+* **de jaarlijkse de strategieworkshops van de Kaart van het Bestuur 1}, driemaandelijkse roadmavaluaties, maandelijkse leiderschapcontroles, wekelijkse vooruitgangsupdates, en dagelijkse teamactiviteiten verzekeren groepering en verantwoordingsplicht.**
+* **Stappen van het Werkschema van 0} de Campagne {omvatten campagneverzoek, bevestiging, prioritering, bouw, QA, uitvoering, en rapportering, in kaart gebracht aan rollen gebruikend het kader RACI.**
 * **Teamevolutie:
    * **incubeer** 2-3 breed-werkingsgebiedleden, beperkte scalability.
    * **Schaal** 5-10 specifieke leden, gematigde scalability, gestructureerde opleiding.
    * **Ingebedde** 15-20 gespecialiseerde leden, hoge scalability, aan de gang zijnde opleiding.
 
 Duidelijk bestuur en teamrijpheid zorgen voor consistente levering en meetbare resultaten.
-

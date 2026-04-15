@@ -1,26 +1,28 @@
 ---
-title: Gids van de Makers van de ervaring - krijgt het meeste uit AEM - Gids van de Praktijk aan Efficiency
-description: U krijgt onschatbare inzichten om uw strategieën voor het beheer van digitale middelen binnen AEM te optimaliseren. In deze zitting zullen AEM Champions cruciale kennis delen over de tenuitvoerlegging van robuuste strategieën voor vermogensbeheer. Door naleving, veiligheid en versiebeheer te garanderen, kunt u uw teams in staat stellen probleemloos te werken en tegelijk hun waardevolle digitale bronnen te beschermen Levenscycli, Versioning en functies voor beheer in Adobe AEM
+title: Experience Makers Spotlight - Haal het meeste uit AEM - Een praktische gids voor efficiëntie
+description: U krijgt onschatbare inzichten om uw strategieën voor het beheer van digitale middelen in AEM te optimaliseren. In deze zitting zullen AEM Champions cruciale kennis delen over de implementatie van robuuste strategieën voor vermogensbeheer. Door naleving, beveiliging en versiebeheer te garanderen, kunt u uw teams in staat stellen probleemloos te werken en tegelijk hun waardevolle digitale bronnen veilig te stellen. Lifecycles, Versioning en functies voor beheer in Adobe AEM
 solution: Experience Manager
+feature: Edge Delivery Services, Release Information
+topic: Artificial Intelligence, Security, Administration
 role: User
 level: Intermediate, Experienced
 doc-type: Event
 duration: 2612
 last-substantial-update: 2024-08-29T00:00:00Z
 jira: KT-16092
-source-git-commit: 5cba50018e7aa4fb0e867fd0070bd7f003215d5f
+exl-id: d2f864b0-27da-45db-b319-deef87758fef
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '255'
 ht-degree: 0%
 
 ---
 
-
-# Experience Makers Spotlight: Haal het meeste uit AEM: Een gids van de Praktijk aan Efficiency
+# Experience Makers Spotlight: Haal het meeste uit AEM: Een praktische gids voor efficiëntie
 
 ## Spotlight-luidspreker 1
 
-U krijgt onschatbare inzichten om uw strategieën voor het beheer van digitale middelen binnen AEM te optimaliseren. In deze zitting zullen AEM Champions cruciale kennis delen over de tenuitvoerlegging van robuuste strategieën voor vermogensbeheer. Door naleving, veiligheid, en versiecontrole te verzekeren, zult u uw teams kunnen machtigen om zonder problemen te werken terwijl het beschermen van hun waardevolle digitale middelen Levenscycli, Versioning en eigenschappen voor Bestuur in Adobe AEM: Het nastreven van Één enkele Source van Waarheid (WIP)
+U krijgt onschatbare inzichten om uw strategieën voor het beheer van digitale middelen in AEM te optimaliseren. In deze zitting zullen AEM Champions cruciale kennis delen over de implementatie van robuuste strategieën voor vermogensbeheer. Door naleving, veiligheid en versiebeheer te garanderen, kunt u uw teams in staat stellen probleemloos te werken en tegelijk hun waardevolle digitale bronnen veilig te stellen. Lifecycles, Versioning en functies voor governance in Adobe AEM: Een single Source of Truth (WIP) nastreven
 
 ### Key Takeaways
 
@@ -35,7 +37,7 @@ Optimaliseer de productiviteit van uw team met AEM Sites en Assets tips en trucs
 ### Key Takeaways
 
 * Verbeter de efficiëntie van uw team met behulp van GenAI met AEM Sites en Assets
-* Hoe u de toeleveringsketen van inhoud kunt optimaliseren via contentbeheer en bewerkbare sjablonen.
+* Supply chain optimaliseren door middel van contentbeheer en bewerkbare sjablonen.
 * Wanneer en waar de kerncomponenten moeten worden gebruikt in plaats van aanpassing.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433165/?learn=on)

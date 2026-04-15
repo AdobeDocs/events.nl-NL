@@ -3,6 +3,7 @@ title: De krachtige automatisering van de Werkstroom ontgrendelen - Praktische T
 description: Ontgrendel het potentieel van de Marketo Engage REST API om marketingworkflows te automatiseren, tools zoals Zapier te integreren, Python te gebruiken voor bulkacties en taken zoals het samenvoegen van leads, het bijhouden van UTM en het ophalen van activiteitengegevens te stroomlijnen.
 solution: Marketo Engage
 feature: REST API
+topic: Integrations
 role: Admin
 level: Beginner, Intermediate
 doc-type: Event
@@ -10,9 +11,9 @@ duration: 2447
 last-substantial-update: 2024-04-19T00:00:00Z
 jira: KT-15347
 exl-id: bdfc3a26-0af1-4f39-b9ed-2842fecea17c
-source-git-commit: dc8346b9341c7413a7c9571667f6cf0bb5914dd5
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '201'
+source-wordcount: '218'
 ht-degree: 0%
 
 ---
@@ -30,4 +31,4 @@ In dit webinar zult u:
 >[!VIDEO](https://video.tv.adobe.com/v/3428435/?learn=on)
 
 
-Sluit me aan bij het gesprek op de [&#x200B; Communautaire Webinar van de Aanbiedingsgemeenschap van de Aanbod &#x200B;](https://nation.marketo.com/t5/product-discussions/webinar-april-17th-8am-pst-unlocking-powerful-workflow/td-p/346330){target="_blank"}.
+Sluit me aan bij het gesprek op de [ Communautaire Webinar van de Aanbiedingsgemeenschap van de Aanbod ](https://nation.marketo.com/t5/product-discussions/webinar-april-17th-8am-pst-unlocking-powerful-workflow/td-p/346330){target="_blank"}.

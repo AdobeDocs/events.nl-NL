@@ -2,6 +2,7 @@
 title: De kunst en wetenschap van impliciete gegevensvisualisaties in Adobe Analytics
 description: Ontdek de Adobe Analytics-visualisaties en maak een indrukwekkend verhaal over gegevens. Ontdek hoe u gegevens kunt transformeren in doordachte en boeiende beelden die een verhaal vertellen, zodat u met Analysis Workspace heel nauwkeurig inzicht en impact kunt geven.
 feature: Visualizations, Analysis Workspace
+topic: Migration, Integrations
 role: User
 solution: Analytics
 level: Beginner, Intermediate, Experienced
@@ -11,7 +12,7 @@ last-substantial-update: 2023-12-08T00:00:00Z
 jira: KT-14618
 thumbnail: 3425943.jpeg
 exl-id: 55966d3c-1527-4691-8683-1a65b40cd327
-source-git-commit: dc8346b9341c7413a7c9571667f6cf0bb5914dd5
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 0%

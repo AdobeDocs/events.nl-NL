@@ -1,7 +1,8 @@
 ---
 title: Adobe Developers Live - 22 NOV - Uw eerste React App ontwikkelen
-description: Bouw Uw eerste React App met CMSInleiding van de Experience Manager zonder hoofd aan Adobe Experience Manager CMS Content Fragments GraphQL mogelijkheden.In deze zitting, zult u leren hoe te om een React App snel te installeren die met gegevens wordt gevoed die van Adobe Experience Manager zonder hoofd CMS komen.
+description: Creëer uw eerste React-app met Experience Manager Headless CMSInleiding tot Adobe Experience Manager zonder kop CMS Content Fragments GraphQL-mogelijkheden.In deze sessie leert u hoe u snel een React-app instelt die wordt gevoed met gegevens uit CMS zonder kop van Adobe Experience Manager.
 solution: Experience Manager,Experience Manager Sites
+feature: Edge Delivery Services, Release Information, Content Fragments
 product: experience manager
 sub-product: sites
 topic: Development, Headless
@@ -13,17 +14,17 @@ kt: 11474
 thumbnail: 3411298.jpeg
 exl-id: b04737ec-86b9-44fe-ac47-90d4452da89a
 duration: 1629
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
 
 # Uw eerste React-app ontwikkelen
 
-Inleiding tot Adobe Experience Manager CMS Content Fragments GraphQL-mogelijkheden zonder kop.
+Maak kennis met Adobe Experience Manager CMS Content Fragments GraphQL-mogelijkheden zonder kop.
 
-In deze sessie leert u hoe u snel een React-app instelt die wordt gevoed met gegevens die afkomstig zijn van CMS zonder kop van Adobe Experience Manager.
+In deze sessie leert u hoe u snel een React-app instelt die wordt gevoed met gegevens uit CMS zonder kop van Adobe Experience Manager.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3411298/?quality=12&learn=on)

@@ -3,19 +3,20 @@ title: Technische sessies - Adobe Campaign-subdomein en SSL-beheer in het Config
 description: Leer hoe u subdomeinen binnen het Configuratiescherm van Adobe Campaign kunt delegeren en configureren, SSL-certificaten kunt instellen en de configuratie kunt controleren om te zorgen voor een veilige e-maillevering.
 solution: Campaign
 feature: Subdomains and Certificates
+topic: Security, Certification, Development
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3409
 last-substantial-update: 2025-09-05T00:00:00Z
 jira: KT-18866
-source-git-commit: 18ce421793d97372198151afc92b24f3bed053a8
+exl-id: 2ccb1f70-17fe-444e-b819-2e6daeb8f79d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '344'
+source-wordcount: '351'
 ht-degree: 0%
 
 ---
-
 
 # Technische sessies: Adobe Campaign-subdomein en SSL-beheer in het Configuratiescherm
 
@@ -43,7 +44,7 @@ Het beheersen van deze processen zorgt ervoor dat uw campagnes veilig zijn, kunn
 ## Delegatiemethoden** Volledig vs. CNAME
 
 * **Volledige Delegatie** Adobe beheert alle DNS verslagen voor subdomain, die optimale leverbaarheid en veiligheid verzekeren. Aanbevolen voor de meeste gebruikers.
-* **Klant van de Delegatie van de NAAM van 0&rbrace; en Adobe delen DNS verantwoordelijkheden.** De klant maakt CNAME-records die verwijzen naar door Adobe beheerde bronnen.
+* **Klant van de Delegatie van de NAAM van 0} en Adobe delen DNS verantwoordelijkheden.** De klant maakt CNAME-records die verwijzen naar door Adobe beheerde bronnen.
 * **Belangrijke verschillen:
 * **Volledige** Adobe heeft volledig gezag; minder klantenonderhoud.
 * **CNAME** Gedeelde verantwoordelijkheid; meer handstappen voor klant.

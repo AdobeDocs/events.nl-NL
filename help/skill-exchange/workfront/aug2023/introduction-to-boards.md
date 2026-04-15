@@ -3,6 +3,7 @@ title: Inleiding tot de kamers
 description: De raden staan teams toe om het werk op een meer visuele manier te beheren door een virtuele raad aan vertoningstaken, projecten, en andere het werkpunten te creëren. Of u nu een Systeembeheerder, een Projectmanager of een individuele medewerker bent, de raden bieden een flexibele en intuïtieve manier om het werk te beheren.
 solution: Workfront
 feature: Work Management
+topic: Administration, Integrations
 role: User
 level: Beginner
 doc-type: Event
@@ -11,9 +12,9 @@ jira: KT-14560
 thumbnail: 3425791.jpeg
 exl-id: 2e7a541a-e98f-4d0b-bfa1-cb5d929dedfa
 duration: 2314
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '187'
+source-wordcount: '188'
 ht-degree: 0%
 
 ---

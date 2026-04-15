@@ -4,6 +4,7 @@ description: In deze vergadering, die live werd opgenomen op 6 november 2023, be
 solution: Commerce
 feature-set: Commerce
 feature: Extensibility, Integration
+topic: Integrations, Development
 role: Developer
 level: Beginner
 doc-type: Event
@@ -12,9 +13,9 @@ jira: KT-14429
 thumbnail: 3425633.jpeg
 exl-id: 8a13c750-9d74-4b79-b406-47625377a722
 duration: 1663
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '174'
 ht-degree: 0%
 
 ---
@@ -23,6 +24,6 @@ ht-degree: 0%
 
 In deze vergadering, die live werd opgenomen op 6 november 2023, bespreken Kanika Gera en Surya Lamech het proces van het opbouwen van gebeurtenisgestuurde integratie tussen Adobe Commerce en AWS. Dive in het Adobe Commerce rekbaarheidmodel, leer over zijn integratie met Amazon EventBridge, en verken real-world toepassingen in een wolk-inheemse digitale handelsinstelling. Deze sessie biedt een diepgaande stap in het maken van schaalbare, flexibele handelsoplossingen die gebruikmaken van de nieuwste cloudtechnologie.
 
-Ga het gesprek in [&#x200B; Gemeenschappen van het Experience League &#x200B;](https://adobe.ly/3ts1NW5) voort.
+Ga het gesprek in [ Gemeenschappen van Experience League ](https://adobe.ly/3ts1NW5) voort.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425633/?learn=on)

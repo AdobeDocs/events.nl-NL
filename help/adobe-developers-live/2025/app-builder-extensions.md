@@ -1,25 +1,27 @@
 ---
 title: Innovaties voor ontwikkeling van AI Commerce
 description: Ontdek de door AI aangedreven hulpmiddelen voor Adobe Commerce, verbeter de workflows van de App Builder en moderniseer aanpassingen.
+feature: Release Information, Developer Tools
+topic: Migration, Development
 role: Developer
 level: Beginner, Intermediate
 doc-type: Event
 duration: 1303
 last-substantial-update: 2025-12-12T00:00:00Z
 jira: KT-19977
-source-git-commit: 76b4e64093ebad269534b65c41c4bda1a6bb468f
+exl-id: ed604d3b-e694-48b3-bc5b-393947a360b4
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '195'
 ht-degree: 0%
 
 ---
-
 
 # AI-ontwikkeling voor Adobe App Builder Extensions in Commerce
 
 Ontdek hoe Adobe Commerce AI gebruikt om de ontwikkeling van apps te transformeren en aanpassingen te stroomlijnen. Leer over geautomatiseerde codeanalyse, intelligente migratierapporten, en natuurlijk-taalherinneringen die snel de code van JavaScript produceren. Deze zitting vestigt de aandacht op de innovaties op het gebied van het instrumenteren van het ecosysteem van Adobe Commerce, die teams helpen verouderde systemen efficiënt te moderniseren en technische schulden te verminderen. Neem deel aan het gesprek en verken komende gebeurtenissen om up-to-date te blijven met de nieuwste ontwikkelingen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477687/?captions=dut&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477672/?learn=on&enablevpops)
 
 Deze sessie — AI-Powered Development for Adobe App Builder Extensions in Commerce — is voorzien van Matt Johnson, Senior Product Manager voor Commerce Cloud, die laat zien hoe Adobe Commerce een door AI aangedreven tooling ecosysteem bouwt om teams te helpen verouderde aanpassingen sneller te identificeren en te moderniseren. Ontdek hoe geautomatiseerde codeanalyse, intelligente migratierapporten, en natuurlijk-taalherinneringen App Builder-compatibele code van JavaScript in notulen produceren om modernisering te stroomlijnen en technische schuld te verminderen. Opgenomen live uit San Jose.
 
@@ -27,5 +29,5 @@ In het bijzonder dank ik onze sponsors Algolië en Ensemble voor hun steun aan A
 
 ## Volgende stappen
 
-* Ga op [&#x200B; Experience League &#x200B;](https://adobe.ly/47ss08A) verder
-* Ontdek [&#x200B; aanstaande gebeurtenissen &#x200B;](https://developerevents.adobe.com)
+* Ga op [ Experience League ](https://adobe.ly/47ss08A) verder
+* Ontdek [ aanstaande gebeurtenissen ](https://developerevents.adobe.com)

@@ -2,19 +2,21 @@
 title: CX-succes besturen met Adobe Customer Journey Analytics-reiscanvas
 description: Ontdek hoe Journey Canvas helpt bij het toewijzen van ideale versus werkelijke gebruikerspaden, het ontdekken van wrijving en het aansturen van meetbare CX-verbeteringen met Adobe Customer Journey Analytics
 solution: Customer Journey Analytics
+feature: Integrations
+topic: Integrations, Performance
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 0
 last-substantial-update: 2025-09-04T00:00:00Z
 jira: KT-18815
-source-git-commit: 124b52203b98a80dd9202dab1b0dbe575475a52b
+exl-id: 10075f8c-ad44-4ee7-970c-9cdae1b21b11
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '366'
+source-wordcount: '374'
 ht-degree: 0%
 
 ---
-
 
 # CX-succes besturen met Adobe Customer Journey Analytics-reiscanvas
 
@@ -24,7 +26,7 @@ De aanwezigen zullen leren hoe te om reis-vlakke analyse te gebruiken om actiemo
 
 Tot slot duiken we in strategieën voor het schalen van deze inzichten in de hele organisatie door de bevindingen van Journey Canvas aan te sluiten op granulaire dashboards, waardoor continue optimalisatie op elk aanraakpunt mogelijk is. Of u nu nieuw bent in CJA of een ervaren expert, deze sessie zal u voorzien van een duidelijke methodologie voor het gebruik van Journey Canvas om uw CX-programma&#39;s te verhogen en tastbare resultaten te behalen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471220/?learn=on&enablevpops&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3471112/?learn=on&enablevpops)
 
 ## Reis canvas: van analyse tot activering
 

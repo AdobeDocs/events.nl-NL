@@ -1,6 +1,7 @@
 ---
 title: Handelsleiders - AI-gestuurde groei en toonaangevende playbooks
 description: Leer hoe detailhandelaren in dit Adobe-webinar van 2025 gebruik maken van door AI aangedreven verkeer om loyaliteit, betrokkenheid en conversie te verhogen.
+feature: Segmentation
 topic: Artificial Intelligence
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -8,13 +9,13 @@ doc-type: Event
 duration: 3350
 last-substantial-update: 2025-08-27T00:00:00Z
 jira: KT-18836
-source-git-commit: c3e2710187832f1f67a1e73c11b7262b32ed1f8a
+exl-id: 7267b110-fcba-4866-a7f8-4eefa0c14467
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: '257'
 ht-degree: 0%
 
 ---
-
 
 # Handelsleiders: AI-gestuurde groei en topspeler
 
@@ -39,7 +40,7 @@ Deze Adobe Customer Success x Adobe Digital Insights-webinar behandelt de nieuws
 1. **de Analyses van de Opstelling van het Verkeer van het Spoor AI** om bezoeken van AI platforms (de segmenten van gebruiksLLM, UTMs) te identificeren.
 1. **optimaliseer de het productpagina&#39;s van de Inhoud** van de Structuur met duidelijke rubrieken en FAQs voor gemakkelijke AI die kruipt.
 1. **breid Bereik** productinfo van het Aandeel op sociale media, blogs, en overzichtsplaatsen uit om zicht op te voeren.
-1. **Partner van de Influencers van de hefboomwerking van 0&rbrace; met sociale media creators voor partnercampagnes en user-generated inhoud.**
+1. **Partner van de Influencers van de hefboomwerking van 0} met sociale media creators voor partnercampagnes en user-generated inhoud.**
 1. **verbeter Loyalty Programma&#39;s** de klantengegevens van het Gebruik om beloningen te personaliseren en herhaalde aankopen aan te moedigen.
 
 Met deze stappen kunnen winkeliers winkeliers winkeliers vastleggen en hun producten omzetten.

@@ -2,19 +2,21 @@
 title: Van gegevens tot actie - Waardevolle inzichten ontdekken
 description: In deze sessie zullen we de grondbeginselen van Adobe Analytics verkennen en ons richten op het afleiden van actioneerbare inzichten van gegevens en het begrijpen van gebruikersgedrag. We duiken in verkeerspatronen, externe factoren, foutafhandeling en het bijhouden van wijzigingen, terwijl we het belang van samenwerking en catering voor de behoeften van belanghebbenden benadrukken. Drie belangrijke routes voor het publiek - 1. Leer hoe u in Analysis Workspace de analyse van gebruikersgedrag benadert. 2. Inzicht in het belang van context, patronen en foutopsporing 3. Verzamel inzichten in de manier waarop analytische projecten op effectieve wijze kunnen worden gedeeld en aan deze projecten kunnen worden samengewerkt, zodat ze zijn afgestemd op de behoeften van verschillende belanghebbenden.
 solution: Analytics
+feature: Analysis Workspace
+topic: Migration, Integrations
 role: User
 level: Beginner
 doc-type: Event
 duration: 2422
 last-substantial-update: 2024-08-29T00:00:00Z
 jira: KT-15974
-source-git-commit: aad575b8e17ebbdf221266be663c08d671289b76
+exl-id: 7f47be30-b667-416d-a198-543630fa47d9
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '197'
 ht-degree: 0%
 
 ---
-
 
 # Van gegevens naar actie: Waardevolle inzichten ontdekken
 

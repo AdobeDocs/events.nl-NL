@@ -2,19 +2,20 @@
 title: Ontdek de nieuwe e-mail Designer in Marketo Engage
 description: Ontdek de nieuwe e-mailontwerper van Marketo Engage met Adobe-experts. Leer functies, aanbevolen procedures, tips, migratiestrategieën en meer om uw e-mailmarketing te verbeteren.
 feature: Email Editor
+topic: Migration
 role: Admin, Developer, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3725
 last-substantial-update: 2025-04-02T00:00:00Z
 jira: KT-17621
-source-git-commit: e1d87cd15d45ea0c9ea94bfe8063e7a5ace97214
+exl-id: 8924f69c-0158-4962-b4a5-5d26f7b3c5f5
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '280'
 ht-degree: 0%
 
 ---
-
 
 # Ontdek de nieuwe e-mail Designer in Marketo Engage
 
@@ -40,5 +41,5 @@ Ontdek de kracht en het gemak van de nieuwe e-mailontwerper van Marketo Engage. 
 
 * **Soorten publiek van het Doel**
 
-   * **Beroeps van de Gebruikers van Marketo Engage van 0&rbrace; &lbrace;reeds gebruikend Marketo Engage die hun marketing mogelijkheden willen uitbreiden.**
+   * **Beroeps van de Gebruikers van Marketo Engage van 0} {reeds gebruikend Marketo Engage die hun marketing mogelijkheden willen uitbreiden.**
    * **de Teams van de Marketing van Teams** die hun e-mailblik willen verbeteren en voelen.

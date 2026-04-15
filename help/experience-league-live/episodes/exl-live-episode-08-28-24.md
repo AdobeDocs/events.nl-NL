@@ -4,14 +4,15 @@ description: 'Deze zomer kunt u de betrokkenheid van uw klanten nog verder opvoe
 kt: 15471
 solution: Journey Optimizer
 feature: Experimentation, Frequency Rules
+topic: Artificial Intelligence, Personalization
 event-cta-url-live: https://www.youtube.com/live/u_UEsl2Nw3M
 event-start-time: 2024-08-28 09:00-7
 event-guests: Sandra Hausmann, Keara Fausett, Aaron Forrest, Justin Grover
 duration: 25
 exl-id: 858bc394-66a4-4d35-bf53-ed9e2bd47a5d
-source-git-commit: 6b39a63bc2791069fa2b4c7ae45d7c0091898729
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '243'
 ht-degree: 0%
 
 ---
@@ -24,10 +25,10 @@ Deze zomer kunt u de betrokkenheid van uw klanten nog verder uitbreiden met drie
 
 
 **toon Details**:
-Aangezien de zomer omhoog verwarmt, zo doe de kansen om met uw klanten op nieuwe en ondoordachte manieren in dienst te nemen. Sluit u aan bij ons voor een Experience League Live voor Journey Optimizer-professionals van één uur, of u nu marketingactiviteiten uitvoert, campagne- of reisbeheer uitvoert of ervaring hebt met klanten, waar wij de krachtige functies van Adobe Journey Optimizer in de kaart spelen.
+Aangezien de zomer omhoog verwarmt, zo doe de kansen om met uw klanten op nieuwe en ondoordachte manieren in dienst te nemen. Sluit u aan bij ons voor een Experience League Live voor Journey Optimizer-professionals van één uur, of u nu marketingactiviteiten uitvoert, campagne- of reisbeheer uitvoert of ervaring hebt met klanten, waar we de krachtige functies van Adobe Journey Optimizer onder de loep nemen.
 
 Ontdek hoe u met experimenteren op reis uw klantinteracties kunt verfijnen voor optimale resultaten tijdens uw reizen. Leer om frequentie het begrenzen uit te voeren om te vermijden overcommunicerend en ervoor te zorgen uw berichten de markering raken. Ontdek de voordelen van meertalig overseinen om met diverse soorten publiek binnen hun aangewezen talen te verbinden.
 
 Deze zomertijdgebeurtenis zal uw omni-channel marketing strategieën verbeteren en zal de mogelijkheden van de overeenkomst van het seizoen optimaal maken. Mis deze kans niet voorbij om uw klantentreiingen en campagnes op te voeren om succes met Adobe Journey Optimizer te drijven.
 
-**zet de bespreking bij de [&#x200B; Gemeenschap van Adobe Journey Optimizer Q&amp;A de Break van de Koffie &#x200B;](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-leagu?profile.language=nl[...]ugust-28th-8-30-am-pt-superloading-your/td-p/697931) in het Communautaire Forum van Journey Optimizer voort.**
+**zet de bespreking bij de [ Gemeenschap van Adobe Journey Optimizer Q&amp;A de Break van de Koffie ](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-leagu[...]ugust-28th-8-30-am-pt-superloading-your/td-p/697931) in het Communautaire Forum van Journey Optimizer voort.**

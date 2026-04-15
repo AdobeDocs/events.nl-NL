@@ -2,19 +2,21 @@
 title: Voortbouwen van Executive Sponsorship for Support of Adobe Journey Optimizer Success
 description: Leer hoe uitvoerende leiders opkomen voor AJO-programma's, teams op elkaar afstemmen en de resultaten afstemmen op strategieën voor betrokkenheid van sponsors en leiderschap.
 solution: Journey Optimizer
+feature: Journeys
+topic: Personalization, Development
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 2422
 last-substantial-update: 2025-11-13T00:00:00Z
 jira: KT-19625
-source-git-commit: 84c9a126769fa94b0197d12ca594137e13edc510
+exl-id: 2524ce6c-d654-4b17-aa0f-ecefe17aa2ee
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '307'
 ht-degree: 0%
 
 ---
-
 
 # VRA Session #4: Building Executive Sponsorship for Support of Adobe Journey Optimizer (AJO) Success
 
@@ -32,7 +34,7 @@ Onderzoek de kritieke rol van uitvoerende leiders bij het verdedigen van Adobe J
 
 Het ontgrendelen van organisatorische veranderingen en klantgerichtheid vereist sterke uitvoerende sponsoring. Het Adobe-raamwerk benadrukt hoe leiderschap, strategie en samenwerking waardeverwezenlijking stimuleren:
 
-* **de hoogste leiders van de 1&rbrace; Senior leiders van de Uitvoerende Sponsorship steunen initiatieven, plaatsen visie, en verzekeren strategische groepering.**
+* **de hoogste leiders van de 1} Senior leiders van de Uitvoerende Sponsorship steunen initiatieven, plaatsen visie, en verzekeren strategische groepering.**
 * **Werkend Model** Gestructureerde teams (uitvoerende sponsor, stuurcomité, werkend team) laten duidelijke rollen, snellere besluiten, en dwars-functionele samenwerking toe.
 * **Journey Optimizer (AJO)** machtigt organisaties om in real time, gepersonaliseerde, omni-kanaal klantenervaringen te leveren.
 * **Succes van het Beheer van de Verandering** hangt van leiderschapbetrokkenheid, belanghebbende groepering, en duurzame veranderingspraktijken af.
@@ -46,8 +48,7 @@ Effectieve inventarisatie van belanghebbenden is van essentieel belang om de op 
 
 * **identificeer Influencers** de leiders van de Kaart met gezag, strategische groepering, en capaciteit om initiatieven te verdedigen.
 * **Attributen van Sponsors** zoeken visie, operationele geloofwaardigheid, en klantenbehartiging.
-* **de Aanpassingen van de Strategieën van de Betrokkenheid van 0&rbrace; &lbrace;om coalities te bouwen, weerstand te voorzien, en goedkeuring te versnellen.**
+* **de Aanpassingen van de Strategieën van de Betrokkenheid van 0} {om coalities te bouwen, weerstand te voorzien, en goedkeuring te versnellen.**
 * **de Bouw van de Verhouding** bevordert transparantie, plaatst duidelijke verwachtingen, en handhaaft aan de gang zijnde mededeling om uitvoerende steun in strategisch partnerschap om te zetten.
 
 Met een strategiekaart voor belanghebbenden kunnen organisaties de juiste sponsor en bondgenoten van de uitvoerende macht selecteren, zodat een succesvolle implementatie en blijvende verandering mogelijk zijn.
-

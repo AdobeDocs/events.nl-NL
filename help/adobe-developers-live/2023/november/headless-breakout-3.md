@@ -2,6 +2,7 @@
 title: Adobe Developers Live - NOV 23 - headless Breakout 3
 description: Iryna Lagno en Valerii Naida presenteren een vernieuwende aanpak van contentbeheer in Adobe Experience Manager tijdens deze vergadering die live werd opgenomen op 6 november 2023. Leer hoe u externe gegevensbronnen, zoals de Google Places API, kunt integreren in inhoudsfragmenten en de Canvasgegevens-API en aangepaste UI-elementen kunt ontdekken. Deze sessie biedt praktische kennis voor ontwikkelaars en inhoudsbeheerders die workflows willen stroomlijnen en gegevensgestuurde elementen willen opnemen in hun inhoudsstrategieën.
 solution: Experience Manager,Experience Manager Sites
+feature: Edge Delivery Services, Release Information, Content Fragments
 product: experience manager
 sub-product: sites
 topic: Development, Headless
@@ -13,9 +14,9 @@ jira: KT-14426
 thumbnail: 3425626.jpeg
 exl-id: ab6122f0-91d6-4aee-84fa-95f8c3610cfe
 duration: 1820
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
@@ -24,6 +25,6 @@ ht-degree: 0%
 
 Iryna Lagno en Valerii Naida presenteren een vernieuwende aanpak van contentbeheer in Adobe Experience Manager tijdens deze vergadering die live werd opgenomen op 6 november 2023. Leer hoe u externe gegevensbronnen, zoals de Google Places API, kunt integreren in inhoudsfragmenten en de Canvasgegevens-API en aangepaste UI-elementen kunt ontdekken. Deze sessie biedt praktische kennis voor ontwikkelaars en inhoudsbeheerders die workflows willen stroomlijnen en gegevensgestuurde elementen willen opnemen in hun inhoudsstrategieën.
 
-Ga het gesprek in [&#x200B; Gemeenschappen van het Experience League &#x200B;](https://adobe.ly/48Rl57B) voort.
+Ga het gesprek in [ Gemeenschappen van Experience League ](https://adobe.ly/48Rl57B) voort.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425626/?learn=on)

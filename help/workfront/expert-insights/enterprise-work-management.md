@@ -2,6 +2,7 @@
 title: Expert Insights - Enterprise Work Management met Daniel Clarke
 description: Hear Daniel Clarke deelt de beste praktijken van Workfront op ondernemingswerkbeheer, goedkeuring, leiderschapmetriek, en de strategieën van de Fusie voor succes.
 feature: Workfront Fusion
+topic: Performance
 speaker-name-1: Daniel Clarke
 speaker-title-1: Senior Manager of Restaurant Solutions
 speaker-company-1: Sysco Corporation
@@ -12,9 +13,9 @@ duration: 2547
 last-substantial-update: 2025-08-19T00:00:00Z
 jira: KT-18620
 exl-id: db16e693-cd95-4e67-858b-b57829d1e704
-source-git-commit: 2f10210e5c92e5c1bf77c886ed347cdc967f089e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '383'
 ht-degree: 0%
 
 ---
@@ -36,7 +37,7 @@ Hij deelde zoveel beste praktijken tijdens ons Workfront Collective-evenement, m
 
 ## Bronnen
 
-* Daniel Clarke, Beheer van het Werk van de Onderneming 031124 - [&#x200B; het Deck van de Presentatie &#x200B;](https://nam04.safelinks.protection.outlook.com/?url=https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/Adobe+Workfront+Collective+-+Daniel+Clarke+-+March+2024.pdf&data=05|02|csatscale@adobe.com|4308ae2a6beb4130dc6f08dc4926eafc|fa7b1b5a7b34438794aed2c178decee1|0|638 465678712329711|Onbekend|TWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTi6I1haWwiLCJXVCI6Mn0=|0||&sdata=y14IXCdSk8laYXyfuLcjBDeDjwZZu33nFJmxbx4E=&reserved=0) 
+* Daniel Clarke, Beheer van het Werk van de Onderneming 031124 - [ het Deck van de Presentatie ](https://nam04.safelinks.protection.outlook.com/?url=https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/Adobe+Workfront+Collective+-+Daniel+Clarke+-+March+2024.pdf&data=05|02|csatscale@adobe.com|4308ae2a6beb4130dc6f08dc4926eafc|fa7b1b5a7b34438794aed2c178decee1|0|638 465678712329711|Onbekend|TWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTi6I1haWwiLCJXVCI6Mn0=|0||&sdata=y14IXCdSk8laYXyfuLcjBDeDjwZZu33nFJmxbx4E=&reserved=0) 
 
 ## Over de spreker
 
@@ -44,4 +45,4 @@ Ik heb het genoegen om een team van ontwerpers, consultants en analisten bij Sys
 
 ## Heb je iets te delen?
 
-Hebt u een geweldig verhaal om te delen, tijdens een gebeurtenis of in een video van Expert Insights? Gelieve te bereiken uit aan ons team in [&#x200B; CSatScale@adobe.com &#x200B;](mailto:CSatScale@adobe.com).
+Hebt u een geweldig verhaal om te delen, tijdens een gebeurtenis of in een video van Expert Insights? Gelieve te bereiken uit aan ons team in [ CSatScale@adobe.com ](mailto:CSatScale@adobe.com).

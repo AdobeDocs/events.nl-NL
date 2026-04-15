@@ -3,19 +3,20 @@ title: Routekaart naar waarde met CJA
 description: Ontgrendel de volledige CJA-waarde met gebruik-stappenplannen, echte voorbeelden en stappen om strategische, gegevensgestuurde beslissingen te maken.
 solution: Customer Journey Analytics
 feature: Use Cases
+topic: Integrations, Migration
 role: Admin, Developer, User
 level: Beginner, Intermediate
 doc-type: Event
 duration: 3523
 last-substantial-update: 2025-07-25T00:00:00Z
 jira: KT-18546
-source-git-commit: 7db60ca1557fb99ae5fb8bd7181317710ed5f90f
+exl-id: 6df2bdc8-841e-4c7a-8475-158e338fb3e4
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '219'
 ht-degree: 0%
 
 ---
-
 
 # Routekaart naar waarde met CJA
 
@@ -25,12 +26,12 @@ In onze openingssessie van de reeks onderzoeken we waarom een gedocumenteerde st
 
 ## Belangrijkste punten
 
-* **Inleiding van het Kader van de Realisatie van de Waarde van 0&rbrace; aan het kader om waarde uit CJA af te leiden, die op strategische planning over kritieke pijlers concentreert om mislukking te vermijden.**
+* **Inleiding van het Kader van de Realisatie van de Waarde van 0} aan het kader om waarde uit CJA af te leiden, die op strategische planning over kritieke pijlers concentreert om mislukking te vermijden.**
 
 * **Uitleg van het Geval van het gebruik Roadmap** van hoe te om een gebruikscase roadmap te bepalen en te bouwen om teams te richten, zich bij inspanningen te concentreren, en waarde van CJA te realiseren.
 
 * **Mogelijkheden van CJA** Overzicht van de functies van CJA, met inbegrip van het combineren van datasets, het aanpassen van gegevens, het bestuderen van relaties over datasets, en het democratiseren van toegang.
 
-* {de Voorbeelden van het Geval van het 0} Gebruik **echte voorbeelden van hoe de bedrijven zoals Red Hat, TELUS, en Lenovo CJA gebruikten om kosten te drukken, processen te verbeteren, en efficiency te drijven. &#x200B;**
+* {de Voorbeelden van het Geval van het 0} Gebruik **echte voorbeelden van hoe de bedrijven zoals Red Hat, TELUS, en Lenovo CJA gebruikten om kosten te drukken, processen te verbeteren, en efficiency te drijven.**&#x200B;
 
 * **Stappen om Begonnen met de Begeleiding van CJA** te worden bij het onderzoeken van gegevens, het creëren van verbindingen, en het bouwen van een strategisch plan om het volledige potentieel van klant-vlakke analyse te ontgrendelen.

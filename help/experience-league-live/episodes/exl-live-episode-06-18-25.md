@@ -4,13 +4,14 @@ description: Leer hoe u de nieuwe functies in Adobe Journey Optimizer kunt gebru
 kt: 17474
 solution: Journey Optimizer
 feature: Frequency Rules
+topic: Administration
 event-cta-url-live: https://youtube.com/live/awYa2dU6TDY
 event-start-time: 2025-06-18 09:00-7
 event-guests: Sandra Hausmann, Ariel Sultan, Aaron Forrest, Keara Fausett
 exl-id: 7041430f-845d-4150-9d2c-d8fafb450b9c
-source-git-commit: a9a7817c89f62199e3056f0d685049212e4ffc90
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '200'
 ht-degree: 0%
 
 ---
@@ -24,12 +25,12 @@ Deze sessie is ideaal voor marketers, operatieteams en reisbeheerders die de Jou
 
 >[!VIDEO](https://video.tv.adobe.com/v/3464052/?quality=12&learn=on)
 
-Sluit me aan bij ons voor de [&#x200B; Gemeenschap van Adobe Journey Optimizer Vraag me om het even wat &#x200B;](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/ask-me-anything-june-?profile.language=nl[...]with-trip-optimizer-product-experts/ev-p/757473), op Woensdag, 25 juni van 8am - 9am PT, om het gesprek voort te zetten.
+Sluit me aan bij ons voor de [ Gemeenschap van Adobe Journey Optimizer Vraag me om het even wat ](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/ask-me-anything-june-[...]with-trip-optimizer-product-experts/ev-p/757473), op Woensdag, 25 juni van 8am - 9am PT, om het gesprek voort te zetten.
 
 ## Meer informatie?
 
 Bekijk deze zelfstudies:
 
-* [&#x200B; identificeer potentiële conflicten &#x200B;](https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/conflict-management/identify-potential-conflicts)
-* [&#x200B; wijs prioritaire scores aan binnenkomende acties toe &#x200B;](https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/conflict-management/assign-priority-score)
-* *[&#x200B; de frequentietoewijzing en rangschikking van de Reis &#x200B;](https://experienceleague.adobe.com/nl/docs/journey-optimizer-learn/tutorials/conflict-management/journey-frequency-capping-and-prioritization)
+* [Mogelijke conflicten identificeren](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/conflict-management/identify-potential-conflicts)
+* [Prioriteitsscores toewijzen aan binnenkomende acties](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/conflict-management/assign-priority-score)
+* *[ de frequentietoewijzing en rangschikking van de Reis ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/conflict-management/journey-frequency-capping-and-prioritization)

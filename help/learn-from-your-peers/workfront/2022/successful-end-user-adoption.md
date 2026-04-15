@@ -5,13 +5,15 @@ role: Admin
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 solution: Workfront
+feature: System Setup and Administration, Work Management
+topic: Administration, Integrations
 duration: 3647
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15818
 exl-id: e9f90ac6-2b16-4495-b7d5-ba29237160b7
-source-git-commit: dc8346b9341c7413a7c9571667f6cf0bb5914dd5
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '169'
 ht-degree: 0%
 
 ---
@@ -20,7 +22,7 @@ ht-degree: 0%
 
 Een Adobe Workfront System Administrator zijn is meer dan alleen de software en implementatiefuncties begrijpen. Systeembeheerders dragen de verantwoordelijkheid voor het communiceren van een duidelijke verbinding met uw eindgebruikers, waarbij uw organisatie Workfront gebruikt - EN, wat er voor hen in zit.
 
-In deze webinar op aanvraag, Cynthia Boon en Leslie Spier, zullen de Managers van het Succes van de Klant (en vroegere klanten!) met Workfront worden aangesloten bij Karlton Harrison, VP, de Ingenieur van het Platform van Gegevens van Truist. Tussen hen hebben ze JAREN ervaring op dit gebied, en ze gaan over:
+In dit webinar op aanvraag, Cynthia Boon en Leslie Spier, de Managers van het Succes van de Klant (en vroegere klanten!) samen met Workfront zal Karlton Harrison, VP, Data Platform Engineer van Truist. Tussen hen hebben ze JAREN ervaring op dit gebied, en ze gaan over:
 
 * Hoe te om de redenen voor slechte eindgebruikeradoptie te identificeren
 * Tips voor het documenteren en communiceren van adoptieverwachtingen

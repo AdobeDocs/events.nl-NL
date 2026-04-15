@@ -1,8 +1,9 @@
 ---
 title: Een diepe insteekmodule voor AEM Sites
-description: tips en trucs voor het effectief benutten van gereedschappen en het transformeren van uw AEM Sites-ervaring. Typen tags Leer hoe verschillende tagtypen de organisatie en ontdekkingsmogelijkheden van inhoud kunnen verhogen.  Door tags in te stellen en toe te passen krijgt u meer inzicht in efficiënte implementatie van tags om tijd te besparen en de productiviteit te verhogen.  Metagegevensschema's van mappen Ontdek de kracht van gestructureerd inhoudsbeheer via schema's voor metagegevens van mappen.Metagegevensschema's Verhoog de relevantie en gebruikerservaring van de inhoud door het ontwerp van het metagegevensschema te bepalen. Met Rapporten stelt u gegevensgestuurde inzichten in voor strategische besluitvorming door uitgebreide rapporten op te stellen. U kunt hier de presentatiedia's openen.
+description: tips en trucs voor het effectief benutten van gereedschappen en het transformeren van uw AEM Sites-ervaring. Typen tags Leer hoe verschillende tagtypen de organisatie en ontdekkingsmogelijkheden van inhoud kunnen verhogen.  Door tags in te stellen en toe te passen krijgt u meer inzicht in efficiënte implementatie van tags om tijd te besparen en de productiviteit te verhogen.  Metagegevensschema's van mappen Ontdek de kracht van gestructureerd inhoudsbeheer via schema's met metagegevens van mappen.Metagegevensschema's Verhoog de relevantie van de inhoud en gebruikerservaring door het ontwerp van het metagegevensschema te bepalen. Het opstellen van rapporten maakt gebruik van gegevensgestuurde inzichten voor strategische besluitvorming door het opstellen van uitgebreide verslagen.U kunt de presentatiedia's hier openen.
 feature-set: Experience Manager
 feature: Tagging
+topic: Development, Headless
 role: Leader, Architect, Developer, Admin, User
 level: Beginner, Intermediate
 solution: Experience Manager
@@ -12,9 +13,9 @@ jira: KT-14118
 thumbnail: 3424735.jpeg
 exl-id: 337a19c3-2959-492a-b0c6-87d5a7731797
 duration: 2640
-source-git-commit: dc8346b9341c7413a7c9571667f6cf0bb5914dd5
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '227'
 ht-degree: 0%
 
 ---
@@ -28,6 +29,6 @@ Sluit u aan bij Adobe Experience Manager Champion, Cindy Underwood, omdat ze les
 * Metagegevensschema&#39;s voor mappen - Ontdek de kracht van gestructureerd inhoudsbeheer via schema&#39;s voor metagegevens voor mappen.
 * Metagegevensschema&#39;s - Verhoog de relevantie van de inhoud en gebruikerservaring door het ontwerp van het metagegevensschema te bepalen. Oprichting van rapporten: Inzichten op basis van gegevens aanwenden voor strategische besluitvorming door uitgebreide verslagen op te stellen.
 
-U kunt tot de presentatiedia&#39;s [&#x200B; hier &#x200B;](/help/learn-from-your-peers/assets/experience-manager/sept2023/AEM-Sites-Tools-Webinar.pdf) toegang hebben.
+U kunt tot de presentatiedia&#39;s [ hier ](/help/learn-from-your-peers/assets/experience-manager/sept2023/AEM-Sites-Tools-Webinar.pdf) toegang hebben.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424735/?learn=on)

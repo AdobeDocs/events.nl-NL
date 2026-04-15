@@ -1,21 +1,23 @@
 ---
-title: Optimaliseer uw AEM
+title: Maximaliseer uw AEM-implementatie
 description: Laat uw marketers toe, implementeer sites sneller en verbeter voortdurend uw ervaringen.
 solution: Experience Manager
+feature: Edge Delivery Services, Release Information
+topic: Administration
 role: User
 level: Beginner, Intermediate, Experienced
 kt: 10949
 thumbnail: 346386.jpeg
 exl-id: fe61ae67-f57b-4937-8155-c9c34dfa949f
 duration: 2535
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%
 
 ---
 
-# Maximaliseer uw AEM implementatie: 3 belangrijke factoren bij het effectief uitvoeren van uw website
+# Maximaliseer uw AEM-implementatie: 3 belangrijke factoren bij het effectief uitvoeren van uw website
 
 Wanneer u uw website bouwt of herbouwt, zijn er vele bedrijfsbesluiten die moeten worden genomen die implicaties op hoe de plaats technisch wordt uitgevoerd hebben. De strategieën en beslissingen die u hebt genomen voordat u zelfs maar met het ontwerp van de gebruikerservaring begint, kunnen van grote invloed zijn op het succes van uw website als marketing- en bedrijfskanaal.  Laat uw marketers toe, implementeer sites sneller en verbeter voortdurend uw ervaringen.
 

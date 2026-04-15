@@ -2,6 +2,7 @@
 title: Geavanceerde tips voor het verzenden van documenten ter ondertekening
 description: Meer informatie over het verzenden naar meerdere ontvangers. Beschikbare rollen voor ontvangers (ondertekenaar, invuller van formulier, delegator en anderen) Een wachtwoordbeveiliging voor CC-velden toevoegen en meer.
 feature: Sign
+topic: Security, Administration
 role: User
 level: Intermediate
 doc-type: Event
@@ -9,9 +10,9 @@ duration: 1143
 last-substantial-update: 2024-04-30T00:00:00Z
 jira: KT-15295
 exl-id: 15b61eb5-3a5f-4dbe-94ac-2d4a20976566
-source-git-commit: a9055b8c455e5a28cc47f350644a7ae1a428d9bc
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '220'
 ht-degree: 0%
 
 ---
@@ -20,7 +21,7 @@ ht-degree: 0%
 
 NEEM een diepgaander inzicht in alle beschikbare opties wanneer u overeenkomsten ter ondertekening verzendt. In deze sessie leert u meer over: Verzenden naar meerdere ontvangers Beschikbare ontvangende rollen (ondertekenaar, invuller van formulier, delegator en anderen) Een wachtwoordbeveiliging voor CC-velden toevoegen en meer.
 
->[!VIDEO](https://video.tv.adobe.com/v/3454886/?learn=on&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3428186/?learn=on)
 
 Het webinar verstrekt inzicht in de geavanceerde eigenschappen van Acrobat Sign voor vestiging multi-deelnemer werkschema&#39;s, het vormen ontvankelijke rollen, en het gebruiken van ontvankelijke groepen en privé berichten. Dit leren kan helpen het proces om documenten ter ondertekening te verzenden stroomlijnen en de samenwerking tussen ondertekenende deelnemers verbeteren.
 

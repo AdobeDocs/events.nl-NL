@@ -1,6 +1,7 @@
 ---
 title: Marketo & Mochas - Harnessing Gen AI in Adobe Marketo Engage
 description: Ontdek hoe GenAI in Adobe Marketo Engage het maken van campagnes versnelt, personalisatie stimuleert en teams in staat stelt zich te richten op strategie en creativiteit.
+feature: Programs, Reporting
 topic: Artificial Intelligence, Personalization
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -8,13 +9,13 @@ doc-type: Event
 duration: 3455
 last-substantial-update: 2025-10-28T00:00:00Z
 jira: KT-19502
-source-git-commit: 52bd6d5a06799c79ac84b9e4827011f89c6471df
+exl-id: 59540237-f65f-46bf-a53f-1612fb64a069
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '361'
+source-wordcount: '370'
 ht-degree: 0%
 
 ---
-
 
 # Marketo &amp; Mochas: Harnessing GenAI in Adobe Marketo Engage
 
@@ -38,8 +39,6 @@ AI is de snelle omvorming van B2B marketing, die een verschuiving naar slimmere,
 * **Urgentie voor Verandering** de tellers onder druk staan om meer campagnes te leveren, sneller, met grotere verpersoonlijking en efficiency.
 * **Evolutie van Technologie** De industrie beweegt zich van CRM digitalisering (B2B 1.0) en lood automatisering (B2B 2.0) aan volledige levenscyclusdigitalisering en AI-gedreven orkest (B2B 3.0).
 * **Verantwoordelijke AI** Adobe benadrukt ethisch gebruik AI, met transparantie, verantwoordingsplicht, en een specifieke overzichtsraad.
-* **Nieuwe agentische mogelijkheden van AI van 0&rbrace; &lbrace;in Adobe Experience Platform en Marketo Engage automatiseren taken, verwijderen knelpunten, en laten in real time, intent-gedreven interactie toe.**
+* **Nieuwe agentische mogelijkheden van AI van 0} {in Adobe Experience Platform en Marketo Engage automatiseren taken, verwijderen knelpunten, en laten in real time, intent-gedreven interactie toe.**
 
 Als u deze trends begrijpt, kunnen organisaties hun concurrentiepositie behouden en het volledige potentieel van AI bij het op de markt brengen ontsluiten.
-
-

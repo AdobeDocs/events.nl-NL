@@ -3,15 +3,17 @@ title: Communiceren met webinar voor eindgebruikers
 description: Ontdek verschillende strategieën voor het communiceren met Workfront-gebruikers in ons webinar op aanvraag. Leer van deskundigen IDEXX, Adobe, en Adobe Workfront over efficiënte kanalen, types van mededelingen, en het evolueren van uw strategie herhalend.
 role: Admin, Leader
 solution: Workfront
+feature: System Setup and Administration
+topic: Administration, Integrations
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3649
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15825
 exl-id: d1cec74c-aeca-4832-a7e7-be1e9cee112c
-source-git-commit: dc8346b9341c7413a7c9571667f6cf0bb5914dd5
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '221'
 ht-degree: 0%
 
 ---
@@ -26,6 +28,6 @@ In dit on-demand-project zal Lyndsy, RachbinMarketing Training en Enablement Man
 * Tips om te bepalen welke kanalen voor uw communicatie moeten worden gebruikt
 * Hoe te om op een iteratieve manier van uw communicatie strategie te denken, die van waar begint u en rijpend aangezien u gaat
 
-U kunt ook de &quot;Communications Cookbook&quot; downloaden met ideeën en voorbeelden van echte communicatie die uw collega&#39;s hier met hun gebruikers delen: https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/introducing-the-end-user-communications-cookbook/bc-p/608144?profile.language=nl
+U kunt ook de &quot;Communications Cookbook&quot; downloaden met ideeën en voorbeelden van echte communicatie die uw collega&#39;s hier met hun gebruikers delen: https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/introducing-the-end-user-communications-cookbook/bc-p/608144
 
 >[!VIDEO](https://video.tv.adobe.com/v/3431019/?learn=on)

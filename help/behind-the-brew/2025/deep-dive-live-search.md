@@ -1,6 +1,9 @@
 ---
 title: Een diep signaal in Live Search
+solution: Commerce
+feature: Headless, Integration
 description: Pas uw Live Search-ervaring in Adobe Commerce aan met hulp van experts en praktische implementatievoorbeelden
+topic: Headless, Integrations, Commerce
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -8,9 +11,9 @@ duration: 3515
 last-substantial-update: 2025-01-25T00:00:00Z
 jira: KT-17165
 exl-id: 1bf37835-ec68-4195-b373-52718bf39d30
-source-git-commit: 87945f25760d168144b852b88eb2a0b9a5021946
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: '250'
 ht-degree: 0%
 
 ---
@@ -35,7 +38,7 @@ De algemene focus van de sessie was Adobe Commerce Live Search, inclusief onderd
 * **Technische Diep Duik**
 
    * **Eindpunten van GraphQL** Verschillen tussen levende onderzoek en catalogusdienst eindpunten.
-   * **Opstelling en configuratiedetails van de Schakelaar van de Dienst van 0&rbrace; Commerce.**
+   * **Opstelling en configuratiedetails van de Schakelaar van de Dienst van 0} Commerce.**
    * **Instructies van de Aanpassing** op om PLP en popover widgets aan te passen en uit te breiden gebruikend open-bron bewaarplaatsen.
 
 * **aanstaande Eigenschappen**

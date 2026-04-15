@@ -3,19 +3,20 @@ title: De volledige Macht van de Studio van het Ontwerp voor Globale Verrichting
 description: Leer hoe u kunt schalen met Design Studio in Marketo Engage. Ontdek inkapseling, malplaatjes, vormen, en strategieën om technische schuld te verminderen en efficiency te bevorderen.
 solution: Marketo Engage
 feature: Design Studio
+topic: Integrations, Performance, Administration
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 0
 last-substantial-update: 2025-09-02T00:00:00Z
 jira: KT-18865
-source-git-commit: 91120ff6bfd81c7b3c9218fbbb6dbff9397b37e6
+exl-id: 2b6ceeb6-4ab4-42c8-9183-2a8d3b4b64d7
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '291'
 ht-degree: 0%
 
 ---
-
 
 # De volledige Macht van de Studio van het Ontwerp voor Globale Verrichtingen van de Marketing ontsluiten
 
@@ -29,7 +30,7 @@ Meer informatie over,
 * Door gebruik te maken van slimme coderingspraktijken in Design Studio kunt u in de toekomst uw marketingmedewerkers en de naleving van uw merk controleren.
 * Hoe de integratie van Adobe Experience Manager (AEM) de hiaat voor Design Studio vult om de macht van Marketo Engage uit te breiden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471429/?learn=on&enablevpops&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3471389/?learn=on&enablevpops)
 
 ## Efficiënte Marketo-bewerkingen ontgrendelen
 

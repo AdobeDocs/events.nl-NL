@@ -2,19 +2,20 @@
 title: Wijzigingsbeheerstrategieën voor Adobe Customer Journey Analytics-adoptie
 description: Ontdek strategieën voor wijzigingsbeheer om ervoor te zorgen dat Customer Journey Analytics succesvol kan worden ingevoerd. De weerstand van de overwinning, richt teams, en de verwezenlijking van de spoorwaarde effectief.
 feature: Basics
+topic: Security
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate
 doc-type: Event
 duration: 2695
 last-substantial-update: 2025-08-19T00:00:00Z
 jira: KT-18765
-source-git-commit: 2f118841f4332bcf105e519f31de34b6ac6c58dc
+exl-id: 5b635d6d-29e4-4647-a4b0-82713444d927
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '250'
+source-wordcount: '255'
 ht-degree: 0%
 
 ---
-
 
 # Wijzigingsbeheerstrategieën voor Adobe Customer Journey Analytics (CJA)-adoptie
 
@@ -44,7 +45,7 @@ Deze gestructureerde aanpak helpt organisaties om effectief door overgangen te n
 
 Effectieve betrokkenheid van belanghebbenden is essentieel voor het stimuleren van afstemming en adoptie:
 
-* **Actieve participatie en visie-plaatsende van de Sponsoring van het leiderschap van 0&rbrace;.**
+* **Actieve participatie en visie-plaatsende van de Sponsoring van het leiderschap van 0}.**
 * **dwars-Functionele Collaboration** Bevorderend teamwerk over IT, marketing, wettig, en veiligheid.
 * **Roltoewijzing** die beïnvloede groepen en hun specifieke behoeften identificeren.
 * **het Mengen van het risico** vermijdend silo&#39;s en het verzekeren van duidelijke mededeling.

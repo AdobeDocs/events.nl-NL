@@ -1,6 +1,7 @@
 ---
 title: API-rondleiding - Maak kennis met de nieuwe API's die we de afgelopen 6 maanden hebben verzonden
 description: API-rondleiding - Maak kennis met de nieuwe API's die we de afgelopen 6 maanden hebben verzonden. Deze talk gaat over de voortdurende overgang naar een Headless-architectuur voor AEM. De nieuwe nadruk zal op het toestaan van gebruikers zijn om alle acties door eenvoudige maar krachtige API vraag uit te voeren, terwijl het hebben van de snelheid van het proces in mening. De twee API's die u zult doorlopen, zijn de API's van het controlevlak voor Content Fragment Models (CFM) en Content Fragments (CF). Met behulp van deze twee API's kunnen gebruikers eenvoudig complexe modellen maken en deze snel en eenvoudig vullen. U wordt begeleid door het creëren van een nieuw Model van het Fragment van de Inhoud en dan het bevolken van Inhoudsfragmenten die op het worden gebaseerd. Dan, zullen wij het Model bijwerken en andere Fragments creëren die op de nieuwe structuur worden gebaseerd. Met het eerste gedeelte van de weg, zullen wij beginnen complexere gebruiksgevallen te bekijken die rond het creëren van meer Modellen van het Fragment van de Inhoud in één verzoek draaien.
+feature: Edge Delivery Services, Release Information
 product: experience manager
 sub-product: sites
 topic: Development
@@ -12,9 +13,9 @@ jira: KT-13354
 thumbnail: 3419946.jpeg
 exl-id: 780834cf-fca5-4e3e-8f51-05744749222e
 duration: 2255
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '352'
+source-wordcount: '354'
 ht-degree: 0%
 
 ---
@@ -23,6 +24,6 @@ ht-degree: 0%
 
 API-rondleiding - Maak kennis met de nieuwe API&#39;s die we de afgelopen 6 maanden hebben verzonden
 
-Deze talk gaat over de doorlopende overgang naar een Headless-architectuur voor AEM. De nieuwe nadruk zal op het toestaan van gebruikers zijn om alle acties door eenvoudige maar krachtige API vraag uit te voeren, terwijl het hebben van de snelheid van het proces in mening. De twee API&#39;s die u zult doorlopen, zijn de API&#39;s van het controlevlak voor Content Fragment Models (CFM) en Content Fragments (CF). Met behulp van deze twee API&#39;s kunnen gebruikers eenvoudig complexe modellen maken en deze snel en eenvoudig vullen. U wordt begeleid door het creëren van een nieuw Model van het Fragment van de Inhoud en dan het bevolken van Inhoudsfragmenten die op het worden gebaseerd. Dan, zullen wij het Model bijwerken en andere Fragments creëren die op de nieuwe structuur worden gebaseerd. Met het eerste gedeelte van de weg, zullen wij beginnen complexere gebruiksgevallen te bekijken die rond het creëren van meer Modellen van het Fragment van de Inhoud in één verzoek draaien. → Ga verder met het gesprek op: https://adobe.ly/3oXY0gV
+Deze talk gaat over de voortdurende overgang naar een Headless-architectuur voor AEM. De nieuwe nadruk zal op het toestaan van gebruikers zijn om alle acties door eenvoudige maar krachtige API vraag uit te voeren, terwijl het hebben van de snelheid van het proces in mening. De twee API&#39;s die u zult doorlopen, zijn de API&#39;s van het controlevlak voor Content Fragment Models (CFM) en Content Fragments (CF). Met behulp van deze twee API&#39;s kunnen gebruikers eenvoudig complexe modellen maken en deze snel en eenvoudig vullen. U wordt begeleid door het creëren van een nieuw Model van het Fragment van de Inhoud en dan het bevolken van Inhoudsfragmenten die op het worden gebaseerd. Dan, zullen wij het Model bijwerken en andere Fragments creëren die op de nieuwe structuur worden gebaseerd. Met het eerste gedeelte van de weg, zullen wij beginnen complexere gebruiksgevallen te bekijken die rond het creëren van meer Modellen van het Fragment van de Inhoud in één verzoek draaien. → Ga verder met het gesprek op: https://adobe.ly/3oXY0gV
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419946/?learn=on)

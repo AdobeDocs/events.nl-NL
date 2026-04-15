@@ -2,6 +2,8 @@
 title: Digitale trends en voorbereiding op de toekomst
 description: Belangrijke trends voor 2025 verkennen, hun invloed op workflows en rapportage, en hoe u zich kunt aanpassen met Adobe-oplossingen. Omvat globale tendensen, behendigheid, en meting.
 solution: General
+feature: Developer Tools
+topic: Development
 role: Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -9,7 +11,7 @@ duration: 2451
 last-substantial-update: 2025-06-12T00:00:00Z
 jira: KT-18245
 exl-id: 1a090802-1d4b-47df-815e-248ed045e8d3
-source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%

@@ -2,13 +2,15 @@
 title: De kracht van herbruikbaarheid
 description: We zullen bespreken hoe u ervaringsfragmenten kunt gebruiken om hergebruik en efficiëntie in uw ecosysteem te stimuleren.  Dit zal ROI en aandrijfsnelheid beïnvloeden.  Deelnemers begrijpen hoe ze ervaringsfragmenten kunnen plaatsen en gebruiken. Aanwezigen. leert u hoe u deze functie toepast om de snelheid van de digitale ervaring voor uw klanten te verhogen.
 solution: Experience Manager
+feature: Edge Delivery Services, Release Information
+topic: Performance
 role: User
 level: Beginner, Intermediate, Experienced
 kt: 10950
 thumbnail: 346387.jpeg
 exl-id: c4c1608b-5119-4060-b10d-9095a1d9adc6
 duration: 2437
-source-git-commit: ee04b99d756bdc6f7b460c91960fd49e501f57eb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%

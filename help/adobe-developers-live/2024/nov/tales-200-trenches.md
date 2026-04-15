@@ -3,30 +3,31 @@ title: Tales van 200 Trenches
 description: Zorg ervoor dat het webproject succesvol is door prioriteit toe te kennen aan prestaties, Google PageSpeed Insights te gebruiken, belangrijke metriek zoals LCP en TBT te optimaliseren, bronnen efficiënt te beheren en de beste praktijken voor ontwikkeling en optimalisatie van afbeeldingen te volgen.
 solution: Experience Manager, Experience Manager Sites
 feature: Edge Delivery Services
+topic: Integrations, Performance, Development
 role: Developer
 level: Beginner, Intermediate
 doc-type: Event
 duration: 1321
 last-substantial-update: 2024-11-27T00:00:00Z
 jira: KT-16541
-source-git-commit: 07d4174b0d89ba2c417866e76ae72f015b91b03a
+exl-id: 1104048d-4074-49aa-a0bc-0065fa2df505
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '306'
 ht-degree: 0%
 
 ---
 
-
 # Tales van 200 Trenches
 
-Met meer dan 200 projecten van Edge Delivery Services voltooid, delen Kiran Murugulla, Senior Engineer bij Adobe en Varun Mitra, architect bij Adobe Experience Manager Cloud, de belangrijkste geleerde lessen. Ontdek de geheimen achter het bieden van snelle, krachtige ervaringen met buitengewone Core Web Vital.
+Met meer dan 200 Edge Delivery Services-projecten voltooid, delen Kiran Murugulla, Senior Engineer bij Adobe en Varun Mitra, architect voor Adobe Experience Manager Cloud, de belangrijkste geleerde lessen. Ontdek de geheimen achter het bieden van snelle, krachtige ervaringen met uitzonderlijke Core Web Vitals.
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3439424/?learn=on&enablevpops)
 
 ## Communautaire discussie
 
-Ga verder het gesprek in de Gemeenschap van Adobe Developers Live [&#x200B; bespreking &#x200B;](https://adobe.ly/4fwWvvi).
+Ga verder het gesprek in de Gemeenschap van Adobe Developers Live [ bespreking ](https://adobe.ly/4fwWvvi).
 
 ## Toetsen
 
@@ -50,4 +51,3 @@ Ga verder het gesprek in de Gemeenschap van Adobe Developers Live [&#x200B; besp
    * Focus op mobiele ontwikkeling.
    * Zorg ervoor dat het structureren van inhoud intuïtief is voor auteurs.
 * **Hulpmiddelen** de hulpmiddelen van het Gebruik zoals de Bladen van Google en DSA voor het volgen van de scores van plaatsprestaties in tijd.
-

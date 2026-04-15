@@ -1,27 +1,29 @@
 ---
 title: Vraag het de Expert - de Rapportering van de Wijze van de Tekst van de Opstuwing Basis gebruikend de Ontdekkingsreiziger API
 description: Leer meer over de API-verkenner, hoe u deze gebruikt en hoe u uw rapporten kunt verbeteren met behulp van de standaardtekstmodus. Dit webinar werd geregistreerd op 22 januari 2020.
+feature: Reports and Dashboards, System Setup and Administration
+topic: Integrations, Development
 doc-type: feature video
 team: Technical Marketing
 kt: 9918
 exl-id: f859c4eb-8b3c-4d91-9765-9957dc4678f5
 duration: 4068
-source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '1656'
+source-wordcount: '1665'
 ht-degree: 0%
 
 ---
 
 # Vraag het de Expert - de Rapportering van de Wijze van de Tekst van de Opstuwing Basis gebruikend de Ontdekkingsreiziger API
 
-Leer over [[!UICONTROL API Explorer] &#x200B;](https://developer.adobe.com/workfront/api-explorer/), hoe te om het te gebruiken, en hoe te om uw rapporten te verbeteren leveraging basistekstwijze. Dit webinar werd geregistreerd op 22 januari 2020.
+Leer over [[!UICONTROL API Explorer] ](https://developer.adobe.com/workfront/api-explorer/), hoe te om het te gebruiken, en hoe te om uw rapporten te verbeteren leveraging basistekstwijze. Dit webinar werd geregistreerd op 22 januari 2020.
 
 >[!VIDEO](https://video.tv.adobe.com/v/341124/?quality=12)
 
 ## Aanvullende bronnen
 
-![&#x200B; een grafiek die voorbeelden van de regels van de tekstwijze toont &#x200B;](assets/text-mode-chart.png)
+![ een grafiek die voorbeelden van de regels van de tekstwijze toont ](assets/text-mode-chart.png)
 
 
 **Definitieve &quot;Alle Rollen van de Baan&quot;kolom**

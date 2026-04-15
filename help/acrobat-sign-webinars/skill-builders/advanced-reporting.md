@@ -2,6 +2,7 @@
 title: Geavanceerde rapportage voor Acrobat Sign
 description: Lees meer over de analyses en rapporten die beschikbaar zijn in Acrobat Sign en bekijk hoe u gegevens kunt bekijken om de inzichten te leveren die u nodig hebt om uw bedrijf vooruit te helpen.
 feature: Report
+topic: Personalization
 role: User
 level: Intermediate
 doc-type: Event
@@ -9,7 +10,7 @@ duration: 851
 last-substantial-update: 2024-04-30T00:00:00Z
 jira: KT-15300
 exl-id: 0a963b37-e5eb-4dcc-a9b1-34646e1c8749
-source-git-commit: a9055b8c455e5a28cc47f350644a7ae1a428d9bc
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '221'
 ht-degree: 0%
@@ -20,7 +21,7 @@ ht-degree: 0%
 
 Lees meer over de analyses en rapporten die beschikbaar zijn in Acrobat Sign en bekijk hoe u gegevens kunt bekijken om de inzichten te leveren die u nodig hebt om uw bedrijf vooruit te helpen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3454411/?learn=on&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3428191/?learn=on)
 
 ## Nieuwe rapportage- en exportmogelijkheden
 

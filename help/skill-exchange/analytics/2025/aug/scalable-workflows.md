@@ -3,23 +3,24 @@ title: Bewegingsgegevens - schaalbare analysemogelijkheden voor door Insight aan
 description: Leer hoe u Adobe Analytics-workflows stroomlijnt, het bestuur versterkt en teams informeert met inzichten die de activering, samenwerking en groei stimuleren.
 solution: Analytics
 feature: Data Governance, Analytics Basics
+topic: Administration, Content Supply Chain, Development
 role: User
 level: Intermediate, Experienced
 doc-type: Event
 duration: 0
 last-substantial-update: 2025-09-04T00:00:00Z
 jira: KT-18822
-source-git-commit: 887622e17681c1e3bc44175667777b0f4e65cc65
+exl-id: aeffcf4e-0f0d-4903-ad14-bb7ab499ab64
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '241'
 ht-degree: 0%
 
 ---
 
-
 # Bewegingsgegevens - schaalbare analysemogelijkheden voor door Insight aangestuurde teams
 
-Sluit u aan bij Adobe Champion Ioana Maftei, Senior Analytics Manager in IBM, omdat ze laat zien hoe u schaalbare, beheerste workflows voor analyse kunt maken die de toeleveringsketen van inhoud meetbaar maken. Leer hoe u de juiste inzichten op het juiste moment aan de juiste mensen kunt bieden, teamoverschrijdende samenwerking mogelijk kunt maken en Analysis Workspace-projecten kunt afstemmen op verschillende rollen en behoeften.
+Sluit u aan bij Adobe Champion Ioana Maftei, Senior Analytics Manager in IBM, omdat ze laat zien hoe u schaalbare, beheerste workflows voor analyse kunt maken die de inhoud van supply chain meetbaar maken. Leer hoe u de juiste inzichten op het juiste moment aan de juiste mensen kunt bieden, teamoverschrijdende samenwerking mogelijk kunt maken en Analysis Workspace-projecten kunt afstemmen op verschillende rollen en behoeften.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3471118/?learn=on&enablevpops)
 

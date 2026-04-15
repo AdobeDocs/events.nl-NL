@@ -2,21 +2,23 @@
 title: GenStudio for Performance Marketings - Operating Model & Governance Strategy
 description: Het webinar over Adobe GenStudio for Performance Marketing omvat het bouwen van een governancekader om creatieve processen, samenwerking, en efficiency te verbeteren, terwijl het verstrekken van inzicht in organisatorische bereidheid, beste praktijken voor werkende modellen, en de principes van de Marketing van de Agile om investeringen te maximaliseren.
 solution: GenStudio for Performance Marketing
+feature: Workfront Planning
+topic: Artificial Intelligence, Performance, Administration
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
 duration: 3579
 last-substantial-update: 2025-02-18T00:00:00Z
 jira: KT-17369
-source-git-commit: f63e6bcb608eb6d03fa2f8b43babf0cb13909f4b
+exl-id: 2b5db111-2d36-4aea-9fa3-1aeb38ce0dc7
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '282'
 ht-degree: 0%
 
 ---
 
-
-# GenStudio for PEM: Operationeel model en bestuursstrategie
+# GenStudio for PeM: Operationeel model en bestuursstrategie
 
 Dit webinar is ontworpen voor klanten die Adobe GenStudio for Performance Marketing implementeren of overwegen. Leer hoe u een governancekader kunt maken dat creatieve processen organiseert, de samenwerking verbetert en efficiëntie stimuleert. Ontdek het standpunt van Adobe over organisatorische gereedheid, verken best practices voor het gebruik van modellen en verbeter actiefbare inzichten in het benutten van de beginselen voor het op de markt brengen van mobiele apparaten om uw GenStudio-investering te maximaliseren.
 
@@ -37,7 +39,7 @@ Belangrijke discussiepunten
 
 ### Succescriteria voor Gen Studio for Performance Marketing
 
-* Verbeterde Creative Team-productiviteit: automatiseer processen om de uitvoering te stroomlijnen.
+* Verbeterde productiviteit van Creative Team: automatiseer processen om de uitvoering te stroomlijnen.
 * Verbeterde Creative Review-cycli: efficiënter en sneller werken.
 * Inhoud die compatibel is met merken: inhoud genereren met zakelijke instructies.
 

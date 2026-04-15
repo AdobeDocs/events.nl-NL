@@ -1,19 +1,21 @@
 ---
 title: 5 tips voor het automatiseren van naamgevingsconventies met Workfront Fusion
 description: Terugspoelen van workshop - Fusie
+feature: Workfront Fusion, Reports and Dashboards, System Setup and Administration
+topic: Performance
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3552
 last-substantial-update: 2025-11-20T00:00:00Z
 jira: KT-19791
-source-git-commit: 48d93e64b075db84d164a743db97fa0202b3e26c
+exl-id: 26883731-1cae-4119-8c12-0d7e39f455ce
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '173'
-ht-degree: 0%
+source-wordcount: '216'
+ht-degree: 1%
 
 ---
-
 
 # 5 tips voor het automatiseren van naamgevingsconventies met Workfront Fusion
 
@@ -31,6 +33,6 @@ Of u nu nog maar aan de slag gaat met Fusion of uw automatisering wilt uitbreide
 
 ## Bronnen
 
-- [&#x200B; het dek PDF van de Schuifregelaar &#x200B;](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Slide+Deck+-+Fusion+Naming+Conventions+-+Nov+19.pdf)
-- [&#x200B; Zip dossier &#x200B;](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Webinar+-+Naming+Conventions+-+111825.zip) met follow-up materialen
-- De nieuwe gebeurtenissen worden toegevoegd elke maand, zodat zorg ervoor om de [&#x200B; pagina van de Gebeurtenissen van Experience League &#x200B;](https://experienceleague.adobe.com/nl/events) voor de recentste zittingen uit te checken.
+- [Slide deck PDF](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Slide+Deck+-+Fusion+Naming+Conventions+-+Nov+19.pdf)
+- [ Zip dossier ](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Webinar+-+Naming+Conventions+-+111825.zip) met follow-up materialen
+- De nieuwe gebeurtenissen worden toegevoegd elke maand, zodat zorg ervoor om de [ pagina van de Gebeurtenissen van Experience League ](https://experienceleague.adobe.com/en/events) voor de recentste zittingen uit te checken.

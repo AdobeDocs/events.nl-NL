@@ -4,6 +4,7 @@ description: Ontdek updates van Acrobat Sign juli 2025 - PDF/A-compatibiliteit, 
 solution: Acrobat Sign
 feature-set: Document Cloud
 feature: Sign
+topic: Integrations, Security, Administration
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -11,9 +12,9 @@ duration: 3588
 last-substantial-update: 2025-09-05T00:00:00Z
 jira: KT-19007
 exl-id: 0b442d68-25ba-4c79-9786-20c1600cfa15
-source-git-commit: 9f3e518295eaf64776880ba0442eb8a1b8d645e4
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '330'
+source-wordcount: '336'
 ht-degree: 0%
 
 ---
@@ -36,8 +37,8 @@ Of u nu nieuw bent in Acrobat Sign of dat u het potentieel ervan wilt maximalise
 
 * **BasisHandtekeningen** E-mail, wachtwoord, of telefoonauthentificatie; geschikt voor standaardovereenkomsten.
 * **geverifieerde Handtekeningen** Identiteitscontroles via paspoort, KBA (VS), of elektronische IDs (b.v., BankID); hogere verzekering voor gereglementeerde industrieën.
-* **Vertrouwde dienstverlener van 0&rbrace; Digitale Handtekeningen geeft een digitaal certificaat uit; vereist voor gekwalificeerde handtekeningen (b.v., EU, Duitsland).**
-* **Kies de Flexibiliteit van de Authentificatie van 0&rbrace; methodes die op gebied, industrie, en documentgevoeligheid worden gebaseerd.** Beheerders kunnen opties per gebruikersgroep in- en uitschakelen.
+* **Vertrouwde dienstverlener van 0} Digitale Handtekeningen geeft een digitaal certificaat uit; vereist voor gekwalificeerde handtekeningen (b.v., EU, Duitsland).**
+* **Kies de Flexibiliteit van de Authentificatie van 0} methodes die op gebied, industrie, en documentgevoeligheid worden gebaseerd.** Beheerders kunnen opties per gebruikersgroep in- en uitschakelen.
 * **Zeer belangrijke Takeaway** de handtekeningentype en authentificatie van de Gelijke aan uw nalevingsbehoeften voor optimale veiligheid en gebruikerservaring.
 
 ## De kracht van Acrobat Sign-innovaties ontsluiten

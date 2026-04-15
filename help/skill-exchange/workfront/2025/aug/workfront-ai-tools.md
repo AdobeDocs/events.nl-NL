@@ -3,6 +3,7 @@ title: Efficiëntie maximaliseren met AI - Workfront AI-tools beheersen
 description: Ontdek hoe Adobe Workfront AI-functies zoals Ophalen, Samenvatten en Formules genereren helpen taken te automatiseren, workflows te optimaliseren en productiviteit te verhogen.
 topic: Artificial Intelligence
 solution: Workfront
+feature: Reports and Dashboards
 role: User
 level: Beginner
 doc-type: Event
@@ -10,9 +11,9 @@ duration: 0
 last-substantial-update: 2025-08-29T00:00:00Z
 jira: KT-18869
 exl-id: 7b868c8b-e451-43e3-a318-65967b8ff996
-source-git-commit: 91120ff6bfd81c7b3c9218fbbb6dbff9397b37e6
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---

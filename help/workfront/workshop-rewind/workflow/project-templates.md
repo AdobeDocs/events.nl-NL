@@ -2,19 +2,20 @@
 title: Workfront Crowdsource-uitdaging - Projectsjablonen
 description: Leer hoe Ologie Adobe Workfront-projectsjablonen stroomlijnt met praktische tips voor het vereenvoudigen van de installatie, het verbeteren van de rapportage en het behouden van de procesflexibiliteit.
 feature: System Setup and Administration, Reports and Dashboards
+topic: Performance
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3728
 last-substantial-update: 2025-08-08T00:00:00Z
 jira: KT-18626
-source-git-commit: 6225f36c5d26ecca5ebc2aca24a2d592a3279570
+exl-id: 5377412d-db56-4fca-92c9-0c4c59fa2d79
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '379'
+source-wordcount: '422'
 ht-degree: 0%
 
 ---
-
 
 # Workfront Crowdsource-uitdaging: projectsjablonen
 
@@ -24,8 +25,8 @@ Deze workshop werd op 8 april 2025 opgenomen en bevatte Ross Barton en Lindsay L
 
 Samen met de opnamen op aanvraag hebben we de diapresentatie en de tips die in de chat zijn gedeeld, opgenomen:  
 
-* [&#x200B; Deck PDF van de Schuifregelaar &#x200B;](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/040825+-+Crowdsource+Challenge+with+Project+Templates.pdf)
-* [&#x200B; Experience League Community Post &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-workfront-crowdsource-challenge-project/td-p/747512?profile.language=nl)
+* [Slide Deck PDF](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/040825+-+Crowdsource+Challenge+with+Project+Templates.pdf)
+* [Experience League Community Post](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-workfront-crowdsource-challenge-project/td-p/747512)
 
 ## Tips
 
@@ -39,4 +40,4 @@ Samen met de opnamen op aanvraag hebben we de diapresentatie en de tips die in d
 
 Een van de grootste thema&#39;s die we tijdens de chat zagen, was de uitdaging om projectsjablonen eenvoudig te houden, maar tegelijkertijd de inspanningen te volgen en ervoor te zorgen dat teams alle stappen uitvoeren die nodig zijn om het project te voltooien.  
 
- We hopen u te zien in toekomstige workshops over succes bij de klant!  Ben zeker om de [&#x200B; Gebeurtenissen van Workfront &#x200B;](https://experienceleague.adobe.com/events/?lang=nl-NL&filters=Workfront) op Experience League voor de volledige lijst te controleren en te registreren.
+ We hopen u te zien in toekomstige workshops over succes bij de klant!  Ben zeker om de [ Gebeurtenissen van Workfront ](https://experienceleague.adobe.com/events/?filters=Workfront) op Experience League voor de volledige lijst te controleren en te registreren.

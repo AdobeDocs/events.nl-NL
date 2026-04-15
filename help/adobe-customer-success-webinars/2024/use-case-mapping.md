@@ -2,6 +2,8 @@
 title: Real-Time CDP - Hoofdlettergebruik toewijzen aan oplossingsmogelijkheden
 description: Dit webinar verkent zeer belangrijke manieren om gebruiksgevallen te onderzoeken en voorrang te geven, hen in kaart te brengen aan specifieke eigenschappen in real time CDP, en groepering te verzekeren aan bedrijfsresultaten en waarde.
 solution: Real-Time Customer Data Platform
+feature: Audiences, Data Governance
+topic: Personalization, Security, Administration
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -9,14 +11,14 @@ duration: 2421
 last-substantial-update: 2024-06-07T00:00:00Z
 jira: KT-15560
 exl-id: ebc38b82-52a7-4f8c-8ac7-f6e9f3fd2c55
-source-git-commit: ef652eb09c33f11d69ec66f70013cd3e53537a95
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '191'
 ht-degree: 0%
 
 ---
 
-# Adobe in real time CDP - de Toewijzing van het Geval aan de Mogelijkheden van de Oplossing van het Gebruik
+# Adobe Real-time CDP - Hoofdlettergebruik toewijzen aan oplossingsmogelijkheden
 
 Dit webinar verkent zeer belangrijke manieren om gebruiksgevallen te onderzoeken en voorrang te geven, hen in kaart te brengen aan specifieke eigenschappen in real time CDP, en groepering te verzekeren aan bedrijfsresultaten en waarde.
 
@@ -39,7 +41,7 @@ Dit webinar verkent zeer belangrijke manieren om gebruiksgevallen te onderzoeken
 
 * Effecten op gebruiksgevallen zoals herbestemming van betaalde media en personalisatie
 
-**Vergelijking van CDP In real time met de Audience Manager van DMP**
+**Vergelijking van Real-time CDP met DMP Audience Manager**
 
 * Focus op gegevensinvoer, publieksbeheer en structuren voor gegevensuitvoer
 

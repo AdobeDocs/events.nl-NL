@@ -1,31 +1,32 @@
 ---
-title: Aanbevolen werkwijzen voor PWA Studio's voor beginners
-description: Deze vergadering is een beginnervriendelijke inleiding op wat de PWA Studio te bieden heeft. Leer over de verschillende bibliotheken van de PWA Studio en hoe u hen in uw archiefprojecten effectief kunt gebruiken. Sluit u bij ons aan voor voorbeelden en demonstraties om te zien hoe gemakkelijk het begint en met PWA Studio werkt.
+title: Aanbevolen procedures voor PWA Studio voor beginners
+description: Deze vergadering is een beginnervriendelijke inleiding op wat PWA Studio te bieden heeft. Leer meer over de verschillende PWA Studio-bibliotheken en hoe u deze effectief kunt gebruiken in uw winkelprojecten. Meld u bij ons aan voor voorbeelden en demonstraties om te zien hoe gemakkelijk het wordt om met PWA Studio aan de slag te gaan.
 solution: Commerce
 feature: Developer Tools
+topic: Commerce
 role: Developer, Architect
 level: Experienced
 kt: 9199
 type: Event
 exl-id: 516ea10a-8783-4ddf-bed1-2415b38177cb
 duration: 1989
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '131'
-ht-degree: 5%
+source-wordcount: '151'
+ht-degree: 1%
 
 ---
 
-# Aanbevolen werkwijzen voor PWA Studio&#39;s voor beginners
+# Aanbevolen procedures voor PWA Studio voor beginners
 
-Deze vergadering is een beginnervriendelijke inleiding op wat de PWA Studio te bieden heeft.
-Leer over de verschillende bibliotheken van de PWA Studio en hoe u hen in uw archiefprojecten effectief kunt gebruiken.
-Sluit u bij ons aan voor voorbeelden en demonstraties om te zien hoe gemakkelijk het begint en met PWA Studio werkt.
+Deze vergadering is een beginnervriendelijke inleiding op wat PWA Studio te bieden heeft.
+Leer meer over de verschillende PWA Studio-bibliotheken en hoe u deze effectief kunt gebruiken in uw winkelprojecten.
+Meld u bij ons aan voor voorbeelden en demonstraties om te zien hoe gemakkelijk het wordt om met PWA Studio aan de slag te gaan.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337764/?quality=12&learn=on&hidetitle=true)
 
 ## Aanvullende bronnen
 
-- [&#x200B; Documentatie van Adobe Experience Platform &#x200B;](https://experienceleague.adobe.com/docs/experience-platform.html?lang=nl-NL)
-- [&#x200B; het Overzicht van Adobe Experience Platform &#x200B;](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=nl-NL)
-- [Tutorials voor Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=nl)
+- [Adobe Experience Platform-documentatie](https://experienceleague.adobe.com/docs/experience-platform.html)
+- [Adobe Experience Platform - Overzicht](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html)
+- [Adobe Experience Platform-zelfstudies](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=en)

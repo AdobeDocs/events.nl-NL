@@ -3,19 +3,20 @@ title: Gegevensopslag met Analysis Workspace
 description: Leer 5 strategieën om Adobe Analysis Workspace-dashboards om te zetten in aansprekende gegevensverhalen die invloed hebben, insight en actie van belanghebbenden.
 solution: Analytics
 feature: Analysis Workspace
+topic: Migration, Integrations
 role: User
 level: Beginner
 doc-type: Event
 duration: 0
 last-substantial-update: 2025-09-04T00:00:00Z
 jira: KT-18820
-source-git-commit: 124b52203b98a80dd9202dab1b0dbe575475a52b
+exl-id: cf6a1931-094a-4a2e-b3df-6e20d07e1487
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '297'
 ht-degree: 0%
 
 ---
-
 
 # Gegevensopslag met Analysis Workspace
 
@@ -30,8 +31,8 @@ U leert hoe u opzettelijk visualisaties kunt gebruiken, betere vragen kunt stell
 
 Ontdek hoe u verder kunt gaan dan de traditionele rapportage en hoe u dashboards kunt maken die echte actie van belanghebbenden stimuleren.
 
-* **Belanghebbenden van de Actie van de Drijven van 0&rbrace; Storyvertelling antwoorden aan insight, urgentie, en emotionele relevantie, niet alleen ruwe gegevens.**
-* **De opstelling, de spanning, en de resolutie van het Gebruik van de Menggrijsstructuren van 0&rbrace; &lbrace;&lbrace;om gebruikers door uw dashboard te begeleiden, die efficiënte verhalen weerspiegelen.**
+* **Belanghebbenden van de Actie van de Drijven van 0} Storyvertelling antwoorden aan insight, urgentie, en emotionele relevantie, niet alleen ruwe gegevens.**
+* **De opstelling, de spanning, en de resolutie van het Gebruik van de Menggrijsstructuren van 0} {{om gebruikers door uw dashboard te begeleiden, die efficiënte verhalen weerspiegelen.**
 * **Visuals en Context** Geavanceerde visualisaties en contextafhankelijke teksthulpgebruikers concentreren zich op wat van belang is en bouwen emotionele overeenkomst.
 * **de Presentatie is Zeer belangrijk** de manier u uw gegevensverhaal presenteert kan zijn effect-persoonlijke levering maken of breken voegt emotie en duidelijkheid toe.
 

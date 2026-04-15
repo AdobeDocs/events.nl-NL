@@ -2,6 +2,7 @@
 title: Expert Insights - Governance & Centers of Excellence met Danielle Johnston
 description: Ontdek de strategieën van Danielle Johnston over het gebruik van Workfront om governance en expertisecentra op te bouwen die adoptie en positieve verandering stimuleren.
 feature: Strategic Planning
+topic: Performance, Administration
 speaker-name-1: Danielle Johnston
 speaker-title-1: Customer Success Manager
 speaker-company-1: Adobe
@@ -11,13 +12,13 @@ doc-type: Event
 duration: 942
 last-substantial-update: 2025-08-20T00:00:00Z
 jira: KT-18619
-source-git-commit: 2f10210e5c92e5c1bf77c886ed347cdc967f089e
+exl-id: d7ebb12d-102d-41a4-86a6-95f49384172f
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: '274'
 ht-degree: 0%
 
 ---
-
 
 # Expert Insights - Governance &amp; Centers of Excellence met Danielle Johnston
 
@@ -33,8 +34,8 @@ Welkom terug bij Expert Insights!  Ik ben Cynthia Boon, uw &quot;On-Demand&quo
 
 ## Bronnen
 
-* [&#x200B; Hoogste Gevallen van het Gebruik van de Klant &#x200B;](https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/Top+Customer+Use+Cases.png) 
-* [&#x200B; die de Looptijd van de Praktijken van het Beheer van het Werk &#x200B;](https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/Assessing+the+Maturity+of+Work+Management+Practices.png) beoordelen 
+* [ Hoogste Gevallen van het Gebruik van de Klant ](https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/Top+Customer+Use+Cases.png) 
+* [ die de Looptijd van de Praktijken van het Beheer van het Werk ](https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/Assessing+the+Maturity+of+Work+Management+Practices.png) beoordelen 
 
 ## Over de spreker
 
@@ -42,5 +43,4 @@ Danielle is een Manager van het Succes van de Klant die veelvoudige klanten heef
 
 ## Heb je iets te delen?
 
-Hebt u een geweldig verhaal om te delen, tijdens een gebeurtenis of in een video van Expert Insights? Gelieve te bereiken uit aan ons team in [&#x200B; CSatScale@adobe.com &#x200B;](mailto:CSatScale@adobe.com).
-
+Hebt u een geweldig verhaal om te delen, tijdens een gebeurtenis of in een video van Expert Insights? Gelieve te bereiken uit aan ons team in [ CSatScale@adobe.com ](mailto:CSatScale@adobe.com).

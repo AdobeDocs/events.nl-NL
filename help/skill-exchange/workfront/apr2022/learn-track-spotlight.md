@@ -2,15 +2,17 @@
 title: Leer de ervaring van het Spotlight van de Makers van het Spoor
 description: Heb je ooit achter het gordijn willen kijken om te zien hoe sommige van de grootste merken ter wereld hun werk beheren?
 solution: Workfront
+feature: Reports and Dashboards
+topic: Performance
 role: User
 level: Beginner
 kt: 10312
 thumbnail: 342521.jpeg
 exl-id: 352cbded-40d0-462d-960a-0abd93747de3
 duration: 2739
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '150'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---

@@ -2,6 +2,8 @@
 title: Ervaar de Spotlight van Makers - stroomlijnende follow-ups in de levenscyclus van de Klant
 description: Leer hoe uitvoerbare bestanden en aanvraagcampagnes workflows stroomlijnen, de gegevensnauwkeurigheid verbeteren en de betrokkenheid met multi-kanaalstrategieën in real time verhogen.
 solution: Marketo Engage
+feature: Programs, Reporting
+topic: Integrations, Commerce
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -9,10 +11,10 @@ duration: 0
 last-substantial-update: 2025-08-29T00:00:00Z
 jira: KT-18867
 exl-id: 1659fd7b-c12d-4ea0-bba1-e3f583edf949
-source-git-commit: 91120ff6bfd81c7b3c9218fbbb6dbff9397b37e6
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '258'
-ht-degree: 1%
+source-wordcount: '387'
+ht-degree: 0%
 
 ---
 
@@ -28,9 +30,9 @@ De reactie van de ketting - wanneer om Campagne aan te vragen en wanneer om Camp
 
 ## Aanvullende bronnen
 
-* [&#x200B; Uitvoerbare campagnes &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/execute-campaign)
-* [&#x200B; alles u over het nieuwe uitvoerbare campagneretype in Marketo Engage &#x200B;](https://mugs.marketo.com/events/details/marketo-houston-mug-presents-everything-you-need-to-know-about-the-new-executable-campaign-type-in-marketo/) moet weten
-* [&#x200B; Uitvoerbare Campagnes: Leer hoe uitvoerbare lijnen efficiency en effect kunnen drijven &#x200B;](https://www.youtube.com/watch?v=QGC4Bhn5BpU)
+* [Uitvoerbare campagnes](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/execute-campaign)
+* [Alles wat u moet weten over het nieuwe uitvoerbare type campagne in Marketo Engage](https://mugs.marketo.com/events/details/marketo-houston-mug-presents-everything-you-need-to-know-about-the-new-executable-campaign-type-in-marketo/)
+* [Uitvoerbare campagnes: leer hoe uitvoerbare bestanden de efficiëntie en impact kunnen verhogen](https://www.youtube.com/watch?v=QGC4Bhn5BpU)
 
 ## Levenscyclusservice met meerdere kanalen uitvoeren, behalve via e-mail
 
@@ -38,8 +40,8 @@ De levenscyclusbetrokkenheid van meerdere kanalen volgen, en verder gaan dan e-m
 
 ## Aanvullende bronnen
 
-* [&#x200B; Diep duik voorbij Emails: Meerkanaals Marketing met Toepassingsberichten, Dynamic Chat, en het Overseinen Apps &#x200B;](https://mugs.marketo.com/events/details/marketo-adobe-deep-dive-mug-presents-beyond-emails-multi-channel-marketing-with-app-notifications-dynamic-chat-and-messaging-apps/)
-* [&#x200B; Omnichannel Betrokkenheid &#x200B;](https://business.adobe.com/sg/products/marketo/omnichannel-engagement.html)
-* [&#x200B; hoe te om een bericht in-app &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-an-in-app-message) te creëren
-* [&#x200B; hoe te om Push Meldingen &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/mobile-marketing/push-notifications/understanding-push-notifications) te creëren
-* [&#x200B; hoe te om een malplaatje te creëren WhatsApp &#x200B;](https://community.sinch.com/t5/Settings/Create-a-WhatsApp-message-template-new-experience/ta-p/11599)
+* [Diep doordringen bij e-mails: Multi-Channel marketing met App Notifications, Dynamic Chat en Messaging Apps](https://mugs.marketo.com/events/details/marketo-adobe-deep-dive-mug-presents-beyond-emails-multi-channel-marketing-with-app-notifications-dynamic-chat-and-messaging-apps/)
+* [Omnichannel Engagement](https://business.adobe.com/sg/products/marketo/omnichannel-engagement.html)
+* [Een bericht in de app maken](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-an-in-app-message)
+* [Pushmeldingen maken](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/mobile-marketing/push-notifications/understanding-push-notifications)
+* [Een whatsApp-sjabloon maken](https://community.sinch.com/t5/Settings/Create-a-WhatsApp-message-template-new-experience/ta-p/11599)

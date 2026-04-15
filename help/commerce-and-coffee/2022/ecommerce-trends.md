@@ -2,6 +2,7 @@
 title: Commerce en koffie - E-Commerce Trends
 description: Deze zitting duikt in 5 van de hoogste tendensen in eCommerce vandaag. Wij bespreken strategieën en tactieken rond de hoogste tendensen samen met de gevolgen die zij aan uw zaken wanneer uitgevoerd hebben. Corey voert dan een demonstratie van de Tickers van de Gebeurtenis, de Toestemmingen van de Categorie, B2B Mogelijkheden en meer uit. De presentatie en de demo gaan vergezeld van een live Vragen en antwoorden met Corey.
 solution: Commerce
+feature: B2B
 topic: Commerce
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -11,9 +12,9 @@ kt: 11652
 thumbnail: 3412701.jpeg
 exl-id: 47859ed1-8c50-4866-b710-f2da41ea06bb
 duration: 3705
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---

@@ -2,19 +2,21 @@
 title: Adobe Commerce & App Builder Essentials - Van basiskennis tot impact
 description: Ontdek de App Builder-rol in Adobe Commerce voor flexibiliteit, flexibiliteit en kostenbesparingen. Leer beste praktijken, integratie, en wolkeninheems voordeel.
 solution: Commerce
+feature: Integration
+topic: Integrations, Performance, Migration
 role: Admin, Developer, Leader, User
 level: Intermediate, Experienced
 doc-type: Event
 duration: 3555
 last-substantial-update: 2025-11-13T00:00:00Z
 jira: KT-19684
-source-git-commit: cea4b75d089d99068b2657ca9656687ba66ad830
+exl-id: 2d4de79e-426b-4b3a-b90c-99e095b1226e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '240'
+source-wordcount: '270'
 ht-degree: 0%
 
 ---
-
 
 # Leer van je collega&#39;s: Adobe Commerce &amp; App Builder Essentials - Van basiskennis tot impact
 
@@ -34,5 +36,5 @@ Of u nu gewoon begint met App Builder of de strategische waarde van uitbreidbaar
 
 ## Aanvullende bronnen
 
-* [&#x200B; Post-Webinar de Uren van het Bureau &#x200B;](https://commerce-augs.adobe.com/events/details/adobe-commerce-adobe-commerce-champion-office-hours-presents-adobe-commerce-amp-app-builder-essentials-from-basics-to-impact-webinar-office-hours/) met Alex Lyzun
-* [&#x200B; de Gebruikersgroepen van Adobe Commerce &#x200B;](https://commerce-augs.adobe.com/)
+* [ Post-Webinar de Uren van het Bureau ](https://commerce-augs.adobe.com/events/details/adobe-commerce-adobe-commerce-champion-office-hours-presents-adobe-commerce-amp-app-builder-essentials-from-basics-to-impact-webinar-office-hours/) met Alex Lyzun
+* [Adobe Commerce-gebruikersgroepen](https://commerce-augs.adobe.com/)

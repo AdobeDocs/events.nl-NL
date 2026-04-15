@@ -2,6 +2,8 @@
 title: Marketingkanalen en kenmerken beheren
 description: Leer hoe lastig het is om marketingkanalen te configureren in Adobe Analytics. Gebruik attributiemodellen om actioneerbare inzichten voor uw marketingstrategie te bieden.
 solution: Analytics
+feature: Data Configuration and Collection
+topic: Development
 role: User
 level: Intermediate, Experienced
 doc-type: Event
@@ -9,9 +11,9 @@ duration: 2176
 last-substantial-update: 2024-08-30T00:00:00Z
 jira: KT-15975
 exl-id: e5f614e4-6a80-40ef-a662-f1442be68f08
-source-git-commit: 0801003af98b08218aca3a20c911fae062009839
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '215'
 ht-degree: 0%
 
 ---
@@ -25,7 +27,7 @@ In het snelle digitale marketinglandschap van vandaag is het van het grootste be
 * Inleiding tot marketingkanalen: leer hoe belangrijk het is verschillende marketingkanalen te identificeren en te categoriseren om te begrijpen wat de invloed ervan is op uw digitale aanwezigheid.
 * Adobe Analytics configureren: verhoog praktische kennis over het instellen van codes voor het bijhouden van campagnes, het vastleggen van relevante gegevens en het gebruik van Adobe Launch voor een efficiënte gegevensverzameling.
 
-  Om het campagne volgende codegeneratorhulpmiddel te downloaden dat in deze zitting wordt vermeld, bezoek [&#x200B; het Beheersen van Adobe Analytics-Marketing Kanalen &amp; Attributie &#x200B;](https://experienceleague.adobe.com/nl/perspectives/mastering-adobe-analytics-marketing-channels-attribution) in het Perspectief van het Experience League.
+  Om het campagne volgende codegeneratorhulpmiddel te downloaden dat in deze zitting wordt vermeld, bezoek [ het Beheersen van Adobe Analytics-Marketing Kanalen &amp; Attributie ](https://experienceleague.adobe.com/en/perspectives/mastering-adobe-analytics-marketing-channels-attribution) in het Perspectief van Experience League.
 
 * Classificatie en Verwerkingsregels: Ontdek hoe te om de Bouwer van de Regel van de Classificatie te gebruiken en de Regels van de Verwerking van het Kanaal van de Marketing voor nauwkeurige verkeersbronclassificatie te vormen.
 * Attributiemodellen: Onderzoek verschillende toewijzingsmodellen beschikbaar in Adobe Analytics en hoe u deze kunt toepassen om de effectiviteit van uw marketingactiviteiten te meten en te optimaliseren.

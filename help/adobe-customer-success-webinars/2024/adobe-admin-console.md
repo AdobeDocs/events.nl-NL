@@ -1,6 +1,8 @@
 ---
 title: Mastering in de Adobe Admin Console
 description: De Adobe Admin Console is een gecentraliseerd platform voor het beheer van Adobe Enterprise Solutions, dat gebruikers- en productbeheer, beveiligings- en compatibiliteitsfuncties, ondersteuningsbronnen en schaalbare best practices voor organisaties biedt.
+feature: Analytics Basics, Analysis Workspace
+topic: Integrations, Security, Administration
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -8,7 +10,7 @@ duration: 2767
 last-substantial-update: 2024-12-06T00:00:00Z
 jira: KT-16630
 exl-id: 2a604f0f-d422-4a7d-8e72-bd38dfca7bf0
-source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '334'
 ht-degree: 0%
@@ -25,7 +27,7 @@ Dit webinar zal een uitvoerig overzicht van het navigeren van de Adobe Admin Con
 
 * **het Overzicht van Adobe Admin Console** Admin Console is een gecentraliseerd platform voor het beheren van de Oplossingen van de Onderneming van Adobe, die met Creative Cloud, Document Cloud, en Experience Cloud integreren.
 
-* **Admins van het Beheer van de Gebruiker 0&rbrace; &lbrace;kunnen gebruikers toevoegen/verwijderen, producten toewijzen, en gebruikersgroepen beheren.** Het biedt ook ondersteuning voor SSL-functies voor beveiligde aanmelding.
+* **Admins van het Beheer van de Gebruiker 0} {kunnen gebruikers toevoegen/verwijderen, producten toewijzen, en gebruikersgroepen beheren.** Het biedt ook ondersteuning voor SSL-functies voor beveiligde aanmelding.
 
 * **Admins van het Beheer van het Product en van de Vergunning** kunnen vergunningen toewijzen en eigenschappen en de diensten voor gebruikers aanpassen.
 

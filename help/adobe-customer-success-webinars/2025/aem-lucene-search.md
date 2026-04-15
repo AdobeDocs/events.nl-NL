@@ -3,19 +3,20 @@ title: Essentiële tips en aanbevolen procedures voor AEM Lucene Search
 description: Verhoog de digitale betrokkenheid met geavanceerde AEM-zoekgereedschappen, zoals filters, facetten, automatische suggesties, NGram en spellingcontrole. Leer van echte demos.
 solution: Experience Manager
 feature: Search
+topic: Performance
 role: Admin, Developer
 level: Intermediate, Experienced
 doc-type: Event
 duration: 3630
 last-substantial-update: 2025-11-13T00:00:00Z
 jira: KT-19550
-source-git-commit: 84c9a126769fa94b0197d12ca594137e13edc510
+exl-id: 53d83139-90f4-4e6c-ba6d-66638c02b4c3
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '418'
+source-wordcount: '437'
 ht-degree: 0%
 
 ---
-
 
 # Essentiële tips en aanbevolen procedures voor AEM Lucene Search
 
@@ -29,7 +30,7 @@ Adobe Experience Manager (AEM) maakt gebruik van Lucene-zoekopdrachten voor snel
 
 * **het Onderzoek van Lucene is overal** Bevoegdheden onderzoek in de auteur, de uitgever, en portals van AEM, behandelend auto-suggesties, filters, facetten, en paginering.
 * **de Prestaties van de Aandrijving van de Definities van de Index** Het aanpassen van de indexdefinities van Oak is essentieel voor efficiënt, gericht onderzoek.
-* **Kopieer bestaande indexdefinities van de Aanpak van de Praktijken van 0&rbrace; &lbrace;, grens geïndexeerde eigenschappen, en gebruik de juiste vlaggen voor full-text en bezitsonderzoeken.**
+* **Kopieer bestaande indexdefinities van de Aanpak van de Praktijken van 0} {, grens geïndexeerde eigenschappen, en gebruik de juiste vlaggen voor full-text en bezitsonderzoeken.**
 * **de Geavanceerde Eigenschappen verbeteren UX** Gezichten, auto-suggereert, spellingcontrole, het opvoeren, en het stammen kunnen voor rijkere onderzoekservaringen worden toegelaten.
 
 Als u deze beginselen begrijpt, kunt u zorgen voor stabiele zoekmogelijkheden van hoge kwaliteit in AEM, waarmee u zowel technische als zakelijke doelstellingen ondersteunt.
@@ -60,4 +61,3 @@ De efficiënte onderzoeksoptimalisering in AEM Lucene impliceert strategische co
 * **het Sorteren &amp; Facets** laat propertyIndex en orde voor het sorteren toe; reeks facet** waar voor op telling-gebaseerd filtreren.
 
 Het toepassen van deze strategieën leidt tot snellere vragen, verminderd middelgebruik, en relevantere resultaten.
-

@@ -2,6 +2,7 @@
 title: Expert Insights - adoptie met Leslie Spier
 description: Leer adoptiestrategieën van Leslie Spier om de betrokkenheid van Workfront te bevorderen, processen te verbeteren, en gebruikersbijdragen te erkennen.
 feature: Strategic Planning
+topic: Administration, Integrations
 role: Admin, Developer, Leader, User
 speaker-name-1: Leslie Spier
 speaker-title-1: Customer Success Manager
@@ -11,13 +12,13 @@ doc-type: Event
 duration: 875
 last-substantial-update: 2025-08-20T00:00:00Z
 jira: KT-18615
-source-git-commit: 1df24f5fb68bbd4d37658b699e7ecb3fa1ef2444
+exl-id: 1e6c3720-61d1-4d6e-ac7e-85df816f9780
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '471'
+source-wordcount: '564'
 ht-degree: 0%
 
 ---
-
 
 # Expert Insights - adoptie met Leslie Spier
 
@@ -25,7 +26,7 @@ De adoptie is een onderwerp waar we regelmatig op terugkomen. In deze editie van
 
 Ik sluit me aan bij uw On-Demand Workfront CSM, omdat ik met Leslie praat over waarom adoptie zo&#39;n belangrijk onderwerp is, samen met een aantal van onze favoriete strategieën.
 
->[!VIDEO](https://video.tv.adobe.com/v/3469933/?learn=on&enablevpops&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3469893/?learn=on&enablevpops)
 
 ## Tips, advies en meer
 
@@ -52,12 +53,12 @@ Ik sluit me aan bij uw On-Demand Workfront CSM, omdat ik met Leslie praat over w
 
 ## Bronnen
 
-* Op zoek naar meer voorbeeld? Controle uit het [&#x200B; Communautaire Post van Experience League &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-august-2023-workfront-expert-insights-adoption-with-leslie/td-p/613314?profile.language=nl) voor meer ideeën die in de commentaren worden gedeeld!
-* [&#x200B; allen over Vervagen &#x200B;](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/blueprints/blueprints.html?lang=nl-NL)
-* [&#x200B; Laatste Rapport van de Nota &#x200B;](https://experienceleague.adobe.com/docs/workfront/using/basics/update-work-items-view-updates/view-all-updates-in-a-report.html?lang=nl-NL)
-* [&#x200B; voeg basis voorwaardelijke het formatteren aan een mening toe &#x200B;](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.html?lang=nl-NL)
-* [&#x200B; Toevoegend Dashboards aan het Linkerpaneel van de Navigatie &#x200B;](https://experienceleague.adobe.com/docs/workfront/using/basics/navigate/simplified-left-navigation.html?lang=nl-NL)
-* [&#x200B; Malplaatjes van de Lay-out - het spinnen &#x200B;](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/layout-templates/customize-pinned-pages.html?lang=nl-NL)
+* Op zoek naar meer voorbeeld? Controle uit het [ Communautaire Post van Experience League ](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-august-2023-workfront-expert-insights-adoption-with-leslie/td-p/613314) voor meer ideeën die in de commentaren worden gedeeld!
+* [Alles over blauwdrukken](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/blueprints/blueprints.html?lang=en)
+* [Laatste notitie](https://experienceleague.adobe.com/docs/workfront/using/basics/update-work-items-view-updates/view-all-updates-in-a-report.html?lang=en)
+* [Voorwaardelijke basisopmaak toevoegen aan een weergave](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.html?lang=en)
+* [Dashboards toevoegen aan het linkernavigatievenster](https://experienceleague.adobe.com/docs/workfront/using/basics/navigate/simplified-left-navigation.html?lang=en)
+* [Lay-outsjablonen - Vastzetten](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/layout-templates/customize-pinned-pages.html?lang=en)
 
 ## Over de spreker
 
@@ -65,4 +66,4 @@ Leslie Spier is een toegewijde klantenpleitbezorger met jarenlange ervaring die 
 
 ## Heb je iets te delen?
 
-Hebt u een geweldig verhaal om te delen, tijdens een gebeurtenis of in een video van Expert Insights? Gelieve te bereiken uit aan ons team in [&#x200B; CSatScale@adobe.com &#x200B;](mailto:CSatScale@adobe.com).
+Hebt u een geweldig verhaal om te delen, tijdens een gebeurtenis of in een video van Expert Insights? Gelieve te bereiken uit aan ons team in [ CSatScale@adobe.com ](mailto:CSatScale@adobe.com).

@@ -1,19 +1,22 @@
 ---
 title: Achter de BREW - Een volledige uitsplitsing van de Proactieve hulpmiddelen van de Controle
+solution: Commerce
+feature: Security, Cache
 description: Meld u aan bij ons om te leren hoe SWAT, Fastly en New Relic proactieve bewaking, efficiënte probleemdiagnose en continue systeemgezondheidstracering mogelijk maken voor optimale prestaties.
+topic: Performance
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3787
 last-substantial-update: 2025-06-12T00:00:00Z
 jira: KT-18156
-source-git-commit: a6dc33c7c991f949fd72539525e64af57520778f
+exl-id: 09353d41-314b-4551-b7e8-796ca665e14e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '113'
 ht-degree: 0%
 
 ---
-
 
 # Achter het brein: een volledige uitsplitsing van de proactieve bewakingsfuncties
 

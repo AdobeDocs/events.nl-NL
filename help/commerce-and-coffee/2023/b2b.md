@@ -2,6 +2,7 @@
 title: B2B-succes inschakelen
 description: Ontdek de geavanceerde B2B-functies van Adobe Commerce met Corey Gelato, waaronder gedeelde catalogus, aanhalingstekens, aanvraaglijsten en goedkeuringswerkstromen, en leer strategieën om de groei te stimuleren en concurrerend te blijven in het veranderende B2B-handelslandschap.
 solution: Commerce
+feature: B2B
 topic: Commerce
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -11,7 +12,7 @@ jira: KT-13688
 thumbnail: 3421687.jpeg
 exl-id: 38145136-4868-42ea-b279-7e74704e2b53
 duration: 3506
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 0%

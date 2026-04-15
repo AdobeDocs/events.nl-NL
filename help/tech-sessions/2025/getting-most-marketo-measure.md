@@ -3,6 +3,7 @@ title: De meesten uit Marketo Measure halen
 description: Optimaliseer Marketo Measure met de beste werkwijzen voor kanaaltoewijzing, segmentatie, aangepaste werkgebiedtoewijzing en onderdrukking van aanraakpunten. Gebruik specifieke regels, categoriseer gegevens en geef logischerwijze prioriteit aan fasen. Ongewenste aanraakpunten onderdrukken voor betere gegevens. Gebruik gereedschappen zoals boemerang-fasen en verstuur ondersteuningsgevallen voor complexe configuraties. Open de opname van de sessie op de pagina Adobe Experience.
 solution: Marketo Measure
 feature: Touchpoints, Channels, Segmentation
+topic: Development
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -10,9 +11,9 @@ duration: 3417
 last-substantial-update: 2025-03-14T00:00:00Z
 jira: KT-17542
 exl-id: 5e3ab998-9bb0-4b6d-a1bd-ec9f24789464
-source-git-commit: 848fa8fee05b315361781059eabb3b19904c78c2
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '358'
+source-wordcount: '360'
 ht-degree: 0%
 
 ---
@@ -35,7 +36,7 @@ Mis deze kans niet om van een expert te leren en uw Marketo Measure-expertise na
 * Gebruik specifieke regels boven en generieke regels onder aan de lijst met prioriteiten.
 * Gebruik speciale tekens zoals puntkomma&#39;s en sterretjes voor het maken van beknopte regels.
 
-### Segmentatie
+### Segmentering
 
 * Gebruik segmentatie om gegevens verder te categoriseren voor rapportage in CRM en Discover.
 * Veelvoorkomende gebruiksgevallen zijn segmentatie op basis van regio&#39;s en categorisering van de accountgrootte.

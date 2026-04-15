@@ -2,6 +2,7 @@
 title: Adobe Developers Live - 22 NOV - 10 belangrijkste tips om uw Adobe Experience Manager-site te versnellen
 description: De tien beste tips voor het versnellen van uw Adobe Experience Manager SiteEen geweldige ervaring is essentieel voor succes. In deze sessie delen we met u onze beste 10 tips en tips om uw ontwikkelaars te helpen uw Adobe Experience Manager-websites sneller te maken.
 solution: Experience Manager,Experience Manager Sites
+feature: Edge Delivery Services, Release Information, Authoring
 product: experience manager
 sub-product: sites
 topic: Development, Headless
@@ -13,7 +14,7 @@ kt: 11476
 thumbnail: 3411300.jpeg
 exl-id: 1281fada-aea9-41b0-a368-27e0483e974c
 duration: 2665
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 0%
@@ -24,4 +25,4 @@ ht-degree: 0%
 
 Geweldige ervaringsprestaties zijn essentieel voor succes van de ervaring. In deze sessie delen we met u onze beste 10 tips en tips om uw ontwikkelaars te helpen uw Adobe Experience Manager-websites sneller te maken.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457181/?quality=12&learn=on&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3411300/?quality=12&learn=on)

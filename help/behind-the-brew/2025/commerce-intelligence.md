@@ -1,6 +1,8 @@
 ---
 title: Adobe Commerce Intelligence (fka MBI)
 description: Transformeer uw eCommerce-gegevens naar ActionScript met aangepaste Adobe Commerce Intelligence-dashboards en -rapporten
+feature: Integration
+topic: Integrations, Performance, Commerce
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -8,9 +10,9 @@ duration: 3236
 last-substantial-update: 2025-01-25T00:00:00Z
 jira: KT-17169
 exl-id: 3d459527-e454-41fc-a952-0b36bb529184
-source-git-commit: 87945f25760d168144b852b88eb2a0b9a5021946
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '311'
 ht-degree: 0%
 
 ---

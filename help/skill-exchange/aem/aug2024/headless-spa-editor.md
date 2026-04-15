@@ -2,6 +2,8 @@
 title: Ontgrendel de Macht van Moderne SPAs in AEM - Hoofd en de Redactie van het KUUROORD
 description: Begrijpen van de grondbeginselen van de Toepassingen van de Enige Pagina die headless AEM onderzoeken en zijn integratie met front-end kaders Gebruikend de Redacteur van AEM SPA voor een gestroomlijnd ontwikkelingsproces Beste praktijken voor de bouw van, het opstellen van, en het beheren van SPAs in AEMDon missen deze kans om inzicht van een deskundige te krijgen en uw digitale strategie met moderne technieken van SPA in AEM op te tillen.
 solution: Experience Manager
+feature: Authoring
+topic: Headless, Integrations, Development
 role: Developer, User
 level: Intermediate, Experienced
 doc-type: Event
@@ -10,9 +12,9 @@ last-substantial-update: 2024-08-29T00:00:00Z
 jira: KT-16095
 exl-id: 7c9fbc23-b458-4d9c-ab38-0c9b032eb704
 hidefromtoc: true
-source-git-commit: 0c85d049a1d9771dc6d69ee6682c628e8dec12cf
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '194'
 ht-degree: 0%
 
 ---

@@ -4,6 +4,7 @@ description: De AEM Authoring Basics-sessie had betrekking op belangrijke concep
 solution: Experience Manager
 version: Experience Manager as a Cloud Service
 feature: Edge Delivery Services
+topic: Headless, Integrations
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -11,9 +12,9 @@ duration: 3248
 last-substantial-update: 2024-10-30T00:00:00Z
 jira: KT-16416
 exl-id: 5966c14a-7adb-48d8-bf20-9fb4a350745f
-source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '315'
+source-wordcount: '312'
 ht-degree: 0%
 
 ---
@@ -48,7 +49,7 @@ Erkenning van de uitdagingen bij het schalen van inhoud het produceren, zoals de
 
 Overzicht van verschillende ontwerpgereedschappen in AEM,
 
-* **Traditionele redacteur van de Redacteur van de Pagina 0&rbrace; &lbrace;voor het creëren van en het uitgeven van Web-pagina&#39;s. &#x200B;**
+* **Traditionele redacteur van de Redacteur van de Pagina 0} {voor het creëren van en het uitgeven van Web-pagina&#39;s.**&#x200B;
 * **de Redacteur van het Fragment van de Inhoud** voor het creëren van inhoud zonder kop die over verschillende kanalen kan worden opnieuw gebruikt. &#x200B;
 * **Universele Redacteur** een moderne UI voor inhoudsverwezenlijking die zowel de inhoud van AEM als behoorlijk van instrumenten voorzien externe inhoud steunt. &#x200B;
 * **op document-Gebaseerde Authoring** staat inhoudsverwezenlijking toe gebruikend vertrouwde hulpmiddelen zoals Microsoft Word of Google Docs, die met de werkschema&#39;s van AEM worden geïntegreerd. &#x200B;

@@ -2,6 +2,8 @@
 title: Uw Adobe Analytics-gordel beheren
 description: Leer van een Adobe-expert die u door strategieën en praktijkvoorbeelden begeleidt om uw gebruik van Analysis Workspace te bevorderen. In deze sessie leert u hoe u uw analyse naar het volgende niveau kunt brengen en demo's van de nieuwste functies in Adobe Analytics kunt bekijken om u te helpen bij het maken van uw verhaal voor de klant.
 solution: Analytics
+feature: Analysis Workspace
+topic: Migration, Integrations
 role: User
 level: Intermediate, Experienced
 doc-type: Event
@@ -10,7 +12,7 @@ kt: 11535
 thumbnail: 3411894.jpeg
 exl-id: b721d878-7346-4e78-af03-1a4a85c5ae9b
 duration: 2921
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 0%

@@ -1,19 +1,21 @@
 ---
 title: Belangrijkste redenen voor bronnenpools
 description: Ontdek creatieve manieren om bronnenpools in Adobe Workfront te gebruiken voor efficiënt projectbeheer en rapportage.
+feature: Reports and Dashboards, Strategic Planning
+topic: Administration, Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 271
 last-substantial-update: 2025-12-17T00:00:00Z
 jira: KT-18648
-source-git-commit: 9f3e518295eaf64776880ba0442eb8a1b8d645e4
+exl-id: f0f8a3ea-d7db-47b0-ba63-b25cbfb7ca15
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '177'
-ht-degree: 1%
+source-wordcount: '210'
+ht-degree: 0%
 
 ---
-
 
 # Drie belangrijkste redenen voor bronnenpools
 
@@ -29,7 +31,5 @@ Aan de slag met bronnenpools? Ten eerste: wat zijn ze?
 
 ## Aanvullende bronnen
 
-* Voor meer info, controleer uit het [&#x200B; artikel van het het overzichtsartikel van de Groepen van het Middel &#x200B;](https://experienceleague.adobe.com/nl/docs/workfront/using/manage-resources/resource-planning-in-adobe-workfront/resource-pools/work-with-resource-pools).
-* Op zoek naar meer? Controle uit de [&#x200B; Communautaire post van Experience League &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-for-resource-pools/td-p/663866?profile.language=nl)!
-
-
+* Voor meer info, controleer uit het [ artikel van het het overzichtsartikel van de Groepen van het Middel ](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/resource-planning-in-adobe-workfront/resource-pools/work-with-resource-pools).
+* Op zoek naar meer? Controle uit de [ Communautaire post van Experience League ](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-for-resource-pools/td-p/663866)!

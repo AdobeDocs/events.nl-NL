@@ -1,6 +1,7 @@
 ---
-title: Expert Insights - Content Supply Chain with Corre Kombol
-description: Leer deskundige strategieën van Corre Kombol bij het optimaliseren van uw inhoudsleveringsketen met de oplossingen van Adobe. Verhoog de efficiëntie, de samenwerking en de resultaten.
+title: Expert Insights - Content Supply chain met Corre Kombol
+description: Leer deskundige strategieën van Corre Kombol bij het optimaliseren van uw inhoud supply chain met de oplossingen van Adobe. Verhoog de efficiëntie, de samenwerking en de resultaten.
+feature: Strategic Planning
 topic: Content Supply Chain
 speaker-name-1: Corre Kombol
 speaker-title-1: Principal Customer Success Manager
@@ -12,18 +13,18 @@ duration: 801
 last-substantial-update: 2025-08-19T00:00:00Z
 jira: KT-18621
 exl-id: f8600288-a19b-440c-b60d-94078014353e
-source-git-commit: 2f10210e5c92e5c1bf77c886ed347cdc967f089e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '357'
+source-wordcount: '398'
 ht-degree: 0%
 
 ---
 
-# Expert Insights - Content Supply Chain with Corre Kombol
+# Expert Insights - Content Supply chain met Corre Kombol
 
 Welkom terug bij Expert Insights!  Ik ben Cynthia Boon, uw &quot;On-Demand&quot; Workfront Customer Success Manager (CSM), en in deze uitzending zijn we aangesloten bij Corre Kombol, een Belangrijkste manager voor succes van de Klant hier in Adobe!  
 
-Corre is een echt strategische CSM die het tempo voor ons plaatst op hoe te om de Oplossingen van Adobe te gebruiken om de inspanningen van de Keten van de Levering van de Inhoud van uw organisatie te steunen. 
+Corre is een echt strategische CSM die het tempo voor ons op hoe te om de Oplossingen van Adobe te gebruiken om de Inhoudsinspanningen van Supply chain van uw organisatie te steunen plaatst. 
 
 ## Advies van Corre
 
@@ -31,19 +32,19 @@ Corre is een echt strategische CSM die het tempo voor ons plaatst op hoe te om d
 * Begin door uw punten van procesverf te identificeren en ga van daar weg. Laat de technologie de doelstelling niet overweldigen.
 * Verbind met andere klanten die op een gelijkaardige reis in de Gemeenschap of bij Gebeurtenissen zijn! 
 
->[!VIDEO](https://video.tv.adobe.com/v/3470000/?learn=on&enablevpops&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3469899/?learn=on&enablevpops)
 
 ## Bronnen
 
 ### Topsessies
 
-* [&#x200B; hoe Adobe zijn Keten van de Levering van de Inhoud optimaliseerde - S316 &#x200B;](https://business.adobe.com/nl/summit/2024/sessions/how-adobe-optimized-its-content-supply-chain-s316.html): Onderzoek de benadering van Adobe om zijn Keten van de Levering van de Inhoud over zijn eigen marketing org op te stellen 
-* [&#x200B; Revolutionerende Productie van Inhoud met Adobe - S305 &#x200B;](https://business.adobe.com/nl/summit/2024/sessions/revolutionizing-content-production-with-adobe-s305.html) : Ontdek hoe Adobe uw leveringsketen van de inhoudslevering kan maximaliseren en uw creatieve werkschema kan versnellen 
+* [ hoe Adobe zijn Inhoud Supply chain - S316 ](https://business.adobe.com/summit/2024/sessions/how-adobe-optimized-its-content-supply-chain-s316.html) optimaliseerde: Onderzoek de benadering van Adobe om zijn Inhoud Supply chain over zijn eigen marketing organisatie op te stellen 
+* [ Revolutionerende Productie van Inhoud met Adobe - S305 ](https://business.adobe.com/summit/2024/sessions/revolutionizing-content-production-with-adobe-s305.html) : Ontdek hoe Adobe uw inhoud supply chain kan maximaliseren en uw creatieve werkschema kan versnellen 
 
 ### Productdemo&#39;s
 
-* [&#x200B; Workfront &#x200B;](https://business.adobe.com/nl/product-demos/workfront/interactive-tour.html) - omdat een interactieve [ productdemo ] nodig is om het werkingsgebied van te illustreren wat binnen onze oplossing van het ondernemingswerkbeheer kan bestaan.  
-* [&#x200B; GenStudio &#x200B;](https://business.adobe.com/nl/resources/sdk/getting-started-with-adobe-genstudio.html) - ik hou van hoe uitgebreid dit voor onze klanten is beginnen hun behoeften aan oplossingen te binden die vandaag bij Adobe bestaan.
+* [ Workfront ](https://business.adobe.com/product-demos/workfront/interactive-tour.html) - omdat een interactieve [ productdemo ] nodig is om het werkingsgebied van te illustreren wat binnen onze oplossing van het ondernemingswerkbeheer kan bestaan.  
+* [ GenStudio ](https://business.adobe.com/resources/sdk/getting-started-with-adobe-genstudio.html) - ik hou van hoe uitgebreid dit voor onze klanten is beginnen hun behoeften aan oplossingen te binden die vandaag bij Adobe bestaan.
 
 ## Over de spreker 
 
@@ -53,4 +54,4 @@ Zij is bekwaam in het identificeren van klantenbehoeften, het ontwikkelen van aa
 
 ## Heb je iets te delen?
 
-Hebt u een geweldig verhaal om te delen, tijdens een gebeurtenis of in een video van Expert Insights? Gelieve te bereiken uit aan ons team in [&#x200B; CSatScale@adobe.com &#x200B;](mailto:CSatScale@adobe.com).
+Hebt u een geweldig verhaal om te delen, tijdens een gebeurtenis of in een video van Expert Insights? Gelieve te bereiken uit aan ons team in [ CSatScale@adobe.com ](mailto:CSatScale@adobe.com).

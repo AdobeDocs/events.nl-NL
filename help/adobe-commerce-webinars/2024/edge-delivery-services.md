@@ -2,6 +2,8 @@
 title: Bliksemsnelheid - Adobe's Edge Delivery Service
 description: In de APAC Commerce Webinar Series van augustus verwelkomen we Kamalesh Radhakrishnan, Senior Solutions Consultant, om een overzicht van Bliksem Speed te delen met de Edge Delivery Service van Adobe.Bied iedereen de mogelijkheid om inhoud te maken met AI en te experimenteren en uitzonderlijke digitale ervaringen te leveren met bliksemsnelheid.
 solution: Commerce
+feature: Integration, Edge Delivery Services
+topic: Integrations, Performance, Commerce
 role: Developer, User
 level: Intermediate, Experienced
 doc-type: Event
@@ -9,9 +11,9 @@ duration: 2650
 last-substantial-update: 2024-09-03T00:00:00Z
 jira: KT-16131
 exl-id: dbdda6ae-335c-45db-8090-62eaf0385ad7
-source-git-commit: 8bcf45a53f15844f4aa101e0267b63dff0858ac8
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '398'
+source-wordcount: '397'
 ht-degree: 0%
 
 ---
@@ -55,7 +57,7 @@ Maakt gebruik van basisvaardigheden voor webontwikkeling (CSS en JavaScript), wa
 
 ### Verbeterde SEO en biologisch verkeer
 
-Verbeterde siteprestaties en snellere laadtijden dragen bij tot een betere optimalisatie van zoekprogramma&#39;s. &#x200B;
+Verbeterde siteprestaties en snellere laadtijden dragen bij tot een betere optimalisatie van zoekprogramma&#39;s (SEO). &#x200B;
 Hogere Google Lighthouse Scores kunnen leiden tot meer organisch verkeer en een betere indexering van zoekprogramma&#39;s. &#x200B;
 
 ### Flexibiliteit en schaalbaarheid

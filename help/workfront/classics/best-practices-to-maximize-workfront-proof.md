@@ -1,14 +1,16 @@
 ---
 title: Vraag het de Expert - Beste praktijken om Workfront Proof te maximaliseren
 description: Leer hoe te om montages te vormen, grote rapportering toe te laten, en gemeenschappelijke valkuilen in Bewijs te vermijden. Dit webinar werd geregistreerd op 26 februari 2020.
+feature: Reports and Dashboards, System Setup and Administration
+topic: Administration, Integrations
 doc-type: feature video
 team: Technical Marketing
 kt: 9916
 exl-id: 7d3e437d-4a6e-44b8-9eff-eabb8284c391
 duration: 5182
-source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '5572'
+source-wordcount: '5588'
 ht-degree: 0%
 
 ---
@@ -257,7 +259,7 @@ U kunt een samenvattingsrapport van de Druk voor uw proefdrukken openen en downl
 
 **Vraag**
 
-Wanneer gebruikers om toegang wordt gevraagd tot ProefHQ, zal dit hen ook toegang tot de sectie op de linkerzijde (d.w.z. geven. workflows, contactpersonen, accountinstellingen, enz.)?
+Zullen gebruikers die om toegang vragen tot ProefHQ toegang hebben, zullen zij dan ook toegang tot de sectie op de linkerzijde (d.w.z. werkschema&#39;s, contacten, rekeningsmontages, enz.) geven?
 
 **Antwoord**
 
@@ -313,7 +315,7 @@ Ja. Als u een bewijs verwijdert dat het binnen de prullenbak van de bijbehorende
 
 **Vraag**
 
-Is er een manier om een nieuw besluit in werking te stellen als de andere gebruiker met veranderingen verwerpt of goedkeurt. ie. Bewijs dat de projectmanager iets ziet, zal een nieuw besluit moeten nemen... zelfs als zij het reeds bekeken en goedgekeurd. (probeert de proj manager niet te maken op het proeflezen van diepte hoeven wachten om hun overzicht te doen)?
+Is er een manier om een nieuw besluit in werking te stellen als de andere gebruiker met veranderingen verwerpt of goedkeurt. Met andere woorden, de projectmanager moet een nieuw besluit nemen, ook al hebben ze het al bekeken en goedgekeurd. (probeert de proj manager niet te maken op het proeflezen van diepte hoeven wachten om hun overzicht te doen)?
 
 **Antwoord**
 

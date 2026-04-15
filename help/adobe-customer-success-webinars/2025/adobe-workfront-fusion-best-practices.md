@@ -3,19 +3,20 @@ title: Adobe Workfront Fusion Basics & Best Practices
 description: Leer de basisbeginselen van Workfront Fusion om workflows te automatiseren, de productiviteit te verhogen en tools te integreren met low-code oplossingen, sjablonen en best practices.
 solution: Workfront
 feature: Workfront Fusion
+topic: Integrations, Development
 role: Developer
 level: Intermediate
 doc-type: Event
 duration: 3397
 last-substantial-update: 2025-05-08T00:00:00Z
 jira: KT-18020
-source-git-commit: cfc7b54ae4360779ca2c41f88fc08089bae99165
+exl-id: 18a91af4-5c21-4f69-ac04-5d8189528fce
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '244'
 ht-degree: 0%
 
 ---
-
 
 # Adobe Workfront Fusion Basics &amp; Best Practices
 
@@ -40,4 +41,3 @@ In deze sessie introduceert u de basisbeginselen van Adobe Workfront Fusion, lee
 * **de dienstrekeningen van het Gebruik van Beste praktijken** voor de verbindingen van de Fusie in plaats van persoonlijke rekeningen, handhaaft juiste noemende overeenkomsten, en schoont periodiek ongebruikte scenario&#39;s, verbindingen, en websites op om rommelige te vermijden.
 
 * **Malplaatjes en het Leren** malplaatjes van de Fusie zijn een groot uitgangspunt voor nieuwe gebruikers om te leren hoe te om scenario&#39;s effectief te bouwen. Ze bieden vooraf gedefinieerde workflows die kunnen worden aangepast aan specifieke behoeften.
-

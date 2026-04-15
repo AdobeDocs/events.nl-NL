@@ -1,19 +1,21 @@
 ---
 title: Dynamische publicatie op de Edge met BYOM
 description: Ontdek hoe BYOM en App Builder de levering van dynamische inhoud aan de rand mogelijk maken en de digitale ervaringen met Adobe Experience Manager en Edge Delivery verbeteren.
+feature: Edge Delivery Services, Developer Tools, Authoring
+topic: Development
 role: Developer, User
 level: Beginner, Intermediate
 doc-type: Event
 duration: 1372
 last-substantial-update: 2025-12-11T00:00:00Z
 jira: KT-19986
-source-git-commit: 76b4e64093ebad269534b65c41c4bda1a6bb468f
+exl-id: ff1da36d-31ae-4feb-9d1d-87be65b7307e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '224'
 ht-degree: 0%
 
 ---
-
 
 # Dynamische publicatie op de Edge met BYOM en App Builder
 
@@ -27,5 +29,5 @@ In het bijzonder dank ik onze sponsors Algolië en Ensemble voor hun steun aan A
 
 ## Volgende stappen
 
-* Ga op [&#x200B; Experience League &#x200B;](https://adobe.ly/47ss08A) verder
-* Ontdek [&#x200B; aanstaande gebeurtenissen &#x200B;](https://developerevents.adobe.com)
+* Ga op [ Experience League ](https://adobe.ly/47ss08A) verder
+* Ontdek [ aanstaande gebeurtenissen ](https://developerevents.adobe.com)

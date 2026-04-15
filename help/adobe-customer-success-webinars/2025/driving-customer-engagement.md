@@ -2,6 +2,8 @@
 title: De betrokkenheid van klanten in de ruimte van de Lagen aandrijven
 description: Ontdek hoe AEM Forms de betrokkenheid van klanten in de zorgverzekeringssector omwentelt door de verwerking van claims en de inschrijving van klanten te stroomlijnen, de conversie, efficiëntie en naleving te verbeteren.
 solution: Experience Manager Forms
+feature: Edge Delivery Services, Core Components
+topic: Artificial Intelligence, Headless, Integrations
 role: Developer, Leader, User
 level: Beginner, Intermediate
 doc-type: Event
@@ -9,9 +11,9 @@ duration: 3077
 last-substantial-update: 2025-02-07T00:00:00Z
 jira: KT-17266
 exl-id: 29b18954-f53a-4273-8852-0e42fb9477e9
-source-git-commit: a5112a81216059cfa3f362eb3a7882801c8a001a
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '274'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
@@ -28,7 +30,7 @@ Ontdek een inzichtelijke sessie die laat zien hoe AEM Forms de betrokkenheid van
 
 * **de Mogelijkheden van de vormen van AEM Forms** AEM drijven operationele efficiency en uitzonderlijke gebruikerservaring door organisaties toe te laten om vormen aan schaal te schrijven, werkschema&#39;s te automatiseren, en omnichannel ervaringen te leveren. Dit leidt tot hogere omzettings en inschrijvingstarieven, verminderde vorm verlaten, en verhoogde teamproductiviteit.
 
-* **AEM Forms van de Oplossing van begin tot eind 1&rbrace; verstrekt een oplossing van begin tot eind die omnichannel vormen, geautomatiseerde werkschema&#39;s, en interactieve klantenmededelingen omvat.** De oplossing is geïntegreerd met Adobe Experience Cloud en verbetert de algehele gebruikerservaring en operationele efficiëntie.
+* **AEM Forms van de Oplossing van begin tot eind 1} verstrekt een oplossing van begin tot eind die omnichannel vormen, geautomatiseerde werkschema&#39;s, en interactieve klantenmededelingen omvat.** De oplossing is geïntegreerd met Adobe Experience Cloud en verbetert de algehele gebruikerservaring en operationele efficiëntie.
 
 * **de Innovaties en de Integraties** Recente innovaties omvatten leveringsdiensten voor betere prestaties, koploze adaptieve vormen voor omnichannel levering, en nieuwe schakelaars voor integratie met systemen zoals OneDrive, Macht Automate, Salesforce, en Workfront. Voorbeelden van functies voor vroege toegang zijn Gen AI-assistent, Marketo-connector en conversationele formulieren.
 

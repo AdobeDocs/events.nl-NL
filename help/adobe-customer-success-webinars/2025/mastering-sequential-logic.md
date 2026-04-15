@@ -1,22 +1,24 @@
 ---
-title: Het beheersen van Opeenvolgende Logica in AA en CJA - een Visueel Kader
-description: Leer om opeenvolgende logica in Adobe Analytics en Customer Journey Analytics met een visueel kader te beheersen voor het vertalen van scenario's in uitvoerbare plannen en het bouwen van efficiënte opeenvolgende segmenten.
+title: Sequentiële logica volgen in AA en CJA - Een visueel raamwerk
+description: Leer sequentiële logica in Adobe Analytics en Customer Journey Analytics met een visueel kader voor het vertalen van scenario's in uitvoerbare plannen en het bouwen van efficiënte opeenvolgende segmenten.
 solution: Analytics
+feature: Segmentation, Visualizations
+topic: Migration, Integrations
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
 duration: 3331
 last-substantial-update: 2025-01-31T00:00:00Z
 jira: KT-17216
-source-git-commit: 1cfa9cdb0e973e6d088b1faeaa63539b0a7fba36
+exl-id: c0cc6c9d-863b-4651-8d0e-d05c7813c285
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '275'
 ht-degree: 0%
 
 ---
 
-
-# Opeenvolgende logica beheren in AA en CJA: een visueel raamwerk
+# Mastering Sequential Logic in AA en CJA: Een Visual Framework
 
 Verkrijg een visueel kader om uw opeenvolgende analysescenario&#39;s in een plan te vertalen en dan de juiste opeenvolgende segmenten (filters) te bouwen.
 

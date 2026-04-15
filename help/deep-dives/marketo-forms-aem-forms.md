@@ -1,19 +1,21 @@
 ---
 title: Wie is het in welke vorm? Diep duiken op Marketo-formulieren in vergelijking met AEM Forms
 description: Integreer Marketo en AEM Forms voor persoonlijke ervaringen zoals aangepaste PDF's. AEM Forms verwerkt complexe formulieren met realtime validatie en gecentraliseerd beheer.
+feature: Programs, Reporting
+topic: Personalization, Integrations
 role: Developer, User
 level: Beginner, Intermediate
 doc-type: Event
 duration: 2753
 last-substantial-update: 2025-03-04T00:00:00Z
 jira: KT-17434
-source-git-commit: b846c1d38ce66dd6d4223d44964eebf1ccc7144c
+exl-id: 44986108-d59e-4729-bfa5-4cb3adb3719e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '351'
 ht-degree: 0%
 
 ---
-
 
 # Wie is het in welke vorm? Diep duiken op Marketo-formulieren in vergelijking met AEM Forms
 

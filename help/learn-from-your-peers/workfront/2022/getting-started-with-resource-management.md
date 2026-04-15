@@ -2,6 +2,7 @@
 title: Aan de slag met webinar voor middelenbeheer
 description: Leer van uw collega's over het gebruik van Adobe Workfront voor bronbeheer. Ontdek tips van experts op het gebied van de functie Bronnen, Workload Balancer en succesvolle implementatie in ons webinar op aanvraag.
 feature: Get Started with Workfront
+topic: Administration, Integrations
 role: Admin
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -10,16 +11,16 @@ duration: 3629
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15816
 exl-id: 8d1b25a6-1224-4158-9f67-7997b6cf2e67
-source-git-commit: dc8346b9341c7413a7c9571667f6cf0bb5914dd5
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---
 
 # Aan de slag met resourcebeheer
 
-Het gebruik van Adobe Workfront voor het beheer van uw bronnen is de DREAM - wetend het werk dat moet worden gedaan, welke middelen u kunt toegang hebben, en hen (nauwkeurig!) toewijst die op hun beschikbaarheid wordt gebaseerd. En dat is absoluut een realiteit! Honderden klanten van Workfront doen dit elke dag.
+Het gebruik van Adobe Workfront voor het beheer van uw bronnen is de DREAM - wetend het werk dat moet worden gedaan, welke middelen u kunt toegang hebben, en toewijst hen (nauwkeurig!) op basis van hun beschikbaarheid. En dat is absoluut een realiteit! Honderden klanten van Workfront doen dit elke dag.
 
 In dit webinar op aanvraag, Corinna Jevons, Senior Customer Success Architect in Adobe Workfront, en Elliot Leson, Director of Operations bij Big Red Rooster, die zal delen:
 

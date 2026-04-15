@@ -1,19 +1,21 @@
 ---
 title: Lichten, gegevens, Insight - het artikel achter elke reis zichtbaar maken
 description: Leer hoe AEP en CJA gegevens verenigen, identiteiten stichten en inzichten activeren voor realtime personalisatie en slimmere klantreizen.
+feature: Basics, Use Cases
+topic: Personalization, Integrations, Security
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 0
 last-substantial-update: 2025-09-04T00:00:00Z
 jira: KT-18811
-source-git-commit: 124b52203b98a80dd9202dab1b0dbe575475a52b
+exl-id: 31d09a38-1410-4301-b46f-174e7bd6ac7c
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '295'
 ht-degree: 0%
 
 ---
-
 
 # Lichten, gegevens, Insight: het artikel achter elke reis onthullen
 
@@ -38,7 +40,7 @@ Deze benadering biedt slimmere beslissingen en betere resultaten voor de klant, 
 ## Gegevens voor naadloze reizen structureren
 
 * **XDM Schema** bepaalt gegevensstructuur, gebieden, en verhoudingen voor verenigde profielen.
-* **Precieze implementatie van de Opstelling van SDK van 0&rbrace; Web &lbrace;via markeringsmanager, gebeurtenis het volgen, en toestemmingsbeheer verzekert betrouwbare gegevensinzameling.**
+* **Precieze implementatie van de Opstelling van SDK van 0} Web {via markeringsmanager, gebeurtenis het volgen, en toestemmingsbeheer verzekert betrouwbare gegevensinzameling.**
 * **Privacy &amp; Governance** integreer toestemmingsbeheer en regelgevende naleving van het begin.
 * **het Testen &amp; Bevestiging** het zuiveren hulpmiddelen van het Gebruik en een test-en-leer benadering om gegevensnauwkeurigheid en scalability te verzekeren.
 * **verenigde stichting van Gegevens van de Activering** laat inzicht in real time en dwars-kanaalverpersoonlijking toe.

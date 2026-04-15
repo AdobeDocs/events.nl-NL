@@ -1,15 +1,17 @@
 ---
 title: Marketingkanalen en kenmerkmodellen
 description: Ontgrendel de kracht van Adobe Analytics-marketingkanalen instellen en gebruik maken van kenmerkmodellen met behulp van professionele begeleiding
+feature: Segmentation
+topic: Personalization, Security
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3494
 last-substantial-update: 2025-01-25T00:00:00Z
 jira: KT-17164
 exl-id: bdfa9338-f9ef-4bbc-8afb-7fa63305b2f6
-source-git-commit: 87945f25760d168144b852b88eb2a0b9a5021946
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '422'
+source-wordcount: '426'
 ht-degree: 0%
 
 ---
@@ -23,7 +25,7 @@ Op deze sessie van Data Drip neemt Adobe Business Advisor, Taylor Walker, ons al
 *Presentatoren*
 
 * **Alana Cohen** Digitale Manager van Gebeurtenissen in Adobe.
-* **Bedrijfs Adviseur van de Leider van Taylor van 0&rbrace; &lbrace;op het Adviserende Team van de Klant van Adobe.**
+* **Bedrijfs Adviseur van de Leider van Taylor van 0} {op het Adviserende Team van de Klant van Adobe.**
 * **Vishnu** de Adviseur van Oplossingen concentreert zich op verpersoonlijkings en analytische strategieën.
 
 ## Agenda
@@ -47,7 +49,7 @@ Op deze sessie van Data Drip neemt Adobe Business Advisor, Taylor Walker, ons al
 
 * **de In de handel brengende Kanalen**
 
-   * **Verschillende wegen voor 1&rbrace; biologisch onderzoek van het plaatsverkeer, betaalde advertenties, sociale media, e-mailmarketing.**
+   * **Verschillende wegen voor 1} biologisch onderzoek van het plaatsverkeer, betaalde advertenties, sociale media, e-mailmarketing.**
    * **drie types van externe verkeersdimensies** marketing kanalen, verkeersbronnen, campagne rapportering.
    * **Standaard kanalen die door Adobe** worden geadviseerd betaalde onderzoek, natuurlijk onderzoek, e-mail, vertoning, filiaal, sociale netwerken, intern, direct, verwijzende domeinen.
 

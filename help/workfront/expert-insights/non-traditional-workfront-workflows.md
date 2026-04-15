@@ -2,6 +2,7 @@
 title: Expert Insights - Niet-traditionele Workfront Workflows met Kiersten Kollins
 description: Ontdek hoe Kiersten Kollins van DSW niet-traditionele Adobe Workfront-workflows, aangepaste rapportering en Fusion-automatisering gebruikt om marketingactiviteiten te optimaliseren en de efficiëntie van het team te verhogen.
 feature: Work Management
+topic: Performance, Development
 speaker-name-1: Kiersten Kollins
 speaker-title-1: Senior Marketing Ops Technologist
 speaker-company-1: DSW
@@ -12,9 +13,9 @@ duration: 1129
 last-substantial-update: 2025-08-08T00:00:00Z
 jira: KT-18622
 exl-id: a67e7d79-fbfa-4268-9418-98fe977e13f3
-source-git-commit: 2f10210e5c92e5c1bf77c886ed347cdc967f089e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '386'
+source-wordcount: '407'
 ht-degree: 0%
 
 ---
@@ -33,11 +34,11 @@ U zult verbaasd zijn over alle fantastische ideeën die zij deelt, zoals: 
 * Creative Brief-revisies starten om tegemoet te komen aan de behoeften van hun gebruikers en projecten. 
 * *BONUS!* Ze deelt ook een voorbeeld van een van haar favoriete Fusion use cases!
 
->[!VIDEO](https://video.tv.adobe.com/v/3469945/?learn=on&enablevpops&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3469900/?learn=on&enablevpops)
 
 ## Bronnen
 
-Tijdens de gebeurtenis, vermeldde Kiersten twee middelen die wij aan [&#x200B; Communautaire Post van Experience League &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-august-2024-workfront-expert-insights-non-traditional/td-p/694315?profile.language=nl) hebben vastgemaakt.
+Tijdens de gebeurtenis, vermeldde Kiersten twee middelen die wij aan [ Communautaire Post van Experience League ](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-august-2024-workfront-expert-insights-non-traditional/td-p/694315) hebben vastgemaakt.
 * **Rapport van het Voorbeeld** - Taak die na BedrijfsUren meldt 
 * **de Terugkoppeling die van DSW Guardrails** verplettert is dit een fantastisch voorbeeld van hoe te om uw gebruikers te leren hoe te om updates in Workfront te verstrekken! 
 
@@ -49,4 +50,4 @@ Met meer dan tien jaar ervaring in het verhandelen van creatieve en operationele
 
 ## Heb je iets te delen?
 
-Hebt u een geweldig verhaal om te delen, tijdens een gebeurtenis of in een video van Expert Insights? Gelieve te bereiken uit aan ons team in [&#x200B; CSatScale@adobe.com &#x200B;](mailto:CSatScale@adobe.com).
+Hebt u een geweldig verhaal om te delen, tijdens een gebeurtenis of in een video van Expert Insights? Gelieve te bereiken uit aan ons team in [ CSatScale@adobe.com ](mailto:CSatScale@adobe.com).

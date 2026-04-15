@@ -1,30 +1,32 @@
 ---
-title: Doel Personalization - Aan de slag met Recommendations en rubriekaffiniteit
-description: Leer hoe u een sterke basis kunt leggen om aan de slag te gaan met Recommendations. Ontvang een beter inzicht in de algoritmen die Recs macht, en hoe te om Recs met succes te gebruiken.
+title: Doel Personalization - Aan de slag met aanbevelingen en rubriekaffiniteit
+description: Leer hoe u een sterke basis kunt opbouwen om aan de slag te gaan met aanbevelingen. Ontvang een beter inzicht in de algoritmen die Recs macht, en hoe te om Recs met succes te gebruiken.
 solution: Target
+feature: Segments, Profiles
+topic: Personalization, Performance
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
 duration: 1932
 last-substantial-update: 2024-08-28T00:00:00Z
 jira: KT-16034
-source-git-commit: 87a01d0a4002a35bf538c6ac32ee6631c38f25c0
+exl-id: 037f8493-dc3e-4af6-8a2b-76877a7611ce
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '342'
+source-wordcount: '345'
 ht-degree: 0%
 
 ---
 
+# Doel Personalization: Aan de slag met aanbevelingen en rubriekaffiniteit
 
-# Doel Personalization: Aan de slag met Recommendations en rubriekaffiniteit
-
-Leer hoe u een sterke basis kunt leggen om aan de slag te gaan met Recommendations. Ontvang een beter inzicht in de algoritmen die Recs macht, en hoe te om Recs met succes te gebruiken.
+Leer hoe u een sterke basis kunt opbouwen om aan de slag te gaan met aanbevelingen. Ontvang een beter inzicht in de algoritmen die Recs macht, en hoe te om Recs met succes te gebruiken.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3432999/?learn=on)
 
 ## Toetsen
 
-* Recommendations in Rex biedt personalisatie op schaal, waarmee u intelligente aanbevelingen kunt doen voor honderden of duizenden items op basis van gekozen algoritmen zoals op gedrag gebaseerde, op populariteit gebaseerde, op inhoud gelijksoortigheid en meer.
+* De aanbevelingen in Rex bieden verpersoonlijking bij schaal aan, die voor intelligente aanbevelingen van honderden of duizenden punten toestaat die op gekozen algoritmen zoals op gedrag-gebaseerd, op populariteit-gebaseerde, inhoudgelijkenis, en meer worden gebaseerd.
 * Rex verstrekt aanpassingsopties zoals het rangschikken, het wegen, uitsluitingsregels, en meer, die tot het een sterk hulpmiddel maken voor gepersonaliseerde koopvaardijcontrole.
 * Rex is ideaal voor het aanbevelen van een groot aantal producten of inhoudsonderdelen voor duizenden of miljoenen items en biedt persoonlijke aanbevelingen op basis van gebruikersprofielen.
 * Rex kan niet geschikt zijn voor scenario&#39;s met een klein aantal aanbiedingen, snel veranderende cataloguspunten, lage interactiefrequentie, of wanneer de verpersoonlijking hoofdzakelijk op gebruikerskenmerken zoals loyaliteitssegment of geografie gebaseerd is.

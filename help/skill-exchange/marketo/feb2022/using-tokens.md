@@ -2,13 +2,15 @@
 title: Schaalbaarheid en efficiëntie met tokens in  [!DNL Marketo Engage]
 description: Leer hoe te om tekenen voorbij verpersoonlijking te gebruiken om uw programma te maken en verrichtingen efficiënter in  [!DNL Marketo Engage] bouwen.
 solution: Marketo Engage
+feature: Programs, Reporting
+topic: Personalization
 role: User
 level: Beginner
 kt: 9770
 thumbnail: 340593.jpeg
 exl-id: 529a09c2-8122-4d1c-a4a5-0fcfb3406b04
 duration: 3010
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 0%

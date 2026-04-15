@@ -1,19 +1,21 @@
 ---
 title: Workfront Pro Tips voor Bestuur, Uitvoering, en Goedkeuring
 description: Tips, trucs, trucs en geheimen om het overzicht en de activiteiten van uw Workfront-exemplaar te verbeteren.
+feature: System Setup and Administration
+topic: Performance, Administration
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3619
 last-substantial-update: 2025-12-02T00:00:00Z
 jira: KT-19783
-source-git-commit: 2a5336b19f61bb0e1c48311b36c76c4a0967c410
+exl-id: f774f9d9-25c5-4e07-9d12-d90b6ac73c92
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '158'
-ht-degree: 0%
+source-wordcount: '205'
+ht-degree: 1%
 
 ---
-
 
 # Workfront Pro Tips voor Bestuur, Uitvoering, en Goedkeuring
 
@@ -23,12 +25,8 @@ Met de nadruk op bestuur (denk noemende overeenkomsten), uitvoering (processen &
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477132/?learn=on&enablevpops)
 
-Als je niet in staat was om live te gaan, maakt u zich geen zorgen. Herzie het [&#x200B; diafeck &#x200B;](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Workfront+Pro+Tips+for+Governance%2C+Execution+and+Adoption+-+October+8%2C+2025.pdf) en bekijk de opname op bestelling om langs te volgen.
+Als je niet in staat was om live te gaan, maakt u zich geen zorgen. Herzie het [ diafeck ](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Workfront+Pro+Tips+for+Governance%2C+Execution+and+Adoption+-+October+8%2C+2025.pdf) en bekijk de opname op bestelling om langs te volgen.
 
-Op zoek naar een overzicht van de gebeurtenis en de bronnen van de chat? Controle uit de [&#x200B; Communautaire post van Experience League &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-workfront-pro-tips-for-governance-execution-and/td-p/780766?profile.language=nl)!
+Op zoek naar een overzicht van de gebeurtenis en de bronnen van de chat? Controle uit de [ Communautaire post van Experience League ](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-workfront-pro-tips-for-governance-execution-and/td-p/780766)!
 
-De nieuwe gebeurtenissen worden toegevoegd elke maand, zodat zorg ervoor om de [&#x200B; pagina van de Gebeurtenissen van Experience League &#x200B;](https://experienceleague.adobe.com/nl/events) voor de recentste zittingen uit te checken.
-
-
-
-
+De nieuwe gebeurtenissen worden toegevoegd elke maand, zodat zorg ervoor om de [ pagina van de Gebeurtenissen van Experience League ](https://experienceleague.adobe.com/en/events) voor de recentste zittingen uit te checken.

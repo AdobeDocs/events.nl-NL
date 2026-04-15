@@ -1,19 +1,21 @@
 ---
 title: De agenda voor het web opbouwen
 description: Bekijk de rol van AI in digitale ervaringen met Adobe-visie voor het agentische web, met AEM Agents en meer.
+feature: Edge Delivery Services, Release Information
+topic: Artificial Intelligence, Development
 role: Developer
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 4240
 last-substantial-update: 2025-12-10T00:00:00Z
 jira: KT-19962
-source-git-commit: 76b4e64093ebad269534b65c41c4bda1a6bb468f
+exl-id: e0f0188d-c97c-4541-993e-cb88e3081eba
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '152'
 ht-degree: 0%
 
 ---
-
 
 # Toetsenbord: Het web van de agentschappen opbouwen
 
@@ -27,6 +29,5 @@ In het bijzonder dank ik onze sponsors Algolië en Ensemble voor hun steun aan A
 
 ## Volgende stappen
 
-* Ga op [&#x200B; Experience League &#x200B;](https://adobe.ly/47ss08A) verder
-* Ontdek [&#x200B; aanstaande gebeurtenissen &#x200B;](https://developerevents.adobe.com)
-
+* Ga op [ Experience League ](https://adobe.ly/47ss08A) verder
+* Ontdek [ aanstaande gebeurtenissen ](https://developerevents.adobe.com)

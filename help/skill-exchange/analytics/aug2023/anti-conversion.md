@@ -3,6 +3,7 @@ title: Anti-omzettingsfactoren analyseren om uw klantervaring te verbeteren
 description: In elke branche is het belangrijk om uw onsite ervaring voortdurend te verbeteren. Het doel van anticonversie is te kijken naar factoren die een negatief effect hebben op de ervaring van uw klanten op locatie om deze op te lossen. Er zijn vele metriek die u kunt bekijken om uw ervaring te verbeteren. In deze zitting zullen wij ons op:- hoe te om foutenpercentages te gebruiken om inzichten te drijven - het identificeren van gebieden van klantenverwarring om klantenreizen te verbeteren - Tips om anti-omzetting in uw organisatie uit te voeren
 feature-set: Analytics
 feature: Metrics
+topic: Migration, Integrations
 role: User
 level: Intermediate, Experienced
 doc-type: Event
@@ -11,9 +12,9 @@ last-substantial-update: 2023-12-11T00:00:00Z
 jira: KT-14657
 thumbnail: 3425991.jpeg
 exl-id: 13b7b639-c833-4f3e-b4f9-ec9e2cee2505
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---

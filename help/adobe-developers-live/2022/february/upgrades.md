@@ -1,15 +1,17 @@
 ---
 title: Verbeteringen vereenvoudigen en het gereedschap Compatibiliteit upgraden
 description: Waarom en hoe kan ik bijwerken naar Adobe Commerce en Magento Open Source 2.4.4?
+feature: Edge Delivery Services, Release Information
+topic: Development
 role: User
 level: Beginner
 kt: 9789
 thumbnail: 340622.jpeg
 exl-id: b50b6e10-cca6-4f16-84e1-070af22f9c73
 duration: 1872
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---

@@ -1,6 +1,8 @@
 ---
 title: Marketo & Mochas - 5 Marketo-functies voor de huidige kennis in 2025
 description: Bekijk onze eerste Marketo & Mochas-sessie van het jaar met onze Marketo Engage-experts, Carly Gaver en Kate Colbert. Carly en Kate hebben in uw Marketo-pakket meer dan vijf functies met uitgebreide mogelijkheden gebruikt die u kunnen helpen uw klantervaring te verhogen en de vraag in 2025 te stimuleren. Tune in en ontwikkel het volledige potentieel van je Marketo-platform!
+feature: Reporting
+topic: Personalization
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -8,13 +10,12 @@ duration: 3382
 last-substantial-update: 2025-02-13T00:00:00Z
 jira: KT-17272
 exl-id: d536d724-9a25-47ae-9a60-c29861359e0b
-source-git-commit: bca10c328d4118782de5fd6d63b8b32861cd5155
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '410'
-ht-degree: 2%
+source-wordcount: '553'
+ht-degree: 0%
 
 ---
-
 
 # Marketo en Mochas: 5 Marketo-functies voor Know in 2025
 
@@ -30,23 +31,23 @@ Bekijk onze eerste Marketo &amp; Mochas-sessie van het jaar met onze Marketo Eng
    * [5 Kenmerken in 2025](../assets/marketo-&-mochas-5-features-handout.pdf)
 
 * **Beheer van de Rekening van het Doel**
-   * [Overzicht](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/target-account-management/setup/target-account-management-overview)
+   * [Overzicht](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/target-account-management/setup/target-account-management-overview)
    * [Veelgestelde vragen](https://nation.marketo.com/t5/knowledgebase/target-account-management-previously-abm-faq-product-facts-and/ta-p/301199)
-   * [&#x200B; Uiteinden &amp; Video van Trekken &#x200B;](https://nation.marketo.com/t5/product-blogs/marketo-engage-abm-tips-amp-tricks-with-corey-bayless/ba-p/304664)
+   * [Video over tips en trucs](https://nation.marketo.com/t5/product-blogs/marketo-engage-abm-tips-amp-tricks-with-corey-bayless/ba-p/304664)
 
-* **Predictive Audiences**
-   * [Overzicht](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/core-marketo-concepts/predictive-audiences/getting-started-with-predictive-audiences)
-   * [&#x200B; Gevallen van het Gebruik &#x200B;](https://nation.marketo.com/t5/product-blogs/using-predictive-audiences-in-marketo-engage/ba-p/301937)
+* **Voorspelend publiek**
+   * [Overzicht](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/predictive-audiences/getting-started-with-predictive-audiences)
+   * [Gevallen gebruiken](https://nation.marketo.com/t5/product-blogs/using-predictive-audiences-in-marketo-engage/ba-p/301937)
 
 * **Geavanceerde Analyses van de Reis**
-   * [&#x200B; Meldend Overzicht &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/reporting/reporting-overview#advanced-journey-analytics)
-   * [&#x200B; het Overzicht van Modeler van de Levensstijl &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models)
+   * [Overzicht van rapporten](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/reporting-overview#advanced-journey-analytics)
+   * [Lifecyle Modeler - Overzicht](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models)
 
 * **Sandbox**
-   * [Overzicht](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox)
+   * [Overzicht](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox)
 
 * **Werkruimten en Verdelingen**
-   * [Overzicht](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions)
+   * [Overzicht](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions)
 
 ## Toetsen
 
@@ -65,7 +66,7 @@ Bekijk onze eerste Marketo &amp; Mochas-sessie van het jaar met onze Marketo Eng
 * Bevat functies zoals benoemde accounts, accountlijsten en ABM-filters en -triggers.
 * Tips en trucs: wees bewust, werk samen met verkoop, beperkt het aantal benoemde accounts.
 
-**Predictive Audiences**
+**Voorspelend publiek**
 
 * Gebruikt AI en machine leren voor publiekssegmentatie.
 * Bevat voorspellende filters (waarschijnlijkheid om bij te wonen, te registreren, af te melden) en lookalike filters.

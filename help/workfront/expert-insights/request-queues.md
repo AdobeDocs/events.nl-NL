@@ -2,6 +2,7 @@
 title: Expert Insights - Request Queueuws met Lyndsy
 description: Tips voor Workfront-experts over het samenstellen van Help Desk Queues, het routeren van verzoeken en dashboardinzichten met Lyndsy-berichten.
 feature: Requests
+topic: Administration, Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 speaker-name-1: Lyndsy Dent
@@ -12,16 +13,16 @@ duration: 1228
 last-substantial-update: 2025-07-17T00:00:00Z
 jira: KT-18551
 exl-id: 370e6388-2dc3-4c12-8500-510dac32e867
-source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '364'
+source-wordcount: '485'
 ht-degree: 0%
 
 ---
 
 # Expert Insights - Request Queueuws met Lyndsy
 
-Welkom bij Expert Insights!  Ik ben Cynthia Boon, uw &#39;On-Demand&#39; Workfront CSM en voor deze episode hebben we Workfront Celebrity, [@Lyndsy-DUNF](https://experienceleaguecommunities.adobe.com/t5/user/viewprofilepage/user-id/17573167?profile.language=nl) ! We bespreken het Workfront Story van Lyndsy en vervolgens een diepe duik in haar Help Desk Request Queue.
+Welkom bij Expert Insights!  Ik ben Cynthia Boon, uw &#39;On-Demand&#39; Workfront CSM en voor deze episode hebben we Workfront Celebrity, [@Lyndsy-DUNF](https://experienceleaguecommunities.adobe.com/t5/user/viewprofilepage/user-id/17573167) ! We bespreken het Workfront Story van Lyndsy en vervolgens een diepe duik in haar Help Desk Request Queue.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3465272/?learn=on&enablevpops)
 
@@ -36,15 +37,15 @@ Tijdens onze chat deelde Lyndsy
 
 Zoals beloofd, zijn hier de middelen die wij samen met een paar extra verbindingen voor de Queues van het Verzoek en de Onderwerpen van de Rij bespraken:
 
-* De middelen op hoe te om [&#x200B; een Geërfte Ingeërfde Instantie &#x200B;](https://experienceleague.adobe.com/nl/docs/workfront-learn/tutorials-workfront/administration-and-setup/system-perfomance-and-maintenance/take-charge-of-an-existing-workfront-instance) te beheren, omvat de verbinding aan webinar en details op het [&#x200B; Leerprogramma van de Vervaging &#x200B;](https://experienceleague.adobe.com/nl/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/understand-request-queues)
+* De middelen op hoe te om [ een Geërfte Ingeërfde Instantie ](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/system-perfomance-and-maintenance/take-charge-of-an-existing-workfront-instance) te beheren, omvat de verbinding aan webinar en details op het [ Leerprogramma van de Vervaging ](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/understand-request-queues)
 
-* Het begrip van de Documentatie van de Rijen van het Verzoek: [&#x200B; creeer de Onderwerpen van de Rij &#x200B;](https://experienceleague.adobe.com/nl/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-queue-topics)
+* Het begrip van de Documentatie van de Rijen van het Verzoek: [ creeer de Onderwerpen van de Rij ](https://experienceleague.adobe.com/en/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-queue-topics)
 
-* De webinaire presentatie van Lyndsy voor [&#x200B; Hoofdzaak van Admin van het Systeem &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/webinar-system-admin-essentials-communicating-with-end-users/td-p/606096?profile.language=nl): Het communiceren met Eind - Gebruikers (deze pagina omvat ook een verbinding aan het [&#x200B; Eind - gebruikersbevelen Cookbook &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/introducing-the-end-user-communications-cookbook/ba-p/607439?profile.language=nl))
+* De webinaire presentatie van Lyndsy voor [ Hoofdzaak van Admin van het Systeem ](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/webinar-system-admin-essentials-communicating-with-end-users/td-p/606096): Het communiceren met Eind - Gebruikers (deze pagina omvat ook een verbinding aan het [ Eind - gebruikersbevelen Cookbook ](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/introducing-the-end-user-communications-cookbook/ba-p/607439))
 
-* De presentatiemiddelen van de Uitwisseling van de Vaardigheid van Lyndsy [&#128279;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-november-2024-skill-exchange-workfront-process/m-p/726841?profile.language=nl#M3642)
+* De presentatiemiddelen van de Uitwisseling van de Vaardigheid van Lyndsy [ ](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-november-2024-skill-exchange-workfront-process/m-p/726841#M3642)
 
-* En vergeet niet om [&#x200B; Workfront AMA &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-ama-ask-me-anything-about-workfront-proof/ev-p/748798?profile.language=nl) te controleren me ANYTHING over Workfront Proof waar Lyndsy samen met Monique Evans en Richard Carlson uw vragen over het Bewijzen beantwoordde!
+* En vergeet niet om [ Workfront AMA ](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-ama-ask-me-anything-about-workfront-proof/ev-p/748798) te controleren me ANYTHING over Workfront Proof waar Lyndsy samen met Monique Evans en Richard Carlson uw vragen over het Bewijzen beantwoordde!
 
 ## Over de spreker 
 
@@ -56,4 +57,4 @@ U weet nooit welke fantastische ideeën klanten tijdens gebeurtenissen zullen de
 
 ## Heb je iets te delen?
 
-Hebt u een geweldig verhaal om te delen, tijdens een gebeurtenis of in een video van Expert Insights? Gelieve te bereiken uit aan ons team in [&#x200B; CSatScale@adobe.com &#x200B;](mailto:CSatScale@adobe.com).
+Hebt u een geweldig verhaal om te delen, tijdens een gebeurtenis of in een video van Expert Insights? Gelieve te bereiken uit aan ons team in [ CSatScale@adobe.com ](mailto:CSatScale@adobe.com).

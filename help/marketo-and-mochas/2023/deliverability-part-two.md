@@ -1,6 +1,8 @@
 ---
 title: Marketo en Mochas - Leverbaarheid (Deel 2)
-description: Ontdek best practices op het gebied van e-mailleverbaarheid met Sean Wirt, Manager voor aflevering van Marketo, waaronder Gmail-strategieën, Apple Mail Privacy, gedeelde versus toegewezen IP's en een gedetailleerde demo van het Marketo Engage-programma voor de leveringszekerheid, zaadlijsten, slimme lijsten en rapporten.
+description: Ontdek best practices voor e-mailleverbaarheid met Sean Wirt, Manager voor aflevering van Marketo, waaronder Gmail-strategieën, Apple Mail Privacy, gedeelde versus toegewezen IP's en een gedetailleerde demo van Marketo Engage Deliverability Tool, zaadlijsten, slimme lijsten en rapporten.
+feature: Smart Lists, Reporting
+topic: Security
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -10,9 +12,9 @@ thumbnail: 3418668.jpeg
 event-start-time: 2023-4-24 08:30-8
 exl-id: 02bf8dc4-a08a-4c82-812f-6b3e10ec97a2
 duration: 3638
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '126'
 ht-degree: 0%
 
 ---

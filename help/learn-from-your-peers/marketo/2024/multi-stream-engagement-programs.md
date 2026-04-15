@@ -2,6 +2,8 @@
 title: Complexe stramienreizen van klanten met Multistream-serviceprogramma's
 description: Onderzoek hoe te om klantenverhoudingen met multi-aanraak, multi-stroomprogramma's van de Betrokkenheid systematisch in dienst te nemen en te bevorderen bij elke stap van hun reis. De programma's van de betrokkenheid geven u de macht om aan de behoeften en het gedrag van uw klanten te luisteren en hen van de relevante reis en noodzakelijke inhoud te voorzien.
 solution: Marketo Engage
+feature: Smart Lists, Reporting
+topic: Performance
 role: Admin, User
 level: Experienced
 doc-type: Event
@@ -9,9 +11,9 @@ duration: 2477
 last-substantial-update: 2024-09-18T00:00:00Z
 jira: KT-16216
 exl-id: 81ef0921-cc8b-4355-adf4-df1772e388ae
-source-git-commit: dc8346b9341c7413a7c9571667f6cf0bb5914dd5
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '361'
+source-wordcount: '453'
 ht-degree: 0%
 
 ---
@@ -28,16 +30,16 @@ Deze Learn from Your Peers-sessie besprak de installatie en het beheer van betro
 
 ## Key Takeaways
 
-* Het juiste programmatype kiezen: het is van cruciaal belang dat het verschil tussen programma&#39;s voor het opvoeden van druppels en voor het aangaan van afspraken wordt begrepen. &#x200B; Betrokkenheidsprogramma&#39;s bieden meer flexibiliteit en complexiteit voor het koesteren van leads in vergelijking met programma&#39;s voor het voeden van druppels. &#x200B;
+* Het juiste programmatype kiezen: het is van cruciaal belang dat het verschil tussen programma&#39;s voor het opvoeden van druppels en voor het aangaan van afspraken wordt begrepen. &#x200B; programma&#39;s voor betrokkenheid bieden meer flexibiliteit en complexiteit voor het koesteren van kansen in vergelijking met programma&#39;s voor het kweken van druppels. &#x200B;
 
-* Overgangsstrategieën: het gebruik van slimme campagnes voor het overschakelen tussen streams binnen een betrokkenheidsprogramma biedt controle en automatisering. &#x200B; Begrijpen wanneer en hoe u de voorsprong kunt overbrengen op basis van factoren zoals levenscyclusfasen of uitputting van de inhoud is van essentieel belang voor een effectieve productie van lood.
+* Overgangsstrategieën: het gebruik van slimme campagnes voor het overschakelen tussen streams binnen een betrokkenheidsprogramma biedt controle en automatisering. &#x200B; Begrip wanneer en hoe u naar een andere voorsprong overschakelt op basis van factoren zoals levenscyclusfasen of uitputting van de inhoud is van essentieel belang voor een effectieve productie van lood.
 
-* Metrische gegevens over succes van programma: het definiëren van duidelijke succeswaarden voor betrokkenheidsprogramma&#39;s is van essentieel belang voor het meten van de doeltreffendheid. &#x200B; Of het nu gaat om klikken via e-mail, bezoeken van websites of andere acties, als u succescriteria hebt gedefinieerd, helpt u de prestaties en impact van de betrokkenheidsprogramma&#39;s nauwkeurig te evalueren. &#x200B;
+* Metrische gegevens over succes van programma: het definiëren van duidelijke succeswaarden voor betrokkenheidsprogramma&#39;s is van essentieel belang voor het meten van de doeltreffendheid. &#x200B; Of het nu gaat om klikken via e-mail, bezoeken van websites of andere acties, als u succescriteria hebt gedefinieerd, helpt u de prestaties en impact van de serviceprogramma&#39;s accuraat te evalueren. &#x200B;
 
 ## Bronnen waarnaar in deze presentatie wordt verwezen
 
-* [&#x200B; Begrijpend de Programma&#39;s van de Betrokkenheid &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs)
-* [&#x200B; Begrijpend de Score van de Betrokkenheid &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score)
-* [&#x200B; Toevoegend een Programma aan een Stream van het Programma van de Betrokkenheid &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/adding-a-program-to-an-engagement-program-stream)
-* [&#x200B; Overzicht van de Bibliotheek van de Invoer van het Programma &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview)
-* [&#x200B; de discussielijn van de Gemeenschap van de Verhandeling &#x200B;](https://nation.marketo.com/t5/product-discussions/sept-17-webinar-learn-from-your-peers-master-complex-customer/td-p/352582)
+* [Betrokkenheidsprogramma&#39;s](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs)
+* [De betrokkenheidsscore begrijpen](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score)
+* [Een programma toevoegen aan een betrokkenheidsprogramma](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/adding-a-program-to-an-engagement-program-stream)
+* [Overzicht van programma-importbibliotheek](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview)
+* [Handelings-natif discussielijn](https://nation.marketo.com/t5/product-discussions/sept-17-webinar-learn-from-your-peers-master-complex-customer/td-p/352582)

@@ -2,6 +2,8 @@
 title: Een Agile Marketing Organisation kweken
 description: Tijdens de vergadering over de verbouwing van een agile-marketingorganisatie werden de beginselen van flexibele marketing, de voordelen ervan, de uitdagingen met de traditionele watervalbenadering, de noodzaak van een cultureel verschuivings- en veranderingsmanagement en de rollen en structuur die essentieel zijn voor een succesvolle marketing van agile's benadrukt.
 solution: General
+feature: Personalization, Analytics Basics
+topic: Personalization, Performance, Development
 role: Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -9,9 +11,9 @@ duration: 3333
 last-substantial-update: 2025-02-21T00:00:00Z
 jira: KT-17371
 exl-id: c4cce472-9730-41d8-8292-663d5a2e03a5
-source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '286'
+source-wordcount: '288'
 ht-degree: 0%
 
 ---
@@ -38,4 +40,4 @@ Aangezien de Marketers onder druk staan om activa te creëren en campagnes snell
 
 * **de Verschuiving van de Cultuur en het Beheer van de Verandering** Transitioning aan agile marketing vereist een significante culturele verschuiving, met inbegrip van het breken van silo&#39;s, het bevorderen van samenwerking, en het uitvoeren van de strategieën van het veranderingsbeheer. Het gaat ook om investeringen vooraf in opleiding en instrumenten.
 
-* **Succesvolle agile marketing van de Rollen en van de Structuur van 0&rbrace; de Gelijke Verkoop impliceert specifieke rollen zoals uitvoerende sponsors, stuurcomités, en specifieke rumteams.** Het omvat ook het gebruik van flexibele marketingteams en expertisecentra om de strategie en uitvoering te stimuleren.
+* **Succesvolle agile marketing van de Rollen en van de Structuur van 0} de Gelijke Verkoop impliceert specifieke rollen zoals uitvoerende sponsors, stuurcomités, en specifieke rumteams.** Het omvat ook het gebruik van flexibele marketingteams en expertisecentra om de strategie en uitvoering te stimuleren.

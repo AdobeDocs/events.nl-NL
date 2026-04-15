@@ -1,18 +1,21 @@
 ---
 title: Gegevenssets beheren in Commerce Intelligence
-description: Kijk naar dit webinar voor meer informatie over de krachtige functies van Commerce Intelligence Data Warehouse Manager.
-landing-page-description: Kijk naar dit webinar voor meer informatie over de krachtige functies van Commerce Intelligence Data Warehouse Manager.
-short-description: Kijk naar dit webinar voor meer informatie over de krachtige functies van Commerce Intelligence Data Warehouse Manager.
+description: Bekijk dit webinar voor meer informatie over de krachtige functies van Commerce Intelligence Data Warehouse Manager.
+landing-page-description: Bekijk dit webinar voor meer informatie over de krachtige functies van Commerce Intelligence Data Warehouse Manager.
+short-description: Bekijk dit webinar voor meer informatie over de krachtige functies van Commerce Intelligence Data Warehouse Manager.
 kt: 10410
 solution: Commerce, Commerce Intelligence
+feature-set: Commerce Intelligence
+feature: Data Integration, Reports
+topic: Commerce
 role: Leader, User, Data Architect
 level: Beginner
 thumbnail: 344680.jpeg
 exl-id: 657dfb41-0364-4f45-86f7-2e09897860c7
 duration: 3410
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 76653a37bdcd3176067a4f0c3f4a073e902a63de
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '180'
 ht-degree: 0%
 
 ---
@@ -33,5 +36,5 @@ Tijdens dit geregistreerde webinar, leert u hoe te om het rendement op investeri
 
 ## Nuttige bronnen
 
-[&#x200B; Rondleiding van de Manager van de Data Warehouse &#x200B;](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/warehouse-manager/tour-dwm.html?lang=nl-NL)
-[&#x200B; verbind uw gegevens &#x200B;](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/connecting/connecting-data.html?lang=nl-NL)
+[ Een rondleiding van de Manager van Data Warehouse](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/warehouse-manager/tour-dwm.html)
+[ verbind Uw Gegevens ](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/connecting/connecting-data.html)

@@ -2,6 +2,8 @@
 title: Digitale communicatie personaliseren in Financial Services met AEM Forms
 description: Zie hoe AEM Forms financiële services persoonlijke, schaalbare communicatie helpt bieden die de betrokkenheid, efficiëntie en compatibiliteit verhogen.
 solution: Experience Manager Forms
+feature: Edge Delivery Services, Core Components
+topic: Personalization, Integrations, Performance
 role: Developer, User
 level: Intermediate
 doc-type: Event
@@ -9,9 +11,9 @@ duration: 2971
 last-substantial-update: 2025-05-08T00:00:00Z
 jira: KT-18065
 exl-id: d8814206-7a6d-42a5-845f-232839f9a05c
-source-git-commit: db8e0b36dff5abf5665e3a75e9dcda4f9a84e044
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '328'
 ht-degree: 0%
 
 ---
@@ -36,4 +38,4 @@ Ontdek hoe AEM Forms organisaties van financiële diensten gepersonaliseerde, in
 
 * **Innovaties in het Ontwerp van de Vorm** De introductie van een op wolk-gebaseerde ontwerper vereenvoudigt vormverwezenlijking met belemmering-en-dalingsfunctionaliteit, fragmenten voor herbruikbare inhoud, en integratie met gegevensmodellen. Dit gemoderniseerde hulpmiddel vermindert afhankelijkheid van IT en maakt snellere updates mogelijk, die de doorlooptijd van acht weken voor formulierwijzigingen in sommige organisaties aanpakken.
 
-* **Adobe van 0&rbrace; AI-Aangedreven Verbeteringen &lbrace;leveraging AI om vormverwezenlijking en gebruikerservaring te revolutioneren.** Met functies als de Experience Builder kunnen formulieren worden gemaakt met natuurlijke taalherinneringen, terwijl met multimodale formulieren gebruikers formulieren kunnen invullen via chat, het uploaden van afbeeldingen en spraak. Deze innovaties zijn gericht op het verbeteren van efficiëntie, personalisatie en betrokkenheid van gebruikers.
+* **Adobe van 0} AI-Aangedreven Verbeteringen {leveraging AI om vormverwezenlijking en gebruikerservaring te revolutioneren.** Met functies als de Experience Builder kunnen formulieren worden gemaakt met natuurlijke taalherinneringen, terwijl met multimodale formulieren gebruikers formulieren kunnen invullen via chat, het uploaden van afbeeldingen en spraak. Deze innovaties zijn gericht op het verbeteren van efficiëntie, personalisatie en betrokkenheid van gebruikers.

@@ -3,6 +3,7 @@ title: Revolutionering van je webinaire ervaring - ontdek de impact van interact
 description: Leer hoe Marketo Champion Maria Cruz interactieve webinars gebruikt om de betrokkenheid te vergroten, inzicht te krijgen en marketing bij MRM te verbeteren. Kijk nu op aanvraag!
 solution: Marketo Engage
 feature: Interactive Webinars
+topic: Artificial Intelligence, Personalization, Integrations
 role: Admin, User
 level: Intermediate
 doc-type: Event
@@ -10,9 +11,9 @@ duration: 2559
 last-substantial-update: 2025-05-08T00:00:00Z
 jira: KT-18062
 exl-id: 896d90d0-5db1-4c10-88ea-88562929c31d
-source-git-commit: dc8346b9341c7413a7c9571667f6cf0bb5914dd5
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '264'
+source-wordcount: '338'
 ht-degree: 0%
 
 ---
@@ -37,7 +38,7 @@ Adobe Marketo Engage Champion Maria Cruz heeft gebruik gemaakt van interactieve 
 
 ## Aanvullende bronnen
 
-* Sluit me aan bij de [&#x200B; besprekingsdraad &#x200B;](https://nation.marketo.com/t5/product-blogs/on-demand-learn-from-your-peers-revolutionizing-your-webinar/ba-p/356260) op de Gemeenschap van de Natie van de Marketing, waar Q&amp;A&#39;s worden gepost.
-* [&#x200B; leer meer over eigenschappen GenAI in Interactieve Webinars &#x200B;](https://nation.marketo.com/t5/latest-product-innovations/discover-how-genai-can-elevate-your-upcoming-webinars/ba-p/355055)
-* [&#x200B; verken Interactieve Grondbeginselen van Webinars &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview)
-* [&#x200B; leren om Interactieve Woordenboeken (Opiniepeilingen, Q&amp;A, CTAs) te gebruiken &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/best-practices-for-interactive-webinars)
+* Sluit me aan bij de [ besprekingsdraad ](https://nation.marketo.com/t5/product-blogs/on-demand-learn-from-your-peers-revolutionizing-your-webinar/ba-p/356260) op de Gemeenschap van de Natie van de Marketing, waar Q&amp;A&#39;s worden gepost.
+* [Meer informatie over GenAI-functies in Interactive Webinars](https://nation.marketo.com/t5/latest-product-innovations/discover-how-genai-can-elevate-your-upcoming-webinars/ba-p/355055)
+* [Verken de fundamentele waarden van interactieve webinars](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview)
+* [Leer interactieve webinars pods te gebruiken (opiniepeilingen, vragen en antwoorden, CTA&#39;s)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/best-practices-for-interactive-webinars)

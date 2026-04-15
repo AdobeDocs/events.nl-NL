@@ -1,23 +1,26 @@
 ---
-title: Vaststelling van een doeltreffende strategie voor Audience Activation
+title: Een effectieve Audience Activation-strategie
 description: Deze sessie gaat over het belang van een strategie voor gegevensbeheer, Adobe Audience Manager-overzicht en mogelijkheden, Adobe Audience Manager-gebruiksscenario's, een actieplan voor het opzetten van een strategie voor gegevensbeheer
+solution: Audience Manager
+feature: Segments
 role: Admin, Data Architect, Data Engineer, Leader
 level: Intermediate
 feature-set: Audience Manager
+topic: Development
 doc-type: Event
 last-substantial-update: 2023-08-25T00:00:00Z
 jira: KT-13847
 thumbnail: 3423008.jpeg
 exl-id: e79a52b8-224e-45b6-884c-3d0fd9bc09a4
 duration: 2812
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 0%
 
 ---
 
-# Vaststelling van een doeltreffende strategie voor Audience Activation
+# Een effectieve Audience Activation-strategie
 
 Deze zitting behandelt,
 

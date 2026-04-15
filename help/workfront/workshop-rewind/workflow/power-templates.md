@@ -1,19 +1,21 @@
 ---
 title: Power Templates - Hoe IDEXX projectsjablonen heeft aangepast voor wereldwijd succes
 description: Sjabloonbenadering voor algemene campagnes met lokalisatiescenario's!
+feature: Workfront Fusion
+topic: Administration, Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3385
 last-substantial-update: 2025-12-03T00:00:00Z
 jira: KT-19777
-source-git-commit: 2a5336b19f61bb0e1c48311b36c76c4a0967c410
+exl-id: 7c68dd9e-106d-40ad-9bb4-7d3491e361d7
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 0%
+source-wordcount: '138'
+ht-degree: 2%
 
 ---
-
 
 # Power Templates: Hoe IDEXX projectsjablonen heeft aangepast voor wereldwijd succes
 
@@ -23,8 +25,6 @@ Bekijk de opnamen op aanvraag en bekijk een blik &quot;onder de kap&quot; van ha
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477115/?learn=on&enablevpops)
 
-Op zoek naar meer bronnen die tijdens de gebeurtenis werden gedeeld?  Controle uit de [&#x200B; Communautaire post van Experience League &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-power-templates-how-idexx-reconfigured-project/td-p/768981?profile.language=nl)!
+Op zoek naar meer bronnen die tijdens de gebeurtenis werden gedeeld?  Controle uit de [ Communautaire post van Experience League ](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-power-templates-how-idexx-reconfigured-project/td-p/768981)!
 
-De nieuwe gebeurtenissen worden toegevoegd elke maand, zodat zorg ervoor om de [&#x200B; pagina van de Gebeurtenissen van Experience League &#x200B;](https://experienceleague.adobe.com/nl/events) voor de recentste zittingen uit te checken.
-
-
+De nieuwe gebeurtenissen worden toegevoegd elke maand, zodat zorg ervoor om de [ pagina van de Gebeurtenissen van Experience League ](https://experienceleague.adobe.com/en/events) voor de recentste zittingen uit te checken.

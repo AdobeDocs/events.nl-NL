@@ -2,6 +2,7 @@
 title: De Creative Edge - Hoe Visionary Thinking Commerce transformeert
 description: Dit webinar verkent de integratie van creativiteit en handel, en toont aan hoe de hulpmiddelen en de technologieën van Adobe kunnen helpen activa beheren, de verwezenlijking van inhoud schrapen, en de inhoud supply chain stroomlijnen. In dit artikel wordt het belang van het samenbrengen van creativiteit en handel besproken en komen onderwerpen aan bod zoals persoonlijke ervaringen, het beheer van bedrijfsmiddelen en het gebruik van hulpmiddelen zoals Adobe Workfront, Adobe Experience Manager en Adobe Stock om het proces voor het maken van inhoud te stroomlijnen.
 solution: Commerce
+feature: Integration
 topic: Commerce
 role: Leader, User
 level: Beginner, Intermediate
@@ -10,9 +11,9 @@ duration: 3419
 last-substantial-update: 2024-05-03T00:00:00Z
 jira: KT-15448
 exl-id: a495d5f0-a567-4a17-913a-15d01441ab27
-source-git-commit: 8bcf45a53f15844f4aa101e0267b63dff0858ac8
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '352'
+source-wordcount: '353'
 ht-degree: 0%
 
 ---

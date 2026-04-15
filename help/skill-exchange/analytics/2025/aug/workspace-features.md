@@ -3,25 +3,26 @@ title: Workspace-functies die u moet gebruiken
 description: Ontdek de belangrijkste Adobe Analytics Workspace-functies (voorwaardelijke opmaak, dropdowns, attributiemodellen en berekende maatstaven) om diepgaande inzichten aan het licht te brengen.
 solution: Analytics
 feature: Workspace Basics
+topic: Migration, Integrations
 role: User
 level: Beginner
 doc-type: Event
 duration: 0
 last-substantial-update: 2025-09-04T00:00:00Z
 jira: KT-18821
-source-git-commit: 887622e17681c1e3bc44175667777b0f4e65cc65
+exl-id: 2c7bef44-9af5-4c7c-a9a7-9489a8dbefd2
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '254'
+source-wordcount: '259'
 ht-degree: 0%
 
 ---
-
 
 # Workspace-functies die u moet gebruiken
 
 Ontdek krachtige, maar vaak over het hoofd gezien functies in Adobe Analytics Workspace die uw analyse kunnen verhogen en een echte impact kunnen hebben. In deze zitting, zullen wij praktische gebruiksgevallen en eenvoudige technieken onderzoeken die alledaagse hulpmiddelen in motor van insight-helpen ontdekken wat werkelijk voor uw zaken belangrijk is. Of u nu een doorgewinterde analist bent of gewoon aan de slag gaat, u gaat met hanteerbare ideeën om de waarde van uw gegevens te maximaliseren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471257/?learn=on&enablevpops&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3471117/?learn=on&enablevpops)
 
 ## Geavanceerde analysetechnieken ontgrendelen
 

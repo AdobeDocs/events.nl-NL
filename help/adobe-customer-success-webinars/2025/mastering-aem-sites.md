@@ -2,6 +2,8 @@
 title: AEM Sites beheren - Sjablonen, Navigatie en SEO
 description: 'Leer de basisbeginselen van AEM Sites: hoe u paginasjablonen gebruikt, intuïtieve navigatie ontwerpt en belangrijke SEO-praktijken toepast om de zichtbaarheid en de prestaties van de site te verbeteren.'
 solution: Experience Manager
+feature: Edge Delivery Services, Release Information
+topic: Performance
 version: Experience Manager as a Cloud Service
 role: Admin, Developer, User
 level: Beginner, Intermediate
@@ -9,13 +11,13 @@ doc-type: Event
 duration: 2025
 last-substantial-update: 2025-06-27T00:00:00Z
 jira: KT-18431
-source-git-commit: f9e38f359b801bc6abc7a108f1da755922e43c65
+exl-id: 2f1f7a19-bd3a-4769-a820-9720c73b4c95
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '144'
 ht-degree: 0%
 
 ---
-
 
 # Mastering AEM Sites: de gids voor uw beginner voor sjablonen, navigatie en SEO
 
@@ -27,4 +29,4 @@ Deze sessie biedt een basiskennis van drie cruciale aspecten van het bouwen en b
 * Gebruikersvriendelijke navigatie maken voor optimale ervaring met sites
 * De SEO Foundation oprichten in AEM Sites
 
->[!VIDEO](https://video.tv.adobe.com/v/3464321/?learn=on&enablevpops&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3464298/?learn=on&enablevpops)

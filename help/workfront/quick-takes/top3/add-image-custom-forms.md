@@ -1,19 +1,21 @@
 ---
 title: Belangrijkste redenen voor het gebruik van afbeeldingen in Aangepaste Forms
 description: Ontdek waarom het toevoegen van afbeeldingen, PDF's of video's aan aangepaste formulieren de betrokkenheid en communicatie van gebruikers ten goede komt.
+feature: Work Management, Workfront Fusion
+topic: Administration, Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 171
 last-substantial-update: 2025-12-10T00:00:00Z
 jira: KT-19741
-source-git-commit: df552b4f2b2fa1d8e4e8941aa9d58acecc60dd2b
+exl-id: 03c34c86-8662-4be9-921e-2ee2fa97b04b
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '115'
-ht-degree: 0%
+source-wordcount: '137'
+ht-degree: 2%
 
 ---
-
 
 # Drie belangrijkste redenen om een afbeelding toe te voegen aan Aangepaste Forms
 
@@ -21,8 +23,8 @@ Bekijk deze Top 3 video waarin u de redenen voor het opnemen van afbeeldingen, v
 
 Dit omvat zowel leuke als functionele tips om de communicatie te verbeteren en het invullen van verzoeken interessanter te maken voor uw eindgebruikers.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477058/?captions=dut&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477027/?learn=on&enablevpops)
 
-Voor meer middelen controleer uit de [&#x200B; Communautaire post van Experience League &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-to-add-an-image-to-custom-forms/m-p/576903?profile.language=nl#M374)!
+Voor meer middelen controleer uit de [ Communautaire post van Experience League ](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-to-add-an-image-to-custom-forms/m-p/576903#M374)!
 
-Als u van het leren over nieuwe ideeën en creatieve benaderingen houdt, dan vergeet niet om voor komende workshops op de [&#x200B; pagina van de Gebeurtenissen van Experience League &#x200B;](https://experienceleague.adobe.com/nl/events) te registreren.
+Als u van het leren over nieuwe ideeën en creatieve benaderingen houdt, dan vergeet niet om voor komende workshops op de [ pagina van de Gebeurtenissen van Experience League ](https://experienceleague.adobe.com/en/events) te registreren.

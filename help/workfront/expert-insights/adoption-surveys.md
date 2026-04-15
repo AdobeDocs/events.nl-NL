@@ -8,6 +8,7 @@ speaker-name-2: Danielle Johnston
 speaker-title-2: Customer Success Manager
 speaker-company-2: Adobe
 feature: Workfront Integrations and Apps
+topic: Integrations, Performance
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -15,9 +16,9 @@ duration: 1910
 last-substantial-update: 2025-08-20T00:00:00Z
 jira: KT-18617
 exl-id: 75153967-b82d-4221-b44b-73aabb74402f
-source-git-commit: d14aa66f5c09a280d56b9d857fcc64379e83677f
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '349'
 ht-degree: 0%
 
 ---
@@ -26,17 +27,17 @@ ht-degree: 0%
 
 Hier is uw On-Demand Workfront CSM en ik ben terug met een nieuwe video!  Deze keer hebben we een presentatie van een van onze fantastische klanten, Jaime Davidson van Cognizant!  Ze bood haar tijd en haar expertise aan tijdens onze Connect-gebeurtenis in november en deelde haar ervaring en bronnen voor de implementatie van Workfront-adoptieenquêtes. *Bonus!* Danielle Johnston, onze eigen CSM van Workfront, deelt ook haar inzichten en aanbevelingen!
 
->[!VIDEO](https://video.tv.adobe.com/v/3469956/?learn=on&enablevpops&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3469895/?learn=on&enablevpops)
 
 ## Bronnen
 
 Tijdens de presentatie bespraken Jaime en Danielle enkele aanvullende bronnen, die hieronder zijn verweven.
 
-* [&#x200B; Gids van Workfront aan de Enquêtes van de Goedkeuring &#x200B;](https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/Workfront+Guide+to+Adoption+Surveys)
-* [&#x200B; Admin Chat van Workfront - Cognizant &#x200B;](https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/Workfront+-+Admin+Chat+20231113+final+GBC)
-* [&#x200B; Workfront-gebruikersacceptatieonderzoek &#x200B;](https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/Workfront+User+Adoption+Survey+2022+final_Admin+chat)
+* [Workfront Guide to adoption Surveys](https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/Workfront+Guide+to+Adoption+Surveys)
+* [Workfront Admin Chat - Cognizant](https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/Workfront+-+Admin+Chat+20231113+final+GBC)
+* [Workfront-enquête over gebruikersacceptatie](https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/Workfront+User+Adoption+Survey+2022+final_Admin+chat)
 
-Wilt u meer informatie over adoptie en algemene onboarding? Bekijk onze blog! - [&#x200B; Nieuwe klanten van Workfront! Welkom bij de Adobe Workfront Customer Success on boarding Blog!](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/new-workfront-customers-welcome-to-the-adobe-workfront-customer/ba-p/635927?profile.language=nl)
+Wilt u meer informatie over adoptie en algemene onboarding? Bekijk onze blog! - [ Nieuwe klanten van Workfront! Welkom bij de Adobe Workfront Customer Success on boarding Blog!](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/new-workfront-customers-welcome-to-the-adobe-workfront-customer/ba-p/635927)
 
 ## Over de spreker
 
@@ -46,4 +47,4 @@ Jaime is een ervaren marktleider op het gebied van automatisering en procesoptim
 
 ## Heb je iets te delen?
 
-Hebt u een geweldig verhaal om te delen, tijdens een gebeurtenis of in een video van Expert Insights? Gelieve te bereiken uit aan ons team in [&#x200B; CSatScale@adobe.com &#x200B;](mailto:CSatScale@adobe.com).
+Hebt u een geweldig verhaal om te delen, tijdens een gebeurtenis of in een video van Expert Insights? Gelieve te bereiken uit aan ons team in [ CSatScale@adobe.com ](mailto:CSatScale@adobe.com).

@@ -4,14 +4,15 @@ description: Leer hoe u een door Adobe beheerde CDN configureert in AEM Cloud Se
 role: Developer, User
 level: Intermediate
 feature: Edge Delivery Services
+topic: Security, Performance, Certification
 doc-type: Event
 duration: 3438
 last-substantial-update: 2025-01-30T00:00:00Z
 jira: KT-17227
 exl-id: 4cd0332f-95bf-45f4-a765-aba020c0d7b0
-source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '437'
+source-wordcount: '447'
 ht-degree: 0%
 
 ---
@@ -29,7 +30,7 @@ Meer informatie over de door Adobe beheerde CDN in AEM Cloud Service en over de 
 
 *Opgenomen op 22 Januari, 2025*
 
-Heb je een vraag, misschien een opmerking?  Sluit me aan bij de bespreking in de [&#x200B; Gemeenschappen van Experience League &#x200B;](https://adobe.ly/4haufPK)!
+Heb je een vraag, misschien een opmerking?  Sluit me aan bij de bespreking in de [ Gemeenschappen van Experience League ](https://adobe.ly/4haufPK)!
 
 ## Toetsen
 
@@ -44,7 +45,7 @@ Heb je een vraag, misschien een opmerking?  Sluit me aan bij de bespreking in de
 * **de Transformaties van het Verzoek** wijzigen kopballen, herschrijven wegen, blokverkeer, en richten verzoeken opnieuw.
 * **Filters van het Verkeer** Blok of staat verkeer toe dat op specifieke regels wordt gebaseerd.
 * **Steun van de Authentificatie** voor randsleutel, ponssleutel, en basisauthentificatie.
-* **de verzoeken van de Volmacht van de Selecteurs van de Oorsprong van 0&rbrace; aan verschillende oorsprong die op bepaalde regels wordt gebaseerd.**
+* **de verzoeken van de Volmacht van de Selecteurs van de Oorsprong van 0} aan verschillende oorsprong die op bepaalde regels wordt gebaseerd.**
 * **Transformaties van de Reactie** wijzigt reactiekopballen en status.
 
 ### Implementatie en aanpassing

@@ -3,18 +3,20 @@ title: AI Assistant - Buiten de basisbeginselen
 description: Leer hoe u in AEP met vertrouwen AI Assistant kunt gebruiken. Dit omvat instellingen, belangrijke gebruiksgevallen, praktische tips en volgende functies om de efficiëntie van de workflow en het marketingeffect te verhogen.
 role: Developer, Leader, User
 solution: Experience Platform
+feature: AI Assistant
+topic: Performance
 level: Intermediate
 doc-type: Event
 duration: 2324
 last-substantial-update: 2025-06-12T00:00:00Z
 jira: KT-18247
-source-git-commit: a6dc33c7c991f949fd72539525e64af57520778f
+exl-id: ad9ca09b-6cb2-4118-af19-da395a5d19b2
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---
-
 
 # AI Assistant - Buiten de basisbeginselen
 
@@ -26,4 +28,4 @@ Belangrijke discussiepunten
 * Onderzoek zeer belangrijke gebruiksgevallen, de toepassing van mogelijkheden, en uiteinden en trucs voor rijpheidsprogressie.
 * Bespreek de volgende mogelijkheden en verbeteringen van het
 
->[!VIDEO](https://video.tv.adobe.com/v/3463364/?learn=on&enablevpops&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3463357/?learn=on&enablevpops)

@@ -3,19 +3,20 @@ title: Metadata Mayhem to Mastery
 description: Leer deskundige tips voor het implementeren van de AEM Assets- en Workfront-connector, het in kaart brengen van metagegevens en het uitlijnen van rollen voor een geslaagde implementatie.
 solution: Experience Manager, Workfront, Experience Manager Assets
 feature: Metadata
+topic: Integrations
 role: Admin, User
 level: Beginner, Intermediate
 doc-type: Event
 duration: 3613
 last-substantial-update: 2025-11-14T00:00:00Z
 jira: KT-19693
-source-git-commit: dc8346b9341c7413a7c9571667f6cf0bb5914dd5
+exl-id: 5de073f2-ae5c-49b8-968b-f0b1447f665b
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '113'
 ht-degree: 0%
 
 ---
-
 
 # Metadata Mayhem to Mastery
 

@@ -1,6 +1,8 @@
 ---
 title: Verschillende bedrijfsmodellen met Commerce en Composability inschakelen
 description: De vergadering was voornamelijk gericht op het mogelijk maken van verschillende bedrijfsmodellen in Adobe Commerce, het benadrukken van B2B-trends op het gebied van de handelsgroei, het benadrukken van het belang van het vereenvoudigen van integratie voor naadloze upgrades, het tonen van persoonlijke B2B-tot-B2C-interacties via een demo, het bespreken van Adobe Commerce-mogelijkheden zoals omnichannel ondersteuning en API-netwerkintegratie, het benadrukken van de voordelen van composable commercediensten, het introduceren van de App Builder voor schaalbare aanpassingen en abonnementsbeheer binnen het platform voor schaalbaar beheer.
+feature: Integration, Headless, B2B
+topic: Headless, Personalization, Integrations
 role: Admin, Developer, User
 level: Beginner, Intermediate
 doc-type: Event
@@ -8,9 +10,9 @@ duration: 3594
 last-substantial-update: 2024-06-15T00:00:00Z
 jira: KT-15741
 exl-id: 2be2bcd3-b595-4362-a7f8-91b1001da874
-source-git-commit: 8bcf45a53f15844f4aa101e0267b63dff0858ac8
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '330'
+source-wordcount: '332'
 ht-degree: 0%
 
 ---

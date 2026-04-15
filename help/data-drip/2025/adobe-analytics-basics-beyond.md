@@ -1,6 +1,8 @@
 ---
 title: Adobe Analytics Basics en Beyond
 description: Sluit u aan bij Taylor Walker en Vishnu Pillai's webinar om Adobe Analytics onder de knie te krijgen, werkruimten te optimaliseren, gegevens te exporteren en gereedschappen te integreren. Kijk nu naar deskundige inzichten
+feature: Analysis Workspace, Segmentation, Visualizations
+topic: Integrations, Performance
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -8,9 +10,9 @@ duration: 3437
 last-substantial-update: 2025-01-25T00:00:00Z
 jira: KT-17172
 exl-id: 348404c6-3886-4af0-ae16-82ff379d0181
-source-git-commit: 87945f25760d168144b852b88eb2a0b9a5021946
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '393'
+source-wordcount: '399'
 ht-degree: 0%
 
 ---
@@ -33,10 +35,10 @@ In dit webinar begeleiden Taylor Walker en Vishnu Pillai ons door de basisbegins
 
    * **Workspace** de belangrijkste nadruk was op de werkruimte binnen Adobe Analytics, met inbegrip van hoe te navigeren en verschillende panelen, visualisaties, en componenten te gebruiken.
    * **Nadruk van de Wegen van de Opleiding en van het Leren van Paden** op de beschikbaarheid van opleidingsleerprogramma&#39;s, het leren wegen, en middelen zoals Experience League en de Adobe Analytics YouTube pagina voor verder leren.
-   * **Discussie van de Opties van de Uitvoer van Gegevens van 0&rbrace; &lbrace;over het uitvoeren van gegevens gebruikend gegevensvoer, gegevenspakhuis, FTP, en SFTP, met een demo op de feeds van opstellingsgegevens.**
+   * **Discussie van de Opties van de Uitvoer van Gegevens van 0} {over het uitvoeren van gegevens gebruikend gegevensvoer, gegevenspakhuis, FTP, en SFTP, met een demo op de feeds van opstellingsgegevens.**
    * **Customer Journey Analytics (CJA)** Inleiding aan CJA en zijn integratie met Adobe Analytics voor een meer holistische mening van gegevens.
 
-* **Aanbevelingen van de Beste praktijken van 0&rbrace; &lbrace;bij het gebruiken van markeringen, omslagen, en het delen opties om projecten georganiseerd en toegankelijk te houden.**
+* **Aanbevelingen van de Beste praktijken van 0} {bij het gebruiken van markeringen, omslagen, en het delen opties om projecten georganiseerd en toegankelijk te houden.**
 
 * **Gevallen van het Gebruik en de Voorbeelden van de Analyse** van hoe te om Adobe Analytics voor diverse bedrijfsvragen te gebruiken, zoals het analyseren van de prestaties van de marketing campagne, het begrijpen van klantenreizen, en het identificeren van wrijvingspunten op digitale eigenschappen.
 

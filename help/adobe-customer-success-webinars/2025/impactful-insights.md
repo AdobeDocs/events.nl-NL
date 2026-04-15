@@ -2,6 +2,8 @@
 title: Impactful Insights - Crafting Strategies for Effective Measurement
 description: Een goed geïmplementeerde meetstrategie verbetert de operationele efficiëntie, bevordert gegevensgestuurde besluitvorming en verbetert de ervaringen van klanten, waardoor organisaties een concurrentievoordeel krijgen.
 solution: General
+feature: Analytics Basics
+topic: Performance, Development
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -9,9 +11,9 @@ duration: 2814
 last-substantial-update: 2025-02-18T00:00:00Z
 jira: KT-17378
 exl-id: f40c7d75-1b2e-43d5-80dd-99f87c003cac
-source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '200'
+source-wordcount: '205'
 ht-degree: 0%
 
 ---

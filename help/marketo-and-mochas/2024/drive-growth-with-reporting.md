@@ -2,6 +2,8 @@
 title: Marketo & Mochas - Groei stimuleren met Rapportering (Looptijd Pt 3)
 description: Word lid van Adobe Business Advisors, Cynthia Chang en Carly Gaver, voor Deel 3 van de Marketo-webinarserie over de rijpheid, en ontdek hoe u de rapportagetools van Marketo kunt gebruiken om de groei van uw bedrijf te stimuleren, de prestaties te controleren en effectvolle meetgegevens te leveren, met live vragen en antwoorden.
 solution: Marketo Engage
+feature: Programs, Smart Lists, Reporting
+topic: Performance, Administration
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -9,9 +11,9 @@ duration: 3505
 last-substantial-update: 2024-10-30T00:00:00Z
 jira: KT-16392
 exl-id: 4ad37a4b-8544-4000-8e21-062e3f93909e
-source-git-commit: 3f2a8375249858c4905d9058570dffcd4dcd8622
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '452'
+source-wordcount: '456'
 ht-degree: 0%
 
 ---
@@ -44,7 +46,7 @@ Looptijd Deel 3 maakt deel uit van de Marketo Looptijdreeks en richt zich op het
 
 ### Gereedschappen en aanbevolen procedures
 
-* **het Rapport van Prestaties van de E-mail van de Prestaties van de 1&rbrace; Controle e-mailmetriek zoals leverbaarheid, open tarieven, en unsubscribe tarieven.**
+* **het Rapport van Prestaties van de E-mail van de Prestaties van de 1} Controle e-mailmetriek zoals leverbaarheid, open tarieven, en unsubscribe tarieven.**
 * **E-mailInzichten** **Visuele dashboard voor e-mailprestaties, uitvoerbaar aan Excel, PDF, of PowerPoint.
 * **het Rapport van de Prestaties van het Programma** het Volgen programmastatussen en prestaties.
 * **de Inspecteur van de Campagne** die actieve trekker en partijcampagnes controleert om backlogs te vermijden.
@@ -53,8 +55,8 @@ Looptijd Deel 3 maakt deel uit van de Marketo Looptijdreeks en richt zich op het
 ### Veelvoorkomende problemen en oplossingen
 
 * **Achtergrond van de Campagne** die door veelvoudige processen wordt veroorzaakt die omhoog stapelen, teveel trekkercampagnes, en inefficiënte slimme lijsten.
-* **Gemeenschappelijke kwesties van de Synchronisatie van 0&rbrace; CRM omvatten toestemmingen, gebiedsbevestiging, de grenswaarde van CPU van de apex, en veranderingen in picklist waarden.**
-* **de Toegang en het Bestuur van de Gebruiker van 0&rbrace; controleren regelmatig gebruikerstoegang en het verzekeren van naleving van governance beste praktijken.**
+* **Gemeenschappelijke kwesties van de Synchronisatie van 0} CRM omvatten toestemmingen, gebiedsbevestiging, de grenswaarde van CPU van de apex, en veranderingen in picklist waarden.**
+* **de Toegang en het Bestuur van de Gebruiker van 0} controleren regelmatig gebruikerstoegang en het verzekeren van naleving van governance beste praktijken.**
 
 ### Geavanceerde rapportage en analyse
 

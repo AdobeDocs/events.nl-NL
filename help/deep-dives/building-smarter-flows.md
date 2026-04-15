@@ -2,19 +2,20 @@
 title: Automatiseer en vernieuw de Slimme Stromen van de Bouw met Webhooks & Zelfbediening Stappen van de Stroom (SSFS)
 description: Deze diepe duik van Marketo omvat Webhooks en Zelfbediening Stappen van de Stroom (SSFS) om u te helpen slimmere, AI-klaar marketing automatisering bouwen. Leer opstelling beste praktijken, integratietechnieken in real time, en praktische gebruiksgevallen met inbegrip van updates CRM, gegevensverrijking, douanestroomlogica, en op AI-Gebaseerde werkschema's. Ideaal voor Marketo-gebruikers, MOP's-teams en beheerders die zich richten op een betere gegevenskwaliteit en betere campagneresultaten.
 feature: Webhooks
+topic: Integrations, Security, Development
 role: Admin, Developer, User
 level: Intermediate, Experienced
 doc-type: Event
 duration: 3177
 last-substantial-update: 2026-02-25T00:00:00Z
 jira: KT-20403
-source-git-commit: a242376e1d74f6405183a1e3e75ba6a991946886
+exl-id: ad847106-fb71-41c7-9584-a19d5da44024
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '412'
+source-wordcount: '433'
 ht-degree: 0%
 
 ---
-
 
 # Automatiseer en vernieuw de Slimme Stromen van de Bouw met Webhooks &amp; Zelfbediening Stappen van de Stroom (SSFS)
 
@@ -52,9 +53,8 @@ Het hoogtepunt zal een reeks real-world gebruiksgevallen zijn, culminerend in ee
 
 ## Doelpubliek
 
-* **Beroeps van de Gebruikers van Marketo van 0&rbrace; gebruiken of overwegen reeds Marketo die hun marketing mogelijkheden willen uitbreiden.**
+* **Beroeps van de Gebruikers van Marketo van 0} gebruiken of overwegen reeds Marketo die hun marketing mogelijkheden willen uitbreiden.**
 * **de Beroeps van de Verrichtingen van de Marketing** MOPs teams verantwoordelijk voor het beleid van Marketo en gegevenskwaliteit
 * **de Beheerders van Marketo** die gegevensbestandarchitectuur, integratie, en technische infrastructuur beheren
-* **Organisaties van de Goedkeuring van 0&rbrace; AI/van de Automatisering &lbrace;&lbrace;die hun instantie van Marketo voor AI-Bewuste mogelijkheden voorbereiden**
-* **Teams van de 10&rbrace; Gegevens-Begrijpende Marketers &lbrace;die de gegevenskwaliteit, rapporteringsnauwkeurigheid, en campagnedoeltreffendheid willen verbeteren**
-
+* **Organisaties van de Goedkeuring van 0} AI/van de Automatisering {{die hun instantie van Marketo voor AI-Bewuste mogelijkheden voorbereiden**
+* **Teams van de 10} Gegevens-Begrijpende Marketers {die de gegevenskwaliteit, rapporteringsnauwkeurigheid, en campagnedoeltreffendheid willen verbeteren**

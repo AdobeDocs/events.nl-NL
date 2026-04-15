@@ -2,15 +2,17 @@
 title: Programma's maken binnen  [!DNL Marketo Engage]
 description: Deze zitting zal u allen over de Structuur van het Programma met inbegrip van de Types van Programma, Kanalen & Statussen en Markeringen leren.
 solution: Marketo Engage
+feature: Programs, Reporting
+topic: Artificial Intelligence, Personalization
 role: User
 level: Beginner
 kt: 10324
 thumbnail: 342555.jpeg
 exl-id: b4d71211-5eff-440c-8fd5-9de2a248695e
 duration: 2923
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '105'
 ht-degree: 0%
 
 ---

@@ -5,13 +5,15 @@ role: Admin
 level: Beginner
 doc-type: Event
 solution: Experience Platform, Real-Time Customer Data Platform, Journey Optimizer, Customer Journey Analytics
+feature: AI Assistant, Audiences, Journeys, Use Cases
+topic: Artificial Intelligence, Personalization, Integrations
 duration: 2813
 last-substantial-update: 2024-10-30T00:00:00Z
 jira: KT-16367
 exl-id: 29400794-7b24-41e8-a3b5-e15337ecb62f
-source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '372'
+source-wordcount: '379'
 ht-degree: 0%
 
 ---
@@ -66,7 +68,7 @@ Generatieve AI wordt snel toegepast, waarbij 89% van de marketers van mening is 
 
 * De AI-assistent is standaard uitgeschakeld en vereist beheerdersmachtigingen.
 * Ondersteunt op rollen gebaseerd, op objecten gebaseerd en op kenmerken gebaseerd toegangsbeheer.
-* Kijkt niet naar de gegevens van de eindverbruiker en gebruikt Azure Open AI voor verwerking.
+* Hierbij wordt niet gekeken naar gegevens van eindgebruikers en wordt Azure Open AI voor verwerking gebruikt.
 
 ### Toegang verkrijgen
 

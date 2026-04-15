@@ -3,19 +3,20 @@ title: Smarter Marketing begint hier - Google en Adobe integreren
 description: Sluit zich aan bij Adswerve's VP of Digital Strategy, Charles Farina, en Adobe Principal Product Marketer, Danielle Doolin, voor een inzichtelijk webinar dat de transformatieve kracht van het integreren van toonaangevende platforms onderzoekt.
 solution: Customer Journey Analytics
 feature: Use Cases
+topic: Personalization, Integrations, Security
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Value Video
 duration: 3373
 last-substantial-update: 2025-05-05T00:00:00Z
 jira: KT-18029
-source-git-commit: b0f07b52c50ea008e8d0569ef7c8687a9e806f72
+exl-id: 49aa946f-cfc0-49dc-93f5-907ec48048c1
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '323'
+source-wordcount: '328'
 ht-degree: 0%
 
 ---
-
 
 # Smarter Marketing begint hier: Google en Adobe integreren
 

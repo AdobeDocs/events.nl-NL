@@ -3,15 +3,17 @@ title: Workfront gebruiken voor webinar voor training en activering
 description: Ontdek hoe Workfront de werknemerstraining in ons webinar op aanvraag verbetert. Geniet van inzichten van JPMorgan Chase, IBM en Adobe Workfront experts over het creëren van op maat gemaakte paden, het organiseren van materialen en het inzetten van Workfront voor effectieve instaptoegang en langetermijnadoptie.
 role: Admin
 solution: Workfront
+feature: System Setup and Administration, Work Management
+topic: Administration, Integrations
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3574
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15826
 exl-id: 8300b149-1e69-4a29-b0ab-8134d46df4a4
-source-git-commit: dc8346b9341c7413a7c9571667f6cf0bb5914dd5
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '175'
 ht-degree: 0%
 
 ---

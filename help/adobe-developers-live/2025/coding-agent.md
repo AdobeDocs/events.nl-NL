@@ -1,19 +1,21 @@
 ---
 title: AI Codering Showdown - The Good, Bad & Ugly
 description: Onderzoek AI coderingsagenten in actie met Adobe Experience Manager, onthullend sterke punten en uitdagingen in echte scenario's.
+feature: Edge Delivery Services
+topic: Artificial Intelligence, Development
 role: Developer
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 1603
 last-substantial-update: 2025-12-10T00:00:00Z
 jira: KT-19973
-source-git-commit: 76b4e64093ebad269534b65c41c4bda1a6bb468f
+exl-id: 9ef082f9-5051-4a04-9559-cef70a6d7e31
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---
-
 
 # AI Codering Showdown: The Good, Bad, and Ugly
 
@@ -27,5 +29,5 @@ In het bijzonder dank ik onze sponsors Algolië en Ensemble voor hun steun aan A
 
 ## Volgende stappen
 
-* Ga op [&#x200B; Experience League &#x200B;](https://adobe.ly/47ss08A) verder
-* Ontdek [&#x200B; aanstaande gebeurtenissen &#x200B;](https://developerevents.adobe.com)
+* Ga op [ Experience League ](https://adobe.ly/47ss08A) verder
+* Ontdek [ aanstaande gebeurtenissen ](https://developerevents.adobe.com)

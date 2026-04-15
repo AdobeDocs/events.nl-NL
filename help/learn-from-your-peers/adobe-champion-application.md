@@ -2,6 +2,8 @@
 title: Leer hoe u een Champion toepast en opvalt
 description: Sluit u aan bij het team voor adoptie-marketing van Adobe en de huidige Adobe Champions voor een exclusief webinar, waar we u door het programma zullen begeleiden en tips zullen delen over het indienen van een evaluatietoepassing.
 solution: General
+feature: Developer Tools
+topic: Development
 role: Admin, Developer, Leader, User
 level: Intermediate, Experienced
 doc-type: Event
@@ -9,9 +11,9 @@ duration: 3519
 last-substantial-update: 2025-05-20T00:00:00Z
 jira: KT-18134
 exl-id: 57953e9b-2bed-4b5b-b345-84f00f2801ff
-source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '174'
 ht-degree: 0%
 
 ---

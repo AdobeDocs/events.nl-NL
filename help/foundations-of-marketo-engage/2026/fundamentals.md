@@ -1,19 +1,21 @@
 ---
 title: Sessie 1 van 2026 - Grondbeginselen van Marketo Engage
 description: Leer de basisbeginselen van Marketo Engage, zoals navigatie, basisfuncties en automatiseringsgereedschappen om uw marketingcampagnes op een betrouwbare manier te beheren.
+feature: Programs, Reporting
+topic: Artificial Intelligence, Personalization
 role: User
 level: Beginner
 doc-type: Event
 duration: 3560
 last-substantial-update: 2026-03-31T00:00:00Z
 jira: KT-20742
-source-git-commit: b0f9751c3e081316fa82cbde237404ba0c5fc07f
+exl-id: a7748412-2baf-4ec1-8fca-5499150af7c6
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '182'
 ht-degree: 0%
 
 ---
-
 
 # Sessie 1 van 2026: Grondbeginselen van Marketo Engage
 
@@ -30,5 +32,3 @@ Onze eerste sessie begint deze maand met een praktische inleiding over hoe Marke
 
 * Nieuwere gebruikers van Marketo Engage of gebruikers die pas aan de slag gaan met het platform.
 * Praktijken met beperkte praktijkervaring die vertrouwen willen opbouwen gebruikend kerneigenschappen.
-
-

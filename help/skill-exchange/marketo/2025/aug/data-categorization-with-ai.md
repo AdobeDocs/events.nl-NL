@@ -2,6 +2,7 @@
 title: Gegevenscategorisering in Marketo Engage verbeteren met Fijne AI-modellen
 description: Ontdek hoe u geavanceerde AI-modellen in Marketo Engage kunt gebruiken voor het detecteren van spam, het aanpassen van taaktitels aan persona's en het categoriseren van open tekstvelden met websites.
 solution: Marketo Engage
+feature: Reporting
 topic: Artificial Intelligence
 role: User
 level: Beginner, Intermediate, Experienced
@@ -10,9 +11,9 @@ duration: 0
 last-substantial-update: 2025-08-29T00:00:00Z
 jira: KT-18864
 exl-id: e952d6e7-fb3d-4e5f-9912-825fbd303cc2
-source-git-commit: 91120ff6bfd81c7b3c9218fbbb6dbff9397b37e6
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '293'
+source-wordcount: '357'
 ht-degree: 0%
 
 ---
@@ -33,15 +34,15 @@ U leert over,
 
 ## AI Gevallen van het Gebruik voor de Indeling van Gegevens
 
-* **AI modellen van de Detectie van 0&rbrace; Spam overtreffen CAPTCHA, verminderend valse positieven/negatieven en besparend de tijd van verkoopteams.**
+* **AI modellen van de Detectie van 0} Spam overtreffen CAPTCHA, verminderend valse positieven/negatieven en besparend de tijd van verkoopteams.**
 * **Persona die** AI nauwkeurig in kaart brengt baantitels (zelfs met spelfouten of in andere talen) aan persona&#39;s, verbeterend lood het scoren en segmentatie.
-* **AI emmers van het Gebied van de Tekst van 0&rbrace; de Open Indeling van het Gebied van de Tekst &lbrace; diverse attributiebronnen, behandelend spelfouten en talen, toelatend rijkere inzichten en rapportering.**
+* **AI emmers van het Gebied van de Tekst van 0} de Open Indeling van het Gebied van de Tekst { diverse attributiebronnen, behandelend spelfouten en talen, toelatend rijkere inzichten en rapportering.**
 * **Aanpassings** Getrouwde modellen van de Aanpassing staan u toe om regels en verklaringen voor elke categorisering te bepalen, die u volledige controle over resultaten geven.
 
 
 ## Aanvullende bronnen
 
-* [&#x200B; Fijne AI modellen voor Marketo Engage &#x200B;](https://nation.marketo.com/t5/champion-program-blogs/fine-tuned-ai-models-for-marketo/ba-p/357019)
-* [&#x200B; Gids van het Begin van het Snel Begin van de Webhaak &#x200B;](https://nation.marketo.com/t5/champion-program-blogs/webhook-quick-start-guide/ba-p/345717#M2640)
-* [&#x200B; Integrating ChatGPT met Marketo Engage &#x200B;](https://nation.marketo.com/t5/champion-program-blogs/integrating-chatgpt-with-marketo/ba-p/346886)
-* [&#x200B; Zelfbediening Gids van de Stappen van de Stroom &#x200B;](https://nation.marketo.com/t5/champion-program-blogs/self-service-flow-steps-guide/ba-p/357008)
+* [Geavanceerde AI-modellen voor Marketo Engage](https://nation.marketo.com/t5/champion-program-blogs/fine-tuned-ai-models-for-marketo/ba-p/357019)
+* [Handleiding Snel aan de slag met webhaak](https://nation.marketo.com/t5/champion-program-blogs/webhook-quick-start-guide/ba-p/345717#M2640)
+* [ChatGPT integreren met Marketo Engage](https://nation.marketo.com/t5/champion-program-blogs/integrating-chatgpt-with-marketo/ba-p/346886)
+* [Zelfbedieningsstroomstapgids](https://nation.marketo.com/t5/champion-program-blogs/self-service-flow-steps-guide/ba-p/357008)

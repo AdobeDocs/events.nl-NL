@@ -2,6 +2,7 @@
 title: Commerce en koffie - 2021-vakantieretrospectief
 description: Tijdens deze sessie bekijken we hoe het landschap van eCommerce is gelukt tijdens het unieke vakantieseizoen van 2021. Met deze lessen bespreken we methoden om de Adobe Commerce-strategie in 2022 beter te beïnvloeden. Corey toont vervolgens waarschuwingen over productvoorraden, ophaling van BOPIS/Curbside, beloningen en loyaliteit en nog veel meer. De presentatie en de demo gaan vergezeld van een live Vragen en antwoorden met Corey.
 solution: Commerce
+feature: Integration, Edge Delivery Services
 topic: Commerce
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -11,9 +12,9 @@ kt: 11654
 thumbnail: 3412715.jpeg
 exl-id: 8a603d4f-50d5-4221-8bcc-c6359bc91ed8
 duration: 3565
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '131'
 ht-degree: 0%
 
 ---

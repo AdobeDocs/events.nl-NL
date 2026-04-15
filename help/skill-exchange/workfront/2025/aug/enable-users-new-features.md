@@ -3,19 +3,20 @@ title: Gebruikers inschakelen voor nieuwe functies - Agitatie is het leven
 description: 'Leer strategieën om de acceptatie van Workfront te stimuleren: aantrekkelijke gebruikers, het uitlijnen van functies op bedrijfsdoelen en het gebruik van analyses om rollouts te verbeteren.'
 solution: Workfront
 feature: Get Started with Workfront, Resource Management
+topic: Integrations, Administration
 role: User
 level: Beginner
 doc-type: Event
 duration: 0
 last-substantial-update: 2025-09-02T00:00:00Z
 jira: KT-18874
-source-git-commit: 91120ff6bfd81c7b3c9218fbbb6dbff9397b37e6
+exl-id: 92f42aad-f0e5-4d89-9d98-dc92891b3254
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '357'
+source-wordcount: '359'
 ht-degree: 0%
 
 ---
-
 
 # Gebruikers inschakelen voor nieuwe functies: Agitation is Life
 

@@ -1,17 +1,18 @@
 ---
 title: Experttips om uw vakantiecampagnes te laten uitkomen
-description: Net zoals het nooit te vroeg is om je vakantieboodschappen te beginnen, is het nooit te vroeg om een welwillende vakantiemarketingcampagne te beginnen. Met Adobe Campaign kunt u campagnes ontwerpen, plannen en uitvoeren die ervoor zorgen dat alle wensen van uw organisatie op het gebied van vakantie uitkomen. Maar weet je wel wat de tips zijn voor het voeren van campagnes die het jaar uit zullen eindigen met een klap? Doe mee aan een live discussie met drie deskundigen van de Adobe die daar gezamenlijk deskundig mee zijn. We zullen het hebben over de best practices voor leverantie en uitvoering en laten zien hoe u dit allemaal kunt doen in Adobe Campaign.
+description: Net zoals het nooit te vroeg is om je vakantieboodschappen te beginnen, is het nooit te vroeg om een welwillende vakantiemarketingcampagne te beginnen. Met Adobe Campaign kunt u campagnes ontwerpen, plannen en uitvoeren die ervoor zorgen dat alle wensen van uw organisatie op het gebied van vakantie uitkomen. Maar weet je wel wat de tips zijn voor het voeren van campagnes die het jaar uit zullen eindigen met een klap? Doe mee aan een live discussie met drie Adobe-experts die daar gezamenlijk kennis van hebben. We zullen het hebben over de best practices voor leverantie en uitvoering en laten zien hoe u dit allemaal kunt doen in Adobe Campaign.
 solution: Campaign
 feature: Deliverability
+topic: Development
 role: User
 kt: 8581
 event-start-time: 2021-09-22 09:00-7
 event-guests: Sandra Hausmann,Bruce Swann,Alyssa Nahatis,Stephen Ford
 exl-id: f31c00e6-0981-4224-b4c5-1bab123e9587
 duration: 2744
-source-git-commit: 0b2f63198af8767f24783dbafd244c9398c24f33
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '256'
 ht-degree: 0%
 
 ---
@@ -20,9 +21,9 @@ ht-degree: 0%
 
 Net zoals het nooit te vroeg is om je vakantieboodschappen te beginnen, is het nooit te vroeg om een welwillende vakantiemarketingcampagne te beginnen. Met Adobe Campaign kunt u campagnes ontwerpen, plannen en uitvoeren die ervoor zorgen dat alle wensen van uw organisatie op het gebied van vakantie uitkomen. Maar weet je wel wat de tips zijn voor het voeren van campagnes die het jaar uit zullen eindigen met een klap?
 
-Doe mee aan een live discussie met drie deskundigen van de Adobe die daar gezamenlijk deskundig mee zijn. We zullen het hebben over de best practices voor leverantie en uitvoering en laten zien hoe u dit allemaal kunt doen in Adobe Campaign.
+Doe mee aan een live discussie met drie Adobe-experts die daar gezamenlijk kennis van hebben. We zullen het hebben over de best practices voor leverantie en uitvoering en laten zien hoe u dit allemaal kunt doen in Adobe Campaign.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337219/?quality=12&learn=on)
 
-Om deze zitting te bespreken, gelieve de [&#x200B; bespreking in de Gemeenschap van het Experience League &#x200B;](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/questions-and-discussion-for-experience-league-live-ep-3-expert/td-p/425205?profile.language=nl){target="_blank"} te bezoeken .
+Om deze zitting te bespreken, gelieve de [ bespreking in de Gemeenschap van Experience League ](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/questions-and-discussion-for-experience-league-live-ep-3-expert/td-p/425205){target="_blank"} te bezoeken.
 

@@ -2,6 +2,7 @@
 title: SLA Reporting in Workfront met Madalyn Destafney
 description: Leer hoe u SLA's (Service Level Agreements) in Adobe Workfront kunt implementeren en meten met deskundige tips van Madalyn Destafney, inclusief stapsgewijze instructies, berekende praktijkvoorbeelden en aanbevolen procedures voor aangepaste formulieren.
 feature: Reports and Dashboards
+topic: Performance, Certification
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 speaker-name-1: Madalyn Destafney
@@ -12,9 +13,9 @@ duration: 1616
 last-substantial-update: 2025-08-08T00:00:00Z
 jira: KT-18623
 exl-id: 0d870372-4605-4d42-b539-5de2943a2682
-source-git-commit: 2f10210e5c92e5c1bf77c886ed347cdc967f089e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '360'
 ht-degree: 0%
 
 ---
@@ -23,25 +24,25 @@ ht-degree: 0%
 
 Welkom bij een andere tranche van Expert Insights!  Ik ben Cynthia Boon, uw &quot;On-Demand&quot; Workfront CSM en ik ben blij dat we de enige hebben, Madalyn Destafney, die een deel van haar uitgebreide ervaring deelt om klanten te helpen bij het implementeren en meten van Service Level Agreements (SLA&#39;s) met Workfront. 
 
->[!VIDEO](https://video.tv.adobe.com/v/3469984/?learn=on&enablevpops&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3469901/?learn=on&enablevpops)
 
 Zoals in de video wordt beloofd, is de presentatie van Madalyn gekoppeld aan haar stappen, berekende expressies en rapportvoorbeelden. 
 
-* [&#x200B; Madalyn&#39;s Schuifdek PDF &#x200B;](https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/SLA+Reporting.pdf)
+* [Madalyn&#39;s Slide deck PDF](https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/SLA+Reporting.pdf)
 
 ## Bronnen
 
 Tijdens de presentatie heeft Madalyn haar aangepaste formulieren en berekende velden gedeeld. Als u dus nog maar aan de slag gaat met deze functies, zijn er koppelingen waarmee u in de juiste richting kunt wijzen. 
 
-* De Playlist van het leerprogramma - [&#x200B; creeer en deel Aangepaste Forms &#x200B;](https://experienceleague.adobe.com/nl/playlists/workfront-create-and-manage-custom-forms)
+* De Playlist van het leerprogramma - [ creeer en deel Aangepaste Forms ](https://experienceleague.adobe.com/en/playlists/workfront-create-and-manage-custom-forms)
 
-* Artikel - [&#x200B; wordt begonnen met berekende gebieden en uitdrukkingen &#x200B;](https://experienceleague.adobe.com/nl/docs/workfront-learn/tutorials-workfront/custom-data/calculated-expressions/get-started-with-calculated-fields-and-expressions)
+* Artikel - [ wordt begonnen met berekende gebieden en uitdrukkingen ](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/custom-data/calculated-expressions/get-started-with-calculated-fields-and-expressions)
 
-* Tips &amp; trucs - [&#x200B; Berekende Gebieden iedereen zou moeten kennen - en hoe te op hen te melden!](https://experienceleague.adobe.com/nl/docs/events/the-skill-exchange-recordings/workfront/apr2022/calculated-fields)
+* Tips &amp; trucs - [ Berekende Gebieden iedereen zou moeten kennen - en hoe te op hen te melden!](https://experienceleague.adobe.com/en/docs/events/the-skill-exchange-recordings/workfront/apr2022/calculated-fields)
 
 Wilt u meer tips van Madalyn? Bekijk haar hele serie tips en trucs in de Workfront Community! 
 
-* [&#x200B; De Bytes van de Tech van Dinsdag &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/tuesday-tech-bytes/m-p/625812?profile.language=nl#M2742)
+* [Dinsdag Tech-bytes](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/tuesday-tech-bytes/m-p/625812#M2742)
 
 ## Over de spreker 
 
@@ -49,4 +50,4 @@ Madalyn is al meer dan tien jaar een fervent Workfront-gebruiker en heeft meerde
 
 ## Heb je iets te delen?
 
-Hebt u een geweldig verhaal om te delen, tijdens een gebeurtenis of in een video van Expert Insights? Gelieve te bereiken uit aan ons team in [&#x200B; CSatScale@adobe.com &#x200B;](mailto:CSatScale@adobe.com).
+Hebt u een geweldig verhaal om te delen, tijdens een gebeurtenis of in een video van Expert Insights? Gelieve te bereiken uit aan ons team in [ CSatScale@adobe.com ](mailto:CSatScale@adobe.com).

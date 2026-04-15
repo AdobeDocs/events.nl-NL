@@ -2,19 +2,21 @@
 title: Journey Optimizer Mobile-mogelijkheden
 description: Deze introductiesessie voor Adobe Journey Optimizer stelt beginners in staat sms- en pushberichten voor klanten te maken die resultaten met personalisatie stimuleren. We zullen het fragmentgebruik en personalisatie bespreken.
 solution: Journey Optimizer
+feature: Journeys, Email Design, Audiences
+topic: Artificial Intelligence, Personalization, Integrations
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
 duration: 3294
 last-substantial-update: 2024-08-27T00:00:00Z
 jira: KT-16036
-source-git-commit: d1186a48229d38d8c5549286357ef1108dfac916
+exl-id: 2ff99ad3-4876-4760-af0f-c48a0c772e2e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '229'
 ht-degree: 0%
 
 ---
-
 
 # Journey Optimizer Mobile-mogelijkheden
 
@@ -37,7 +39,7 @@ Deze introductiesessie voor Adobe Journey Optimizer stelt beginners in staat sms
 **Configuratie van het Bericht van de duw**
 
 * Het bepalen van publiek, het plannen, en het bouwen van dupberichten met gepersonaliseerde inhoud en media.
-* Generatieve AI, zoals Firefly, gebruiken voor het maken van gepersonaliseerde afbeeldingen op basis van merkstijlen.
+* Het gebruiken van generatieve AI, zoals Firefly, voor het creëren van gepersonaliseerde beelden die op merkstijlen worden gebaseerd.
 
 **App Ontwikkeling en de Diensten**
 

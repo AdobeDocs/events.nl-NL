@@ -1,22 +1,24 @@
 ---
-title: Aan de slag met Adobe Journey Optimizer Analyse in Customer Journey Analytics
+title: Aan de slag met Adobe Journey Optimizer Analysis in Customer Journey Analytics
 description: Deze sessie is bedoeld om aan te tonen hoe Customer Journey Analytics en Adobe Journey Optimizer samenwerken om de meting van meerdere Adobe Journey Optimizer-campagnes en -reizen te stroomlijnen.
 solution: Customer Journey Analytics, Journey Optimizer
+feature: Integrations, Journeys
+topic: Integrations, Performance
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
 duration: 3218
 last-substantial-update: 2024-08-28T00:00:00Z
 jira: KT-16031
-source-git-commit: 12447442bb31bec89d2c82b45cf15a8c99bd34ce
+exl-id: 5cdd8fe0-32e5-4799-9695-73f37c80917c
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '215'
+source-wordcount: '216'
 ht-degree: 0%
 
 ---
 
-
-# Aan de slag met Adobe Journey Optimizer Analyse in Customer Journey Analytics
+# Aan de slag met Adobe Journey Optimizer Analysis in Customer Journey Analytics
 
 Deze sessie is bedoeld om aan te tonen hoe Customer Journey Analytics en Adobe Journey Optimizer samenwerken om de meting van meerdere Adobe Journey Optimizer-campagnes en -reizen te stroomlijnen.
 

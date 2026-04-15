@@ -1,13 +1,15 @@
 ---
 title: Overzicht van Adobe Experience Manager as a Cloud Service-release
 description: Bekijk een kort overzicht van de nieuwste functies op Adobe Experience Manager as a Cloud Service
+feature: Edge Delivery Services, Release Information, Developer Tools
+topic: Development, Headless
 user-guide-breadcrumb: AEM Release Events
 duration: 91
 hidefromtoc: true
 exl-id: eb9580ae-84c9-4c68-84c3-007e67b91a92
-source-git-commit: 4d0f5c7de34d29e86eb0c3a875015508776e8e16
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '814'
+source-wordcount: '776'
 ht-degree: 0%
 
 ---
@@ -31,8 +33,8 @@ Bekijk een kort overzicht van de nieuwste functies op Adobe Experience Manager a
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://video.tv.adobe.com/v/3440926/?learn=on&enablevpops&autoplay=true&captions=dut" title="2024.11.0 AEM Release-overzicht" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456080/?format=jpeg&captions=dut" alt="2024.11.0 AEM Release-overzicht"
+                    <a href="https://video.tv.adobe.com/v/3440920/?learn=on&enablevpops&autoplay=true" title="2024.11.0 AEM Release-overzicht" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456072/?format=jpeg" alt="2024.11.0 AEM Release-overzicht"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -145,7 +147,7 @@ Bekijk een kort overzicht van de nieuwste functies op Adobe Experience Manager a
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/2024-7-0.md" title="2024.7.0 AEM Release-overzicht" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432539/?format=jpeg&nocache=1733938196066&captions=dut" alt="2024.7.0 AEM Release-overzicht"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3431707/?format=jpeg&nocache=1733938196066" alt="2024.7.0 AEM Release-overzicht"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -191,7 +193,7 @@ Bekijk een kort overzicht van de nieuwste functies op Adobe Experience Manager a
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/2024-5-0.md" title="2024.5.0 AEM Release-overzicht" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3448068/?format=jpeg&nocache=1733938196089&captions=dut" alt="2024.5.0 AEM Release-overzicht"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429503/?format=jpeg&nocache=1733938196089" alt="2024.5.0 AEM Release-overzicht"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -214,7 +216,7 @@ Bekijk een kort overzicht van de nieuwste functies op Adobe Experience Manager a
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/2024-4-0.md" title="2024.4.0 AEM Release-overzicht" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3446313/?format=jpeg&nocache=1733938196102&captions=dut" alt="2024.4.0 AEM Release-overzicht"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429111/?format=jpeg&nocache=1733938196102" alt="2024.4.0 AEM Release-overzicht"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -237,7 +239,7 @@ Bekijk een kort overzicht van de nieuwste functies op Adobe Experience Manager a
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/2024-3-0.md" title="2024.3.0 AEM Release-overzicht" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3450613/?format=jpeg&nocache=1733938196095&captions=dut" alt="2024.3.0 AEM Release-overzicht"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428344/?format=jpeg&nocache=1733938196095" alt="2024.3.0 AEM Release-overzicht"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -260,7 +262,7 @@ Bekijk een kort overzicht van de nieuwste functies op Adobe Experience Manager a
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/2024-1-0.md" title="2024.1.0 AEM Release-overzicht" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3448935/?format=jpeg&nocache=1733938196099&captions=dut" alt="2024.1.0 AEM Release-overzicht"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427041/?format=jpeg&nocache=1733938196099" alt="2024.1.0 AEM Release-overzicht"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

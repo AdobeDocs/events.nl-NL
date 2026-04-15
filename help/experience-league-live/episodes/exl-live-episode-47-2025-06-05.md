@@ -4,18 +4,18 @@ description: Maken, samenwerken en activeren met Adobe Journey Optimizer, Adobe 
 kt: KT-18093
 solution: Journey Optimizer
 feature: Integrations, Email Design, Personalization
+topic: Personalization, Integrations, Security
 event-cta-url-live: https://youtube.com/live/tyXesNYv-eM
 event-start-time: 2025-06-05 08:30-7
 event-guests: Sandra Hausmann, Chris Ivory, Amarnath Vannarath, Rohan Bhatt
 last-substantial-update: 2025-06-06T00:00:00Z
 exl-id: 0f8157a2-b0d1-4d46-a682-0268dadb65c5
-source-git-commit: 389135f15fe353f4cc3e1100f65ae3fabaee141a
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '134'
 ht-degree: 0%
 
 ---
-
 
 # Gelijke workflows voor persoonlijke inhoud op schaal
 

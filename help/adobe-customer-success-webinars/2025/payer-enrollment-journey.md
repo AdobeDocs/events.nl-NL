@@ -1,6 +1,8 @@
 ---
 title: Modernisering van het pad naar inschrijving van lagen met AEM Forms
 description: Ontdek hoe AEM Forms de werkgevers in staat stelt inschrijvingsritten te moderniseren, processen te automatiseren, en aansprekende omnichannel klantenervaringen te leveren.
+feature: Release Information, Authoring
+topic: Personalization, Administration
 soluton: Experience Manager Forms
 role: Developer, User
 level: Intermediate, Experienced
@@ -8,13 +10,13 @@ doc-type: Event
 duration: 3550
 last-substantial-update: 2025-08-08T00:00:00Z
 jira: KT-18695
-source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
+exl-id: e7990fde-6d15-48ac-b539-bcb2fe31e7c7
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '226'
 ht-degree: 0%
 
 ---
-
 
 # Modernisering van het pad naar inschrijving van lagen met AEM Forms
 
@@ -24,7 +26,7 @@ Ontdek hoe de hulp van AEM Forms de Lagen van begin tot eind het inschrijvingsre
 
 ## Innovaties in formulierontwerp
 
-* **AI-Aangedreven 1&rbrace; creatie van de Vorm produceert vormen van kras of zet PDFs om gebruikend AI.**
+* **AI-Aangedreven 1} creatie van de Vorm produceert vormen van kras of zet PDFs om gebruikend AI.**
 * **Dynamische Regels** tonen of verbergen gebieden die op gebruikersinput voor gepersonaliseerde ervaringen worden gebaseerd.
 * **Interactieve Mededelingen** creeer pixel-perfecte PDFs voor regelgevende naleving.
 * **Multimodale Forms** laat op conversatie en beeld-gebaseerde vorm het vullen toe.

@@ -2,6 +2,7 @@
 title: Gebruikerservaring maximaliseren met Adobe Target AI-gestuurde Personalization
 description: In de sessie van John Magnusson over de door AI gestuurde personalisatie in Adobe Target werden de belangrijkste kenmerken en voorbeelden benadrukt, waarbij de nadruk werd gelegd op het framework Inschakelen, Uitbreiden en Insluiten.
 solution: Target
+feature: Segments, Profiles
 topic: Personalization, Artificial Intelligence
 role: Admin, Developer, Leader, User
 level: Intermediate
@@ -10,9 +11,9 @@ duration: 3186
 last-substantial-update: 2024-12-10T00:00:00Z
 jira: KT-16627
 exl-id: c1d89e23-1d6e-41a7-877c-1d016b4b39d0
-source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '375'
+source-wordcount: '387'
 ht-degree: 0%
 
 ---
@@ -41,4 +42,4 @@ De sessie over Adobe Target met door AI aangedreven personalisatie, onder leidin
 * **Experience League** geadviseerd als middel voor gedetailleerde documentatie en begeleiding bij het uitvoeren van de eigenschappen van Adobe Target.
 * **Hoogtepunten Q&amp;A**
    * Adobe Target kan via e-mailkanalen worden geïmplementeerd en worden geïntegreerd met Marketo.
-   * Het doel kan zijn eigen reeks verenigde klantenprofielen tot stand brengen en met CDP of het Soorten publiek van Adobe voor robuustere verpersoonlijking integreren.Vraag aan Actie** Aanwezigen werden aangemoedigd om gebruiksgevallen voor de personaliseringshulpmiddelen van Adobe Target te identificeren en hen toe te passen gebruikend de bepaalde strategie, het ontwerp, de uitvoering, de analyse, en de handelingscyclus.
+   * Het doel kan zijn eigen reeks verenigde klantenprofielen tot stand brengen en met CDP of het Publiek van Adobe voor robuustere verpersoonlijking integreren.Call to action** Aanwezigen werden aangemoedigd om te zoeken naar gebruiksgevallen voor Adobe Target-personaliseringsgereedschappen en deze toe te passen aan de hand van de gedefinieerde strategie, het ontwerp, de uitvoering, de analyse en de handelingscyclus.

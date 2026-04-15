@@ -1,23 +1,25 @@
 ---
 title: IMS-migratie onverpakt - De overgang voor Marketo-gebruikers vereenvoudigen
-description: De IMS-migratie voor Marketo-gebruikers naar het platform van Adobe omvat gedetailleerde stappen, voorbereiding en communicatie, met wijzigingen na de migratie en bronnen voor ondersteuning en komende gebeurtenissen.
+description: De IMS-migratie voor Marketo-gebruikers naar het Adobe-platform omvat gedetailleerde stappen, voorbereiding en communicatie, met wijzigingen na de migratie en bronnen voor ondersteuning en komende gebeurtenissen.
+feature: Reporting
+topic: Performance, Migration
 role: Admin, Developer, Leader, User
 level: Intermediate, Experienced
 doc-type: Event
 duration: 3539
 last-substantial-update: 2025-01-15T00:00:00Z
 jira: KT-16688
-source-git-commit: e0810f122d633e915c143f01e95a184d78f6aa9e
+exl-id: 3c1676c3-e6b5-4f4f-ba76-4c65cc6367cb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '389'
+source-wordcount: '393'
 ht-degree: 0%
 
 ---
 
-
 # IMS-migratie onverpakt: de overgang voor Marketo-gebruikers vereenvoudigen
 
-In deze Adobe bespreken Champion Deep Dive we de migratie van Marketo-gebruikers naar het Adobe Identity Management System (IMS). Deze sessie begeleidt u door het migratieproces, van voorbereiding tot uitvoering, waarbij u zich richt op de voordelen, de belangrijkste stappen en hoe u ervoor kunt zorgen dat uw team klaar is. Experts op het gebied van Adobe geven inzicht in de wijzigingen die u kunt verwachten en delen praktische tips voor een soepele overgang.
+In deze Adobe Champion Deep Dive bespreken we de migratie van Marketo-gebruikers naar het Adobe Identity Management System (IMS). Deze sessie begeleidt u door het migratieproces, van voorbereiding tot uitvoering, waarbij u zich richt op de voordelen, de belangrijkste stappen en hoe u ervoor kunt zorgen dat uw team klaar is. De experts van Adobe zullen inzicht verschaffen in de veranderingen die u kunt verwachten en praktische tips delen voor een soepele overgang.
 
 Als uw organisatie de migratie naar Adobe IMS voorbereidt of ondergaat, is deze sessie van essentieel belang. Leer over de klantenvoordelen, hoe te om gemeenschappelijke vragen en zorgen te behandelen, en welke stappen vóór, tijdens, en na de migratie te nemen. Adobe Marketo Engage Champion zal uw vragen beantwoorden en activering van advies geven om uw team te helpen deze overgang met succes te doorlopen.
 
@@ -25,12 +27,12 @@ Als uw organisatie de migratie naar Adobe IMS voorbereidt of ondergaat, is deze 
 
 ## Toetsen
 
-**IMS het Overzicht van de Migratie** de vergadering concentreerde zich op de migratie van IMS (het Systeem van Identity Management) voor de gebruikers van Marketo aan het platform van Adobe, die de stappen en de voordelen van de overgang detailleert.
+**IMS het Overzicht van de Migratie** de vergadering concentreerde zich op de migratie IMS (het Systeem van Identity Management) voor de gebruikers van Marketo aan het platform van Adobe, die de stappen en de voordelen van de overgang detailleert.
 
 **Stappen van de Migratie**
 
-* **Eerste stap van de Migratie van het 0&rbrace; Product &lbrace;impliceert het migreren van het product aan Adobe Experience League.**
-* {de 1} Gebruikers van de Migratie van de Gebruiker van 0&rbrace; &lbrace;worden dan gemigreerd, met nadruk op het verzekeren zij Adobe IDs hebben die hun login van Marketo e-mails aanpassen.**&#x200B;**
+* **Eerste stap van de Migratie van het Product 0} impliceert het migreren van het product aan de Liga van de Ervaring van Adobe.**
+* {de 1} Gebruikers van de Migratie van 0} Gebruiker {worden dan gemigreerd, met nadruk op het verzekeren zij Adobe IDs hebben die hun login van Marketo e-mails aanpassen.****
 * **de Migratie van Tickets van de Steun** tot slot, de steunkaartjes worden gemigreerd aan het nieuwe systeem.
 
 **Voorbereiding en Communicatie**
@@ -56,4 +58,4 @@ Als uw organisatie de migratie naar Adobe IMS voorbereidt of ondergaat, is deze 
 * Zorg ervoor dat rapportabonnementen en bladwijzers worden bijgewerkt met de nieuwe URL.
 * Wees voorbereid op mogelijke toewijzingen van werkruimte en partitietoegang na migratie.
 
-**Verscheidene vergaderingen en gebeurtenissen van de gebruikersgroep van de Gebeurtenissen van 0&rbrace; de Komende &lbrace;werden benadrukt, met inbegrip van virtuele en persoonlijk zittingen in diverse plaatsen, en de Adobe Summit in Maart 2025.**
+**Verscheidene vergaderingen en gebeurtenissen van de gebruikersgroep van de Gebeurtenissen van 0} de Komende {werden benadrukt, met inbegrip van virtuele en persoonlijk zittingen in diverse plaatsen, en Adobe Summit in Maart 2025.**

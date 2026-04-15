@@ -2,6 +2,8 @@
 title: Gebruikmaken van de gegevensvereisten van de Betrokkenheid van de Klant voor Krachtige Behoud en Betrokkenheid Reizen
 description: Analyseer de gegevens en rapporten van uw klanten en pas inzichten toe om uw publiek in Marketo Engage effectief te segmenteren. Gebruik verschillende programmatypen en automatiseringstechnieken om uw publiek te segmenteren en deze naadloos over te brengen door de fasen betrokkenheid, productverkoop en vernieuwing. Creeer hyper-gepersonaliseerde inhoud met persoon of programma-vlakke tekenen en de Scripting van de Snelheid
 solution: Marketo Engage
+feature: Reporting
+topic: Personalization, Security
 role: User
 level: Intermediate, Experienced
 doc-type: Event
@@ -9,9 +11,9 @@ duration: 2091
 last-substantial-update: 2024-08-29T00:00:00Z
 jira: KT-16003
 exl-id: f470b2cd-2bac-4fa6-ac09-f64336b16493
-source-git-commit: 3f2a8375249858c4905d9058570dffcd4dcd8622
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '180'
 ht-degree: 0%
 
 ---

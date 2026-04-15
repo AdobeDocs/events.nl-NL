@@ -3,19 +3,20 @@ title: Waarom dashboards geen inzichten leveren (en wat eigenlijk doet)
 description: Leer hoe u verder kunt gaan dan dashboards en een systeem voor inzichten kunt bouwen met verhalende rapporten, hypothesetests en actioneerbare analysestrategieën.
 solution: Analytics
 feature: Workspace Basics, Analytics Basics, Analytics Dashboards
+topic: Migration, Integrations
 role: User
 level: Intermediate, Experienced
 doc-type: Event
 duration: 0
 last-substantial-update: 2025-09-04T00:00:00Z
 jira: KT-18824
-source-git-commit: d942871683ff1319d5f7b16e6f114c23825530b4
+exl-id: 1366ff6f-3b2b-4b7d-b97f-a6cd41e322ed
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '286'
+source-wordcount: '294'
 ht-degree: 0%
 
 ---
-
 
 # Waarom dashboards geen inzichten leveren (en wat eigenlijk doet)
 

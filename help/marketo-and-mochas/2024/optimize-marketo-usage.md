@@ -2,6 +2,8 @@
 title: Marketo & Mochas - Looptijd Deel 2 - Uw Marketo-gebruik optimaliseren
 description: Word lid van Adobe Business Advisors, Cynthia Chang en Carly Gaver, voor Deel 2 van de Marketo-ontwikkelingsreeks, met nadruk op gegevensbeheer, CRM-integratie en optimalisatie van de campagne om uw Marketo-gebruik te verbeteren, met live vragen en antwoorden.
 solution: Marketo Engage
+feature: Programs, Smart Lists
+topic: Personalization, Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -9,9 +11,9 @@ duration: 3562
 last-substantial-update: 2024-09-24T00:00:00Z
 jira: KT-16234
 exl-id: 06e58ede-e2bd-4b48-b335-f91a818246cd
-source-git-commit: 3f2a8375249858c4905d9058570dffcd4dcd8622
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '256'
+source-wordcount: '259'
 ht-degree: 0%
 
 ---

@@ -2,19 +2,20 @@
 title: De architectuur van Analyse - hoe te om uw gegevensmodel van Customer Journey Analytics te benaderen
 description: Leer hoe te om CJA gegevensmodellen met gebeurtenishiërarchieën, attributie, en KPIs te structureren om diepere inzichten van de klantenreis te ontsluiten.
 feature: Attribution
+topic: Administration
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 0
 last-substantial-update: 2025-09-04T00:00:00Z
 jira: KT-18813
-source-git-commit: 124b52203b98a80dd9202dab1b0dbe575475a52b
+exl-id: 704ff998-840a-4815-a24f-f08b625b14f5
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '325'
+source-wordcount: '331'
 ht-degree: 0%
 
 ---
-
 
 # The Architecture of Analysis: How to Approach Your Customer Journey Analytics Data Model
 
@@ -37,7 +38,7 @@ Ontdek hoe effectieve gegevensarchitectuur in Adobe Experience Platform (AEP) en
 
 * **het Ontwerp van het Schema van Kant** de keus tussen vlakke schema&#39;s, series, en series van voorwerpen beïnvloedt rechtstreeks analysemogelijkheden en het melden van flexibiliteit.
 * **Gegevens die van het Proces van de Transformatie** in AEP worden opgenomen moeten zorgvuldig gestructureerd zijn om naadloze transformatie en bruikbaarheid in CJA te verzekeren.
-* **Begrijpend gebeurtenis, zitting, en persoonniveaus van de Hiërarchie van 0&rbrace; Container is cruciaal voor multi-level analyse en nauwkeurige rapportering.**
+* **Begrijpend gebeurtenis, zitting, en persoonniveaus van de Hiërarchie van 0} Container is cruciaal voor multi-level analyse en nauwkeurige rapportering.**
 * **Praktische Strategieën** Voorste planning, schemabeheer, en het leveraging platformeigenschappen zijn zeer belangrijk aan scalable, toekomstbestendige implementaties.
 
 Het beheersen van deze concepten machtigt teams om hun analytische werkschema&#39;s te optimaliseren en diepere bedrijfsinzichten te ontsluiten.

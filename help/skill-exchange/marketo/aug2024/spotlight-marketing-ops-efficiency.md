@@ -2,6 +2,8 @@
 title: Experience Makers Spotlight - Efficiëntie van marketingactiviteiten maximaliseren in Marketo Engage
 description: Eén formulier voor de hele wereld - Verbeter de acceptatie van leads met Marketo Forms APIHarness - de kracht van de Marketo Forms API om uw aanschafstrategie te verhogen. Deze sessie gaat over naar de beste werkwijzen voor het gebruik van de veelzijdige JavaScript API. Leer hoe u één formulier aanpast aan de verschillende landspecifieke regels, verborgen formulieren implementeert voor naadloze gegevensvastlegging en geavanceerde lokalisatietechnieken verkent om uw inspanningen voor het genereren van leads te maximaliseren. Behoud de hygiëne van databases opschonen met behulp van slimme campagnes en BeyondOntdek essentiële tactieken om uw database op te schonen en te onderhouden, zodat u efficiëntere campagnes kunt starten. Wissel af met de beste praktijken voor het maken en implementeren van effectieve sjablonen voor het uploaden van lijsten, het optimaliseren van uw database met slimme programma's voor wasmachines en het normaliseren van gegevens, en ontvang inspiratie uit het opkomende gebruik van AI bij het opschonen van gegevens.
 solution: Marketo Engage
+feature: Smart Lists
+topic: Integrations
 role: User
 level: Intermediate, Experienced
 doc-type: Event
@@ -9,9 +11,9 @@ duration: 2727
 last-substantial-update: 2024-08-30T00:00:00Z
 jira: KT-16007
 exl-id: 014d0965-912e-4bb3-b156-89e2233d37ac
-source-git-commit: 3f2a8375249858c4905d9058570dffcd4dcd8622
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '282'
 ht-degree: 0%
 
 ---

@@ -4,22 +4,23 @@ description: Meld u aan bij ons voor een Experience League Live-sessie terwijl w
 kt: KT-18493
 solution: Journey Optimizer, Target
 feature: AI Assistant, Experimentation
+topic: Artificial Intelligence, Integrations, Security
 event-cta-url-live: https://youtube.com/live/w8eWsKuwyzI
 event-start-time: 2025-10-30 08:30-8
 event-guests: Sandra Hausmann, Brent Kostak, Justin Grover, David Arbour
-source-git-commit: c4c2753455d476d08ab1a5c76a08ed296397705d
+exl-id: 64f71d9a-79cc-4d80-a8a0-88bb274417b3
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '295'
+source-wordcount: '324'
 ht-degree: 0%
 
 ---
 
-
 # Het volgende tijdperk van experimenten: Hoe AI door middel van een &#39;Smooter Testen en Groei&#39; wordt bevorderd
 
-In deze Levende zitting van Experience League, onthullen wij **Adobe Journey Optimizer Experimentation Accelerator** - een nieuwe AI-eerste toepassing die wordt gebouwd om te transformeren hoe het experimenteren, product en de groeiteams, campagnes en klantenreizen testen te leren en optimaliseren.
+In deze Levende zitting van Experience League, onthullen wij **Adobe Journey Optimizer Experimentation Accelerator** - een nieuwe AI-eerste toepassing die wordt gebouwd om te transformeren hoe de experimenteren, product en de groeiteams, campagnes en klantenreizen testen te leren en optimaliseren.
 
-Aangedreven door de **Agent van de Experimentatie van Adobe Experience Platform**, automatiseert deze nieuwe toepassing experimentatieanalyse terwijl het verminderen van handinspanning, zodat kunnen de teams:
+Aangedreven door **Adobe Experience Platform Experimentation Agent**, automatiseert deze nieuwe toepassing experimentatieanalyse terwijl het verminderen van handinspanning, zodat kunnen de teams:
 
 * Ontdek wat werkt en waarom met duidelijke, door AI aangedreven inzichten
 * Belangrijke kansen identificeren op basis van voorspelde lift en conversie
@@ -32,11 +33,10 @@ Of je nu een groeimarkator, productmanager of optimalisatiestrategen bent, kijk 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3476426/?learn=on&enablevpops)
 
-Word lid van ons voor de [&#x200B; Gemeenschap van Adobe Journey Optimizer vraagt me om het even wat!](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/ask-me-anything-november-12th-with-journey-optimizer-product/ev-p/783252?profile.language=nl) op woensdag 12 november van 8.00 - 9.00 uur PT. We worden bijgestaan door Adobe Journey Optimizer-experts: Cole Connelly (@coleconnelly) - Sr Product Manager, Huong Vu (@HuongVu) - Product Marketing Manager, Namita Krishnan (@Namita_Krishnan) - Product Manager, Brent Kostak (@bkostak) - Sr Product Marketing Manager, David Arbor (@user0347 4) - Sr Research Scientist, Justin Grover (@justin_grover) - Principal Product Manager, Sandra Hausmann (@SHausmann) - Sr Technical Marketing Engineer en Daniel Wright (@dwright) - Sr Technical Marketing Engineer.
+Sluit me aan bij ons voor de [ Gemeenschap van Adobe Journey Optimizer vraagt me om het even wat!](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/ask-me-anything-november-12th-with-journey-optimizer-product/ev-p/783252) op woensdag 12 november van 8.00 - 9.00 uur PT. We worden bijgestaan door Adobe Journey Optimizer-experts: Cole Connelly (@coleconnelly) - Sr Product Manager, Huong Vu (@HuongVu) - Product Marketing Manager, Namita Krishnan (@Namita_Krishnan) - Product Manager, Brent Kostak (@bkostak) - Sr Product Marketing Manager, David Arbor (@user0347 4) - Sr Research Scientist, Justin Grover (@justin_grover) - Principal Product Manager, Sandra Hausmann (@SHausmann) - Sr Technical Marketing Engineer en Daniel Wright (@dwright) - Sr Technical Marketing Engineer.
 
 We beantwoorden je vragen tijdens deze live chat.
 
 ## Aanvullende bronnen
 
-* [&#x200B; Binnen de experimenteerversneller van AI van Adobe - Podcast &#x200B;](https://conversion.com/podcast/the-conversion-podcast-adobe-ai/)
-
+* [In de AI-experimenteerversneller van Adobe - Podcast](https://conversion.com/podcast/the-conversion-podcast-adobe-ai/)

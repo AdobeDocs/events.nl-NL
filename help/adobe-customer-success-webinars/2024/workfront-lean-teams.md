@@ -2,6 +2,8 @@
 title: Maximale efficiëntie met Adobe Workfront - Lean Teams Webinar
 description: Strategieën en praktische benaderingen verkennen om de productiviteit te verhogen en de activiteiten te stroomlijnen met behulp van leunmethoden met Adobe Workfront, gepresenteerd door experts uit de branche.
 solution: Workfront
+feature: Work Management, Workfront Fusion
+topic: Integrations
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -9,9 +11,9 @@ duration: 2148
 last-substantial-update: 2024-06-07T00:00:00Z
 jira: KT-15558
 exl-id: 1ab0e81c-50eb-4416-baa1-e80572ffe783
-source-git-commit: ef652eb09c33f11d69ec66f70013cd3e53537a95
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '187'
+source-wordcount: '190'
 ht-degree: 0%
 
 ---
@@ -26,7 +28,7 @@ Inzichtelijke strategieën en praktische benaderingen voor organisaties die hun 
 * Workfront gebruiken voor ondersteuning van Lean Project Management
 * Doorlopend leren en aanpassen
 
->[!VIDEO](https://video.tv.adobe.com/v/3456713/?learn=on&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3429287/?learn=on)
 
 ## Overzicht van vergaderingen
 

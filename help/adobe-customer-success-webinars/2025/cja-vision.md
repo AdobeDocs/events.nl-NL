@@ -2,19 +2,21 @@
 title: Foundational Architecture Needs to Enable the Adobe Customer Journey Analytics Vision
 description: Leer hoe een NorthStar-architectuur technische schulden kan verminderen, Adobe Customer Journey Analytics-acceptatie kan stroomlijnen en schaalbare, op één lijn gebrachte Adobe Experience Platform-implementaties kan ondersteunen.
 solution: Customer Journey Analytics
+feature: Use Cases
+topic: Integrations, Migration
 role: Admin, Developer, User
 level: Beginner, Intermediate
 doc-type: Event
 duration: 2988
 last-substantial-update: 2025-08-01T00:00:00Z
 jira: KT-18661
-source-git-commit: 9f9bbcdcd56ba6736d86a6f272023db52e28fa7a
+exl-id: 6c6f1d82-0d86-414c-843c-58d884830140
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '304'
 ht-degree: 0%
 
 ---
-
 
 # Foundational Architecture Needs to Enable the Adobe Customer Journey Analytics Vision
 
@@ -26,7 +28,7 @@ Deze sessie gaat na hoe verouderde of gefragmenteerde systemen kunnen leiden tot
 
 * **NoordStar Architectuur (NSA) als Strategisch Hulpmiddel** NSA is een high-level architectuurdiagram dat bedrijfs en technische teams helpt richten door bedrijfsdoelstellingen, zeer belangrijke bedrijfsdoelstellingen (KBOs), en gebruiksgevallen in concrete technische vereisten te vertalen. Het dient als leidend kader voor strategische planning, uitvoering, en meting van technologieinitiatieven.
 
-* **NSAs van de Geval-Gedreven Benadering van het gebruik van 0&rbrace; is bedoeld om door specifieke gebruiksgevallen worden gedreven, die ervoor zorgen dat elke implementatie een duidelijke waarde-gedreven reden heeft.** Deze benadering vermijdt het uitvoeren van eigenschappen of oplossingen zonder een strategisch doel en geeft voorrang aan zaken van het hoogwaardige gebruik.
+* **NSAs van de Geval-Gedreven Benadering van het gebruik van 0} is bedoeld om door specifieke gebruiksgevallen worden gedreven, die ervoor zorgen dat elke implementatie een duidelijke waarde-gedreven reden heeft.** Deze benadering vermijdt het uitvoeren van eigenschappen of oplossingen zonder een strategisch doel en geeft voorrang aan zaken van het hoogwaardige gebruik.
 
 * **Aanpassing en de Afhankelijkheid van de Context** De stichting architectuur en NSA worden gemaakt aan de specifieke behoeften, de toppen, en de doelstellingen van elke organisatie. De voorbeelden van NSAs variëren in diepte en nadruk, afhankelijk van de vereisten van het bedrijf, het publiek, en gebruiksgevallen.
 

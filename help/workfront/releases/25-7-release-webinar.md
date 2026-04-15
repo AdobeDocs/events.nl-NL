@@ -7,14 +7,15 @@ doc-type: Event
 duration: 3625
 last-substantial-update: 2025-07-18T00:00:00Z
 feature: Product Announcements
+topic: Performance
 jira: KT-18525
-source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
+exl-id: b2a32f57-3582-457a-975d-1c56a58ec0f6
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '176'
 ht-degree: 0%
 
 ---
-
 
 # Adobe Workfront 25.7-release webinar
 
@@ -26,6 +27,6 @@ Het webinar waarin de meest recente Workfront-functieverbeteringen in de release
 
 Koppelingen naar het diapakket en de communitypost Experience League met de vragen en antwoorden worden hieronder geplaatst.
 
-* [&#x200B; Deck PDF van de Schuifregelaar &#x200B;](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/0710125+-+Adobe+Workfront+Third+Quarter+Release+Webinar.pdf)
-* [&#x200B; Communautaire post van Experience League &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-adobe-workfront-third-quarter-release-webinar/td-p/763800?profile.language=nl)
-* Voor meer informatie over de versieeigenschappen, bezoek het Derde Kwartaal 2025 [&#x200B; pagina van het versieoverzicht &#x200B;](https://experienceleague.adobe.com/nl/docs/workfront/using/product-announcements/product-releases/release-25-q3/25-q3-release-overview).
+* [Slide Deck PDF](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/0710125+-+Adobe+Workfront+Third+Quarter+Release+Webinar.pdf)
+* [Experience League Community-post](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-adobe-workfront-third-quarter-release-webinar/td-p/763800)
+* Voor meer informatie over de versieeigenschappen, bezoek het Derde Kwartaal 2025 [ pagina van het versieoverzicht ](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-25-q3/25-q3-release-overview).

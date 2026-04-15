@@ -1,6 +1,7 @@
 ---
-title: Fireside Chat met AEM productleiders
-description: Fireside Chat met Adobe Experience Manager Product LeadersU hebt de dag doorgebracht om te horen en te zien wat er voor u is opgebouwd om briljante ervaringen voor uw klanten te creëren. Stel nu je vragen aan onze productleiders, Cedric Huesler, Director of Product Management en Michael Marth, Sr. Director of Engineering. Gehost door Ron Nagy.
+title: Fireside Chat met AEM-productleiders
+description: Fireside Chat met Adobe Experience Manager Product LeadersU hebt de dag doorgebracht om te horen en te zien wat er voor u is opgebouwd om briljante ervaringen voor uw klanten te creëren. Stel nu uw vragen aan onze productleiders, Cedric Huesler, Director of Product Management en Michael Marth, Sr. Director of Engineering. Gehost door Ron Nagy.
+feature: Edge Delivery Services, Release Information
 product: experience manager
 sub-product: sites
 topic: Development
@@ -12,17 +13,17 @@ jira: KT-13363
 thumbnail: 3419941.jpeg
 exl-id: a8c9fc05-b80d-4c3a-a45a-c2b798757b57
 duration: 3234
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 0%
 
 ---
 
-# Fireside Chat met AEM productleiders
+# Fireside Chat met AEM-productleiders
 
 Fireside Chat met Adobe Experience Manager-productleiders
 
-U hebt de dag doorgebracht om te horen en te zien wat voor u aan het bouwen is om briljante ervaringen voor uw klanten te creëren. Stel nu je vragen aan onze productleiders, Cedric Huesler, Director of Product Management en Michael Marth, Sr. Director of Engineering. Gehost door Ron Nagy.
+U hebt de dag doorgebracht om te horen en te zien wat voor u aan het bouwen is om briljante ervaringen voor uw klanten te creëren. Stel nu uw vragen aan onze productleiders, Cedric Huesler, Director of Product Management en Michael Marth, Sr. Director of Engineering. Gehost door Ron Nagy.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419941/?learn=on)

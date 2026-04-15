@@ -5,14 +5,17 @@ landing-page-description: Bekijk dit geregistreerde webinar om te leren hoe u uw
 short-description: Bekijk dit geregistreerde webinar om te leren hoe u uw gegevens van de eCommerce voor succes tijdens het vakantieseizoen kunt gebruiken.
 kt: 10409
 solution: Commerce, Commerce Intelligence
+feature: Data Integration, Reports
+feature-set: Commerce Intelligence
+topic: Headless, Performance, Commerce
 role: Leader, User, Data Architect
 level: Intermediate
 thumbnail: 342496.jpeg
 exl-id: 9c05e0c7-50cd-42e8-bf7a-7e278b7060bc
 duration: 3197
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 76653a37bdcd3176067a4f0c3f4a073e902a63de
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '220'
 ht-degree: 0%
 
 ---
@@ -40,5 +43,5 @@ Gebruik uw eCommerce-gegevens voor succes tijdens het feestseizoen. In dit webin
 
 ## Nuttige bronnen
 
-[&#x200B; de Gids van de Gebruiker van Commerce Intelligence &#x200B;](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=nl)
-[&#x200B; Steun van Commerce Intelligence &#x200B;](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html?lang=nl-NL)
+[ Commerce Intelligence-gebruikershandleiding](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html)
+[ de Steun van Commerce Intelligence ](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html)

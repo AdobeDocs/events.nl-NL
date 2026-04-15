@@ -2,6 +2,7 @@
 title: Expert Insights - Reporting Practices with Nichole Vargas
 description: Leer de beste rapportpraktijken van Nichole Vargas-verhoog uw Workfront rapporteringsvaardigheden met berekende gebieden, het vertellen van uiteinden, en gemeenschap-gedreven middelen.
 feature: Reports and Dashboards
+topic: Performance
 speaker-name-1: Nichole Vargas
 speaker-title-1: Senior Customer Success Manager
 speaker-company-1: Adobe
@@ -11,13 +12,13 @@ doc-type: Event
 duration: 1547
 last-substantial-update: 2025-08-20T00:00:00Z
 jira: KT-18616
-source-git-commit: 1df24f5fb68bbd4d37658b699e7ecb3fa1ef2444
+exl-id: dc1904fe-6403-42bd-91c8-d58a0ea73237
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '463'
+source-wordcount: '580'
 ht-degree: 0%
 
 ---
-
 
 # Expert Insights - Reporting Practices with Nichole Vargas
 
@@ -27,7 +28,7 @@ Voor de goede orde is ze net zo ontzettend, intelligent en vrijgevig om mee te w
 
 Word lid van me, je On-Demand Workfront CSM, terwijl ik praat met Nichole over hoe ze onze Reporting Guru werd, haar favoriete functies en tips, en hoe we allemaal &#39;meer als Nichole&#39; kunnen zijn! 
 
->[!VIDEO](https://video.tv.adobe.com/v/3469971/?learn=on&enablevpops&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3469894/?learn=on&enablevpops)
 
 ## Tips
 
@@ -41,15 +42,15 @@ Word lid van me, je On-Demand Workfront CSM, terwijl ik praat met Nichole over h
 
 ## Bronnen
 
-* **Blog** - [&#x200B; sparen Tijd Gebruikend Berekende Gebieden van de Douane &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/save-time-using-calculated-fields-to-capture-dates-details-and/ba-p/518237?profile.language=nl)
-* **Artikel** - [ Berekende Uitdrukkingen van Gegevens ] (https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/calculated-custom-data/calculated-data-expressions.html?lang=nl-NL#:~ :text=U kan gegevensuitdrukkingen gebruiken, die een nieuw gebied produceren.&amp;text=Voor meer informatie over het maken, gegevens naar een aangepast formulier.)
-* **follow-up van de Gebeurtenis** - [&#x200B; Berekende de Workshop van de Gebieden van de Douane &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/follow-up-calculated-custom-fields-workshop/td-p/592725?profile.language=nl)
-* **Gemeenschap** - [&#x200B; het Melden van Cookbook &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/the-first-ever-adobe-workfront-customer-reporting-cookbook-is/m-p/478722?profile.language=nl#M1406)
-* **Blog** - [&#x200B; de Blauwdrukken van Workfront van het Gebruik om Uw Milieu van het Beheer van het Werk te optimaliseren!](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/use-workfront-blueprints-to-optimize-your-work-management/ba-p/547147?profile.language=nl)
+* **Blog** - [ sparen Tijd Gebruikend Berekende Gebieden van de Douane ](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/save-time-using-calculated-fields-to-capture-dates-details-and/ba-p/518237)
+* **Artikel** - [ Berekende Uitdrukkingen van Gegevens ] (https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/calculated-custom-data/calculated-data-expressions.html?lang=en#:~ :text=U kunt gegevensuitdrukkingen gebruiken, die een nieuw gebied produceren.&amp;text=For meer informatie over het creëren, gegevens aan een douaneformulier.)
+* **follow-up van de Gebeurtenis** - [ Berekende de Workshop van de Gebieden van de Douane ](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/follow-up-calculated-custom-fields-workshop/td-p/592725)
+* **Gemeenschap** - [ het Melden van Cookbook ](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/the-first-ever-adobe-workfront-customer-reporting-cookbook-is/m-p/478722#M1406)
+* **Blog** - [ de Blauwdrukken van Workfront van het Gebruik om Uw Milieu van het Beheer van het Werk te optimaliseren!](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/use-workfront-blueprints-to-optimize-your-work-management/ba-p/547147)
    * *Begonnen het Worden* - Dit blog is waar u meer informatie over het Dashboard van het Onderhoud van het Systeem en de bundels van het Dashboard van het Gebruik van rapporten kunt vinden. 
    * *Bonusuiteinde!* - Abonneer u op de blog voor meldingen wanneer nieuwe blauwdrukken worden uitgebracht. 
-* **Artikel** - [&#x200B; de Variabelen van de Filter van de Jokerteken &#x200B;](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/report-elements/understand-wildcard-filter-variables.html?lang=nl-NL)
-* **Artikel** - [&#x200B; voeg basis voorwaardelijke het formatteren aan een mening toe &#x200B;](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.html?lang=nl-NL)
+* **Artikel** - [ de Variabelen van de Filter van de Jokerteken ](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/report-elements/understand-wildcard-filter-variables.html?lang=en)
+* **Artikel** - [ voeg basis voorwaardelijke het formatteren aan een mening toe ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.html?lang=en)
 
 ## Over de spreker
 
@@ -57,5 +58,4 @@ Nichole Vargas is een ggo-getter, geëngageerd om klantenverwachtingen te overtr
 
 ## Heb je iets te delen?
 
-Hebt u een geweldig verhaal om te delen, tijdens een gebeurtenis of in een video van Expert Insights? Gelieve te bereiken uit aan ons team in [&#x200B; CSatScale@adobe.com &#x200B;](mailto:CSatScale@adobe.com).
-
+Hebt u een geweldig verhaal om te delen, tijdens een gebeurtenis of in een video van Expert Insights? Gelieve te bereiken uit aan ons team in [ CSatScale@adobe.com ](mailto:CSatScale@adobe.com).

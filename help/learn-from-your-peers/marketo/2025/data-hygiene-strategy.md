@@ -2,19 +2,20 @@
 title: Een strategie voor gegevenshygiëne ontwikkelen voor Marketo Engage en CRM Sync
 description: Leer beproefde tactieken van de gegevenshygiëne van Marketo Champion Miray Vu om schone gegevens van CRM te verzekeren, pijpleidingssnelheid te versnellen, en betrouwbare opbrengstgroei te drijven.
 feature: CRM Sync
+topic: Integrations, Development
 role: Admin
 level: Beginner, Intermediate
 doc-type: Event
 duration: 2635
 last-substantial-update: 2025-10-28T00:00:00Z
 jira: KT-19524
-source-git-commit: dc8346b9341c7413a7c9571667f6cf0bb5914dd5
+exl-id: 947db7a2-7dd3-431b-a870-7872e86c10c8
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '290'
 ht-degree: 0%
 
 ---
-
 
 # Een strategie voor gegevenshygiëne ontwikkelen voor Marketo Engage en CRM Sync
 
@@ -33,7 +34,7 @@ Hoort van Adobe Marketo Engage Champion, Miray Vu, om de kritieke rol van gegeve
 
 ## Aanvullende bronnen
 
-* Sluit me aan bij de [&#x200B; bespreking &#x200B;](https://nation.marketo.com/t5/product-blogs/learn-from-your-peers-webinar-building-a-data-hygiene-strategy/ba-p/358425) op de Gemeenschap van de Natie van de Marketing, waar Q&amp;A&#39;s worden gepost.
-* [&#x200B; de gegevenshygiëne van Marketo Engage die Uitvoerbare Campagnes gebruiken &#x200B;](https://business.adobe.com/nl/summit/2025/sessions/marketo-engage-data-hygiene-strategies-s212.html)
-* [&#x200B; het Beheersen van gegevenshygiëne voor de synchronisatie van Salesforce CRM met Marketo Engage &#x200B;](https://experienceleague.adobe.com/nl/perspectives/mastering-data-hygiene-for-salesforce-crm-sync-with-marketo-engage)
-* [&#x200B; hoe te om deduplicatie uit te voeren gebruikend Marketo Engage REST API &#x200B;](https://www.revenuepulse.com/blog/how-to-perform-deduplication-using-the-marketo-api/)
+* Sluit me aan bij de [ bespreking ](https://nation.marketo.com/t5/product-blogs/learn-from-your-peers-webinar-building-a-data-hygiene-strategy/ba-p/358425) op de Gemeenschap van de Natie van de Marketing, waar Q&amp;A&#39;s worden gepost.
+* [Marketo Engage-gegevenshygiëne met behulp van uitvoerbare campagnes](https://business.adobe.com/summit/2025/sessions/marketo-engage-data-hygiene-strategies-s212.html)
+* [Gegevenshygiëne beheersen voor Salesforce CRM-synchronisatie met Marketo Engage](https://experienceleague.adobe.com/en/perspectives/mastering-data-hygiene-for-salesforce-crm-sync-with-marketo-engage)
+* [deduplicatie uitvoeren met Marketo Engage REST API](https://www.revenuepulse.com/blog/how-to-perform-deduplication-using-the-marketo-api/)

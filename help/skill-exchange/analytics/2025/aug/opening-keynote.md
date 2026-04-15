@@ -1,19 +1,21 @@
 ---
 title: Toetsenbord openen Adobe Analytics
 description: Verken essentiële vaardigheden van analisten - verhalen vertellen, ethiek, en empathie - plus hoe AI en menselijke insight combineren om betekenisvolle bedrijfsresultaten te drijven.
+feature: Data Governance, Data Configuration and Collection
+topic: Administration
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 0
 last-substantial-update: 2025-09-04T00:00:00Z
 jira: KT-18828
-source-git-commit: 124b52203b98a80dd9202dab1b0dbe575475a52b
+exl-id: 8f1fedd4-3c00-4593-8b04-4d37be97378a
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '232'
 ht-degree: 0%
 
 ---
-
 
 # Toetsenbord openen Adobe Analytics
 
@@ -23,16 +25,16 @@ Zakelijk actueel en ethisch verantwoord maken: slimme, ethische beslissingen nem
 Onderzoeksmethodologie en Verteller: Transformeer de bevindingen van gegevens in dwingende verhalen voor belanghebbenden.
 Technische competentie en Emotional Intelligence: bieden ondersteuning en oplossingen met empathie, niet alleen technische vaardigheden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471198/?learn=on&enablevpops&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3471124/?learn=on&enablevpops)
 
 ## Analyses ontgrendelen voor menselijke effecten
 
 Ontdek hoe de analysemogelijkheden zich ontwikkelen in het tijdperk van AI, met een hernieuwde focus op menselijke creativiteit en empathie:
 
-* **Analytics van de 0&rbrace; mens-Gecentreerde Benadering &lbrace;voor Mensen benadrukt creativiteit, ervaring, en empathie als onvervangbaar door AI.**
+* **Analytics van de 0} mens-Gecentreerde Benadering {voor Mensen benadrukt creativiteit, ervaring, en empathie als onvervangbaar door AI.**
 * **AI als Hulpmiddel** AI versnelt gemiddelde resultaten maar het bereiken van uitmuntendheid vereist menselijke insight.
 * **vier Zeer belangrijke Gebieden** de inzameling van gegevens, bestuur, opleiding, en verhalen blijven fundamenteel mens-gedreven.
-* **Statistische geletterdheid, ethisch redeneren, het vertellen van verhalen, en emotionele inlichtingenreeks analisten van de Analyse van de Vaardigheden van de Analyst van 0&rbrace; Unieke Analyst.**
+* **Statistische geletterdheid, ethisch redeneren, het vertellen van verhalen, en emotionele inlichtingenreeks analisten van de Analyse van de Vaardigheden van de Analyst van 0} Unieke Analyst.**
 
 Als u deze beginselen begrijpt, kunnen organisaties gegevensgestuurde beslissingen nemen die echt op mensen zijn afgestemd en die een zinvolle verandering teweeg brengen.
 

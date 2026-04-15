@@ -1,19 +1,21 @@
 ---
 title: Agentische evolutie van AEM
 description: Ontdek hoe AI digitale ervaringen transformeert met Adobe Experience Manager, de workflows van content verbetert en de productiviteit van ontwikkelaars verhoogt.
+feature: Release Information
+topic: Artificial Intelligence, Integrations, Development
 role: Developer, User
 level: Beginner, Intermediate
 doc-type: Event
 duration: 3254
 last-substantial-update: 2025-12-10T00:00:00Z
 jira: KT-19970
-source-git-commit: 76b4e64093ebad269534b65c41c4bda1a6bb468f
+exl-id: 12d908ad-d962-4d49-9fa8-a13e170b76b8
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '161'
 ht-degree: 0%
 
 ---
-
 
 # Agentische evolutie van Adobe Experience Manager
 
@@ -27,5 +29,5 @@ Deze sessie — de &#39;Agentic Evolution of Adobe Experience Manager&#39; — d
 
 ## Volgende stappen
 
-* Ga op [&#x200B; Experience League &#x200B;](https://adobe.ly/47ss08A) verder
-* Ontdek [&#x200B; aanstaande gebeurtenissen &#x200B;](https://developerevents.adobe.com)
+* Ga op [ Experience League ](https://adobe.ly/47ss08A) verder
+* Ontdek [ aanstaande gebeurtenissen ](https://developerevents.adobe.com)

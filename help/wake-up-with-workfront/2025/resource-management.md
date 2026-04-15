@@ -1,6 +1,8 @@
 ---
 title: Bronbeheer
 description: Ontgrendel het volledige potentieel van het Beheer van het Middel van Workfront met Samantha Miller en Mary Ann Erickson deskundige begeleiding op opstelling, beste praktijken, en hulpmiddelen.
+feature: Resource Management, Reports and Dashboards, System Setup and Administration
+topic: Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -8,9 +10,9 @@ duration: 3638
 last-substantial-update: 2025-01-24T00:00:00Z
 jira: KT-17166
 exl-id: f5330b70-e3a1-4d4d-9b0c-0d30a35af769
-source-git-commit: 87945f25760d168144b852b88eb2a0b9a5021946
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '406'
+source-wordcount: '410'
 ht-degree: 0%
 
 ---

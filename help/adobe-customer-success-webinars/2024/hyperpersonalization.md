@@ -1,6 +1,8 @@
 ---
 title: Personalization-rijpheid - Het pad naar hyperpersonalisatie
-description: Informatie over het nieuwe tijdperk van hyperpersonalisatie. Wij bouwen een basis op een verpersoonlijkingsontwikkelingsmodel, bespreken algemene blokkeersystemen en bieden tactische tips om aan de slag te gaan.Belangrijke discussiepunten - De moderne Klantenreis ​ het pad naar hyperpersonalisatie ​ Aan de slag bij uw organisatie
+description: Informatie over het nieuwe tijdperk van hyperpersonalisatie. We bouwen een basis op een ontwikkelingsmodel voor personalisatie, bespreken algemene blokkeersystemen en bieden tactische tips om aan de slag te gaan.Belangrijke discussiepunten - De moderne klantreis ​ het pad naar hyperpersonalisatie ​ hoe u aan de slag kunt gaan met uw organisatie
+feature: Basics, Use Cases
+topic: Personalization, Integrations
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -8,9 +10,9 @@ duration: 2360
 last-substantial-update: 2024-06-07T00:00:00Z
 jira: KT-15559
 exl-id: e6dc873d-ff2c-453e-95fa-f8b0ecd3b491
-source-git-commit: 4471d715fb226701bdad95ffe2834e763451c7ea
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '240'
 ht-degree: 0%
 
 ---
@@ -19,7 +21,7 @@ ht-degree: 0%
 
 Informatie over het nieuwe tijdperk van hyperpersonalisatie. We bouwen een basis op een ontwikkelingsmodel voor personalisatie, bespreken algemene blokkeersystemen en bieden tactische tips om aan de slag te gaan.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457351/?learn=on&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3429288/?learn=on)
 
 ## Belangrijkste discussiepunten
 

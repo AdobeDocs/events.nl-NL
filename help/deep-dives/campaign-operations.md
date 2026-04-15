@@ -1,19 +1,21 @@
 ---
 title: Campagne automatiseren en stroomlijnen met de Marketo API
 description: Ontdek hoe u uw marketingactiviteiten kunt stroomlijnen met de Marketo API in deze diepe duik, waar we zullen laten zien hoe we herhalende taken kunnen automatiseren, zoals het maken van e-mailbulletins, het volgen van programma's, het samenvoegen van duplicaten, het bijwerken van de programmakosten en het klonen van programma's, zodat u zich kunt concentreren op strategische initiatieven.
+feature: Smart Lists
+topic: Integrations, Performance
 role: Admin, Developer, User
 level: Intermediate, Experienced
 doc-type: Event
 duration: 4370
 last-substantial-update: 2024-11-22T00:00:00Z
 jira: KT-16520
-source-git-commit: e54e738d55d4037f500d68597d2d29334ddddae9
+exl-id: ff95d1d0-3150-451d-bf45-17e3248689e5
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '339'
+source-wordcount: '340'
 ht-degree: 0%
 
 ---
-
 
 # Adobe Marketo Engage Champion Deep Dive - Campagne automatiseren en stroomlijnen met de Marketo API
 
@@ -33,11 +35,11 @@ In deze diepe duik zullen we u laten zien hoe u aan de slag kunt met de Marketo 
 ## Key Takeaways
 
 * **Nadruk** de zitting concentreerde zich op het automatiseren en het stroomlijnen van campagneverrichtingen gebruikend Marketo API.
-* **API Belangrijk** APIs is essentieel voor het automatiseren van herhaalde taken, toestaand systemen om te communiceren, en tijd en geld.API Grondbeginselen **&#x200B; Uitleg van wat een &#x200B;** API is, met inbegrip van het verschil tussen krijgen en Post verzoeken, en hoe zij functioneren.
+* **API Belangrijk** APIs is essentieel voor het automatiseren van herhaalde taken, toestaand systemen om te communiceren, en tijd en geld.API Grondbeginselen** Uitleg van wat een **API is, met inbegrip van het verschil tussen krijgen en Post verzoeken, en hoe zij functioneren.
 
-### Gebruiksscenario’s
+### Gevallen gebruiken
 
-* **Gebruikend een manuscript van Python van het Programma van het 0&rbrace; Bulk om programma&#39;s te klonen, tokens bij te werken, en slimme campagnes te activeren. &#x200B;**
+* **Gebruikend een manuscript van Python van het Programma van het 0} Bulk om programma&#39;s te klonen, tokens bij te werken, en slimme campagnes te activeren.**&#x200B;
 * **Aanmaak van het Programma op bestelling** Gebruikend Zapier om de verwezenlijking van Marketo programma&#39;s te automatiseren die op vormvoorlegging worden gebaseerd, met inbegrip van het produceren van parameters UTM en het creëren van **JIRA kaartjes voor het volgen.
-* **Tips van het Beheer van 0&rbrace; API &lbrace;bij het beheren van API gebruik, met inbegrip van het creëren van de afzonderlijke diensten van het lanceringspunt voor verschillende integratie en het controleren van API vraaggebruik.Hulpmiddelen en &#x200B;*** Middelen **Recommendations voor het gebruiken van hulpmiddelen zoals Postman voor het testen API verzoeken en ChatGPT voor het produceren van code Python.**
+* **Tips van het Beheer van 0} API {bij het beheren van API gebruik, met inbegrip van het creëren van de afzonderlijke diensten van het lanceringspunt voor verschillende integratie en controle API vraaggebruik.** Hulpmiddelen en * **de Aanbevelingen van Middelen** voor het gebruiken van hulpmiddelen zoals Postman voor het testen API verzoeken en ChatGPT voor het produceren van code Python.
 * **de Extra Gevallen van het Gebruik** Vermelding van andere potentiële gebruiksgevallen voor Marketo API, zoals het terugkeren van gegevensveranderingen, deduplicatie, en het verbinden van Marketo met AI.

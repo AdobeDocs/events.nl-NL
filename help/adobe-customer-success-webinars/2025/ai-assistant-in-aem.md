@@ -1,7 +1,8 @@
 ---
-title: AI-assistent in AEM
+title: AI Assistant in AEM
 description: Leer hoe AEM AI Assistant ontwerptaken en beheertaken stroomlijnt. Onderzoek zijn werkingsgebied, opstelling, en zie het in actie met een levende demo.
 solution: Experience Manager
+feature: Authoring
 topic: Artificial Intelligence
 role: Developer, User
 level: Beginner, Intermediate, Experienced
@@ -9,15 +10,15 @@ doc-type: Event
 duration: 2491
 last-substantial-update: 2025-11-13T00:00:00Z
 jira: KT-19626
-source-git-commit: 84c9a126769fa94b0197d12ca594137e13edc510
+exl-id: 5334e833-d83a-4c78-a1e1-901a9cec1e14
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '285'
-ht-degree: 2%
+source-wordcount: '289'
+ht-degree: 0%
 
 ---
 
-
-# AI-assistent in AEM
+# AI Assistant in AEM
 
 Verken de mogelijkheden van de AI Assistant in AEM, inclusief configuratie en een live demo, om te begrijpen hoe deze ontwerpings- en beheertaken kan stroomlijnen.
 
@@ -33,7 +34,7 @@ Verken de mogelijkheden van de AI Assistant in AEM, inclusief configuratie en ee
 
 Ontdek hoe de AEM AI Assistant productkennis en -ondersteuning stroomlijnt in Adobe Experience Manager (AEM):
 
-* **Ingebed direct in AEM van de Omroepende Bedrijf 0&rbrace; &lbrace;, verstrekt de Medewerker AI onmiddellijke antwoorden aan product en steunvragen.**
+* **Ingebed direct in AEM van de Omroepende Bedrijf 0} {, verstrekt de Medewerker AI onmiddellijke antwoorden aan product en steunvragen.**
 * **Dubbele Agenten** omvat een product kennisagent voor eigenschapinformatie en een steunagent voor kaartbeheer.
 * **Ondersteunde Oplossingen** behandelt de Diensten van de Levering van Experience Cloud, AEM Sites, Assets, Forms, Dynamische Media, en Cloud Manager.
 * **Efficiëntiewinst** vermindert tijd aan waarde en steunlading door in-context hulp en kaartverwezenlijking toe te laten.
@@ -49,4 +50,3 @@ Als u deze mogelijkheden begrijpt, kunnen teams AEM AI Assistant gebruiken voor 
 * **Geen Inhoudsgeneratie** momenteel, produceert de medewerker of auteur geen inhoud-nadruk op kennis en steun.
 
 Toekomstige verbeteringen: er wordt overwogen om extra functies en bredere mogelijkheden te ontwikkelen, waarbij updates worden verwacht naarmate het product zich ontwikkelt.
-

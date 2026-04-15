@@ -1,21 +1,23 @@
 ---
-title: Het creëren van Programma's binnen Adobe  [!DNL Marketo Engage]
+title: Programma's maken in Adobe  [!DNL Marketo Engage]
 description: Deze zitting zal u allen over de Structuur van het Programma met inbegrip van - de Types van Programma, Kanalen & Statussen en Markeringen leren.
 solution: Marketo Engage
+feature: Programs, Reporting
+topic: Artificial Intelligence, Personalization
 role: User
 level: Beginner
 kt: 9706
 thumbnail: 340308.jpeg
 exl-id: f317ea35-e460-4c2f-89ca-e3d2d088d220
 duration: 2698
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 0%
 
 ---
 
-# Programma&#39;s maken binnen de Adobe [!DNL Marketo Engage]
+# Programma&#39;s maken in Adobe [!DNL Marketo Engage]
 
 Deze zitting zal u allen over de Structuur van het Programma met inbegrip van - de Types van Programma, Kanalen &amp; Statussen en Markeringen leren. U zult ook over het Concept van het Programma van de Stichting leren en wat omhoog een Programma maakt.
 

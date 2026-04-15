@@ -3,6 +3,7 @@ title: Marketo Engage voorbereiden op Adobe-identiteit
 description: Neem deel aan deze trainingssessie om zich voor te bereiden op het migreren van Marketo Engage-abonnementen naar Adobe Identity, waarbij u de nadruk legt op gebruikersmigratie, sleutelhandelingen en essentiële resources voor beheerders, met begeleiding bij het navigeren naar de migratieconsole en het begrijpen van wijzigingen bij elke mijlpaal.
 solution: Marketo Engage
 feature: Administration
+topic: Integrations, Migration
 role: Admin, Developer, Leader, User
 level: Intermediate, Experienced
 doc-type: Event
@@ -10,19 +11,19 @@ duration: 3416
 last-substantial-update: 2024-06-28T00:00:00Z
 jira: KT-15797
 exl-id: 811852d0-9900-43cc-b6d8-29c8b2fef40c
-source-git-commit: 3f2a8375249858c4905d9058570dffcd4dcd8622
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '220'
+source-wordcount: '239'
 ht-degree: 0%
 
 ---
 
 # Marketo Engage voorbereiden op Adobe-identiteit
 
-Dit is een opleiding op de migratie voor [&#x200B; Adobe Marketo Engage abonnementen om met het Systeem van Adobe te integreren Identity Management &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). De inhoud is het meest geschikt voor Marketo Engage-beheerders. Met deze training krijgt u de essentiële kennis om uw organisatie op interfunctionele wijze voor te bereiden en interne gebruikers voor te lichten over deze aanstaande verandering.
+Dit is een opleiding op de migratie voor [ Adobe Marketo Engage abonnementen om met het Systeem van Adobe te integreren Identity Management ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). De inhoud is het meest geschikt voor Marketo Engage-beheerders. Met deze training krijgt u de essentiële kennis om uw organisatie op interfunctionele wijze voor te bereiden en interne gebruikers voor te lichten over deze aanstaande verandering.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3432368/?learn=on&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3430920/?learn=on)
 
 ## Overzicht
 

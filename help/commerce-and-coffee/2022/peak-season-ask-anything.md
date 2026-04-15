@@ -2,6 +2,7 @@
 title: Commerce en koffie - Piekseizoen 'Mij iets vragen'
 description: Deze sessie 'Vraag me om het even wat' heeft betrekking op het aanpassen aan de laatste wijzigingen voor je Commerce-site tijdens het piekseizoen. We bespreken de verwachtingen van de 2022-vakantie, promoties op het laatste moment, afrekenopties en marketingstrategieën om een succesvol piekseizoen te helpen aanjagen. De presentatie en de demo gaan vergezeld van een live-vraag met Corey Gelato.
 solution: Commerce
+feature: Payments
 topic: Commerce
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -11,9 +12,9 @@ kt: 11605
 thumbnail: 3412273.jpeg
 exl-id: 77dad94c-5671-4eab-a1b2-d924af236019
 duration: 3104
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '120'
 ht-degree: 0%
 
 ---

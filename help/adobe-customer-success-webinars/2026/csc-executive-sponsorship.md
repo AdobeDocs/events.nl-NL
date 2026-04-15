@@ -1,6 +1,7 @@
 ---
 title: Executive Sponsorship instellen om succes te boeken in de Content Supply chain
 description: Leer hoe sponsoring door managers succes in de inhoud van supply chain drijft met praktische strategieën om leidinggevende ondersteuning te beveiligen en teams op één lijn te brengen.
+feature: Strategic Planning
 topic: Content Supply Chain
 role: Developer, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -8,13 +9,13 @@ doc-type: Event
 duration: 2502
 last-substantial-update: 2026-02-20T00:00:00Z
 jira: KT-20311
-source-git-commit: a9eddbd6554ae26c3ed54c29e6894c9e2d1a63a0
+exl-id: e84d484b-3b00-4073-8781-3671449c207c
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---
-
 
 # Executive Sponsorship instellen om succes te boeken in de Content Supply chain
 

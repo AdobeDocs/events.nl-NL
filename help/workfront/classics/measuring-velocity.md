@@ -1,15 +1,17 @@
 ---
 title: Vraag het de Expert - Meting van snelheid
 description: Leer om snelheid te meten en te volgen gebruikend  [!DNL Workfront]  rapporterend. Deze workshop werd op 14 augustus 2019 vastgelegd.
+feature: Reports and Dashboards
+topic: Administration, Integrations
 doc-type: feature video
 team: Technical Marketing
 jira: KT-9912
 last-substantial-update: 2023-08-15T00:00:00Z
 exl-id: 83053de2-e386-4243-a9c8-a2ad9d51790f
 duration: 4630
-source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '3962'
+source-wordcount: '3986'
 ht-degree: 0%
 
 ---
@@ -27,7 +29,7 @@ Bespaar tijd door de berekeningen hieronder te kopiëren en te plakken.
 >[!NOTE]
 >
 >De syntaxis voor aangepaste veldberekeningen is gewijzigd sinds de presentatie in 2019 is gegeven, maar de concepten en andere instructies in de presentatie zijn nog steeds correct.
->&#x200B;>**De berekeningen hieronder zijn bijgewerkt om op de recentste syntaxisregels te wijzen.**
+>**De berekeningen hieronder zijn bijgewerkt om op de recentste syntaxisregels te wijzen.**
 
 **eerste Vastlegt Datum**
 
@@ -99,7 +101,7 @@ Hallo, bedankt voor het organiseren van dit webinar. Ik heb een vraag over Veld 
 
 In een dergelijke situatie kunt u filteren en bulkbewerking gebruiken om de reeks van het vullen van het veld Voorwaarde op basis van uw aangepaste veld Staat semi-automatisch te maken.
 
-Dit zijn de stappen die u moet uitvoeren:
+Hier volgen de volgende stappen:
 
 1. Bepaal welke statuswaarden u wilt toewijzen aan Condition-waarden. Stel dat u een statuswaarde hebt van &quot;Late&quot; en &quot;Erg laat&quot; die beide zijn toegewezen aan een Condition-waarde van &quot;In Trouble&quot;
 1. Maak een projectrapport met alle projecten met een staatswaarde van &quot;Late&quot; en &quot;Erg laat&quot;

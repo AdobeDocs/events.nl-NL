@@ -1,6 +1,8 @@
 ---
 title: Marketo & Mochas - De stichting voor het succes van de leidende cultuur oprichten
 description: Bekijk samen met bedrijfsadviseurs Cynthia Chang en Carly Gaver hoe u het koesteren van leads in Adobe Marketo Engage kunt maximaliseren, betrokkenheidsprogramma's voor inhoudsdistributie kunt verkennen en een live demonstratie over het opzetten van een betrokkenheidsprogramma met behulp van de sjabloon Best Practice, met live vragen en antwoorden.
+feature: Programs
+topic: Personalization, Performance
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -8,9 +10,9 @@ duration: 3544
 last-substantial-update: 2024-06-07T00:00:00Z
 jira: KT-15604
 exl-id: 7afdf1ae-a73a-4b04-92bf-6deacc2925fc
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '334'
+source-wordcount: '338'
 ht-degree: 0%
 
 ---
@@ -19,7 +21,7 @@ ht-degree: 0%
 
 Sluit u aan bij bedrijfsadviseurs, Cynthia Chang en Carly Gaver, omdat zij inzichten delen over het maximaliseren van de productie van lood in Adobe Marketo Engage.
 
-Met loodverpleging kunnen marketers op consistente wijze communiceren via verschillende kanalen, waardoor de kloof tussen initiële interactie en aankoop wordt overbrugd. We zullen ook het type betrokkenheidsprogramma verkennen, waarmee de distributie van inhoud naar benoemde doelgroepen volgens een bepaald schema mogelijk wordt. Marketo Engage Programma&#39;s stellen marketers in staat om altijd-op-campagnes te voeren, leads en klanten te engageren via gepersonaliseerde inhoud en ervaringen.
+Met loodverpleging kunnen marketers op consistente wijze communiceren via verschillende kanalen, waardoor de kloof tussen initiële interactie en aankoop wordt overbrugd. We zullen ook het type betrokkenheidsprogramma verkennen, waarmee de distributie van inhoud naar benoemde doelgroepen volgens een bepaald schema mogelijk wordt. Marketo Engage-programma&#39;s stellen marketers in staat om altijd-op-campagnes te voeren, leads en klanten te engageren via gepersonaliseerde inhoud en ervaringen.
 
 Carly leidt ook een live demonstratie en begeleidt u door het opzetten van een betrokkenheidsprogramma met behulp van de sjabloon Best Practice uit de Marketo Program Library. Zoals altijd zullen we ook uw vragen live beantwoorden tijdens vragen en antwoorden!
 

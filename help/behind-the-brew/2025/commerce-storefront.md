@@ -1,6 +1,8 @@
 ---
 title: Je Commerce-winkel optimaliseren
 description: Uw Commerce-instantie optimaliseren met Adobe Expert Tips voor onderhoud, Boot Activity en Data Management
+feature: Integration, Edge Delivery Services
+topic: Commerce
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -8,9 +10,9 @@ duration: 3383
 last-substantial-update: 2025-01-25T00:00:00Z
 jira: KT-17175
 exl-id: 0b63be70-ada7-4c7f-a38a-b823a59405ea
-source-git-commit: 87945f25760d168144b852b88eb2a0b9a5021946
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '264'
 ht-degree: 0%
 
 ---

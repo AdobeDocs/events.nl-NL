@@ -2,13 +2,15 @@
 title: Uw Marketo-routekaart
 description: Marketo is zo aanpasbaar en uitbreidbaar dat er zoveel mogelijkheden zijn. Maar tegelijkertijd kan slechte planning, of het gebrek aan planning, u met ... verlaten (de beschrijvingen zouden tussen 60 en 160 karakters moeten zijn)
 solution: Marketo Engage
+feature: Programs, Reporting
+topic: Development
 role: User
 level: Intermediate, Experienced
 kt: 10329
 thumbnail: 342564.jpeg
 exl-id: b1b3d59a-6c45-4712-9eb8-d44406a6a4e9
 duration: 2379
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%

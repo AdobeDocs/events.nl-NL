@@ -3,6 +3,7 @@ title: De gegevens analyseren
 description: Vrije-vormtabellen vormen de flexibele basis van Analysis Workspace. Het beheersen van deze krachtige tabellen zal u ver brengen in uw Workspace-reis. Segmenten zijn een zeer flexibele manier om diep in uw gegevens te filteren en te graven en kunnen globaal worden toegepast, op metrisch niveau, of kunnen als standalone afmetingen worden gebruikt. Deelvensters bieden snelkoppelingen naar complexe analyses. Met name het deelvenster Snelle inzichten is een ideale optie om eenvoudig vragen te beantwoorden die uw bedrijf voor ogen staan
 feature-set: Analytics
 feature: Freeform Tables, Metrics
+topic: Migration, Integrations
 role: User
 level: Beginner
 doc-type: Event
@@ -11,7 +12,7 @@ last-substantial-update: 2023-12-11T00:00:00Z
 jira: KT-14653
 thumbnail: 3425987.jpeg
 exl-id: 548d16b0-0f13-479b-ac99-69f94c6f9c0a
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%

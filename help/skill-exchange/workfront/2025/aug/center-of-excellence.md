@@ -3,6 +3,7 @@ title: Uw Workfront-organisatie voorbereiden op een expertisecentrum
 description: Leer hoe u een Workfront Center of Excellence kunt lanceren en schalen met beheerstrategieën, sponsoring door managers en best practices voor acceptatie.
 solution: Workfront
 feature: Get Started with Workfront
+topic: Performance, Administration, Development
 role: User
 level: Beginner
 doc-type: Event
@@ -10,9 +11,9 @@ duration: 0
 last-substantial-update: 2025-08-29T00:00:00Z
 jira: KT-18875
 exl-id: b4e3f704-b0a7-4b1e-a2a5-d8ff427ece84
-source-git-commit: 91120ff6bfd81c7b3c9218fbbb6dbff9397b37e6
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '370'
+source-wordcount: '371'
 ht-degree: 0%
 
 ---
@@ -27,7 +28,7 @@ De oprichting van een excellentiecentrum (CvE) is van cruciaal belang voor het s
 * **Onderzoek de kritieke aspecten van het bemannen van uw RvE door zeer belangrijke rollen en verantwoordelijkheden voor uw adminpraktijk te identificeren.** Begrijp hoe te om een team te bouwen dat uw initiatieven van CoE effectief kan steunen en drijven.
 * **Uiteinden en Tricks** krijgen praktische inzichten en beste praktijken voor het beheren van en het steunen van uw RvE. Ontdek strategieën voor het overwinnen van gemeenschappelijke uitdagingen, het bevorderen van samenwerking, en het verzekeren van voortdurende verbetering. Sluit u aan bij ons om uzelf uit te rusten met de kennis en instrumenten die nodig zijn om een bloeiend centre of Excellence te creëren binnen uw Workfront-organisatie.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471590/?learn=on&enablevpops&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3471495/?learn=on&enablevpops)
 
 ## Belangrijke stappen om uw COE te starten
 

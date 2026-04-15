@@ -2,25 +2,26 @@
 title: Voortbouwen van Executive Sponsorship voor ondersteuning van Adobe Customer Journey Analytics Success
 description: Leer strategieën om managementsponsoring voor Adobe Customer Journey Analytics te krijgen. Aansturen van afstemming, veilige budgetten en bevorderen van gegevensgestuurde besluitvorming.
 feature: Data Governance
+topic: Development
 role: Leader, User
 level: Beginner, Intermediate
 doc-type: Event
 duration: 1623
 last-substantial-update: 2025-08-19T00:00:00Z
 jira: KT-18767
-source-git-commit: 2f118841f4332bcf105e519f31de34b6ac6c58dc
+exl-id: 7e5827d4-e243-4030-94f0-1ad25cab8951
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '270'
 ht-degree: 0%
 
 ---
-
 
 # Voortbouwen van Executive Sponsorship voor ondersteuning van Adobe Customer Journey Analytics (CJA) Success
 
 In onze vierde zitting duiken we in hoe het gebrek aan sterke uitvoerende sponsoring de besluitvorming, de begrotingstoewijzing en het veranderingsbeheer zal vertragen. In dit webinar verkennen we de cruciale rol die uitvoerende leiders spelen bij het verdedigen van Adobe Customer Journey Analytics-programma&#39;s, het op één lijn brengen van interfunctionele teams en het aansturen van meetbare bedrijfsresultaten. Leer praktische strategieën om seniorbelanghebbenden bij de zaak te betrekken, op effectieve wijze waarde te communiceren en een cultuur van gegevensgestuurde besluitvorming op te bouwen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470860/?learn=on&enablevpops&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3470853/?learn=on&enablevpops)
 
 ## Zakelijke zaken maken
 

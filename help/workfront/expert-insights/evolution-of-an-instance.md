@@ -1,6 +1,8 @@
 ---
 title: Expert Insights met Jen Desmond
 description: Join Jen Desmond bespreekt de evolutie van een instantie en deelt inzichten over veranderingsbeheer en gebruikersbetrokkenheid.
+feature: Workfront Fusion, System Setup and Administration
+topic: Administration, Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -8,7 +10,7 @@ duration: 1201
 last-substantial-update: 2026-04-03T00:00:00Z
 jira: KT-20745
 exl-id: b4f70c4f-9d01-4b06-afcf-ec963f3604c5
-source-git-commit: 327b4b3fe5c69e163190b3b2cdfdb5b426b417af
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '587'
 ht-degree: 0%
@@ -21,7 +23,7 @@ Welkom bij de nieuwste episode van experts voor inzichten! Ik ben Cynthia Boon, 
 
 In deze uitzending worden we ondersteund door de ongelofelijke Jen Desmond, Technical Success Advisor bij Adobe, die haar reis van de eerste Workfront-gebruiker naar een vertrouwde expert deelt, samen met praktisch advies voor het beheren van veranderingen en het vergroten van je instantie met opzet.
 
->[!VIDEO](https://video.tv.adobe.com/v/3483117/?captions=dut&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483111/?learn=on&enablevpops)
 
 U gaat weg met doordachte inzichten, die omvatten:
 
@@ -34,9 +36,9 @@ U gaat weg met doordachte inzichten, die omvatten:
 ## Bronnen
 
 Jen deelt ook een aantal van haar favoriete bronnen, waaronder waarom Fusion-sjablonen, blauwdrukken en gedeelde beste werkwijzen het verschil kunnen maken. Meer informatie vindt u hier:
-* [&#x200B; Lijst van beschikbare Malplaatjes van de Fusie &#x200B;](https://experienceleague.adobe.com/nl/docs/workfront-fusion/using/create-and-manage-templates/currently-available-fusion-templates)
-* [&#x200B; Lijst van beschikbare Blauwdrukken &#x200B;](https://experienceleague.adobe.com/nl/docs/workfront/using/administration-and-setup/blueprints/list-of-available-blueprints)
-* [&#x200B; Experience League Workfront Community &#x200B;](https://experienceleaguecommunities.adobe.com/adobe-workfront-22?profile.language=nl)
+* [ Lijst van beschikbare Malplaatjes van de Fusie ](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/create-and-manage-templates/currently-available-fusion-templates)
+* [ Lijst van beschikbare Blauwdrukken ](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/blueprints/list-of-available-blueprints)
+* [ Experience League Workfront Community ](https://experienceleaguecommunities.adobe.com/adobe-workfront-22)
 
 Maar wacht!  Ze heeft meer raad om te delen!
 
@@ -52,7 +54,7 @@ Jen Desmond is een Sr. Technische Adviseur van het Succes die met klanten samenw
 
 ## Heb je iets te delen?
 
-Hebt u een geweldig verhaal om te delen, tijdens een gebeurtenis of in een video van Expert Insights? Gelieve te bereiken uit aan ons team in [&#x200B; CSatScale@adobe.com &#x200B;](mailto:CSatScale@adobe.com).
+Hebt u een geweldig verhaal om te delen, tijdens een gebeurtenis of in een video van Expert Insights? Gelieve te bereiken uit aan ons team in [ CSatScale@adobe.com ](mailto:CSatScale@adobe.com).
 
 
-En als u van het leren over nieuwe ideeën en creatieve benaderingen houdt, dan vergeet niet om voor komende workshops op de [&#x200B; pagina van de Gebeurtenissen van Experience League &#x200B;](https://experienceleague.adobe.com/nl/events) te registreren.
+En als u van het leren over nieuwe ideeën en creatieve benaderingen houdt, dan vergeet niet om voor komende workshops op de [ pagina van de Gebeurtenissen van Experience League ](https://experienceleague.adobe.com/en/events) te registreren.

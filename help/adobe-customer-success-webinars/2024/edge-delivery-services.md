@@ -3,6 +3,7 @@ title: De levering van inhoud optimaliseren - De kracht van Edge Services ontgre
 description: De sessie over Edge Delivery Services (EDS) ging over de architectuur, integratie met op documenten gebaseerde en op AEM gebaseerde authoring, snel maken van sites, aanpassingsopties en aanbevolen procedures voor het handhaven van hoge prestaties.
 solution: Experience Manager, Experience Manager as a Cloud Service
 feature: Edge Delivery Services
+topic: Headless, Integrations, Performance
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -10,9 +11,9 @@ duration: 3589
 last-substantial-update: 2024-12-06T00:00:00Z
 jira: KT-16631
 exl-id: 2057e491-9ec3-4bfe-b85a-6b74d70822bf
-source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '406'
+source-wordcount: '401'
 ht-degree: 0%
 
 ---
@@ -41,7 +42,7 @@ In deze sessie geven we een overzicht van Edge Delivery Services (EDS) en de arc
 * Deze functie ondersteunt een serverloze implementatie en kan werken zonder een traditionele auteur- of uitgeversinstantie. &#x200B;
 * Twee niveaus van caching kunnen worden uitgevoerd: op het niveau van de klanteninfrastructuur en het niveau van EDS. &#x200B;
 
-### Contentmanagement
+### Inhoud beheren
 
 * Voor op documenten gebaseerde authoring zijn een GitHub-account, Google Drive of Microsoft SharePoint, een secundaire insteekmodule en een codesynchronisatieprogramma vereist. &#x200B;
 * EDS met IAM authoring vereist een GitHub-account, een IAM als cloudservice-licentie en een codesynchronisatiehulpmiddel.

@@ -1,19 +1,21 @@
 ---
 title: Foundational Marketo User Group - Professional Exam Preparation
 description: Krijg deskundige begeleiding, studietips, en op AI-Gebaseerde het leren steun om uw Marketo Engage Professional Examen met vertrouwen in deze gerichte prep zitting te krijgen.
+feature: Programs, Reporting
+topic: Artificial Intelligence, Performance, Certification
 role: User
 level: Beginner
 doc-type: Event
 duration: 3115
 last-substantial-update: 2025-10-28T00:00:00Z
 jira: KT-19483
-source-git-commit: 52bd6d5a06799c79ac84b9e4827011f89c6471df
+exl-id: dc33d6a9-1675-4791-a9f2-a64251f346bd
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '322'
+source-wordcount: '330'
 ht-degree: 0%
 
 ---
-
 
 # Foundational Marketo User Group: Professional Exam Preparation
 
@@ -40,4 +42,3 @@ Het combineren van deze strategieën zorgt voor een goed-afgeronde voorbereiding
 * **Champion &amp; de Inhoud van de Groep van de Gebruiker** Blogs van het Overzicht, opnamen, en besprekingen voor praktische uiteinden en examenniveau verklaringen.
 
 Deze middelen verstrekken een sterke stichting en voortdurende steun door uw certificatiereis.
-

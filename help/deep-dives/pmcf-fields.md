@@ -4,6 +4,7 @@ description: Leer hoe u in Marketo aangepaste velden voor programmaleden (PMCF) 
 solution: Marketo Engage
 feature-set: Marketo Engage
 feature: Field Management
+topic: Personalization, Integrations, Performance
 role: Admin, Developer, User
 level: Intermediate, Experienced
 doc-type: Event
@@ -11,9 +12,9 @@ duration: 3059
 last-substantial-update: 2024-06-28T00:00:00Z
 jira: KT-15784
 exl-id: 9fd094c3-d6ad-410e-aeae-1b6bf3f012bd
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '281'
+source-wordcount: '282'
 ht-degree: 0%
 
 ---
@@ -26,7 +27,7 @@ In de video &quot;Adobe Marketo Engage Champion Deep Dive&quot; bespreken de pre
 
 ## Toetsen
 
-{de Velden van de Douane van het Lid van 0} Programma (PMCs) **&#x200B;**
+{de Velden van de Douane van het Lid van 0} Programma (PMCs) ****
 
 * Unieke gegevensvelden die specifiek zijn voor een programma.
 * Contextgegevens op programmaniveau toestaan.

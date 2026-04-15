@@ -2,6 +2,7 @@
 title: Expert Insights - Fusion with Ewan Hruska
 description: Leer beste praktijken van Fusion van Ewan Hruska. Ontdek hoe u workflows met Adobe Workfront Fusion kunt documenteren, optimaliseren en schalen voor efficiëntie.
 feature: Workfront Fusion
+topic: Performance
 speaker-name-1: Ewan Hruska
 speaker-title-1: Senior Customer Success Architect
 speaker-company-1: Adobe
@@ -12,9 +13,9 @@ duration: 1458
 last-substantial-update: 2025-08-20T00:00:00Z
 jira: KT-18618
 exl-id: ab61b492-a391-497b-af45-f2d468e3f24f
-source-git-commit: ed7e2914147dbdc2012186c88e50d7313ef8bf7d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '328'
+source-wordcount: '400'
 ht-degree: 0%
 
 ---
@@ -27,19 +28,19 @@ Welkom terug bij Expert Insights!  Ik ben Cynthia Boon, uw &quot;On-Demand&quot;
 
 ## Heb je hulp nodig!
 
-Zoals Ewan in de video opmerkte, werkt hij aan een handleiding voor beste praktijken voor Fusion, en hij zou graag van u horen!  Als u Fusion gebruikt om uw processen te steunen, gelieve uw advies, aanbevelingen, en uiteinden in de [&#x200B; Communautaire Post van Experience League &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-february-2024-workfront-expert-insights-fusion-with-ewan/td-p/657114?profile.language=nl) te delen, en hij zal proberen om zoveel mogelijk te omvatten!
+Zoals Ewan in de video opmerkte, werkt hij aan een handleiding voor beste praktijken voor Fusion, en hij zou graag van u horen!  Als u Fusion gebruikt om uw processen te steunen, gelieve uw advies, aanbevelingen, en uiteinden in de [ Communautaire Post van Experience League ](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-february-2024-workfront-expert-insights-fusion-with-ewan/td-p/657114) te delen, en hij zal proberen om zoveel mogelijk te omvatten!
 
 ## Advies
 
 * Fusie is een visuele weergave van uw processen. Documentatie is uw vriend! Bespreek documentatie, sparen de details van hoe u uw processen bouwt.  Nog beter, video zelf loopt er doorheen!
 * Meet de inspanning en de uren van uw herhaalde werk
-* De calculator van Adobe Workfront ROI die Ewan vermeldde is in bijlage aan [&#x200B; Communautaire Post van Experience League &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-february-2024-workfront-expert-insights-fusion-with-ewan/td-p/657114?profile.language=nl).
+* De calculator van Adobe Workfront ROI die Ewan vermeldde is in bijlage aan [ Communautaire Post van Experience League ](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-february-2024-workfront-expert-insights-fusion-with-ewan/td-p/657114).
 * Met Fusion kunt u uw interfunctionele uitdagingen oplossen, tijd (en geld) besparen en fouten voorkomen.
 
 ## Bronnen
 
-* [&#x200B; Lijst van Beschikbare Malplaatjes van de Fusie &#x200B;](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/scenarios-in-fusion/fusion-scenario-templates/currently-available-fusion-templates.html?lang=nl-NL)
-* [&#x200B; de videooverzichten van de Fusie van Adobe Workfront &#x200B;](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/get-started-with-workfront-fusion/fusion-basics-videos.html?lang=nl-NL)
+* [ Lijst van Beschikbare Malplaatjes van de Fusie ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/scenarios-in-fusion/fusion-scenario-templates/currently-available-fusion-templates.html?lang=en)
+* [ de videooverzichten van de Fusie van Adobe Workfront ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/get-started-with-workfront-fusion/fusion-basics-videos.html?lang=en)
 
 ## Over de spreker
 
@@ -47,4 +48,4 @@ Ewan is een Senior Customer Success Architect die elk jaar met 100 klanten van A
 
 ## Heb je iets te delen?
 
-Hebt u een geweldig verhaal om te delen, tijdens een gebeurtenis of in een video van Expert Insights? Gelieve te bereiken uit aan ons team in [&#x200B; CSatScale@adobe.com &#x200B;](mailto:CSatScale@adobe.com).
+Hebt u een geweldig verhaal om te delen, tijdens een gebeurtenis of in een video van Expert Insights? Gelieve te bereiken uit aan ons team in [ CSatScale@adobe.com ](mailto:CSatScale@adobe.com).

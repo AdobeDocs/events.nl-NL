@@ -1,6 +1,8 @@
 ---
 title: De strategische kracht van meting - Gegevens omzetten in actie
 description: Effectieve meetstrategieën bouwen vertrouwen en zelfstandigheid op door de belanghebbenden erbij te betrekken, ervoor te zorgen dat de gegevens vertrouwd raken en het vertrouwen in de besluitvorming te bevorderen, terwijl vertrouwen wordt geschapen door transparantie, gegevensbeheer en de afstemming van belanghebbenden, en empowerment wordt bereikt door middel van opleiding, toegankelijke instrumenten en activeerbare gegevens, die allemaal bijdragen tot het aantonen van de waarde van analyses door zakelijke impact en operationele efficiëntie.
+feature: Metrics, Data Governance
+topic: Administration
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -8,9 +10,9 @@ duration: 3391
 last-substantial-update: 2024-12-06T00:00:00Z
 jira: KT-16628
 exl-id: eaa9642c-c460-410b-9af5-3ff42e50ef89
-source-git-commit: 1c1e8203802b9fc6bc92aab963e61a9392f2e59c
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '313'
+source-wordcount: '317'
 ht-degree: 0%
 
 ---

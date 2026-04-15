@@ -2,14 +2,16 @@
 title: Datums en tijdlijnen voor projecten beheren
 description: Of u procesgeoriënteerd door aard bent, of een "toevallige projectmanager", die een stevig inzicht in chronologie en datumbeperkingen heeft is zeer belangrijk aan planning en het uitvoeren van het werk in Workfront.
 solution: Workfront
+feature: Strategic Planning
+topic: Administration, Integrations
 role: User
 level: Beginner
 kt: 10310
 exl-id: edd8e9f9-9abe-4fb8-83ea-f150bedd614b
 duration: 2200
-source-git-commit: 64c1e96ddb7688006d5bc0d376b1dadb2bbff492
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '105'
 ht-degree: 0%
 
 ---

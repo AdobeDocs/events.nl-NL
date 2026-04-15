@@ -3,19 +3,20 @@ title: Overzicht van de universele editor voor moderne Adobe Experience Manager-
 description: 'Bekijk de Universal Editor van AEM: gebruik de gevallen, ondersteuning voor meerdere architecturen en belangrijke overwegingen om het schrijven van inhoud te vereenvoudigen en de levering van inhoud te stimuleren.'
 solution: Experience Manager
 feature: Authoring
+topic: Headless, Integrations, Security
 role: Admin, Developer, User
 level: Beginner, Intermediate
 doc-type: Event
 duration: 2891
 last-substantial-update: 2025-08-19T00:00:00Z
 jira: KT-18763
-source-git-commit: 3b54c46988da18248024d115997704d9881f5e68
+exl-id: 6212a20d-f58c-481c-a475-89153cb0d040
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '238'
-ht-degree: 2%
+source-wordcount: '242'
+ht-degree: 0%
 
 ---
-
 
 # Universal Editor: een strategisch overzicht voor moderne AEM-authoring
 
@@ -34,7 +35,7 @@ Ontdek hoe Adobe Experience Manager Universal Editor het ontwerpen van inhoud tr
 
 * **Capabilities van de Kern** steunt gealigneerde het uitgeven, op vorm-gebaseerde het uitgeven, en modale dialogen.
 * **de Integratie** werkt foutloos met de hulpmiddelen van AEM zoals werkschema&#39;s, vertaling, en multi-site beheer.
-* **de Uitbreidingspunten van de aanpassing** van de Aanpassing &lbrace;voor de types van douanegegevensingang, lusjes, en modale dialogen.
+* **de Uitbreidingspunten van de aanpassing** van de Aanpassing {voor de types van douanegegevensingang, lusjes, en modale dialogen.
 * **Flexibiliteit** Compatibel met veelvoudige inhoudstijden, met inbegrip van AEM JCR, GraphQL, en de diensten van de randlevering.
 
 Deze functies maken van de Universal Editor een veelzijdig hulpmiddel voor moderne behoeften op het gebied van inhoudsbeheer.

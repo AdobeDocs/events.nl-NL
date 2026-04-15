@@ -1,19 +1,21 @@
 ---
 title: Rapid Development Environment (RDE)-momentopnamen voor snelle ontwikkeling in de cloud
 description: Ontdek de snelle ontwikkeling met RDE-momentopnamen in AEM Cloud. Leer uw ontwikkelingscycli op efficiënte wijze te bevriezen, te herstellen en te innoveren.
+feature: Edge Delivery Services, Release Information
+topic: Administration, Development
 role: Developer
 level: Beginner, Intermediate
 doc-type: Event
 duration: 2501
 last-substantial-update: 2025-12-11T00:00:00Z
 jira: KT-19985
-source-git-commit: 76b4e64093ebad269534b65c41c4bda1a6bb468f
+exl-id: e8998e51-b661-42ab-a6c4-1cb85e3d9386
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '211'
+source-wordcount: '219'
 ht-degree: 0%
 
 ---
-
 
 # Bevriezen, herstellen, innoveren: Handsaan met Snellere ontwikkelomgeving — momentopnamen voor Cloud Development
 
@@ -27,5 +29,5 @@ In het bijzonder dank ik onze sponsors Algolië en Ensemble voor hun steun aan A
 
 ## Volgende stappen
 
-* Ga op [&#x200B; Experience League &#x200B;](https://adobe.ly/47ss08A) verder
-* Ontdek [&#x200B; aanstaande gebeurtenissen &#x200B;](https://developerevents.adobe.com)
+* Ga op [ Experience League ](https://adobe.ly/47ss08A) verder
+* Ontdek [ aanstaande gebeurtenissen ](https://developerevents.adobe.com)
