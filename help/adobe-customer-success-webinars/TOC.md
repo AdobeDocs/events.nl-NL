@@ -2,10 +2,10 @@
 user-guide-title: Adobe Customer Success Webinars
 breadcrumb-title: Adobe Customer Success Webinars
 user-guide-description: Adobe Customer Success geleide webinars die zijn ontworpen om u te helpen uw investering in Adobe Experience Cloud te optimaliseren. Vergroot waardevolle inzichten om de waarde te maximaliseren en de acceptatie van Adobe-oplossingen te vergroten.
-source-git-commit: a242376e1d74f6405183a1e3e75ba6a991946886
+source-git-commit: 4d76f9900ce9cdc2783223443b5e47cddea09c3b
 workflow-type: tm+mt
-source-wordcount: '639'
-ht-degree: 5%
+source-wordcount: '661'
+ht-degree: 4%
 
 ---
 
@@ -29,7 +29,10 @@ ht-degree: 5%
       + [Supply chain-beheerstrategieën voor wijzigingen in inhoud](2026/csc-change-management.md)
       + [Content Supply chain Executive Sponsorship](2026/csc-executive-sponsorship.md)
       + [Foundational Architecture for Content Supply chain](2026/csc-architecture.md)
+      + [GenAI-verkeersupdate](2026/gen-ai-traffic-update.md)
       + [Besturingsmodel voor inhoud Supply chain](2026/csc-operating-model.md)
+   + Workfront {#workfront2026}
+      + [Workfront Proof voor goedkeuringen](2026/workfront-proof-approvals.md)
 + 2025 {#2025}
    + Commerce {#commerce2025}
       + [Adobe Commerce verrijken met Adobe Experience Platform](2025/enriching-adobe-commerce.md)
@@ -49,7 +52,7 @@ ht-degree: 5%
       + [Essentiële tips en aanbevolen procedures voor AEM Lucene Search](2025/aem-lucene-search.md)
       + [AEM met GenAI](2025/aem-genai.md)
       + [Integratie van AEM en Workfront](2025/aem-workfront-integration.md)
-      + [AI-assistent in AEM](2025/ai-assistant-in-aem.md)
+      + [AI Assistant in AEM](2025/ai-assistant-in-aem.md)
       + [Effectieve webpagina&#39;s maken](2025/build-effective-web-pages.md)
       + [Aansturen van klantenservice](2025/driving-customer-engagement.md)
       + [Inschrijvingsreis met AEM Forms](2025/payer-enrollment-journey.md)
@@ -68,7 +71,7 @@ ht-degree: 5%
       + [Kwesties en probleemoplossing voor identiteitsgrafiek](2025/identity-graph.md)
       + [Win Executive Sponsorship voor AEP-projecten](2025/exec-sponsorship-aep-projects.md)
    + GenStudio for Performance Marketing {#genstudio2025}
-      + [Inhoudstoeleveringsketen en Adobe GenStudio](2025/csc-gen-studio.md)
+      + [Inhoud Supply chain en Adobe GenStudio](2025/csc-gen-studio.md)
       + [GenStudio for Performance Marketing-besturingssysteem](2025/genstudio-for-performance-marketing-operating-model.md)
    + Journey Optimizer {#ajo2025}
       + [Directie sponsoring opbouwen](2025/build-executive-sponsorship-ajo.md)
@@ -81,7 +84,7 @@ ht-degree: 5%
    + Marketo {#marketo2025}
       + [Nieuwe e-maileditor](2025/marketo-new-email-editor.md)
    + Meerdere oplossingen {#multisolution2025}
-      + [Grondbeginselen van de inhoudsvoorzieningsketen](2025/content-supply-chain-basics.md)
+      + [Inhoud Supply chain: basiskennis](2025/content-supply-chain-basics.md)
       + [Digital Experience Optimization met AI Insights](2025/accelerating-digital-experience-optimization.md)
       + [Loyaliteitsprogramma&#39;s verbeteren via Personalization en gegevens](2025/enhance-loyalty-programs.md)
       + [Personalization verbeteren](2025/enhancing-personalization.md)
@@ -130,7 +133,7 @@ ht-degree: 5%
    + [Mastering in de Adobe Admin Console](2024/adobe-admin-console.md)
    + [Cookies en gegevensprivacy beheren](2024/mastering-cookies-data-privacy.md)
    + [Sequentiële logica](2024/sequential-logic.md)
-   + [Organisatorische gereedheid voor de toeleveringsketen voor inhoud](2024/organizational-readiness-content-supply-chain.md)
+   + [Organisatorische gereedheid voor inhoud Supply chain](2024/organizational-readiness-content-supply-chain.md)
    + [Integratie met Real-Time Customer Data Platform en Marketo](2024/aep-marketo-integration.md)
    + [Realtime gereedheid voor migratie van klantgegevens](2024/rtcdp-migration-readiness.md)
    + [Strategisch leiderschap](2024/strategic-leadership.md)
