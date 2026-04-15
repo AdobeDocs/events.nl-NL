@@ -24,4 +24,4 @@ ht-degree: 0%
 
 Deze Uitwisseling van Vaardigheid concentreert zich op hoe een nieuwe ontwikkelaar van AEM een nieuw project kan beginnen en opstellen. Het zal zich op onderwerpen zoals de Archetype van het Project van AEM, de opstelling van Cloud Manager, en ontwikkelingshulpmiddelen concentreren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424017/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457280/?captions=dut&learn=on)

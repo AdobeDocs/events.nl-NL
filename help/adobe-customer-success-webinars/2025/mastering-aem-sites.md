@@ -29,4 +29,4 @@ Deze sessie biedt een basiskennis van drie cruciale aspecten van het bouwen en b
 * Gebruikersvriendelijke navigatie maken voor optimale ervaring met sites
 * De SEO Foundation oprichten in AEM Sites
 
->[!VIDEO](https://video.tv.adobe.com/v/3464298/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3464321/?captions=dut&learn=on&enablevpops)

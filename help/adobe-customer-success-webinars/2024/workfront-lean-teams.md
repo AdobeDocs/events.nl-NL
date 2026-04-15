@@ -28,7 +28,7 @@ Inzichtelijke strategieën en praktische benaderingen voor organisaties die hun 
 * Workfront gebruiken voor ondersteuning van Lean Project Management
 * Doorlopend leren en aanpassen
 
->[!VIDEO](https://video.tv.adobe.com/v/3429287/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456713/?captions=dut&learn=on)
 
 ## Overzicht van vergaderingen
 

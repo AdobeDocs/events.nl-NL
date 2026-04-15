@@ -28,4 +28,4 @@ In deze sessie leert u:
 * Aanbevolen procedures voor het benutten van segmentatie en dynamische inhoud in Adobe Commerce
 * Strategieën voor effectief contentbeheer om de betrokkenheid van klanten te verbeteren
 
->[!VIDEO](https://video.tv.adobe.com/v/3433146/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456946/?captions=dut&learn=on)

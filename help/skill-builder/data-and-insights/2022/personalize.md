@@ -23,4 +23,4 @@ Sluit u aan bij deze sessie om de kernconcepten van het automatiseren en optimal
 
 *Matthias Kolitsch* Senior Multi Solution Trainer EMEA/Adobe
 
->[!VIDEO](https://video.tv.adobe.com/v/343821/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457384/?captions=dut&quality=12&learn=on)

@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Het webinar zal aantonen hoe het integreren van deze concepten efficiency kan drijven, klantenervaringen verbeteren, en gegeven-gedreven besluitvorming binnen organisaties steunen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3432998/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457014/?captions=dut&learn=on)
 
 ## Toetsen
 

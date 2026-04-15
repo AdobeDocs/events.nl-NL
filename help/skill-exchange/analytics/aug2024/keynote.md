@@ -28,4 +28,4 @@ Het is van essentieel belang dat teams gegevens krijgen om innovatie te stimuler
 * Leer beste praktijken om de juiste context te verstrekken en effectief gegevensgebruik te verzekeren.
 * Ontdek hoe Adobe Analytics en Customer Journey Analytics u kunnen helpen uw teams van gegevens te voorzien.
 
->[!VIDEO](https://video.tv.adobe.com/v/3432751/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453593/?captions=dut&learn=on)

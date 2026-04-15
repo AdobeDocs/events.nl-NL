@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Toetsenbord openen Adobe Commerce
 
->[!VIDEO](https://video.tv.adobe.com/v/3433144/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453952/?captions=dut&learn=on)

@@ -28,4 +28,4 @@ Slimme campagnes zijn de krachtige motoren die de automatiseringsmagie van Marke
 * Een diep duik in de vier niveaus van logica om uw publiek te vormen en aan te passen
 * De trucs om uw logica problemen op te lossen en te verifiëren dat u correct uw voorgenomen publiek hebt gericht
 
->[!VIDEO](https://video.tv.adobe.com/v/3432943/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457304/?captions=dut&learn=on)

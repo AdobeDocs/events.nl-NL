@@ -27,7 +27,7 @@ Deze sessie gaat in op het oplossen van echte uitdagingen in Adobe Journey Optim
 * Verdeel echte problemen door specifieke, cross-channel reiskaarten te gebruiken.
 * Er bestaan meerdere geldige oplossingen voor elk probleem. Flexibiliteit is essentieel.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471331/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471348/?captions=dut&learn=on&enablevpops)
 
 ## Real-World Journey Scenarios toepassen
 

@@ -20,4 +20,4 @@ ht-degree: 0%
 
 In deze sessie leert u meer over de tools die beschikbaar zijn om de gezondheid, beveiliging en kwaliteit van het Adobe Commerce-platform te controleren.
 
->[!VIDEO](https://video.tv.adobe.com/v/340624/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456868/?captions=dut&quality=12&learn=on)

@@ -23,7 +23,7 @@ Welkom bij de nieuwste episode van experts voor inzichten! Ik ben Cynthia Boon, 
 
 In deze uitzending worden we ondersteund door de ongelofelijke Jen Desmond, Technical Success Advisor bij Adobe, die haar reis van de eerste Workfront-gebruiker naar een vertrouwde expert deelt, samen met praktisch advies voor het beheren van veranderingen en het vergroten van je instantie met opzet.
 
->[!VIDEO](https://video.tv.adobe.com/v/3483111/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483117/?captions=dut&learn=on&enablevpops)
 
 U gaat weg met doordachte inzichten, die omvatten:
 

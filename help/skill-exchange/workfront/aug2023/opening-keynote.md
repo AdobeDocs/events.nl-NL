@@ -22,4 +22,4 @@ ht-degree: 0%
 
 In deze zitting, Directeur van de Marketing van het Product, zal Richard Whitehead u door de evolutie van Workfront, met inbegrip van hoogtepunten, nieuwe &amp; beschikbare mogelijkheden, en met productinnovaties beëindigen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425894/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453835/?captions=dut&learn=on)

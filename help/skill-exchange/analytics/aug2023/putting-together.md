@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Deze sessie leidt tot een afronding van de zaken door te begrijpen hoe Adobe Analytics websitegegevens bijhoudt en Visualisaties gebruikt om meer insight te krijgen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425988/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456723/?captions=dut&learn=on)

@@ -32,7 +32,7 @@ Join Kurt Jones van J.P. Morgan Payments deelt het inzicht van experts in,
 * Maken van account automatiseren in Admin Console met Fusion
 * Extra details van het Workfront-profiel bijwerken met Fusion
 
->[!VIDEO](https://video.tv.adobe.com/v/3471496/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471577/?captions=dut&learn=on&enablevpops)
 
 ## Aanbevolen werkwijzen voor beheerders en schalen
 

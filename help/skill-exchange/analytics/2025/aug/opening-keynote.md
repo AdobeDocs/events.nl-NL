@@ -25,7 +25,7 @@ Zakelijk actueel en ethisch verantwoord maken: slimme, ethische beslissingen nem
 Onderzoeksmethodologie en Verteller: Transformeer de bevindingen van gegevens in dwingende verhalen voor belanghebbenden.
 Technische competentie en Emotional Intelligence: bieden ondersteuning en oplossingen met empathie, niet alleen technische vaardigheden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471124/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471198/?captions=dut&learn=on&enablevpops)
 
 ## Analyses ontgrendelen voor menselijke effecten
 

@@ -28,4 +28,4 @@ Belangrijke discussiepunten
 * Onderzoek zeer belangrijke gebruiksgevallen, de toepassing van mogelijkheden, en uiteinden en trucs voor rijpheidsprogressie.
 * Bespreek de volgende mogelijkheden en verbeteringen van het
 
->[!VIDEO](https://video.tv.adobe.com/v/3463357/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463364/?captions=dut&learn=on&enablevpops)
