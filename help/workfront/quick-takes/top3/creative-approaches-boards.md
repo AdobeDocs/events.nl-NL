@@ -25,4 +25,4 @@ Nogmaals, mijn &quot;On-Demand Workfront CSM&quot; Cynthia Boon en ik hoop julli
 
 Op zoek naar een voorbeeld van hoe een klant Borden gebruikt? Kijk maar eens naar de presentatie van de Boards van het Mattel-team in de Adobe Summit van 2024!  
 
-[Zitting van de top in 2024: hoe Mattel gebruik maakt van Workfront Boards](https://business.adobe.com/summit/2024/sessions/skill-exchange-how-mattel-is-leveraging-workfront-s956.html)
+[Zitting van de top in 2024: hoe Mattel gebruik maakt van Workfront Boards](https://business.adobe.com/nl/summit/2024/sessions/skill-exchange-how-mattel-is-leveraging-workfront-s956.html)

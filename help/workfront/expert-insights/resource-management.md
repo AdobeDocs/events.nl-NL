@@ -28,21 +28,21 @@ Op zoek naar advies over Aan de slag met Resourcebeheer? Word lid van uw CSM voo
 
 ## Bronnen
 
-Functiewaarschuwing!  Controle uit de details op [&#x200B; het nieuwe Gebied van de Tijd van het Werk &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/the-new-work-time-field-now-you-can-adjust-user-capacity-and/m-p/582855#M519): Nu kunt u gebruikerscapaciteit aanpassen EN beschikbaarheid berekenen die op het Programma van de Gebruiker wordt gebaseerd.
+Functiewaarschuwing!  Controle uit de details op [&#x200B; het nieuwe Gebied van de Tijd van het Werk &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/the-new-work-time-field-now-you-can-adjust-user-capacity-and/m-p/582855?profile.language=nl#M519): Nu kunt u gebruikerscapaciteit aanpassen EN beschikbaarheid berekenen die op het Programma van de Gebruiker wordt gebaseerd.
 
 Op zoek naar manieren om uw gegevens beter te analyseren zodat u er klaar voor bent? Bekijk de catalogus met Blueprints die klaar zijn voor installatie!
 
-[Gebruik Workfront Blueprints om uw werkomgeving te optimaliseren!](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/use-workfront-blueprints-to-optimize-your-work-management/ba-p/547147)
+[Gebruik Workfront Blueprints om uw werkomgeving te optimaliseren!](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/use-workfront-blueprints-to-optimize-your-work-management/ba-p/547147?profile.language=nl)
 
 Op zoek naar het verschil tussen de functie Resource Planner en de functie Workload Balancer? Hier volgen enkele korte video&#39;s:
 
-* [Wat is de Resource Planner?](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-resources/resource-planning/what-is-the-resource-planner.html?lang=en)
-* [Werk toewijzen in Workload Balancer](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-resources/workload-balancer/assign-work-in-the-workload-balancer.html?lang=en)
+* [Wat is de Resource Planner?](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-resources/resource-planning/what-is-the-resource-planner.html?lang=nl-NL)
+* [Werk toewijzen in Workload Balancer](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-resources/workload-balancer/assign-work-in-the-workload-balancer.html?lang=nl-NL)
 
 Aangezien de Planner van het Middel en de Balancer van de Werkbelasting twee verschillende hulpmiddelen binnen de eigenschap van het Beheer van het Middel zijn, is het begrijpen van het filtreren binnen allebei zeer belangrijk. Hier vindt u meer informatie:
 
-* [Gegevens filteren in de bronnenplanner](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/resource-planning-in-adobe-workfront/filter-resource-planner.html?lang=en)
-* [Gegevens in de werklastbalans filteren](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/filter-information-workload-balancer.html?lang=en)
+* [Gegevens filteren in de bronnenplanner](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/resource-planning-in-adobe-workfront/filter-resource-planner.html?lang=nl-NL)
+* [Gegevens in de werklastbalans filteren](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/filter-information-workload-balancer.html?lang=nl-NL)
 
 ## Over de spreker
 

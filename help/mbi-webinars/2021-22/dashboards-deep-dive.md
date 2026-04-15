@@ -38,5 +38,5 @@ Volg een rondleiding door de vier dashboards die bij opstelling met elke rekenin
 
 ## Nuttige bronnen
 
-[&#x200B; Dashboards](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/ess-dashboards.html)
-[&#x200B; het Uitvoeren Gegevens van de Grafiek &#x200B;](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/share/exp-chart-dash.html)
+[&#x200B; Dashboards](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/ess-dashboards.html?lang=nl-NL)
+[&#x200B; het Uitvoeren Gegevens van de Grafiek &#x200B;](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/share/exp-chart-dash.html?lang=nl-NL)

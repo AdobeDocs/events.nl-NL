@@ -25,6 +25,6 @@ Word Senior Product Manager, Sam Taylor, als hij nieuwe functies, updates en toe
 
 Als u de sessie hebt gemist, hoeft u zich geen zorgen te maken! Herzie het [&#x200B; diafeck &#x200B;](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/012926-MaximizeFusion.pdf) en bekijk de opname op bestelling om langs te volgen.
 
-Op zoek naar meer bronnen of de Vragen en antwoorden van de gebeurtenis? Controle uit de [&#x200B; Communautaire post van Experience League &#x200B;](https://experienceleaguecommunities.adobe.com/adobe-workfront-fusion-24/event-follow-up-maximize-fusion-tips-tricks-and-release-highlights-1-29-26-248111)!
+Op zoek naar meer bronnen of de Vragen en antwoorden van de gebeurtenis? Controle uit de [&#x200B; Communautaire post van Experience League &#x200B;](https://experienceleaguecommunities.adobe.com/adobe-workfront-fusion-24/event-follow-up-maximize-fusion-tips-tricks-and-release-highlights-1-29-26-248111?profile.language=nl)!
 
-De nieuwe gebeurtenissen worden toegevoegd elke maand, zodat zorg ervoor om de [&#x200B; pagina van de Gebeurtenissen van Experience League &#x200B;](https://experienceleague.adobe.com/en/events) voor de recentste zittingen uit te checken.
+De nieuwe gebeurtenissen worden toegevoegd elke maand, zodat zorg ervoor om de [&#x200B; pagina van de Gebeurtenissen van Experience League &#x200B;](https://experienceleague.adobe.com/nl/events) voor de recentste zittingen uit te checken.

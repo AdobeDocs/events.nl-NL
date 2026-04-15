@@ -31,6 +31,6 @@ Het opnemen van een milestone-rapport op het projectdashboard of het delen van d
 
 Voor meer informatie over mijlpalen, controleer deze vrije middelen:
 
-* [Een milestone-pad en mijlpaden maken](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/approval-processes-and-milestone-paths/creating-milestones)
-* [De milestone-weergave gebruiken](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/report-elements/use-milestone-view)
-* [Rapporten verzenden en delen](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/how-to-send-and-share-reports)
+* [Een milestone-pad en mijlpaden maken](https://experienceleague.adobe.com/nl/docs/workfront-learn/tutorials-workfront/administration-and-setup/approval-processes-and-milestone-paths/creating-milestones)
+* [De milestone-weergave gebruiken](https://experienceleague.adobe.com/nl/docs/workfront/using/reporting/reports/report-elements/use-milestone-view)
+* [Rapporten verzenden en delen](https://experienceleague.adobe.com/nl/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/how-to-send-and-share-reports)

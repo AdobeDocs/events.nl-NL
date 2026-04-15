@@ -25,6 +25,6 @@ Sluit u aan bij Nichole Vargas omdat ze tips deelt voor een betere uitlijning en
 
 Als u de sessie hebt gemist, hoeft u zich geen zorgen te maken! Herzie het [&#x200B; diafeck &#x200B;](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/10+Communication+Tips+-+January+22%2C+2026.pdf) en bekijk de opname op bestelling om langs te volgen.
 
-Op zoek naar meer bronnen van de gebeurtenis? Controle uit de [&#x200B; Communautaire post van Experience League &#x200B;](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-10-communication-tips-in-adobe-workfront-january-22-2026-247874)!
+Op zoek naar meer bronnen van de gebeurtenis? Controle uit de [&#x200B; Communautaire post van Experience League &#x200B;](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-10-communication-tips-in-adobe-workfront-january-22-2026-247874?profile.language=nl)!
 
-De nieuwe gebeurtenissen worden toegevoegd elke maand, zodat zorg ervoor om de [&#x200B; pagina van de Gebeurtenissen van Experience League &#x200B;](https://experienceleague.adobe.com/en/events) voor de recentste zittingen uit te checken.
+De nieuwe gebeurtenissen worden toegevoegd elke maand, zodat zorg ervoor om de [&#x200B; pagina van de Gebeurtenissen van Experience League &#x200B;](https://experienceleague.adobe.com/nl/events) voor de recentste zittingen uit te checken.

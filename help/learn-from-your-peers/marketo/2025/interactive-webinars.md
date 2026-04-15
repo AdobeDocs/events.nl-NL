@@ -40,5 +40,5 @@ Adobe Marketo Engage Champion Maria Cruz heeft gebruik gemaakt van interactieve 
 
 * Sluit me aan bij de [&#x200B; besprekingsdraad &#x200B;](https://nation.marketo.com/t5/product-blogs/on-demand-learn-from-your-peers-revolutionizing-your-webinar/ba-p/356260) op de Gemeenschap van de Natie van de Marketing, waar Q&amp;A&#39;s worden gepost.
 * [Meer informatie over GenAI-functies in Interactive Webinars](https://nation.marketo.com/t5/latest-product-innovations/discover-how-genai-can-elevate-your-upcoming-webinars/ba-p/355055)
-* [Verken de fundamentele waarden van interactieve webinars](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview)
-* [Leer interactieve webinars pods te gebruiken (opiniepeilingen, vragen en antwoorden, CTA&#39;s)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/best-practices-for-interactive-webinars)
+* [Verken de fundamentele waarden van interactieve webinars](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview)
+* [Leer interactieve webinars pods te gebruiken (opiniepeilingen, vragen en antwoorden, CTA&#39;s)](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/best-practices-for-interactive-webinars)

@@ -36,16 +36,16 @@ Hier volgen enkele aanvullende snelkoppelingen naar bronnen om u te helpen aan d
 
 ### Meer informatie
 
-* [Grafiek Uw Cursus aan Succes met de Planning van Adobe Workfront](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-learn-chart-your-course-to-success-with-adobe/td-p/743077)
+* [Grafiek Uw Cursus aan Succes met de Planning van Adobe Workfront](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-learn-chart-your-course-to-success-with-adobe/td-p/743077?profile.language=nl)
 * [Guidebook - Je Workfront Planning GPS](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Workfront+Planning+Guidebook.pdf)
 
 ### Trainingsvideo&#39;s plannen
 
-* [Planning toevoegen aan uw instantie (licentieplannen en dergelijke)](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/workfront-planning/add-planning-to-your-instance)
-* [Workspace maken (Aan de slag met de basis voor planning)](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/workfront-planning/create-a-workspace)
-* [Een recordtype maken en beheren](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/workfront-planning/create-and-manage-a-record-type)
-* [Tabelweergaven maken en beheren](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/workfront-planning/create-and-manage-table-views)
-* [Documentatie: Overzicht van Adobe Workfront Planning](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-planning/adobe-workfront-planning-general-information/planning-overview)
-* [Adobe Workfront Planning Release-activiteit](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/planning-release-activity/planning-release-activity-article-index)
+* [Planning toevoegen aan uw instantie (licentieplannen en dergelijke)](https://experienceleague.adobe.com/nl/docs/workfront-learn/tutorials-workfront/workfront-planning/add-planning-to-your-instance)
+* [Workspace maken (Aan de slag met de basis voor planning)](https://experienceleague.adobe.com/nl/docs/workfront-learn/tutorials-workfront/workfront-planning/create-a-workspace)
+* [Een recordtype maken en beheren](https://experienceleague.adobe.com/nl/docs/workfront-learn/tutorials-workfront/workfront-planning/create-and-manage-a-record-type)
+* [Tabelweergaven maken en beheren](https://experienceleague.adobe.com/nl/docs/workfront-learn/tutorials-workfront/workfront-planning/create-and-manage-table-views)
+* [Documentatie: Overzicht van Adobe Workfront Planning](https://experienceleague.adobe.com/nl/docs/workfront/using/adobe-workfront-planning/adobe-workfront-planning-general-information/planning-overview)
+* [Adobe Workfront Planning Release-activiteit](https://experienceleague.adobe.com/nl/docs/workfront/using/product-announcements/product-releases/planning-release-activity/planning-release-activity-article-index)
 
-Wij zullen meer gebeurtenissen hebben die binnenkort voor de Planning van Workfront komen, zodat ben zeker om de [&#x200B; pagina van Gebeurtenissen op Experience League &#x200B;](https://experienceleague.adobe.com/events/?filters=Workfront) regelmatig te controleren zodat u niet uit mist!
+Wij zullen meer gebeurtenissen hebben die binnenkort voor de Planning van Workfront komen, zodat ben zeker om de [&#x200B; pagina van Gebeurtenissen op Experience League &#x200B;](https://experienceleague.adobe.com/events/?lang=nl-NL&filters=Workfront) regelmatig te controleren zodat u niet uit mist!

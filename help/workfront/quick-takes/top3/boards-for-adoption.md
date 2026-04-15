@@ -31,7 +31,7 @@ Als je nog geen kans hebt gehad om te experimenteren met de functie van de raad 
 
 Zoals beloofd in de video, hebben wij ladingen middelen te delen, met inbegrip van artikelen en korte videodemo&#39;s:
 
-* [Aan de slag met borden in Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/get-started-with-boards.html?lang=en)
-* [Aanmelden met vroege functies voor Adobe Workfront Boards](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/boards-early-feature-opt-in.html?lang=en)
-* [Een bord maken of bewerken - bevat beschrijvingen van elke sjabloon voor raden](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/create-edit-board.html?lang=en)
-* [Adobe Workfront Boards - korte videodemonstraties](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/boards-video-demonstrations.html?lang=en)
+* [Aan de slag met borden in Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/get-started-with-boards.html?lang=nl-NL)
+* [Aanmelden met vroege functies voor Adobe Workfront Boards](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/boards-early-feature-opt-in.html?lang=nl-NL)
+* [Een bord maken of bewerken - bevat beschrijvingen van elke sjabloon voor raden](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/create-edit-board.html?lang=nl-NL)
+* [Adobe Workfront Boards - korte videodemonstraties](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/boards-video-demonstrations.html?lang=nl-NL)

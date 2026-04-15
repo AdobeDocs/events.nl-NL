@@ -29,6 +29,6 @@ In deze Experience League Live-aflevering vindt u samen met productdeskundigen R
 
 >[!BEGINSHADEBOX  &quot;Heb vragen?&quot;]
 
-**zet de bespreking over dit onderwerp op de 1&rbrace; Communautaire post van de Liga van de Ervaring van Adobe [&#128279;](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-new-code-based/m-p/668305#M205){target="_blank"} voort.**
+**zet de bespreking over dit onderwerp op de 1&rbrace; Communautaire post van de Liga van de Ervaring van Adobe [&#128279;](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-new-code-based/m-p/668305?profile.language=nl#M205){target="_blank"} voort.**
 
 >[!ENDSHADEBOX]

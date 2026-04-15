@@ -24,4 +24,4 @@ We hebben de campagne-orkestcanvas en relationele schema&#39;s behandeld als de 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481409/?quality=12&learn=on)
 
-Om het gesprek over dit onderwerp voort te zetten, gelieve de [&#x200B; communautaire bespreking van Experience League te bezoeken.](https://experienceleaguecommunities.adobe.com/adobe-journey-optimizer-15/post-session-discussion-experience-league-live-get-to-know-campaign-orchestration-in-adobe-journey-optimizer-249161){target="_blank"}
+Om het gesprek over dit onderwerp voort te zetten, gelieve de [&#x200B; communautaire bespreking van Experience League te bezoeken.](https://experienceleaguecommunities.adobe.com/adobe-journey-optimizer-15/post-session-discussion-experience-league-live-get-to-know-campaign-orchestration-in-adobe-journey-optimizer-249161?profile.language=nl){target="_blank"}

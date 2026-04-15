@@ -28,6 +28,6 @@ Ga het gesprek in **[Gemeenschappen van Experience League &#x200B;](https://adob
 
 ## Aanvullende bronnen
 
-- [Adobe Experience Manager-documentatie](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
-- [Adobe Experience Manager Cloud Service - Overzicht](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html)
-- [Adobe Experience Manager-zelfstudies](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html)
+- [Adobe Experience Manager-documentatie](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=nl-NL)
+- [Adobe Experience Manager Cloud Service - Overzicht](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html?lang=nl-NL)
+- [Adobe Experience Manager-zelfstudies](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html?lang=nl-NL)

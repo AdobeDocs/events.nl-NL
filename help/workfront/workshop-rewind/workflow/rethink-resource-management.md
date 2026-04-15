@@ -25,6 +25,6 @@ Zie hoe het creatieve verrichtingenteam bij Advisors Excel een praktische, flexi
 
 Als u de sessie hebt gemist, hoeft u zich geen zorgen te maken! Herzie het [&#x200B; diafeck &#x200B;](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/FINAL+Rethinking+Resource+Management+the+Agile+Way+at+Advisors+Excel+-+March+19%2C+2026.pdf) en bekijk de opname op bestelling om langs te volgen.
 
-Op zoek naar meer bronnen van de gebeurtenis? Controle uit de [&#x200B; Communautaire post van Experience League &#x200B;](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-rethinking-resource-management-the-agile-way-at-advisors-excel-march-19-2026-249316)!
+Op zoek naar meer bronnen van de gebeurtenis? Controle uit de [&#x200B; Communautaire post van Experience League &#x200B;](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-rethinking-resource-management-the-agile-way-at-advisors-excel-march-19-2026-249316?profile.language=nl)!
 
-De nieuwe gebeurtenissen worden toegevoegd elke maand, zodat zorg ervoor om de [&#x200B; pagina van de Gebeurtenissen van Experience League &#x200B;](https://experienceleague.adobe.com/en/events) voor de recentste zittingen uit te checken.
+De nieuwe gebeurtenissen worden toegevoegd elke maand, zodat zorg ervoor om de [&#x200B; pagina van de Gebeurtenissen van Experience League &#x200B;](https://experienceleague.adobe.com/nl/events) voor de recentste zittingen uit te checken.

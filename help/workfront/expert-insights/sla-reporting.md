@@ -34,15 +34,15 @@ Zoals in de video wordt beloofd, is de presentatie van Madalyn gekoppeld aan haa
 
 Tijdens de presentatie heeft Madalyn haar aangepaste formulieren en berekende velden gedeeld. Als u dus nog maar aan de slag gaat met deze functies, zijn er koppelingen waarmee u in de juiste richting kunt wijzen. 
 
-* De Playlist van het leerprogramma - [&#x200B; creeer en deel Aangepaste Forms &#x200B;](https://experienceleague.adobe.com/en/playlists/workfront-create-and-manage-custom-forms)
+* De Playlist van het leerprogramma - [&#x200B; creeer en deel Aangepaste Forms &#x200B;](https://experienceleague.adobe.com/nl/playlists/workfront-create-and-manage-custom-forms)
 
-* Artikel - [&#x200B; wordt begonnen met berekende gebieden en uitdrukkingen &#x200B;](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/custom-data/calculated-expressions/get-started-with-calculated-fields-and-expressions)
+* Artikel - [&#x200B; wordt begonnen met berekende gebieden en uitdrukkingen &#x200B;](https://experienceleague.adobe.com/nl/docs/workfront-learn/tutorials-workfront/custom-data/calculated-expressions/get-started-with-calculated-fields-and-expressions)
 
-* Tips &amp; trucs - [&#x200B; Berekende Gebieden iedereen zou moeten kennen - en hoe te op hen te melden!](https://experienceleague.adobe.com/en/docs/events/the-skill-exchange-recordings/workfront/apr2022/calculated-fields)
+* Tips &amp; trucs - [&#x200B; Berekende Gebieden iedereen zou moeten kennen - en hoe te op hen te melden!](https://experienceleague.adobe.com/nl/docs/events/the-skill-exchange-recordings/workfront/apr2022/calculated-fields)
 
 Wilt u meer tips van Madalyn? Bekijk haar hele serie tips en trucs in de Workfront Community! 
 
-* [Dinsdag Tech-bytes](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/tuesday-tech-bytes/m-p/625812#M2742)
+* [Dinsdag Tech-bytes](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/tuesday-tech-bytes/m-p/625812?profile.language=nl#M2742)
 
 ## Over de spreker 
 

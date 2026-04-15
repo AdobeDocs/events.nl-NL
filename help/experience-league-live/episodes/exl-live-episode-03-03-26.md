@@ -24,7 +24,7 @@ Deze exclusieve sessie heeft een inzichtelijke Q&amp;A-sessie met Anjul Bhambhri
 
 >[!VIDEO](https://video.tv.adobe.com/v/3480449/?quality=12&learn=on)
 
-Om de bespreking over dit show/onderwerp voort te zetten, gelieve de [&#x200B; de communautaire bespreking van Experience League te bezoeken.](https://experienceleaguecommunities.adobe.com/adobe-experience-platform-18/experience-league-live-post-session-discussion-adobe-experience-platform-agents-for-improved-marketing-efficiency-and-better-business-outcomes-248926){target="_blank"}
+Om de bespreking over dit show/onderwerp voort te zetten, gelieve de [&#x200B; de communautaire bespreking van Experience League te bezoeken.](https://experienceleaguecommunities.adobe.com/adobe-experience-platform-18/experience-league-live-post-session-discussion-adobe-experience-platform-agents-for-improved-marketing-efficiency-and-better-business-outcomes-248926?profile.language=nl){target="_blank"}
 
 ## Vragen van de show
 
@@ -68,7 +68,7 @@ Zoals Anjul al zei, zo vroeg mogelijk! U kunt over producteigenschappen en beste
 
 ### Zouden we GPT-modellen hebben in de agenten, zoals Anjul zei?
 
-Bekijk deze documentatie: https://experienceleague.adobe.com/en/docs/platform-learn/tutorial-one-adobe/agents/agents1/ex2
+Bekijk deze documentatie: https://experienceleague.adobe.com/nl/docs/platform-learn/tutorial-one-adobe/agents/agents1/ex2
 
 ### Het werken met de server van AEM MCP compileert de waarde van deze agenten. Zijn de de servercommunautaire opties MCP die specifieke dekking (zoals OSGi config beheer of logboekanalyse) een optie ook aanbieden?
 
@@ -76,7 +76,7 @@ Adobe onderzoekt agentenvaardigheden en een lokale server MCP voor codegeneratie
 
 ### Zou u kunnen demo hoe te om de agenten van de middelen te gebruiken u net vermeldde, Anjul?
 
-Bekijk deze documentatie: https://experienceleague.adobe.com/en/docs/platform-learn/tutorial-one-adobe/agents/agents1/ex2
+Bekijk deze documentatie: https://experienceleague.adobe.com/nl/docs/platform-learn/tutorial-one-adobe/agents/agents1/ex2
 
 ### Kan ik agenten in CJA gebruiken om aanbiedingsresultaten, bijvoorbeeld te verklaren?
 
@@ -84,7 +84,7 @@ Data Insights Agent kan gebruikers helpen de resultaten in CJA uit te leggen en 
 
 ### Kan je ons in een andere episode laten zien hoe je zou integreren met ChatGPT, Perplexiteit, Claude, Gemini, enzovoort?
 
-Bekijk deze documentatie: https://experienceleague.adobe.com/en/docs/platform-learn/tutorial-one-adobe/agents/agents1/ex2
+Bekijk deze documentatie: https://experienceleague.adobe.com/nl/docs/platform-learn/tutorial-one-adobe/agents/agents1/ex2
 
 ### Onze vierjarige achterste datasets volgen schone het formatteren normen en steunen verrichtingen BAU effectief, maar werken niet met de Agent van AI. Wat moeten we doen? Moeten wij onze datasets opnieuw ontwerpen?
 

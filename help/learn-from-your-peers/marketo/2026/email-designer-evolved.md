@@ -35,12 +35,12 @@ Word lid van ons voor een geaarde, echte blik op hoe E-mail Designer heeft gerij
 
 ## Aanvullende bronnen
 
-* [Designer-overzicht e-mailen](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/overview)
-* [AI-assistent](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/ai-assistant)
-* [Aanpasbare fragmenten](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/customizable-fragments)
-* [Voorwaardelijke content](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/conditional-content)
+* [Designer-overzicht e-mailen](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/email-marketing/email-designer/overview)
+* [AI-assistent](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/email-marketing/email-designer/ai-assistant)
+* [Aanpasbare fragmenten](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/email-marketing/email-designer/customizable-fragments)
+* [Voorwaardelijke content](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/email-marketing/email-designer/conditional-content)
 * [Merkthema&#39;s](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/brand-themes)
-* [Vergelijking van oude functies met nieuwe e-mailversie van Designer](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/feature-comparison#_blank)
-* [Aanvullende informatie](https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/current)
-* [Champion Deep Dive: Ontdek de nieuwe e-mailtoepassing van de Designer in Marketo Engage](https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/email-designer)
+* [Vergelijking van oude functies met nieuwe e-mailversie van Designer](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/email-marketing/email-designer/feature-comparison#_blank)
+* [Aanvullende informatie](https://experienceleague.adobe.com/nl/docs/marketo/using/release-notes/current)
+* [Champion Deep Dive: Ontdek de nieuwe e-mailtoepassing van de Designer in Marketo Engage](https://experienceleague.adobe.com/nl/docs/events/deep-dives-recordings/deep-dives-marketo/email-designer)
 * [Deelnemen aan het gesprek over de Gemeenschap met vragen en antwoorden](https://nation.marketo.com/t5/product-blogs/watch-on-demand-learn-from-your-peers-webinar-beyond-the-launch/ba-p/359083)

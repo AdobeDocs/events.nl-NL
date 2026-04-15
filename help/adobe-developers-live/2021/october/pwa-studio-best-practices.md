@@ -27,6 +27,6 @@ Meld u bij ons aan voor voorbeelden en demonstraties om te zien hoe gemakkelijk 
 
 ## Aanvullende bronnen
 
-- [Adobe Experience Platform-documentatie](https://experienceleague.adobe.com/docs/experience-platform.html)
-- [Adobe Experience Platform - Overzicht](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html)
-- [Adobe Experience Platform-zelfstudies](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=en)
+- [Adobe Experience Platform-documentatie](https://experienceleague.adobe.com/docs/experience-platform.html?lang=nl-NL)
+- [Adobe Experience Platform - Overzicht](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=nl-NL)
+- [Adobe Experience Platform-zelfstudies](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=nl-NL)

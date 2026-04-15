@@ -19,12 +19,12 @@ ht-degree: 1%
 
 # Fusie gedecodeerd Deel 2 - Laten we beginnen met bouwen
 
-In [&#x200B; Deel 1 &#x200B;](https://experienceleague.adobe.com/en/docs/events/workfront-recordings/workshop-rewind/fusion/fusion-decoded), toonde Jen Desmond ons de macht van Fusion en wat het voor om het even welke organisatie kan doen. Kijk, in deel 2 van deze reeks, terwijl ze in kant-en-klare sjablonen duikt om je te laten zien hoe je ze kunt gebruiken om je automatiseringstraject te versnellen. Zie hoe sjablonen giswerk elimineren, de installatietijd verkorten en u helpen met vertrouwen echte automatiseringen te starten zonder helemaal opnieuw te hoeven beginnen.
+In [&#x200B; Deel 1 &#x200B;](https://experienceleague.adobe.com/nl/docs/events/workfront-recordings/workshop-rewind/fusion/fusion-decoded), toonde Jen Desmond ons de macht van Fusion en wat het voor om het even welke organisatie kan doen. Kijk, in deel 2 van deze reeks, terwijl ze in kant-en-klare sjablonen duikt om je te laten zien hoe je ze kunt gebruiken om je automatiseringstraject te versnellen. Zie hoe sjablonen giswerk elimineren, de installatietijd verkorten en u helpen met vertrouwen echte automatiseringen te starten zonder helemaal opnieuw te hoeven beginnen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3483137/?learn=on&enablevpops)
 
 Als u de sessie hebt gemist, hoeft u zich geen zorgen te maken! Herzie het [&#x200B; diafeck &#x200B;](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/040226-Fusion-Decoded_Part+2.pdf) en bekijk de opname op bestelling om langs te volgen.
 
-Op zoek naar meer bronnen of de Vragen en antwoorden van de gebeurtenis? Controle uit de [&#x200B; Communautaire post van Experience League &#x200B;](https://experienceleaguecommunities.adobe.com/adobe-workfront-fusion-24/event-follow-up-fusion-decoded-part-2-let-s-start-building-4-2-26-249622)!
+Op zoek naar meer bronnen of de Vragen en antwoorden van de gebeurtenis? Controle uit de [&#x200B; Communautaire post van Experience League &#x200B;](https://experienceleaguecommunities.adobe.com/adobe-workfront-fusion-24/event-follow-up-fusion-decoded-part-2-let-s-start-building-4-2-26-249622?profile.language=nl)!
 
-De nieuwe gebeurtenissen worden toegevoegd elke maand, zodat zorg ervoor om de [&#x200B; pagina van de Gebeurtenissen van Experience League &#x200B;](https://experienceleague.adobe.com/en/events) voor de recentste zittingen uit te checken.
+De nieuwe gebeurtenissen worden toegevoegd elke maand, zodat zorg ervoor om de [&#x200B; pagina van de Gebeurtenissen van Experience League &#x200B;](https://experienceleague.adobe.com/nl/events) voor de recentste zittingen uit te checken.

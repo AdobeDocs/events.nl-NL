@@ -22,4 +22,4 @@ Doe mee voor een spannende live sessie, waar Adobe-experts op het gebied van pro
 
 >[!VIDEO](https://video.tv.adobe.com/v/3438012/?quality=12&learn=on)
 
-[**zet de bespreking over de Gemeenschap van Experience League voort**](https://experienceleaguecommunities.adobe.com/t5/real-time-customer-data-platform/adobe-experience-league-live-introducing-ai-assistant-for/td-p/716720)
+[**zet de bespreking over de Gemeenschap van Experience League voort**](https://experienceleaguecommunities.adobe.com/t5/real-time-customer-data-platform/adobe-experience-league-live-introducing-ai-assistant-for/td-p/716720?profile.language=nl)

@@ -28,5 +28,5 @@ Het webinar waarin de meest recente Workfront-functieverbeteringen in de release
 Koppelingen naar het diapakket en de communitypost Experience League met de vragen en antwoorden worden hieronder geplaatst.
 
 * [Slide Deck PDF](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/0710125+-+Adobe+Workfront+Third+Quarter+Release+Webinar.pdf)
-* [Experience League Community-post](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-adobe-workfront-third-quarter-release-webinar/td-p/763800)
-* Voor meer informatie over de versieeigenschappen, bezoek het Derde Kwartaal 2025 [&#x200B; pagina van het versieoverzicht &#x200B;](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-25-q3/25-q3-release-overview).
+* [Experience League Community-post](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-adobe-workfront-third-quarter-release-webinar/td-p/763800?profile.language=nl)
+* Voor meer informatie over de versieeigenschappen, bezoek het Derde Kwartaal 2025 [&#x200B; pagina van het versieoverzicht &#x200B;](https://experienceleague.adobe.com/nl/docs/workfront/using/product-announcements/product-releases/release-25-q3/25-q3-release-overview).

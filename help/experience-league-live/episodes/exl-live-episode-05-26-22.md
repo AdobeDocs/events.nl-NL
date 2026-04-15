@@ -24,9 +24,9 @@ In deze zitting, kom over de &quot;toekomst is nu&quot;van de gegevensinzameling
 
 ## Enkele handige koppelingen
 
-* [Zelfstudie: Adobe Experience Cloud implementeren met Web SDK](https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html){target="_blank"}
-* [Automatisch verzamelde informatie in de Web SDK](https://experienceleague.adobe.com/docs/experience-platform/edge/data-collection/automatic-information.html?lang=en){target="_blank"}
+* [Zelfstudie: Adobe Experience Cloud implementeren met Web SDK](https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html?lang=nl-NL){target="_blank"}
+* [Automatisch verzamelde informatie in de Web SDK](https://experienceleague.adobe.com/docs/experience-platform/edge/data-collection/automatic-information.html?lang=nl-NL){target="_blank"}
 * [Free Web SDK-provisioning](https://adobe.ly/websdkaccess){target="_blank"}
-* [Informatie over apparaat-id&#39;s van eerste partij in de Web SDK](https://experienceleague.adobe.com/docs/experience-platform/edge/identity/first-party-device-ids.html){target="_blank"}
-* [Overzicht en download van Adobe Experience Platform Debugger](https://experienceleague.adobe.com/docs/platform-learn/data-collection/debugger/overview.html?lang=en){target="_blank"}
+* [Informatie over apparaat-id&#39;s van eerste partij in de Web SDK](https://experienceleague.adobe.com/docs/experience-platform/edge/identity/first-party-device-ids.html?lang=nl-NL){target="_blank"}
+* [Overzicht en download van Adobe Experience Platform Debugger](https://experienceleague.adobe.com/docs/platform-learn/data-collection/debugger/overview.html?lang=nl-NL){target="_blank"}
 * [Mobiele SDK-documenten](https://developer.adobe.com/client-sdks/documentation/){target="_blank"}

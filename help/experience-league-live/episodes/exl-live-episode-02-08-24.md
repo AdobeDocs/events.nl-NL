@@ -25,7 +25,7 @@ Introductie van Use Case Playbooks - een handelingencatalogus van branchespecifi
 
 >[!BEGINSHADEBOX  &quot;Heb vragen?&quot;]
 
-Ga verder de bespreking over dit onderwerp op het post van de Gemeenschap van de Liga van de Ervaring van Adobe [&#x200B; &#x200B;](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-use-case/m-p/651643#M488).
+Ga verder de bespreking over dit onderwerp op het post van de Gemeenschap van de Liga van de Ervaring van Adobe [&#x200B; &#x200B;](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-use-case/m-p/651643?profile.language=nl#M488).
 
 >[!ENDSHADEBOX]
 
@@ -52,11 +52,11 @@ Een voorbeeld van een gebruiksgeval die in deze zitting wordt besproken is verla
 
 ## Aanvullende bronnen
 
-* Overzicht van **[Use Case Playbooks](https://experienceleague.adobe.com/docs/experience-platform/use-case-playbooks/playbooks/overview.html){target="_blank"}**
+* Overzicht van **[Use Case Playbooks](https://experienceleague.adobe.com/docs/experience-platform/use-case-playbooks/playbooks/overview.html?lang=nl-NL){target="_blank"}**
   *Playbooks van het Geval van het Gebruik kan u helpen het probleem overwinnen wanneer het worden begonnen met Real-Time CDP of Adobe Journey Optimizer wanneer u niet precies zou kunnen weten wat met te beginnen of hoe te om de juiste activa tot stand te brengen om uw gewenste gebruiksgevallen te bereiken.*
 
-* **[Aan de slag met Hoofdletters van het Gebruik](https://experienceleague.adobe.com/docs/experience-platform/use-case-playbooks/playbooks/get-started.html){target="_blank"}**
+* **[Aan de slag met Hoofdletters van het Gebruik](https://experienceleague.adobe.com/docs/experience-platform/use-case-playbooks/playbooks/get-started.html?lang=nl-NL){target="_blank"}**
   *leer hoe te opstelling uw rekening voor de Playbooks van het Geval van het Gebruik, die voor Real-Time Customer Data Platform en Adobe Journey Optimizer worden ontworpen.*
 
-* **[Beschikbare afspeelboeken voor hoofdletters/kleine letters gebruiken](https://experienceleague.adobe.com/docs/experience-platform/use-case-playbooks/playbooks/playbooks-list.html){target="_blank"}**
+* **[Beschikbare afspeelboeken voor hoofdletters/kleine letters gebruiken](https://experienceleague.adobe.com/docs/experience-platform/use-case-playbooks/playbooks/playbooks-list.html?lang=nl-NL){target="_blank"}**
   *leest deze pagina om een overzicht van alle beschikbare playbooks te krijgen die u in het Platform en Adobe Journey Optimizer van de Gegevens van de Klant in real time kunt ontdekken en gebruiken.*

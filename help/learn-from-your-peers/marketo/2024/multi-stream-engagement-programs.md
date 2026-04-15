@@ -38,8 +38,8 @@ Deze Learn from Your Peers-sessie besprak de installatie en het beheer van betro
 
 ## Bronnen waarnaar in deze presentatie wordt verwezen
 
-* [Betrokkenheidsprogramma&#39;s](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs)
-* [De betrokkenheidsscore begrijpen](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score)
-* [Een programma toevoegen aan een betrokkenheidsprogramma](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/adding-a-program-to-an-engagement-program-stream)
-* [Overzicht van programma-importbibliotheek](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview)
+* [Betrokkenheidsprogramma&#39;s](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs)
+* [De betrokkenheidsscore begrijpen](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score)
+* [Een programma toevoegen aan een betrokkenheidsprogramma](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/adding-a-program-to-an-engagement-program-stream)
+* [Overzicht van programma-importbibliotheek](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview)
 * [Handelings-natif discussielijn](https://nation.marketo.com/t5/product-discussions/sept-17-webinar-learn-from-your-peers-master-complex-customer/td-p/352582)

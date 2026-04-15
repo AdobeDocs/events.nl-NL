@@ -28,5 +28,5 @@ Als u nog niet vertrouwd bent met de moderne Adobe-tools voor het verzamelen van
 
 Start de bovenstaande video om een replay van deze live streamgebeurtenis weer te geven.
 
-Heb je daar vragen over? Ga verder de bespreking over dit onderwerp op het post van de Gemeenschap van de Liga van de Ervaring van Adobe [&#x200B; &#x200B;](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-data/experience-league-live-post-session-discussion-get-data/m-p/589754#M476).
+Heb je daar vragen over? Ga verder de bespreking over dit onderwerp op het post van de Gemeenschap van de Liga van de Ervaring van Adobe [&#x200B; &#x200B;](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-data/experience-league-live-post-session-discussion-get-data/m-p/589754?profile.language=nl#M476).
 

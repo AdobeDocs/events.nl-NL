@@ -30,7 +30,7 @@ De reactie van de ketting - wanneer om Campagne aan te vragen en wanneer om Camp
 
 ## Aanvullende bronnen
 
-* [Uitvoerbare campagnes](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/execute-campaign)
+* [Uitvoerbare campagnes](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/execute-campaign)
 * [Alles wat u moet weten over het nieuwe uitvoerbare type campagne in Marketo Engage](https://mugs.marketo.com/events/details/marketo-houston-mug-presents-everything-you-need-to-know-about-the-new-executable-campaign-type-in-marketo/)
 * [Uitvoerbare campagnes: leer hoe uitvoerbare bestanden de efficiëntie en impact kunnen verhogen](https://www.youtube.com/watch?v=QGC4Bhn5BpU)
 
@@ -42,6 +42,6 @@ De levenscyclusbetrokkenheid van meerdere kanalen volgen, en verder gaan dan e-m
 
 * [Diep doordringen bij e-mails: Multi-Channel marketing met App Notifications, Dynamic Chat en Messaging Apps](https://mugs.marketo.com/events/details/marketo-adobe-deep-dive-mug-presents-beyond-emails-multi-channel-marketing-with-app-notifications-dynamic-chat-and-messaging-apps/)
 * [Omnichannel Engagement](https://business.adobe.com/sg/products/marketo/omnichannel-engagement.html)
-* [Een bericht in de app maken](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-an-in-app-message)
-* [Pushmeldingen maken](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/mobile-marketing/push-notifications/understanding-push-notifications)
+* [Een bericht in de app maken](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-an-in-app-message)
+* [Pushmeldingen maken](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/mobile-marketing/push-notifications/understanding-push-notifications)
 * [Een whatsApp-sjabloon maken](https://community.sinch.com/t5/Settings/Create-a-WhatsApp-message-template-new-experience/ta-p/11599)
