@@ -32,7 +32,7 @@ Wilt u meer weten over Groepen en Teams?
 Hier volgen enkele bonusartikelen over het delen van objecten, toegangsniveaus en machtigingen:
 
 * [Overerfde machtigingen voor objecten weergeven](https://experienceleague.adobe.com/en/docs/workfront/using/basics/grant-request-object-permissions/view-inherited-permissions-on-objects)
-* [ hoe de toegangsniveaus en de toestemmingen samenwerken ](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/add-users/access-levels/access-level-overview#how-access-levels-and-permissions-work-together)
-* [ plaats extra beperkingen op het Niveau van de Toegang ](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/add-users/configure-access/create-modify-access-levels#planner-users:~:text=Click%20Set%20additional%20restrictions%2C%20then%20set%20any%20of%20the%20following%20restrictions%20for%20the%20access%20level)
+* [&#x200B; hoe de toegangsniveaus en de toestemmingen samenwerken &#x200B;](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/add-users/access-levels/access-level-overview#how-access-levels-and-permissions-work-together)
+* [&#x200B; plaats extra beperkingen op het Niveau van de Toegang &#x200B;](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/add-users/configure-access/create-modify-access-levels#planner-users:~:text=Click%20Set%20additional%20restrictions%2C%20then%20set%20any%20of%20the%20following%20restrictions%20for%20the%20access%20level)
 
-Geïnteresseerd in nieuwe ideeën en benaderingen? Registreer voor onze aanstaande workshops onze [ pagina van de Gebeurtenissen van Experience League ](https://experienceleague.adobe.com/en/events?filters=Workfront). Wij hopen u spoedig te zien!
+Geïnteresseerd in nieuwe ideeën en benaderingen? Registreer voor onze aanstaande workshops onze [&#x200B; pagina van de Gebeurtenissen van Experience League &#x200B;](https://experienceleague.adobe.com/en/events?filters=Workfront). Wij hopen u spoedig te zien!

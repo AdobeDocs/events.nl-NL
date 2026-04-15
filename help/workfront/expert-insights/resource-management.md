@@ -28,7 +28,7 @@ Op zoek naar advies over Aan de slag met Resourcebeheer? Word lid van uw CSM voo
 
 ## Bronnen
 
-Functiewaarschuwing!  Controle uit de details op [ het nieuwe Gebied van de Tijd van het Werk ](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/the-new-work-time-field-now-you-can-adjust-user-capacity-and/m-p/582855#M519): Nu kunt u gebruikerscapaciteit aanpassen EN beschikbaarheid berekenen die op het Programma van de Gebruiker wordt gebaseerd.
+Functiewaarschuwing!  Controle uit de details op [&#x200B; het nieuwe Gebied van de Tijd van het Werk &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/the-new-work-time-field-now-you-can-adjust-user-capacity-and/m-p/582855#M519): Nu kunt u gebruikerscapaciteit aanpassen EN beschikbaarheid berekenen die op het Programma van de Gebruiker wordt gebaseerd.
 
 Op zoek naar manieren om uw gegevens beter te analyseren zodat u er klaar voor bent? Bekijk de catalogus met Blueprints die klaar zijn voor installatie!
 
@@ -50,4 +50,4 @@ Corinna Jevons is de teamleider voor het team van de succesvolle architect van d
 
 ## Heb je iets te delen?
 
-Hebt u een geweldig verhaal om te delen, tijdens een gebeurtenis of in een video van Expert Insights? Gelieve te bereiken uit aan ons team in [ CSatScale@adobe.com](mailto:CSatScale@adobe.com)
+Hebt u een geweldig verhaal om te delen, tijdens een gebeurtenis of in een video van Expert Insights? Gelieve te bereiken uit aan ons team in [&#x200B; CSatScale@adobe.com](mailto:CSatScale@adobe.com)

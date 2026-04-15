@@ -23,6 +23,6 @@ Ontdek de nieuwste functies en updates die zijn geïntroduceerd in de tweede rel
 
 >[!VIDEO](https://video.tv.adobe.com/v/3483385/?learn=on&enablevpops)
 
-Op zoek naar meer informatie? Herzie de [ versienota&#39;s ](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q2/26-q2-release-overview) in Experience League en controleer [ de Communautaire post ](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-adobe-workfront-second-quarter-2026-release-webinar-april-9-2026-249769?fid=23&tid=249769) met verbindingen aan het diakeck, individuele demo video&#39;s, en meer!
+Op zoek naar meer informatie? Herzie de [&#x200B; versienota&#39;s &#x200B;](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q2/26-q2-release-overview) in Experience League en controleer [&#x200B; de Communautaire post &#x200B;](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-adobe-workfront-second-quarter-2026-release-webinar-april-9-2026-249769?fid=23&tid=249769) met verbindingen aan het diakeck, individuele demo video&#39;s, en meer!
 
-De nieuwe gebeurtenissen worden toegevoegd elke maand, zodat zorg ervoor om de [ pagina van de Gebeurtenissen van Experience League ](https://experienceleague.adobe.com/en/events) voor de recentste zittingen uit te checken.
+De nieuwe gebeurtenissen worden toegevoegd elke maand, zodat zorg ervoor om de [&#x200B; pagina van de Gebeurtenissen van Experience League &#x200B;](https://experienceleague.adobe.com/en/events) voor de recentste zittingen uit te checken.

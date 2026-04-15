@@ -27,7 +27,7 @@ Neem deel aan deze Experience League Live-sessie, waar productexperts van Adobe 
 
 >[!BEGINSHADEBOX  &quot;Heb vragen?&quot;]
 
-Ga verder de bespreking over dit onderwerp op het post van de Gemeenschap van de Liga van de Ervaring van Adobe [ ](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/experience-league-live-post-session-discussion-leaping-ahead/m-p/656893#M2671){target="_blank"}.
+Ga verder de bespreking over dit onderwerp op het post van de Gemeenschap van de Liga van de Ervaring van Adobe [&#x200B; &#x200B;](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/experience-league-live-post-session-discussion-leaping-ahead/m-p/656893#M2671){target="_blank"}.
 
 >[!ENDSHADEBOX]
 

@@ -32,7 +32,7 @@ Dit webinar zal aanwezigen door het migreren van de verouderde geloofsbrieven va
 * **Deadline van de Verdringing** Adobe vervalt JWT geloofsbrieven, en zij moeten tegen eind Januari 2025 worden gemigreerd.
 * **publiek van het Doel** webinar werd gericht op toepassingsontwikkelaars, technische lood, en integratiearchitecten die geloofsbrieven gebruiken JWT in de toepassingen van Adobe.
 * **Stappen van de Migratie** webinar omvatte een geleidelijke migratiegids en een demo.
-* **De Vragen van de Zitting van 0} Q&amp;A {werden 1} genomen door de vergadering, met een specifieke zitting Q&amp;A aan het eind.**
+* **De Vragen van de Zitting van 0&rbrace; Q&amp;A {werden 1} genomen door de vergadering, met een specifieke zitting Q&amp;A aan het eind.**
 * **Voordelen van OAuth** OAuth vereenvoudigt ontwikkeling, verbetert veiligheid, en stroomlijnt onderhoud in vergelijking met JWT.
 * **Chronologie voor Migratie**
    * 1 mei 2023 - Aankondiging van toekomstige afschrijving.
@@ -42,4 +42,4 @@ Dit webinar zal aanwezigen door het migreren van de verouderde geloofsbrieven va
 * **Auto-Gegenereerde integraties van de Integraties** automatisch zullen door Adobe vóór de deadline worden gemigreerd.
 * **Steun en Documentatie** Adobe verstrekt uitgebreide documentatie en steun voor het migratieproces. Klanten kunnen contact opnemen met Adobe-vertegenwoordigers of professionele services voor hulp.
 * **het Testen en de Bevestiging** wordt geadviseerd om integratie na migratie grondig te testen en alvorens oude geloofsbrieven te schrappen JWT.
-* **Klanten van de Integraties van de Douane van 0} {met douaneintegratie zouden voor migratie moeten identificeren en plannen zo spoedig mogelijk, vooral als de derdeverkopers betrokken zijn.**
+* **Klanten van de Integraties van de Douane van 0&rbrace; &lbrace;met douaneintegratie zouden voor migratie moeten identificeren en plannen zo spoedig mogelijk, vooral als de derdeverkopers betrokken zijn.**

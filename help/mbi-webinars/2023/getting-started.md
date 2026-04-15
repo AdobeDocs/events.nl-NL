@@ -34,5 +34,5 @@ De gevallen van het gebruik worden overal gedeeld, die illustratieve voorbeelden
 
 ## Aanvullende bronnen
 
-[ Inleiding Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/getting-started.html)
-[ de Steun van Commerce Intelligence ](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html)
+[&#x200B; Inleiding Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/getting-started.html)
+[&#x200B; de Steun van Commerce Intelligence &#x200B;](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html)

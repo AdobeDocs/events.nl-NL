@@ -25,6 +25,6 @@ ht-degree: 0%
 
 Ontdek het potentieel van Adobe Experience Manager Headless API&#39;s in deze sessie van Catalina Dumitru, die live is opgenomen in Adobe Developers Live. Leer over de uitgebreide mogelijkheden van deze APIs, met inbegrip van het etiketteren, het versioning, en eindpuntonderzoek. Begrijp hoe zij efficiënte inhoudsherwinning voor app-achtige ervaringen over digitale kanalen vergemakkelijken, en de toepassingen van deze APIs in actie zien in de praktijk. Deze sessie is een onschatbare bron voor ontwikkelaars die op zoek zijn naar technologie zonder kop voor innovatieve oplossingen.
 
-Ga het gesprek in [ Gemeenschappen van Experience League ](https://adobe.ly/3rJfZcN) voort.
+Ga het gesprek in [&#x200B; Gemeenschappen van Experience League &#x200B;](https://adobe.ly/3rJfZcN) voort.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425627/?learn=on)

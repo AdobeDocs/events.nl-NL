@@ -27,7 +27,7 @@ Met meer dan 200 Edge Delivery Services-projecten voltooid, delen Kiran Murugull
 
 ## Communautaire discussie
 
-Ga verder het gesprek in de Gemeenschap van Adobe Developers Live [ bespreking ](https://adobe.ly/4fwWvvi).
+Ga verder het gesprek in de Gemeenschap van Adobe Developers Live [&#x200B; bespreking &#x200B;](https://adobe.ly/4fwWvvi).
 
 ## Toetsen
 

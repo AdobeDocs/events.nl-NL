@@ -23,6 +23,6 @@ De Workfront First Quarter Release werd op 15 januari 2026 geïmplementeerd. In 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481817/?learn=on&enablevpops)
 
-Herzie de [ versienota&#39;s ](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q1/26-q1-release-overview) op Experience League, aangezien niet alle eigenschappen tijdens webinar worden behandeld.
+Herzie de [&#x200B; versienota&#39;s &#x200B;](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q1/26-q1-release-overview) op Experience League, aangezien niet alle eigenschappen tijdens webinar worden behandeld.
 
-De nieuwe gebeurtenissen worden toegevoegd elke maand, zodat zorg ervoor om de [ pagina van de Gebeurtenissen van Experience League ](https://experienceleague.adobe.com/en/events) voor de recentste zittingen uit te checken.
+De nieuwe gebeurtenissen worden toegevoegd elke maand, zodat zorg ervoor om de [&#x200B; pagina van de Gebeurtenissen van Experience League &#x200B;](https://experienceleague.adobe.com/en/events) voor de recentste zittingen uit te checken.

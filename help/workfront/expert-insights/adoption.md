@@ -53,7 +53,7 @@ Ik sluit me aan bij uw On-Demand Workfront CSM, omdat ik met Leslie praat over w
 
 ## Bronnen
 
-* Op zoek naar meer voorbeeld? Controle uit het [ Communautaire Post van Experience League ](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-august-2023-workfront-expert-insights-adoption-with-leslie/td-p/613314) voor meer ideeën die in de commentaren worden gedeeld!
+* Op zoek naar meer voorbeeld? Controle uit het [&#x200B; Communautaire Post van Experience League &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-august-2023-workfront-expert-insights-adoption-with-leslie/td-p/613314) voor meer ideeën die in de commentaren worden gedeeld!
 * [Alles over blauwdrukken](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/blueprints/blueprints.html?lang=en)
 * [Laatste notitie](https://experienceleague.adobe.com/docs/workfront/using/basics/update-work-items-view-updates/view-all-updates-in-a-report.html?lang=en)
 * [Voorwaardelijke basisopmaak toevoegen aan een weergave](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.html?lang=en)
@@ -66,4 +66,4 @@ Leslie Spier is een toegewijde klantenpleitbezorger met jarenlange ervaring die 
 
 ## Heb je iets te delen?
 
-Hebt u een geweldig verhaal om te delen, tijdens een gebeurtenis of in een video van Expert Insights? Gelieve te bereiken uit aan ons team in [ CSatScale@adobe.com ](mailto:CSatScale@adobe.com).
+Hebt u een geweldig verhaal om te delen, tijdens een gebeurtenis of in een video van Expert Insights? Gelieve te bereiken uit aan ons team in [&#x200B; CSatScale@adobe.com &#x200B;](mailto:CSatScale@adobe.com).

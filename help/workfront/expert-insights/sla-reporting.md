@@ -34,11 +34,11 @@ Zoals in de video wordt beloofd, is de presentatie van Madalyn gekoppeld aan haa
 
 Tijdens de presentatie heeft Madalyn haar aangepaste formulieren en berekende velden gedeeld. Als u dus nog maar aan de slag gaat met deze functies, zijn er koppelingen waarmee u in de juiste richting kunt wijzen. 
 
-* De Playlist van het leerprogramma - [ creeer en deel Aangepaste Forms ](https://experienceleague.adobe.com/en/playlists/workfront-create-and-manage-custom-forms)
+* De Playlist van het leerprogramma - [&#x200B; creeer en deel Aangepaste Forms &#x200B;](https://experienceleague.adobe.com/en/playlists/workfront-create-and-manage-custom-forms)
 
-* Artikel - [ wordt begonnen met berekende gebieden en uitdrukkingen ](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/custom-data/calculated-expressions/get-started-with-calculated-fields-and-expressions)
+* Artikel - [&#x200B; wordt begonnen met berekende gebieden en uitdrukkingen &#x200B;](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/custom-data/calculated-expressions/get-started-with-calculated-fields-and-expressions)
 
-* Tips &amp; trucs - [ Berekende Gebieden iedereen zou moeten kennen - en hoe te op hen te melden!](https://experienceleague.adobe.com/en/docs/events/the-skill-exchange-recordings/workfront/apr2022/calculated-fields)
+* Tips &amp; trucs - [&#x200B; Berekende Gebieden iedereen zou moeten kennen - en hoe te op hen te melden!](https://experienceleague.adobe.com/en/docs/events/the-skill-exchange-recordings/workfront/apr2022/calculated-fields)
 
 Wilt u meer tips van Madalyn? Bekijk haar hele serie tips en trucs in de Workfront Community! 
 
@@ -50,4 +50,4 @@ Madalyn is al meer dan tien jaar een fervent Workfront-gebruiker en heeft meerde
 
 ## Heb je iets te delen?
 
-Hebt u een geweldig verhaal om te delen, tijdens een gebeurtenis of in een video van Expert Insights? Gelieve te bereiken uit aan ons team in [ CSatScale@adobe.com ](mailto:CSatScale@adobe.com).
+Hebt u een geweldig verhaal om te delen, tijdens een gebeurtenis of in een video van Expert Insights? Gelieve te bereiken uit aan ons team in [&#x200B; CSatScale@adobe.com &#x200B;](mailto:CSatScale@adobe.com).

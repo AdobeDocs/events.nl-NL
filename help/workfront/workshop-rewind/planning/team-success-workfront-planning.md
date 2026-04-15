@@ -28,7 +28,7 @@ Als u nog maar net aan de slag gaat met de Workfront-planning, kunt u een teamee
 
 >[!VIDEO](https://video.tv.adobe.com/v/3469964/?learn=on&enablevpops)
 
-Naast de opname op bestelling, hebben wij het [ diafeck ](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/052825+-+Start+Fast,+Scale+Smart+Activating+Team-Level+Success+with+Workfront+Planning.pdf) van de beschikbare opname.
+Naast de opname op bestelling, hebben wij het [&#x200B; diafeck &#x200B;](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/052825+-+Start+Fast,+Scale+Smart+Activating+Team-Level+Success+with+Workfront+Planning.pdf) van de beschikbare opname.
 
 ## Aanvullende koppelingen
 
@@ -48,4 +48,4 @@ Hier volgen enkele aanvullende snelkoppelingen naar bronnen om u te helpen aan d
 * [Documentatie: Overzicht van Adobe Workfront Planning](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-planning/adobe-workfront-planning-general-information/planning-overview)
 * [Adobe Workfront Planning Release-activiteit](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/planning-release-activity/planning-release-activity-article-index)
 
-Wij zullen meer gebeurtenissen hebben die binnenkort voor de Planning van Workfront komen, zodat ben zeker om de [ pagina van Gebeurtenissen op Experience League ](https://experienceleague.adobe.com/events/?filters=Workfront) regelmatig te controleren zodat u niet uit mist!
+Wij zullen meer gebeurtenissen hebben die binnenkort voor de Planning van Workfront komen, zodat ben zeker om de [&#x200B; pagina van Gebeurtenissen op Experience League &#x200B;](https://experienceleague.adobe.com/events/?filters=Workfront) regelmatig te controleren zodat u niet uit mist!

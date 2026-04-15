@@ -21,6 +21,6 @@ ht-degree: 0%
 
 Op deze pagina vindt u elementen voor Experience League LIVE
 
-![ Episode 6 het Beeld Sidebar ](assets/exl-live-ep6-sidebar.jpg)
+![&#x200B; Episode 6 het Beeld Sidebar &#x200B;](assets/exl-live-ep6-sidebar.jpg)
 
-![ Experience League Levend Logo ](assets/exl-live-logo.png)
+![&#x200B; Experience League Levend Logo &#x200B;](assets/exl-live-logo.png)

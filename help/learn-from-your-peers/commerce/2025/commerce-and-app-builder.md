@@ -36,5 +36,5 @@ Of u nu gewoon begint met App Builder of de strategische waarde van uitbreidbaar
 
 ## Aanvullende bronnen
 
-* [ Post-Webinar de Uren van het Bureau ](https://commerce-augs.adobe.com/events/details/adobe-commerce-adobe-commerce-champion-office-hours-presents-adobe-commerce-amp-app-builder-essentials-from-basics-to-impact-webinar-office-hours/) met Alex Lyzun
+* [&#x200B; Post-Webinar de Uren van het Bureau &#x200B;](https://commerce-augs.adobe.com/events/details/adobe-commerce-adobe-commerce-champion-office-hours-presents-adobe-commerce-amp-app-builder-essentials-from-basics-to-impact-webinar-office-hours/) met Alex Lyzun
 * [Adobe Commerce-gebruikersgroepen](https://commerce-augs.adobe.com/)

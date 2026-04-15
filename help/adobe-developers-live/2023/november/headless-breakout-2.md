@@ -25,6 +25,6 @@ ht-degree: 0%
 
 In deze informatieve sessie van Adobe Developers Live delen Gabriel Walt en Alex Tondo inzicht in hoe Adobe.com de Universal Editor in Adobe Experience Manager gebruikt om hun inhoudsstrategie te verbeteren. Opgenomen op 6 november 2023 bespreken ze de mogelijkheden van deze WYSIWYG-editor om processen voor het leveren van inhoud te stroomlijnen en de rol ervan bij het vereenvoudigen van het schrijven van inhoud. Deze sessie is ideaal voor mensen die willen begrijpen hoe ze de inhoudshulpmiddelen in AEM effectief kunnen gebruiken voor dynamische en aantrekkelijke digitale ervaringen.
 
-Ga het gesprek in [ Gemeenschappen van Experience League ](https://adobe.ly/46ELi7X) voort.
+Ga het gesprek in [&#x200B; Gemeenschappen van Experience League &#x200B;](https://adobe.ly/46ELi7X) voort.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425635/?learn=on)

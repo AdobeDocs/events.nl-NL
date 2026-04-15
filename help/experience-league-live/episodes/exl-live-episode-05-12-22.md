@@ -27,5 +27,5 @@ Met pushberichten bereikt u op elk gewenst moment gebruikers van uw mobiele app,
 
 [Download de Android AEPSampleAPP](https://github.com/adobe/aepsdk-sample-app-android)
 
-Om het gesprek over deze zitting voort te zetten, gelieve de [ communautaire post van Experience League ](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-push/td-p/451869) te bezoeken.
+Om het gesprek over deze zitting voort te zetten, gelieve de [&#x200B; communautaire post van Experience League &#x200B;](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-push/td-p/451869) te bezoeken.
 

@@ -40,4 +40,4 @@ Samen met de opnamen op aanvraag hebben we de diapresentatie en de tips die in d
 
 Een van de grootste thema&#39;s die we tijdens de chat zagen, was de uitdaging om projectsjablonen eenvoudig te houden, maar tegelijkertijd de inspanningen te volgen en ervoor te zorgen dat teams alle stappen uitvoeren die nodig zijn om het project te voltooien.  
 
- We hopen u te zien in toekomstige workshops over succes bij de klant!  Ben zeker om de [ Gebeurtenissen van Workfront ](https://experienceleague.adobe.com/events/?filters=Workfront) op Experience League voor de volledige lijst te controleren en te registreren.
+ We hopen u te zien in toekomstige workshops over succes bij de klant!  Ben zeker om de [&#x200B; Gebeurtenissen van Workfront &#x200B;](https://experienceleague.adobe.com/events/?filters=Workfront) op Experience League voor de volledige lijst te controleren en te registreren.

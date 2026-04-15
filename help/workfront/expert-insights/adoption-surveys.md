@@ -37,7 +37,7 @@ Tijdens de presentatie bespraken Jaime en Danielle enkele aanvullende bronnen, d
 * [Workfront Admin Chat - Cognizant](https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/Workfront+-+Admin+Chat+20231113+final+GBC)
 * [Workfront-enquête over gebruikersacceptatie](https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/Workfront+User+Adoption+Survey+2022+final_Admin+chat)
 
-Wilt u meer informatie over adoptie en algemene onboarding? Bekijk onze blog! - [ Nieuwe klanten van Workfront! Welkom bij de Adobe Workfront Customer Success on boarding Blog!](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/new-workfront-customers-welcome-to-the-adobe-workfront-customer/ba-p/635927)
+Wilt u meer informatie over adoptie en algemene onboarding? Bekijk onze blog! - [&#x200B; Nieuwe klanten van Workfront! Welkom bij de Adobe Workfront Customer Success on boarding Blog!](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/new-workfront-customers-welcome-to-the-adobe-workfront-customer/ba-p/635927)
 
 ## Over de spreker
 
@@ -47,4 +47,4 @@ Jaime is een ervaren marktleider op het gebied van automatisering en procesoptim
 
 ## Heb je iets te delen?
 
-Hebt u een geweldig verhaal om te delen, tijdens een gebeurtenis of in een video van Expert Insights? Gelieve te bereiken uit aan ons team in [ CSatScale@adobe.com ](mailto:CSatScale@adobe.com).
+Hebt u een geweldig verhaal om te delen, tijdens een gebeurtenis of in een video van Expert Insights? Gelieve te bereiken uit aan ons team in [&#x200B; CSatScale@adobe.com &#x200B;](mailto:CSatScale@adobe.com).

@@ -36,9 +36,9 @@ U gaat weg met doordachte inzichten, die omvatten:
 ## Bronnen
 
 Jen deelt ook een aantal van haar favoriete bronnen, waaronder waarom Fusion-sjablonen, blauwdrukken en gedeelde beste werkwijzen het verschil kunnen maken. Meer informatie vindt u hier:
-* [ Lijst van beschikbare Malplaatjes van de Fusie ](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/create-and-manage-templates/currently-available-fusion-templates)
-* [ Lijst van beschikbare Blauwdrukken ](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/blueprints/list-of-available-blueprints)
-* [ Experience League Workfront Community ](https://experienceleaguecommunities.adobe.com/adobe-workfront-22)
+* [&#x200B; Lijst van beschikbare Malplaatjes van de Fusie &#x200B;](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/create-and-manage-templates/currently-available-fusion-templates)
+* [&#x200B; Lijst van beschikbare Blauwdrukken &#x200B;](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/blueprints/list-of-available-blueprints)
+* [&#x200B; Experience League Workfront Community &#x200B;](https://experienceleaguecommunities.adobe.com/adobe-workfront-22)
 
 Maar wacht!  Ze heeft meer raad om te delen!
 
@@ -54,7 +54,7 @@ Jen Desmond is een Sr. Technische Adviseur van het Succes die met klanten samenw
 
 ## Heb je iets te delen?
 
-Hebt u een geweldig verhaal om te delen, tijdens een gebeurtenis of in een video van Expert Insights? Gelieve te bereiken uit aan ons team in [ CSatScale@adobe.com ](mailto:CSatScale@adobe.com).
+Hebt u een geweldig verhaal om te delen, tijdens een gebeurtenis of in een video van Expert Insights? Gelieve te bereiken uit aan ons team in [&#x200B; CSatScale@adobe.com &#x200B;](mailto:CSatScale@adobe.com).
 
 
-En als u van het leren over nieuwe ideeën en creatieve benaderingen houdt, dan vergeet niet om voor komende workshops op de [ pagina van de Gebeurtenissen van Experience League ](https://experienceleague.adobe.com/en/events) te registreren.
+En als u van het leren over nieuwe ideeën en creatieve benaderingen houdt, dan vergeet niet om voor komende workshops op de [&#x200B; pagina van de Gebeurtenissen van Experience League &#x200B;](https://experienceleague.adobe.com/en/events) te registreren.

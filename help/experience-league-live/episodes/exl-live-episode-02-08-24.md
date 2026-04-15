@@ -25,7 +25,7 @@ Introductie van Use Case Playbooks - een handelingencatalogus van branchespecifi
 
 >[!BEGINSHADEBOX  &quot;Heb vragen?&quot;]
 
-Ga verder de bespreking over dit onderwerp op het post van de Gemeenschap van de Liga van de Ervaring van Adobe [ ](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-use-case/m-p/651643#M488).
+Ga verder de bespreking over dit onderwerp op het post van de Gemeenschap van de Liga van de Ervaring van Adobe [&#x200B; &#x200B;](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-use-case/m-p/651643#M488).
 
 >[!ENDSHADEBOX]
 

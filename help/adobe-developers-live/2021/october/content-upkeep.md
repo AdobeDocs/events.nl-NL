@@ -22,7 +22,7 @@ ht-degree: 1%
 
 Demonstreer de functies die beschikbaar zijn in de Adobe Experience Manager Modernization Tool suite. Leer hoe ontwikkelingsteams het kunnen gebruiken om inhoud te consolideren, om te zetten of te bevorderen om de last voor Auteurs te verminderen aangezien de componentenbibliotheek evolueert.
 
-Ga het gesprek in **[Gemeenschappen van Experience League ](https://adobe.ly/3zJuUBH)** voort.
+Ga het gesprek in **[Gemeenschappen van Experience League &#x200B;](https://adobe.ly/3zJuUBH)** voort.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337577/?quality=12&learn=on&hidetitle=true)
 

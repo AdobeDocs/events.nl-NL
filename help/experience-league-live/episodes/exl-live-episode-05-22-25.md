@@ -31,7 +31,7 @@ In deze sessie hebben we het volgende onderzocht:
 
 >[!BEGINSHADEBOX  &quot;Heb vragen?&quot;]
 
-Ga verder met de discussie over de [ bespreking van het Forum van de Gemeenschap van Experience League ](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/adobe-experience-league-live-content-analytics-optimize/m-p/756741#M4712).
+Ga verder met de discussie over de [&#x200B; bespreking van het Forum van de Gemeenschap van Experience League &#x200B;](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/adobe-experience-league-live-content-analytics-optimize/m-p/756741#M4712).
 
 >[!ENDSHADEBOX]
 

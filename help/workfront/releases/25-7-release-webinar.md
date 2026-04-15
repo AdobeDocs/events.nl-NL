@@ -29,4 +29,4 @@ Koppelingen naar het diapakket en de communitypost Experience League met de vrag
 
 * [Slide Deck PDF](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/0710125+-+Adobe+Workfront+Third+Quarter+Release+Webinar.pdf)
 * [Experience League Community-post](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-adobe-workfront-third-quarter-release-webinar/td-p/763800)
-* Voor meer informatie over de versieeigenschappen, bezoek het Derde Kwartaal 2025 [ pagina van het versieoverzicht ](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-25-q3/25-q3-release-overview).
+* Voor meer informatie over de versieeigenschappen, bezoek het Derde Kwartaal 2025 [&#x200B; pagina van het versieoverzicht &#x200B;](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-25-q3/25-q3-release-overview).

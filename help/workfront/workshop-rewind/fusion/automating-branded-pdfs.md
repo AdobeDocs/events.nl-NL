@@ -23,6 +23,6 @@ Zet Workfront-gegevens om in gepolijst, klaar voor gebruik door belanghebbenden!
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481825/?learn=on&enablevpops)
 
-Op zoek naar meer bronnen van de gebeurtenis, inclusief het diapakket en het zip-bestand dat tijdens de sessie is besproken? Controle uit de [ Communautaire post van Experience League ](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-from-data-to-design-automating-branded-pdfs-with-workfront-fusion-february-17-2026-248587)!
+Op zoek naar meer bronnen van de gebeurtenis, inclusief het diapakket en het zip-bestand dat tijdens de sessie is besproken? Controle uit de [&#x200B; Communautaire post van Experience League &#x200B;](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-from-data-to-design-automating-branded-pdfs-with-workfront-fusion-february-17-2026-248587)!
 
-De nieuwe gebeurtenissen worden toegevoegd elke maand, zodat zorg ervoor om de [ pagina van de Gebeurtenissen van Experience League ](https://experienceleague.adobe.com/en/events) voor de recentste zittingen uit te checken.
+De nieuwe gebeurtenissen worden toegevoegd elke maand, zodat zorg ervoor om de [&#x200B; pagina van de Gebeurtenissen van Experience League &#x200B;](https://experienceleague.adobe.com/en/events) voor de recentste zittingen uit te checken.

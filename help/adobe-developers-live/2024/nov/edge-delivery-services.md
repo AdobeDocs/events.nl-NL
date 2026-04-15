@@ -26,11 +26,11 @@ Doe mee aan Lars Trieloff, Opdrachtgever bij Adobe, zoals hij het eerste jaar va
 
 ## Communautaire discussie
 
-Ga verder het gesprek in de Gemeenschap van Adobe Developers Live [ bespreking ](https://adobe.ly/3NTU0qS).
+Ga verder het gesprek in de Gemeenschap van Adobe Developers Live [&#x200B; bespreking &#x200B;](https://adobe.ly/3NTU0qS).
 
 ## Toetsen
 
-* **Snelheid van de snelheid en van Prestaties van 0} is essentieel voor gebruikerservaring en omzettingen.** Google geeft prioriteit aan snelle websites voor organisch verkeer. Adobe Experience Manager (AEM) met Edge Delivery Services wordt gemarkeerd als een snel systeem voor het beheer van webinhoud.
+* **Snelheid van de snelheid en van Prestaties van 0&rbrace; is essentieel voor gebruikerservaring en omzettingen.** Google geeft prioriteit aan snelle websites voor organisch verkeer. Adobe Experience Manager (AEM) met Edge Delivery Services wordt gemarkeerd als een snel systeem voor het beheer van webinhoud.
 * **Eenvoudig** een eenvoudige architectuur is essentieel voor prestaties.Complexe instellingen die worden voorgesteld door AI-gereedschappen, zoals ChatGPT, kunnen contraproductief zijn.
 * **Beschikbaarheid** AEM Edge Delivery Services boekt hoge beschikbaarheid met minimale onderbreking.De werkelijke downtime in het afgelopen jaar was nul minuten voor klanten met een hoge beschikbaarheid. &#x200B;
 * **Composability** AEM biedt composability in zowel creatie als levering aan, die flexibiliteit in gebruikte hulpmiddelen en CDNs toestaan.

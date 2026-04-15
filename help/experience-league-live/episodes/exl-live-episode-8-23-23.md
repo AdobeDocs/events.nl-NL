@@ -31,5 +31,5 @@ In deze Experience League Live-sessie zullen productdeskundigen van Adobe uitleg
 
 **klik op het beeld hierboven om op de show te letten!**
 
-Ga verder de bespreking over de [ post van de Gemeenschap van Experience League ](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-api-triggered/m-p/614273#M132).
+Ga verder de bespreking over de [&#x200B; post van de Gemeenschap van Experience League &#x200B;](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-api-triggered/m-p/614273#M132).
 

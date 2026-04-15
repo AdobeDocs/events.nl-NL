@@ -30,7 +30,7 @@ Meer informatie over de door Adobe beheerde CDN in AEM Cloud Service en over de 
 
 *Opgenomen op 22 Januari, 2025*
 
-Heb je een vraag, misschien een opmerking?  Sluit me aan bij de bespreking in de [ Gemeenschappen van Experience League ](https://adobe.ly/4haufPK)!
+Heb je een vraag, misschien een opmerking?  Sluit me aan bij de bespreking in de [&#x200B; Gemeenschappen van Experience League &#x200B;](https://adobe.ly/4haufPK)!
 
 ## Toetsen
 
@@ -45,7 +45,7 @@ Heb je een vraag, misschien een opmerking?  Sluit me aan bij de bespreking in de
 * **de Transformaties van het Verzoek** wijzigen kopballen, herschrijven wegen, blokverkeer, en richten verzoeken opnieuw.
 * **Filters van het Verkeer** Blok of staat verkeer toe dat op specifieke regels wordt gebaseerd.
 * **Steun van de Authentificatie** voor randsleutel, ponssleutel, en basisauthentificatie.
-* **de verzoeken van de Volmacht van de Selecteurs van de Oorsprong van 0} aan verschillende oorsprong die op bepaalde regels wordt gebaseerd.**
+* **de verzoeken van de Volmacht van de Selecteurs van de Oorsprong van 0&rbrace; aan verschillende oorsprong die op bepaalde regels wordt gebaseerd.**
 * **Transformaties van de Reactie** wijzigt reactiekopballen en status.
 
 ### Implementatie en aanpassing

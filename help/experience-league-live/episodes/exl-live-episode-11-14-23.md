@@ -28,5 +28,5 @@ Gedragsgegevens zijn een belangrijk ingrediënt voor het aanbieden van persoonli
 
 In deze Experience League Live-sessie tonen productexperts u hoe u met &#39;berekende kenmerken&#39; in Real-Time CDP en Journey Optimizer een eenvoudige gebruikersinterface kunt gebruiken om gedragsaggregaten te maken als profielkenmerken die kunnen worden gebruikt voor verbeterde segmentatie en personalisatie.
 
-**zet de bespreking betreffende dit onderwerp op het 1} Communautaire Post van Experience League van de show ](https://experienceleaguecommunities.adobe.com/t5/real-time-customer-data-platform/experience-league-live-post-session-discussion-get-the-most-from/m-p/633722#M5){target="_blank"}** voort.[
+**zet de bespreking betreffende dit onderwerp op het 1&rbrace; Communautaire Post van Experience League van de show [&#128279;](https://experienceleaguecommunities.adobe.com/t5/real-time-customer-data-platform/experience-league-live-post-session-discussion-get-the-most-from/m-p/633722#M5){target="_blank"}** voort.
 

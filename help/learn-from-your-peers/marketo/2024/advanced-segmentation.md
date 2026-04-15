@@ -74,9 +74,9 @@ In dit webinar zult u leren over,
 ## Aanvullende bronnen
 
 * [Presentatiesdia&#39;s](https://engage.adobe.com/rs/360-KCI-804/images/AME_Learn%20From%20your%20peers%20Webinar_Advanced%20segmentation%20Audits.pdf?version=0){target="_blank"}
-* Sluit zich aan bij de bespreking [ draad ](https://nation.marketo.com/t5/product-discussions/register-now-learn-from-your-peers-advanced-segmentation-audits/td-p/353460){target="_blank"} op de Gemeenschap van de Natie van de Marketing
+* Sluit zich aan bij de bespreking [&#x200B; draad &#x200B;](https://nation.marketo.com/t5/product-discussions/register-now-learn-from-your-peers-advanced-segmentation-audits/td-p/353460){target="_blank"} op de Gemeenschap van de Natie van de Marketing
 * [Een segmentatie maken](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation){target="_blank"}
 * [Een segmentatie bewerken](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/edit-a-segmentation){target="_blank"}
-* De Reeksen van het Succes van Marketo Engage - [ Segmentatie ](https://nation.marketo.com/t5/product-blogs/marketo-success-series-segmentation/ba-p/304969){target="_blank"}
-* {de Updates van de Controle van de Gezondheid van de segmentatie van 0} ](https://nation.marketo.com/t5/product-blogs/segmentation-health-check-updates-tips-and-tricks-for-keeping/ba-p/241963){target="_blank"} - Tips en Tricks voor het houden van uw Segmentatie Bijgewerkt[
-* [ Rapport van de Prestaties E-mail ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-data/email-performance-report){target="_blank"}
+* De Reeksen van het Succes van Marketo Engage - [&#x200B; Segmentatie &#x200B;](https://nation.marketo.com/t5/product-blogs/marketo-success-series-segmentation/ba-p/304969){target="_blank"}
+* {de Updates van de Controle van de Gezondheid van de segmentatie van 0} [&#128279;](https://nation.marketo.com/t5/product-blogs/segmentation-health-check-updates-tips-and-tricks-for-keeping/ba-p/241963){target="_blank"} - Tips en Tricks voor het houden van uw Segmentatie Bijgewerkt
+* [&#x200B; Rapport van de Prestaties E-mail &#x200B;](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-data/email-performance-report){target="_blank"}

@@ -34,5 +34,5 @@ Of u nu nog maar aan de slag gaat met Fusion of uw automatisering wilt uitbreide
 ## Bronnen
 
 - [Slide deck PDF](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Slide+Deck+-+Fusion+Naming+Conventions+-+Nov+19.pdf)
-- [ Zip dossier ](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Webinar+-+Naming+Conventions+-+111825.zip) met follow-up materialen
-- De nieuwe gebeurtenissen worden toegevoegd elke maand, zodat zorg ervoor om de [ pagina van de Gebeurtenissen van Experience League ](https://experienceleague.adobe.com/en/events) voor de recentste zittingen uit te checken.
+- [&#x200B; Zip dossier &#x200B;](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Webinar+-+Naming+Conventions+-+111825.zip) met follow-up materialen
+- De nieuwe gebeurtenissen worden toegevoegd elke maand, zodat zorg ervoor om de [&#x200B; pagina van de Gebeurtenissen van Experience League &#x200B;](https://experienceleague.adobe.com/en/events) voor de recentste zittingen uit te checken.

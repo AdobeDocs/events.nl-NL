@@ -46,5 +46,5 @@ In dit webinar:
 
 ## Nuttige bronnen
 
-[ Optimaliserend Uw Gegevensbestand voor Analyse](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/opt-db-analysis.html)
-[ Aanbevolen de Dimensies van Gegevens voor Segmentatie en het Filtreren ](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html)
+[&#x200B; Optimaliserend Uw Gegevensbestand voor Analyse](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/opt-db-analysis.html)
+[&#x200B; Aanbevolen de Dimensies van Gegevens voor Segmentatie en het Filtreren &#x200B;](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html)
