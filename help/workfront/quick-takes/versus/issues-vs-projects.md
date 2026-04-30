@@ -23,9 +23,9 @@ Je &#39;On-Demand Workfront CSM&#39; is terug! In deze versie! Aflevering, pakke
 
 Wilt u meer weten over het beheren van uw werk met Issues, Custom Forms en Project Templates? Bekijk meer bronnen:
 
-* Zie hoe een klant hun werk in actie met [ Malplaatjes van de Macht beheert: Hoe IDEXX de Malplaatjes van het Project voor Globaal Succes ](https://experienceleague.adobe.com/en/docs/events/workfront-recordings/workshop-rewind/workflow/power-templates) opnieuw vormde!
-* Geen kwestie uw voorkeur, leer hoe te [ douanerapporten voor uitgavebeheer ](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/report-on-issues) als pro tot stand brengen.
+* Zie hoe een klant hun werk in actie met [&#x200B; Malplaatjes van de Macht beheert: Hoe IDEXX de Malplaatjes van het Project voor Globaal Succes &#x200B;](https://experienceleague.adobe.com/en/docs/events/workfront-recordings/workshop-rewind/workflow/power-templates) opnieuw vormde!
+* Geen kwestie uw voorkeur, leer hoe te [&#x200B; douanerapporten voor uitgavebeheer &#x200B;](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/report-on-issues) als pro tot stand brengen.
 
-Geïnteresseerd in nieuwe ideeën en benaderingen? Registreer voor onze aanstaande workshops onze [ pagina van de Gebeurtenissen van Experience League ](https://experienceleague.adobe.com/en/events?filters=Workfront). Wij hopen u spoedig te zien!
+Geïnteresseerd in nieuwe ideeën en benaderingen? Registreer voor onze aanstaande workshops onze [&#x200B; pagina van de Gebeurtenissen van Experience League &#x200B;](https://experienceleague.adobe.com/en/events?filters=Workfront). Wij hopen u spoedig te zien!
 
 
