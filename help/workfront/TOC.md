@@ -3,9 +3,9 @@ user-guide-title: Workfront Events
 breadcrumb-title: Workfront Events
 user-guide-description: Workfront Events
 solution: Workfront
-source-git-commit: 88adf7e72d49b8f8e8cf8199e320152556304d46
+source-git-commit: 50e173546cb6086bbe8170b0120e48abecd1bf3c
 workflow-type: tm+mt
-source-wordcount: '538'
+source-wordcount: '544'
 ht-degree: 0%
 
 ---
@@ -75,6 +75,7 @@ ht-degree: 0%
       + [Secure Executive Sponsorship](workshop-rewind/workflow/secure-executive-sponsorship.md)
       + [Zelfstudie naar succes](workshop-rewind/workflow/self-taught-to-success.md)
       + [Voorjaar opschonen met Workfront-rapporten](workshop-rewind/workflow/workfront-reports-cleanup.md)
+      + [Team of One](workshop-rewind/workflow/team-of-one.md)
       + [10 Communicatietips](workshop-rewind/workflow/10-communication-tips.md)
       + [Tips voor tekstmodus](workshop-rewind/workflow/text-mode-tips.md)
       + [10 Meer tips over tekstmodus](workshop-rewind/workflow/10-more-text-mode-tips.md)
@@ -109,6 +110,7 @@ ht-degree: 0%
          + [Top 3 van functies voor werknemers in Workfront](quick-takes/top3/watch-me-work-3.md)
    + Volsus! {#versus}
       + [Groepen versus teams](quick-takes/versus/groups-vs-teams.md)
+      + [Problemen versus projecten](quick-takes/versus/issues-vs-projects.md)
 + Expert Insights {#expert-insights}
    + [Goedkeuring](expert-insights/adoption.md)
    + [Beoordelingsenquêtes](expert-insights/adoption-surveys.md)
@@ -128,14 +130,14 @@ ht-degree: 0%
    + Administratie {#administration}
       + [Audittrails en compatibiliteit](user-groups/audit-trails-and-compliance.md)
       + [Workflows automatiseren met Workfront Fusion](user-groups/automating-workflows-with-workfront-fusion.md)
-      + [Creative Agencies: workflow en verwerking](user-groups/creative-agencies-workflows-and-process.md)
+      + [Creative-agentschappen: Workflow en proces](user-groups/creative-agencies-workflows-and-process.md)
       + [Aangepaste Forms gebruiken](user-groups/leveraging-custom-forms.md)
       + [Aanbevolen werkwijzen voor systeembeheer](user-groups/system-admin-best-practices.md)
       + [Workfront-systeemonderhoud](user-groups/workfront-system-maintenance.md)
    + Agile {#agile}
       + [Geniet van marketing](user-groups/agile-in-marketing.md)
    + Rapportage en dashboards {#reporting-and-dashboards}
-      + [Creative-agentschappen: rapportage en dashboards](user-groups/creative-agencies-reporting-and-dashboards.md)
+      + [Creative-agentschappen: Rapportage en dashboards](user-groups/creative-agencies-reporting-and-dashboards.md)
       + [Kwaliteit van gaging en betrokkenheid](classics/gauging-quality-and-engagement.md)
       + [Inleiding aan de Rapportering van de Wijze van de Tekst](classics/introduction-to-text-mode-reporting.md)
       + [Rapportage en dashboards](user-groups/reporting-and-dashboards.md)
@@ -154,7 +156,7 @@ ht-degree: 0%
    + Workfront Proof {#workfront-proof}
       + [Aanbevolen procedures voor het maximaliseren van Workfront Proof](classics/best-practices-to-maximize-workfront-proof.md)
       + [Follow-up van beste praktijken van Workfront Proof](classics/follow-up-to-workfront-proof-best-practices.md)
-      + [Creative Agencies: Workfront Proof](user-groups/creative-agencies-workfront-proof.md)
+      + [Creative-agentschappen: Workfront Proof](user-groups/creative-agencies-workfront-proof.md)
       + [Workfront Proof gebruiken](user-groups/leveraging-workfront-proof.md)
    + Wachtrijen en opname aanvragen {#request-queues-and-intake}
       + [Wachtrijen aanvragen en Forms innemen](user-groups/request-queues-and-intake-forms.md)
