@@ -56,7 +56,7 @@ De maand mei markeert het begin van het graduatieseizoen, een tijd voor nieuwe p
 
 Op zoek naar meer? Ontdek de nieuwste informatie van je Adobe Workfront-community via onze gekrulde selectie van gebeurtenissen op aanvraag. Gebruik het linkernavigatiemenu om onderwerpen onder de Terugspoeling van de Workshop te doorbladeren, waar de zittingen door Fusion, Planning, en Workflow worden gegroepeerd om u te helpen snel inhoud vinden die aan uw behoeften wordt aangepast.
 
-En zorg ervoor dat u deelneemt aan aanstaande live gebeurtenissen om vragen te stellen, inzichten te delen en met anderen samen te werken. Bezoek de [&#x200B; pagina van de Gebeurtenissen van Workfront van Experience League &#x200B;](https://experienceleague.adobe.com/en/events?filters=Workfront) regelmatig om te zien wat volgende omhoog komt!
+En zorg ervoor dat u deelneemt aan aanstaande live gebeurtenissen om vragen te stellen, inzichten te delen en met anderen samen te werken. Bezoek de [&#x200B; pagina van de Gebeurtenissen van Workfront van Experience League &#x200B;](https://experienceleague.adobe.com/nl/events?filters=Workfront) regelmatig om te zien wat volgende omhoog komt!
 
 <!-- CARDS 
 
