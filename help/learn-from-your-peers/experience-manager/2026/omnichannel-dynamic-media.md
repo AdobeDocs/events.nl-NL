@@ -13,8 +13,7 @@ last-substantial-update: 2026-05-07T00:00:00Z
 jira: KT-20547
 hidefromtoc: false
 hide: false
-exl-id: 7da8a2b0-3821-4401-a2da-5531c5f494c4
-source-git-commit: 09239ef872b0326a576dbd20e8fed47b1f618646
+source-git-commit: 50d4363ee97c976798ca909d6812491d3fb3c7f9
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 0%
@@ -27,7 +26,7 @@ Weet u zeker hoe u de transformatie en optimalisatie van uw afbeeldingen en vide
 
 Word Adobe Experience Manager Champion Vengadesh Shanmugavelu voor meer informatie over het gebruik van Dynamic Media in Adobe Experience Manager Assets. Hij behandelt belangrijke elementen voor het schalen van digitale inhoud, zoals:
 
->[!VIDEO](https://video.tv.adobe.com/v/3481551/?captions=dut&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3481545/?learn=on&enablevpops)
 
 * Hoe Adobe Experience Manager Dynamic Media intelligente mediadistributie mogelijk maakt met behulp van profielinstellingen, slimme uitvoeringen en realtime optimalisatie.
 * Dynamische media activeren via AEM Core Components en de kracht ervan uitbreiden voor de hele onderneming met gebruik van Dynamic Media Open API&#39;s.
