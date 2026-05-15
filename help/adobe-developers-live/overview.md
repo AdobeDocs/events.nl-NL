@@ -17,7 +17,7 @@ Adobe Developers Live brengt Adobe-ontwikkelaars en -ontwikkelaars met verschill
 
 Adobe-productteams in Adobe Experience Cloud, Document Cloud en Creative Cloud zullen de nieuwste technologische ontwikkelingen en ontwikkelaarshulpmiddelen presenteren die het ontwerp, de workflows voor het maken van inhoud, documentservices en het beheer van klantervaringen in alle industrieën mogelijk maken.
 
-**[Register ](https://developer.adobe.com/developers-live/)** voor toekomstige gebeurtenissen.
+**[Register &#x200B;](https://developer.adobe.com/developers-live/)** voor toekomstige gebeurtenissen.
 
 ## Adobe Developers Live 2025 : Het web van de agentschappen opbouwen
 
