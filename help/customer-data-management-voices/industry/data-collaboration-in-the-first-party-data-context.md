@@ -32,8 +32,8 @@ De beloften nakomen, met toegang tot minder gegevens. Of u nu adverteerder, uitg
 
 ## Aanvullende informatie
 
-[Overzicht van afstemming van segment](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/segment-match.html?lang=en)
+[Overzicht van afstemming van segment](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/segment-match.html?lang=nl-NL)
 
-[Audience Marketplace for Data Buyers](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-marketplace/audience-marketplace-for-data-buyers/marketplace-data-buyers.html?lang=en)
+[Audience Marketplace for Data Buyers](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-marketplace/audience-marketplace-for-data-buyers/marketplace-data-buyers.html?lang=nl-NL)
 
-[Bestemmingen op basis van personen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html?lang=en)
+[Bestemmingen op basis van personen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html?lang=nl-NL)
