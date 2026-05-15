@@ -24,4 +24,4 @@ Aangezien de platforms die het beheer van klantgegevens vergemakkelijken, moeten
 
 >[!VIDEO](https://video.tv.adobe.com/v/336938/?quality=12&learn=on)
 
-Om deze video aan te vullen, kunt u ook [ een whitepaper ](./../assets/whitepaper-evolving-the-audience-center-of-excellence.pdf) downloaden
+Om deze video aan te vullen, kunt u ook [&#x200B; een whitepaper &#x200B;](./../assets/whitepaper-evolving-the-audience-center-of-excellence.pdf) downloaden
