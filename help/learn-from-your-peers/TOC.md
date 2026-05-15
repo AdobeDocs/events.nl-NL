@@ -2,10 +2,10 @@
 user-guide-title: '[!DNL Experience Makers Learn from your peers]'
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: Verzameling opnamen van  [!DNL Experience Makers Learn from your peers]
-source-git-commit: a74b16144c63581e387e590ff4aa98f9a218ec84
+source-git-commit: 52ae84732dd4afdd0ffb29afbb5d3a3bd5921a43
 workflow-type: tm+mt
-source-wordcount: '365'
-ht-degree: 6%
+source-wordcount: '370'
+ht-degree: 5%
 
 ---
 
@@ -43,7 +43,7 @@ ht-degree: 6%
    + 2023 {#2023}
       + [Uitmuntendheid voor ontwikkelaars met AEM Core-componenten](experience-manager/2023/core-components.md)
       + [Een diepe insteekmodule voor AEM Sites](experience-manager/2023/aem-sites-tools.md)
-      + [&#x200B; Effectieve Strategieën van de Veiligheid in Cloud Service &#x200B;](experience-manager/2023/effective-security-strategies-in-cloud-service.md)
+      + [ Effectieve Strategieën van de Veiligheid in Cloud Service ](experience-manager/2023/effective-security-strategies-in-cloud-service.md)
       + [Inhoud- en ervaringsfragmenten maken](experience-manager/2023/mastering-content-and-experience-fragments.md)
 + GenAI {#genai}
    + 2025 {#2025}
@@ -57,7 +57,7 @@ ht-degree: 6%
    + 2024 {#2024}
       + [Geavanceerde segmentatieaudits](marketo/2024/advanced-segmentation.md)
       + [Multistream-serviceprogramma&#39;s](marketo/2024/multi-stream-engagement-programs.md)
-      + [De kaart van de Markteur: Strategizing, Bouwend, en Analyseert de Campagnes van Marketo](marketo/2024/marketers-map-marketo-campaigns.md)
+      + [De kaart van de Marketer: Marketo-campagnes strategisch maken, bouwen en analyseren](marketo/2024/marketers-map-marketo-campaigns.md)
       + [Praktische toepassingen van Marketo Engage REST API](marketo/2024/practical-applications-of-marketo-engage-rest-api.md)
       + [Person Scoring Mastery met Marketo Engage](marketo/2024/person-scoring-mastery.md)
    + 2023 {#2023}
@@ -70,7 +70,7 @@ ht-degree: 6%
    + 2026 {#2026}
       + [Duurzame Workfront-adoptie](workfront/2026/workfront-adoption.md)
    + 2025 {#2025}
-      + [Metadata Mayhem](https://experienceleague.adobe.com/nl/docs/events/learn-from-your-peers-recordings/experience-manager/2025/metadata-mayhem)
+      + [Metadata Mayhem](https://experienceleague.adobe.com/en/docs/events/learn-from-your-peers-recordings/experience-manager/2025/metadata-mayhem)
       + [Het articuleren Effect - hoe te om de Waarde van Workfront te meten en te delen](workfront/2025/how-to-measure-and-share-workfront-value.md)
       + [Bronnen plannen vereenvoudigen met automatisering](workfront/2025/simplify-resource-planning-with-automation.md)
    + 2024 {#2024}
@@ -93,5 +93,6 @@ ht-degree: 6%
       + [Gronden voor de operationele rapportage](workfront/2022/foundations-of-operational-reporting.md)
       + [Hefboomwerking van de groepsbeheerder](workfront/2022/leveraging-the-group-admin.md)
       + [Wat is het bestuur van Workfront?](workfront/2022/what-is-workfront-governance.md)
-+ [Adobe-gebruikersgroepen in Experience Cloud verkennen](./adobe-user-groups.md)
++ [Het Adobe Champion-voordeel ontgrendelen](./unlock-the-adobe-champion-advantage.md)
 + [Leer hoe u een Champion toepast en opvalt](./adobe-champion-application.md)
++ [Adobe-gebruikersgroepen in Experience Cloud verkennen](./adobe-user-groups.md)
