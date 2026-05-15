@@ -3,9 +3,9 @@ title: Technische Experience Cloud-sessies
 description: Verbeter uw Adobe Experience Cloud-vaardigheden met live en on-demand technische sessies onder leiding van Adobe-experts. Krijg op elk gewenst moment knopinfo en strategieën voor een naadloze leerervaring.
 exl-id: e368f1f8-5c3f-45a4-a9d5-2ed39b1c78ad
 duration: 53
-source-git-commit: 32127a71c8523d7dd8d8507571c594b4d5af897f
+source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
 workflow-type: tm+mt
-source-wordcount: '1630'
+source-wordcount: '1666'
 ht-degree: 0%
 
 ---
@@ -13,13 +13,14 @@ ht-degree: 0%
 # Opnamen van technische Experience Cloud-sessies
 
 
-![&#x200B; de Technische Sessies van Experience Cloud &#x200B;](./assets/tech-sessions-banner.png){align="center"}
+![ de Technische Sessies van Experience Cloud ](./assets/tech-sessions-banner.png){align="center"}
 
 Ontgrendel het volledige potentieel van Adobe Experience Cloud met live en on-demand technische sessies. Deze webinars zijn doordacht ontworpen om verder te gaan dan de traditionele ondersteuning. De sessies worden geleid door ervaren Adobe-experts en bieden waardevolle tips, trucs en strategieën om u te helpen met vertrouwen door technische oplossingen te navigeren en gemeenschappelijke valkuilen te voorkomen. Adobe-experts zijn technici voor technische ondersteuning die zich bezighouden met de belangrijkste punten van zorg en die zich actief bezighouden met dagelijkse zaken. Met zowel live als on-demand opties hebt u de flexibiliteit om toegang te krijgen tot de informatie wanneer u deze nodig hebt, zodat u een naadloze leerervaring hebt.
 
 ## 2025 Zittingen
 
-<!-- CARDS
+<!-- 
+CARDS
 {cta = Watch}
 
 * 2025/acc-delivery-performance.md
@@ -118,7 +119,7 @@ Ontgrendel het volledige potentieel van Adobe Experience Cloud met live en on-de
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="2025/fastly-and-adobe-commerce.md" target="_blank" rel="referrer" title="Snelheid en Adobe Commerce"> Vlucht en Adobe Commerce </a>
                     </p>
-                    <p class="is-size-6">Verhoog de digitale prestaties en beveiliging met Adobe-ondersteuningsstrategieën, caching tips en zelfbedieningstools voor schaalbaar succes.**</p>
+                    <p class="is-size-6">Verhoog de digitale prestaties en beveiliging met Adobe-ondersteuningsstrategieën, caching tips en tools voor zelfbediening voor schaalbaar succes.**</p>
                 </div>
                 <a href="2025/fastly-and-adobe-commerce.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Controle </span>
@@ -223,7 +224,8 @@ Ontgrendel het volledige potentieel van Adobe Experience Cloud met live en on-de
 
 ## 2024 Zittingen
 
-<!-- CARDS
+<!-- 
+CARDS
 {cta = Watch}
 
 * 2024/aep-web-sdk-troubleshooting.md
@@ -356,7 +358,8 @@ Ontgrendel het volledige potentieel van Adobe Experience Cloud met live en on-de
 
 ## 2023 Zittingen
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta = Watch}
 

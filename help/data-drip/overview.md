@@ -3,7 +3,7 @@ title: Gegevensstrook
 description: Neem deel aan Adobe-experts in de Data Drip-reeks om de nieuwste functies en beste praktijken in Adobe Analytics & Target te verkennen, met live demonstraties die ervoor zorgen dat klanten hun productpotentieel maximaliseren en concurrerend blijven.
 duration: 15
 exl-id: dd36b140-d53a-41fd-9c26-4d97ab7740a1
-source-git-commit: d195ceaea0b4ccd0c16949e6cff65ec6d04a5e6d
+source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
 workflow-type: tm+mt
 source-wordcount: '275'
 ht-degree: 0%
@@ -14,7 +14,8 @@ ht-degree: 0%
 
 De Data Drip-reeks is voorzien van Adobe-experts en is ingenomen met bestaande Adobe Analytics &amp; Target-klanten van alle vaardigheidsniveaus. De reeks concentreert zich op enkele van de recentste eigenschappen en beste praktijken die van het gebeurtenisonderwerp weerspiegelen. De presentatie wordt gevolgd door een live demonstratie of screengrabs met voorbeelden van hoe u actie kunt ondernemen op het gebied van de beste praktijken waarbij de functies in het product worden gebruikt. Klanten hebben de garantie dat ze weggaan met een beter inzicht in hoe ze concurrerend kunnen blijven en succes kunnen behalen, en dat ze tegelijkertijd de mogelijkheden van het product maximaliseren.
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta  = Watch event}
 

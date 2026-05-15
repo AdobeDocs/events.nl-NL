@@ -3,7 +3,7 @@ title: Adobe Workfront Workshops op aanvraag
 description: Workfront Events is een videobibliotheek waar experts en collega's hun gedachten en ideeën hebben gedeeld over hoe ze Workfront kunnen gebruiken om het werk dat voor hun organisaties wordt gedaan, te verbeteren.
 exl-id: bf38329c-65f1-48f0-b106-8b7d226aa894
 duration: 39
-source-git-commit: 3a52e5d2a9a35be25986a12324f14f9fee3d174e
+source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
 workflow-type: tm+mt
 source-wordcount: '949'
 ht-degree: 0%
@@ -16,7 +16,8 @@ ht-degree: 0%
 
 Deze lopende videoreeks biedt een duidelijk en beknopt overzicht van elke driemaandelijkse Adobe Workfront-release. Of u nu een systeembeheerder, een energiegebruiker bent of gewoon nieuwsgierig naar nieuwe functies, deze sessies zijn ontworpen om u te helpen op de hoogte te blijven van de nieuwste updates en er vertrouwen in te hebben. In samenwerking met het team van het Beheer van het Product, benadrukken deze gebeurtenissen zeer belangrijke eigenschappen, functionaliteit verhogingen, en uiteinden om snel te begrijpen wat verandert en hoe die veranderingen uw organisatie kunnen ten goede komen.
 
-<!-- CARDS 
+<!-- 
+CARDS 
 
 * releases/26-q2-release-webinar.md
  
@@ -56,9 +57,10 @@ De maand mei markeert het begin van het graduatieseizoen, een tijd voor nieuwe p
 
 Op zoek naar meer? Ontdek de nieuwste informatie van je Adobe Workfront-community via onze gekrulde selectie van gebeurtenissen op aanvraag. Gebruik het linkernavigatiemenu om onderwerpen onder de Terugspoeling van de Workshop te doorbladeren, waar de zittingen door Fusion, Planning, en Workflow worden gegroepeerd om u te helpen snel inhoud vinden die aan uw behoeften wordt aangepast.
 
-En zorg ervoor dat u deelneemt aan aanstaande live gebeurtenissen om vragen te stellen, inzichten te delen en met anderen samen te werken. Bezoek de [&#x200B; pagina van de Gebeurtenissen van Workfront van Experience League &#x200B;](https://experienceleague.adobe.com/nl/events?filters=Workfront) regelmatig om te zien wat volgende omhoog komt!
+En zorg ervoor dat u deelneemt aan aanstaande live gebeurtenissen om vragen te stellen, inzichten te delen en met anderen samen te werken. Bezoek de [ pagina van de Gebeurtenissen van Workfront van Experience League ](https://experienceleague.adobe.com/en/events?filters=Workfront) regelmatig om te zien wat volgende omhoog komt!
 
-<!-- CARDS 
+<!-- 
+CARDS 
 
 * workshop-rewind/workflow/power-templates.md 
 * workshop-rewind/workflow/lessons-learned-admins.md
@@ -149,7 +151,8 @@ De volsus! in video&#39;s wordt naast elkaar gekozen en worden Workfront-functie
 
 Of u nu Workfront-beheerder, projectmanager of alledaagse gebruiker bent, deze sectie biedt duidelijke, beknopte instructies om u te helpen slimmere beslissingen te nemen, uw instellingen te optimaliseren en meer uit Workfront te halen—snel.
 
-<!-- CARDS
+<!-- 
+CARDS
 
 * quick-takes/top3/office-hours.md
 * quick-takes/versus/issues-vs-projects.md
@@ -162,7 +165,7 @@ Of u nu Workfront-beheerder, projectmanager of alledaagse gebruiker bent, deze s
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="quick-takes/top3/office-hours.md" title="Top 3 benaderingen voor kantooruren" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470148/?captions=dut&format=jpeg&nocache=1778106659577" alt="Top 3 benaderingen voor kantooruren"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470053/?format=jpeg&nocache=1778106659577" alt="Top 3 benaderingen voor kantooruren"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -213,7 +216,8 @@ De Workfront Expert Insights-reeks is uw doorbraak-bron voor het ontsluiten van 
 
 Deze sessies zijn uitgerust met oplossingen uit de praktijk, voorbeelden van klanten en gebruiksmogelijkheden die zijn ontworpen om Workfront-gebruikers op alle niveaus te helpen hun installatie te optimaliseren, bewerkingen te schalen en meer waarde van het platform te krijgen. Of u nu een specifieke uitdaging wilt oplossen of ideeën voor innovatie wilt aanboren, Workfront Expert Insights biedt een achtergronds overzicht van hoe experts dit kunnen doen.
 
-<!-- CARDS 
+<!-- 
+CARDS 
 
 * expert-insights/content-supply-chain.md
 * expert-insights/fusion.md
@@ -227,7 +231,7 @@ Deze sessies zijn uitgerust met oplossingen uit de praktijk, voorbeelden van kla
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/content-supply-chain.md" title="Expert Insights - Content Supply chain met Corre Kombol" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470000/?captions=dut&format=jpeg&nocache=1778106659855" alt="Expert Insights - Content Supply chain met Corre Kombol"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469899/?format=jpeg&nocache=1778106659855" alt="Expert Insights - Content Supply chain met Corre Kombol"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

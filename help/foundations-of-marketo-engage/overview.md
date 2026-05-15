@@ -2,7 +2,7 @@
 title: Stichting van Marketo Engage
 description: Word lid van de Marketo-gebruikersgroep voor de stichting om vertrouwen en kernvaardigheden in Adobe Marketo Engage op te bouwen via beginnervriendelijke, ondersteunende sessies.
 exl-id: 0f4ac207-0828-4f35-915b-8ba5715af780
-source-git-commit: b0f9751c3e081316fa82cbde237404ba0c5fc07f
+source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
 workflow-type: tm+mt
 source-wordcount: '363'
 ht-degree: 0%
@@ -15,7 +15,8 @@ De Foundational Marketo User Group is speciaal ontworpen voor individuen die nog
 
 ## 2026 sessies
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
@@ -53,7 +54,8 @@ De Foundational Marketo User Group is speciaal ontworpen voor individuen die nog
 
 ## 2025 sessies
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 

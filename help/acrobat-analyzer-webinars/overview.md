@@ -1,10 +1,11 @@
 ---
 title: Webinars voor Acrobat Analyzer
 description: Ontdek de Adobe Acrobat Analyzer-webinars om te zien hoe Generative AI-extracten gestructureerde, controleerbare inzichten uit documenten hebben om workflows te automatiseren, risico's te verminderen en de besluitvorming op bedrijfsniveau te versnellen.
-source-git-commit: 679892dcd193ed2a9529f32a3d4cf2b90c054854
+exl-id: cbc929b5-3673-4118-826f-763dacff987b
+source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
 workflow-type: tm+mt
 source-wordcount: '117'
-ht-degree: 0%
+ht-degree: 23%
 
 ---
 
@@ -12,7 +13,8 @@ ht-degree: 0%
 
 Ontdek hoe Adobe Acrobat Analyzer Generative AI gebruikt om gestructureerde, controleerbare inzichten van grote volumes documenten te extraheren. Leer hoe u workflows kunt automatiseren, risico&#39;s kunt verminderen en snellere en slimmere besluitvorming op schaal mogelijk kunt maken. Blader naar onze komende webinars om te zien hoe u documentintelligentie in uw organisatie kunt transformeren.
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta  = Watch event}
 
@@ -46,7 +48,3 @@ Ontdek hoe Adobe Acrobat Analyzer Generative AI gebruikt om gestructureerde, con
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
-
-
-
-

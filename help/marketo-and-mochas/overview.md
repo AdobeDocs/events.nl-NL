@@ -3,20 +3,21 @@ title: Marketo en Mochas
 description: Marketo On-Demand Events is een videobibliotheek waar experts en collega's hun gedachten en ideeën hebben gedeeld over hoe ze Adobe Marketo het beste kunnen gebruiken.
 exl-id: eab06791-de71-4c26-bbb6-cbdeb9f6f8ec
 duration: 15
-source-git-commit: 52bd6d5a06799c79ac84b9e4827011f89c6471df
+source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
 workflow-type: tm+mt
-source-wordcount: '1401'
+source-wordcount: '1427'
 ht-degree: 0%
 
 ---
 
 # Marketo en Mochas
 
-Welkom bij de opnamen van Marketo en Mochas. Gebruikend deze middelen die met de documentatie van Adobe Marketo [&#x200B; &#x200B;](https://experienceleague.adobe.com/docs/marketo-engage.html?lang=nl-NL) en [&#x200B; leerprogramma&#39;s &#x200B;](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=nl-NL) worden gecombineerd, zult u een beter inzicht krijgen hoe te om Adobe Marketo te gebruiken om uw zaken te steunen.
+Welkom bij de opnamen van Marketo en Mochas. Gebruikend deze middelen die met de documentatie van Adobe Marketo [ ](https://experienceleague.adobe.com/docs/marketo-engage.html) en [ leerprogramma&#39;s ](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html) worden gecombineerd, zult u een beter inzicht krijgen hoe te om Adobe Marketo te gebruiken om uw zaken te steunen.
 
 ## 2025 Opnamen
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta  = Watch}
 
@@ -148,7 +149,8 @@ Welkom bij de opnamen van Marketo en Mochas. Gebruikend deze middelen die met de
 
 ## 2024 Opnamen
 
-<!-- CARDS
+<!-- 
+CARDS
 
 * 2024/ask-me-anything.md
 * 2024/attribution-dashboard-recording.md
@@ -351,7 +353,8 @@ Welkom bij de opnamen van Marketo en Mochas. Gebruikend deze middelen die met de
 
 ## 2023 Opnamen
 
-<!-- CARDS
+<!-- 
+CARDS
 
 * 2023/attribution.md
 * 2023/deliverability-part-one.md

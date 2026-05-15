@@ -12,10 +12,10 @@ type: Event
 user-guide-description: AEM GEM-sessies
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: f0179cfd595c2d1ced94c230141428430ed9abfb
+source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
 workflow-type: tm+mt
-source-wordcount: '923'
-ht-degree: 0%
+source-wordcount: '949'
+ht-degree: 1%
 
 ---
 
@@ -34,7 +34,8 @@ De webinars worden regelmatig uitgevoerd.  Belangrijke tips,
 
 ## 2025
 
-<!-- CARDS
+<!-- 
+CARDS
 
 * gems2025/mastering-cache-efficiency-for-optimal-page-performance.md
 * gems2025/maximize-impact-with-sites-optimizer.md
@@ -94,7 +95,8 @@ De webinars worden regelmatig uitgevoerd.  Belangrijke tips,
 
 ## 2024
 
-<!-- CARDS
+<!-- 
+CARDS
 * gems2024/aem-authoring-and-edge-delivery.md
 * gems2024/content-management-apis.md
 * gems2024/edge-delivery-for-aem-assets.md
@@ -296,11 +298,11 @@ De webinars worden regelmatig uitgevoerd.  Belangrijke tips,
 
 ## Blijf op de hoogte
 
-Wil je weten wanneer de volgende AEM GEM&#39;s zullen zijn?  Registreer met [&#x200B; Adobe AEM Gebruikersgroep &#x200B;](https://aem-augs.adobe.com/) om op de hoogte te worden gebracht.
+Wil je weten wanneer de volgende AEM GEM&#39;s zullen zijn?  Registreer met [ Adobe AEM Gebruikersgroep ](https://aem-augs.adobe.com/) om op de hoogte te worden gebracht.
 
 ## Doorgaan met discussie
 
-Onze [&#x200B; Gemeenschap van Experience Manager &#x200B;](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community?profile.language=nl) is waar u met andere ontwikkelaars kunt verbinden en de besprekingen van AEM gaande houden.  U kunt met edelen en de werknemers van Adobe voor begeleiding en beste praktijken van implementatie aan het uitbreiden van productgebruik voorzien.  Ontvang snel antwoorden op je vragen en geef Adobe je productideeën en waardevolle feedback.
+Onze [ Gemeenschap van Experience Manager ](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community) is waar u met andere ontwikkelaars kunt verbinden en de besprekingen van AEM gaande houden.  U kunt met edelen en de werknemers van Adobe voor begeleiding en beste praktijken van implementatie aan het uitbreiden van productgebruik voorzien.  Ontvang snel antwoorden op je vragen en geef Adobe je productideeën en waardevolle feedback.
 
 <!--  ## Upcoming AEM GEMs webinar - AEM Sites: Master the Content Management APIs
 
@@ -330,7 +332,7 @@ If interested to join, please register [**here**](https://adobe.ly/4g6TYck).
 
 Our latest AEM GEMs webinar on **Unlocking the Power of AEM Sites - Master the Content Management APIs** has been conducted on *October 9th, 2024*.
 The **recording** can be viewed here:
-[Unlocking the Power of AEM Sites - Master the Content Management APIs](* https://experienceleague.adobe.com/nl/docs/events/experience-manager-gems-recordings/gems2024/content-management-apis.md)
+[Unlocking the Power of AEM Sites - Master the Content Management APIs](* https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/content-management-apis.md)
 
 >[!NOTE]
 >
@@ -349,7 +351,7 @@ The webinars will be conducted regularly, including the following:
 
 ## Experience League Community
 
-Our [Experience Manager Community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community?profile.language=nl) play a critical role in supporting product adoption and customer success.
+Our [Experience Manager Community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community) play a critical role in supporting product adoption and customer success.
 
 * Connection: Network with peers and Adobe personnel for guidance and best practices from implementation to expanding product use
 * Quick Answers: Extensive pool of real-world use case answers to support successful active use of Adobe solutions

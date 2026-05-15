@@ -4,9 +4,9 @@ description: Een verzameling sessieopnamen van Adobe Developers Live
 solution: Experience Cloud, Experience Manager
 exl-id: bb103c45-18c7-4ace-8ebe-bb99f8eb6a88
 duration: 156
-source-git-commit: 76b4e64093ebad269534b65c41c4bda1a6bb468f
+source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
 workflow-type: tm+mt
-source-wordcount: '724'
+source-wordcount: '744'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,12 @@ Adobe Developers Live brengt Adobe-ontwikkelaars en -ontwikkelaars met verschill
 
 Adobe-productteams in Adobe Experience Cloud, Document Cloud en Creative Cloud zullen de nieuwste technologische ontwikkelingen en ontwikkelaarshulpmiddelen presenteren die het ontwerp, de workflows voor het maken van inhoud, documentservices en het beheer van klantervaringen in alle industrieën mogelijk maken.
 
-**[Register &#x200B;](https://developer.adobe.com/developers-live/)** voor toekomstige gebeurtenissen.
+**[Register ](https://developer.adobe.com/developers-live/)** voor toekomstige gebeurtenissen.
 
-## Adobe Developers Live 2025: Opbouw van het web van agentschappen
+## Adobe Developers Live 2025 : Het web van de agentschappen opbouwen
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta = Watch}
 
@@ -94,7 +95,7 @@ Adobe-productteams in Adobe Experience Cloud, Document Cloud en Creative Cloud z
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/ai-in-projects.md" title="AI in Adobe-projecten - Praktische artikelen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477631/?captions=dut&format=jpeg&nocache=1765499677692" alt="AI in Adobe-projecten - Praktische artikelen"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477606/?format=jpeg&nocache=1765499677692" alt="AI in Adobe-projecten - Praktische artikelen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -163,7 +164,7 @@ Adobe-productteams in Adobe Experience Cloud, Document Cloud en Creative Cloud z
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/app-builder-extensions.md" title="Innovaties voor ontwikkeling van AI Commerce" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477687/?captions=dut&format=jpeg&nocache=1765499677619" alt="Innovaties voor ontwikkeling van AI Commerce"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477672/?format=jpeg&nocache=1765499677619" alt="Innovaties voor ontwikkeling van AI Commerce"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -186,7 +187,7 @@ Adobe-productteams in Adobe Experience Cloud, Document Cloud en Creative Cloud z
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/ai-content-discovery.md" title="AI Content Discovery met Adobe Experience Manager" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477746/?captions=dut&format=jpeg&nocache=1765499677611" alt="AI Content Discovery met Adobe Experience Manager"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477673/?format=jpeg&nocache=1765499677611" alt="AI Content Discovery met Adobe Experience Manager"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -209,7 +210,7 @@ Adobe-productteams in Adobe Experience Cloud, Document Cloud en Creative Cloud z
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/content-ai.md" title="Inhoud AI in Adobe Experience Manager" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477825/?captions=dut&format=jpeg&nocache=1765499677634" alt="Inhoud AI in Adobe Experience Manager"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477729/?format=jpeg&nocache=1765499677634" alt="Inhoud AI in Adobe Experience Manager"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -278,7 +279,7 @@ Adobe-productteams in Adobe Experience Cloud, Document Cloud en Creative Cloud z
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/aem-agents.md" title="Adobe Experience Manager-agents verkennen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477666/?captions=dut&format=jpeg&nocache=1765499677627" alt="Adobe Experience Manager-agents verkennen"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477620/?format=jpeg&nocache=1765499677627" alt="Adobe Experience Manager-agents verkennen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -301,7 +302,7 @@ Adobe-productteams in Adobe Experience Cloud, Document Cloud en Creative Cloud z
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/code-optimization.md" title="Code optimaliseren met AEM Sites Optimizer" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477723/?captions=dut&format=jpeg&nocache=1765499677637" alt="Code optimaliseren met AEM Sites Optimizer"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477676/?format=jpeg&nocache=1765499677637" alt="Code optimaliseren met AEM Sites Optimizer"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -324,7 +325,7 @@ Adobe-productteams in Adobe Experience Cloud, Document Cloud en Creative Cloud z
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/modernize-experiences.md" title="Ervaringen migreren en moderniseren met Adobe Experience Manager for User Engagement en AI-native detectie" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477792/?captions=dut&format=jpeg&nocache=1765499677675" alt="Ervaringen migreren en moderniseren met Adobe Experience Manager for User Engagement en AI-native detectie"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477717/?format=jpeg&nocache=1765499677675" alt="Ervaringen migreren en moderniseren met Adobe Experience Manager for User Engagement en AI-native detectie"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

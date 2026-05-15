@@ -3,9 +3,9 @@ title: Wakken met Workfront
 description: De Wake Up met Workfront-reeks toont projectbeheer en best practices voor workflows voor alle vaardigheidsniveaus, met activeerbare strategieën, live demonstraties van Workfront-sleutelfuncties en een afsluitende Q&A-sessie.
 duration: 15
 exl-id: f03214e9-1ab8-429d-bac5-f2fcef209bd1
-source-git-commit: 0f08a5e73b4c8842b2639d89552a69b06b7a6788
+source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
 workflow-type: tm+mt
-source-wordcount: '362'
+source-wordcount: '364'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,8 @@ ht-degree: 0%
 De Wake Up met Workfront-reeks markeert best practices voor projectbeheer en workflow voor klanten van alle skillsets, waarbij de nadruk ligt op activeerbare strategieën om de samenwerking te verbeteren en de efficiëntie te verhogen. Sessies omvatten live demonstraties van belangrijke functies in Workfront, zodat deelnemers weten hoe ze de besproken concepten binnen hun eigen omgeving kunnen toepassen. Elke gebeurtenis wordt ook afgesloten met een live Vragen en antwoorden-sessie.
 
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta  = Watch event}
 

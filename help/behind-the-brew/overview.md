@@ -3,10 +3,10 @@ title: Achter het brein
 description: Achter de Brew, de metgezelreeks aan Commerce & Coffee, is ontworpen voor technisch georiënteerde klanten die achter-end beste praktijken, integratie, en geavanceerde functionaliteit willen beheersen om hun ervaringen van de eCommerce te verbeteren.
 duration: 15
 exl-id: 30dd8695-7fd9-430b-87b6-05f82b6e9732
-source-git-commit: f5d96e8aefd0e0b3b9a27e7e2ace6a09c6b1478b
+source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
 workflow-type: tm+mt
-source-wordcount: '287'
-ht-degree: 4%
+source-wordcount: '289'
+ht-degree: 0%
 
 ---
 
@@ -14,7 +14,8 @@ ht-degree: 4%
 
 Achter de Brew ligt een gezellige reeks voor Commerce &amp; Coffee. Het wordt ontworpen voor klanten met een technische achtergrond die over &quot;back-end beste praktijken, integratie, en geavanceerde functionaliteit kijkt te leren die zij kunnen aanpassen om de ervaringen van de eCommerce van hun bedrijf te verbeteren.
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta  = Watch event}
 

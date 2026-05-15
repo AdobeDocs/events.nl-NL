@@ -3,9 +3,9 @@ title: Adobe Commerce Webinars
 description: De Adobe Commerce Webinars is een maandelijks seminar voor Adobe Commerce-klanten dat een breed scala aan onderwerpen bestrijkt, variërend van best practices tot productroutekaart en trends in de branche.
 exl-id: 829502f9-3b2a-426c-a06c-7edcde000c72
 duration: 66
-source-git-commit: 8bcf45a53f15844f4aa101e0267b63dff0858ac8
+source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
 workflow-type: tm+mt
-source-wordcount: '758'
+source-wordcount: '764'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,8 @@ De Adobe Commerce Webinars is een maandelijks seminar voor Adobe Commerce-klante
 
 ## 2024 Gebeurtenissen
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta = Watch}
 

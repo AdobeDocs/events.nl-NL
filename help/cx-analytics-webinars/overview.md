@@ -1,7 +1,8 @@
 ---
 title: CX Analytics On-demand webinars
-description: Ontdek CX Analytics-video's op aanvraag met productreleases, functies-updates, integratie van Adobe-oplossingen, online webinars en succesverhalen voor klanten en partners in de praktijk om expertise op te bouwen en up-to-date te blijven met de nieuwste CX Analytics-innovaties.
-source-git-commit: cb5b307d248b0f972db897b699d6bcc82bfab0bc
+description: Ontdek op verzoek CX Analytics-video's met productreleases, functies-updates, integratie van Adobe-oplossingen, online webinars en succesverhalen voor klanten en partners in de praktijk om expertise op te bouwen en up-to-date te blijven met de nieuwste CX Analytics-innovaties.
+exl-id: daaa107c-522b-4d57-88b8-b2242ebad043
+source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 0%
@@ -10,9 +11,10 @@ ht-degree: 0%
 
 # CX Analytics On-demand webinars {#cx-analytics-ondemand-webinars}
 
-Ontdek een gekrulde bibliotheek met CX Analytics-video&#39;s, waaronder product- en functiereleases, betere artikelen in Adobe-oplossingen, webinars aan de slag en succesverhalen van partners en klanten. Bekijk op verzoek om uw analytische expertise te verscherpen en op de hoogte te blijven van de nieuwste innovaties in de CX Analytics-portfolio, met regelmatig nieuwe inhoud.
+Ontdek een gekrulde bibliotheek met CX Analytics-video&#39;s, inclusief product- en functiereleases, betere artikelen in Adobe-oplossingen, aan de slag met webinars en succesverhalen van partners en klanten. Bekijk op verzoek om uw analytische expertise te verscherpen en op de hoogte te blijven van de nieuwste innovaties in het CX Analytics-portfolio, met regelmatig nieuwe inhoud.
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta  = Watch event}
 
@@ -46,4 +48,3 @@ Ontdek een gekrulde bibliotheek met CX Analytics-video&#39;s, waaronder product-
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
-
