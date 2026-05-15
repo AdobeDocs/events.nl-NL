@@ -4,13 +4,13 @@ description: Door het toenemende gegevensvolume is het voor bedrijven zeer lasti
 solution: Real-Time Customer Data Platform
 feature: Data Governance
 topic: Security
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Beginner, Intermediate, Experienced
 kt: 10632
 thumbnail: 344311.jpeg
 exl-id: e35c6cc7-7831-4a62-9feb-9315a2bff18b
 duration: 3818
-source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
+source-git-commit: f31943fd1575309c29d091c26c92be9fb1f310d4
 workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Stroomlijnen van uw eerste module voor gegevensbeheer
 
-Door het toenemende gegevensvolume is het voor bedrijven zeer lastig om op efficiënte wijze digitale interactiegegevens vast te leggen en deze naar de juiste marketingkanalen te sturen. De veroudering van cookies van derden door browsers vergroot de complexiteit en vereist dat bedrijven oplossingen aan de serverzijde zoeken om gegevens naar partners te blijven verzenden. In dit webinar delen de Adobe&#39;s Gabriel Jaquier, Jeff Chasin en Jon Viray strategieën om deze uitdagingen aan te gaan door gebruik te maken van Real-Time CDP Connections.
+Door het toenemende gegevensvolume is het voor bedrijven zeer lastig om op efficiënte wijze digitale interactiegegevens vast te leggen en deze naar de juiste marketingkanalen te sturen. De veroudering van cookies van derden door browsers vergroot de complexiteit en vereist dat bedrijven oplossingen aan de serverzijde zoeken om gegevens naar partners te blijven verzenden. In dit webinar delen Adobe Gabriel Jaquier, Jeff Chasin en Jon Viray strategieën om deze uitdagingen aan te gaan door gebruik te maken van Real-Time CDP Connections.
 
 >[!VIDEO](https://video.tv.adobe.com/v/344311/?quality=12&learn=on)
 

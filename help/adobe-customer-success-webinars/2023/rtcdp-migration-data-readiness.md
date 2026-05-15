@@ -4,7 +4,7 @@ description: Leer de strategie achter organisatorische paraatheid vanuit het oog
 solution: Real-Time Customer Data Platform
 feature: Data Governance, Identities
 topic: Personalization, Artificial Intelligence
-role: Admin, Architect, Data Architect, Data Engineer, Developer
+role: Admin, Developer
 level: Intermediate
 doc-type: Event
 last-substantial-update: 2023-11-15T00:00:00Z
@@ -12,7 +12,7 @@ jira: KT-14386
 thumbnail: 3425603.jpeg
 exl-id: 9d2ff27d-4ab3-4963-8e0c-dd452483f0bc
 duration: 2234
-source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
+source-git-commit: f31943fd1575309c29d091c26c92be9fb1f310d4
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 0%
@@ -27,4 +27,4 @@ Leer de strategie achter organisatorische paraatheid vanuit het perspectief van 
 * Leer hoe u zich als organisatie kunt richten op gevallen van zakelijk gebruik
 * Belangrijke bronnen en acties voor CDP-gereedheid in real-time
 
->[!VIDEO](https://video.tv.adobe.com/v/3457069/?captions=dut&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3425603/?learn=on)

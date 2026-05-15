@@ -4,14 +4,14 @@ description: Dit webinar zal helpen de kansen voor gegevenssamenwerking in de to
 solution: Real-Time Customer Data Platform
 feature: Data Management
 topic: Security
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Beginner, Intermediate, Experienced
 type: Event
 thumbnail: 337665.jpg
 kt: 9145
 exl-id: 633f2927-d6e0-4370-96c6-36d1f612d5ba
 duration: 2560
-source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
+source-git-commit: f31943fd1575309c29d091c26c92be9fb1f310d4
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Data Collaboration in de context First-party Data
 
-De beloften nakomen, met toegang tot minder gegevens. Of u nu adverteerder, uitgever of agent bent, deze webinar zal u helpen de mogelijkheden voor samenwerking in de toekomst zonder cookies van derden te ontsluiten.
+De beloften nakomen, met toegang tot minder gegevens. Of u nu adverteerder, uitgever of uitgever bent, deze webinar zal u helpen de mogelijkheden voor gegevenssamenwerking in de toekomst te ontsluiten zonder cookies van derden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337665/?quality=12&learn=on)
 
@@ -32,8 +32,8 @@ De beloften nakomen, met toegang tot minder gegevens. Of u nu adverteerder, uitg
 
 ## Aanvullende informatie
 
-[Overzicht van afstemming van segment](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/segment-match.html?lang=nl-NL)
+[Overzicht van afstemming van segment](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/segment-match.html?lang=en)
 
-[Audience Marketplace for Data Buyers](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-marketplace/audience-marketplace-for-data-buyers/marketplace-data-buyers.html?lang=nl-NL)
+[Audience Marketplace for Data Buyers](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-marketplace/audience-marketplace-for-data-buyers/marketplace-data-buyers.html?lang=en)
 
-[Bestemmingen op basis van personen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html?lang=nl-NL)
+[Bestemmingen op basis van personen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html?lang=en)

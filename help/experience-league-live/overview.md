@@ -3,12 +3,12 @@ title: Experience League LIVE-gebeurtenissen
 description: Een verzameling koppelingen naar vorige Experience League LIVE-gebeurtenissen
 solution: Experience Platform,Real-Time Customer Data Platform,Journey Optimizer,Experience Manager,Target,Audience Manager,Analytics
 feature: Use Cases
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 85c30a3089b44ab1067f602d01de6d8d2a1efce4
+source-git-commit: f31943fd1575309c29d091c26c92be9fb1f310d4
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 0%
@@ -79,5 +79,5 @@ Experience League LIVE is een live streaming show die wordt gemaakt door het Exp
 
 >[!TIP]
 >
->Voor extra methodes om te leren, controleer onze vrije [&#x200B; cursussen &#x200B;](https://experienceleague.adobe.com/nl#dashboard/learning) evenals individuele [&#x200B; leerprogramma&#39;s &#x200B;](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=nl-NL).
+>Voor extra methodes om te leren, controleer onze vrije [ cursussen ](https://experienceleague.adobe.com/#dashboard/learning) evenals individuele [ leerprogramma&#39;s ](https://experienceleague.adobe.com/docs/home-tutorials.html).
 
