@@ -30,7 +30,7 @@ In dit webinar deelden Adobe-teamleden samen met vier huidige Adobe Champions ee
 
 **Extra Middelen** 
 
-* [ ben voor het 2026-2027 Programma van Adobe Champion ](https://event.adobe.com/2026-2027championprogramhub?cgen=7JJ162CW&mv=other) van toepassing 
-* [ bezoek de pagina van het Programma van Adobe Champion op de Liga van de Ervaring van Adobe ](https://experienceleague.adobe.com/en/champions?cgen=X2PHHJ1W&mv=other) 
+* [&#x200B; ben voor het 2026-2027 Programma van Adobe Champion &#x200B;](https://event.adobe.com/2026-2027championprogramhub?cgen=7JJ162CW&mv=other) van toepassing 
+* [&#x200B; bezoek de pagina van het Programma van Adobe Champion op de Liga van de Ervaring van Adobe &#x200B;](https://experienceleague.adobe.com/en/champions?cgen=X2PHHJ1W&mv=other) 
 * [Bekijk de bijdragen van Champions over het perspectief van de Adobe Experience League](https://experienceleague.adobe.com/en/perspectives)
 
