@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 906af81ca9bfea0d33221278bd41136ecad48069
+source-git-commit: c59b43a7869d32b106f30bf25818c825cfa33166
 workflow-type: tm+mt
-source-wordcount: '371'
+source-wordcount: '380'
 ht-degree: 0%
 
 ---
@@ -21,12 +21,13 @@ ht-degree: 0%
 
 + [Overzicht](overview.md)
 + Episodes {#episodes}
+   + [Reizen op efficiënte wijze testen, simuleren en valideren voordat ze live gaan](episodes/exl-live-episode-06-17-26.md)
    + [Nieuwe gebruiksscenario&#39;s voor betrokkenheid van klanten: iOS Live-activiteiten, Web Push en Persistent Messaging](episodes/exl-live-episode-04-08-26.md)
    + [Ga naar de Know Campaign Orchestration in Adobe Journey Optimizer](episodes/exl-live-episode-03-12-26.md)
    + [Adobe Experience Platform Agents voor verbeterde marketingefficiëntie en betere bedrijfsresultaten](episodes/exl-live-episode-03-03-26.md)
-   + [Medewerkers op het werk: publiek en reizen maken en activeren](episodes/exl-live-episode-01-28-26.md)
+   + [Medewerkers: Stimulering en activering van soorten publiek en reizen](episodes/exl-live-episode-01-28-26.md)
    + [Vereenvoudig het oplossen van problemen en steun gevallenbeheer met de Agent van de Steun van het Product](episodes/exl-live-episode-12-16-25.md)
-   + [Het volgende tijdperk van experimenten: Hoe AI door middel van een &#39;Smooter Testen en Groei&#39; wordt bevorderd](episodes/exl-live-episode-10-30-25.md)
+   + [Het volgende experiment: Hoe AI de Slimme Testen en Groei van de Toestrijd van de Agent](episodes/exl-live-episode-10-30-25.md)
    + [Adobe Experience Platform Agent Orchestrator](episodes/exl-live-episode-10-22-25.md)
    + [De kracht van Customer Journey Analytics B2B edition ontgrendelen](episodes/exl-live-episode-10-16-25.md)
    + [Vergroot uw mobiele bereik met RCS en WhatsApp in Journey Optimizer](episodes/exl-live-episode-09-30-25.md)
