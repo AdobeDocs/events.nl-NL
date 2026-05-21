@@ -3,9 +3,9 @@ user-guide-title: Workfront Events
 breadcrumb-title: Workfront Events
 user-guide-description: Workfront Events
 solution: Workfront
-source-git-commit: 008061527b5d34bc29fe9a79554f4cbeadcfaea6
+source-git-commit: 36763fd27b11d53a7f6cf82e9967109773471776
 workflow-type: tm+mt
-source-wordcount: '551'
+source-wordcount: '555'
 ht-degree: 0%
 
 ---
@@ -88,6 +88,7 @@ ht-degree: 0%
       + [Workfront Boards ontgrendelen](workshop-rewind/workflow/unlock-boards.md)
       + [De kracht van Workfront Data Connect ontgrendelen](workshop-rewind/workflow/data-connect.md)
       + [Workfront gebruiken voor effectieve reorganisaties](workshop-rewind/workflow/effective-reorgs.md)
+      + [Workfront Admin - 10 lessen](workshop-rewind/workflow/workfront-admin-10-lessons.md)
       + [Native integratie voor Workfront en AEM](workshop-rewind/workflow/aem-native-integration.md)
       + [Workfront-rapportage - jaareindstrategieën](workshop-rewind/workflow/reporting-year-end-strategies.md)
 + Snel neemt {#quicktakes}
