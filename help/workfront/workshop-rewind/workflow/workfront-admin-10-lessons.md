@@ -24,7 +24,7 @@ Bekijk de opname op aanvraag om van haar praktijkervaring te leren, praktische l
 
 >[!VIDEO](https://video.tv.adobe.com/v/3491410/?learn=on&enablevpops)
 
-Op zoek naar meer bronnen die tijdens de gebeurtenis werden gedeeld? Controle uit de [ Communautaire post van Experience League ](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-inside-the-workfront-admin-role-10-lessons-from-my-first-two-years-may-21-2026-250661?fid=23&tid=250661) en zorg ervoor om referentie het Perspectief [ Groei door Workfront: Echte admin lessen ](https://experienceleague.adobe.com/en/perspectives/growing-through-workfront-real-admin-lessons)!
+Op zoek naar meer bronnen die tijdens de gebeurtenis werden gedeeld? Controle uit de [&#x200B; Communautaire post van Experience League &#x200B;](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-inside-the-workfront-admin-role-10-lessons-from-my-first-two-years-may-21-2026-250661?fid=23&tid=250661) en zorg ervoor om referentie het Perspectief [&#x200B; Groei door Workfront: Echte admin lessen &#x200B;](https://experienceleague.adobe.com/en/perspectives/growing-through-workfront-real-admin-lessons)!
 
-De nieuwe gebeurtenissen worden toegevoegd elke maand, zodat herzie de [ pagina van de Gebeurtenissen van Experience League ](https://experienceleague.adobe.com/en/events?lang=en) voor de recentste zittingen.
+De nieuwe gebeurtenissen worden toegevoegd elke maand, zodat herzie de [&#x200B; pagina van de Gebeurtenissen van Experience League &#x200B;](https://experienceleague.adobe.com/en/events?lang=en) voor de recentste zittingen.
 
