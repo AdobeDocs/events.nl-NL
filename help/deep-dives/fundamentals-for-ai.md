@@ -31,7 +31,7 @@ Deze sessie richt zich niet op de AI-functies zelf, maar richt zich op wat er in
 
 ## Doelpubliek
 
-* **Professionals van de Gebruikers van Marketo van 0} {die reeds Marketo gebruiken die hun instantie voor AI-aangedreven mogelijkheden willen voorbereiden.**
+* **Professionals van de Gebruikers van Marketo van 0&rbrace; &lbrace;die reeds Marketo gebruiken die hun instantie voor AI-aangedreven mogelijkheden willen voorbereiden.**
 * **de Beroeps van de Verrichtingen van de Marketing** MOPs teams verantwoordelijk voor instantiearchitectuur, gegevenskwaliteit, en operationele normen.
 * **de Beheerders van Marketo** die malplaatjes, tokens, kanalen, omslagstructuren, en algemeen instantiebeheer beheren.
 * **AI/de Organisaties van de Goedkeuring van de Automatisering** die maximumwaarde van de nieuwe eigenschappen van AI van Marketo proberen te krijgen door de juiste stichting eerst te bouwen.
