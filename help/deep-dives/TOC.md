@@ -10,9 +10,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: a242376e1d74f6405183a1e3e75ba6a991946886
+source-git-commit: a7585dae52e0499645518c31bba406d8dee45323
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '106'
 ht-degree: 1%
 
 ---
@@ -25,12 +25,12 @@ ht-degree: 1%
    + [Admin Console-migratie](admin-console.md)
    + [API&#39;s](api.md)
    + [AI toepassen in Marketo](applying-ai.md)
-   + [Slimme stromen met Webhooks &amp; Zelfbediening Stappen van de Stroom](building-smarter-flows.md)
    + [Campagne automatiseren en stroomlijnen met de Marketo API](campaign-operations.md)
    + [Certificering](certification.md)
    + [Ontdek de nieuwe e-mail Designer in Marketo Engage](email-designer.md)
    + [E-mailcursus](email-nurture.md)
    + [Uitvoerbare campagnes](executable-campaigns.md)
+   + [Grondbeginselen voor AI](fundamentals-for-ai.md)
    + [IMS-migratie onverpakt](ims-migration.md)
    + [Een instantie overnemen](inheriting-an-instance.md)
    + [Loodlevenscycli](lead-lifecycles.md)
@@ -40,5 +40,6 @@ ht-degree: 1%
    + [Maximaliseer uw exemplaar met een klein team](small-team-instance.md)
    + [Opmerken van complexe processen in het activiteitenlog](activity-log.md)
    + [Salesforce-achtergrondsynchrone upgrade en gebruiksbewaking](salesforce-background-sync.md)
+   + [Slimme stromen met Webhooks &amp; Zelfbediening Stappen van de Stroom](building-smarter-flows.md)
    + [Wereldwijde marketing ontgrendelen](global-marketing.md)
    + [Webhaken gebruiken om gegevens over te dragen](webhooks.md)
