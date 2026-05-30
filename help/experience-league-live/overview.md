@@ -8,7 +8,7 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 0019e73fe9b953bab04261b1a1361ef2bc1eeb58
+source-git-commit: 7f3035c2cb1e7c7fbd3ff17854dc9121e041849b
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 0%
@@ -26,7 +26,7 @@ Experience League LIVE is een live streaming show die wordt gemaakt door het Exp
 <table>
 <tr>
     <td style="vertical-align: top;"><a href="episodes/exl-live-episode-06-17-26.md">
-      <img alt="Experience League LIVE apr 21" src="episodes/assets/exl-live-june-17-2026-webbanner.jpg">
+      <img alt="Experience League LIVE 17 juni" src="episodes/assets/exl-live-june-17-2026-webbanner.jpg">
     </a>
     <div>
       <a href="episodes/exl-live-episode-06-17-26.md">
@@ -38,15 +38,15 @@ Experience League LIVE is een live streaming show die wordt gemaakt door het Exp
   </td>
 </tr>
 <tr>
-    <td style="vertical-align: top;"><a href="episodes/exl-live-episode-06-17-26.md">
-      <img alt="Experience League LIVE apr 21" src="episodes/assets/exl-live-june-17-2026-webbanner.jpg">
+    <td style="vertical-align: top;"><a href="episodes/exl-live-episode-06-24-26.md">
+      <img alt="Experience League LIVE 24 juni" src="episodes/assets/webbanner-june-24-2026.png">
     </a>
     <div>
-      <a href="episodes/exl-live-episode-06-17-26.md">
-        <strong> om reizen efficiënt te testen, te simuleren en te bevestigen alvorens levend te gaan </strong>
+      <a href="episodes/exl-live-episode-06-24-26.md">
+        <strong> hoe te hefboomwerkingDoel MCP en andere belangrijke nieuwe versies in Adobe Target </strong>
       </a>
-      <br/><em> met Sandra Hausmann, Ariel Sultan, en Nicolas Dufau </em>
-      <br/><em> 17 Juni, 2026 </em>
+      <br/><em> met Daniel Wright, James Torio, en Drew Burns </em>
+      <br/><em> 24 Juni, 2026 </em>
     </div>
   </td>
 </tr>
@@ -101,5 +101,5 @@ Experience League LIVE is een live streaming show die wordt gemaakt door het Exp
 
 >[!TIP]
 >
->Voor extra methodes om te leren, controleer onze vrije [&#x200B; cursussen &#x200B;](https://experienceleague.adobe.com/nl#dashboard/learning) evenals individuele [&#x200B; leerprogramma&#39;s &#x200B;](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=nl-NL).
+>Voor extra methodes om te leren, controleer onze vrije [ cursussen ](https://experienceleague.adobe.com/#dashboard/learning) evenals individuele [ leerprogramma&#39;s ](https://experienceleague.adobe.com/docs/home-tutorials.html).
 
