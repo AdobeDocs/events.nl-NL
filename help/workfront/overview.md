@@ -53,11 +53,11 @@ CARDS
 
 ## Workshop terugspoelen
 
-Juni is gearriveerd en zo heeft de recentste uitgave van [ de Wire van Workfront ](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/the-workfront-wire-june-2026-your-go-to-source-for-news-updates-events-250880?tid=250880)! Deze nieuwsbrief is uw one-stop-shop voor het recentste nieuws, updates, gebeurtenissen, en alles die over de wereld van Workfront gebeuren.
+Juni is gearriveerd en zo heeft de recentste uitgave van [&#x200B; de Wire van Workfront &#x200B;](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/the-workfront-wire-june-2026-your-go-to-source-for-news-updates-events-250880?tid=250880)! Deze nieuwsbrief is uw one-stop-shop voor het recentste nieuws, updates, gebeurtenissen, en alles die over de wereld van Workfront gebeuren.
 
 Op zoek naar meer? Ontdek de nieuwste informatie van je Adobe Workfront-community via onze gekrulde selectie van gebeurtenissen op aanvraag. Gebruik het linkernavigatiemenu om onderwerpen onder de Terugspoeling van de Workshop te doorbladeren, waar de zittingen door Fusion, Planning, en Workflow worden gegroepeerd om u te helpen snel inhoud vinden die aan uw behoeften wordt aangepast.
 
-En zorg ervoor dat u deelneemt aan aanstaande live gebeurtenissen om vragen te stellen, inzichten te delen en met anderen samen te werken. Bezoek de [ pagina van de Gebeurtenissen van Workfront van Experience League ](https://experienceleague.adobe.com/en/events?filters=Workfront) regelmatig om te zien wat volgende omhoog komt!
+En zorg ervoor dat u deelneemt aan aanstaande live gebeurtenissen om vragen te stellen, inzichten te delen en met anderen samen te werken. Bezoek de [&#x200B; pagina van de Gebeurtenissen van Workfront van Experience League &#x200B;](https://experienceleague.adobe.com/en/events?filters=Workfront) regelmatig om te zien wat volgende omhoog komt!
 
 <!-- 
 CARDS 
