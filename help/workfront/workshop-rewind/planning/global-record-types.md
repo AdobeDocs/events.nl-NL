@@ -7,13 +7,13 @@ doc-type: Event
 duration: 3378
 last-substantial-update: 2026-06-02T00:00:00Z
 jira: KT-21434
-source-git-commit: ba77e7ad6a08fd33a6ef336bc0f40bbb6300d350
+exl-id: 69bc7e07-60e2-4c32-9e8d-e5c3c78b65a8
+source-git-commit: 168e08b888ba6f610da50394d78575878fc8ac8b
 workflow-type: tm+mt
 source-wordcount: '157'
 ht-degree: 0%
 
 ---
-
 
 # Workfront die de Globale Types van Verslag verklaren - wanneer, waarom, en hoe te om hen te gebruiken
 
@@ -21,7 +21,6 @@ Sluit u aan bij Senior Product Manager, Lilit Mkrtchyan voor deze diepe duik in 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3491591/?learn=on&enablevpops)
 
-Op zoek naar meer bronnen die tijdens de gebeurtenis werden gedeeld? Controle uit de [ Communautaire post van Experience League ] (https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-workfront-planning-global-record-types-explained-when-why-and-how-to-use-them-may-28-2026-250827!
+Op zoek naar meer bronnen die tijdens de gebeurtenis werden gedeeld? Controle uit de [ Communautaire post van Experience League ](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-workfront-planning-global-record-types-explained-when-why-and-how-to-use-them-may-28-2026-250827)!
 
-De nieuwe gebeurtenissen worden toegevoegd elke maand, zodat herzie de [&#x200B; pagina van de Gebeurtenissen van Experience League &#x200B;](https://experienceleague.adobe.com/nl/events?lang=en) voor de recentste zittingen.
-
+De nieuwe gebeurtenissen worden toegevoegd elke maand, zodat herzie de [ pagina van de Gebeurtenissen van Experience League ](https://experienceleague.adobe.com/en/events?lang=en) voor de recentste zittingen.
