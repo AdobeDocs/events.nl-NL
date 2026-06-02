@@ -3,9 +3,9 @@ title: Adobe Workfront Workshops op aanvraag
 description: Workfront Events is een videobibliotheek waar experts en collega's hun gedachten en ideeën hebben gedeeld over hoe ze Workfront kunnen gebruiken om het werk dat voor hun organisaties wordt gedaan, te verbeteren.
 exl-id: bf38329c-65f1-48f0-b106-8b7d226aa894
 duration: 39
-source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
+source-git-commit: ba77e7ad6a08fd33a6ef336bc0f40bbb6300d350
 workflow-type: tm+mt
-source-wordcount: '949'
+source-wordcount: '911'
 ht-degree: 0%
 
 ---
@@ -53,11 +53,11 @@ CARDS
 
 ## Workshop terugspoelen
 
-De maand mei markeert het begin van het graduatieseizoen, een tijd voor nieuwe perspectieven en het leren van mensen die er al eerder waren. Om vier te vieren, benadrukken we een selectie van sessies met gekruiste Adobe Workfront-klanten die praktische adviezen, praktijkervaringen en inzichten delen die u meteen kunt toepassen. In de afgelopen maand gebruikte video&#39;s vindt u een combinatie van gloednieuwe inhoud en opmaaksessies uit het verleden die vandaag even relevant blijven.
+Juni is gearriveerd en zo heeft de recentste uitgave van [ de Wire van Workfront ](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/the-workfront-wire-june-2026-your-go-to-source-for-news-updates-events-250880?tid=250880)! Deze nieuwsbrief is uw one-stop-shop voor het recentste nieuws, updates, gebeurtenissen, en alles die over de wereld van Workfront gebeuren.
 
 Op zoek naar meer? Ontdek de nieuwste informatie van je Adobe Workfront-community via onze gekrulde selectie van gebeurtenissen op aanvraag. Gebruik het linkernavigatiemenu om onderwerpen onder de Terugspoeling van de Workshop te doorbladeren, waar de zittingen door Fusion, Planning, en Workflow worden gegroepeerd om u te helpen snel inhoud vinden die aan uw behoeften wordt aangepast.
 
-En zorg ervoor dat u deelneemt aan aanstaande live gebeurtenissen om vragen te stellen, inzichten te delen en met anderen samen te werken. Bezoek de [&#x200B; pagina van de Gebeurtenissen van Workfront van Experience League &#x200B;](https://experienceleague.adobe.com/nl/events?filters=Workfront) regelmatig om te zien wat volgende omhoog komt!
+En zorg ervoor dat u deelneemt aan aanstaande live gebeurtenissen om vragen te stellen, inzichten te delen en met anderen samen te werken. Bezoek de [ pagina van de Gebeurtenissen van Workfront van Experience League ](https://experienceleague.adobe.com/en/events?filters=Workfront) regelmatig om te zien wat volgende omhoog komt!
 
 <!-- 
 CARDS 
@@ -165,7 +165,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="quick-takes/top3/office-hours.md" title="Top 3 benaderingen voor kantooruren" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470148/?captions=dut&format=jpeg&nocache=1778106659577" alt="Top 3 benaderingen voor kantooruren"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470053/?format=jpeg&nocache=1778106659577" alt="Top 3 benaderingen voor kantooruren"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -231,7 +231,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/content-supply-chain.md" title="Expert Insights - Content Supply chain met Corre Kombol" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470000/?captions=dut&format=jpeg&nocache=1778106659855" alt="Expert Insights - Content Supply chain met Corre Kombol"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469899/?format=jpeg&nocache=1778106659855" alt="Expert Insights - Content Supply chain met Corre Kombol"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
