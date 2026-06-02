@@ -21,6 +21,6 @@ Sluit u aan bij Senior Product Manager, Lilit Mkrtchyan voor deze diepe duik in 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3491591/?learn=on&enablevpops)
 
-Op zoek naar meer bronnen die tijdens de gebeurtenis werden gedeeld? Controle uit de [&#x200B; Communautaire post van Experience League &#x200B;](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-workfront-planning-global-record-types-explained-when-why-and-how-to-use-them-may-28-2026-250827)!
+Op zoek naar meer bronnen die tijdens de gebeurtenis werden gedeeld? Controle uit de [&#x200B; Communautaire post van Experience League &#x200B;](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-workfront-planning-global-record-types-explained-when-why-and-how-to-use-them-may-28-2026-250827?profile.language=nl)!
 
-De nieuwe gebeurtenissen worden toegevoegd elke maand, zodat herzie de [&#x200B; pagina van de Gebeurtenissen van Experience League &#x200B;](https://experienceleague.adobe.com/en/events?lang=en) voor de recentste zittingen.
+De nieuwe gebeurtenissen worden toegevoegd elke maand, zodat herzie de [&#x200B; pagina van de Gebeurtenissen van Experience League &#x200B;](https://experienceleague.adobe.com/nl/events?lang=en) voor de recentste zittingen.
