@@ -19,6 +19,6 @@ ht-degree: 0%
 
 Test en valideer uw reizen voor de introductie en leer hoe u dit verder kunt doen met de gloednieuwe Journey Simulation.
 
-[![ ExL LIVE Juni 17 2026 ](assets/exl-live-june-17-2026-webbanner.jpg) ](https://engage.adobe.com/ExpLeagueLive-260617.html){target="_blank"}
+[![&#x200B; ExL LIVE Juni 17 2026 &#x200B;](assets/exl-live-june-17-2026-webbanner.jpg) &#x200B;](https://engage.adobe.com/ExpLeagueLive-260617.html){target="_blank"}
 
 [REGISTER NU!](https://engage.adobe.com/ExpLeagueLive-260617.html){target="_blank"}
