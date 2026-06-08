@@ -2,9 +2,9 @@
 user-guide-title: Adobe Customer Success Webinars
 breadcrumb-title: Adobe Customer Success Webinars
 user-guide-description: Adobe Customer Success geleide webinars die zijn ontworpen om u te helpen uw investering in Adobe Experience Cloud te optimaliseren. Vergroot waardevolle inzichten om de waarde te maximaliseren en de acceptatie van Adobe-oplossingen te vergroten.
-source-git-commit: 6e906d6414d8e745c23fc144325430f2bbc996ac
+source-git-commit: e23d3b95b7551d025f912f9a299dd11decc29407
 workflow-type: tm+mt
-source-wordcount: '666'
+source-wordcount: '679'
 ht-degree: 4%
 
 ---
@@ -18,6 +18,7 @@ ht-degree: 4%
       + [BRD-SDR. Bestanden maken voor Customer Journey Analytics](2026/brd-sdr-file-best-practices.md)
       + [Identiteit ontgrendelen](2026/unlock-identities.md)
    + Experience Manager {#aem2026}
+      + [AEM transformeren met AI-agents en -assistenten](2026/transform-aem-with-ai-agents-and-assistants.md)
       + [Authoring in Edge Delivery Services](2026/authoring-eds.md)
       + [Inhoud maximaliseren - Toevoerketens](2026/value-with-content-supply-chain.md)
       + [Moderne leveringsmodellen voor AEM Sites](2026/modern-delivery-model-aem.md)
@@ -25,6 +26,7 @@ ht-degree: 4%
    + Experience Platform {#aep2026}
       + [Ingesloten inlichtingenverschuiving](2026/embedded-intelligence.md)
    + Algemeen {#general2026}
+      + [Ontgrendel de kracht van agentische AI](2026/unlock-the-power-of-agentic-ai.md)
       + [AI-strategieën voor succes van vakantie](2026/2025-holiday-results.md)
       + [Supply chain-beheerstrategieën voor wijzigingen in inhoud](2026/csc-change-management.md)
       + [Content Supply chain Executive Sponsorship](2026/csc-executive-sponsorship.md)
