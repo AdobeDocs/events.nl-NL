@@ -30,4 +30,4 @@ Mis deze kans niet om de nieuwste ontwikkelingen op het gebied van agentische op
 
 [Stel een YouTube-herinnering in.](https://engage.adobe.com/ExpLeagueLive-260624.html){target="_blank"}
 
-[![ ExL LIVE Juni 24 2026 ](/help/experience-league-live/episodes/assets/webbanner-june-24-2026.png) ](https://engage.adobe.com/ExpLeagueLive-260624.html){target="_blank"}
+[![&#x200B; ExL LIVE Juni 24 2026 &#x200B;](/help/experience-league-live/episodes/assets/webbanner-june-24-2026.png) &#x200B;](https://engage.adobe.com/ExpLeagueLive-260624.html){target="_blank"}
