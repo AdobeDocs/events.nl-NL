@@ -6,16 +6,17 @@ solution: Target
 event-cta-url-live: https://www.youtube.com/watch?v=P71hcKEazY0
 event-start-time: 2026-06-24 08:30-8
 event-guests: Daniel Wright, Drew Burns, James Torio
-source-git-commit: 83ba57e9aa2026437bae583a0db42b61fd05a23e
+exl-id: 1e99a025-d052-4cd6-96c8-0fd4b9a7ae7b
+source-git-commit: 4a81b87743847ed72b725a43cfb7979daec1dd5d
 workflow-type: tm+mt
-source-wordcount: '220'
+source-wordcount: '250'
 ht-degree: 0%
 
 ---
 
 # Hoe te hefboomwerking Target MCP en andere belangrijke nieuwe versies in Adobe Target
 
-Meld u aan bij deze Experience League LIVE-episode, waar onze experts zullen laten zien hoe Adobe Target een Target MCP biedt voor het analyseren van programmainzichten en het bouwen en bewerken van activiteiten met behulp van een agent en extra nieuwe functies voor het schalen van optimalisatie.
+Sluit u aan bij ons voor de volgende Experience League LIVE, waar onze experts u door de nieuwste Adobe Target-innovaties laten lopen als we een nieuw tijdperk ingaan. Wij introduceren het nieuwe Doel MCP, met inbegrip van wat het is, hoe te om tot het toegang te hebben, en hoe het werkt om programmainzichten te analyseren en activiteiten met een agent te bouwen en uit te geven. We delen ook demo&#39;s met aanvullende nieuwe functies en verbeteringen die zijn ontworpen om u te helpen de optimalisatie te schalen.
 
 In deze sessie leert u hoe u:
 
@@ -27,7 +28,6 @@ In deze sessie leert u hoe u:
 
 Mis deze kans niet om de nieuwste ontwikkelingen op het gebied van agentische optimalisatie te bekijken en uw vragen live te laten beantwoorden door onze experts.
 
-
-[![&#x200B; ExL LIVE Juni 24 2026 &#x200B;](/help/experience-league-live/episodes/assets/webbanner-june-24-2026.png) &#x200B;](https://www.youtube.com/watch?v=P71hcKEazY0){target="_blank"}
-
 [Stel een YouTube-herinnering in.](https://www.youtube.com/watch?v=P71hcKEazY0){target="_blank"}
+
+[![ ExL LIVE Juni 24 2026 ](/help/experience-league-live/episodes/assets/webbanner-june-24-2026.png) ](https://www.youtube.com/watch?v=P71hcKEazY0){target="_blank"}
