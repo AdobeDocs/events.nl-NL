@@ -23,6 +23,6 @@ Bovendien hebben ze nieuwe lokalisatieverbeteringen geïntroduceerd waarmee team
 
 >[!VIDEO](https://video.tv.adobe.com/v/3492142/?learn=on&enablevpops)
 
-Op zoek naar meer? Teken aan onze [&#x200B; Geavanceerde Reeks Experience League van de Gebeurtenis van de Verrichtingen van de Onderneming &#x200B;](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-series-advanced-enterprise-operations-capabilities-250546) toe om berichten automatisch te ontvangen aangezien de nieuwe zittingen, registratiekoppelingen, opnamen, en de middelen worden toegevoegd!
+Op zoek naar meer? Teken aan onze [&#x200B; Geavanceerde Reeks Experience League van de Gebeurtenis van de Verrichtingen van de Onderneming &#x200B;](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-series-advanced-enterprise-operations-capabilities-250546?profile.language=nl) toe om berichten automatisch te ontvangen aangezien de nieuwe zittingen, registratiekoppelingen, opnamen, en de middelen worden toegevoegd!
 
-De nieuwe gebeurtenissen worden toegevoegd elke maand, zodat zorg ervoor om de [&#x200B; pagina van de Gebeurtenissen van Experience League &#x200B;](https://experienceleague.adobe.com/en/events?lang=en) voor de recentste zittingen uit te checken.
+De nieuwe gebeurtenissen worden toegevoegd elke maand, zodat zorg ervoor om de [&#x200B; pagina van de Gebeurtenissen van Experience League &#x200B;](https://experienceleague.adobe.com/nl/events?lang=en) voor de recentste zittingen uit te checken.
