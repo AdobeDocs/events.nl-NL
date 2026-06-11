@@ -7,20 +7,22 @@ doc-type: Event
 duration: 2705
 last-substantial-update: 2026-06-10T00:00:00Z
 jira: KT-21577
-source-git-commit: 3ba1c8a76e6929f47b3a72683e7bde0ba45a01b2
+exl-id: b569d371-2041-4545-9767-c9930f260d2c
+source-git-commit: b16ae773326e84a3bc80b0b81dd5869220727e1f
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '186'
 ht-degree: 0%
 
 ---
 
-
 # Maak slimmere, wereldwijd schalen - Aangepaste Forms en lokalisatie in Workfront
 
-In de tweede sessie van onze Advanced Enterprise Operations (AEO) Capabilities Event Series, verkende onze Adobe Product Managers, Khachatur Sedrakyan en Kristine Tumanyan vier nieuwe geavanceerde logische typen, weergave, bewerkbaarheid, voorwaardelijke opmaak en standaardwaarden, die een dynamischere, geautomatiseerde en data-accurate manier van innemen mogelijk maken, alsmede nieuwe lokalisatieverbeteringen die teams in staat stellen aangepaste vertalingen toe te voegen voor door gebruikers ingevoerde labels.
+In de tweede sessie van de Advanced Enterprise Operations (AEO) Capabilities Event Series hebben onze Adobe Product Managers, Khachatur Sedrakyan en Kristine Tumanyan vier nieuwe geavanceerde logische typen, weergave, bewerkbaarheid, voorwaardelijke opmaak en standaardwaarden verkend, die een meer dynamische, geautomatiseerde en data-accurate opname mogelijk maken.
+
+Bovendien hebben ze nieuwe lokalisatieverbeteringen geïntroduceerd waarmee teams aangepaste vertalingen kunnen toevoegen voor door gebruikers ingevoerde labels, waardoor internationale organisaties in Workfront consistentere, toegankelijkere en regionaal uitgelijnde ervaringen kunnen creëren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3492142/?learn=on&enablevpops)
 
-Op zoek naar meer? Teken aan onze [&#x200B; Geavanceerde Reeks Experience League van de Gebeurtenis van de Verrichtingen van de Onderneming &#x200B;](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-series-advanced-enterprise-operations-capabilities-250546?profile.language=nl) toe om berichten automatisch te ontvangen aangezien de nieuwe zittingen, registratiekoppelingen, opnamen, en de middelen worden toegevoegd!
+Op zoek naar meer? Teken aan onze [ Geavanceerde Reeks Experience League van de Gebeurtenis van de Verrichtingen van de Onderneming ](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-series-advanced-enterprise-operations-capabilities-250546) toe om berichten automatisch te ontvangen aangezien de nieuwe zittingen, registratiekoppelingen, opnamen, en de middelen worden toegevoegd!
 
-De nieuwe gebeurtenissen worden toegevoegd elke maand, zodat zorg ervoor om de [&#x200B; pagina van de Gebeurtenissen van Experience League &#x200B;](https://experienceleague.adobe.com/nl/events?lang=en) voor de recentste zittingen uit te checken.
+De nieuwe gebeurtenissen worden toegevoegd elke maand, zodat zorg ervoor om de [ pagina van de Gebeurtenissen van Experience League ](https://experienceleague.adobe.com/en/events?lang=en) voor de recentste zittingen uit te checken.
